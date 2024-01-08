@@ -1,0 +1,15 @@
+##################################################################################
+#         Calls workflow from code repo
+##################################################################################
+name: Deploy - Firebase
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  web_preview:
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-deploy-web-preview.yml@master
+    secrets: inherit
+
