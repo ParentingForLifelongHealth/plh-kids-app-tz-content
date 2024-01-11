@@ -1,0 +1,378 @@
+{
+  "flow_name": "topic_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "welcome",
+      "number": 1,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Introduction",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Introduction"
+        },
+        "lower_case_title": {
+          "eng": "introduction"
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.welcome.title** @global.topic"
+        },
+        "description": {
+          "eng": "Description of @data.topic.welcome.title"
+        },
+        "tools_title": {
+          "eng": "How to introduction"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "introduction",
+      "in_text_title": "**@data.topic.welcome.title** @global.topic",
+      "description": "Description of @data.topic.welcome.title",
+      "tools_title": "How to introduction",
+      "warm_up_title": "Warm-up",
+      "completed_field": "task_welcome_completed",
+      "completed": "@fields.task_welcome_completed",
+      "skipped_field": "task_welcome_skipped"
+    },
+    {
+      "id": "connect",
+      "number": 2,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Connect",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {},
+        "child_title": {},
+        "child_intro_text": {},
+        "reading_title": {},
+        "self_title": {},
+        "self_intro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Connect"
+        },
+        "lower_case_title": {
+          "eng": "connect"
+        },
+        "description": {
+          "eng": "There are so many pressures of daily life. Parenting is indeed a juggling act. But it's always important to take a pause and connect. Connect with your child and connect with yourself."
+        },
+        "child_title": {
+          "eng": "Time with your child"
+        },
+        "child_intro_text": {
+          "eng": "Follow your child’s lead. Join in with your child’s world."
+        },
+        "reading_title": {
+          "eng": "Connect through shared reading"
+        },
+        "self_title": {
+          "eng": "Time with yourself"
+        },
+        "self_intro_text": {
+          "eng": "Being a parent means caring for your children AND for yourself."
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.connect.title** @global.topic"
+        },
+        "tools_title": {
+          "eng": "How to connect"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "connect",
+      "in_text_title": "**@data.topic.connect.title** @global.topic",
+      "description": "There are so many pressures of daily life. Parenting is indeed a juggling act. But it's always important to take a pause and connect. Connect with your child and connect with yourself.",
+      "tools_title": "How to connect",
+      "warm_up_title": "Warm-up",
+      "child_title": "Time with your child",
+      "child_intro_text": "Follow your child’s lead. Join in with your child’s world.",
+      "reading_title": "Connect through shared reading",
+      "self_title": "Time with yourself",
+      "self_intro_text": "Being a parent means caring for your children AND for yourself.",
+      "completed_field": "task_connect_completed",
+      "completed": "@fields.task_connect_completed",
+      "skipped_field": "task_connect_skipped"
+    },
+    {
+      "id": "play",
+      "number": 3,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Play",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {},
+        "child_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Play"
+        },
+        "lower_case_title": {
+          "eng": "play"
+        },
+        "child_title": {
+          "eng": "Play with your child"
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.play.title** @global.topic"
+        },
+        "description": {
+          "eng": "Description of @data.topic.play.title"
+        },
+        "tools_title": {
+          "eng": "How to play"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "play",
+      "in_text_title": "**@data.topic.play.title** @global.topic",
+      "description": "Description of @data.topic.play.title",
+      "tools_title": "How to play",
+      "warm_up_title": "Warm-up",
+      "child_title": "Play with your child",
+      "completed_field": "task_play_completed",
+      "completed": "@fields.task_play_completed",
+      "skipped_field": "task_play_skipped"
+    },
+    {
+      "id": "talk",
+      "number": 4,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Talk",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {},
+        "child_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Talk"
+        },
+        "lower_case_title": {
+          "eng": "talk"
+        },
+        "child_title": {
+          "eng": "Talk to your child"
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.talk.title** @global.topic"
+        },
+        "description": {
+          "eng": "Description of @data.topic.talk.title"
+        },
+        "tools_title": {
+          "eng": "How to talk"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "talk",
+      "in_text_title": "**@data.topic.talk.title** @global.topic",
+      "description": "Description of @data.topic.talk.title",
+      "tools_title": "How to talk",
+      "warm_up_title": "Warm-up",
+      "child_title": "Talk to your child",
+      "completed_field": "task_talk_completed",
+      "completed": "@fields.task_talk_completed",
+      "skipped_field": "task_talk_skipped"
+    },
+    {
+      "id": "explore",
+      "number": 5,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Explore",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Explore"
+        },
+        "lower_case_title": {
+          "eng": "explore"
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.explore.title** @global.topic"
+        },
+        "description": {
+          "eng": "Description of @data.topic.explore.title"
+        },
+        "tools_title": {
+          "eng": "How to explore"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "explore",
+      "in_text_title": "**@data.topic.explore.title** @global.topic",
+      "description": "Description of @data.topic.explore.title",
+      "tools_title": "How to explore",
+      "warm_up_title": "Warm-up",
+      "completed_field": "task_explore_completed",
+      "completed": "@fields.task_explore_completed",
+      "skipped_field": "task_explore_skipped"
+    },
+    {
+      "id": "create",
+      "number": 6,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Create",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Create"
+        },
+        "lower_case_title": {
+          "eng": "create"
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.create.title** @global.topic"
+        },
+        "description": {
+          "eng": "Description of @data.topic.create.title"
+        },
+        "tools_title": {
+          "eng": "How to create"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "create",
+      "in_text_title": "**@data.topic.create.title** @global.topic",
+      "description": "Description of @data.topic.create.title",
+      "tools_title": "How to create",
+      "warm_up_title": "Warm-up",
+      "completed_field": "task_create_completed",
+      "completed": "@fields.task_create_completed",
+      "skipped_field": "task_create_skipped"
+    },
+    {
+      "id": "build",
+      "number": 7,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Build",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Build"
+        },
+        "lower_case_title": {
+          "eng": "build"
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.build.title** @global.topic"
+        },
+        "description": {
+          "eng": "Description of @data.topic.build.title"
+        },
+        "tools_title": {
+          "eng": "How to build"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "build",
+      "in_text_title": "**@data.topic.build.title** @global.topic",
+      "description": "Description of @data.topic.build.title",
+      "tools_title": "How to build",
+      "warm_up_title": "Warm-up",
+      "completed_field": "task_build_completed",
+      "completed": "@fields.task_build_completed",
+      "skipped_field": "task_build_skipped"
+    },
+    {
+      "id": "summary",
+      "number": 8,
+      "image_asset": "images/topics/wave.svg",
+      "title": "Summary",
+      "_translations": {
+        "title": {},
+        "lower_case_title": {},
+        "in_text_title": {},
+        "description": {},
+        "tools_title": {},
+        "warm_up_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Summary"
+        },
+        "lower_case_title": {
+          "eng": "summary"
+        },
+        "in_text_title": {
+          "eng": "**@data.topic.summary.title** @global.topic"
+        },
+        "description": {
+          "eng": "Description of @data.topic.summary.title"
+        },
+        "tools_title": {
+          "eng": "How to summary"
+        },
+        "warm_up_title": {
+          "eng": "Warm-up"
+        }
+      },
+      "lower_case_title": "summary",
+      "in_text_title": "**@data.topic.summary.title** @global.topic",
+      "description": "Description of @data.topic.summary.title",
+      "tools_title": "How to summary",
+      "warm_up_title": "Warm-up",
+      "completed_field": "task_summary_completed",
+      "completed": "@fields.task_summary_completed",
+      "skipped_field": "task_summary_skipped"
+    }
+  ]
+}

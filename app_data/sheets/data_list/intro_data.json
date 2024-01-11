@@ -1,0 +1,31 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "intro_data",
+  "status": "released",
+  "data_list_name": "intro",
+  "rows": [
+    {
+      "id": "connect",
+      "title": "Connection",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "audio_transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Connection"
+        },
+        "intro_text": {
+          "eng": "Connection plays an important role in our relationships, health and wellbeing. This includes how we connect with our children, our families, and communities, but also: how we connect with ourselves."
+        },
+        "audio_transcript": {
+          "eng": "Connection is important. Yet often when life gets busy or if we feel overwhelmed, the idea of taking a pause and connecting just feels like too much effort! When our children are being demanding and difficult, or if we are feeling stressed, it can be really challenging to find the time and energy to connect - with our children and with ourselves."
+        }
+      },
+      "intro_text": "Connection plays an important role in our relationships, health and wellbeing. This includes how we connect with our children, our families, and communities, but also: how we connect with ourselves.",
+      "audio_transcript": "Connection is important. Yet often when life gets busy or if we feel overwhelmed, the idea of taking a pause and connecting just feels like too much effort! When our children are being demanding and difficult, or if we are feeling stressed, it can be really challenging to find the time and energy to connect - with our children and with ourselves."
+    }
+  ],
+  "_xlsxPath": "data/topic_data/activity_data.xlsx"
+}

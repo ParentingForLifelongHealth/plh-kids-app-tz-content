@@ -1,0 +1,35 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "library_data",
+  "status": "released",
+  "data_list_name": "library",
+  "rows": [
+    {
+      "id": "picture_books",
+      "show": true,
+      "title": "Picture Books",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Picture Books"
+        }
+      }
+    },
+    {
+      "id": "relax_activities",
+      "show": true,
+      "title": "Relaxation Activities",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relaxation Activities"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/library_data/library_data.xlsx"
+}

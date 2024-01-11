@@ -1,0 +1,100 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "learn_data",
+  "status": "released",
+  "data_list_name": "learn",
+  "rows": [
+    {
+      "id": "connect_child",
+      "title": "Time with your Child",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "audio_transcript": {},
+        "outro_title": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Time with your Child"
+        },
+        "intro_text": {
+          "eng": "We want to create for our children: a time and space for them to feel seen, important, in control.\n\nA great way to make your child feel seen, valued, important, is making time to join them in their world, and to let them take the lead during one-on-one time"
+        },
+        "audio_transcript": {
+          "eng": "We all spend time doing things with our children, but connecting with them is not always easy. We face many distractions, concerns, and challenges that make it difficult to connect with our children. In addition - our children might do or say things that we find frustrating and draining. Many parents feel this way!\n\nWe have something you can try. And the best thing about this is - you don’t need a lot of time - even 10 minutes a day makes a big difference. \n\nIt’s something that can:\n*   help your child feel seen and important\n*   help you to connect and relax with your child\n\nIt can even be a chance for you to step away from what causes you stress, to take a moment to pause and play.\n\nToday we shall learn more about one-on-one time. It is especially helpful when your child is being difficult / having a hard time. This is a great strategy for when your child is struggling or when you or your child are having a difficult time. Often when our children are struggling or being difficult, we actually don’t want to spend time with them. But struggling on the outside is a sign that our children are struggling on the inside. And if any of us are struggling on the inside, it helps to get more love and attention. If your child is struggling – more one on one time in this way can be like medicine, even if it sometimes feel harder for you to do."
+        },
+        "outro_title": {
+          "eng": "Goal Reminder"
+        },
+        "outro_text": {
+          "eng": "Today’s main goal is to learn how we can build positive relationships with our children through following their lead during one-on-one time."
+        }
+      },
+      "intro_text": "We want to create for our children: a time and space for them to feel seen, important, in control.\n\nA great way to make your child feel seen, valued, important, is making time to join them in their world, and to let them take the lead during one-on-one time",
+      "audio_transcript": "We all spend time doing things with our children, but connecting with them is not always easy. We face many distractions, concerns, and challenges that make it difficult to connect with our children. In addition - our children might do or say things that we find frustrating and draining. Many parents feel this way!\n\nWe have something you can try. And the best thing about this is - you don’t need a lot of time - even 10 minutes a day makes a big difference. \n\nIt’s something that can:\n*   help your child feel seen and important\n*   help you to connect and relax with your child\n\nIt can even be a chance for you to step away from what causes you stress, to take a moment to pause and play.\n\nToday we shall learn more about one-on-one time. It is especially helpful when your child is being difficult / having a hard time. This is a great strategy for when your child is struggling or when you or your child are having a difficult time. Often when our children are struggling or being difficult, we actually don’t want to spend time with them. But struggling on the outside is a sign that our children are struggling on the inside. And if any of us are struggling on the inside, it helps to get more love and attention. If your child is struggling – more one on one time in this way can be like medicine, even if it sometimes feel harder for you to do.",
+      "outro_title": "Goal Reminder",
+      "outro_text": "Today’s main goal is to learn how we can build positive relationships with our children through following their lead during one-on-one time."
+    },
+    {
+      "id": "connect_reading",
+      "title": "Shared Reading",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "audio_transcript": {},
+        "outro_title": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Shared Reading"
+        },
+        "intro_text": {
+          "eng": "To draft"
+        },
+        "audio_transcript": {
+          "eng": "To draft"
+        },
+        "outro_title": {
+          "eng": "Goal Reminder"
+        },
+        "outro_text": {
+          "eng": "You can  use books to spend one-on-one time with your child. During shared reading, it can be really helpful to follow your child’s lead. \n\nThis means noticing what your child is interested in and talking about it or asking your child questions about it."
+        }
+      },
+      "intro_text": "To draft",
+      "audio_transcript": "To draft",
+      "outro_title": "Goal Reminder",
+      "outro_text": "You can  use books to spend one-on-one time with your child. During shared reading, it can be really helpful to follow your child’s lead. \n\nThis means noticing what your child is interested in and talking about it or asking your child questions about it."
+    },
+    {
+      "id": "connect_self",
+      "title": "Time with yourself",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "outro_title": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Time with yourself"
+        },
+        "intro_text": {
+          "eng": "Take care of yourself and make sure you have the support YOU need. That will make it possible for you to support your child/family in a meaningful way."
+        },
+        "outro_title": {
+          "eng": "Goal Reminder"
+        },
+        "outro_text": {
+          "eng": "While making time for your child is important, so is making sure you have time for yourself and that you take care of yourself too."
+        }
+      },
+      "intro_text": "Take care of yourself and make sure you have the support YOU need. That will make it possible for you to support your child/family in a meaningful way.",
+      "outro_title": "Goal Reminder",
+      "outro_text": "While making time for your child is important, so is making sure you have time for yourself and that you take care of yourself too."
+    }
+  ],
+  "_xlsxPath": "data/topic_data/activity_data.xlsx"
+}

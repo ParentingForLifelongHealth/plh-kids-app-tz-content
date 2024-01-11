@@ -1,0 +1,84 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "practise_data",
+  "status": "released",
+  "data_list_name": "practise",
+  "rows": [
+    {
+      "id": "connect_child",
+      "task_1_data": "quiz",
+      "task_1_id": "practise_quiz_child",
+      "title": "Time with your Child (Practice)",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "audio_transcript": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Time with your Child (Practice)"
+        },
+        "intro_text": {
+          "eng": "We want to create for our children: a time and space for them to feel seen, important, in control.\n\nA great way to make your child feel seen, valued, important, is making time to join them in their world, and to let them take the lead during one-on-one time"
+        },
+        "audio_transcript": {
+          "eng": "Remember, One on One time is not about keeping track of a child’s behaviour to make sure they are behaving properly. \nIt’s not about teaching them to do something or educating them.\nIt is a way to bond, connect, and have a positive experience with your child.\nIt is a way for you to escape your world and join your child in their world."
+        },
+        "outro_text": {
+          "eng": "Well done. You can try this with your child at home. (direct them to where they can find the steps in the library?) Feel free to reach out to us to let us know how it went - what worked and what you found challenging. We would love to hear from you."
+        }
+      },
+      "intro_text": "We want to create for our children: a time and space for them to feel seen, important, in control.\n\nA great way to make your child feel seen, valued, important, is making time to join them in their world, and to let them take the lead during one-on-one time",
+      "audio_transcript": "Remember, One on One time is not about keeping track of a child’s behaviour to make sure they are behaving properly. \nIt’s not about teaching them to do something or educating them.\nIt is a way to bond, connect, and have a positive experience with your child.\nIt is a way for you to escape your world and join your child in their world.",
+      "outro_text": "Well done. You can try this with your child at home. (direct them to where they can find the steps in the library?) Feel free to reach out to us to let us know how it went - what worked and what you found challenging. We would love to hear from you."
+    },
+    {
+      "id": "connect_reading",
+      "title": "Shared Reading (Practice)",
+      "_translations": {
+        "title": {},
+        "intro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Shared Reading (Practice)"
+        },
+        "intro_text": {
+          "eng": "Insert Text"
+        }
+      },
+      "intro_text": "Insert Text"
+    },
+    {
+      "id": "connect_self",
+      "task_1_data": "quiz",
+      "task_1_id": "practise_quiz_self",
+      "title": "Time with yourself (Practice)",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "audio_transcript": {},
+        "outro_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Time with yourself (Practice)"
+        },
+        "intro_text": {
+          "eng": "XXX"
+        },
+        "audio_transcript": {
+          "eng": "<?>"
+        },
+        "outro_text": {
+          "eng": "To draft"
+        }
+      },
+      "intro_text": "XXX",
+      "audio_transcript": "<?>",
+      "outro_text": "To draft"
+    }
+  ],
+  "_xlsxPath": "data/topic_data/activity_data.xlsx"
+}

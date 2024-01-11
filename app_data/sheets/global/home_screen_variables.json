@@ -1,0 +1,24 @@
+{
+  "flow_type": "global",
+  "flow_name": "home_screen_variables",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "app_name",
+      "value": "ParentApp for Kids",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "app_id",
+      "value": "idems.international.plh_kids",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_xlsxPath": "data/navigation_data/navigation_globals.xlsx"
+}

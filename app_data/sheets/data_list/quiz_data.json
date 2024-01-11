@@ -1,0 +1,448 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "quiz_data",
+  "status": "released",
+  "data_list_name": "quiz",
+  "rows": [
+    {
+      "id": "connect_child",
+      "title": "Time with your Child Quiz",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "question_text": {},
+        "option_1": {},
+        "option_2": {},
+        "option_3": {},
+        "option_4": {},
+        "option_5": {},
+        "option_6": {},
+        "feedback_1": {},
+        "feedback_2": {},
+        "feedback_3": {},
+        "feedback_4": {},
+        "feedback_5": {},
+        "feedback_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Time with your Child Quiz"
+        },
+        "intro_text": {
+          "eng": "We know that as a caregiver, there are many demands on your time."
+        },
+        "question_text": {
+          "eng": "We would love to hear from you: what stands in your way from spending time with your child?"
+        },
+        "option_1": {
+          "eng": "Stressed"
+        },
+        "option_2": {
+          "eng": "Busy/Too much to do"
+        },
+        "option_3": {
+          "eng": "My Child Annoys Me"
+        },
+        "option_4": {
+          "eng": "I don’t know what to do together"
+        },
+        "option_5": {
+          "eng": "Nothing stands in my way?"
+        },
+        "option_6": {
+          "eng": "I don’t want to answer this question"
+        },
+        "feedback_1": {
+          "eng": "Thanks for sharing. Many parents feel this way!"
+        },
+        "feedback_2": {
+          "eng": "Thanks for sharing. Many parents feel this way!"
+        },
+        "feedback_3": {
+          "eng": "Thanks for sharing. Many parents feel this way!"
+        },
+        "feedback_4": {
+          "eng": "Thanks for sharing. Many parents feel this way!"
+        },
+        "feedback_5": {
+          "eng": "XXX"
+        },
+        "feedback_6": {
+          "eng": "XXX"
+        }
+      },
+      "intro_text": "We know that as a caregiver, there are many demands on your time.",
+      "question_text": "We would love to hear from you: what stands in your way from spending time with your child?",
+      "option_1": "Stressed",
+      "option_2": "Busy/Too much to do",
+      "option_3": "My Child Annoys Me",
+      "option_4": "I don’t know what to do together",
+      "option_5": "Nothing stands in my way?",
+      "option_6": "I don’t want to answer this question",
+      "feedback_1": "Thanks for sharing. Many parents feel this way!",
+      "feedback_2": "Thanks for sharing. Many parents feel this way!",
+      "feedback_3": "Thanks for sharing. Many parents feel this way!",
+      "feedback_4": "Thanks for sharing. Many parents feel this way!",
+      "feedback_5": "XXX",
+      "feedback_6": "XXX"
+    },
+    {
+      "id": "time_child_lead",
+      "title": "Story Time Quiz",
+      "_translations": {
+        "title": {},
+        "question_text": {},
+        "option_1": {},
+        "option_2": {},
+        "feedback_1": {},
+        "feedback_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Story Time Quiz"
+        },
+        "question_text": {
+          "eng": "Who is leading the play activity in this story? (response options could be a picture of the dad, or a picture of the child)."
+        },
+        "option_1": {
+          "eng": "Dad"
+        },
+        "option_2": {
+          "eng": "Child"
+        },
+        "feedback_1": {
+          "eng": "Yes, the father is choosing what to play and how to play, instead of letting his son take the lead."
+        },
+        "feedback_2": {
+          "eng": "Looking at the story, we can see that the father is actually the one who is choosing what to play and how to play."
+        }
+      },
+      "question_text": "Who is leading the play activity in this story? (response options could be a picture of the dad, or a picture of the child).",
+      "option_1": "Dad",
+      "option_2": "Child",
+      "feedback_1": "Yes, the father is choosing what to play and how to play, instead of letting his son take the lead.",
+      "feedback_2": "Looking at the story, we can see that the father is actually the one who is choosing what to play and how to play."
+    },
+    {
+      "id": "time_child_feel",
+      "question_text": "How does Lonwabo feel when his father says that he is doing it wrong?",
+      "_translations": {
+        "question_text": {},
+        "option_1": {},
+        "option_2": {},
+        "feedback_1": {},
+        "feedback_2": {}
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "How does Lonwabo feel when his father says that he is doing it wrong?"
+        },
+        "option_1": {
+          "eng": "Sad Emoji"
+        },
+        "option_2": {
+          "eng": "Happy Emoji"
+        },
+        "feedback_1": {
+          "eng": "He feels unhappy / not good enough. He might not want to play together again."
+        },
+        "feedback_2": {
+          "eng": "Looking at the story, we can see from Lonwabo’s face that he feels unhappy, and then walks away."
+        }
+      },
+      "option_1": "Sad Emoji",
+      "option_2": "Happy Emoji",
+      "feedback_1": "He feels unhappy / not good enough. He might not want to play together again.",
+      "feedback_2": "Looking at the story, we can see from Lonwabo’s face that he feels unhappy, and then walks away."
+    },
+    {
+      "id": "time_child_do",
+      "question_text": "What could the father have done differently?",
+      "_translations": {
+        "question_text": {},
+        "option_1": {},
+        "option_2": {},
+        "option_3": {}
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "What could the father have done differently?"
+        },
+        "option_1": {
+          "eng": "Let Lonwabo choose the activity"
+        },
+        "option_2": {
+          "eng": "Show interest in what Lonwabo is doing"
+        },
+        "option_3": {
+          "eng": "Praise or encourage Lonwabo instead of criticizing him"
+        }
+      },
+      "option_1": "Let Lonwabo choose the activity",
+      "option_2": "Show interest in what Lonwabo is doing",
+      "option_3": "Praise or encourage Lonwabo instead of criticizing him"
+    },
+    {
+      "id": "time_child_join",
+      "title": "Story Time Quiz",
+      "_translations": {
+        "title": {},
+        "question_text": {},
+        "option_1": {},
+        "option_2": {},
+        "feedback_1": {},
+        "feedback_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Story Time Quiz"
+        },
+        "question_text": {
+          "eng": "Who is leading the activity in this story?(response options could be a picture of the dad, or a picture of the child)."
+        },
+        "option_1": {
+          "eng": "Dad"
+        },
+        "option_2": {
+          "eng": "Child"
+        },
+        "feedback_1": {
+          "eng": "Yes, XXX"
+        },
+        "feedback_2": {
+          "eng": "Looking at the story, we can see that XXX"
+        }
+      },
+      "question_text": "Who is leading the activity in this story?(response options could be a picture of the dad, or a picture of the child).",
+      "option_1": "Dad",
+      "option_2": "Child",
+      "feedback_1": "Yes, XXX",
+      "feedback_2": "Looking at the story, we can see that XXX"
+    },
+    {
+      "id": "time_child_clear",
+      "question_text": "What is the father doing that makes this clear?",
+      "_translations": {
+        "question_text": {},
+        "option_1": {},
+        "option_2": {}
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "What is the father doing that makes this clear?"
+        },
+        "option_1": {
+          "eng": "text here"
+        },
+        "option_2": {
+          "eng": "text here"
+        }
+      },
+      "option_1": "text here",
+      "option_2": "text here"
+    },
+    {
+      "id": "time_child_interact",
+      "question_text": "How does Lonwabo feel about the way that his father is interacting with him?",
+      "_translations": {
+        "question_text": {},
+        "option_1": {},
+        "option_2": {}
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "How does Lonwabo feel about the way that his father is interacting with him?"
+        },
+        "option_1": {
+          "eng": "To draft"
+        },
+        "option_2": {
+          "eng": "To draft"
+        }
+      },
+      "option_1": "To draft",
+      "option_2": "To draft"
+    },
+    {
+      "id": "time_child_experience",
+      "question_text": "How do you think Lonwabo and his father feel after this experience?",
+      "_translations": {
+        "question_text": {},
+        "option_1": {},
+        "option_2": {}
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "How do you think Lonwabo and his father feel after this experience?"
+        },
+        "option_1": {
+          "eng": "To draft"
+        },
+        "option_2": {
+          "eng": "To draft"
+        }
+      },
+      "option_1": "To draft",
+      "option_2": "To draft"
+    },
+    {
+      "id": "practise_quiz_child",
+      "title": "Practice Time Quiz",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "question_text": {},
+        "option_1": {},
+        "option_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Practice Time Quiz"
+        },
+        "intro_text": {
+          "eng": "Let’s practice. Build your own story of how you and your child can spend time together."
+        },
+        "question_text": {
+          "eng": "You have 10 minutes to spend some time with your child. What do you do?"
+        },
+        "option_1": {
+          "eng": "Ask your child if you can spend time together. Let your child decide what they want to do."
+        },
+        "option_2": {
+          "eng": "Choose an activity for you and your child. Tell your child they should play with you."
+        }
+      },
+      "intro_text": "Let’s practice. Build your own story of how you and your child can spend time together.",
+      "question_text": "You have 10 minutes to spend some time with your child. What do you do?",
+      "option_1": "Ask your child if you can spend time together. Let your child decide what they want to do.",
+      "option_2": "Choose an activity for you and your child. Tell your child they should play with you."
+    },
+    {
+      "id": "connect_reading",
+      "title": "Shared Reading Quiz",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "question_text": {},
+        "option_1": {},
+        "option_2": {},
+        "feedback_1": {},
+        "feedback_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Shared Reading Quiz"
+        },
+        "intro_text": {
+          "eng": "Follow your child’s lead."
+        },
+        "question_text": {
+          "eng": "What are some of the ways that children will show us that they are bored, or no longer interested in an activity?"
+        },
+        "option_1": {
+          "eng": "To draft"
+        },
+        "option_2": {
+          "eng": "To draft"
+        },
+        "feedback_1": {
+          "eng": "To draft"
+        },
+        "feedback_2": {
+          "eng": "To draft"
+        }
+      },
+      "intro_text": "Follow your child’s lead.",
+      "question_text": "What are some of the ways that children will show us that they are bored, or no longer interested in an activity?",
+      "option_1": "To draft",
+      "option_2": "To draft",
+      "feedback_1": "To draft",
+      "feedback_2": "To draft"
+    },
+    {
+      "id": "connect_self",
+      "intro_text": "As a parent, making time for yourself can be really challenging. It’s often the last thing that we have time for.",
+      "_translations": {
+        "intro_text": {},
+        "question_text": {},
+        "option_1": {},
+        "option_2": {},
+        "option_3": {},
+        "option_4": {},
+        "option_5": {},
+        "feedback_1": {},
+        "feedback_2": {},
+        "feedback_3": {}
+      },
+      "_translatedFields": {
+        "intro_text": {
+          "eng": "As a parent, making time for yourself can be really challenging. It’s often the last thing that we have time for."
+        },
+        "question_text": {
+          "eng": "What stands in your way from taking time for yourself?"
+        },
+        "option_1": {
+          "eng": "My children and \nfamily always need \nsomething from me."
+        },
+        "option_2": {
+          "eng": "Busy/Too much to do"
+        },
+        "option_3": {
+          "eng": "It feels selfish to \ntake time for myself."
+        },
+        "option_4": {
+          "eng": "Nothing stands in my way"
+        },
+        "option_5": {
+          "eng": "I don’t want to answer this question"
+        },
+        "feedback_1": {
+          "eng": "Thanks for sharing, all parents sometimes feel this way"
+        },
+        "feedback_2": {
+          "eng": "Thanks for sharing, all parents sometimes feel this way"
+        },
+        "feedback_3": {
+          "eng": "Thanks for sharing, all parents sometimes feel this way"
+        }
+      },
+      "question_text": "What stands in your way from taking time for yourself?",
+      "option_1": "My children and \nfamily always need \nsomething from me.",
+      "option_2": "Busy/Too much to do",
+      "option_3": "It feels selfish to \ntake time for myself.",
+      "option_4": "Nothing stands in my way",
+      "option_5": "I don’t want to answer this question",
+      "feedback_1": "Thanks for sharing, all parents sometimes feel this way",
+      "feedback_2": "Thanks for sharing, all parents sometimes feel this way",
+      "feedback_3": "Thanks for sharing, all parents sometimes feel this way"
+    },
+    {
+      "id": "practise_quiz_self",
+      "intro_text": "Let’s practice. Build your own story of how you can spend time for yourself.",
+      "_translations": {
+        "intro_text": {},
+        "question_text": {},
+        "option_1": {},
+        "option_2": {}
+      },
+      "_translatedFields": {
+        "intro_text": {
+          "eng": "Let’s practice. Build your own story of how you can spend time for yourself."
+        },
+        "question_text": {
+          "eng": "You have 10 minutes for yourself. What do you do?"
+        },
+        "option_1": {
+          "eng": "To draft"
+        },
+        "option_2": {
+          "eng": "To draft"
+        }
+      },
+      "question_text": "You have 10 minutes for yourself. What do you do?",
+      "option_1": "To draft",
+      "option_2": "To draft"
+    }
+  ],
+  "_xlsxPath": "data/topic_data/activity_data.xlsx"
+}

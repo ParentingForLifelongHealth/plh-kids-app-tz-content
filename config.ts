@@ -6,10 +6,15 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.0.0",
+  content_tag_latest: "1.1.0",
 };
 
-config.api.db_name = "plh_kids_tz"
+
+config.google_drive.sheets_folder_ids = ["1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"];
+config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1kLl5t3o4A2ssC2iC-lT2bp4u8BZZneSE"];
+
+
+config.api.db_name = "plh_kids_tz";
 
 config.app_data.output_path = "./app_data";
 
