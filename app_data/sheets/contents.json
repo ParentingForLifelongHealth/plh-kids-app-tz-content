@@ -1,0 +1,1113 @@
+{
+  "asset_pack": {},
+  "data_list": {
+    "activity_type_data": {
+      "flow_type": "data_list",
+      "flow_name": "activity_type_data",
+      "data_list_name": "activity_type",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "language_data_list": {
+      "flow_type": "data_list",
+      "flow_name": "language_data_list",
+      "data_list_name": "language",
+      "flow_subtype": "app_config_language_list",
+      "_xlsxPath": "data/app_config/language_data_list.xlsx"
+    },
+    "app_section_data": {
+      "flow_type": "data_list",
+      "flow_name": "app_section_data",
+      "data_list_name": "app_section",
+      "_xlsxPath": "data/navigation_data/navigation_data.xlsx"
+    },
+    "build_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "build_specific_task_gs",
+      "topic_id": "build",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "build_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "build_specific_tasks",
+      "topic_id": "build",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "check_in_data": {
+      "flow_type": "data_list",
+      "flow_name": "check_in_data",
+      "data_list_name": "check_in",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "check_in_options": {
+      "flow_type": "data_list",
+      "flow_name": "check_in_options",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "common_topic_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "common_topic_task_gs",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "common_topic_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "common_topic_tasks",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "connect_articles": {
+      "flow_type": "data_list",
+      "flow_name": "connect_articles",
+      "data_list_name": "connect_articles",
+      "_xlsxPath": "data/module_data/connect.xlsx"
+    },
+    "connect_categories": {
+      "flow_type": "data_list",
+      "flow_name": "connect_categories",
+      "data_list_name": "connect_categories",
+      "_xlsxPath": "data/module_data/connect.xlsx"
+    },
+    "connect_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "connect_specific_task_gs",
+      "topic_id": "connect",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "connect_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "connect_specific_tasks",
+      "topic_id": "connect",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "create_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "create_specific_task_gs",
+      "topic_id": "create",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "create_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "create_specific_tasks",
+      "topic_id": "create",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "explore_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "explore_specific_task_gs",
+      "topic_id": "explore",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "explore_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "explore_specific_tasks",
+      "topic_id": "explore",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "build_common_task_gs": {
+      "flow_name": "build_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "build_common_tasks": {
+      "flow_name": "build_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "build_ind_task_gs": {
+      "flow_name": "build_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "build_task_gs": {
+      "flow_name": "build_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "build_task_gs_temp_1": {
+      "flow_name": "build_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "build_tasks": {
+      "flow_name": "build_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "build_tasks_temp_1": {
+      "flow_name": "build_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "build_tog_task_gs": {
+      "flow_name": "build_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_common_task_gs": {
+      "flow_name": "connect_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_common_tasks": {
+      "flow_name": "connect_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_ind_task_gs": {
+      "flow_name": "connect_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_task_gs": {
+      "flow_name": "connect_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_task_gs_temp_1": {
+      "flow_name": "connect_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_tasks": {
+      "flow_name": "connect_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_tasks_temp_1": {
+      "flow_name": "connect_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_tog_task_gs": {
+      "flow_name": "connect_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_common_task_gs": {
+      "flow_name": "create_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_common_tasks": {
+      "flow_name": "create_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_ind_task_gs": {
+      "flow_name": "create_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_task_gs": {
+      "flow_name": "create_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_task_gs_temp_1": {
+      "flow_name": "create_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_tasks": {
+      "flow_name": "create_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_tasks_temp_1": {
+      "flow_name": "create_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_tog_task_gs": {
+      "flow_name": "create_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_common_task_gs": {
+      "flow_name": "explore_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_common_tasks": {
+      "flow_name": "explore_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_ind_task_gs": {
+      "flow_name": "explore_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_task_gs": {
+      "flow_name": "explore_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_task_gs_temp_1": {
+      "flow_name": "explore_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_tasks": {
+      "flow_name": "explore_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_tasks_temp_1": {
+      "flow_name": "explore_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "explore_tog_task_gs": {
+      "flow_name": "explore_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_common_task_gs": {
+      "flow_name": "play_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_common_tasks": {
+      "flow_name": "play_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_ind_task_gs": {
+      "flow_name": "play_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_task_gs": {
+      "flow_name": "play_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_task_gs_temp_1": {
+      "flow_name": "play_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_tasks": {
+      "flow_name": "play_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_tasks_temp_1": {
+      "flow_name": "play_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_tog_task_gs": {
+      "flow_name": "play_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_common_task_gs": {
+      "flow_name": "summary_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_common_tasks": {
+      "flow_name": "summary_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_ind_task_gs": {
+      "flow_name": "summary_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_task_gs": {
+      "flow_name": "summary_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_task_gs_temp_1": {
+      "flow_name": "summary_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_tasks": {
+      "flow_name": "summary_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_tasks_temp_1": {
+      "flow_name": "summary_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "summary_tog_task_gs": {
+      "flow_name": "summary_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_common_task_gs": {
+      "flow_name": "talk_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_common_tasks": {
+      "flow_name": "talk_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_ind_task_gs": {
+      "flow_name": "talk_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_task_gs": {
+      "flow_name": "talk_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_task_gs_temp_1": {
+      "flow_name": "talk_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_tasks": {
+      "flow_name": "talk_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_tasks_temp_1": {
+      "flow_name": "talk_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "talk_tog_task_gs": {
+      "flow_name": "talk_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "topic_tasks": {
+      "flow_name": "topic_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_common_task_gs": {
+      "flow_name": "welcome_common_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_common_tasks": {
+      "flow_name": "welcome_common_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_ind_task_gs": {
+      "flow_name": "welcome_ind_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_task_gs": {
+      "flow_name": "welcome_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_task_gs_temp_1": {
+      "flow_name": "welcome_task_gs_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_tasks": {
+      "flow_name": "welcome_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_tasks_temp_1": {
+      "flow_name": "welcome_tasks_temp_1",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "welcome_tog_task_gs": {
+      "flow_name": "welcome_tog_task_gs",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "intro_data": {
+      "flow_type": "data_list",
+      "flow_name": "intro_data",
+      "data_list_name": "intro",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "learn_data": {
+      "flow_type": "data_list",
+      "flow_name": "learn_data",
+      "data_list_name": "learn",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "library_data": {
+      "flow_type": "data_list",
+      "flow_name": "library_data",
+      "data_list_name": "library",
+      "_xlsxPath": "data/library_data/library_data.xlsx"
+    },
+    "launch_actions": {
+      "flow_type": "data_list",
+      "flow_subtype": "lifecycle_actions",
+      "flow_name": "launch_actions",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "number_data": {
+      "flow_type": "data_list",
+      "flow_name": "number_data",
+      "data_list_name": "number",
+      "_xlsxPath": "data/navigation_data/navigation_data.xlsx"
+    },
+    "partners_data": {
+      "flow_type": "data_list",
+      "flow_name": "partners_data",
+      "data_list_name": "partners",
+      "_xlsxPath": "data/partners_data.xlsx"
+    },
+    "play_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "play_specific_task_gs",
+      "topic_id": "play",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "play_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "play_specific_tasks",
+      "topic_id": "play",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "practise_data": {
+      "flow_type": "data_list",
+      "flow_name": "practise_data",
+      "data_list_name": "practise",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "quiz_data": {
+      "flow_type": "data_list",
+      "flow_name": "quiz_data",
+      "data_list_name": "quiz",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "read_story_data": {
+      "flow_type": "data_list",
+      "flow_name": "read_story_data",
+      "data_list_name": "read_story",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "reflect_data": {
+      "flow_type": "data_list",
+      "flow_name": "reflect_data",
+      "data_list_name": "reflect",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "relax_data": {
+      "flow_type": "data_list",
+      "flow_name": "relax_data",
+      "data_list_name": "relax",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "subtopic_data": {
+      "flow_type": "data_list",
+      "flow_name": "subtopic_data",
+      "data_list_name": "subtopic",
+      "_xlsxPath": "data/topic_data/connect_subtopic.xlsx"
+    },
+    "summary_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "summary_specific_task_gs",
+      "topic_id": "summary",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "summary_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "summary_specific_tasks",
+      "topic_id": "summary",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "talk_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "talk_specific_task_gs",
+      "topic_id": "talk",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "talk_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "talk_specific_tasks",
+      "topic_id": "talk",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "tips_data": {
+      "flow_type": "data_list",
+      "flow_name": "tips_data",
+      "data_list_name": "tips",
+      "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "topic_connect_data": {
+      "flow_type": "data_list",
+      "flow_name": "topic_connect_data",
+      "data_list_name": "topic",
+      "_xlsxPath": "data/topic_data/topic_data.xlsx"
+    },
+    "topic_data": {
+      "flow_type": "data_list",
+      "flow_name": "topic_data",
+      "data_list_name": "topic",
+      "_xlsxPath": "data/topic_data/topic_data.xlsx"
+    },
+    "welcome_specific_task_gs": {
+      "flow_type": "data_list",
+      "flow_name": "welcome_specific_task_gs",
+      "topic_id": "welcome",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups.xlsx"
+    },
+    "welcome_specific_tasks": {
+      "flow_type": "data_list",
+      "flow_name": "welcome_specific_tasks",
+      "topic_id": "welcome",
+      "_xlsxPath": "data/topic_task_data/topic_tasks.xlsx"
+    },
+    "yes_no_options": {
+      "flow_type": "data_list",
+      "flow_name": "yes_no_options",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    }
+  },
+  "data_pipe": {
+    "common_topic_task_gs_create": {
+      "flow_type": "data_pipe",
+      "flow_name": "common_topic_task_gs_create",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups_data_pipes.xlsx"
+    },
+    "common_topic_tasks_create": {
+      "flow_type": "data_pipe",
+      "flow_name": "common_topic_tasks_create",
+      "_xlsxPath": "data/topic_task_data/topic_tasks_data_pipes.xlsx"
+    },
+    "topic_data_pipe": {
+      "flow_type": "data_pipe",
+      "flow_name": "topic_data_pipe",
+      "_xlsxPath": "data/topic_task_data/topic_data_pipes.xlsx"
+    },
+    "topic_task_gs_append": {
+      "flow_type": "data_pipe",
+      "flow_name": "topic_task_gs_append",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups_data_pipes.xlsx"
+    },
+    "topic_task_gs_concat": {
+      "flow_type": "data_pipe",
+      "flow_name": "topic_task_gs_concat",
+      "_xlsxPath": "data/topic_task_data/topic_task_groups_data_pipes.xlsx"
+    },
+    "topic_tasks_append": {
+      "flow_type": "data_pipe",
+      "flow_name": "topic_tasks_append",
+      "_xlsxPath": "data/topic_task_data/topic_tasks_data_pipes.xlsx"
+    },
+    "topic_tasks_concat": {
+      "flow_type": "data_pipe",
+      "flow_name": "topic_tasks_concat",
+      "_xlsxPath": "data/topic_task_data/topic_tasks_data_pipes.xlsx"
+    }
+  },
+  "generator": {
+    "gen_module_overview": {
+      "flow_type": "generator",
+      "flow_name": "gen_module_overview",
+      "parameter_list": {
+        "input_data_list": "topic_data",
+        "output_flow_name": "module_overview_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/module_navigation.xlsx"
+    }
+  },
+  "global": {
+    "app_menu_globals": {
+      "flow_type": "global",
+      "flow_name": "app_menu_globals",
+      "_xlsxPath": "data/navigation_data/app_menu_globals.xlsx"
+    },
+    "button_texts": {
+      "flow_type": "global",
+      "flow_name": "button_texts",
+      "_xlsxPath": "data/navigation_data/navigation_globals.xlsx"
+    },
+    "data_warnings": {
+      "flow_type": "global",
+      "flow_name": "data_warnings",
+      "_xlsxPath": "data/navigation_data/app_menu_globals.xlsx"
+    },
+    "home_screen_variables": {
+      "flow_type": "global",
+      "flow_name": "home_screen_variables",
+      "_xlsxPath": "data/navigation_data/navigation_globals.xlsx"
+    },
+    "localisation_options": {
+      "flow_type": "global",
+      "flow_name": "localisation_options",
+      "_xlsxPath": "data/localisation_globals.xlsx"
+    },
+    "localised_names": {
+      "flow_type": "global",
+      "flow_name": "localised_names",
+      "_xlsxPath": "data/localisation_globals.xlsx"
+    },
+    "names_of_characters": {
+      "flow_type": "global",
+      "flow_name": "names_of_characters",
+      "_xlsxPath": "data/localisation_globals.xlsx"
+    },
+    "topic_modes": {
+      "flow_type": "global",
+      "flow_name": "topic_modes",
+      "_xlsxPath": "data/topic_task_data/topic_globals.xlsx"
+    },
+    "topic_options": {
+      "flow_type": "global",
+      "flow_name": "topic_options",
+      "_xlsxPath": "data/topic_task_data/topic_globals.xlsx"
+    },
+    "topic_variables_mod": {
+      "flow_type": "global",
+      "flow_name": "topic_variables_mod",
+      "override_target": "topic_variables",
+      "override_condition": "@fields._app_skin == \"modular\"",
+      "_xlsxPath": "data/navigation_globals_modular.xlsx"
+    }
+  },
+  "template": {
+    "app_about": {
+      "flow_type": "template",
+      "flow_name": "app_about",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "app_launch_calculations": {
+      "flow_type": "template",
+      "flow_name": "app_launch_calculations",
+      "process_on_start": 1,
+      "_xlsxPath": "templates/timing_calculations.xlsx"
+    },
+    "app_menu": {
+      "flow_type": "template",
+      "flow_name": "app_menu",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "app_update_complete": {
+      "flow_type": "template",
+      "flow_name": "app_update_complete",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "article": {
+      "flow_type": "template",
+      "flow_name": "article",
+      "_xlsxPath": "templates/article_kids.xlsx"
+    },
+    "banner": {
+      "flow_type": "template",
+      "flow_name": "banner",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "box_audio": {
+      "flow_type": "template",
+      "flow_name": "box_audio",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_buttons": {
+      "flow_type": "template",
+      "flow_name": "box_buttons",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_check_in": {
+      "flow_type": "template",
+      "flow_name": "box_check_in",
+      "type_id": "check_in",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_combo_box": {
+      "flow_type": "template",
+      "flow_name": "box_combo_box",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_duo_combo_box": {
+      "flow_type": "template",
+      "flow_name": "box_duo_combo_box",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_duo_radio_buttons": {
+      "flow_type": "template",
+      "flow_name": "box_duo_radio_buttons",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_ending": {
+      "flow_type": "template",
+      "flow_name": "box_ending",
+      "type_id": "ending",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_home_practice": {
+      "flow_type": "template",
+      "flow_name": "box_home_practice",
+      "type_id": "home_practice",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_image": {
+      "flow_type": "template",
+      "flow_name": "box_image",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_image_more": {
+      "flow_type": "template",
+      "flow_name": "box_image_more",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_motivate": {
+      "flow_type": "template",
+      "flow_name": "box_motivate",
+      "type_id": "motivate",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_multi_radio_buttons": {
+      "flow_type": "template",
+      "flow_name": "box_multi_radio_buttons",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_parent_point_counter": {
+      "flow_type": "template",
+      "flow_name": "box_parent_point_counter",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_read_story": {
+      "flow_type": "template",
+      "flow_name": "box_read_story",
+      "type_id": "read_story",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_relate": {
+      "flow_type": "template",
+      "flow_name": "box_relate",
+      "type_id": "relate",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_relax": {
+      "flow_type": "template",
+      "flow_name": "box_relax",
+      "type_id": "relax",
+      "_xlsxPath": "templates/topic_activity.xlsx"
+    },
+    "box_timer": {
+      "flow_type": "template",
+      "flow_name": "box_timer",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "box_video": {
+      "flow_type": "template",
+      "flow_name": "box_video",
+      "_xlsxPath": "templates/topic_boxes.xlsx"
+    },
+    "check_in": {
+      "flow_type": "template",
+      "flow_name": "check_in",
+      "_xlsxPath": "templates/warm_up_activity.xlsx"
+    },
+    "connect_check_in": {
+      "flow_type": "template",
+      "flow_name": "connect_check_in",
+      "type_id": "check_in",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_ending": {
+      "flow_type": "template",
+      "flow_name": "connect_ending",
+      "type_id": "ending",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_home_practice": {
+      "flow_type": "template",
+      "flow_name": "connect_home_practice",
+      "type_id": "home_practice",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_hp_review": {
+      "flow_type": "template",
+      "flow_name": "connect_hp_review",
+      "type_id": "hp_review",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_read_interrupt_child": {
+      "flow_type": "template",
+      "flow_name": "connect_read_interrupt_child",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_read_interrupt_self": {
+      "flow_type": "template",
+      "flow_name": "connect_read_interrupt_self",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_read_join_child": {
+      "flow_type": "template",
+      "flow_name": "connect_read_join_child",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_read_join_self": {
+      "flow_type": "template",
+      "flow_name": "connect_read_join_self",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_reflect_time_child": {
+      "flow_type": "template",
+      "flow_name": "connect_reflect_time_child",
+      "type_id": "reflect",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_relate": {
+      "flow_type": "template",
+      "flow_name": "connect_relate",
+      "type_id": "relate",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_relax": {
+      "flow_type": "template",
+      "flow_name": "connect_relax",
+      "type_id": "relax",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "connect_tools": {
+      "flow_type": "template",
+      "flow_name": "connect_tools",
+      "type_id": "tools",
+      "_xlsxPath": "templates/topic_connect.xlsx"
+    },
+    "duo": {
+      "flow_type": "template",
+      "flow_name": "duo",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "enter_dev_mode": {
+      "flow_type": "template",
+      "flow_name": "enter_dev_mode",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "exit_dev_mode": {
+      "flow_type": "template",
+      "flow_name": "exit_dev_mode",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "extra_section": {
+      "flow_type": "template",
+      "flow_name": "extra_section",
+      "_xlsxPath": "templates/article_kids.xlsx"
+    },
+    "feature_feedback_debug": {
+      "flow_type": "template",
+      "flow_name": "feature_feedback_debug",
+      "comments": "Default general feedback form",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "feature_feedback_default": {
+      "flow_type": "template",
+      "flow_name": "feature_feedback_default",
+      "comments": "Default text-select feedback form",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "feature_feedback_text_select": {
+      "flow_type": "template",
+      "flow_name": "feature_feedback_text_select",
+      "comments": "Used in /feedback debug page",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "footer": {
+      "flow_type": "template",
+      "flow_name": "footer",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "module_overview_build": {
+      "flow_name": "module_overview_build",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_connect": {
+      "flow_name": "module_overview_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_create": {
+      "flow_name": "module_overview_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_explore": {
+      "flow_name": "module_overview_explore",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_play": {
+      "flow_name": "module_overview_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_summary": {
+      "flow_name": "module_overview_summary",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_talk": {
+      "flow_name": "module_overview_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_welcome": {
+      "flow_name": "module_overview_welcome",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "header": {
+      "flow_type": "template",
+      "flow_name": "header",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "home_screen": {
+      "flow_type": "template",
+      "flow_name": "home_screen",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "intro": {
+      "flow_type": "template",
+      "flow_name": "intro",
+      "_xlsxPath": "templates/warm_up_activity.xlsx"
+    },
+    "language_select": {
+      "flow_type": "template",
+      "flow_name": "language_select",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
+    "accept_terms": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "accept_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "accept_terms_warning": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "accept_terms_warning",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "app_menu_privacy_policy": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "app_menu_privacy_policy",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "app_menu_terms": {
+      "flow_type": "template",
+      "flow_subtype": "legal_terms",
+      "flow_name": "app_menu_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "library": {
+      "flow_type": "template",
+      "flow_name": "library",
+      "_xlsxPath": "templates/library.xlsx"
+    },
+    "library_activity": {
+      "flow_type": "template",
+      "flow_name": "library_activity",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "media_transcript": {
+      "flow_type": "template",
+      "flow_name": "media_transcript",
+      "_xlsxPath": "templates/article_kids.xlsx"
+    },
+    "module_card": {
+      "flow_type": "template",
+      "flow_name": "module_card",
+      "_xlsxPath": "templates/module_navigation.xlsx"
+    },
+    "module_details": {
+      "flow_type": "template",
+      "flow_name": "module_details",
+      "_xlsxPath": "templates/module_navigation.xlsx"
+    },
+    "module_stepper": {
+      "flow_type": "template",
+      "flow_name": "module_stepper",
+      "_xlsxPath": "templates/module_navigation.xlsx"
+    },
+    "nav_buttons": {
+      "flow_type": "template",
+      "flow_name": "nav_buttons",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "pair": {
+      "flow_type": "template",
+      "flow_name": "pair",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "pair_hidden": {
+      "flow_type": "template",
+      "flow_name": "pair_hidden",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "question": {
+      "flow_type": "template",
+      "flow_name": "question",
+      "_xlsxPath": "templates/article_kids.xlsx"
+    },
+    "relax": {
+      "flow_type": "template",
+      "flow_name": "relax",
+      "_xlsxPath": "templates/warm_up_activity.xlsx"
+    },
+    "relax_animation": {
+      "flow_type": "template",
+      "flow_name": "relax_animation",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "sections": {
+      "flow_type": "template",
+      "flow_name": "sections",
+      "_xlsxPath": "templates/article_kids.xlsx"
+    },
+    "task_card": {
+      "flow_type": "template",
+      "flow_name": "task_card",
+      "_xlsxPath": "templates/module_navigation.xlsx"
+    },
+    "task_group_pair": {
+      "flow_type": "template",
+      "flow_name": "task_group_pair",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "user_id": {
+      "flow_type": "template",
+      "flow_name": "user_id",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "warm_up": {
+      "flow_type": "template",
+      "flow_name": "warm_up",
+      "_xlsxPath": "templates/module_navigation.xlsx"
+    },
+    "workshop_activity": {
+      "flow_type": "template",
+      "flow_name": "workshop_activity",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "workshop_completed_calc": {
+      "flow_type": "template",
+      "flow_name": "workshop_completed_calc",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "workshop_stepper": {
+      "flow_type": "template",
+      "flow_name": "workshop_stepper",
+      "_xlsxPath": "templates/topics.xlsx"
+    },
+    "workshop_stepper_actions": {
+      "flow_type": "template",
+      "flow_name": "workshop_stepper_actions",
+      "_xlsxPath": "templates/topics.xlsx"
+    }
+  },
+  "tour": {}
+}

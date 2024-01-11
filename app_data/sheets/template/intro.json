@@ -1,0 +1,194 @@
+{
+  "flow_type": "template",
+  "flow_name": "intro",
+  "status": "released",
+  "rows": [
+    {
+      "name": "data_list_name",
+      "value": [
+        "praise"
+      ],
+      "type": "set_variable",
+      "_nested_name": "data_list_name"
+    },
+    {
+      "name": "id",
+      "value": "child_dev",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "id"
+    },
+    {
+      "name": "data_list_name_id",
+      "value": [
+        "@local.data_list_name.@local.id"
+      ],
+      "type": "set_variable",
+      "_nested_name": "data_list_name_id",
+      "_dynamicFields": {
+        "value": {
+          "0": [
+            {
+              "fullExpression": "@local.data_list_name.@local.id",
+              "matchedExpression": "@local.data_list_name",
+              "type": "local",
+              "fieldName": "data_list_name"
+            },
+            {
+              "fullExpression": "@local.data_list_name.@local.id",
+              "matchedExpression": "@local.id",
+              "type": "local",
+              "fieldName": "id"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.data_list_name": [
+          "value.0"
+        ],
+        "@local.id": [
+          "value.0"
+        ]
+      }
+    },
+    {
+      "name": "row_data",
+      "value": "@data.@local.data_list_name_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "row_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.data_list_name_id",
+            "matchedExpression": "@local.data_list_name_id",
+            "type": "local",
+            "fieldName": "data_list_name_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data_list_name_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@local.row_data.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.row_data.title)",
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.title",
+            "matchedExpression": "@local.row_data.title",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.row_data.title)",
+            "matchedExpression": "@local.row_data.title",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.title": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "@local.row_data.intro_text",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.row_data.intro_text)",
+      "_nested_name": "intro_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.intro_text",
+            "matchedExpression": "@local.row_data.intro_text",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.row_data.intro_text)",
+            "matchedExpression": "@local.row_data.intro_text",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.intro_text": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "condition": "@fields.show_nav_buttons",
+      "rows": [],
+      "_nested_name": "nav_buttons",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.show_nav_buttons",
+            "matchedExpression": "@fields.show_nav_buttons",
+            "type": "fields",
+            "fieldName": "show_nav_buttons"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.show_nav_buttons": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/warm_up_activity.xlsx"
+}

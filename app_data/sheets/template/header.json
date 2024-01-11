@@ -1,0 +1,30 @@
+{
+  "flow_type": "template",
+  "flow_name": "header",
+  "status": "released",
+  "rows": [
+    {
+      "type": "display_group",
+      "name": "dg_header",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "exclude_from_translation": "flex:3",
+          "_nested_name": "dg_header.title"
+        },
+        {
+          "type": "image",
+          "name": "icon_asset",
+          "parameter_list": {
+            "style": "rounded_corners"
+          },
+          "exclude_from_translation": "flex:2",
+          "_nested_name": "dg_header.icon_asset"
+        }
+      ],
+      "_nested_name": "dg_header"
+    }
+  ],
+  "_xlsxPath": "templates/navigation.xlsx"
+}

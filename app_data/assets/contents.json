@@ -1,0 +1,306 @@
+{
+  "android/icon-background.png": {
+    "md5Checksum": "8711f369969c25216e0013c4010e0907",
+    "size_kb": 21.4
+  },
+  "android/icon-foreground.png": {
+    "md5Checksum": "b3e20d69150e73f0d6417df4e6a43f5f",
+    "size_kb": 54.2
+  },
+  "android/icon.png": {
+    "md5Checksum": "8b06ee4d3e19163f9fc78e7d076611ef",
+    "size_kb": 67.4
+  },
+  "android/splash.png": {
+    "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
+    "size_kb": 239
+  },
+  "audio/relax/relax_1.mp3": {
+    "md5Checksum": "0d23366a438bc1a5faf3d445e389a39a",
+    "size_kb": 492.2
+  },
+  "audio/relax/relax_10.mp3": {
+    "md5Checksum": "f763a01ba394cb5b8d7ecc03e421d8e0",
+    "size_kb": 749
+  },
+  "audio/relax/relax_11.mp3": {
+    "md5Checksum": "b68baf7ff115191d18e42c0c6ad575b2",
+    "size_kb": 806.5
+  },
+  "audio/relax/relax_12.mp3": {
+    "md5Checksum": "c752bb8fb7caeb3b13ed009c11e043c1",
+    "size_kb": 999.6
+  },
+  "audio/relax/relax_13.mp3": {
+    "md5Checksum": "93a3a74b2251968d06888ddab297e6ac",
+    "size_kb": 721.6
+  },
+  "audio/relax/relax_14.mp3": {
+    "md5Checksum": "317c1409d3fd711862f044fde774fab4",
+    "size_kb": 493.1
+  },
+  "audio/relax/relax_15.mp3": {
+    "md5Checksum": "a954491b926d1690d8975207f27b5b3a",
+    "size_kb": 516.7
+  },
+  "audio/relax/relax_16.mp3": {
+    "md5Checksum": "e05b7c0dec49d45225cf5311bd931233",
+    "size_kb": 564.5
+  },
+  "audio/relax/relax_17.mp3": {
+    "md5Checksum": "7fa394d9131dd7a36ab842223644f82e",
+    "size_kb": 544.1
+  },
+  "audio/relax/relax_18.mp3": {
+    "md5Checksum": "f1ced15e623ce6d21ea250317e602360",
+    "size_kb": 1228.6
+  },
+  "audio/relax/relax_19.mp3": {
+    "md5Checksum": "91b71aa328f31c46b56bf7949448ae55",
+    "size_kb": 1746.5
+  },
+  "audio/relax/relax_2.mp3": {
+    "md5Checksum": "b3b6bf1fdc26305e89da438bb1a3657c",
+    "size_kb": 712.7
+  },
+  "audio/relax/relax_20.mp3": {
+    "md5Checksum": "9131a3fecff580470e11d6735593260e",
+    "size_kb": 1901.6
+  },
+  "audio/relax/relax_21.mp3": {
+    "md5Checksum": "9c12b2510304df021b5194d2b02a9899",
+    "size_kb": 759.6
+  },
+  "audio/relax/relax_22.mp3": {
+    "md5Checksum": "aa62a24a6c519beb75c88e613acd2c71",
+    "size_kb": 429.8
+  },
+  "audio/relax/relax_23.mp3": {
+    "md5Checksum": "9550d5bac87fd1a97544dd886660d25e",
+    "size_kb": 500.4
+  },
+  "audio/relax/relax_24.mp3": {
+    "md5Checksum": "c3db4db42e097fcc942e15f6f067737a",
+    "size_kb": 453.9
+  },
+  "audio/relax/relax_3.mp3": {
+    "md5Checksum": "54a8f411e01f5ef440d4275e3c111c3c",
+    "size_kb": 453.9
+  },
+  "audio/relax/relax_4.mp3": {
+    "md5Checksum": "f14b76a30bb3267a07968e7945bea98c",
+    "size_kb": 998
+  },
+  "audio/relax/relax_5.mp3": {
+    "md5Checksum": "5cc39211a871f85a80d2d914ce2f9008",
+    "size_kb": 359.2
+  },
+  "audio/relax/relax_6.mp3": {
+    "md5Checksum": "cda7524dc0cf04d7567d8aba5cecb1ed",
+    "size_kb": 526.5
+  },
+  "audio/relax/relax_7.mp3": {
+    "md5Checksum": "51ad97b7ea1e2344074ef130c4362682",
+    "size_kb": 504.9
+  },
+  "audio/relax/relax_8.mp3": {
+    "md5Checksum": "43e967ed477d23a2ac60b2786997e752",
+    "size_kb": 549
+  },
+  "audio/relax/relax_9.mp3": {
+    "md5Checksum": "4c28141c3416cf2df70d2a5464c3d34a",
+    "size_kb": 1057.1
+  },
+  "contents.json": {
+    "md5Checksum": "90050656cf56020b236975cc0fb3f3b6",
+    "size_kb": 8.5
+  },
+  "images/flags/gb.svg": {
+    "md5Checksum": "d3ddd6025a06a78535b0d432d14905bf",
+    "size_kb": 0.5
+  },
+  "images/flags/tz.svg": {
+    "md5Checksum": "4cba6f3545595d585cf1c89394955c71",
+    "size_kb": 0.5
+  },
+  "images/icons/book_outline_blue.svg": {
+    "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
+    "size_kb": 0.7
+  },
+  "images/icons/book_outline_white.svg": {
+    "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
+    "size_kb": 0.7
+  },
+  "images/icons/faces/angry.svg": {
+    "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",
+    "size_kb": 1.1
+  },
+  "images/icons/faces/confused.svg": {
+    "md5Checksum": "1b6c3e959c1a2fb7b60a0204f3f51252",
+    "size_kb": 1.8
+  },
+  "images/icons/faces/happier.svg": {
+    "md5Checksum": "0950af49455cc3a0f45fdb58a7729f69",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/happiest.svg": {
+    "md5Checksum": "daca7cda1c325c104815722f2cfc47e6",
+    "size_kb": 1.3
+  },
+  "images/icons/faces/happy.svg": {
+    "md5Checksum": "286df85cf5a71405938907c42a200e67",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/neutral.svg": {
+    "md5Checksum": "8f4bc93561fb7114ea8802a04a220fb8",
+    "size_kb": 0.5
+  },
+  "images/icons/faces/sad.svg": {
+    "md5Checksum": "1020fc8785a8f8aeeadfa74de88c73d3",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/sadder.svg": {
+    "md5Checksum": "44f0f4aee98a30f31d445b169922f940",
+    "size_kb": 1.1
+  },
+  "images/icons/faces/saddest.svg": {
+    "md5Checksum": "e83831930f99740e1b6556c4aab41a1b",
+    "size_kb": 2
+  },
+  "images/icons/faces/scared.svg": {
+    "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
+    "size_kb": 2.1
+  },
+  "images/icons/faces/tired.svg": {
+    "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
+    "size_kb": 2.4
+  },
+  "images/icons/in_progress.svg": {
+    "md5Checksum": "6105962bc0edd981675d874dc8a51035",
+    "size_kb": 1.1
+  },
+  "images/icons/in_progress_white.svg": {
+    "md5Checksum": "f7bdd991a067c30d0cb140d5b77745bb",
+    "size_kb": 1.1
+  },
+  "images/icons/parent_child.svg": {
+    "md5Checksum": "99747503b2023a185d20be8e5c7d8076",
+    "size_kb": 2
+  },
+  "images/icons/pause.svg": {
+    "md5Checksum": "b9a01b9c0b6ed86d47ff094f22d23c73",
+    "size_kb": 0.7
+  },
+  "images/icons/pause_white.svg": {
+    "md5Checksum": "f6989826fb94a865281b035fa155689d",
+    "size_kb": 0.7
+  },
+  "images/icons/play.svg": {
+    "md5Checksum": "5393d2113acd3a4b7d5f03795067a678",
+    "size_kb": 0.5
+  },
+  "images/icons/play_white.svg": {
+    "md5Checksum": "6508bf39f8cb3c3ab0f30b96994a6cbc",
+    "size_kb": 0.5
+  },
+  "images/icons/question_mark_blue.svg": {
+    "md5Checksum": "49e1d1e478068a24949d87d09c9ba07b",
+    "size_kb": 0.8
+  },
+  "images/icons/star_outline_blue.svg": {
+    "md5Checksum": "db0b8e4ba99b48681840fc6ec93144c1",
+    "size_kb": 1
+  },
+  "images/icons/star_outline_white.svg": {
+    "md5Checksum": "0f9f695561b9bd2c21944bb6dd47d704",
+    "size_kb": 1
+  },
+  "images/icons/tick.svg": {
+    "md5Checksum": "b4e6f1e9ba6e5bcdd2e404bc432ba745",
+    "size_kb": 0.3
+  },
+  "images/icons/tick_white.svg": {
+    "md5Checksum": "81136e04436759812dc3f6e90c61de11",
+    "size_kb": 0.3
+  },
+  "images/logos/IDEMS.png": {
+    "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
+    "size_kb": 84.6
+  },
+  "images/logos/PLH.png": {
+    "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
+    "size_kb": 26.6
+  },
+  "images/logos/plh_white.png": {
+    "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
+    "size_kb": 12.8
+  },
+  "images/topics/connect/busy_parent.png": {
+    "md5Checksum": "337e3b12d2bb44180971910277789cc4",
+    "size_kb": 57.7
+  },
+  "images/topics/connect/interrupt_child/slide_1.png": {
+    "md5Checksum": "e3ebe1216d4b11d07496d805ccf022e2",
+    "size_kb": 50.6
+  },
+  "images/topics/connect/interrupt_child/slide_2.png": {
+    "md5Checksum": "de369eed635d78d3aed287a2c9aae2b7",
+    "size_kb": 48
+  },
+  "images/topics/connect/interrupt_child/slide_3.png": {
+    "md5Checksum": "e157c18890442616b279cbc1299cee9f",
+    "size_kb": 51.2
+  },
+  "images/topics/connect/interrupt_child/slide_4.png": {
+    "md5Checksum": "5d39fa06b9270a2f3712ff43d0e67a1d",
+    "size_kb": 51.8
+  },
+  "images/topics/connect/join_child/slide_1.png": {
+    "md5Checksum": "cb8417543bbef0694428a590d4d05c1f",
+    "size_kb": 40.8
+  },
+  "images/topics/connect/join_child/slide_2.png": {
+    "md5Checksum": "744c5a1b6ff1055c217afcff7cb5ee1e",
+    "size_kb": 48.8
+  },
+  "images/topics/connect/join_child/slide_3.png": {
+    "md5Checksum": "0140987615c61dcd0893a2d3396eb51f",
+    "size_kb": 53.4
+  },
+  "images/topics/connect/join_child/slide_4.png": {
+    "md5Checksum": "4bd8706a1a5ddc1610626b6fc51a410b",
+    "size_kb": 55.5
+  },
+  "images/topics/connect/spend_time_together.png": {
+    "md5Checksum": "5943d562e3c7e1726fb5066e0c4c0952",
+    "size_kb": 1415.8
+  },
+  "images/topics/wave.svg": {
+    "md5Checksum": "79d5f0d01dca4ab60d638b0d46d134f9",
+    "size_kb": 8.5
+  },
+  "lottie/bulging_circles.json": {
+    "md5Checksum": "e4a21bd55b999a816ee59d5b244c145b",
+    "size_kb": 11.8
+  },
+  "lottie/bulging_circles.txt": {
+    "md5Checksum": "3f9872e93f54ea15816c877db86a76ff",
+    "size_kb": 0.2
+  },
+  "lottie/cascading_stars.json": {
+    "md5Checksum": "131145b165cd19613a9e277a514eec2f",
+    "size_kb": 140.5
+  },
+  "video/song/lets_slow_down.mp4": {
+    "md5Checksum": "62f06faa95a979d128b4356db9bb396e",
+    "size_kb": 13482.2
+  },
+  "video/song/lets_slow_down.srt": {
+    "md5Checksum": "77e6d4265f602b20745a738b9809bb15",
+    "size_kb": 1.7
+  },
+  "video/song/lets_slow_down.vtt": {
+    "md5Checksum": "1c172282f4c58766a03562d1eb88a4a4",
+    "size_kb": 1.8
+  }
+}
