@@ -1,11 +1,24 @@
 {
   "asset_pack": {},
   "data_list": {
+    "about_this_app": {
+      "flow_type": "data_list",
+      "flow_name": "about_this_app",
+      "data_list_name": "about_this_app",
+      "_xlsxPath": "deployment_data_tz.xlsx"
+    },
     "activity_type_data": {
       "flow_type": "data_list",
       "flow_name": "activity_type_data",
       "data_list_name": "activity_type",
       "_xlsxPath": "data/topic_data/activity_data.xlsx"
+    },
+    "language": {
+      "flow_type": "data_list",
+      "flow_name": "language",
+      "data_list_name": "language",
+      "flow_subtype": "app_config_language_list",
+      "_xlsxPath": "deployment_data_tz.xlsx"
     },
     "language_data_list": {
       "flow_type": "data_list",
@@ -438,6 +451,20 @@
       "data_list_name": "learn",
       "_xlsxPath": "data/topic_data/activity_data.xlsx"
     },
+    "privacy_policy": {
+      "flow_type": "data_list",
+      "flow_name": "privacy_policy",
+      "data_list_name": "privacy_policy",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "deployment_data_tz.xlsx"
+    },
+    "terms_and_conditions": {
+      "flow_type": "data_list",
+      "flow_name": "terms_and_conditions",
+      "data_list_name": "terms_and_conditions",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "deployment_data_tz.xlsx"
+    },
     "library_data": {
       "flow_type": "data_list",
       "flow_name": "library_data",
@@ -455,6 +482,18 @@
       "flow_name": "number_data",
       "data_list_name": "number",
       "_xlsxPath": "data/navigation_data/navigation_data.xlsx"
+    },
+    "organisation": {
+      "flow_type": "data_list",
+      "flow_name": "organisation",
+      "data_list_name": "organisation",
+      "_xlsxPath": "deployment_data_tz.xlsx"
+    },
+    "organisation_group": {
+      "flow_type": "data_list",
+      "flow_name": "organisation_group",
+      "data_list_name": "organisation_group",
+      "_xlsxPath": "deployment_data_tz.xlsx"
     },
     "partners_data": {
       "flow_type": "data_list",
