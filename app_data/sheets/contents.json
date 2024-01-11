@@ -20,19 +20,6 @@
       "flow_subtype": "app_config_language_list",
       "_xlsxPath": "deployment_data_tz.xlsx"
     },
-    "language_data_list": {
-      "flow_type": "data_list",
-      "flow_name": "language_data_list",
-      "data_list_name": "language",
-      "flow_subtype": "app_config_language_list",
-      "_xlsxPath": "data/app_config/language_data_list.xlsx"
-    },
-    "app_section_data": {
-      "flow_type": "data_list",
-      "flow_name": "app_section_data",
-      "data_list_name": "app_section",
-      "_xlsxPath": "data/navigation_data/navigation_data.xlsx"
-    },
     "build_specific_task_gs": {
       "flow_type": "data_list",
       "flow_name": "build_specific_task_gs",
@@ -469,19 +456,13 @@
       "flow_type": "data_list",
       "flow_name": "library_data",
       "data_list_name": "library",
-      "_xlsxPath": "data/library_data/library_data.xlsx"
+      "_xlsxPath": "data/library_data.xlsx"
     },
     "launch_actions": {
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
       "_xlsxPath": "templates/app_launch.xlsx"
-    },
-    "number_data": {
-      "flow_type": "data_list",
-      "flow_name": "number_data",
-      "data_list_name": "number",
-      "_xlsxPath": "data/navigation_data/navigation_data.xlsx"
     },
     "organisation": {
       "flow_type": "data_list",
@@ -494,12 +475,6 @@
       "flow_name": "organisation_group",
       "data_list_name": "organisation_group",
       "_xlsxPath": "deployment_data_tz.xlsx"
-    },
-    "partners_data": {
-      "flow_type": "data_list",
-      "flow_name": "partners_data",
-      "data_list_name": "partners",
-      "_xlsxPath": "data/partners_data.xlsx"
     },
     "play_specific_task_gs": {
       "flow_type": "data_list",
@@ -660,40 +635,26 @@
     }
   },
   "global": {
-    "app_menu_globals": {
+    "debug_global": {
       "flow_type": "global",
-      "flow_name": "app_menu_globals",
-      "_xlsxPath": "data/navigation_data/app_menu_globals.xlsx"
+      "flow_name": "debug_global",
+      "_xlsxPath": "data/navigation_data.xlsx"
     },
-    "button_texts": {
+    "deployment_global": {
       "flow_type": "global",
-      "flow_name": "button_texts",
-      "_xlsxPath": "data/navigation_data/navigation_globals.xlsx"
+      "flow_name": "deployment_global",
+      "_xlsxPath": "data/deployment_data.xlsx"
     },
-    "data_warnings": {
+    "legal_terms": {
       "flow_type": "global",
-      "flow_name": "data_warnings",
-      "_xlsxPath": "data/navigation_data/app_menu_globals.xlsx"
+      "flow_name": "legal_terms",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "data/deployment_data.xlsx"
     },
-    "home_screen_variables": {
+    "navigation_global": {
       "flow_type": "global",
-      "flow_name": "home_screen_variables",
-      "_xlsxPath": "data/navigation_data/navigation_globals.xlsx"
-    },
-    "localisation_options": {
-      "flow_type": "global",
-      "flow_name": "localisation_options",
-      "_xlsxPath": "data/localisation_globals.xlsx"
-    },
-    "localised_names": {
-      "flow_type": "global",
-      "flow_name": "localised_names",
-      "_xlsxPath": "data/localisation_globals.xlsx"
-    },
-    "names_of_characters": {
-      "flow_type": "global",
-      "flow_name": "names_of_characters",
-      "_xlsxPath": "data/localisation_globals.xlsx"
+      "flow_name": "navigation_global",
+      "_xlsxPath": "data/navigation_data.xlsx"
     },
     "topic_modes": {
       "flow_type": "global",
@@ -704,13 +665,6 @@
       "flow_type": "global",
       "flow_name": "topic_options",
       "_xlsxPath": "data/topic_task_data/topic_globals.xlsx"
-    },
-    "topic_variables_mod": {
-      "flow_type": "global",
-      "flow_name": "topic_variables_mod",
-      "override_target": "topic_variables",
-      "override_condition": "@fields._app_skin == \"modular\"",
-      "_xlsxPath": "data/navigation_globals_modular.xlsx"
     }
   },
   "template": {

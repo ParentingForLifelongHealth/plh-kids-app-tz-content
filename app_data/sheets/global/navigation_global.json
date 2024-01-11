@@ -1,42 +1,40 @@
 {
   "flow_type": "global",
-  "flow_name": "topic_variables_mod",
+  "flow_name": "navigation_global",
   "status": "released",
-  "override_target": "topic_variables",
-  "override_condition": "@fields._app_skin == \"modular\"",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "topics",
-      "value": "modules",
+      "name": "language",
+      "value": "Language",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "topic",
-      "value": "module",
+      "name": "type_prompt",
+      "value": "Tap and type",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "topics_capital",
-      "value": "Modules",
+      "name": "select_prompt",
+      "value": "Tap and select",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "topic_capital",
-      "value": "Module",
+      "name": "about_this_app",
+      "value": "About @global.app_name",
       "_translations": {
         "value": {}
       }
     }
   ],
-  "_xlsxPath": "data/navigation_globals_modular.xlsx"
+  "_xlsxPath": "data/navigation_data.xlsx"
 }
