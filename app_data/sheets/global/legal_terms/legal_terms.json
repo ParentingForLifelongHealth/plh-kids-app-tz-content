@@ -1,24 +1,25 @@
 {
   "flow_type": "global",
-  "flow_name": "home_screen_variables",
+  "flow_name": "legal_terms",
   "status": "released",
+  "flow_subtype": "legal_terms",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "app_name",
-      "value": "ParentApp for Kids",
+      "name": "terms_and_conditions",
+      "value": "Terms & Conditions",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "app_id",
-      "value": "idems.international.plh_kids",
+      "name": "privacy_policy",
+      "value": "Privacy Policy",
       "_translations": {
         "value": {}
       }
     }
   ],
-  "_xlsxPath": "data/navigation_data/navigation_globals.xlsx"
+  "_xlsxPath": "data/deployment_data.xlsx"
 }
