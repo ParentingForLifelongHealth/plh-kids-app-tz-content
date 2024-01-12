@@ -34,6 +34,22 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "library",
+      "value": "Library",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "all_topics",
+      "value": "All Topics",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"
