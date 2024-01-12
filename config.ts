@@ -2,8 +2,6 @@ import { extendDeploymentConfig } from "scripts";
 
 const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" });
 
-
-
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
   content_tag_latest: "1.1.3",
@@ -13,6 +11,8 @@ config.git = {
 config.google_drive.sheets_folder_ids = ["1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"];
 config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1kLl5t3o4A2ssC2iC-lT2bp4u8BZZneSE"];
 
+// Hacky fix to point extended deployment to translations within its own repo
+config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
 config.api.db_name = "plh_kids_tz";
 
