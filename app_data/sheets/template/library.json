@@ -10,7 +10,7 @@
         {
           "type": "title",
           "name": "title",
-          "value": "@data.app_section.library.title",
+          "value": "@global.library",
           "_translations": {
             "value": {}
           },
@@ -21,15 +21,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@data.app_section.library.title",
-                "matchedExpression": "@data.app_section.library.title",
-                "type": "data",
-                "fieldName": "app_section"
+                "fullExpression": "@global.library",
+                "matchedExpression": "@global.library",
+                "type": "global",
+                "fieldName": "library"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@data.app_section.library.title": [
+            "@global.library": [
               "value"
             ]
           }
@@ -210,5 +210,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/library.xlsx"
+  "_xlsxPath": "templates/app_navigation.xlsx"
 }
