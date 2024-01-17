@@ -4,6 +4,27 @@
   "status": "released",
   "rows": [
     {
+      "name": "use_completed_chevron",
+      "value": false,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "use_completed_chevron"
+    },
+    {
+      "name": "use_uncompleted_chevron",
+      "value": true,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "use_uncompleted_chevron"
+    },
+    {
+      "name": "display_uncompleted",
+      "value": true,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "display_uncompleted"
+    },
+    {
       "type": "display_group",
       "name": "buttons",
       "parameter_list": {
@@ -11,8 +32,12 @@
       },
       "rows": [
         {
-          "type": "round_button",
-          "name": "button_uncompleted_chevron",
+          "type": "button",
+          "name": "button_uncompleted",
+          "value": "Previous",
+          "_translations": {
+            "value": {}
+          },
           "action_list": [
             {
               "trigger": "click",
@@ -25,14 +50,33 @@
             }
           ],
           "parameter_list": {
-            "icon_src": "chevron-back",
             "style": "navigation"
           },
-          "_nested_name": "buttons.button_uncompleted_chevron"
+          "condition": "@local.display_uncompleted",
+          "_nested_name": "buttons.button_uncompleted",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.display_uncompleted",
+                "matchedExpression": "@local.display_uncompleted",
+                "type": "local",
+                "fieldName": "display_uncompleted"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.display_uncompleted": [
+              "condition"
+            ]
+          }
         },
         {
-          "type": "round_button",
-          "name": "button_completed_chevron",
+          "type": "button",
+          "name": "button_completed",
+          "value": "Next",
+          "_translations": {
+            "value": {}
+          },
           "action_list": [
             {
               "trigger": "click",
@@ -45,14 +89,13 @@
             }
           ],
           "parameter_list": {
-            "icon_src": "chevron-forward",
             "style": "navigation"
           },
-          "_nested_name": "buttons.button_completed_chevron"
+          "_nested_name": "buttons.button_completed"
         }
       ],
       "_nested_name": "buttons"
     }
   ],
-  "_xlsxPath": "templates/topics.xlsx"
+  "_xlsxPath": "templates/app_navigation.xlsx"
 }

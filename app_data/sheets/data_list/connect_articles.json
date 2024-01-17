@@ -5,31 +5,28 @@
   "status": "released",
   "rows": [
     {
-      "id": "check_in",
-      "category_id": "check_in",
-      "category_data": "connect_categories",
-      "attached_single_doc": "https://docs.google.com/document/d/1WuZiBb693wLZMCHe6yie_6t2U5GxP0l3amKos3yPUco"
-    },
-    {
-      "id": "intro_connect",
-      "category_id": "introduction",
-      "category_data": "connect_categories",
+      "id": "test_ignore",
       "media_type": "video",
-      "text_1": "This week, we are focusing on the topic of **CONNECTION.**\r\rWe want to focus on two important connections: \r- how you spend time with your child,\n- and how you spend time with yourself",
+      "attached_single_doc": "https://docs.google.com/document/d/1gsQt2k2R0GciIaBr4dH2qf_MeSCasvcOIe5hRc3gq70",
+      "text_1": "Test",
       "_translations": {
         "text_1": {},
+        "text_2": {},
         "media_title": {},
         "media_transcript": {}
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "This week, we are focusing on the topic of **CONNECTION.**\r\rWe want to focus on two important connections: \r- how you spend time with your child,\n- and how you spend time with yourself"
+          "eng": "Test"
+        },
+        "text_2": {
+          "eng": "Test"
         },
         "media_title": {
           "eng": "How Connection Works"
         },
         "media_transcript": {
-          "eng": "Type out the whole transcripte"
+          "eng": "Type out the whole transcript"
         },
         "quiz.1.question": {
           "eng": "What colour is the sky?"
@@ -107,8 +104,9 @@
           "eng": "extra_text"
         }
       },
+      "text_2": "Test",
       "media_title": "How Connection Works",
-      "media_transcript": "Type out the whole transcripte",
+      "media_transcript": "Type out the whole transcript",
       "quiz": {
         "1": {
           "option": {
@@ -193,8 +191,27 @@
       }
     },
     {
+      "id": "intro_connect",
+      "category_id": "intro",
+      "category_data": "connect_categories",
+      "text_1": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others.",
+      "_translations": {
+        "text_1": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others."
+        },
+        "text_2": {
+          "eng": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available."
+        }
+      },
+      "text_2": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available."
+    },
+    {
       "id": "intro_connect_child",
-      "category_id": "introduction",
+      "category_id": "intro",
       "category_data": "connect_categories"
     },
     {
@@ -343,5 +360,5 @@
       "category_data": "connect_categories"
     }
   ],
-  "_xlsxPath": "data/module_data/connect.xlsx"
+  "_xlsxPath": "data/connect.xlsx"
 }
