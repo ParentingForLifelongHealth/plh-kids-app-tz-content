@@ -1,8 +1,0 @@
-{
-  "flow_type": "data_list",
-  "flow_name": "play_specific_tasks",
-  "status": "released",
-  "topic_id": "play",
-  "rows": [],
-  "_xlsxPath": "data/topic_tasks.xlsx"
-}

@@ -1,0 +1,33 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "books",
+  "status": "released",
+  "data_list_name": "books",
+  "rows": [
+    {
+      "id": "who_took_my_shoe",
+      "title": "Who Took My Shoe?",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Who Took My Shoe?"
+        }
+      }
+    },
+    {
+      "id": "when_will_amma_be_back",
+      "title": "When Will Amma Be Back?",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "When Will Amma Be Back?"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/library/books.xlsx"
+}

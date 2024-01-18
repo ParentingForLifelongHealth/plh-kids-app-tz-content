@@ -10,14 +10,14 @@
       "_nested_name": "with_image"
     },
     {
-      "name": "topic_id",
+      "name": "module_id",
       "value": "w_1on1",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "topic_id"
+      "_nested_name": "module_id"
     },
     {
       "name": "task_id",
@@ -41,7 +41,7 @@
     },
     {
       "name": "task_group_data",
-      "value": "@local.topic_id@local.task_groups",
+      "value": "@local.module_id@local.task_groups",
       "_translations": {
         "value": {}
       },
@@ -51,13 +51,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.topic_id@local.task_groups",
-            "matchedExpression": "@local.topic_id",
+            "fullExpression": "@local.module_id@local.task_groups",
+            "matchedExpression": "@local.module_id",
             "type": "local",
-            "fieldName": "topic_id"
+            "fieldName": "module_id"
           },
           {
-            "fullExpression": "@local.topic_id@local.task_groups",
+            "fullExpression": "@local.module_id@local.task_groups",
             "matchedExpression": "@local.task_groups",
             "type": "local",
             "fieldName": "task_groups"
@@ -65,7 +65,7 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.topic_id": [
+        "@local.module_id": [
           "value"
         ],
         "@local.task_groups": [
@@ -242,7 +242,7 @@
     },
     {
       "name": "completed_field",
-      "value": "task_gp_@local.topic_id@local.join@local.task_id@local.completed",
+      "value": "task_gp_@local.module_id@local.join@local.task_id@local.completed",
       "_translations": {
         "value": {}
       },
@@ -252,25 +252,25 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "task_gp_@local.topic_id@local.join@local.task_id@local.completed",
-            "matchedExpression": "@local.topic_id",
+            "fullExpression": "task_gp_@local.module_id@local.join@local.task_id@local.completed",
+            "matchedExpression": "@local.module_id",
             "type": "local",
-            "fieldName": "topic_id"
+            "fieldName": "module_id"
           },
           {
-            "fullExpression": "task_gp_@local.topic_id@local.join@local.task_id@local.completed",
+            "fullExpression": "task_gp_@local.module_id@local.join@local.task_id@local.completed",
             "matchedExpression": "@local.join",
             "type": "local",
             "fieldName": "join"
           },
           {
-            "fullExpression": "task_gp_@local.topic_id@local.join@local.task_id@local.completed",
+            "fullExpression": "task_gp_@local.module_id@local.join@local.task_id@local.completed",
             "matchedExpression": "@local.task_id",
             "type": "local",
             "fieldName": "task_id"
           },
           {
-            "fullExpression": "task_gp_@local.topic_id@local.join@local.task_id@local.completed",
+            "fullExpression": "task_gp_@local.module_id@local.join@local.task_id@local.completed",
             "matchedExpression": "@local.completed",
             "type": "local",
             "fieldName": "completed"
@@ -278,7 +278,7 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.topic_id": [
+        "@local.module_id": [
           "value"
         ],
         "@local.join": [
@@ -733,21 +733,21 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "do_this_topic_together",
-            "@fields.do_topics_together"
+            "do_this_module_together",
+            "@fields.do_modules_together"
           ],
-          "_raw": "click | set_field: do_this_topic_together: @fields.do_topics_together",
-          "_cleaned": "click | set_field: do_this_topic_together: @fields.do_topics_together"
+          "_raw": "click | set_field: do_this_module_together: @fields.do_modules_together",
+          "_cleaned": "click | set_field: do_this_module_together: @fields.do_modules_together"
         },
         {
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "current_topic",
-            "@local.topic_id"
+            "current_module",
+            "@local.module_id"
           ],
-          "_raw": "click | set_field: current_topic: @local.topic_id",
-          "_cleaned": "click | set_field: current_topic: @local.topic_id"
+          "_raw": "click | set_field: current_module: @local.module_id",
+          "_cleaned": "click | set_field: current_module: @local.module_id"
         },
         {
           "trigger": "click",
@@ -814,27 +814,27 @@
             "args": {
               "1": [
                 {
-                  "fullExpression": "@fields.do_topics_together",
-                  "matchedExpression": "@fields.do_topics_together",
+                  "fullExpression": "@fields.do_modules_together",
+                  "matchedExpression": "@fields.do_modules_together",
                   "type": "fields",
-                  "fieldName": "do_topics_together"
+                  "fieldName": "do_modules_together"
                 }
               ]
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field: do_this_topic_together: @fields.do_topics_together",
-                "matchedExpression": "@fields.do_topics_together",
+                "fullExpression": "click | set_field: do_this_module_together: @fields.do_modules_together",
+                "matchedExpression": "@fields.do_modules_together",
                 "type": "fields",
-                "fieldName": "do_topics_together"
+                "fieldName": "do_modules_together"
               }
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field: do_this_topic_together: @fields.do_topics_together",
-                "matchedExpression": "@fields.do_topics_together",
+                "fullExpression": "click | set_field: do_this_module_together: @fields.do_modules_together",
+                "matchedExpression": "@fields.do_modules_together",
                 "type": "fields",
-                "fieldName": "do_topics_together"
+                "fieldName": "do_modules_together"
               }
             ]
           },
@@ -842,27 +842,27 @@
             "args": {
               "1": [
                 {
-                  "fullExpression": "@local.topic_id",
-                  "matchedExpression": "@local.topic_id",
+                  "fullExpression": "@local.module_id",
+                  "matchedExpression": "@local.module_id",
                   "type": "local",
-                  "fieldName": "topic_id"
+                  "fieldName": "module_id"
                 }
               ]
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field: current_topic: @local.topic_id",
-                "matchedExpression": "@local.topic_id",
+                "fullExpression": "click | set_field: current_module: @local.module_id",
+                "matchedExpression": "@local.module_id",
                 "type": "local",
-                "fieldName": "topic_id"
+                "fieldName": "module_id"
               }
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field: current_topic: @local.topic_id",
-                "matchedExpression": "@local.topic_id",
+                "fullExpression": "click | set_field: current_module: @local.module_id",
+                "matchedExpression": "@local.module_id",
                 "type": "local",
-                "fieldName": "topic_id"
+                "fieldName": "module_id"
               }
             ]
           },
@@ -959,12 +959,12 @@
           "action_list.0._cleaned",
           "parameter_list.completed_field"
         ],
-        "@fields.do_topics_together": [
+        "@fields.do_modules_together": [
           "action_list.2.args.1",
           "action_list.2._raw",
           "action_list.2._cleaned"
         ],
-        "@local.topic_id": [
+        "@local.module_id": [
           "action_list.3.args.1",
           "action_list.3._raw",
           "action_list.3._cleaned"
@@ -993,5 +993,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/module_navigation.xlsx"
+  "_xlsxPath": "templates/modules/module_navigation.xlsx"
 }

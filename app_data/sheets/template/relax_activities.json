@@ -1,0 +1,203 @@
+{
+  "flow_type": "template",
+  "flow_name": "relax_activities",
+  "status": "released",
+  "rows": [
+    {
+      "type": "display_group",
+      "name": "heading",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "value": "@data.library.relax_activities.title",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "style": "tiny"
+          },
+          "_nested_name": "heading.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.library.relax_activities.title",
+                "matchedExpression": "@data.library.relax_activities.title",
+                "type": "data",
+                "fieldName": "library"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@data.library.relax_activities.title": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "heading"
+    },
+    {
+      "type": "items",
+      "value": "@data.relax",
+      "rows": [
+        {
+          "type": "display_group",
+          "name": "dg_@item.id",
+          "parameter_list": {
+            "style": "column"
+          },
+          "rows": [
+            {
+              "type": "button",
+              "name": "button_@item.id",
+              "value": "@item.title",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "pop_up",
+                  "args": [
+                    "@item.id"
+                  ],
+                  "_raw": "click | pop_up: @item.id | fullscreen: true",
+                  "_cleaned": "click | pop_up: @item.id | fullscreen: true",
+                  "params": {
+                    "fullscreen": true
+                  }
+                }
+              ],
+              "exclude_from_translation": true,
+              "parameter_list": {
+                "style": "card"
+              },
+              "_nested_name": "items.dg_@item.id.button_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "button_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
+                    "type": "item",
+                    "fieldName": "title"
+                  }
+                ],
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@item.id",
+                          "matchedExpression": "@item.id",
+                          "type": "item",
+                          "fieldName": "id"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | pop_up: @item.id | fullscreen: true",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | pop_up: @item.id | fullscreen: true",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  }
+                },
+                "_nested_name": [
+                  {
+                    "fullExpression": "items.dg_@item.id.button_@item.id",
+                    "matchedExpression": "@item.id.button_",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "items.dg_@item.id.button_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "action_list.0.args.0",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "_nested_name"
+                ],
+                "@item.title": [
+                  "value"
+                ],
+                "@item.id.button_": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "items.dg_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "dg_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items.dg_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        }
+      ],
+      "name": "items",
+      "_nested_name": "items",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.relax",
+            "matchedExpression": "@data.relax",
+            "type": "data",
+            "fieldName": "relax"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.relax": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/library/relax_activities.xlsx"
+}

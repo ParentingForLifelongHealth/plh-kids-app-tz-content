@@ -160,32 +160,85 @@
       }
     },
     {
-      "type": "template",
-      "name": "nav_buttons",
-      "value": "nav_buttons",
+      "type": "button",
+      "name": "button_@item.id",
+      "value": "Transcript",
+      "_translations": {
+        "value": {}
+      },
       "action_list": [
         {
-          "trigger": "completed",
-          "action_id": "emit",
+          "trigger": "click",
+          "action_id": "pop_up",
           "args": [
-            "completed"
+            "text_@local.id"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
-        },
-        {
-          "trigger": "uncompleted",
-          "action_id": "emit",
-          "args": [
-            "uncompleted"
-          ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "click | pop_up: text_@local.id",
+          "_cleaned": "click | pop_up: text_@local.id"
         }
       ],
-      "rows": [],
-      "_nested_name": "nav_buttons"
+      "exclude_from_translation": true,
+      "_nested_name": "button_@item.id",
+      "_dynamicFields": {
+        "name": [
+          {
+            "fullExpression": "button_@item.id",
+            "matchedExpression": "@item.id",
+            "type": "item",
+            "fieldName": "id"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "text_@local.id",
+                  "matchedExpression": "@local.id",
+                  "type": "local",
+                  "fieldName": "id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | pop_up: text_@local.id",
+                "matchedExpression": "@local.id",
+                "type": "local",
+                "fieldName": "id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | pop_up: text_@local.id",
+                "matchedExpression": "@local.id",
+                "type": "local",
+                "fieldName": "id"
+              }
+            ]
+          }
+        },
+        "_nested_name": [
+          {
+            "fullExpression": "button_@item.id",
+            "matchedExpression": "@item.id",
+            "type": "item",
+            "fieldName": "id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@item.id": [
+          "name",
+          "_nested_name"
+        ],
+        "@local.id": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
     }
   ],
-  "_xlsxPath": "templates/modules/warm_up_activities.xlsx"
+  "_xlsxPath": "templates/library/relax_activities.xlsx"
 }

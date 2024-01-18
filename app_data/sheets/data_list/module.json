@@ -1,0 +1,142 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "module",
+  "data_list_name": "module",
+  "status": "released",
+  "rows": [
+    {
+      "id": "welcome",
+      "number": 1,
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Introduction",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Introduction"
+        }
+      }
+    },
+    {
+      "id": "connect",
+      "number": 2,
+      "image_asset": "images/modules/connect/busy_parent.png",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_2",
+      "title": "Connect",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Connect"
+        },
+        "description": {
+          "eng": "There are so many pressures of daily life. Parenting is indeed a juggling act. But it's always important to take a pause and connect. Connect with your child and connect with yourself."
+        }
+      },
+      "description": "There are so many pressures of daily life. Parenting is indeed a juggling act. But it's always important to take a pause and connect. Connect with your child and connect with yourself."
+    },
+    {
+      "id": "play",
+      "number": 3,
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_3",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Play",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Play"
+        }
+      }
+    },
+    {
+      "id": "talk",
+      "number": 4,
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_4",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Talk",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Talk"
+        }
+      }
+    },
+    {
+      "id": "explore",
+      "number": 5,
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_5",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Explore",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Explore"
+        }
+      }
+    },
+    {
+      "id": "create",
+      "number": 6,
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_6",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Create",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Create"
+        }
+      }
+    },
+    {
+      "id": "build",
+      "number": 7,
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_7",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Build",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Build"
+        }
+      }
+    },
+    {
+      "id": "summary",
+      "number": 8,
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_8",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Summary",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Summary"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/modules/modules.xlsx"
+}

@@ -3,7 +3,7 @@
   "flow_name": "gen_module_overview",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "topic_data",
+    "input_data_list": "module",
     "output_flow_name": "module_overview_@gen.id",
     "output_flow_type": "template",
     "output_flow_subtype": "generated"
@@ -35,11 +35,11 @@
       ],
       "rows": [
         {
-          "name": "topic_id",
+          "name": "module_id",
           "value": "@gen.id"
         }
       ]
     }
   ],
-  "_xlsxPath": "templates/module_navigation.xlsx"
+  "_xlsxPath": "templates/modules/module_navigation.xlsx"
 }
