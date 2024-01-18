@@ -7,8 +7,8 @@
       "name": "button_list",
       "value": [
         "image: images/logos/plh_white.png | target_template: home_screen",
-        "image: images/icons/book_outline_white.svg | target_template: library",
-        "image: images/icons/star_outline_white.svg | target_template: relax_animation"
+        "image: images/icons/book_outline_white.svg | target_template: picture_books",
+        "image: images/icons/star_outline_white.svg | target_template: relax_activities"
       ],
       "type": "set_variable",
       "_nested_name": "button_list"

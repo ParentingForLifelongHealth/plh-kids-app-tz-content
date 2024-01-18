@@ -1,0 +1,156 @@
+{
+  "flow_type": "template",
+  "flow_name": "picture_books",
+  "status": "released",
+  "rows": [
+    {
+      "type": "display_group",
+      "name": "heading",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "value": "@data.library.picture_books.title",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "style": "tiny"
+          },
+          "_nested_name": "heading.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.library.picture_books.title",
+                "matchedExpression": "@data.library.picture_books.title",
+                "type": "data",
+                "fieldName": "library"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@data.library.picture_books.title": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "heading"
+    },
+    {
+      "type": "items",
+      "value": "@data.books",
+      "rows": [
+        {
+          "type": "display_group",
+          "name": "dg_@item.id",
+          "parameter_list": {
+            "style": "column"
+          },
+          "rows": [
+            {
+              "type": "button",
+              "name": "button_@item.id",
+              "value": "@item.title",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "parameter_list": {
+                "style": "card"
+              },
+              "_nested_name": "items.dg_@item.id.button_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "button_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
+                    "type": "item",
+                    "fieldName": "title"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items.dg_@item.id.button_@item.id",
+                    "matchedExpression": "@item.id.button_",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "items.dg_@item.id.button_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@item.title": [
+                  "value"
+                ],
+                "@item.id.button_": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "items.dg_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "dg_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items.dg_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        }
+      ],
+      "name": "items",
+      "_nested_name": "items",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.books",
+            "matchedExpression": "@data.books",
+            "type": "data",
+            "fieldName": "books"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.books": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/library/picture_books.xlsx"
+}

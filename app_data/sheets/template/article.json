@@ -104,30 +104,6 @@
       }
     },
     {
-      "type": "text",
-      "name": "debug_1",
-      "value": "@local.category_id",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "debug_1",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.category_id",
-            "matchedExpression": "@local.category_id",
-            "type": "local",
-            "fieldName": "category_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.category_id": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "c_data",
       "value": "@local.article_data.category_data",
       "_translations": {
@@ -147,30 +123,6 @@
       },
       "_dynamicDependencies": {
         "@local.article_data.category_data": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_2",
-      "value": "@local.c_data",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "debug_2",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.c_data",
-            "matchedExpression": "@local.c_data",
-            "type": "local",
-            "fieldName": "c_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.c_data": [
           "value"
         ]
       }
@@ -204,30 +156,6 @@
           "value"
         ],
         "@local.category_id": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_3",
-      "value": "@local.concat_category_id",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "debug_3",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.concat_category_id",
-            "matchedExpression": "@local.concat_category_id",
-            "type": "local",
-            "fieldName": "concat_category_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.concat_category_id": [
           "value"
         ]
       }

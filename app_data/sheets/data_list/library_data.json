@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "picture_books",
+      "template": "picture_books",
       "show": true,
       "title": "Picture Books",
       "_translations": {
@@ -19,6 +20,7 @@
     },
     {
       "id": "relax_activities",
+      "template": "relax_activities",
       "show": true,
       "title": "Relaxation Activities",
       "_translations": {
@@ -31,5 +33,5 @@
       }
     }
   ],
-  "_xlsxPath": "data/library_data.xlsx"
+  "_xlsxPath": "data/library/library.xlsx"
 }
