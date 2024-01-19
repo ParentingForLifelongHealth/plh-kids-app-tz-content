@@ -42,95 +42,31 @@
       "value": "@data.relax",
       "rows": [
         {
-          "type": "display_group",
-          "name": "dg_@item.id",
-          "parameter_list": {
-            "style": "column"
-          },
+          "type": "template",
+          "name": "card_@item.id",
+          "value": "relax_card",
           "rows": [
             {
-              "type": "button",
-              "name": "button_@item.id",
-              "value": "@item.title",
+              "name": "id",
+              "value": "@item.id",
               "_translations": {
                 "value": {}
               },
-              "action_list": [
-                {
-                  "trigger": "click",
-                  "action_id": "pop_up",
-                  "args": [
-                    "@item.id"
-                  ],
-                  "_raw": "click | pop_up: @item.id | fullscreen: true",
-                  "_cleaned": "click | pop_up: @item.id | fullscreen: true",
-                  "params": {
-                    "fullscreen": true
-                  }
-                }
-              ],
-              "exclude_from_translation": true,
-              "parameter_list": {
-                "style": "card"
-              },
-              "_nested_name": "items.dg_@item.id.button_@item.id",
+              "type": "set_variable",
+              "_nested_name": "items.card_@item.id.id",
               "_dynamicFields": {
-                "name": [
-                  {
-                    "fullExpression": "button_@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ],
                 "value": [
                   {
-                    "fullExpression": "@item.title",
-                    "matchedExpression": "@item.title",
-                    "type": "item",
-                    "fieldName": "title"
-                  }
-                ],
-                "action_list": {
-                  "0": {
-                    "args": {
-                      "0": [
-                        {
-                          "fullExpression": "@item.id",
-                          "matchedExpression": "@item.id",
-                          "type": "item",
-                          "fieldName": "id"
-                        }
-                      ]
-                    },
-                    "_raw": [
-                      {
-                        "fullExpression": "click | pop_up: @item.id | fullscreen: true",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | pop_up: @item.id | fullscreen: true",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ]
-                  }
-                },
-                "_nested_name": [
-                  {
-                    "fullExpression": "items.dg_@item.id.button_@item.id",
-                    "matchedExpression": "@item.id.button_",
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
-                  },
+                  }
+                ],
+                "_nested_name": [
                   {
-                    "fullExpression": "items.dg_@item.id.button_@item.id",
-                    "matchedExpression": "@item.id",
+                    "fullExpression": "items.card_@item.id.id",
+                    "matchedExpression": "@item.id.id",
                     "type": "item",
                     "fieldName": "id"
                   }
@@ -138,26 +74,19 @@
               },
               "_dynamicDependencies": {
                 "@item.id": [
-                  "name",
-                  "action_list.0.args.0",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned",
-                  "_nested_name"
-                ],
-                "@item.title": [
                   "value"
                 ],
-                "@item.id.button_": [
+                "@item.id.id": [
                   "_nested_name"
                 ]
               }
             }
           ],
-          "_nested_name": "items.dg_@item.id",
+          "_nested_name": "items.card_@item.id",
           "_dynamicFields": {
             "name": [
               {
-                "fullExpression": "dg_@item.id",
+                "fullExpression": "card_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -165,7 +94,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "items.dg_@item.id",
+                "fullExpression": "items.card_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"

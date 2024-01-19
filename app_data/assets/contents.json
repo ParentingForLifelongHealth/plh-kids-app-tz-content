@@ -399,9 +399,17 @@
     "md5Checksum": "f7bdd991a067c30d0cb140d5b77745bb",
     "size_kb": 1.1
   },
+  "images/icons/magnifying_glass.svg": {
+    "md5Checksum": "4aa37ded543f172aa02486aaf484c4f9",
+    "size_kb": 0.9
+  },
   "images/icons/parent_child.svg": {
     "md5Checksum": "99747503b2023a185d20be8e5c7d8076",
     "size_kb": 2
+  },
+  "images/icons/parent_child_heart.svg": {
+    "md5Checksum": "e0e9374e6badd81257bbb42505fbf92b",
+    "size_kb": 3
   },
   "images/icons/pause.svg": {
     "md5Checksum": "b9a01b9c0b6ed86d47ff094f22d23c73",
@@ -410,6 +418,14 @@
   "images/icons/pause_white.svg": {
     "md5Checksum": "f6989826fb94a865281b035fa155689d",
     "size_kb": 0.7
+  },
+  "images/icons/pencil.svg": {
+    "md5Checksum": "14a6e3768664f463e9fedc98b98d5805",
+    "size_kb": 1.1
+  },
+  "images/icons/picture_book.svg": {
+    "md5Checksum": "398b07248ce7b5b59ef471466d089af4",
+    "size_kb": 1.8
   },
   "images/icons/play.svg": {
     "md5Checksum": "5393d2113acd3a4b7d5f03795067a678",
@@ -423,6 +439,14 @@
     "md5Checksum": "49e1d1e478068a24949d87d09c9ba07b",
     "size_kb": 0.8
   },
+  "images/icons/smile_eyes_down.svg": {
+    "md5Checksum": "3e00c1fa0db9fabcfe65d6846e833c6e",
+    "size_kb": 0.9
+  },
+  "images/icons/smile_eyes_up.svg": {
+    "md5Checksum": "0fc25de0fd953eb65f9cb4a519aee45f",
+    "size_kb": 1
+  },
   "images/icons/star_outline_blue.svg": {
     "md5Checksum": "db0b8e4ba99b48681840fc6ec93144c1",
     "size_kb": 1
@@ -430,6 +454,10 @@
   "images/icons/star_outline_white.svg": {
     "md5Checksum": "0f9f695561b9bd2c21944bb6dd47d704",
     "size_kb": 1
+  },
+  "images/icons/thought_bubble.svg": {
+    "md5Checksum": "860f0a38023afb4e888fe885f4f02f9a",
+    "size_kb": 2.1
   },
   "images/icons/tick.svg": {
     "md5Checksum": "b4e6f1e9ba6e5bcdd2e404bc432ba745",

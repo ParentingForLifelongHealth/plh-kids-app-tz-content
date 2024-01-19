@@ -1,0 +1,179 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "connect_articles",
+  "data_list_name": "connect_articles",
+  "status": "released",
+  "rows": [
+    {
+      "id": "intro_connect",
+      "category_id": "intro",
+      "module_id": "connect",
+      "attached_single_doc": "https://docs.google.com/document/d/1WuZiBb693wLZMCHe6yie_6t2U5GxP0l3amKos3yPUco",
+      "text_1": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others.",
+      "_translations": {
+        "text_1": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others."
+        },
+        "text_2": {
+          "eng": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available."
+        }
+      },
+      "text_2": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available."
+    },
+    {
+      "id": "intro_connect_child",
+      "category_id": "intro",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_1",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_2",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_3",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_4",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_5",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_6",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_7",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_8",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_9",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_10",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_11",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "learn_12",
+      "category_id": "learn",
+      "module_id": "connect"
+    },
+    {
+      "id": "ty_1",
+      "category_id": "time_yourself",
+      "module_id": "connect"
+    },
+    {
+      "id": "ty_2",
+      "category_id": "time_yourself",
+      "module_id": "connect"
+    },
+    {
+      "id": "ty_3",
+      "category_id": "time_yourself",
+      "module_id": "connect"
+    },
+    {
+      "id": "ty_4",
+      "category_id": "time_yourself",
+      "module_id": "connect"
+    },
+    {
+      "id": "ty_5",
+      "category_id": "time_yourself",
+      "module_id": "connect"
+    },
+    {
+      "id": "tc_1",
+      "category_id": "time_child",
+      "module_id": "connect"
+    },
+    {
+      "id": "tc_2",
+      "category_id": "time_child",
+      "module_id": "connect"
+    },
+    {
+      "id": "tc_3",
+      "category_id": "time_child",
+      "module_id": "connect"
+    },
+    {
+      "id": "tc_4",
+      "category_id": "time_child",
+      "module_id": "connect"
+    },
+    {
+      "id": "tc_5",
+      "category_id": "time_child",
+      "module_id": "connect"
+    },
+    {
+      "id": "practise_1",
+      "category_id": "practise",
+      "module_id": "connect"
+    },
+    {
+      "id": "practise_2",
+      "category_id": "practise",
+      "module_id": "connect"
+    },
+    {
+      "id": "practise_3",
+      "category_id": "practise",
+      "module_id": "connect"
+    },
+    {
+      "id": "practise_4",
+      "category_id": "practise",
+      "module_id": "connect"
+    },
+    {
+      "id": "practise_5",
+      "category_id": "practise",
+      "module_id": "connect"
+    },
+    {
+      "id": "review_1",
+      "category_id": "review",
+      "module_id": "connect"
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "module_id": "connect"
+    }
+  ],
+  "_xlsxPath": "data/modules/modules.xlsx"
+}

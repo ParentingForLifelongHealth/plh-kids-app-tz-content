@@ -1,14 +1,35 @@
 {
   "flow_type": "data_list",
-  "flow_name": "module",
-  "data_list_name": "module",
+  "flow_name": "modules",
+  "data_list_name": "modules",
   "status": "released",
   "rows": [
     {
-      "id": "welcome",
-      "number": 1,
+      "id": "test",
+      "number": 0,
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Test Module",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Test Module"
+        },
+        "description": {
+          "eng": "This is a sample module for debugging."
+        }
+      },
+      "description": "This is a sample module for debugging."
+    },
+    {
+      "id": "welcome",
+      "number": 1,
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_2",
       "image_asset": "images/modules/wave.svg",
       "title": "Introduction",
       "_translations": {
@@ -24,8 +45,8 @@
       "id": "connect",
       "number": 2,
       "image_asset": "images/modules/connect/busy_parent.png",
-      "relax_id": "relax_2",
-      "check_in_id": "check_in_2",
+      "relax_id": "relax_19",
+      "check_in_id": "check_in_9",
       "title": "Connect",
       "_translations": {
         "title": {},
