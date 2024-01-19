@@ -1,13 +1,7 @@
 {
-  "flow_type": "generator",
-  "flow_name": "gen_module_overview",
-  "status": "released",
-  "parameter_list": {
-    "input_data_list": "modules",
-    "output_flow_name": "module_overview_@gen.id",
-    "output_flow_type": "template",
-    "output_flow_subtype": "generated"
-  },
+  "flow_name": "module_overview_test",
+  "flow_subtype": "generated",
+  "flow_type": "template",
   "rows": [
     {
       "type": "template",
@@ -36,10 +30,15 @@
       "rows": [
         {
           "name": "module_id",
-          "value": "@gen.id"
+          "value": "test",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module_overview.module_id"
         }
-      ]
+      ],
+      "_nested_name": "module_overview"
     }
-  ],
-  "_xlsxPath": "templates/modules/module_navigation.xlsx"
+  ]
 }

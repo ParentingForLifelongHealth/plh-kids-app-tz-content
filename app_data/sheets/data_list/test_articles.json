@@ -1,16 +1,15 @@
 {
   "flow_type": "data_list",
-  "flow_name": "connect_article",
-  "data_list_name": "connect_article",
+  "flow_name": "test_articles",
+  "data_list_name": "test_articles",
   "status": "released",
   "rows": [
     {
-      "id": "test_ignore",
+      "id": "test",
       "category_id": "intro",
-      "category_data": "connect_categories",
+      "module_id": "test",
       "media_type": "video",
-      "attached_single_doc": "https://docs.google.com/document/d/1WuZiBb693wLZMCHe6yie_6t2U5GxP0l3amKos3yPUco",
-      "text_1": "Test",
+      "text_1": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others.",
       "_translations": {
         "text_1": {},
         "text_2": {},
@@ -19,10 +18,10 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Test"
+          "eng": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others."
         },
         "text_2": {
-          "eng": "Test"
+          "eng": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available."
         },
         "media_title": {
           "eng": "How Connection Works"
@@ -106,7 +105,7 @@
           "eng": "extra_text"
         }
       },
-      "text_2": "Test",
+      "text_2": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available.",
       "media_title": "How Connection Works",
       "media_transcript": "Type out the whole transcript",
       "quiz": {
@@ -195,171 +194,72 @@
     {
       "id": "intro_connect",
       "category_id": "intro",
-      "category_data": "connect_categories",
-      "text_1": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others.",
-      "_translations": {
-        "text_1": {},
-        "text_2": {}
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with what is happening in the present moment and giving it your **full attention** is important for your own wellbeing, and for your relationships with others."
-        },
-        "text_2": {
-          "eng": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available."
-        }
-      },
-      "text_2": "Let’s do a quick exercise to help us understand connection better. \n\nYou will need something to drink for this exercise. It can be a cup of water, a glass of juice, or some tea – whatever you have available."
-    },
-    {
-      "id": "intro_connect_child",
-      "category_id": "intro",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "learn_1",
       "category_id": "learn",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "learn_2",
       "category_id": "learn",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "learn_3",
       "category_id": "learn",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "learn_4",
       "category_id": "learn",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "learn_5",
       "category_id": "learn",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "learn_6",
       "category_id": "learn",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "learn_7",
-      "category_id": "learn",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "learn_8",
-      "category_id": "learn",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "learn_9",
-      "category_id": "learn",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "learn_10",
-      "category_id": "learn",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "learn_11",
-      "category_id": "learn",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "learn_12",
-      "category_id": "learn",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "ty_1",
       "category_id": "time_yourself",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "ty_2",
       "category_id": "time_yourself",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "ty_3",
       "category_id": "time_yourself",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "ty_4",
-      "category_id": "time_yourself",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "ty_5",
-      "category_id": "time_yourself",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "tc_1",
-      "category_id": "time_child",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "tc_2",
-      "category_id": "time_child",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "tc_3",
-      "category_id": "time_child",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "tc_4",
-      "category_id": "time_child",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "tc_5",
-      "category_id": "time_child",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "practise_1",
       "category_id": "practise",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "practise_2",
       "category_id": "practise",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "practise_3",
-      "category_id": "practise",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "practise_4",
-      "category_id": "practise",
-      "category_data": "connect_categories"
-    },
-    {
-      "id": "practise_5",
-      "category_id": "practise",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "review_1",
       "category_id": "review",
-      "category_data": "connect_categories"
+      "module_id": "test"
     },
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "category_data": "connect_categories"
+      "module_id": "test"
     }
   ],
   "_xlsxPath": "data/modules/modules.xlsx"

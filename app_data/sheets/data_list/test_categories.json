@@ -1,35 +1,9 @@
 {
   "flow_type": "data_list",
-  "flow_name": "connect_category",
-  "data_list_name": "connect_category",
+  "flow_name": "test_categories",
+  "data_list_name": "test_categories",
   "status": "released",
   "rows": [
-    {
-      "id": "relax",
-      "icon_asset": "images/icons/smile_eyes_down.svg",
-      "title": "Take a Pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Take a Pause"
-        }
-      }
-    },
-    {
-      "id": "check_in",
-      "icon_asset": "images/icons/smile_eyes_up.svg",
-      "title": "Check-in",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Check-in"
-        }
-      }
-    },
     {
       "id": "intro",
       "icon_asset": "images/icons/magnifying_glass.svg",

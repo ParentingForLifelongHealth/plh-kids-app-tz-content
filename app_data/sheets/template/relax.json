@@ -142,6 +142,9 @@
       "_translations": {
         "value": {}
       },
+      "parameter_list": {
+        "title": "@local.row_data.title"
+      },
       "_nested_name": "audio",
       "_dynamicFields": {
         "value": [
@@ -151,11 +154,24 @@
             "type": "local",
             "fieldName": "audio_asset"
           }
-        ]
+        ],
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@local.row_data.title",
+              "matchedExpression": "@local.row_data.title",
+              "type": "local",
+              "fieldName": "row_data"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
         "@local.audio_asset": [
           "value"
+        ],
+        "@local.row_data.title": [
+          "parameter_list.title"
         ]
       }
     },
