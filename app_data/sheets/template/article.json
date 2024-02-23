@@ -495,7 +495,7 @@
     },
     {
       "type": "template",
-      "name": "question",
+      "name": "question_1",
       "value": "question",
       "condition": "!!(@local.article_data.quiz_1_question)",
       "rows": [
@@ -506,7 +506,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "question.article_id",
+          "_nested_name": "question_1.article_id",
           "_dynamicFields": {
             "value": [
               {
@@ -530,7 +530,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "question.data",
+          "_nested_name": "question_1.data",
           "_dynamicFields": {
             "value": [
               {
@@ -551,10 +551,10 @@
           "name": "question_no",
           "value": 1,
           "type": "set_variable",
-          "_nested_name": "question.question_no"
+          "_nested_name": "question_1.question_no"
         }
       ],
-      "_nested_name": "question",
+      "_nested_name": "question_1",
       "_dynamicFields": {
         "condition": [
           {
@@ -573,7 +573,7 @@
     },
     {
       "type": "template",
-      "name": "question",
+      "name": "question_2",
       "value": "question",
       "condition": "!!(@local.article_data.quiz_2_question)",
       "rows": [
@@ -584,7 +584,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "question.article_id",
+          "_nested_name": "question_2.article_id",
           "_dynamicFields": {
             "value": [
               {
@@ -608,7 +608,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "question.data",
+          "_nested_name": "question_2.data",
           "_dynamicFields": {
             "value": [
               {
@@ -629,10 +629,10 @@
           "name": "question_no",
           "value": 2,
           "type": "set_variable",
-          "_nested_name": "question.question_no"
+          "_nested_name": "question_2.question_no"
         }
       ],
-      "_nested_name": "question",
+      "_nested_name": "question_2",
       "_dynamicFields": {
         "condition": [
           {
@@ -651,7 +651,7 @@
     },
     {
       "type": "template",
-      "name": "question",
+      "name": "question_3",
       "value": "question",
       "condition": "!!(@local.article_data.quiz_3_question)",
       "rows": [
@@ -662,7 +662,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "question.article_id",
+          "_nested_name": "question_3.article_id",
           "_dynamicFields": {
             "value": [
               {
@@ -686,7 +686,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "question.data",
+          "_nested_name": "question_3.data",
           "_dynamicFields": {
             "value": [
               {
@@ -707,10 +707,10 @@
           "name": "question_no",
           "value": 3,
           "type": "set_variable",
-          "_nested_name": "question.question_no"
+          "_nested_name": "question_3.question_no"
         }
       ],
-      "_nested_name": "question",
+      "_nested_name": "question_3",
       "_dynamicFields": {
         "condition": [
           {
@@ -729,7 +729,7 @@
     },
     {
       "type": "template",
-      "name": "sections",
+      "name": "section_1",
       "value": "sections",
       "condition": "!!(@local.article_data.section_1_text)",
       "rows": [
@@ -740,7 +740,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "sections.article_id",
+          "_nested_name": "section_1.article_id",
           "_dynamicFields": {
             "value": [
               {
@@ -764,7 +764,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "sections.data",
+          "_nested_name": "section_1.data",
           "_dynamicFields": {
             "value": [
               {
@@ -785,10 +785,10 @@
           "name": "section_no",
           "value": 1,
           "type": "set_variable",
-          "_nested_name": "sections.section_no"
+          "_nested_name": "section_1.section_no"
         }
       ],
-      "_nested_name": "sections",
+      "_nested_name": "section_1",
       "_dynamicFields": {
         "condition": [
           {
@@ -807,7 +807,7 @@
     },
     {
       "type": "template",
-      "name": "sections",
+      "name": "section_2",
       "value": "sections",
       "condition": "!!(@local.article_data.section_2_text)",
       "rows": [
@@ -818,7 +818,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "sections.article_id",
+          "_nested_name": "section_2.article_id",
           "_dynamicFields": {
             "value": [
               {
@@ -842,7 +842,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "sections.data",
+          "_nested_name": "section_2.data",
           "_dynamicFields": {
             "value": [
               {
@@ -863,10 +863,10 @@
           "name": "section_no",
           "value": 2,
           "type": "set_variable",
-          "_nested_name": "sections.section_no"
+          "_nested_name": "section_2.section_no"
         }
       ],
-      "_nested_name": "sections",
+      "_nested_name": "section_2",
       "_dynamicFields": {
         "condition": [
           {
@@ -885,7 +885,7 @@
     },
     {
       "type": "template",
-      "name": "sections",
+      "name": "section_3",
       "value": "sections",
       "condition": "!!(@local.article_data.section_3_text)",
       "rows": [
@@ -896,7 +896,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "sections.article_id",
+          "_nested_name": "section_3.article_id",
           "_dynamicFields": {
             "value": [
               {
@@ -920,7 +920,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "sections.data",
+          "_nested_name": "section_3.data",
           "_dynamicFields": {
             "value": [
               {
@@ -941,10 +941,10 @@
           "name": "section_no",
           "value": 3,
           "type": "set_variable",
-          "_nested_name": "sections.section_no"
+          "_nested_name": "section_3.section_no"
         }
       ],
-      "_nested_name": "sections",
+      "_nested_name": "section_3",
       "_dynamicFields": {
         "condition": [
           {
