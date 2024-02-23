@@ -103,17 +103,6 @@
   },
   "data_pipe": {},
   "generator": {
-    "check_in_generator": {
-      "flow_type": "generator",
-      "flow_name": "check_in_generator",
-      "parameter_list": {
-        "input_data_list": "check_in",
-        "output_flow_name": "@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "templates/modules/check_in.xlsx"
-    },
     "connect_article_generator": {
       "flow_type": "generator",
       "flow_name": "connect_article_generator",
@@ -123,7 +112,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/modules/articles.xlsx"
+      "_xlsxPath": "templates/modules/article_generators.xlsx"
     },
     "gen_module_overview": {
       "flow_type": "generator",
@@ -167,7 +156,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/modules/articles.xlsx"
+      "_xlsxPath": "templates/modules/article_generators.xlsx"
     }
   },
   "global": {
@@ -226,6 +215,11 @@
       "flow_type": "template",
       "flow_name": "article",
       "_xlsxPath": "templates/modules/articles.xlsx"
+    },
+    "category": {
+      "flow_type": "template",
+      "flow_name": "category",
+      "_xlsxPath": "templates/modules/categories.xlsx"
     },
     "category_card": {
       "flow_type": "template",
@@ -497,86 +491,6 @@
     },
     "article_test_review_1": {
       "flow_name": "article_test_review_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_1": {
-      "flow_name": "check_in_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_10": {
-      "flow_name": "check_in_10",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_11": {
-      "flow_name": "check_in_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_12": {
-      "flow_name": "check_in_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_13": {
-      "flow_name": "check_in_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_14": {
-      "flow_name": "check_in_14",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_15": {
-      "flow_name": "check_in_15",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_16": {
-      "flow_name": "check_in_16",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_2": {
-      "flow_name": "check_in_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_3": {
-      "flow_name": "check_in_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_4": {
-      "flow_name": "check_in_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_5": {
-      "flow_name": "check_in_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_6": {
-      "flow_name": "check_in_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_7": {
-      "flow_name": "check_in_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_8": {
-      "flow_name": "check_in_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "check_in_9": {
-      "flow_name": "check_in_9",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
