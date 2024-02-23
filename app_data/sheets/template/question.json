@@ -210,7 +210,7 @@
     },
     {
       "name": "question_column",
-      "value": "quiz.@local.question_no.@local.question",
+      "value": "quiz@local.join@local.question_no@local.join@local.question",
       "_translations": {
         "value": {}
       },
@@ -219,13 +219,25 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.question",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.question",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.question",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.question",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.question",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.question",
             "matchedExpression": "@local.question",
             "type": "local",
             "fieldName": "question"
@@ -233,6 +245,10 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -324,7 +340,7 @@
     },
     {
       "name": "option_column_1_text",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
       "_translations": {
         "value": {}
       },
@@ -333,25 +349,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
             "matchedExpression": "@local.option_no_1",
             "type": "local",
             "fieldName": "option_no_1"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.text",
             "matchedExpression": "@local.text",
             "type": "local",
             "fieldName": "text"
@@ -359,6 +399,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -375,7 +421,7 @@
     },
     {
       "name": "option_column_1_image",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
       "_translations": {
         "value": {}
       },
@@ -384,25 +430,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
             "matchedExpression": "@local.option_no_1",
             "type": "local",
             "fieldName": "option_no_1"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_1.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_1@local.join@local.image",
             "matchedExpression": "@local.image",
             "type": "local",
             "fieldName": "image"
@@ -410,6 +480,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -555,7 +631,7 @@
     },
     {
       "name": "option_column_2_text",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
       "_translations": {
         "value": {}
       },
@@ -564,25 +640,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
             "matchedExpression": "@local.option_no_2",
             "type": "local",
             "fieldName": "option_no_2"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.text",
             "matchedExpression": "@local.text",
             "type": "local",
             "fieldName": "text"
@@ -590,6 +690,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -606,7 +712,7 @@
     },
     {
       "name": "option_column_2_image",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
       "_translations": {
         "value": {}
       },
@@ -615,25 +721,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
             "matchedExpression": "@local.option_no_2",
             "type": "local",
             "fieldName": "option_no_2"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_2.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_2@local.join@local.image",
             "matchedExpression": "@local.image",
             "type": "local",
             "fieldName": "image"
@@ -641,6 +771,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -786,7 +922,7 @@
     },
     {
       "name": "option_column_3_text",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
       "_translations": {
         "value": {}
       },
@@ -795,25 +931,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
             "matchedExpression": "@local.option_no_3",
             "type": "local",
             "fieldName": "option_no_3"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.text",
             "matchedExpression": "@local.text",
             "type": "local",
             "fieldName": "text"
@@ -821,6 +981,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -837,7 +1003,7 @@
     },
     {
       "name": "option_column_3_image",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
       "_translations": {
         "value": {}
       },
@@ -846,25 +1012,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
             "matchedExpression": "@local.option_no_3",
             "type": "local",
             "fieldName": "option_no_3"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_3.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_3@local.join@local.image",
             "matchedExpression": "@local.image",
             "type": "local",
             "fieldName": "image"
@@ -872,6 +1062,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -1017,7 +1213,7 @@
     },
     {
       "name": "option_column_4_text",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
       "_translations": {
         "value": {}
       },
@@ -1026,25 +1222,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
             "matchedExpression": "@local.option_no_4",
             "type": "local",
             "fieldName": "option_no_4"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.text",
             "matchedExpression": "@local.text",
             "type": "local",
             "fieldName": "text"
@@ -1052,6 +1272,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -1068,7 +1294,7 @@
     },
     {
       "name": "option_column_4_image",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
       "_translations": {
         "value": {}
       },
@@ -1077,25 +1303,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
             "matchedExpression": "@local.option_no_4",
             "type": "local",
             "fieldName": "option_no_4"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_4.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_4@local.join@local.image",
             "matchedExpression": "@local.image",
             "type": "local",
             "fieldName": "image"
@@ -1103,6 +1353,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -1248,7 +1504,7 @@
     },
     {
       "name": "option_column_5_text",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
       "_translations": {
         "value": {}
       },
@@ -1257,25 +1513,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
             "matchedExpression": "@local.option_no_5",
             "type": "local",
             "fieldName": "option_no_5"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.text",
             "matchedExpression": "@local.text",
             "type": "local",
             "fieldName": "text"
@@ -1283,6 +1563,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -1299,7 +1585,7 @@
     },
     {
       "name": "option_column_5_image",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
       "_translations": {
         "value": {}
       },
@@ -1308,25 +1594,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
             "matchedExpression": "@local.option_no_5",
             "type": "local",
             "fieldName": "option_no_5"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_5.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_5@local.join@local.image",
             "matchedExpression": "@local.image",
             "type": "local",
             "fieldName": "image"
@@ -1334,6 +1644,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -1479,7 +1795,7 @@
     },
     {
       "name": "option_column_6_text",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.text",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
       "_translations": {
         "value": {}
       },
@@ -1488,25 +1804,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
             "matchedExpression": "@local.option_no_6",
             "type": "local",
             "fieldName": "option_no_6"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.text",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.text",
             "matchedExpression": "@local.text",
             "type": "local",
             "fieldName": "text"
@@ -1514,6 +1854,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -1530,7 +1876,7 @@
     },
     {
       "name": "option_column_6_image",
-      "value": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.image",
+      "value": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
       "_translations": {
         "value": {}
       },
@@ -1539,25 +1885,49 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
             "matchedExpression": "@local.question_no",
             "type": "local",
             "fieldName": "question_no"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
             "matchedExpression": "@local.option",
             "type": "local",
             "fieldName": "option"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
             "matchedExpression": "@local.option_no_6",
             "type": "local",
             "fieldName": "option_no_6"
           },
           {
-            "fullExpression": "quiz.@local.question_no.@local.option.@local.option_no_6.@local.image",
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "quiz@local.join@local.question_no@local.join@local.option@local.join@local.option_no_6@local.join@local.image",
             "matchedExpression": "@local.image",
             "type": "local",
             "fieldName": "image"
@@ -1565,6 +1935,12 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.join": [
+          "value",
+          "value",
+          "value",
+          "value"
+        ],
         "@local.question_no": [
           "value"
         ],
@@ -2071,7 +2447,7 @@
         },
         {
           "name": "feedback_column_1",
-          "value": "quiz.@local.question_no.@local.feedback.@local.feedback_no_1",
+          "value": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_1",
           "_translations": {
             "value": {}
           },
@@ -2080,19 +2456,37 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_1",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_1",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_1",
                 "matchedExpression": "@local.question_no",
                 "type": "local",
                 "fieldName": "question_no"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_1",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_1",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_1",
                 "matchedExpression": "@local.feedback",
                 "type": "local",
                 "fieldName": "feedback"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_1",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_1",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_1",
                 "matchedExpression": "@local.feedback_no_1",
                 "type": "local",
                 "fieldName": "feedback_no_1"
@@ -2100,6 +2494,11 @@
             ]
           },
           "_dynamicDependencies": {
+            "@local.join": [
+              "value",
+              "value",
+              "value"
+            ],
             "@local.question_no": [
               "value"
             ],
@@ -2202,7 +2601,7 @@
         },
         {
           "name": "feedback_column_2",
-          "value": "quiz.@local.question_no.@local.feedback.@local.feedback_no_2",
+          "value": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_2",
           "_translations": {
             "value": {}
           },
@@ -2211,19 +2610,37 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_2",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_2",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_2",
                 "matchedExpression": "@local.question_no",
                 "type": "local",
                 "fieldName": "question_no"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_2",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_2",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_2",
                 "matchedExpression": "@local.feedback",
                 "type": "local",
                 "fieldName": "feedback"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_2",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_2",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_2",
                 "matchedExpression": "@local.feedback_no_2",
                 "type": "local",
                 "fieldName": "feedback_no_2"
@@ -2231,6 +2648,11 @@
             ]
           },
           "_dynamicDependencies": {
+            "@local.join": [
+              "value",
+              "value",
+              "value"
+            ],
             "@local.question_no": [
               "value"
             ],
@@ -2333,7 +2755,7 @@
         },
         {
           "name": "feedback_column_3",
-          "value": "quiz.@local.question_no.@local.feedback.@local.feedback_no_3",
+          "value": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_3",
           "_translations": {
             "value": {}
           },
@@ -2342,19 +2764,37 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_3",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_3",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_3",
                 "matchedExpression": "@local.question_no",
                 "type": "local",
                 "fieldName": "question_no"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_3",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_3",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_3",
                 "matchedExpression": "@local.feedback",
                 "type": "local",
                 "fieldName": "feedback"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_3",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_3",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_3",
                 "matchedExpression": "@local.feedback_no_3",
                 "type": "local",
                 "fieldName": "feedback_no_3"
@@ -2362,6 +2802,11 @@
             ]
           },
           "_dynamicDependencies": {
+            "@local.join": [
+              "value",
+              "value",
+              "value"
+            ],
             "@local.question_no": [
               "value"
             ],
@@ -2464,7 +2909,7 @@
         },
         {
           "name": "feedback_column_4",
-          "value": "quiz.@local.question_no.@local.feedback.@local.feedback_no_4",
+          "value": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_4",
           "_translations": {
             "value": {}
           },
@@ -2473,19 +2918,37 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_4",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_4",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_4",
                 "matchedExpression": "@local.question_no",
                 "type": "local",
                 "fieldName": "question_no"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_4",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_4",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_4",
                 "matchedExpression": "@local.feedback",
                 "type": "local",
                 "fieldName": "feedback"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_4",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_4",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_4",
                 "matchedExpression": "@local.feedback_no_4",
                 "type": "local",
                 "fieldName": "feedback_no_4"
@@ -2493,6 +2956,11 @@
             ]
           },
           "_dynamicDependencies": {
+            "@local.join": [
+              "value",
+              "value",
+              "value"
+            ],
             "@local.question_no": [
               "value"
             ],
@@ -2595,7 +3063,7 @@
         },
         {
           "name": "feedback_column_5",
-          "value": "quiz.@local.question_no.@local.feedback.@local.feedback_no_5",
+          "value": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_5",
           "_translations": {
             "value": {}
           },
@@ -2604,19 +3072,37 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_5",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_5",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_5",
                 "matchedExpression": "@local.question_no",
                 "type": "local",
                 "fieldName": "question_no"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_5",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_5",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_5",
                 "matchedExpression": "@local.feedback",
                 "type": "local",
                 "fieldName": "feedback"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_5",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_5",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_5",
                 "matchedExpression": "@local.feedback_no_5",
                 "type": "local",
                 "fieldName": "feedback_no_5"
@@ -2624,6 +3110,11 @@
             ]
           },
           "_dynamicDependencies": {
+            "@local.join": [
+              "value",
+              "value",
+              "value"
+            ],
             "@local.question_no": [
               "value"
             ],
@@ -2723,7 +3214,7 @@
         },
         {
           "name": "feedback_column_6",
-          "value": "quiz.@local.question_no.@local.feedback.@local.feedback_no_6",
+          "value": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_6",
           "_translations": {
             "value": {}
           },
@@ -2732,19 +3223,37 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_6",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_6",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_6",
                 "matchedExpression": "@local.question_no",
                 "type": "local",
                 "fieldName": "question_no"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_6",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_6",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_6",
                 "matchedExpression": "@local.feedback",
                 "type": "local",
                 "fieldName": "feedback"
               },
               {
-                "fullExpression": "quiz.@local.question_no.@local.feedback.@local.feedback_no_6",
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_6",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "quiz@local.join@local.question_no@local.join@local.feedback@local.join@local.feedback_no_6",
                 "matchedExpression": "@local.feedback_no_6",
                 "type": "local",
                 "fieldName": "feedback_no_6"
@@ -2752,6 +3261,11 @@
             ]
           },
           "_dynamicDependencies": {
+            "@local.join": [
+              "value",
+              "value",
+              "value"
+            ],
             "@local.question_no": [
               "value"
             ],

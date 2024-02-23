@@ -6,27 +6,521 @@
   "rows": [
     {
       "id": "who_took_my_shoe",
+      "image_cover_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_cover.jpg",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Elana Bregin",
+      "Illustrator": "Nicki Blackbeard",
+      "licence": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page4.jpg",
+      "image_2_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page5.jpg",
+      "image_3_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page6.jpg",
+      "image_4_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page7.jpg",
+      "image_5_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page8.jpg",
+      "image_6_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page9.jpg",
+      "image_7_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page10.jpg",
+      "image_8_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page11.jpg",
+      "image_9_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page12.jpg",
+      "image_10_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page13.jpg",
+      "image_11_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page14.jpg",
+      "image_12_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page15.jpg",
+      "image_13_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page16.jpg",
+      "image_14_asset": "images/books/who_took_my_shoe/who-took-my-shoe_20221127_page17.jpg",
+      "Other Credits:": "This book has been published on StoryWeaver by Book Dash. It was created at Book Dash, Durban on 29 October 2022 by Elana Bregin, Nicki Blackbeard, Kathryn\nElliott, and Mariam Mahomed.",
+      "Images Attributions:": "Cover page: Child upset with a missing shoe, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Lady behind a door, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Crouching child feeling sad, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Looking through cupboard, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Child dancing near door, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Angry face against pink, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child bending down, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child with folded arms, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Blue background with white spots, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child upset with big shoes on, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Dog against green backdrop, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Dog wagging tail, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Bird carrying shoe, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Shoe on a tree in a park, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dog under the table, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 16: Child hugging mother, dog carrying shoe outside window, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 17: Siblings holding hands, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 18: Two kids and an adult looking at dog and puppies, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 19: Shoe against white background, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "attached_single_doc": "https://docs.google.com/document/d/1fOxYbi2q7nufzKriY_0eSmz_4hcx7OOAUOUouOp_2GM",
       "title": "Who Took My Shoe?",
       "_translations": {
-        "title": {}
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2_left": {},
+        "text_2_right": {},
+        "text_3_left": {},
+        "text_3_right": {},
+        "text_4_left": {},
+        "text_4_right": {},
+        "text_5_left": {},
+        "text_5_right": {},
+        "text_6_left": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Who Took My Shoe?"
+        },
+        "description": {
+          "eng": "Jabulani has lost his school shoe. He can’t find it anywhere. Where can it be?"
+        },
+        "text_1": {
+          "eng": "“Come, Jabulani,” Ma says.“Why aren’t you ready? You’ll be late for school.”\n\n“I can’t find my shoe,” says Jabulani."
+        },
+        "text_2_left": {
+          "eng": "“Did you look under your bed?” says Ma.\n“It’s not under my bed,” Jabulani says."
+        },
+        "text_2_right": {
+          "eng": "“Did you look in the wardrobe?” Ma asks.\n\n“Yes, it’s not in the wardrobe.”"
+        },
+        "text_3_left": {
+          "eng": "“I know where your shoe is,” giggles Jabulani’s sister Lungi.\n\n“Where?” Jabulani asks.\n\n“I’m not telling you!” says Lungi"
+        },
+        "text_3_right": {
+          "eng": "“Somebody’s taken it,” Jabulani says."
+        },
+        "text_4_left": {
+          "eng": "“Why would someone take one shoe when they’ve got two feet?” says Lungi."
+        },
+        "text_4_right": {
+          "eng": "“I don’t know. Maybe they’ve hidden it to make me cross.”"
+        },
+        "text_5_left": {
+          "eng": "“Did you take my shoe?” he asks Lungi."
+        },
+        "text_5_right": {
+          "eng": "“No,” says Lungi, “your shoes are too big for me.”"
+        },
+        "text_6_left": {
+          "eng": "“Did you take my shoe?” Jabulani asks Fruit Juice the Dog."
+        },
+        "text_6_right": {
+          "eng": "She smiles her big dog smile at him and wags her tail."
+        },
+        "text_7": {
+          "eng": "“Maybe a bird picked it up and flew away with your shoe,” laughs Lungi."
+        },
+        "text_8": {
+          "eng": "“Maybe a monkey took it and left it up in a tree, ” says Jabulani."
+        },
+        "text_9": {
+          "eng": "“Don’t worry, we’ll find your shoe,” says Ma.\n“Everyone look for Jabulani’s shoe.”\n\nBut the shoe is nowhere to be found."
+        },
+        "text_10": {
+          "eng": "“It’s all right,” says Ma.\n“You can wear your takkies to school today.”"
+        },
+        "text_11": {
+          "eng": "Lungi comes rushing into the kitchen with a big smile on her face.\n\n“I know where your shoe is,” she shouts. “Come and see.”"
         }
-      }
+      },
+      "description": "Jabulani has lost his school shoe. He can’t find it anywhere. Where can it be?",
+      "text_1": "“Come, Jabulani,” Ma says.“Why aren’t you ready? You’ll be late for school.”\n\n“I can’t find my shoe,” says Jabulani.",
+      "text_2_left": "“Did you look under your bed?” says Ma.\n“It’s not under my bed,” Jabulani says.",
+      "text_2_right": "“Did you look in the wardrobe?” Ma asks.\n\n“Yes, it’s not in the wardrobe.”",
+      "text_3_left": "“I know where your shoe is,” giggles Jabulani’s sister Lungi.\n\n“Where?” Jabulani asks.\n\n“I’m not telling you!” says Lungi",
+      "text_3_right": "“Somebody’s taken it,” Jabulani says.",
+      "text_4_left": "“Why would someone take one shoe when they’ve got two feet?” says Lungi.",
+      "text_4_right": "“I don’t know. Maybe they’ve hidden it to make me cross.”",
+      "text_5_left": "“Did you take my shoe?” he asks Lungi.",
+      "text_5_right": "“No,” says Lungi, “your shoes are too big for me.”",
+      "text_6_left": "“Did you take my shoe?” Jabulani asks Fruit Juice the Dog.",
+      "text_6_right": "She smiles her big dog smile at him and wags her tail.",
+      "text_7": "“Maybe a bird picked it up and flew away with your shoe,” laughs Lungi.",
+      "text_8": "“Maybe a monkey took it and left it up in a tree, ” says Jabulani.",
+      "text_9": "“Don’t worry, we’ll find your shoe,” says Ma.\n“Everyone look for Jabulani’s shoe.”\n\nBut the shoe is nowhere to be found.",
+      "text_10": "“It’s all right,” says Ma.\n“You can wear your takkies to school today.”",
+      "text_11": "Lungi comes rushing into the kitchen with a big smile on her face.\n\n“I know where your shoe is,” she shouts. “Come and see.”"
     },
     {
-      "id": "when_will_amma_be_back",
-      "title": "When Will Amma Be Back?",
+      "id": "a_very_important_tree",
+      "image_cover_asset": "images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg",
+      "author": "Elana Bregin",
+      "Illustrator": "Liam Longland",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page4.jpg",
+      "image_2_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page5.jpg",
+      "image_3_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page6.jpg",
+      "image_4_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page7.jpg",
+      "image_5_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page8.jpg",
+      "image_6_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page9.jpg",
+      "image_7_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page10.jpg",
+      "image_8_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page11.jpg",
+      "image_9_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page12.jpg",
+      "image_10_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page13.jpg",
+      "image_11_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page14.jpg",
+      "image_12_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page15.jpg",
+      "image_13_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page16.jpg",
+      "image_14_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page17.jpg",
+      "title": "A Very Important Tree",
       "_translations": {
-        "title": {}
+        "title": {},
+        "description": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "When Will Amma Be Back?"
+          "eng": "A Very Important Tree"
+        },
+        "description": {
+          "eng": "Busi loves the big, beautiful tree outside her house.\nBut her brother wants to cut it down.\nHow will she stop him?"
         }
-      }
+      },
+      "description": "Busi loves the big, beautiful tree outside her house.\nBut her brother wants to cut it down.\nHow will she stop him?"
+    },
+    {
+      "id": "an_unexpected_adventure",
+      "image_cover_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg",
+      "author": "Carina Jooste",
+      "Illustrator": "Emma Bosman",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page4.jpg",
+      "image_2_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page5.jpg",
+      "image_3_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page6.jpg",
+      "image_4_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page7.jpg",
+      "image_5_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page8.jpg",
+      "image_6_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page9.jpg",
+      "image_7_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page10.jpg",
+      "image_8_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page11.jpg",
+      "image_9_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page12.jpg",
+      "image_10_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page13.jpg",
+      "image_11_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page14.jpg",
+      "image_12_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page15.jpg",
+      "image_13_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page16.jpg",
+      "image_14_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page17.jpg",
+      "title": "An unexpected adventure",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "An unexpected adventure"
+        },
+        "description": {
+          "eng": "A boring afternoon turns into an exciting adventure when a little boy opens a book."
+        }
+      },
+      "description": "A boring afternoon turns into an exciting adventure when a little boy opens a book."
+    },
+    {
+      "id": "no_go_sleep",
+      "image_cover_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "author": "Sarah McGregor",
+      "Illustrator": "Subi Bosa",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page4.jpg",
+      "image_2_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg",
+      "image_3_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg",
+      "image_4_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page7.jpg",
+      "image_5_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page8.jpg",
+      "image_6_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg",
+      "image_7_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg",
+      "image_8_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg",
+      "image_9_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg",
+      "image_10_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page13.jpg",
+      "image_11_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page14.jpg",
+      "image_12_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg",
+      "image_13_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page17.jpg",
+      "title": "I don't want to go to sleep",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1_left": {},
+        "text_1_right": {},
+        "text_2_left": {},
+        "text_2_right": {},
+        "text_3_left": {},
+        "text_3_right": {},
+        "text_4_left": {},
+        "text_4_right": {},
+        "text_5_left": {},
+        "text_5_right": {},
+        "text_6_left": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I don't want to go to sleep"
+        },
+        "description": {
+          "eng": "Nandi doesn’t want to go to sleep. No way! She wants to go on an adventure. Join Nandi as she lets her imagination run wild and free."
+        },
+        "text_1_left": {
+          "eng": "“Goodnight, Nandi.”"
+        },
+        "text_1_right": {
+          "eng": "“I don’t want to go to sleep!”"
+        },
+        "text_2_left": {
+          "eng": "“That’s enough now.\nGoodnight, Nandi.”"
+        },
+        "text_2_right": {
+          "eng": "“I ... don’t ... want ... to ... go ... to ... sleep.\""
+        },
+        "text_3_left": {
+          "eng": "“I want more supper.\nAnother book!\nJust one more song?”\n\n“Goodnight, Nandi.”"
+        },
+        "text_3_right": {
+          "eng": "“I don’t want to go to sleep!”"
+        },
+        "text_4_left": {
+          "eng": "\"MAMA!\n...I need a glass of water.\nPlease?\nPlease.\"\n\n“It’s time to go to sleep now.\nGoodnight, Nandi.”"
+        },
+        "text_4_right": {
+          "eng": "“I DON’T WANT TO GO TO SLEEP!”"
+        },
+        "text_5_left": {
+          "eng": "Mama sighs: “What about an adventure?\nDo you want an adventure?”"
+        },
+        "text_5_right": {
+          "eng": "“...yes...”"
+        },
+        "text_6_left": {
+          "eng": "“Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?”"
+        },
+        "text_6_right": {
+          "eng": "“Yes!Yes! Yes!”"
+        },
+        "text_7": {
+          "eng": "“I want to fly across the sky!\nLeap from star to star!\nFill my pocketswith stardust!”"
+        },
+        "text_8": {
+          "eng": "“I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!”"
+        },
+        "text_9": {
+          "eng": "“I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!”"
+        },
+        "text_10": {
+          "eng": "“Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...”"
+        },
+        "text_11": {
+          "eng": "“Goodnight, Nandi.”"
+        },
+        "text_12": {
+          "eng": "Draw your dreams here."
+        }
+      },
+      "description": "Nandi doesn’t want to go to sleep. No way! She wants to go on an adventure. Join Nandi as she lets her imagination run wild and free.",
+      "text_1_left": "“Goodnight, Nandi.”",
+      "text_1_right": "“I don’t want to go to sleep!”",
+      "text_2_left": "“That’s enough now.\nGoodnight, Nandi.”",
+      "text_2_right": "“I ... don’t ... want ... to ... go ... to ... sleep.\"",
+      "text_3_left": "“I want more supper.\nAnother book!\nJust one more song?”\n\n“Goodnight, Nandi.”",
+      "text_3_right": "“I don’t want to go to sleep!”",
+      "text_4_left": "\"MAMA!\n...I need a glass of water.\nPlease?\nPlease.\"\n\n“It’s time to go to sleep now.\nGoodnight, Nandi.”",
+      "text_4_right": "“I DON’T WANT TO GO TO SLEEP!”",
+      "text_5_left": "Mama sighs: “What about an adventure?\nDo you want an adventure?”",
+      "text_5_right": "“...yes...”",
+      "text_6_left": "“Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?”",
+      "text_6_right": "“Yes!Yes! Yes!”",
+      "text_7": "“I want to fly across the sky!\nLeap from star to star!\nFill my pocketswith stardust!”",
+      "text_8": "“I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!”",
+      "text_9": "“I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!”",
+      "text_10": "“Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...”",
+      "text_11": "“Goodnight, Nandi.”",
+      "text_12": "Draw your dreams here."
+    },
+    {
+      "id": "scared_tumi",
+      "image_cover_asset": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Mohale Mashigo",
+      "Illustrator": "Nyambura Kariuki",
+      "licence": "© Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/scared_tumi/scared-tumi_20161230_page4.jpg",
+      "image_2_asset": "images/books/scared_tumi/scared-tumi_20161230_page5.jpg",
+      "image_3_asset": "images/books/scared_tumi/scared-tumi_20161230_page6.jpg",
+      "image_4_asset": "images/books/scared_tumi/scared-tumi_20161230_page7.jpg",
+      "image_5_asset": "images/books/scared_tumi/scared-tumi_20161230_page8.jpg",
+      "image_6_asset": "images/books/scared_tumi/scared-tumi_20161230_page9.jpg",
+      "image_7_asset": "images/books/scared_tumi/scared-tumi_20161230_page10.jpg",
+      "image_8_asset": "images/books/scared_tumi/scared-tumi_20161230_page11.jpg",
+      "image_9_asset": "images/books/scared_tumi/scared-tumi_20161230_page12.jpg",
+      "image_10_asset": "images/books/scared_tumi/scared-tumi_20161230_page13.jpg",
+      "image_11_asset": "images/books/scared_tumi/scared-tumi_20161230_page14.jpg",
+      "image_12_asset": "images/books/scared_tumi/scared-tumi_20161230_page15.jpg",
+      "image_13_asset": "images/books/scared_tumi/scared-tumi_20161230_page17.jpg",
+      "Other Credits:": "This story 'Scared Tumi' has been published on Storyweaver by Bookdash.",
+      "Images Attributions:": "Cover page: Scared Boy, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 2: Boy in Fear, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 3: Mom and Child, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 4: Monster under the Bed, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mother to Rescue, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 6: Eyes in the Tub, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 7: Sister Helps, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 8: Inside a Whale, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 9: Mother and Sister to rescue, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 10: Boy's thought bubble, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 11: Family, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.Page 12: Mother, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 13: At Dentist's, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 14: Assurance, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 15: Mother's care, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 16: Miniature Octopus, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "Scared Tumi",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Scared Tumi"
+        },
+        "description": {
+          "eng": "“What if there’s a monster under my bed?” Tumi is scared. Mama tries to show him that everything is okay."
+        },
+        "text_1": {
+          "eng": "My name is Tumi and I am scared."
+        },
+        "text_2": {
+          "eng": "Mama says it’s okay to be scared. “Everybody gets scared.”"
+        },
+        "text_3": {
+          "eng": "What if there is a monster under my bed?"
+        },
+        "text_4": {
+          "eng": "“Then I will tell it to go away and NEVER come back.”"
+        },
+        "text_5": {
+          "eng": "What if there are eyes in the bath tub drain?"
+        },
+        "text_6": {
+          "eng": "“Then your big sister, Kamo, will pull you out of the bath.”"
+        },
+        "text_7": {
+          "eng": "What if a whale swallows me at the beach?"
+        },
+        "text_8": {
+          "eng": "“Then Kamo and I will swim into the whale’s mouth to rescue you.”"
+        },
+        "text_9": {
+          "eng": "What if I can’t sing ABC and the other kids laugh at me?"
+        },
+        "text_10": {
+          "eng": "“Then Teacher Jill will help you remember.”"
+        },
+        "text_11": {
+          "eng": "What if I'm scared of going to the dentist tomorrow?"
+        },
+        "text_12": {
+          "eng": "“I will be right there holding your hand.” \nEverybody gets scared. Mama says it’s okay."
+        }
+      },
+      "description": "“What if there’s a monster under my bed?” Tumi is scared. Mama tries to show him that everything is okay.",
+      "text_1": "My name is Tumi and I am scared.",
+      "text_2": "Mama says it’s okay to be scared. “Everybody gets scared.”",
+      "text_3": "What if there is a monster under my bed?",
+      "text_4": "“Then I will tell it to go away and NEVER come back.”",
+      "text_5": "What if there are eyes in the bath tub drain?",
+      "text_6": "“Then your big sister, Kamo, will pull you out of the bath.”",
+      "text_7": "What if a whale swallows me at the beach?",
+      "text_8": "“Then Kamo and I will swim into the whale’s mouth to rescue you.”",
+      "text_9": "What if I can’t sing ABC and the other kids laugh at me?",
+      "text_10": "“Then Teacher Jill will help you remember.”",
+      "text_11": "What if I'm scared of going to the dentist tomorrow?",
+      "text_12": "“I will be right there holding your hand.” \nEverybody gets scared. Mama says it’s okay."
+    },
+    {
+      "id": "moms_red_coat",
+      "image_cover_asset": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Chrissie Kritzinger",
+      "Illustrator": "Brad Cuzen",
+      "licence": ". © Book Dash , 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page4.jpg",
+      "image_2_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page5.jpg",
+      "image_3_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page6.jpg",
+      "image_4_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page7.jpg",
+      "image_5_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page8.jpg",
+      "image_6_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page9.jpg",
+      "image_7_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page10.jpg",
+      "image_8_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page11.jpg",
+      "image_9_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page12.jpg",
+      "image_10_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page13.jpg",
+      "image_11_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page14.jpg",
+      "image_12_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page15.jpg",
+      "image_13_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page16.jpg",
+      "image_14_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page17.jpg",
+      "Other Credits:": "This book has been published on StoryWeaver by Book Dash. This book has been published on StoryWeaver by Book Dash. It was created at Book Dash, Durban on 29 October 2022 by Chrissie Kritzinger, Brad Cuzen, Meerashen Naidoo, and Zanri Kritzinger.",
+      "Images Attributions:": "Cover page: Mother and child holding a red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Child hugging mother in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Child and mother hugging, sleeping, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Adult in red coat excited, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mom kneeling next to child, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Child hugging mother as she leaves, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child lying on red coat with food, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child painting in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Child and adult gardening, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child sleeping with dirty red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Washed clothes on line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Red coat falling on lady coming out of car, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Mother patting child on head, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Clothes on drying line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dirty red coat hanging, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "Mom's Red Coat",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6_left": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_7_left": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mom's Red Coat"
+        },
+        "description": {
+          "eng": "Mom needs to go away for work. I’ll miss her. Will it help if she leaves her red coat with me?"
+        },
+        "text_1": {
+          "eng": "I love Mom’s coat! It’s red and long and warm. And it smells like Mom!"
+        },
+        "text_2": {
+          "eng": "I love doing things with Mom!\nWe picnic outside.\nShe hugs me when I come home from school.\nWe work in the garden.\nAt night, she holds me tight until I fall asleep."
+        },
+        "text_3": {
+          "eng": "‘Good news!’ says Mom. ‘I found a job! I will be away all week, but I’ll come home on weekends!’"
+        },
+        "text_4": {
+          "eng": "‘Who will hold me at night, Mom?’ ‘Who will hug me, picnic with me, garden with me?’"
+        },
+        "text_5": {
+          "eng": "‘I can see that you are sad. I will leave my red coat here with you.’ \n‘When you see it, remember that I love you and I’m coming back.’"
+        },
+        "text_6_left": {
+          "eng": "I drag the red coat outside – it’s my \npicnic blanket! It feels like Mom is with me."
+        },
+        "text_6_right": {
+          "eng": "Oops! Juice spill!"
+        },
+        "text_7": {
+          "eng": "I am sad that Mom’s not waiting at the door \nwhen I come home. I put on her coat. It’s warm and it smells like her. It feels like a hug!"
+        },
+        "text_7_left": {
+          "eng": "Oops! Paint!"
+        },
+        "text_8": {
+          "eng": "I help Gogo in the garden.\nThe long coat on the branch scares away the chickens!\nIt feels like Mom is gardening with us.\nOops! Mud!"
+        },
+        "text_9": {
+          "eng": "When it’s dark, I miss Mom most. Gogo covers me with her warm coat. It feels like Mom is holding me as I fall asleep.\nOops! Cookie crumbs!"
+        },
+        "text_10": {
+          "eng": "Mom’s red coat is warm and smells like...paint, juice, \nmud and cookie crumbs!\nOops! We need to wash it!"
+        },
+        "text_11": {
+          "eng": "The wind blows the red coat off the washing line...up into the air! It flies over the fence! It flies over the taxi!\nOops! Who did the coat fall on?"
+        },
+        "text_12": {
+          "eng": "I run and grab it! ‘Found you, coat!’ The red coat smells like Mom again. ‘Oh!’ ‘Found you, Mom! You’re back!’"
+        }
+      },
+      "description": "Mom needs to go away for work. I’ll miss her. Will it help if she leaves her red coat with me?",
+      "text_1": "I love Mom’s coat! It’s red and long and warm. And it smells like Mom!",
+      "text_2": "I love doing things with Mom!\nWe picnic outside.\nShe hugs me when I come home from school.\nWe work in the garden.\nAt night, she holds me tight until I fall asleep.",
+      "text_3": "‘Good news!’ says Mom. ‘I found a job! I will be away all week, but I’ll come home on weekends!’",
+      "text_4": "‘Who will hold me at night, Mom?’ ‘Who will hug me, picnic with me, garden with me?’",
+      "text_5": "‘I can see that you are sad. I will leave my red coat here with you.’ \n‘When you see it, remember that I love you and I’m coming back.’",
+      "text_6_left": "I drag the red coat outside – it’s my \npicnic blanket! It feels like Mom is with me.",
+      "text_6_right": "Oops! Juice spill!",
+      "text_7": "I am sad that Mom’s not waiting at the door \nwhen I come home. I put on her coat. It’s warm and it smells like her. It feels like a hug!",
+      "text_7_left": "Oops! Paint!",
+      "text_8": "I help Gogo in the garden.\nThe long coat on the branch scares away the chickens!\nIt feels like Mom is gardening with us.\nOops! Mud!",
+      "text_9": "When it’s dark, I miss Mom most. Gogo covers me with her warm coat. It feels like Mom is holding me as I fall asleep.\nOops! Cookie crumbs!",
+      "text_10": "Mom’s red coat is warm and smells like...paint, juice, \nmud and cookie crumbs!\nOops! We need to wash it!",
+      "text_11": "The wind blows the red coat off the washing line...up into the air! It flies over the fence! It flies over the taxi!\nOops! Who did the coat fall on?",
+      "text_12": "I run and grab it! ‘Found you, coat!’ The red coat smells like Mom again. ‘Oh!’ ‘Found you, Mom! You’re back!’"
     }
   ],
   "_xlsxPath": "data/library/books.xlsx"

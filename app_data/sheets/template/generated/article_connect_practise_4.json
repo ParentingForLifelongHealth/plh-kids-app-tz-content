@@ -1,0 +1,34 @@
+{
+  "flow_name": "article_connect_practise_4",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "article",
+      "value": "article",
+      "rows": [
+        {
+          "name": "data",
+          "value": "test_articles",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article.data"
+        },
+        {
+          "name": "article_id",
+          "value": "practise_4",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "article.article_id"
+        }
+      ],
+      "_nested_name": "article"
+    }
+  ]
+}
