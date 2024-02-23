@@ -15,7 +15,7 @@ config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
 // Exclude picture books assets to reduce app size for formative workshop
-config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("uncompressed")
+config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("books")
 
 config.api.db_name = "plh_kids_tz";
 
