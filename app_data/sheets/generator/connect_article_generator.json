@@ -1,0 +1,50 @@
+{
+  "flow_type": "generator",
+  "flow_name": "connect_article_generator",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "connect_articles",
+    "output_flow_name": "article_connect_@gen.id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "article",
+      "value": "article",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "data",
+          "value": "connect_articles",
+          "exclude_from_translation": true
+        },
+        {
+          "name": "article_id",
+          "value": "@gen.id"
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "templates/modules/articles.xlsx"
+}

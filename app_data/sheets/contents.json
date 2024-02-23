@@ -24,7 +24,7 @@
       "flow_type": "data_list",
       "flow_name": "check_in",
       "data_list_name": "check_in",
-      "_xlsxPath": "data/library/check_in.xlsx"
+      "_xlsxPath": "data/modules/check_in.xlsx"
     },
     "connect_articles": {
       "flow_type": "data_list",
@@ -86,7 +86,7 @@
       "flow_type": "data_list",
       "flow_name": "relax",
       "data_list_name": "relax",
-      "_xlsxPath": "data/library/relax.xlsx"
+      "_xlsxPath": "data/modules/relax.xlsx"
     },
     "test_articles": {
       "flow_type": "data_list",
@@ -103,9 +103,20 @@
   },
   "data_pipe": {},
   "generator": {
-    "article_generator": {
+    "check_in_generator": {
       "flow_type": "generator",
-      "flow_name": "article_generator",
+      "flow_name": "check_in_generator",
+      "parameter_list": {
+        "input_data_list": "check_in",
+        "output_flow_name": "@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/check_in.xlsx"
+    },
+    "connect_article_generator": {
+      "flow_type": "generator",
+      "flow_name": "connect_article_generator",
       "parameter_list": {
         "input_data_list": "connect_articles",
         "output_flow_name": "article_connect_@gen.id",
@@ -146,6 +157,17 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/library/relax_activities.xlsx"
+    },
+    "test_article_generator": {
+      "flow_type": "generator",
+      "flow_name": "test_article_generator",
+      "parameter_list": {
+        "input_data_list": "test_articles",
+        "output_flow_name": "article_test_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/articles.xlsx"
     }
   },
   "global": {
@@ -209,11 +231,6 @@
       "flow_type": "template",
       "flow_name": "category_card",
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
-    },
-    "check_in": {
-      "flow_type": "template",
-      "flow_name": "check_in",
-      "_xlsxPath": "templates/modules/check_in.xlsx"
     },
     "enter_dev_mode": {
       "flow_type": "template",
@@ -405,6 +422,161 @@
     },
     "article_connect_ty_5": {
       "flow_name": "article_connect_ty_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_home_activity_1": {
+      "flow_name": "article_test_home_activity_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_intro_connect": {
+      "flow_name": "article_test_intro_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_intro_connect_child": {
+      "flow_name": "article_test_intro_connect_child",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_1": {
+      "flow_name": "article_test_learn_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_10": {
+      "flow_name": "article_test_learn_10",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_11": {
+      "flow_name": "article_test_learn_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_2": {
+      "flow_name": "article_test_learn_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_3": {
+      "flow_name": "article_test_learn_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_4": {
+      "flow_name": "article_test_learn_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_5": {
+      "flow_name": "article_test_learn_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_6": {
+      "flow_name": "article_test_learn_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_7": {
+      "flow_name": "article_test_learn_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_8": {
+      "flow_name": "article_test_learn_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_learn_9": {
+      "flow_name": "article_test_learn_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_test_review_1": {
+      "flow_name": "article_test_review_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_1": {
+      "flow_name": "check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_10": {
+      "flow_name": "check_in_10",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_11": {
+      "flow_name": "check_in_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_12": {
+      "flow_name": "check_in_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_13": {
+      "flow_name": "check_in_13",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_14": {
+      "flow_name": "check_in_14",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_15": {
+      "flow_name": "check_in_15",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_16": {
+      "flow_name": "check_in_16",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_2": {
+      "flow_name": "check_in_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_3": {
+      "flow_name": "check_in_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_4": {
+      "flow_name": "check_in_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_5": {
+      "flow_name": "check_in_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_6": {
+      "flow_name": "check_in_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_7": {
+      "flow_name": "check_in_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_8": {
+      "flow_name": "check_in_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "check_in_9": {
+      "flow_name": "check_in_9",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

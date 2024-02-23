@@ -6,21 +6,22 @@
     {
       "type": "display_group",
       "name": "dg_header",
+      "style_list": [
+        "align-items: center"
+      ],
       "rows": [
-        {
-          "type": "title",
-          "name": "title",
-          "exclude_from_translation": "flex:3",
-          "_nested_name": "dg_header.title"
-        },
         {
           "type": "image",
           "name": "icon_asset",
-          "parameter_list": {
-            "style": "rounded_corners"
-          },
-          "exclude_from_translation": "flex:2",
+          "style_list": [
+            "width: 46px"
+          ],
           "_nested_name": "dg_header.icon_asset"
+        },
+        {
+          "type": "title",
+          "name": "title",
+          "_nested_name": "dg_header.title"
         }
       ],
       "_nested_name": "dg_header"

@@ -288,6 +288,9 @@
       "_translations": {
         "value": {}
       },
+      "parameter_list": {
+        "style": "emphasised"
+      },
       "_nested_name": "question_text",
       "_dynamicFields": {
         "value": [
@@ -2389,11 +2392,17 @@
       }
     },
     {
+      "name": "radio_button_grid_item_width",
+      "type": "set_variable",
+      "_nested_name": "radio_button_grid_item_width"
+    },
+    {
       "type": "radio_button_grid",
       "name": "selection_tool",
       "condition": "@local.has_any_image",
       "parameter_list": {
-        "answer_list": "@local.answer_list_2"
+        "answer_list": "@local.answer_list_2",
+        "item_width": "@local.radio_button_grid_item_width"
       },
       "_nested_name": "selection_tool",
       "_dynamicFields": {
@@ -2413,6 +2422,14 @@
               "type": "local",
               "fieldName": "answer_list_2"
             }
+          ],
+          "item_width": [
+            {
+              "fullExpression": "@local.radio_button_grid_item_width",
+              "matchedExpression": "@local.radio_button_grid_item_width",
+              "type": "local",
+              "fieldName": "radio_button_grid_item_width"
+            }
           ]
         }
       },
@@ -2422,6 +2439,9 @@
         ],
         "@local.answer_list_2": [
           "parameter_list.answer_list"
+        ],
+        "@local.radio_button_grid_item_width": [
+          "parameter_list.item_width"
         ]
       }
     },
