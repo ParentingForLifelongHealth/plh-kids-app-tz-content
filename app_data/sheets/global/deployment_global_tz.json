@@ -8,7 +8,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "ParentApp for Kids Tanzania",
+      "value": "ParentApp for Kids",
       "_translations": {
         "value": {}
       },
@@ -17,7 +17,7 @@
     {
       "type": "declare_global_constant",
       "name": "deployment_terms_field",
-      "value": "terms_v20240111_accepted",
+      "value": "terms_v20240215_accepted",
       "_translations": {
         "value": {}
       }
@@ -25,7 +25,7 @@
     {
       "type": "declare_global_constant",
       "name": "deployment_terms_text",
-      "value": "11 January 2024",
+      "value": "15 February 2024",
       "_translations": {
         "value": {}
       }

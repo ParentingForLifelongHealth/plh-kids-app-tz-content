@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_test_ty_2",
+  "flow_name": "article_connect_practise_5",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "ty_2",
+          "value": "practise_5",
           "_translations": {
             "value": {}
           },

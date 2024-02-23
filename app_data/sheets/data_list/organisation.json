@@ -5,6 +5,42 @@
   "data_list_name": "organisation",
   "rows": [
     {
+      "id": "organisation_1",
+      "name": "KEMAS",
+      "image_asset": "images/logos/KEMAS.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_2",
+      "name": "LPPKN",
+      "image_asset": "images/logos/LPPKN.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_3",
+      "name": "UPM",
+      "image_asset": "images/logos/UPM.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_4",
+      "name": "MASW",
+      "image_asset": "images/logos/masw.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_5",
+      "name": "UNICEF",
+      "image_asset": "images/logos/UNICEF.jpg",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_6",
+      "name": "Oxford",
+      "image_asset": "images/logos/Oxford.png",
+      "group": "partners"
+    },
+    {
       "id": "organisation_7",
       "name": "PLH",
       "image_asset": "images/logos/PLH.png",
@@ -15,6 +51,18 @@
       "name": "IDEMS",
       "image_asset": "images/logos/IDEMS.png",
       "group": "partners"
+    },
+    {
+      "id": "organisation_9",
+      "name": "THSN",
+      "image_asset": "images/logos/thsn.png",
+      "group": "funders"
+    },
+    {
+      "id": "organisation_11",
+      "name": "LEGO",
+      "image_asset": "images/logos/lego.png",
+      "group": "funders"
     }
   ],
   "_xlsxPath": "deployment_data_tz.xlsx"
