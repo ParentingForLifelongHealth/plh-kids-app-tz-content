@@ -307,37 +307,37 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "category_data",
-              "value": "@local.category_data",
+              "name": "module_id",
+              "value": "@local.module_id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items.card_@item.id.category_data",
+              "_nested_name": "items.card_@item.id.module_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.category_data",
-                    "matchedExpression": "@local.category_data",
+                    "fullExpression": "@local.module_id",
+                    "matchedExpression": "@local.module_id",
                     "type": "local",
-                    "fieldName": "category_data"
+                    "fieldName": "module_id"
                   }
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items.card_@item.id.category_data",
-                    "matchedExpression": "@item.id.category_data",
+                    "fullExpression": "items.card_@item.id.module_id",
+                    "matchedExpression": "@item.id.module_id",
                     "type": "item",
                     "fieldName": "id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.category_data": [
+                "@local.module_id": [
                   "value"
                 ],
-                "@item.id.category_data": [
+                "@item.id.module_id": [
                   "_nested_name"
                 ]
               }

@@ -6,94 +6,38 @@
   "rows": [
     {
       "id": "intro",
-      "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Introduction",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Introduction"
-        }
-      }
+      "icon_asset": "images/icons/magnifying_glass.svg"
     },
     {
       "id": "learn",
-      "icon_asset": "images/icons/picture_book.svg",
       "title": "Learn",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Learn"
-        }
-      }
+      "icon_asset": "images/icons/picture_book.svg"
     },
     {
       "id": "time_yourself",
-      "icon_asset": "images/icons/picture_book.svg",
       "title": "Time for Yourself",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Time for Yourself"
-        }
-      }
+      "icon_asset": "images/icons/picture_book.svg"
     },
     {
       "id": "time_child",
-      "icon_asset": "images/icons/picture_book.svg",
       "title": "Time with Your Child",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Time with Your Child"
-        }
-      }
+      "icon_asset": "images/icons/picture_book.svg"
     },
     {
       "id": "practise",
-      "icon_asset": "images/icons/pencil.svg",
       "title": "Practise",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Practise"
-        }
-      }
+      "icon_asset": "images/icons/pencil.svg"
     },
     {
       "id": "review",
-      "icon_asset": "images/icons/thought_bubble.svg",
       "title": "Review",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Review"
-        }
-      }
+      "icon_asset": "images/icons/thought_bubble.svg"
     },
     {
       "id": "home_activity",
-      "icon_asset": "images/icons/parent_child_heart.svg",
       "title": "Home Activity",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Home Activity"
-        }
-      }
+      "icon_asset": "images/icons/parent_child_heart.svg"
     }
   ],
   "_xlsxPath": "data/modules/modules.xlsx"

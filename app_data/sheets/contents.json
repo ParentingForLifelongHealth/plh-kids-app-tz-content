@@ -14,12 +14,6 @@
       "flow_subtype": "app_config_language_list",
       "_xlsxPath": "deployment_data_tz.xlsx"
     },
-    "books": {
-      "flow_type": "data_list",
-      "flow_name": "books",
-      "data_list_name": "books",
-      "_xlsxPath": "data/library/books.xlsx"
-    },
     "check_in": {
       "flow_type": "data_list",
       "flow_name": "check_in",
@@ -103,9 +97,9 @@
   },
   "data_pipe": {},
   "generator": {
-    "connect_article_generator": {
+    "connect_article_gen": {
       "flow_type": "generator",
-      "flow_name": "connect_article_generator",
+      "flow_name": "connect_article_gen",
       "parameter_list": {
         "input_data_list": "connect_articles",
         "output_flow_name": "article_connect_@gen.id",
@@ -113,6 +107,17 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/modules/article_generators.xlsx"
+    },
+    "connect_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "connect_category_gen",
+      "parameter_list": {
+        "input_data_list": "connect_categories",
+        "output_flow_name": "category_connect_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/categories.xlsx"
     },
     "gen_module_overview": {
       "flow_type": "generator",
@@ -147,9 +152,9 @@
       },
       "_xlsxPath": "templates/library/relax_activities.xlsx"
     },
-    "test_article_generator": {
+    "test_article_gen": {
       "flow_type": "generator",
-      "flow_name": "test_article_generator",
+      "flow_name": "test_article_gen",
       "parameter_list": {
         "input_data_list": "test_articles",
         "output_flow_name": "article_test_@gen.id",
@@ -157,6 +162,17 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/modules/article_generators.xlsx"
+    },
+    "test_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "test_category_gen",
+      "parameter_list": {
+        "input_data_list": "test_categories",
+        "output_flow_name": "category_test_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/categories.xlsx"
     }
   },
   "global": {
@@ -424,13 +440,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_test_intro_connect": {
-      "flow_name": "article_test_intro_connect",
+    "article_test_intro_1": {
+      "flow_name": "article_test_intro_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_test_intro_connect_child": {
-      "flow_name": "article_test_intro_connect_child",
+    "article_test_intro_2": {
+      "flow_name": "article_test_intro_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -491,6 +507,76 @@
     },
     "article_test_review_1": {
       "flow_name": "article_test_review_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_connect_home_activity": {
+      "flow_name": "category_connect_home_activity",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_connect_intro": {
+      "flow_name": "category_connect_intro",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_connect_learn": {
+      "flow_name": "category_connect_learn",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_connect_practise": {
+      "flow_name": "category_connect_practise",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_connect_review": {
+      "flow_name": "category_connect_review",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_connect_time_child": {
+      "flow_name": "category_connect_time_child",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_connect_time_yourself": {
+      "flow_name": "category_connect_time_yourself",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_test_home_activity": {
+      "flow_name": "category_test_home_activity",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_test_intro": {
+      "flow_name": "category_test_intro",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_test_learn": {
+      "flow_name": "category_test_learn",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_test_practise": {
+      "flow_name": "category_test_practise",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_test_review": {
+      "flow_name": "category_test_review",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_test_time_child": {
+      "flow_name": "category_test_time_child",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_test_time_yourself": {
+      "flow_name": "category_test_time_yourself",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

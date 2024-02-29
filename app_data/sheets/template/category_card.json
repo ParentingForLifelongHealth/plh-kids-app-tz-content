@@ -4,10 +4,112 @@
   "status": "released",
   "rows": [
     {
-      "name": "category_data",
-      "exclude_from_translation": true,
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
-      "_nested_name": "category_data"
+      "_nested_name": "join"
+    },
+    {
+      "name": "module_id",
+      "value": "connect",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "name": "module_concat",
+      "value": "modules.@local.module_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_concat",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "modules.@local.module_id",
+            "matchedExpression": "@local.module_id",
+            "type": "local",
+            "fieldName": "module_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "module_row",
+      "value": "@data.@local.module_concat",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_row",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.module_concat",
+            "matchedExpression": "@local.module_concat",
+            "type": "local",
+            "fieldName": "module_concat"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.module_concat": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "categories",
+      "value": "_categories",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "categories"
+    },
+    {
+      "name": "category_data",
+      "value": "@local.module_id@local.categories",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "category_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.module_id@local.categories",
+            "matchedExpression": "@local.module_id",
+            "type": "local",
+            "fieldName": "module_id"
+          },
+          {
+            "fullExpression": "@local.module_id@local.categories",
+            "matchedExpression": "@local.categories",
+            "type": "local",
+            "fieldName": "categories"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "value"
+        ],
+        "@local.categories": [
+          "value"
+        ]
+      }
     },
     {
       "name": "category_id",
@@ -164,9 +266,46 @@
     },
     {
       "name": "target_template",
+      "value": "category_@local.module_id@local.join@local.category_id",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "target_template"
+      "_nested_name": "target_template",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "category_@local.module_id@local.join@local.category_id",
+            "matchedExpression": "@local.module_id",
+            "type": "local",
+            "fieldName": "module_id"
+          },
+          {
+            "fullExpression": "category_@local.module_id@local.join@local.category_id",
+            "matchedExpression": "@local.join",
+            "type": "local",
+            "fieldName": "join"
+          },
+          {
+            "fullExpression": "category_@local.module_id@local.join@local.category_id",
+            "matchedExpression": "@local.category_id",
+            "type": "local",
+            "fieldName": "category_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "value"
+        ],
+        "@local.join": [
+          "value"
+        ],
+        "@local.category_id": [
+          "value"
+        ]
+      }
     },
     {
       "name": "task_id",
