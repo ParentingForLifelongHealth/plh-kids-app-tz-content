@@ -6,13 +6,14 @@
   "rows": [
     {
       "id": "text_1",
-      "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+      "attached_single_doc": "https://docs.google.com/document/d/1hw8McnrlhAaFhY5rDbJLsiiD7QopT7OX8z7nUwfqPJQ",
+      "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
+          "eng": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
         }
       }
     }
