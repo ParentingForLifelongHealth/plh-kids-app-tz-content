@@ -1,12 +1,12 @@
 {
-  "flow_name": "article_connect_ty_1",
+  "flow_name": "media_transcript_connect_learn_4",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "article",
-      "value": "article",
+      "name": "media_transcript",
+      "value": "media_transcript",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,26 +29,26 @@
       ],
       "rows": [
         {
-          "name": "data",
-          "value": "connect_articles",
+          "name": "article_id",
+          "value": "learn_4",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "media_transcript.article_id"
+        },
+        {
+          "name": "module_id",
+          "value": "connect",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "article.data"
-        },
-        {
-          "name": "article_id",
-          "value": "ty_1",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "article.article_id"
+          "_nested_name": "media_transcript.module_id"
         }
       ],
-      "_nested_name": "article"
+      "_nested_name": "media_transcript"
     }
   ]
 }

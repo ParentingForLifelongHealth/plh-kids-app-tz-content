@@ -119,6 +119,17 @@
       },
       "_xlsxPath": "templates/modules/categories.xlsx"
     },
+    "connect_media_transcript_gen": {
+      "flow_type": "generator",
+      "flow_name": "connect_media_transcript_gen",
+      "parameter_list": {
+        "input_data_list": "connect_articles",
+        "output_flow_name": "media_transcript_connect_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/article_generators.xlsx"
+    },
     "gen_module_overview": {
       "flow_type": "generator",
       "flow_name": "gen_module_overview",
@@ -232,6 +243,11 @@
       "flow_name": "article",
       "_xlsxPath": "templates/modules/articles.xlsx"
     },
+    "articles_connect": {
+      "flow_type": "template",
+      "flow_name": "articles_connect",
+      "_xlsxPath": "templates/modules/articles_navigation_temp.xlsx"
+    },
     "category": {
       "flow_type": "template",
       "flow_name": "category",
@@ -274,6 +290,11 @@
       "flow_name": "feature_feedback_text_select",
       "comments": "Used in /feedback debug page",
       "_xlsxPath": "templates/app_menu.xlsx"
+    },
+    "flow_connect": {
+      "flow_type": "template",
+      "flow_name": "flow_connect",
+      "_xlsxPath": "templates/modules/articles_navigation_temp.xlsx"
     },
     "footer": {
       "flow_type": "template",
@@ -355,83 +376,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_connect_practise_1": {
-      "flow_name": "article_connect_practise_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_practise_2": {
-      "flow_name": "article_connect_practise_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_practise_3": {
-      "flow_name": "article_connect_practise_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_practise_4": {
-      "flow_name": "article_connect_practise_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_practise_5": {
-      "flow_name": "article_connect_practise_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_connect_review_1": {
       "flow_name": "article_connect_review_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_tc_1": {
-      "flow_name": "article_connect_tc_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_tc_2": {
-      "flow_name": "article_connect_tc_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_tc_3": {
-      "flow_name": "article_connect_tc_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_tc_4": {
-      "flow_name": "article_connect_tc_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_tc_5": {
-      "flow_name": "article_connect_tc_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_ty_1": {
-      "flow_name": "article_connect_ty_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_ty_2": {
-      "flow_name": "article_connect_ty_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_ty_3": {
-      "flow_name": "article_connect_ty_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_ty_4": {
-      "flow_name": "article_connect_ty_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_ty_5": {
-      "flow_name": "article_connect_ty_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -525,23 +471,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "category_connect_practise": {
-      "flow_name": "category_connect_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "category_connect_review": {
       "flow_name": "category_connect_review",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_connect_time_child": {
-      "flow_name": "category_connect_time_child",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_connect_time_yourself": {
-      "flow_name": "category_connect_time_yourself",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -577,6 +508,86 @@
     },
     "category_test_time_yourself": {
       "flow_name": "category_test_time_yourself",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_home_activity_1": {
+      "flow_name": "media_transcript_connect_home_activity_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_intro_connect": {
+      "flow_name": "media_transcript_connect_intro_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_intro_connect_child": {
+      "flow_name": "media_transcript_connect_intro_connect_child",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_1": {
+      "flow_name": "media_transcript_connect_learn_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_10": {
+      "flow_name": "media_transcript_connect_learn_10",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_11": {
+      "flow_name": "media_transcript_connect_learn_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_12": {
+      "flow_name": "media_transcript_connect_learn_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_2": {
+      "flow_name": "media_transcript_connect_learn_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_3": {
+      "flow_name": "media_transcript_connect_learn_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_4": {
+      "flow_name": "media_transcript_connect_learn_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_5": {
+      "flow_name": "media_transcript_connect_learn_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_6": {
+      "flow_name": "media_transcript_connect_learn_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_7": {
+      "flow_name": "media_transcript_connect_learn_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_8": {
+      "flow_name": "media_transcript_connect_learn_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_learn_9": {
+      "flow_name": "media_transcript_connect_learn_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_transcript_connect_review_1": {
+      "flow_name": "media_transcript_connect_review_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

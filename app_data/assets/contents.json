@@ -15,6 +15,22 @@
     "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
     "size_kb": 239
   },
+  "audio/connect/swahili/Intro connect child.aac": {
+    "md5Checksum": "4073046e7e7a5d21573231c65b19d000",
+    "size_kb": 453.9
+  },
+  "audio/connect/swahili/Learn 11.m4a": {
+    "md5Checksum": "dd7e9662d8bf1cb3bada02a79afa7d4d",
+    "size_kb": 426.8
+  },
+  "audio/connect/swahili/Learn 9.m4a": {
+    "md5Checksum": "d2bc5eab5d85a8a712eeda1edd61d663",
+    "size_kb": 166.1
+  },
+  "audio/connect/swahili/learn 7.aac": {
+    "md5Checksum": "5cb236883f4b0d48ec632f5c9019a451",
+    "size_kb": 727.6
+  },
   "audio/relax/relax_1.mp3": {
     "md5Checksum": "0f92ea6022f35eec1d3f6c891ffdadb1",
     "overrides": {
@@ -491,6 +507,22 @@
     "md5Checksum": "337e3b12d2bb44180971910277789cc4",
     "size_kb": 57.7
   },
+  "images/modules/connect/daughter_face.svg": {
+    "md5Checksum": "e9be245ccd7f424ad79e00ad99fcb1cb",
+    "size_kb": 18.1
+  },
+  "images/modules/connect/facilitators_face.svg": {
+    "md5Checksum": "3f99592779a36144aee247f32dc67c32",
+    "size_kb": 16.4
+  },
+  "images/modules/connect/fathers_face.svg": {
+    "md5Checksum": "8789a7fb6cfed5a549c2a7e46129ba6f",
+    "size_kb": 13.9
+  },
+  "images/modules/connect/happy_daughters_face.svg": {
+    "md5Checksum": "da49a0382267e107050ab8bf884e8528",
+    "size_kb": 17.7
+  },
   "images/modules/connect/in_connect/book_sing_to_me.png": {
     "md5Checksum": "dd39bf7539f82244658b6f81bd077e64",
     "size_kb": 45.5
@@ -539,6 +571,14 @@
     "md5Checksum": "5d39fa06b9270a2f3712ff43d0e67a1d",
     "size_kb": 51.8
   },
+  "images/modules/connect/intro_connect.svg": {
+    "md5Checksum": "b9a79445425c7b85b66450eb18400f8d",
+    "size_kb": 115.6
+  },
+  "images/modules/connect/intro_connect_child.svg": {
+    "md5Checksum": "e78e3e5c6a68946722dd4d28b9e83fe8",
+    "size_kb": 86.3
+  },
   "images/modules/connect/join_child/slide_1.png": {
     "md5Checksum": "cb8417543bbef0694428a590d4d05c1f",
     "size_kb": 40.8
@@ -555,9 +595,73 @@
     "md5Checksum": "4bd8706a1a5ddc1610626b6fc51a410b",
     "size_kb": 55.5
   },
+  "images/modules/connect/learn_1 copy.svg": {
+    "md5Checksum": "857c26e041c824b88d9826600e0ebe8b",
+    "size_kb": 62.8
+  },
+  "images/modules/connect/learn_1.svg": {
+    "md5Checksum": "857c26e041c824b88d9826600e0ebe8b",
+    "size_kb": 62.8
+  },
+  "images/modules/connect/learn_10.svg": {
+    "md5Checksum": "f2e10e4968ee6a4b15657ca1a642d0dc",
+    "size_kb": 105.2
+  },
+  "images/modules/connect/learn_11.svg": {
+    "md5Checksum": "cd72f091adf9043108fac866b14b294e",
+    "size_kb": 164.5
+  },
+  "images/modules/connect/learn_2.svg": {
+    "md5Checksum": "fd39c77d07ba28bd45f19d5b760acb5b",
+    "size_kb": 37.7
+  },
+  "images/modules/connect/learn_3.svg": {
+    "md5Checksum": "6817d9b4f1b4abb81c9f24dc8d54a536",
+    "size_kb": 37
+  },
+  "images/modules/connect/learn_4.svg": {
+    "md5Checksum": "88b9aa50f20baa69fdc901145d7dce5a",
+    "size_kb": 38.2
+  },
+  "images/modules/connect/learn_5.svg": {
+    "md5Checksum": "395006e19b533cb4153f7dab952a7035",
+    "size_kb": 36.7
+  },
+  "images/modules/connect/learn_8.svg": {
+    "md5Checksum": "5eac61539500c857d4320e31199aa840",
+    "size_kb": 79.2
+  },
+  "images/modules/connect/learn_9.svg": {
+    "md5Checksum": "cf68ac358aa13f7d354178cc04cf98c4",
+    "size_kb": 3926.5
+  },
+  "images/modules/connect/mom_face.svg": {
+    "md5Checksum": "5b4b2da674eada3e73701bbb404dc64b",
+    "size_kb": 6.1
+  },
+  "images/modules/connect/sad_daughters_ face.svg": {
+    "md5Checksum": "a65623d760875a4213f3c1a22be23503",
+    "size_kb": 22.8
+  },
   "images/modules/connect/spend_time_together.png": {
     "md5Checksum": "5943d562e3c7e1726fb5066e0c4c0952",
     "size_kb": 1415.8
+  },
+  "images/modules/connect/thumbs_down_brown.svg": {
+    "md5Checksum": "6272850a8bdeb61cc1f453a42ebdc7fb",
+    "size_kb": 2
+  },
+  "images/modules/connect/thumbs_down_yellow.svg": {
+    "md5Checksum": "d59565a8823014298e6f2a839c96f294",
+    "size_kb": 2.2
+  },
+  "images/modules/connect/thumbs_up_brown.svg": {
+    "md5Checksum": "fb7fc409c76aa276e041d3d228253570",
+    "size_kb": 2
+  },
+  "images/modules/connect/thumbs_up_yellow.svg": {
+    "md5Checksum": "64b062a7a9a740aa9f1608dfe5ac532b",
+    "size_kb": 2
   },
   "images/modules/wave.svg": {
     "md5Checksum": "79d5f0d01dca4ab60d638b0d46d134f9",

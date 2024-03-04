@@ -1,12 +1,12 @@
 {
-  "flow_name": "category_connect_practise",
+  "flow_name": "media_transcript_connect_learn_9",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "category",
-      "value": "category",
+      "name": "media_transcript",
+      "value": "media_transcript",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,14 +29,13 @@
       ],
       "rows": [
         {
-          "name": "category_id",
-          "value": "practise",
+          "name": "article_id",
+          "value": "learn_9",
           "_translations": {
             "value": {}
           },
-          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "category.category_id"
+          "_nested_name": "media_transcript.article_id"
         },
         {
           "name": "module_id",
@@ -46,10 +45,10 @@
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "category.module_id"
+          "_nested_name": "media_transcript.module_id"
         }
       ],
-      "_nested_name": "category"
+      "_nested_name": "media_transcript"
     }
   ]
 }

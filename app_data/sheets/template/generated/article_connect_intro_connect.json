@@ -29,16 +29,6 @@
       ],
       "rows": [
         {
-          "name": "data",
-          "value": "connect_articles",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "article.data"
-        },
-        {
           "name": "article_id",
           "value": "intro_connect",
           "_translations": {
@@ -46,6 +36,16 @@
           },
           "type": "set_variable",
           "_nested_name": "article.article_id"
+        },
+        {
+          "name": "module_id",
+          "value": "connect",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article.module_id"
         }
       ],
       "_nested_name": "article"
