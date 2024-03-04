@@ -1,12 +1,18 @@
 {
-  "flow_name": "category_connect_time_child",
-  "flow_subtype": "generated",
-  "flow_type": "template",
+  "flow_type": "generator",
+  "flow_name": "connect_media_transcript_gen",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "connect_articles",
+    "output_flow_name": "media_transcript_connect_@gen.id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
   "rows": [
     {
       "type": "template",
-      "name": "category",
-      "value": "category",
+      "name": "media_transcript",
+      "value": "media_transcript",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,27 +35,16 @@
       ],
       "rows": [
         {
-          "name": "category_id",
-          "value": "time_child",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "category.category_id"
+          "name": "article_id",
+          "value": "@gen.id"
         },
         {
           "name": "module_id",
           "value": "connect",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "category.module_id"
+          "exclude_from_translation": true
         }
-      ],
-      "_nested_name": "category"
+      ]
     }
-  ]
+  ],
+  "_xlsxPath": "templates/modules/article_generators.xlsx"
 }

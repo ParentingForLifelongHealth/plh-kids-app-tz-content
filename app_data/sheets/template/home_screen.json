@@ -4,11 +4,82 @@
   "status": "released",
   "rows": [
     {
-      "type": "template",
-      "name": "module_overview_connect",
-      "value": "module_overview_connect",
-      "rows": [],
-      "_nested_name": "module_overview_connect"
+      "type": "title",
+      "name": "title",
+      "value": "Connect module",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "button",
+      "name": "button_articles",
+      "value": "List of articles",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "articles_connect"
+          ],
+          "_raw": "click | go_to: articles_connect",
+          "_cleaned": "click | go_to: articles_connect"
+        }
+      ],
+      "parameter_list": {
+        "style": "card"
+      },
+      "_nested_name": "button_articles"
+    },
+    {
+      "type": "button",
+      "name": "button_flow",
+      "value": "Articles flow",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "flow_connect"
+          ],
+          "_raw": "click | go_to: flow_connect",
+          "_cleaned": "click | go_to: flow_connect"
+        }
+      ],
+      "parameter_list": {
+        "style": "card"
+      },
+      "_nested_name": "button_flow"
+    },
+    {
+      "type": "button",
+      "name": "button_categories",
+      "value": "List of categories",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "module_overview_connect"
+          ],
+          "_raw": "click | go_to: module_overview_connect",
+          "_cleaned": "click | go_to: module_overview_connect"
+        }
+      ],
+      "parameter_list": {
+        "style": "card"
+      },
+      "_nested_name": "button_categories"
     }
   ],
   "_xlsxPath": "templates/app_navigation.xlsx"

@@ -35,13 +35,13 @@
       ],
       "rows": [
         {
-          "name": "data",
-          "value": "test_articles",
-          "exclude_from_translation": true
-        },
-        {
           "name": "article_id",
           "value": "@gen.id"
+        },
+        {
+          "name": "module_id",
+          "value": "test",
+          "exclude_from_translation": true
         }
       ]
     }

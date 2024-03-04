@@ -31,45 +31,6 @@
       }
     },
     {
-      "id": "time_yourself",
-      "icon_asset": "images/icons/picture_book.svg",
-      "title": "Time for Yourself",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Time for Yourself"
-        }
-      }
-    },
-    {
-      "id": "time_child",
-      "icon_asset": "images/icons/picture_book.svg",
-      "title": "Time with Your Child",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Time with Your Child"
-        }
-      }
-    },
-    {
-      "id": "practise",
-      "icon_asset": "images/icons/pencil.svg",
-      "title": "Practise",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Practise"
-        }
-      }
-    },
-    {
       "id": "review",
       "icon_asset": "images/icons/thought_bubble.svg",
       "title": "Review",
