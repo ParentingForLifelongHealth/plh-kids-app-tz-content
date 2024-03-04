@@ -75,7 +75,17 @@
         {
           "type": "nested_properties",
           "name": "question_1",
-          "rows": [],
+          "rows": [
+            {
+              "name": "radio_button_grid_width",
+              "value": "100%",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "article.question_1.radio_button_grid_width"
+            }
+          ],
           "_nested_name": "article.question_1"
         }
       ],

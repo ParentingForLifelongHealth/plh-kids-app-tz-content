@@ -60,7 +60,12 @@
         {
           "type": "nested_properties",
           "name": "question_1",
-          "rows": []
+          "rows": [
+            {
+              "name": "radio_button_grid_width",
+              "value": "100%"
+            }
+          ]
         }
       ]
     }
