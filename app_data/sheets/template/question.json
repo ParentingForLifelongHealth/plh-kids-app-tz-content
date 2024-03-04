@@ -2393,13 +2393,30 @@
     },
     {
       "name": "radio_button_grid_item_width",
+      "value": "90px",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "radio_button_grid_item_width"
     },
     {
       "name": "radio_button_grid_width",
+      "value": "75%",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "radio_button_grid_width"
+    },
+    {
+      "name": "radio_button_grid_gap",
+      "value": "50px",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "radio_button_grid_gap"
     },
     {
       "type": "radio_button_grid",
@@ -2408,7 +2425,8 @@
       "parameter_list": {
         "answer_list": "@local.answer_list_2",
         "item_width": "@local.radio_button_grid_item_width",
-        "grid_width": "@local.radio_button_grid_width"
+        "grid_width": "@local.radio_button_grid_width",
+        "grid_gap": "@local.radio_button_grid_gap"
       },
       "_nested_name": "selection_tool",
       "_dynamicFields": {
@@ -2444,6 +2462,14 @@
               "type": "local",
               "fieldName": "radio_button_grid_width"
             }
+          ],
+          "grid_gap": [
+            {
+              "fullExpression": "@local.radio_button_grid_gap",
+              "matchedExpression": "@local.radio_button_grid_gap",
+              "type": "local",
+              "fieldName": "radio_button_grid_gap"
+            }
           ]
         }
       },
@@ -2459,6 +2485,9 @@
         ],
         "@local.radio_button_grid_width": [
           "parameter_list.grid_width"
+        ],
+        "@local.radio_button_grid_gap": [
+          "parameter_list.grid_gap"
         ]
       }
     },

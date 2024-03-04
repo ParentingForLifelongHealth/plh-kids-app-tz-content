@@ -1,0 +1,46 @@
+{
+  "audio/connect/intro_connect_child.aac": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/connect/tz_sw/intro_connect_child.aac",
+          "md5Checksum": "4073046e7e7a5d21573231c65b19d000",
+          "size_kb": 453.9
+        }
+      }
+    }
+  },
+  "audio/connect/learn_11.m4a": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/connect/tz_sw/learn_11.m4a",
+          "md5Checksum": "dd7e9662d8bf1cb3bada02a79afa7d4d",
+          "size_kb": 426.8
+        }
+      }
+    }
+  },
+  "audio/connect/learn_7.aac": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/connect/tz_sw/learn_7.aac",
+          "md5Checksum": "5cb236883f4b0d48ec632f5c9019a451",
+          "size_kb": 727.6
+        }
+      }
+    }
+  },
+  "audio/connect/learn_9.m4a": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/connect/tz_sw/learn_9.m4a",
+          "md5Checksum": "d2bc5eab5d85a8a712eeda1edd61d663",
+          "size_kb": 166.1
+        }
+      }
+    }
+  }
+}

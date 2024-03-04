@@ -330,11 +330,6 @@
       "media_transcript": "Instead of saying “no!” or “that’s wrong!”, use praise and positive responses to encourage your child to keep learning.\n\nIf your child says something that’s wrong (like pointing to an apple and calling it a tomato) you don’t need to say “how can you think that?!” or “that’s wrong!”. \n\nInstead, you can ignore the mistake and respond with the correct name, saying: \n“That’s an apple. It’s red and round like a tomato, but it’s an apple”. Your child will learn more if they don’t feel criticised or discouraged"
     },
     {
-      "id": "learn_12",
-      "category_id": "learn",
-      "module_id": "connect"
-    },
-    {
       "id": "review_1",
       "category_id": "review",
       "module_id": "connect",
@@ -413,7 +408,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "module_id": "connect",
-      "image_asset": "images/modules/connect/in_connect/book_sing_to_me.png\n\nhttps://bookdash.org/books/sing-to-me-by-lauren-nel-nicole-levin-sasha-lee-bing/\n\nimages/modules/connect/in_connect/book_to_the_top.png\nhttps://bookdash.org/books/to-the-top/",
+      "image_asset": "images/modules/connect/in_connect/book_sing_to_me.png",
       "media_type": "video",
       "text_1": "Want to try this at home?\n\n We have lots of books you can share with your child to **CONNECT**.",
       "_translations": {

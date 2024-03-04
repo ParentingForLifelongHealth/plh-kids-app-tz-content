@@ -452,7 +452,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": "@local.article_data.media_type == \"video\"",
+      "condition": "@local.article_data.media_type == \"video\" && !!(@local.article_data.media_asset)",
       "_nested_name": "media_asset",
       "_dynamicFields": {
         "value": [
@@ -465,8 +465,14 @@
         ],
         "condition": [
           {
-            "fullExpression": "@local.article_data.media_type == \"video\"",
+            "fullExpression": "@local.article_data.media_type == \"video\" && !!(@local.article_data.media_asset)",
             "matchedExpression": "@local.article_data.media_type",
+            "type": "local",
+            "fieldName": "article_data"
+          },
+          {
+            "fullExpression": "@local.article_data.media_type == \"video\" && !!(@local.article_data.media_asset)",
+            "matchedExpression": "@local.article_data.media_asset",
             "type": "local",
             "fieldName": "article_data"
           }
@@ -474,7 +480,8 @@
       },
       "_dynamicDependencies": {
         "@local.article_data.media_asset": [
-          "value"
+          "value",
+          "condition"
         ],
         "@local.article_data.media_type": [
           "condition"
@@ -488,7 +495,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": "@local.article_data.media_type == \"audio\"",
+      "condition": "@local.article_data.media_type == \"audio\" && !!(@local.article_data.media_asset)",
       "_nested_name": "media_asset",
       "_dynamicFields": {
         "value": [
@@ -501,8 +508,14 @@
         ],
         "condition": [
           {
-            "fullExpression": "@local.article_data.media_type == \"audio\"",
+            "fullExpression": "@local.article_data.media_type == \"audio\" && !!(@local.article_data.media_asset)",
             "matchedExpression": "@local.article_data.media_type",
+            "type": "local",
+            "fieldName": "article_data"
+          },
+          {
+            "fullExpression": "@local.article_data.media_type == \"audio\" && !!(@local.article_data.media_asset)",
+            "matchedExpression": "@local.article_data.media_asset",
             "type": "local",
             "fieldName": "article_data"
           }
@@ -510,7 +523,8 @@
       },
       "_dynamicDependencies": {
         "@local.article_data.media_asset": [
-          "value"
+          "value",
+          "condition"
         ],
         "@local.article_data.media_type": [
           "condition"
@@ -520,7 +534,7 @@
     {
       "type": "button",
       "name": "media_transcript",
-      "value": "Read",
+      "value": "Read the transcript",
       "_translations": {
         "value": {}
       },

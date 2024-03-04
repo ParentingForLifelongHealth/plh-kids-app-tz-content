@@ -116,30 +116,6 @@
           "_nested_name": "items.active_index"
         },
         {
-          "type": "text",
-          "name": "debug_index",
-          "value": "Index: @item._index",
-          "_translations": {
-            "value": {}
-          },
-          "_nested_name": "items.debug_index",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "Index: @item._index",
-                "matchedExpression": "@item._index",
-                "type": "item",
-                "fieldName": "_index"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@item._index": [
-              "value"
-            ]
-          }
-        },
-        {
           "type": "template",
           "name": "@item.id",
           "value": "article_connect_@item.id",
@@ -165,7 +141,64 @@
               "_cleaned": "uncompleted | set_local: active_index: @local.active_index - 1"
             }
           ],
-          "rows": [],
+          "condition": "@item._index == @local.active_index",
+          "rows": [
+            {
+              "type": "nested_properties",
+              "condition": "@item._index == 0",
+              "rows": [
+                {
+                  "name": "display_uncompleted",
+                  "value": false,
+                  "type": "set_variable",
+                  "_nested_name": "items.@item.id.nested_properties.display_uncompleted",
+                  "_dynamicFields": {
+                    "_nested_name": [
+                      {
+                        "fullExpression": "items.@item.id.nested_properties.display_uncompleted",
+                        "matchedExpression": "@item.id.nested_properties.display_uncompleted",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id.nested_properties.display_uncompleted": [
+                      "_nested_name"
+                    ]
+                  }
+                }
+              ],
+              "name": "nested_properties",
+              "_nested_name": "items.@item.id.nested_properties",
+              "_dynamicFields": {
+                "condition": [
+                  {
+                    "fullExpression": "@item._index == 0",
+                    "matchedExpression": "@item._index",
+                    "type": "item",
+                    "fieldName": "_index"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items.@item.id.nested_properties",
+                    "matchedExpression": "@item.id.nested_properties",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item._index": [
+                  "condition"
+                ],
+                "@item.id.nested_properties": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
           "_nested_name": "items.@item.id",
           "_dynamicFields": {
             "name": [
@@ -242,6 +275,20 @@
                 ]
               }
             },
+            "condition": [
+              {
+                "fullExpression": "@item._index == @local.active_index",
+                "matchedExpression": "@item._index",
+                "type": "item",
+                "fieldName": "_index"
+              },
+              {
+                "fullExpression": "@item._index == @local.active_index",
+                "matchedExpression": "@local.active_index",
+                "type": "local",
+                "fieldName": "active_index"
+              }
+            ],
             "_nested_name": [
               {
                 "fullExpression": "items.@item.id",
@@ -263,7 +310,11 @@
               "action_list.0._cleaned",
               "action_list.1.args.1",
               "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._cleaned",
+              "condition"
+            ],
+            "@item._index": [
+              "condition"
             ]
           }
         }

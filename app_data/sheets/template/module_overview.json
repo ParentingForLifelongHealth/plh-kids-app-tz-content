@@ -271,7 +271,7 @@
         },
         {
           "name": "target_template",
-          "value": "@local.module_row.check_in_id",
+          "value": "article_@local.module_row.check_in_id",
           "_translations": {
             "value": {}
           },
@@ -280,7 +280,7 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.module_row.check_in_id",
+                "fullExpression": "article_@local.module_row.check_in_id",
                 "matchedExpression": "@local.module_row.check_in_id",
                 "type": "local",
                 "fieldName": "module_row"
