@@ -1,0 +1,60 @@
+{
+  "flow_name": "2_extra_text_connect_learn_4",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "extra_text",
+      "value": "extra_text",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "learn_4",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "extra_text.article_id"
+        },
+        {
+          "name": "module_id",
+          "value": "connect",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "extra_text.module_id"
+        },
+        {
+          "name": "section_no",
+          "value": 2,
+          "type": "set_variable",
+          "_nested_name": "extra_text.section_no"
+        }
+      ],
+      "_nested_name": "extra_text"
+    }
+  ]
+}

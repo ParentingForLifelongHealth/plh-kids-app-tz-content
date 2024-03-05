@@ -1,0 +1,54 @@
+{
+  "flow_type": "generator",
+  "flow_name": "connect_2_extra_text_gen",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "connect_articles",
+    "output_flow_name": "2_extra_text_connect_@gen.id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "extra_text",
+      "value": "extra_text",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "@gen.id"
+        },
+        {
+          "name": "module_id",
+          "value": "connect",
+          "exclude_from_translation": true
+        },
+        {
+          "name": "section_no",
+          "value": 2
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "templates/modules/article_generators.xlsx"
+}
