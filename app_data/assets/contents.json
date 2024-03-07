@@ -571,6 +571,10 @@
     "md5Checksum": "8789a7fb6cfed5a549c2a7e46129ba6f",
     "size_kb": 13.9
   },
+  "images/modules/connect/follow_your_childs_lead.svg": {
+    "md5Checksum": "1389d12ac34f33f3a576a7a68bc103a5",
+    "size_kb": 3.1
+  },
   "images/modules/connect/happy_daughters_face.svg": {
     "md5Checksum": "da49a0382267e107050ab8bf884e8528",
     "size_kb": 17.7
@@ -679,6 +683,10 @@
     "md5Checksum": "395006e19b533cb4153f7dab952a7035",
     "size_kb": 36.7
   },
+  "images/modules/connect/learn_7.svg": {
+    "md5Checksum": "bfe29ab524749e2c7664624b8f4bbbe5",
+    "size_kb": 55.6
+  },
   "images/modules/connect/learn_8.svg": {
     "md5Checksum": "5eac61539500c857d4320e31199aa840",
     "size_kb": 79.2
@@ -687,9 +695,17 @@
     "md5Checksum": "cf68ac358aa13f7d354178cc04cf98c4",
     "size_kb": 3926.5
   },
+  "images/modules/connect/minimise_distractions.svg": {
+    "md5Checksum": "80fe8f6e0d9ad7f96028096be1f404cc",
+    "size_kb": 1.1
+  },
   "images/modules/connect/mom_face.svg": {
     "md5Checksum": "5b4b2da674eada3e73701bbb404dc64b",
     "size_kb": 6.1
+  },
+  "images/modules/connect/observe_and_listen.svg": {
+    "md5Checksum": "acc5503a3be65b422d06cdccda8341b0",
+    "size_kb": 2.5
   },
   "images/modules/connect/sad_daughters_ face.svg": {
     "md5Checksum": "a65623d760875a4213f3c1a22be23503",

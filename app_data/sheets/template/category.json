@@ -319,6 +319,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "filter_articles_data_object",
       "_dynamicFields": {
@@ -699,6 +700,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "condition": "@item.category_id == @local.category_id",
           "_nested_name": "data_items.debug_@item.id",
           "_dynamicFields": {

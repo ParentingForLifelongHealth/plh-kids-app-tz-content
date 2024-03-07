@@ -216,6 +216,7 @@
       "id": "learn_7",
       "category_id": "learn",
       "module_id": "connect",
+      "image_asset": "images/modules/connect/learn_7.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/connect/learn_7.m4a",
       "text_1": "What could the mother have done differently?",
@@ -332,6 +333,9 @@
       "category_id": "review",
       "module_id": "connect",
       "image_asset": "images/modules/connect/learn_1.svg",
+      "section_1_image_asset": "images/modules/connect/minimise_distractions.svg",
+      "section_2_image_asset": "images/modules/connect/follow_your_childs_lead.svg",
+      "section_3_image_asset": "images/modules/connect/observe_and_listen.svg",
       "text_1": "Here’s how to **CONNECT** with your child using a quick and easy daily activity:",
       "_translations": {
         "text_1": {},
