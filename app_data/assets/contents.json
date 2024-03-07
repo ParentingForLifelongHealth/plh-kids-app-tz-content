@@ -555,6 +555,10 @@
     "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
     "size_kb": 12.8
   },
+  "images/modules/connect/article_learn_1.svg": {
+    "md5Checksum": "857c26e041c824b88d9826600e0ebe8b",
+    "size_kb": 62.8
+  },
   "images/modules/connect/busy_parent.png": {
     "md5Checksum": "337e3b12d2bb44180971910277789cc4",
     "size_kb": 57.7
@@ -651,13 +655,9 @@
     "md5Checksum": "4bd8706a1a5ddc1610626b6fc51a410b",
     "size_kb": 55.5
   },
-  "images/modules/connect/learn_1 copy.svg": {
-    "md5Checksum": "857c26e041c824b88d9826600e0ebe8b",
-    "size_kb": 62.8
-  },
   "images/modules/connect/learn_1.svg": {
-    "md5Checksum": "857c26e041c824b88d9826600e0ebe8b",
-    "size_kb": 62.8
+    "md5Checksum": "1fc4cf48f0e230643d623e74d79e6bc5",
+    "size_kb": 64.6
   },
   "images/modules/connect/learn_10.svg": {
     "md5Checksum": "f2e10e4968ee6a4b15657ca1a642d0dc",
@@ -707,6 +707,10 @@
     "md5Checksum": "acc5503a3be65b422d06cdccda8341b0",
     "size_kb": 2.5
   },
+  "images/modules/connect/review_1.svg": {
+    "md5Checksum": "1fc4cf48f0e230643d623e74d79e6bc5",
+    "size_kb": 64.6
+  },
   "images/modules/connect/sad_daughters_ face.svg": {
     "md5Checksum": "a65623d760875a4213f3c1a22be23503",
     "size_kb": 22.8
@@ -755,12 +759,16 @@
     "md5Checksum": "131145b165cd19613a9e277a514eec2f",
     "size_kb": 140.5
   },
-  "video/connect_shared_reading.mp4": {
+  "video/modules/connect/join_child.mp4": {
+    "md5Checksum": "9c53e2a61bb80acda41b3734f8246df8",
+    "size_kb": 10726.2
+  },
+  "video/modules/connect/shared_reading.mp4": {
     "md5Checksum": "238541c3566e61ebf6f88079f9beb4d5",
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "video/tz_sw/connect_shared_reading.mp4",
+          "filePath": "video/modules/connect/tz_sw/shared_reading.mp4",
           "md5Checksum": "fff40d28dd670f22d2dfacd0328cc15b",
           "size_kb": 36652.8
         }

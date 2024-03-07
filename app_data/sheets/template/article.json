@@ -352,6 +352,9 @@
         "value": {}
       },
       "condition": "!!(@local.article_data.image_asset)",
+      "parameter_list": {
+        "style": "rounded_corners"
+      },
       "_nested_name": "image_asset",
       "_dynamicFields": {
         "value": [

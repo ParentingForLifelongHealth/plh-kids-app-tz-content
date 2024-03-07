@@ -151,15 +151,12 @@
       "action_list": [
         {
           "trigger": "click",
-          "action_id": "pop_up",
+          "action_id": "go_to",
           "args": [
             "@local.target_template"
           ],
-          "_raw": "click | pop_up: @local.target_template | fullscreen: true",
-          "_cleaned": "click | pop_up: @local.target_template | fullscreen: true",
-          "params": {
-            "fullscreen": true
-          }
+          "_raw": "click | go_to: @local.target_template",
+          "_cleaned": "click | go_to: @local.target_template"
         }
       ],
       "parameter_list": {
@@ -187,7 +184,7 @@
             },
             "_raw": [
               {
-                "fullExpression": "click | pop_up: @local.target_template | fullscreen: true",
+                "fullExpression": "click | go_to: @local.target_template",
                 "matchedExpression": "@local.target_template",
                 "type": "local",
                 "fieldName": "target_template"
@@ -195,7 +192,7 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | pop_up: @local.target_template | fullscreen: true",
+                "fullExpression": "click | go_to: @local.target_template",
                 "matchedExpression": "@local.target_template",
                 "type": "local",
                 "fieldName": "target_template"

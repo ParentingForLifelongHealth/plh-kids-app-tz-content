@@ -79,13 +79,28 @@
       }
     },
     {
-      "type": "lottie_animation",
-      "name": "lottie_circles",
-      "value": "lottie/bulging_circles.json",
+      "name": "audio_title",
+      "value": "@local.row_data.title",
       "_translations": {
         "value": {}
       },
-      "_nested_name": "lottie_circles"
+      "type": "set_variable",
+      "_nested_name": "audio_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.title",
+            "matchedExpression": "@local.row_data.title",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.title": [
+          "value"
+        ]
+      }
     },
     {
       "name": "audio_transcript",
@@ -134,6 +149,15 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "lottie_animation",
+      "name": "lottie_circles",
+      "value": "lottie/bulging_circles.json",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "lottie_circles"
     },
     {
       "type": "audio",
@@ -254,6 +278,14 @@
           "action_list.0._cleaned"
         ]
       }
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "condition": "completed | emit: completed; uncompleted | emit: uncompleted;",
+      "rows": [],
+      "_nested_name": "nav_buttons"
     }
   ],
   "_xlsxPath": "templates/library/relax_activities.xlsx"

@@ -97,6 +97,7 @@
       "category_id": "learn",
       "module_id": "connect",
       "media_type": "video",
+      "media_asset": "video/modules/connect/join_child.mp4",
       "text_1": "How to **CONNECT**?\n\nJoin your child in their world!",
       "_translations": {
         "text_1": {
@@ -402,7 +403,7 @@
       "id": "review_1",
       "category_id": "review",
       "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_1.svg",
+      "image_asset": "images/modules/connect/review_1.svg",
       "section_1_image_asset": "images/modules/connect/minimise_distractions.svg",
       "section_2_image_asset": "images/modules/connect/follow_your_childs_lead.svg",
       "section_3_image_asset": "images/modules/connect/observe_and_listen.svg",
@@ -508,7 +509,7 @@
       "module_id": "connect",
       "image_asset": "images/modules/connect/to_the_top.svg",
       "media_type": "video",
-      "media_asset": "video/connect_shared_reading.mp4",
+      "media_asset": "video/modules/connect/shared_reading.mp4",
       "text_1": "Want to try this at home?\n\n We have lots of books you can share with your child to **CONNECT**.",
       "_translations": {
         "text_1": {
