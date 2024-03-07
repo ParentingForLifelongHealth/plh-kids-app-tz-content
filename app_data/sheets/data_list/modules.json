@@ -44,7 +44,7 @@
     {
       "id": "connect",
       "number": 2,
-      "image_asset": "images/modules/connect/busy_parent.png",
+      "image_asset": "images/modules/connect/intro_connect.svg",
       "relax_id": "relax_19",
       "check_in_id": "check_in_9",
       "title": "Connect",
