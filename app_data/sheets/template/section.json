@@ -625,7 +625,7 @@
         "style": "dashed_box",
         "\"style": "default",
         "icon_src": "@local.section_image_asset",
-        "icon_position": "top-left",
+        "icon_position": "top-right",
         "\"": "true"
       },
       "rows": [
