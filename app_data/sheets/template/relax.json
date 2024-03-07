@@ -151,6 +151,15 @@
       }
     },
     {
+      "type": "lottie_animation",
+      "name": "lottie_circles",
+      "value": "lottie/bulging_circles.json",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "lottie_circles"
+    },
+    {
       "type": "audio",
       "name": "audio",
       "value": "@local.audio_asset",
