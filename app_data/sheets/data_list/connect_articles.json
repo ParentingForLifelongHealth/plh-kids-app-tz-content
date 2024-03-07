@@ -26,7 +26,7 @@
       "module_id": "connect",
       "image_asset": "images/modules/connect/intro_connect_child.svg",
       "media_type": "audio",
-      "media_asset ": "audio/connect/intro_connect_child.m4a",
+      "media_asset": "audio/modules/connect/intro_connect_child.m4a",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1": "**CONNECTING** with our children is not always easy!",
@@ -218,7 +218,7 @@
       "module_id": "connect",
       "image_asset": "images/modules/connect/facilitators_face.svg",
       "media_type": "audio",
-      "media_asset ": "audio/connect/learn_7.m4a",
+      "media_asset": "audio/modules/connect/learn_7.m4a",
       "text_1": "What could the mother have done differently?",
       "_translations": {
         "text_1": {},
@@ -265,7 +265,7 @@
       "module_id": "connect",
       "image_asset": "images/modules/connect/learn_9.svg",
       "media_type": "audio",
-      "media_asset ": "audio/connect/learn_9.m4a",
+      "media_asset": "audio/modules/connect/learn_9.m4a",
       "text_1": "Here’s how to connect during book activities:",
       "_translations": {
         "text_1": {},
@@ -312,7 +312,7 @@
       "module_id": "connect",
       "image_asset": "images/modules/connect/learn_11.svg",
       "media_type": "audio",
-      "media_asset ": "audio/connect/learn_11.m4a",
+      "media_asset": "audio/modules/connect/learn_11.m4a",
       "text_2": "Always try to respond to what your child is saying in a positive and enthusiastic way.",
       "_translations": {
         "text_2": {},
