@@ -715,6 +715,14 @@
     "md5Checksum": "64b062a7a9a740aa9f1608dfe5ac532b",
     "size_kb": 2
   },
+  "images/modules/connect/to_the_top.svg": {
+    "md5Checksum": "91074765976c178537e227970f5f5c9c",
+    "size_kb": 3698.9
+  },
+  "images/modules/connect/whats_next.svg": {
+    "md5Checksum": "efc64ef82fec7cb5f348d6bb2a4897e1",
+    "size_kb": 727.1
+  },
   "images/modules/wave.svg": {
     "md5Checksum": "79d5f0d01dca4ab60d638b0d46d134f9",
     "size_kb": 8.5
@@ -730,6 +738,19 @@
   "lottie/cascading_stars.json": {
     "md5Checksum": "131145b165cd19613a9e277a514eec2f",
     "size_kb": 140.5
+  },
+  "video/connect_shared_reading.mp4": {
+    "md5Checksum": "238541c3566e61ebf6f88079f9beb4d5",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "video/tz_sw/connect_shared_reading.mp4",
+          "md5Checksum": "fff40d28dd670f22d2dfacd0328cc15b",
+          "size_kb": 36652.8
+        }
+      }
+    },
+    "size_kb": 36376.3
   },
   "video/song/lets_slow_down.mp4": {
     "md5Checksum": "62f06faa95a979d128b4356db9bb396e",
