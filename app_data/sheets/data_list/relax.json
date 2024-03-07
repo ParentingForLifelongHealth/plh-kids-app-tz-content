@@ -11,8 +11,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1h3wNodphmp0PCZueby4UdtvBke5O6EqzcJPHNC2v7uY",
       "title": "Quick pause",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -30,8 +34,12 @@
       "type": "passive_short",
       "title": "Power of three",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -49,8 +57,12 @@
       "type": "passive_short",
       "title": "One thing today",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -68,8 +80,12 @@
       "type": "passive_short",
       "title": "Breathe to three",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -87,8 +103,12 @@
       "type": "passive_short",
       "title": "In and out",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -106,8 +126,12 @@
       "type": "passive_short",
       "title": "Think about today",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -125,8 +149,12 @@
       "type": "passive_short",
       "title": "Pause to respond",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -144,8 +172,12 @@
       "type": "passive_short",
       "title": "Small things",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -163,8 +195,12 @@
       "type": "passive_short",
       "title": "Body scan",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -182,8 +218,12 @@
       "type": "passive_short",
       "title": "Feel the ground",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -201,8 +241,12 @@
       "type": "passive_short",
       "title": "Counting sounds",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -220,8 +264,12 @@
       "type": "passive_short",
       "title": "Feel your feelings",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -239,8 +287,12 @@
       "type": "active",
       "title": "Your song",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -258,8 +310,12 @@
       "type": "passive_short",
       "title": "Ground & gratitude",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -277,8 +333,12 @@
       "type": "passive_short",
       "title": "Notice how you feel",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -296,8 +356,12 @@
       "type": "passive_short",
       "title": "Pause power",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -315,8 +379,12 @@
       "type": "passive_short",
       "title": "Praise yourself",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -334,8 +402,12 @@
       "type": "passive_long",
       "title": "Taking care of yourself",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -353,8 +425,12 @@
       "type": "passive_long",
       "title": "Take a pause",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -372,8 +448,12 @@
       "type": "active",
       "title": "Physical activity",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -391,8 +471,12 @@
       "type": "active",
       "title": "List of things",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -410,8 +494,12 @@
       "type": "active",
       "title": "Connect",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -429,8 +517,12 @@
       "type": "active",
       "title": "Prevent anger",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -448,8 +540,12 @@
       "type": "active",
       "title": "Angry? Take a break",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

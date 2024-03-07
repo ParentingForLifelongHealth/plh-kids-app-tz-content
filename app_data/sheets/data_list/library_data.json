@@ -10,7 +10,9 @@
       "show": true,
       "title": "Picture Books",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -24,7 +26,9 @@
       "show": true,
       "title": "Relaxation Activities",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -9,7 +9,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1hw8McnrlhAaFhY5rDbJLsiiD7QopT7OX8z7nUwfqPJQ",
       "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {

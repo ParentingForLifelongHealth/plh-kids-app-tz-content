@@ -9,7 +9,9 @@
       "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Introduction",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -22,7 +24,9 @@
       "icon_asset": "images/icons/picture_book.svg",
       "title": "Learn",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,7 +39,9 @@
       "icon_asset": "images/icons/thought_bubble.svg",
       "title": "Review",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -48,7 +54,9 @@
       "icon_asset": "images/icons/parent_child_heart.svg",
       "title": "Home Activity",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

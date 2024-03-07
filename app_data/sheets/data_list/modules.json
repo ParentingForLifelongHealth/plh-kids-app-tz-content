@@ -12,8 +12,12 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Test Module",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -33,7 +37,9 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Introduction",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -49,8 +55,12 @@
       "check_in_id": "check_in_9",
       "title": "Connect",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,7 +80,9 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Play",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -86,7 +98,9 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Talk",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -102,7 +116,9 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Explore",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -118,7 +134,9 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Create",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -134,7 +152,9 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Build",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -150,7 +170,9 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Summary",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
