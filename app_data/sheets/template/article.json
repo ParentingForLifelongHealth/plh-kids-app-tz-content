@@ -412,13 +412,13 @@
       }
     },
     {
-      "type": "title",
       "name": "media_title",
       "value": "@local.article_data.media_title",
       "_translations": {
         "value": {}
       },
       "condition": "!!(@local.article_data.media_title)",
+      "type": "set_variable",
       "_nested_name": "media_title",
       "_dynamicFields": {
         "value": [
@@ -446,86 +446,197 @@
       }
     },
     {
-      "type": "video",
-      "name": "media_asset",
-      "value": "@local.article_data.media_asset",
-      "_translations": {
-        "value": {}
+      "type": "display_group",
+      "name": "video",
+      "condition": "@local.article_data.media_type == \"video\"",
+      "parameter_list": {
+        "style": "column"
       },
-      "condition": "@local.article_data.media_type == \"video\" && !!(@local.article_data.media_asset)",
-      "_nested_name": "media_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.article_data.media_asset",
-            "matchedExpression": "@local.article_data.media_asset",
-            "type": "local",
-            "fieldName": "article_data"
+      "rows": [
+        {
+          "type": "title",
+          "name": "print_media_title",
+          "value": "@local.media_title",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!(@local.article_data.media_title)",
+          "_nested_name": "video.print_media_title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.media_title",
+                "matchedExpression": "@local.media_title",
+                "type": "local",
+                "fieldName": "media_title"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@local.article_data.media_title)",
+                "matchedExpression": "@local.article_data.media_title",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.media_title": [
+              "value"
+            ],
+            "@local.article_data.media_title": [
+              "condition"
+            ]
           }
-        ],
+        },
+        {
+          "type": "video",
+          "name": "media_asset",
+          "value": "@local.article_data.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "video.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_data.media_asset",
+                "matchedExpression": "@local.article_data.media_asset",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_data.media_asset": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "video",
+      "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.article_data.media_type == \"video\" && !!(@local.article_data.media_asset)",
+            "fullExpression": "@local.article_data.media_type == \"video\"",
             "matchedExpression": "@local.article_data.media_type",
-            "type": "local",
-            "fieldName": "article_data"
-          },
-          {
-            "fullExpression": "@local.article_data.media_type == \"video\" && !!(@local.article_data.media_asset)",
-            "matchedExpression": "@local.article_data.media_asset",
             "type": "local",
             "fieldName": "article_data"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.article_data.media_asset": [
-          "value",
-          "condition"
-        ],
         "@local.article_data.media_type": [
           "condition"
         ]
       }
     },
     {
-      "type": "audio",
-      "name": "media_asset",
-      "value": "@local.article_data.media_asset",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "@local.article_data.media_type == \"audio\" && !!(@local.article_data.media_asset)",
-      "_nested_name": "media_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.article_data.media_asset",
-            "matchedExpression": "@local.article_data.media_asset",
-            "type": "local",
-            "fieldName": "article_data"
+      "type": "display_group",
+      "name": "audio",
+      "condition": "@local.article_data.media_type == \"audio\"",
+      "rows": [
+        {
+          "type": "audio",
+          "name": "media_asset",
+          "value": "@local.article_data.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!(@local.article_data.media_title)",
+          "parameter_list": {
+            "title": "@local.media_title"
+          },
+          "_nested_name": "audio.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_data.media_asset",
+                "matchedExpression": "@local.article_data.media_asset",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@local.article_data.media_title)",
+                "matchedExpression": "@local.article_data.media_title",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ],
+            "parameter_list": {
+              "title": [
+                {
+                  "fullExpression": "@local.media_title",
+                  "matchedExpression": "@local.media_title",
+                  "type": "local",
+                  "fieldName": "media_title"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.article_data.media_asset": [
+              "value"
+            ],
+            "@local.article_data.media_title": [
+              "condition"
+            ],
+            "@local.media_title": [
+              "parameter_list.title"
+            ]
           }
-        ],
+        },
+        {
+          "type": "audio",
+          "name": "media_asset",
+          "value": "@local.article_data.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!(@local.article_data.media_title)",
+          "_nested_name": "audio.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_data.media_asset",
+                "matchedExpression": "@local.article_data.media_asset",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!(@local.article_data.media_title)",
+                "matchedExpression": "@local.article_data.media_title",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_data.media_asset": [
+              "value"
+            ],
+            "@local.article_data.media_title": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "audio",
+      "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.article_data.media_type == \"audio\" && !!(@local.article_data.media_asset)",
+            "fullExpression": "@local.article_data.media_type == \"audio\"",
             "matchedExpression": "@local.article_data.media_type",
-            "type": "local",
-            "fieldName": "article_data"
-          },
-          {
-            "fullExpression": "@local.article_data.media_type == \"audio\" && !!(@local.article_data.media_asset)",
-            "matchedExpression": "@local.article_data.media_asset",
             "type": "local",
             "fieldName": "article_data"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.article_data.media_asset": [
-          "value",
-          "condition"
-        ],
         "@local.article_data.media_type": [
           "condition"
         ]
