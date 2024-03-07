@@ -12,7 +12,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1gsQt2k2R0GciIaBr4dH2qf_MeSCasvcOIe5hRc3gq70",
       "text_1": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with your child and spending quality time together makes a big difference to their development.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -31,14 +33,30 @@
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1": "**CONNECTING** with our children is not always easy!",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -81,9 +99,15 @@
       "media_type": "video",
       "text_1": "How to **CONNECT**?\n\nJoin your child in their world!",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -106,8 +130,12 @@
       "image_asset": "images/modules/connect/learn_2.svg",
       "text_1": "Let’s see what happens when we don’t let our child take the lead:",
       "_translations": {
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -126,7 +154,9 @@
       "image_asset": "images/modules/connect/learn_3.svg",
       "text_2": "Who can build a taller tower?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -141,7 +171,9 @@
       "image_asset": "images/modules/connect/learn_4.svg",
       "text_2": "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top.",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -156,7 +188,9 @@
       "image_asset": "images/modules/connect/learn_5.svg",
       "text_2": "Where are you going? Why don’t you want to play together?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -174,13 +208,27 @@
       "quiz_2_option_2_image_asset": "images/modules/connect/happy_daughters_face.svg",
       "text_1": "Let’s reflect:",
       "_translations": {
-        "text_1": {},
-        "quiz_1_question": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_question": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_feedback_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -221,10 +269,18 @@
       "media_asset": "audio/modules/connect/learn_7.m4a",
       "text_1": "What could the mother have done differently?",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -251,7 +307,9 @@
       "image_asset": "images/modules/connect/learn_8.svg",
       "text_1": "Looking for a quick and powerful connection activity? \nA great way to connect with your child is to look at a book together.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -268,9 +326,15 @@
       "media_asset": "audio/modules/connect/learn_9.m4a",
       "text_1": "Here’s how to connect during book activities:\nAs you go through the book, notice and respond to what your child is interested in.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -293,7 +357,9 @@
       "image_asset": "images/modules/connect/learn_10.svg",
       "text_1": "Let your child set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -310,8 +376,12 @@
       "media_asset": "audio/modules/connect/learn_11.m4a",
       "text_1": "Always try to respond to what your child is saying in a positive and enthusiastic way.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {}
       },
       "_translatedFields": {
@@ -338,19 +408,45 @@
       "section_3_image_asset": "images/modules/connect/observe_and_listen.svg",
       "text_1": "Here’s how to **CONNECT** with your child using a quick and easy daily activity:",
       "_translations": {
-        "text_1": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_2_button_text": {
+          "tz_sw": true
+        },
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_3_button_text": {
+          "tz_sw": true
+        },
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -415,9 +511,15 @@
       "media_asset": "video/connect_shared_reading.mp4",
       "text_1": "Want to try this at home?\n\n We have lots of books you can share with your child to **CONNECT**.",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
-        "media_title": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

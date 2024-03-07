@@ -36,7 +36,9 @@
           "name": "button_uncompleted",
           "value": "Previous",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -75,7 +77,9 @@
           "name": "button_completed",
           "value": "Next",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
