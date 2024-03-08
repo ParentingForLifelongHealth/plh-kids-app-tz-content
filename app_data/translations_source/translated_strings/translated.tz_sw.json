@@ -1558,5 +1558,11 @@
     "text": "Landanisha...",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "Check-in",
+    "text": "Simulizi ya kuanzia",
+    "type": "data_list",
+    "note": ""
   }
 ]

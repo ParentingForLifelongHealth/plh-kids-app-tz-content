@@ -20,6 +20,12 @@
       "data_list_name": "check_in",
       "_xlsxPath": "data/modules/check_in.xlsx"
     },
+    "common_categories": {
+      "flow_type": "data_list",
+      "flow_name": "common_categories",
+      "data_list_name": "common_categories",
+      "_xlsxPath": "data/modules/modules.xlsx"
+    },
     "connect_articles": {
       "flow_type": "data_list",
       "flow_name": "connect_articles",
