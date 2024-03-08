@@ -651,7 +651,9 @@
       "name": "media_transcript",
       "value": "Read the transcript",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {
