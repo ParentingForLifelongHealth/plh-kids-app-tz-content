@@ -60,6 +60,12 @@
     "note": ""
   },
   {
+    "SourceText": "We will retain your personal information for as long as we need it to fulfill our purposes, including any relating to app services as well as legal, accounting, or reporting requirements.",
+    "text": "Tutahifadhi maelezo yako ya kibinafsi kwa muda ambao tutayahitaji ili kutimiza madhumuni yetu, ikiwa ni pamoja na yoyote yanayohusiana na huduma za programu pamoja na mahitaji ya kisheria, uhasibu au mahitaji ya kuripoti.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "How do we keep your data secure?",
     "text": "Je, tunawekaje taarifa zako salama?",
     "type": "data_list",
@@ -733,7 +739,7 @@
   },
   {
     "SourceText": "Let’s play with the blocks together.",
-    "text": "Ngoja tuchezee haya matofali pamoja, Lonwabo.",
+    "text": "Ngoja tuchezee matofali pamoja.",
     "type": "data_list",
     "note": ""
   },
@@ -860,6 +866,12 @@
   {
     "SourceText": "Positive responses? What’s that?",
     "text": "Mwitikio Chanya ni nini?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Instead of saying “no!” or “that’s wrong!”, use praise and positive responses to encourage your child to keep learning.\nIf your child says something that’s wrong (like pointing to an apple and calling it a tomato) you don’t need to say “how can you think that?!” or “that’s wrong!”. \nInstead, you can ignore the mistake and respond with the correct name, saying: \n“That’s an apple. It’s red and round like a tomato, but it’s an apple”. Your child will learn more if they don’t feel criticised or discouraged.",
+    "text": "Badala ya kusema \"hapana!\" au \"hiyo ni makosa!\", Tumia sifa na majibu mazuri ili kumtia moyo mtoto wako kuendelea kujifunza.\nMtoto wako akisema jambo ambalo si sawa (kama vile kunyooshea kidole tofaa au apple na kuliita nyanya) huhitaji kusema \"unawezaje kufikiria hivyo?!\" au \"hiyo ni makosa!\".\nBadala yake, unaweza kupuuza kosa na kujibu kwa jina sahihi, ukisema:\n“Hilo ni tofaa. Ni nyekundu na mviringo kama nyanya, lakini ni tofaha”. Mtoto wako atajifunza zaidi ikiwa hatahisi kukosolewa au kukatishwa tamaa.",
     "type": "data_list",
     "note": ""
   },
@@ -1428,6 +1440,12 @@
     "note": ""
   },
   {
+    "SourceText": "Read the transcript",
+    "text": "Soma nakala",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Submit",
     "text": "Tuma",
     "type": "template",
@@ -1460,6 +1478,24 @@
   {
     "SourceText": "Connect module",
     "text": "Kipindi cha kuungana",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "List of articles",
+    "text": "Orodha ya makala",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Articles flow",
+    "text": "Mtiririko wa makala",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "List of categories",
+    "text": "Orodha ya makundi",
     "type": "template",
     "note": ""
   },
