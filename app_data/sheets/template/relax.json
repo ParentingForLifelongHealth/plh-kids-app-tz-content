@@ -283,7 +283,26 @@
       "type": "template",
       "name": "nav_buttons",
       "value": "nav_buttons",
-      "condition": "completed | emit: completed; uncompleted | emit: uncompleted;",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
       "rows": [],
       "_nested_name": "nav_buttons"
     }

@@ -761,6 +761,15 @@
   },
   "video/modules/connect/join_child.mp4": {
     "md5Checksum": "9c53e2a61bb80acda41b3734f8246df8",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "video/modules/connect/tz_sw/join_child.mp4",
+          "md5Checksum": "609d2e4eb3e71c2d0d6b75ceb63c83d7",
+          "size_kb": 11833.8
+        }
+      }
+    },
     "size_kb": 10726.2
   },
   "video/modules/connect/shared_reading.mp4": {
