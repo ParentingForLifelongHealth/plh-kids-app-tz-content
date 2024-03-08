@@ -111,7 +111,9 @@
         "title": {
           "tz_sw": true
         },
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -204,7 +204,9 @@
       "name": "button_@item.id",
       "value": "Read the transcript",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {

@@ -19,7 +19,9 @@
       "name": "button_articles",
       "value": "List of articles",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {
@@ -42,7 +44,9 @@
       "name": "button_flow",
       "value": "Articles flow",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {
@@ -65,7 +69,9 @@
       "name": "button_categories",
       "value": "List of categories",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {
