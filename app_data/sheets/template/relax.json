@@ -307,17 +307,10 @@
       ],
       "rows": [
         {
-          "type": "nested_properties",
-          "name": "nav_buttons",
-          "rows": [
-            {
-              "name": "display_uncompleted",
-              "value": false,
-              "type": "set_variable",
-              "_nested_name": "nav_buttons.nav_buttons.display_uncompleted"
-            }
-          ],
-          "_nested_name": "nav_buttons.nav_buttons"
+          "name": "display_uncompleted",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.display_uncompleted"
         }
       ],
       "_nested_name": "nav_buttons"
