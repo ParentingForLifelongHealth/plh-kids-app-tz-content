@@ -399,6 +399,10 @@
     "md5Checksum": "f3e0b8f340e9def8f633772f6aa0dd2d",
     "size_kb": 38.2
   },
+  "images/facilitators_face.svg": {
+    "md5Checksum": "3f99592779a36144aee247f32dc67c32",
+    "size_kb": 16.4
+  },
   "images/flags/gb.svg": {
     "md5Checksum": "d3ddd6025a06a78535b0d432d14905bf",
     "size_kb": 0.5
@@ -566,10 +570,6 @@
   "images/modules/connect/daughter_face.svg": {
     "md5Checksum": "e9be245ccd7f424ad79e00ad99fcb1cb",
     "size_kb": 18.1
-  },
-  "images/modules/connect/facilitators_face.svg": {
-    "md5Checksum": "3f99592779a36144aee247f32dc67c32",
-    "size_kb": 16.4
   },
   "images/modules/connect/fathers_face.svg": {
     "md5Checksum": "8789a7fb6cfed5a549c2a7e46129ba6f",
