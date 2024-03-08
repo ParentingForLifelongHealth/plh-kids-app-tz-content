@@ -341,6 +341,11 @@
       "comments": "Used in /feedback debug page",
       "_xlsxPath": "templates/app_menu.xlsx"
     },
+    "feedback": {
+      "flow_type": "template",
+      "flow_name": "feedback",
+      "_xlsxPath": "templates/modules/articles.xlsx"
+    },
     "flow_connect": {
       "flow_type": "template",
       "flow_name": "flow_connect",

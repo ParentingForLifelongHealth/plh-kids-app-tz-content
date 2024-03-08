@@ -54,21 +54,21 @@
           "parameter_list": {
             "style": "navigation"
           },
-          "condition": "@local.display_uncompleted",
+          "hidden": "!@local.display_uncompleted",
           "_nested_name": "buttons.button_uncompleted",
           "_dynamicFields": {
-            "condition": [
+            "hidden": [
               {
-                "fullExpression": "@local.display_uncompleted",
-                "matchedExpression": "@local.display_uncompleted",
+                "fullExpression": "!@local.display_uncompleted",
+                "matchedExpression": "!@local.display_uncompleted",
                 "type": "local",
                 "fieldName": "display_uncompleted"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.display_uncompleted": [
-              "condition"
+            "!@local.display_uncompleted": [
+              "hidden"
             ]
           }
         },
