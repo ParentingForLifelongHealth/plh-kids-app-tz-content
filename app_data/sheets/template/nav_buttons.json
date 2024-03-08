@@ -54,6 +54,9 @@
           "parameter_list": {
             "style": "navigation"
           },
+          "style_list": [
+            "flex: 1"
+          ],
           "hidden": "!@local.display_uncompleted",
           "_nested_name": "buttons.button_uncompleted",
           "_dynamicFields": {
@@ -95,6 +98,9 @@
           "parameter_list": {
             "style": "navigation"
           },
+          "style_list": [
+            "flex: 1"
+          ],
           "_nested_name": "buttons.button_completed"
         }
       ],
