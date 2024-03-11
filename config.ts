@@ -34,5 +34,7 @@ config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
 config.app_config.APP_FOOTER_DEFAULTS.templateName = "footer";
+config.error_logging = { dsn: "https://a371085a8bc146a3a45bb4e5d2d013ef@app.glitchtip.com/6036"};
+
 
 export default config;
