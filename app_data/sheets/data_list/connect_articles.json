@@ -224,7 +224,13 @@
         "quiz_2_question": {
           "tz_sw": true
         },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
           "tz_sw": true
         },
         "quiz_2_feedback_2": {
@@ -247,8 +253,14 @@
         "quiz_2_question": {
           "eng": "How does the child feel when her mother says she is doing it wrong?"
         },
+        "quiz_2_option_1_text": {
+          "eng": "Sad"
+        },
         "quiz_2_feedback_1": {
           "eng": "She feels unhappy and deflated. She might not want to play together again."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Happy"
         },
         "quiz_2_feedback_2": {
           "eng": "Looking at the story, we can see from the child’s face that she feels unhappy, and then walks away."
@@ -258,7 +270,9 @@
       "quiz_1_feedback_1": "Yes, the mother is choosing what to play and how to play, instead of letting her child take the lead.",
       "quiz_1_feedback_2": "Looking at the story, we can see that the mother is actually the one who is choosing what to play and how to play.",
       "quiz_2_question": "How does the child feel when her mother says she is doing it wrong?",
+      "quiz_2_option_1_text": "Sad",
       "quiz_2_feedback_1": "She feels unhappy and deflated. She might not want to play together again.",
+      "quiz_2_option_2_text": "Happy",
       "quiz_2_feedback_2": "Looking at the story, we can see from the child’s face that she feels unhappy, and then walks away."
     },
     {

@@ -1564,5 +1564,23 @@
     "text": "Ukaguzi wa kihisia",
     "type": "data_list",
     "note": ""
+  },  
+  {
+    "SourceText": "Happy",
+    "text": "Furaha",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Okay",
+    "text": "Kawaida",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sad",
+    "text": "Huzuni",
+    "type": "data_list",
+    "note": ""
   }
 ]
