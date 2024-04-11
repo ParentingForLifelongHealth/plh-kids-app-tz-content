@@ -1,0 +1,1073 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "books",
+  "status": "released",
+  "data_list_name": "books",
+  "rows": [
+    {
+      "id": "who_took_my_shoe",
+      "image_cover_asset": "images/books/my_shoe/my_shoe_cover.jpg",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Elana Bregin",
+      "illustrator": "Nicki Blackbeard",
+      "licence": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page4.jpg",
+      "image_2_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page5.jpg",
+      "image_3_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page6.jpg",
+      "image_4_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page7.jpg",
+      "image_5_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page8.jpg",
+      "image_6_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page9.jpg",
+      "image_7_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page10.jpg",
+      "image_8_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page11.jpg",
+      "image_9_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page12.jpg",
+      "image_10_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page13.jpg",
+      "image_11_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page14.jpg",
+      "image_12_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page15.jpg",
+      "image_13_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page16.jpg",
+      "image_14_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page17.jpg",
+      "other_credits": "This book has been published on StoryWeaver by Book Dash. It was created at Book Dash, Durban on 29 October 2022 by Elana Bregin, Nicki Blackbeard, Kathryn\nElliott, and Mariam Mahomed.",
+      "images_attributions": "Cover page: Child upset with a missing shoe, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Lady behind a door, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Crouching child feeling sad, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Looking through cupboard, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Child dancing near door, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Angry face against pink, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child bending down, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child with folded arms, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Blue background with white spots, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child upset with big shoes on, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Dog against green backdrop, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Dog wagging tail, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Bird carrying shoe, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Shoe on a tree in a park, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dog under the table, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 16: Child hugging mother, dog carrying shoe outside window, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 17: Siblings holding hands, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 18: Two kids and an adult looking at dog and puppies, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 19: Shoe against white background, by Nicki Blackbeard © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "attached_single_doc": "https://docs.google.com/document/d/1UDQFVmu5HKAQyIzQAdqsAlQdWwlwoCaPgOSfek2_oSI",
+      "title": "Who Took My Shoe?",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2_left": {},
+        "text_2_right": {},
+        "text_3_left": {},
+        "text_3_right": {},
+        "text_4_left": {},
+        "text_4_right": {},
+        "text_5_left": {},
+        "text_5_right": {},
+        "text_6_left": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Who Took My Shoe?"
+        },
+        "description": {
+          "eng": "Jabulani has lost his school shoe. He can’t find it anywhere. Where can it be?"
+        },
+        "text_1": {
+          "eng": "“Come, Jabulani,” Ma says.“Why aren’t you ready? You’ll be late for school.”\n\n“I can’t find my shoe,” says Jabulani."
+        },
+        "text_2_left": {
+          "eng": "“Did you look under your bed?” says Ma.\n“It’s not under my bed,” Jabulani says."
+        },
+        "text_2_right": {
+          "eng": "“Did you look in the wardrobe?” Ma asks.\n\n“Yes, it’s not in the wardrobe.”"
+        },
+        "text_3_left": {
+          "eng": "“I know where your shoe is,” giggles Jabulani’s sister Lungi.\n\n“Where?” Jabulani asks.\n\n“I’m not telling you!” says Lungi"
+        },
+        "text_3_right": {
+          "eng": "“Somebody’s taken it,” Jabulani says."
+        },
+        "text_4_left": {
+          "eng": "“Why would someone take one shoe when they’ve got two feet?” says Lungi."
+        },
+        "text_4_right": {
+          "eng": "“I don’t know. Maybe they’ve hidden it to make me cross.”"
+        },
+        "text_5_left": {
+          "eng": "“Did you take my shoe?” he asks Lungi."
+        },
+        "text_5_right": {
+          "eng": "“No,” says Lungi, “your shoes are too big for me.”"
+        },
+        "text_6_left": {
+          "eng": "“Did you take my shoe?” Jabulani asks Fruit Juice the Dog."
+        },
+        "text_6_right": {
+          "eng": "She smiles her big dog smile at him and wags her tail."
+        },
+        "text_7": {
+          "eng": "“Maybe a bird picked it up and flew away with your shoe,” laughs Lungi."
+        },
+        "text_8": {
+          "eng": "“Maybe a monkey took it and left it up in a tree, ” says Jabulani."
+        },
+        "text_9": {
+          "eng": "“Don’t worry, we’ll find your shoe,” says Ma.\n“Everyone look for Jabulani’s shoe.”\n\nBut the shoe is nowhere to be found."
+        },
+        "text_10": {
+          "eng": "“It’s all right,” says Ma.\n“You can wear your takkies to school today.”"
+        },
+        "text_11": {
+          "eng": "Lungi comes rushing into the kitchen with a big smile on her face.\n\n“I know where your shoe is,” she shouts. “Come and see.”"
+        }
+      },
+      "description": "Jabulani has lost his school shoe. He can’t find it anywhere. Where can it be?",
+      "text_1": "“Come, Jabulani,” Ma says.“Why aren’t you ready? You’ll be late for school.”\n\n“I can’t find my shoe,” says Jabulani.",
+      "text_2_left": "“Did you look under your bed?” says Ma.\n“It’s not under my bed,” Jabulani says.",
+      "text_2_right": "“Did you look in the wardrobe?” Ma asks.\n\n“Yes, it’s not in the wardrobe.”",
+      "text_3_left": "“I know where your shoe is,” giggles Jabulani’s sister Lungi.\n\n“Where?” Jabulani asks.\n\n“I’m not telling you!” says Lungi",
+      "text_3_right": "“Somebody’s taken it,” Jabulani says.",
+      "text_4_left": "“Why would someone take one shoe when they’ve got two feet?” says Lungi.",
+      "text_4_right": "“I don’t know. Maybe they’ve hidden it to make me cross.”",
+      "text_5_left": "“Did you take my shoe?” he asks Lungi.",
+      "text_5_right": "“No,” says Lungi, “your shoes are too big for me.”",
+      "text_6_left": "“Did you take my shoe?” Jabulani asks Fruit Juice the Dog.",
+      "text_6_right": "She smiles her big dog smile at him and wags her tail.",
+      "text_7": "“Maybe a bird picked it up and flew away with your shoe,” laughs Lungi.",
+      "text_8": "“Maybe a monkey took it and left it up in a tree, ” says Jabulani.",
+      "text_9": "“Don’t worry, we’ll find your shoe,” says Ma.\n“Everyone look for Jabulani’s shoe.”\n\nBut the shoe is nowhere to be found.",
+      "text_10": "“It’s all right,” says Ma.\n“You can wear your takkies to school today.”",
+      "text_11": "Lungi comes rushing into the kitchen with a big smile on her face.\n\n“I know where your shoe is,” she shouts. “Come and see.”"
+    },
+    {
+      "id": "a_very_important_tree",
+      "image_cover_asset": "images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg",
+      "author": "Elana Bregin",
+      "illustrator": "Liam Longland",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page4.jpg",
+      "image_2_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page5.jpg",
+      "image_3_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page6.jpg",
+      "image_4_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page7.jpg",
+      "image_5_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page8.jpg",
+      "image_6_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page9.jpg",
+      "image_7_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page10.jpg",
+      "image_8_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page11.jpg",
+      "image_9_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page12.jpg",
+      "image_10_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page13.jpg",
+      "image_11_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page14.jpg",
+      "image_12_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page15.jpg",
+      "image_13_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page16.jpg",
+      "image_14_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page17.jpg",
+      "title": "A Very Important Tree",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A Very Important Tree"
+        },
+        "description": {
+          "eng": "Busi loves the big, beautiful tree outside her house.\nBut her brother wants to cut it down.\nHow will she stop him?"
+        }
+      },
+      "description": "Busi loves the big, beautiful tree outside her house.\nBut her brother wants to cut it down.\nHow will she stop him?"
+    },
+    {
+      "id": "an_unexpected_adventure",
+      "image_cover_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg",
+      "author": "Carina Jooste",
+      "illustrator": "Emma Bosman",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page4.jpg",
+      "image_2_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page5.jpg",
+      "image_3_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page6.jpg",
+      "image_4_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page7.jpg",
+      "image_5_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page8.jpg",
+      "image_6_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page9.jpg",
+      "image_7_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page10.jpg",
+      "image_8_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page11.jpg",
+      "image_9_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page12.jpg",
+      "image_10_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page13.jpg",
+      "image_11_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page14.jpg",
+      "image_12_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page15.jpg",
+      "image_13_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page16.jpg",
+      "image_14_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page17.jpg",
+      "title": "An unexpected adventure",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "An unexpected adventure"
+        },
+        "description": {
+          "eng": "A boring afternoon turns into an exciting adventure when a little boy opens a book."
+        }
+      },
+      "description": "A boring afternoon turns into an exciting adventure when a little boy opens a book."
+    },
+    {
+      "id": "no_go_sleep",
+      "image_cover_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "author": "Sarah McGregor",
+      "illustrator": "Subi Bosa",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page4.jpg",
+      "image_2_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg",
+      "image_3_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg",
+      "image_4_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page7.jpg",
+      "image_5_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page8.jpg",
+      "image_6_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg",
+      "image_7_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg",
+      "image_8_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg",
+      "image_9_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg",
+      "image_10_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page13.jpg",
+      "image_11_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page14.jpg",
+      "image_12_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg",
+      "image_13_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page17.jpg",
+      "title": "I don't want to go to sleep",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1_left": {},
+        "text_1_right": {},
+        "text_2_left": {},
+        "text_2_right": {},
+        "text_3_left": {},
+        "text_3_right": {},
+        "text_4_left": {},
+        "text_4_right": {},
+        "text_5_left": {},
+        "text_5_right": {},
+        "text_6_left": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I don't want to go to sleep"
+        },
+        "description": {
+          "eng": "Nandi doesn’t want to go to sleep. No way! She wants to go on an adventure. Join Nandi as she lets her imagination run wild and free."
+        },
+        "text_1_left": {
+          "eng": "“Goodnight, Nandi.”"
+        },
+        "text_1_right": {
+          "eng": "“I don’t want to go to sleep!”"
+        },
+        "text_2_left": {
+          "eng": "“That’s enough now.\nGoodnight, Nandi.”"
+        },
+        "text_2_right": {
+          "eng": "“I ... don’t ... want ... to ... go ... to ... sleep.\""
+        },
+        "text_3_left": {
+          "eng": "“I want more supper.\nAnother book!\nJust one more song?”\n\n“Goodnight, Nandi.”"
+        },
+        "text_3_right": {
+          "eng": "“I don’t want to go to sleep!”"
+        },
+        "text_4_left": {
+          "eng": "\"MAMA!\n...I need a glass of water.\nPlease?\nPlease.\"\n\n“It’s time to go to sleep now.\nGoodnight, Nandi.”"
+        },
+        "text_4_right": {
+          "eng": "“I DON’T WANT TO GO TO SLEEP!”"
+        },
+        "text_5_left": {
+          "eng": "Mama sighs: “What about an adventure?\nDo you want an adventure?”"
+        },
+        "text_5_right": {
+          "eng": "“...yes...”"
+        },
+        "text_6_left": {
+          "eng": "“Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?”"
+        },
+        "text_6_right": {
+          "eng": "“Yes!Yes! Yes!”"
+        },
+        "text_7": {
+          "eng": "“I want to fly across the sky!\nLeap from star to star!\nFill my pocketswith stardust!”"
+        },
+        "text_8": {
+          "eng": "“I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!”"
+        },
+        "text_9": {
+          "eng": "“I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!”"
+        },
+        "text_10": {
+          "eng": "“Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...”"
+        },
+        "text_11": {
+          "eng": "“Goodnight, Nandi.”"
+        },
+        "text_12": {
+          "eng": "Draw your dreams here."
+        }
+      },
+      "description": "Nandi doesn’t want to go to sleep. No way! She wants to go on an adventure. Join Nandi as she lets her imagination run wild and free.",
+      "text_1_left": "“Goodnight, Nandi.”",
+      "text_1_right": "“I don’t want to go to sleep!”",
+      "text_2_left": "“That’s enough now.\nGoodnight, Nandi.”",
+      "text_2_right": "“I ... don’t ... want ... to ... go ... to ... sleep.\"",
+      "text_3_left": "“I want more supper.\nAnother book!\nJust one more song?”\n\n“Goodnight, Nandi.”",
+      "text_3_right": "“I don’t want to go to sleep!”",
+      "text_4_left": "\"MAMA!\n...I need a glass of water.\nPlease?\nPlease.\"\n\n“It’s time to go to sleep now.\nGoodnight, Nandi.”",
+      "text_4_right": "“I DON’T WANT TO GO TO SLEEP!”",
+      "text_5_left": "Mama sighs: “What about an adventure?\nDo you want an adventure?”",
+      "text_5_right": "“...yes...”",
+      "text_6_left": "“Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?”",
+      "text_6_right": "“Yes!Yes! Yes!”",
+      "text_7": "“I want to fly across the sky!\nLeap from star to star!\nFill my pocketswith stardust!”",
+      "text_8": "“I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!”",
+      "text_9": "“I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!”",
+      "text_10": "“Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...”",
+      "text_11": "“Goodnight, Nandi.”",
+      "text_12": "Draw your dreams here."
+    },
+    {
+      "id": "scared_tumi",
+      "image_cover_asset": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Mohale Mashigo",
+      "illustrator": "Nyambura Kariuki",
+      "licence": "© Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/scared_tumi/scared-tumi_20161230_page4.jpg",
+      "image_2_asset": "images/books/scared_tumi/scared-tumi_20161230_page5.jpg",
+      "image_3_asset": "images/books/scared_tumi/scared-tumi_20161230_page6.jpg",
+      "image_4_asset": "images/books/scared_tumi/scared-tumi_20161230_page7.jpg",
+      "image_5_asset": "images/books/scared_tumi/scared-tumi_20161230_page8.jpg",
+      "image_6_asset": "images/books/scared_tumi/scared-tumi_20161230_page9.jpg",
+      "image_7_asset": "images/books/scared_tumi/scared-tumi_20161230_page10.jpg",
+      "image_8_asset": "images/books/scared_tumi/scared-tumi_20161230_page11.jpg",
+      "image_9_asset": "images/books/scared_tumi/scared-tumi_20161230_page12.jpg",
+      "image_10_asset": "images/books/scared_tumi/scared-tumi_20161230_page13.jpg",
+      "image_11_asset": "images/books/scared_tumi/scared-tumi_20161230_page14.jpg",
+      "image_12_asset": "images/books/scared_tumi/scared-tumi_20161230_page15.jpg",
+      "image_13_asset": "images/books/scared_tumi/scared-tumi_20161230_page17.jpg",
+      "other_credits": "This story 'Scared Tumi' has been published on Storyweaver by Bookdash.",
+      "images_attributions": "Cover page: Scared Boy, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 2: Boy in Fear, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 3: Mom and Child, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 4: Monster under the Bed, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mother to Rescue, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 6: Eyes in the Tub, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 7: Sister Helps, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 8: Inside a Whale, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 9: Mother and Sister to rescue, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 10: Boy's thought bubble, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 11: Family, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.Page 12: Mother, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 13: At Dentist's, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 14: Assurance, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 15: Mother's care, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 16: Miniature Octopus, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "Scared Tumi",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Scared Tumi"
+        },
+        "description": {
+          "eng": "“What if there’s a monster under my bed?” Tumi is scared. Mama tries to show him that everything is okay."
+        },
+        "text_1": {
+          "eng": "My name is Tumi and I am scared."
+        },
+        "text_2": {
+          "eng": "Mama says it’s okay to be scared. “Everybody gets scared.”"
+        },
+        "text_3": {
+          "eng": "What if there is a monster under my bed?"
+        },
+        "text_4": {
+          "eng": "“Then I will tell it to go away and NEVER come back.”"
+        },
+        "text_5": {
+          "eng": "What if there are eyes in the bath tub drain?"
+        },
+        "text_6": {
+          "eng": "“Then your big sister, Kamo, will pull you out of the bath.”"
+        },
+        "text_7": {
+          "eng": "What if a whale swallows me at the beach?"
+        },
+        "text_8": {
+          "eng": "“Then Kamo and I will swim into the whale’s mouth to rescue you.”"
+        },
+        "text_9": {
+          "eng": "What if I can’t sing ABC and the other kids laugh at me?"
+        },
+        "text_10": {
+          "eng": "“Then Teacher Jill will help you remember.”"
+        },
+        "text_11": {
+          "eng": "What if I'm scared of going to the dentist tomorrow?"
+        },
+        "text_12": {
+          "eng": "“I will be right there holding your hand.” \nEverybody gets scared. Mama says it’s okay."
+        }
+      },
+      "description": "“What if there’s a monster under my bed?” Tumi is scared. Mama tries to show him that everything is okay.",
+      "text_1": "My name is Tumi and I am scared.",
+      "text_2": "Mama says it’s okay to be scared. “Everybody gets scared.”",
+      "text_3": "What if there is a monster under my bed?",
+      "text_4": "“Then I will tell it to go away and NEVER come back.”",
+      "text_5": "What if there are eyes in the bath tub drain?",
+      "text_6": "“Then your big sister, Kamo, will pull you out of the bath.”",
+      "text_7": "What if a whale swallows me at the beach?",
+      "text_8": "“Then Kamo and I will swim into the whale’s mouth to rescue you.”",
+      "text_9": "What if I can’t sing ABC and the other kids laugh at me?",
+      "text_10": "“Then Teacher Jill will help you remember.”",
+      "text_11": "What if I'm scared of going to the dentist tomorrow?",
+      "text_12": "“I will be right there holding your hand.” \nEverybody gets scared. Mama says it’s okay."
+    },
+    {
+      "id": "moms_red_coat",
+      "image_cover_asset": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Chrissie Kritzinger",
+      "illustrator": "Brad Cuzen",
+      "licence": "© Book Dash , 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page4.jpg",
+      "image_2_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page5.jpg",
+      "image_3_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page6.jpg",
+      "image_4_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page7.jpg",
+      "image_5_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page8.jpg",
+      "image_6_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page9.jpg",
+      "image_7_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page10.jpg",
+      "image_8_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page11.jpg",
+      "image_9_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page12.jpg",
+      "image_10_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page13.jpg",
+      "image_11_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page14.jpg",
+      "image_12_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page15.jpg",
+      "image_13_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page16.jpg",
+      "image_14_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page17.jpg",
+      "other_credits": "This book has been published on StoryWeaver by Book Dash. This book has been published on StoryWeaver by Book Dash. It was created at Book Dash, Durban on 29 October 2022 by Chrissie Kritzinger, Brad Cuzen, Meerashen Naidoo, and Zanri Kritzinger.",
+      "images_attributions": "Cover page: Mother and child holding a red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Child hugging mother in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Child and mother hugging, sleeping, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Adult in red coat excited, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mom kneeling next to child, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Child hugging mother as she leaves, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child lying on red coat with food, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child painting in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Child and adult gardening, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child sleeping with dirty red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Washed clothes on line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Red coat falling on lady coming out of car, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Mother patting child on head, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Clothes on drying line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dirty red coat hanging, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "Mom's Red Coat",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6_left": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_7_left": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mom's Red Coat"
+        },
+        "description": {
+          "eng": "Mom needs to go away for work. I’ll miss her. Will it help if she leaves her red coat with me?"
+        },
+        "text_1": {
+          "eng": "I love Mom’s coat! It’s red and long and warm. And it smells like Mom!"
+        },
+        "text_2": {
+          "eng": "I love doing things with Mom!\nWe picnic outside.\nShe hugs me when I come home from school.\nWe work in the garden.\nAt night, she holds me tight until I fall asleep."
+        },
+        "text_3": {
+          "eng": "‘Good news!’ says Mom. ‘I found a job! I will be away all week, but I’ll come home on weekends!’"
+        },
+        "text_4": {
+          "eng": "‘Who will hold me at night, Mom?’ ‘Who will hug me, picnic with me, garden with me?’"
+        },
+        "text_5": {
+          "eng": "‘I can see that you are sad. I will leave my red coat here with you.’ \n‘When you see it, remember that I love you and I’m coming back.’"
+        },
+        "text_6_left": {
+          "eng": "I drag the red coat outside – it’s my \npicnic blanket! It feels like Mom is with me."
+        },
+        "text_6_right": {
+          "eng": "Oops! Juice spill!"
+        },
+        "text_7": {
+          "eng": "I am sad that Mom’s not waiting at the door \nwhen I come home. I put on her coat. It’s warm and it smells like her. It feels like a hug!"
+        },
+        "text_7_left": {
+          "eng": "Oops! Paint!"
+        },
+        "text_8": {
+          "eng": "I help Gogo in the garden.\nThe long coat on the branch scares away the chickens!\nIt feels like Mom is gardening with us.\nOops! Mud!"
+        },
+        "text_9": {
+          "eng": "When it’s dark, I miss Mom most. Gogo covers me with her warm coat. It feels like Mom is holding me as I fall asleep.\nOops! Cookie crumbs!"
+        },
+        "text_10": {
+          "eng": "Mom’s red coat is warm and smells like...paint, juice, \nmud and cookie crumbs!\nOops! We need to wash it!"
+        },
+        "text_11": {
+          "eng": "The wind blows the red coat off the washing line...up into the air! It flies over the fence! It flies over the taxi!\nOops! Who did the coat fall on?"
+        },
+        "text_12": {
+          "eng": "I run and grab it! ‘Found you, coat!’ The red coat smells like Mom again. ‘Oh!’ ‘Found you, Mom! You’re back!’"
+        }
+      },
+      "description": "Mom needs to go away for work. I’ll miss her. Will it help if she leaves her red coat with me?",
+      "text_1": "I love Mom’s coat! It’s red and long and warm. And it smells like Mom!",
+      "text_2": "I love doing things with Mom!\nWe picnic outside.\nShe hugs me when I come home from school.\nWe work in the garden.\nAt night, she holds me tight until I fall asleep.",
+      "text_3": "‘Good news!’ says Mom. ‘I found a job! I will be away all week, but I’ll come home on weekends!’",
+      "text_4": "‘Who will hold me at night, Mom?’ ‘Who will hug me, picnic with me, garden with me?’",
+      "text_5": "‘I can see that you are sad. I will leave my red coat here with you.’ \n‘When you see it, remember that I love you and I’m coming back.’",
+      "text_6_left": "I drag the red coat outside – it’s my \npicnic blanket! It feels like Mom is with me.",
+      "text_6_right": "Oops! Juice spill!",
+      "text_7": "I am sad that Mom’s not waiting at the door \nwhen I come home. I put on her coat. It’s warm and it smells like her. It feels like a hug!",
+      "text_7_left": "Oops! Paint!",
+      "text_8": "I help Gogo in the garden.\nThe long coat on the branch scares away the chickens!\nIt feels like Mom is gardening with us.\nOops! Mud!",
+      "text_9": "When it’s dark, I miss Mom most. Gogo covers me with her warm coat. It feels like Mom is holding me as I fall asleep.\nOops! Cookie crumbs!",
+      "text_10": "Mom’s red coat is warm and smells like...paint, juice, \nmud and cookie crumbs!\nOops! We need to wash it!",
+      "text_11": "The wind blows the red coat off the washing line...up into the air! It flies over the fence! It flies over the taxi!\nOops! Who did the coat fall on?",
+      "text_12": "I run and grab it! ‘Found you, coat!’ The red coat smells like Mom again. ‘Oh!’ ‘Found you, Mom! You’re back!’"
+    },
+    {
+      "id": "amma_be_back",
+      "image_cover_asset": "images/books/when_will_amma_be_back/image_1",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Prathiba Swaminathan",
+      "illustrator": "Alankrita Amaya",
+      "licence": "© Pratham Books , 2018. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/when_will_amma_be_back/image_2",
+      "image_2_asset": "images/books/when_will_amma_be_back/image_3",
+      "image_3_asset": "images/books/when_will_amma_be_back/image_4",
+      "image_4_asset": "images/books/when_will_amma_be_back/image_5",
+      "image_5_asset": "images/books/when_will_amma_be_back/image_6",
+      "image_6_asset": "images/books/when_will_amma_be_back/image_7",
+      "image_7_asset": "images/books/when_will_amma_be_back/image_8",
+      "image_8_asset": "images/books/when_will_amma_be_back/image_9",
+      "image_9_asset": "images/books/when_will_amma_be_back/image_10",
+      "image_10_asset": "images/books/when_will_amma_be_back/image_11",
+      "image_11_asset": "images/books/when_will_amma_be_back/image_12",
+      "image_12_asset": "images/books/when_will_amma_be_back/image_13",
+      "image_13_asset": "images/books/when_will_amma_be_back/image_14",
+      "image_14_asset": "images/books/when_will_amma_be_back/image_15",
+      "image_15_asset": "images/books/when_will_amma_be_back/image_16",
+      "other_credits": "This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Karthika Gopalakrishnan, Art Director: Kaveri Gopalakrishnan",
+      "images_attributions": "Cover page: Girl trying to read clock, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 2: A woman enters a girl's room, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 3: Girl tucked into bed, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 4: Girl refusing to eat food, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 5: Girl and her grandfather go vegetable shopping, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 6: Girl screaming in a kitchen, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 7: Girls and a bus conductor, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 8: Girl plays in a park, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 9: Girl feeding her dog, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 10: Man reads girl a story, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 11: Woman looks into a dark room , by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 12: Brinjal and breakfast, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 13: Girl smiling joyfully, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 14: Woman and girl hug, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 15: Girl and her daily activities, by Alankrita Amaya © Pratham Books, 2018. Some rights\nreserved. Released under CC BY 4.0 license. Page 16: The daily activities of a girl, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "When Will Amma Be Back?",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {},
+        "text_13": {},
+        "text_14": {},
+        "text_15": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "When Will Amma Be Back?"
+        },
+        "description": {
+          "eng": "Roja’s mother leaves for work early in the day. She promises to be back by bedtime. What will Roja do all day without Amma?"
+        },
+        "text_1": {
+          "eng": "Roja is sad. Amma is going to work. \n“I will be back before bedtime, kannamma,” says Amma."
+        },
+        "text_2": {
+          "eng": "“But at what time?” asks Roja. “At exactly 9 o’clock tonight,” replies Amma.\nTick tock! Tick tock! It is 6 o’clock in the morning."
+        },
+        "text_3": {
+          "eng": "“I want Amma to give me milk. Not you!” says Roja to Appa. Tick tock! Tick tock! It is 8 o’clock in the morning."
+        },
+        "text_4": {
+          "eng": "“Let’s buy potatoes, Thaatha!” says Roja. “But we had potatoes just yesterday. How about brinjal today?” Thaatha asks. Tick tock! Tick tock! It is 10 o’clock in the morning."
+        },
+        "text_5": {
+          "eng": "“Paati, let’s eat. Thaatha is making pappadam!” Roja yells. Tick tock! Tick tock! It is 1 o’clock in the afternoon."
+        },
+        "text_6": {
+          "eng": "Honk! Honk! Roja’s Akka is back from school. “Paati says I will go to school with you after this summer. Won’t that be fun,Akka?” says Roja, excitedly.\nTick tock! Tick tock! It is 3 o’clock in the afternoon."
+        },
+        "text_7": {
+          "eng": "“It’s time to go home, Roja,” Appa calls out. “Just one last time!” shouts Roja.\nTick tock! Tick tock! It is 5 o’clock in the evening."
+        },
+        "text_8": {
+          "eng": "“Selvi, eat your dosai quickly! Only then will you become big and strong,” says Roja.\nTick tock! Tick tock! It is 7 o’clock at night."
+        },
+        "text_9": {
+          "eng": "“And so, when the cap-seller threw down his cap, the monkeys threw their caps down too... ”"
+        },
+        "text_10": {
+          "eng": "“AMMMAAAA!” Roja shouts. “What did you do all day, Roja?” Amma asks.\nTick tock! Tick tock! It is almost 9 o’clock at night."
+        },
+        "text_11": {
+          "eng": "“I had a lot of fun today, Amma! Appa fed me breakfast. I bought brinjal with Thaatha. He made pappadam for lunch."
+        },
+        "text_12": {
+          "eng": "I picked up Akka from the school van. I played in the park. I fed Selvi dinner. Appa told me a story and now you are back!” Roja says, with a wide smile."
+        },
+        "text_13": {
+          "eng": "Tick tock! Tick tock!\nIt is 9 o’clock at night!"
+        },
+        "text_14": {
+          "eng": "**My Day**\n\nHere are some things that Roja does at different times of the day. What did you do at the same time yesterday? \nDraw pictures of yourself doing these different things on a piece of paper.\n1. Roja eats breakfast at 8 o’clock. What did you do at 8 o’clock yesterday?\n2. Roja goes shopping at 10 o’clock. What did you do at 10 o’clock yesterday?\n3. Roja eats lunch at 1 o’clock. What did you do at 1 o’clock yesterday?"
+        },
+        "text_15": {
+          "eng": "4. Roja picks up Akka from the school van at 3 o’clock. What did you do at 3 o’clock yesterday?\n5. Roja plays in the park at 5 o’clock. What did you do at 5 o’clock yesterday?\n6. Roja feeds Selvi at 7 o’clock. What did you do at 7 o’clock yesterday?"
+        }
+      },
+      "description": "Roja’s mother leaves for work early in the day. She promises to be back by bedtime. What will Roja do all day without Amma?",
+      "text_1": "Roja is sad. Amma is going to work. \n“I will be back before bedtime, kannamma,” says Amma.",
+      "text_2": "“But at what time?” asks Roja. “At exactly 9 o’clock tonight,” replies Amma.\nTick tock! Tick tock! It is 6 o’clock in the morning.",
+      "text_3": "“I want Amma to give me milk. Not you!” says Roja to Appa. Tick tock! Tick tock! It is 8 o’clock in the morning.",
+      "text_4": "“Let’s buy potatoes, Thaatha!” says Roja. “But we had potatoes just yesterday. How about brinjal today?” Thaatha asks. Tick tock! Tick tock! It is 10 o’clock in the morning.",
+      "text_5": "“Paati, let’s eat. Thaatha is making pappadam!” Roja yells. Tick tock! Tick tock! It is 1 o’clock in the afternoon.",
+      "text_6": "Honk! Honk! Roja’s Akka is back from school. “Paati says I will go to school with you after this summer. Won’t that be fun,Akka?” says Roja, excitedly.\nTick tock! Tick tock! It is 3 o’clock in the afternoon.",
+      "text_7": "“It’s time to go home, Roja,” Appa calls out. “Just one last time!” shouts Roja.\nTick tock! Tick tock! It is 5 o’clock in the evening.",
+      "text_8": "“Selvi, eat your dosai quickly! Only then will you become big and strong,” says Roja.\nTick tock! Tick tock! It is 7 o’clock at night.",
+      "text_9": "“And so, when the cap-seller threw down his cap, the monkeys threw their caps down too... ”",
+      "text_10": "“AMMMAAAA!” Roja shouts. “What did you do all day, Roja?” Amma asks.\nTick tock! Tick tock! It is almost 9 o’clock at night.",
+      "text_11": "“I had a lot of fun today, Amma! Appa fed me breakfast. I bought brinjal with Thaatha. He made pappadam for lunch.",
+      "text_12": "I picked up Akka from the school van. I played in the park. I fed Selvi dinner. Appa told me a story and now you are back!” Roja says, with a wide smile.",
+      "text_13": "Tick tock! Tick tock!\nIt is 9 o’clock at night!",
+      "text_14": "**My Day**\n\nHere are some things that Roja does at different times of the day. What did you do at the same time yesterday? \nDraw pictures of yourself doing these different things on a piece of paper.\n1. Roja eats breakfast at 8 o’clock. What did you do at 8 o’clock yesterday?\n2. Roja goes shopping at 10 o’clock. What did you do at 10 o’clock yesterday?\n3. Roja eats lunch at 1 o’clock. What did you do at 1 o’clock yesterday?",
+      "text_15": "4. Roja picks up Akka from the school van at 3 o’clock. What did you do at 3 o’clock yesterday?\n5. Roja plays in the park at 5 o’clock. What did you do at 5 o’clock yesterday?\n6. Roja feeds Selvi at 7 o’clock. What did you do at 7 o’clock yesterday?"
+    },
+    {
+      "id": "bee_and_elephant",
+      "image_cover_asset": "images/books/the_bee_and_the_elephant/image_1",
+      "book_level": "This is a Level 1 book for children who are eager to begin reading.",
+      "author": "Long Ravy",
+      "illustrator": "Try Samphos",
+      "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/the_bee_and_the_elephant/image_2",
+      "image_2_asset": "images/books/the_bee_and_the_elephant/image_3",
+      "image_3_asset": "images/books/the_bee_and_the_elephant/image_4",
+      "image_4_asset": "images/books/the_bee_and_the_elephant/image_5",
+      "image_5_asset": "images/books/the_bee_and_the_elephant/image_6",
+      "image_6_asset": "images/books/the_bee_and_the_elephant/image_7",
+      "image_7_asset": "images/books/the_bee_and_the_elephant/image_8",
+      "image_8_asset": "images/books/the_bee_and_the_elephant/image_9",
+      "image_9_asset": "images/books/the_bee_and_the_elephant/image_10",
+      "other_credits": "This story 'The Bee and the Elephant' has been published on StoryWeaver by Room to Read.",
+      "images_attributions": "Cover page: Bee sleeping on elephant, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 2: Bee crying while elephant looks on, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 3: Elephant showing a bee a\nnest, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 4: Bird flying towards elephant and bee, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 5: Elephant showing a bee a cave, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 6: Bee and elephant being chased by bats, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 7: Elephant showing a bee a beehive, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 8: Bees taking in beehive, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 9: All animals going together in the forest, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 10: Bee on elephant's trunk, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "The Bee and the Elephant",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_7": {},
+        "text_8": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The Bee and the Elephant"
+        },
+        "description": {
+          "eng": "An elephant tries to help a little lost bee find his home. Is it the\nnest? The cave? Where does he live?"
+        },
+        "text_1": {
+          "eng": "\"I am lost,\" said Little Bee. \"I cannot find my home!\"\n\"Can you please help me, Mr. Elephant?\""
+        },
+        "text_2": {
+          "eng": "\"Is this nest your home, Little Bee?\" the elephant asked."
+        },
+        "text_3": {
+          "eng": "\"Oh no!\" cried Little Bee. \"This is a bird’s home.\""
+        },
+        "text_4": {
+          "eng": "\"Is this cave your home?\" asked the elephant."
+        },
+        "text_5": {
+          "eng": "\"Oh no! This is a bat’s home.\""
+        },
+        "text_6": {
+          "eng": "\"Is this hive your home, Little Bee?\""
+        },
+        "text_7": {
+          "eng": "\"Oh yes!\" said Little Bee happily. \"This is my home.\""
+        },
+        "text_8": {
+          "eng": "\"Thank you for helping me, Mr. Elephant.\""
+        }
+      },
+      "description": "An elephant tries to help a little lost bee find his home. Is it the\nnest? The cave? Where does he live?",
+      "text_1": "\"I am lost,\" said Little Bee. \"I cannot find my home!\"\n\"Can you please help me, Mr. Elephant?\"",
+      "text_2": "\"Is this nest your home, Little Bee?\" the elephant asked.",
+      "text_3": "\"Oh no!\" cried Little Bee. \"This is a bird’s home.\"",
+      "text_4": "\"Is this cave your home?\" asked the elephant.",
+      "text_5": "\"Oh no! This is a bat’s home.\"",
+      "text_6": "\"Is this hive your home, Little Bee?\"",
+      "text_7": "\"Oh yes!\" said Little Bee happily. \"This is my home.\"",
+      "text_8": "\"Thank you for helping me, Mr. Elephant.\""
+    },
+    {
+      "id": "reba_wants_ice",
+      "image_cover_asset": "images/books/reba_wants_ice_cream/image_1",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Sultana Zakia",
+      "illustrator": "Dhiman Sarkar",
+      "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/reba_wants_ice_cream/image_2",
+      "image_2_asset": "images/books/reba_wants_ice_cream/image_3",
+      "image_3_asset": "images/books/reba_wants_ice_cream/image_4",
+      "image_4_asset": "images/books/reba_wants_ice_cream/image_5",
+      "image_5_asset": "images/books/reba_wants_ice_cream/image_6",
+      "image_6_asset": "images/books/reba_wants_ice_cream/image_7",
+      "image_7_asset": "images/books/reba_wants_ice_cream/image_8",
+      "image_8_asset": "images/books/reba_wants_ice_cream/image_9",
+      "image_9_asset": "images/books/reba_wants_ice_cream/image_10",
+      "image_10_asset": "images/books/reba_wants_ice_cream/image_11",
+      "image_11_asset": "images/books/reba_wants_ice_cream/image_12",
+      "image_12_asset": "images/books/reba_wants_ice_cream/image_13",
+      "image_13_asset": "images/books/reba_wants_ice_cream/image_14",
+      "image_14_asset": "images/books/reba_wants_ice_cream/image_15",
+      "image_15_asset": "images/books/reba_wants_ice_cream/image_16",
+      "image_16_asset": "images/books/reba_wants_ice_cream/image_17",
+      "other_credits": "This story 'Reba Wants Ice Cream!' has been published on StoryWeaver by Room to Read.",
+      "images_attributions": "Cover page: Girl thinking about ice creams, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 2: Man pushing a cart, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 3: Girl comes running towards a woman, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 4: Bushes, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 5: Woman slicing a fish, and a girl standing by, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 6: Woman giving money to a girl, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 7: Cat sitting on the grass, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 8: Silhoutted scene of a girl at a counter, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 9: Shopkeeper selling something to a girl, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 10: Girl lying on a mat and doing her work, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 11: Girl in deep thought, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 12: Girl thinking about ice cream, girl praying intently, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 13: Girl runs towards a shop, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 14: Girl runs away with an ice cream while another looks on, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 15: Two girls at a shop, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 16: Man gives an ice cream to a gir,l by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 17: Girl licks ice cream happily, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "Reba Wants Ice Cream",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_5": {},
+        "text_6": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11_left": {},
+        "text_11_right": {},
+        "text_12": {},
+        "text_13": {},
+        "text_14": {},
+        "text_15": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reba Wants Ice Cream"
+        },
+        "description": {
+          "eng": "When Reba comes home, she realises that a shopkeeper has given her too much change. Should she tell the shopkeeper the truth?"
+        },
+        "text_1": {
+          "eng": "“Ice cream! Ice cream!” The shopkeeper called."
+        },
+        "text_2": {
+          "eng": "Reba ran to her mother. “Ma! Ma! I want ice cream!”\n“Finish your homework first,” said Ma."
+        },
+        "text_3": {
+          "eng": "Reba looked unhappy. Ma asked, “Are you done with your homework yet?”\n“Mmm...No. But my notebook is full! I need to buy another one.”"
+        },
+        "text_5": {
+          "eng": "Ma gave Reba 50 taka*. “Go buy a notebook. We also need a bar of soap.”\n*Taka is the name of currency used in Bangladesh."
+        },
+        "text_6": {
+          "eng": "Reba went to the shop. The shopkeeper gave Reba a notebook and a bar of soap. “How much?” asked Reba."
+        },
+        "text_8": {
+          "eng": "“The notebook is 20 taka, and the soap is 20 taka,” said the shopkeeper. “That means the total cost is 40 taka. Here’s your change.”"
+        },
+        "text_9": {
+          "eng": "When Reba came back home, she calculated her change.Reba gave the shopkeeper 50 taka. The notebook was 20 taka, and the soap was 20 taka."
+        },
+        "text_10": {
+          "eng": "“I should only get 10 taka back,” thought Reba. “Why did the shopkeeper give me 20 taka back?”"
+        },
+        "text_11_left": {
+          "eng": "“That's great!” thought Reba. “I can buy ice cream with this extra money!”"
+        },
+        "text_11_right": {
+          "eng": "But Reba was ashamed of herself. “I should go back and give the shopkeeper the correct change.”"
+        },
+        "text_12": {
+          "eng": "Reba rushed back to the shop. There were so many kinds of ice creams that she wanted! “Oh, if only I could have an ice-cream!” she thought."
+        },
+        "text_13": {
+          "eng": "When Reba got to the shop, she saw another girl who had just bought ice cream. She was about to go home.\nThe shopkeeper stopped her. “Wait!” he said. “You've given me too much money. Come back, take the change.”"
+        },
+        "text_14": {
+          "eng": "The shopkeeper gave the girl her change. Reba stepped forward. “You gave me 10 extra taka. Please take your money back.”"
+        },
+        "text_15": {
+          "eng": "“You’re such an honest girl!” The shopkeeper was so happy with Reba’s honesty that he gave her an ice cream for free! Reba happily licked her ice cream all the way home."
+        }
+      },
+      "description": "When Reba comes home, she realises that a shopkeeper has given her too much change. Should she tell the shopkeeper the truth?",
+      "text_1": "“Ice cream! Ice cream!” The shopkeeper called.",
+      "text_2": "Reba ran to her mother. “Ma! Ma! I want ice cream!”\n“Finish your homework first,” said Ma.",
+      "text_3": "Reba looked unhappy. Ma asked, “Are you done with your homework yet?”\n“Mmm...No. But my notebook is full! I need to buy another one.”",
+      "text_5": "Ma gave Reba 50 taka*. “Go buy a notebook. We also need a bar of soap.”\n*Taka is the name of currency used in Bangladesh.",
+      "text_6": "Reba went to the shop. The shopkeeper gave Reba a notebook and a bar of soap. “How much?” asked Reba.",
+      "text_8": "“The notebook is 20 taka, and the soap is 20 taka,” said the shopkeeper. “That means the total cost is 40 taka. Here’s your change.”",
+      "text_9": "When Reba came back home, she calculated her change.Reba gave the shopkeeper 50 taka. The notebook was 20 taka, and the soap was 20 taka.",
+      "text_10": "“I should only get 10 taka back,” thought Reba. “Why did the shopkeeper give me 20 taka back?”",
+      "text_11_left": "“That's great!” thought Reba. “I can buy ice cream with this extra money!”",
+      "text_11_right": "But Reba was ashamed of herself. “I should go back and give the shopkeeper the correct change.”",
+      "text_12": "Reba rushed back to the shop. There were so many kinds of ice creams that she wanted! “Oh, if only I could have an ice-cream!” she thought.",
+      "text_13": "When Reba got to the shop, she saw another girl who had just bought ice cream. She was about to go home.\nThe shopkeeper stopped her. “Wait!” he said. “You've given me too much money. Come back, take the change.”",
+      "text_14": "The shopkeeper gave the girl her change. Reba stepped forward. “You gave me 10 extra taka. Please take your money back.”",
+      "text_15": "“You’re such an honest girl!” The shopkeeper was so happy with Reba’s honesty that he gave her an ice cream for free! Reba happily licked her ice cream all the way home."
+    },
+    {
+      "id": "rani_first_day",
+      "image_cover_asset": "images/books/ranis_first_day_at_school/image_1",
+      "book_level": "This is a Level 1 book for children who are eager to begin reading.",
+      "author": "Cheryl Rao",
+      "illustrator": "Mayur Mistry",
+      "licence": "© Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/ranis_first_day_at_school/image_2",
+      "image_2_asset": "images/books/ranis_first_day_at_school/image_3",
+      "image_3_asset": "images/books/ranis_first_day_at_school/image_4",
+      "image_4_asset": "images/books/ranis_first_day_at_school/image_5",
+      "image_5_asset": "images/books/ranis_first_day_at_school/image_6",
+      "image_6_asset": "images/books/ranis_first_day_at_school/image_7",
+      "other_credits": "This book has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org",
+      "images_attributions": "Cover page: Girl going to school, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 2: Girl holding mother's hand at school, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 3: Children and vehicles outside building, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 4: Girl looking scared, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 5: Girl hugging mother, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 6: Girl and two women, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 7: Happy girl going to school , by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "Rani's First Day at School",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Rani's First Day at School"
+        },
+        "description": {
+          "eng": "What does Rani see on her first day in school? How does she feel?"
+        },
+        "text_1": {
+          "eng": "It is my first day at school. Mummy is holding my hand and walking with me. \"I am grown up now,\" I say. \"Let go, let go!\" Mummy holds my hand very tight."
+        },
+        "text_2": {
+          "eng": "There are many children near the school. They come by bus. They come by car. They come by rickshaw. They cycle. They walk, like me."
+        },
+        "text_3": {
+          "eng": "We reach the gate. Mummy lets go of my hand. She stays at the gate. I have to go inside alone. There are many new faces all around me."
+        },
+        "text_4": {
+          "eng": "I take one step. I take another step. I look back. Mummy gets smaller as I walk away. Will she disappear? I run back to her. I don’t feel so grown up. I hold her hand. “Don’t go away,” I say."
+        },
+        "text_5": {
+          "eng": "Everyone is inside now. I am the only one outside. The teacher comes out. She smiles at me. I smile back. Mummy says, \"Rani, I will be here when you come out.\"I let go of her hand. She waves to me."
+        },
+        "text_6": {
+          "eng": "I run inside. Mummy will be there after school!"
+        }
+      },
+      "description": "What does Rani see on her first day in school? How does she feel?",
+      "text_1": "It is my first day at school. Mummy is holding my hand and walking with me. \"I am grown up now,\" I say. \"Let go, let go!\" Mummy holds my hand very tight.",
+      "text_2": "There are many children near the school. They come by bus. They come by car. They come by rickshaw. They cycle. They walk, like me.",
+      "text_3": "We reach the gate. Mummy lets go of my hand. She stays at the gate. I have to go inside alone. There are many new faces all around me.",
+      "text_4": "I take one step. I take another step. I look back. Mummy gets smaller as I walk away. Will she disappear? I run back to her. I don’t feel so grown up. I hold her hand. “Don’t go away,” I say.",
+      "text_5": "Everyone is inside now. I am the only one outside. The teacher comes out. She smiles at me. I smile back. Mummy says, \"Rani, I will be here when you come out.\"I let go of her hand. She waves to me.",
+      "text_6": "I run inside. Mummy will be there after school!"
+    },
+    {
+      "id": "ma_hurry_up",
+      "image_cover_asset": "images/books/ma_hurry_up/image_1",
+      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "author": "Rukmini Banerji",
+      "illustrator": "Sheetal Thapa",
+      "licence": "© Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/ma_hurry_up/image_2",
+      "image_2_asset": "images/books/ma_hurry_up/image_3",
+      "image_3_asset": "images/books/ma_hurry_up/image_4",
+      "image_4_asset": "images/books/ma_hurry_up/image_5",
+      "image_5_asset": "images/books/ma_hurry_up/image_6",
+      "image_6_asset": "images/books/ma_hurry_up/image_7",
+      "image_7_asset": "images/books/ma_hurry_up/image_8",
+      "image_8_asset": "images/books/ma_hurry_up/image_9",
+      "image_9_asset": "images/books/ma_hurry_up/image_10",
+      "image_10_asset": "images/books/ma_hurry_up/image_11",
+      "image_11_asset": "images/books/ma_hurry_up/image_12",
+      "other_credits": "Ma! Hurry Up!!' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Dubai Creek Round Table, Dubai, U.A.E. www.prathambooks.org.",
+      "images_attributions": "Cover page: An excited boy, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 2: A boy waking up in the morning, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 3: A woman filling a bucket with water, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 4: A boy coming out of bath, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 5: A woman in the kitchen, by Sheetal Thapa © Pratham Books, 2004. Some rights\nreserved. Released under CC BY 4.0 license. Page 6: A boy taking his bag hanging on the wall, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 7: A woman taking off a uniform for a girl from a hanger, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved.\nReleased under CC BY 4.0 license. Page 8: A boy taking a bag hanging on the wall, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 9: A woman making a pony tail for a girl, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 10: A boy angry at someone, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 11: A woman holding a pot in the kitchen, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 12: A boy\ndragging his mother out of the house, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license.",
+      "title": "Ma! Hurry Up!!",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ma! Hurry Up!!"
+        },
+        "description": {
+          "eng": "The boy in the story is in a real hurry. Wouldn’t you like to find out why?"
+        },
+        "text_1": {
+          "eng": "I wake up in the morning. I rub my eyes. I cannot see my mother. “Ma! Ma! Hurry up!!”"
+        },
+        "text_2": {
+          "eng": "Ma is busy. She says, “Good morning. Get up! Go wash your face.”"
+        },
+        "text_3": {
+          "eng": "I wash my hands and face. I have a bath in a hurry. I want to go soon. “Ma, hurry up.”"
+        },
+        "text_4": {
+          "eng": "“Yes! I am coming,” Ma says to me. “I have to boil the milk, then I will come.”"
+        },
+        "text_5": {
+          "eng": "I comb my hair and button my shirt. Now I am ready. “Ma, hurry up.”"
+        },
+        "text_6": {
+          "eng": "Ma gives Didi her clothes. She helps Didi get ready. There is so much work in the morning. But I am in a hurry."
+        },
+        "text_7": {
+          "eng": "“Ma, I am getting late.” I pick up my water bottle and school bag. I wear my chappals. “Come on let us go. Ma, hurry up.”"
+        },
+        "text_8": {
+          "eng": "”Yes! I am coming. Let me comb your sister’s hair. I need five minutes more and then we can go.”"
+        },
+        "text_9": {
+          "eng": "I want to go now. I do not want to wait. I feel like crying. Didi has gone to school and I am still here."
+        },
+        "text_10": {
+          "eng": "“I am almost done. I only have to fill water.” She always has something to do. “Ma, please, please, hurry up.”"
+        },
+        "text_11": {
+          "eng": "“I am going. You better come with me.” I hold her hand and start pulling her. “Arre baba, let me switch off the lights.”"
+        },
+        "text_12": {
+          "eng": "Finally we are out of the house. Mother locks the door. She says, “Why are you so impatient,\nmy Raja?” I like it when she calls me ‘my Raja’. Now my mother is walking with me. I like that!!"
+        }
+      },
+      "description": "The boy in the story is in a real hurry. Wouldn’t you like to find out why?",
+      "text_1": "I wake up in the morning. I rub my eyes. I cannot see my mother. “Ma! Ma! Hurry up!!”",
+      "text_2": "Ma is busy. She says, “Good morning. Get up! Go wash your face.”",
+      "text_3": "I wash my hands and face. I have a bath in a hurry. I want to go soon. “Ma, hurry up.”",
+      "text_4": "“Yes! I am coming,” Ma says to me. “I have to boil the milk, then I will come.”",
+      "text_5": "I comb my hair and button my shirt. Now I am ready. “Ma, hurry up.”",
+      "text_6": "Ma gives Didi her clothes. She helps Didi get ready. There is so much work in the morning. But I am in a hurry.",
+      "text_7": "“Ma, I am getting late.” I pick up my water bottle and school bag. I wear my chappals. “Come on let us go. Ma, hurry up.”",
+      "text_8": "”Yes! I am coming. Let me comb your sister’s hair. I need five minutes more and then we can go.”",
+      "text_9": "I want to go now. I do not want to wait. I feel like crying. Didi has gone to school and I am still here.",
+      "text_10": "“I am almost done. I only have to fill water.” She always has something to do. “Ma, please, please, hurry up.”",
+      "text_11": "“I am going. You better come with me.” I hold her hand and start pulling her. “Arre baba, let me switch off the lights.”",
+      "text_12": "Finally we are out of the house. Mother locks the door. She says, “Why are you so impatient,\nmy Raja?” I like it when she calls me ‘my Raja’. Now my mother is walking with me. I like that!!"
+    },
+    {
+      "id": "katiitis_song",
+      "image_cover_asset": "images/books/katiitis_song/image_1",
+      "author": "Philippa Namutebi Kabali-Kagwa",
+      "illustrator": "Mary Marble",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/katiitis_song/image_2",
+      "image_2_asset": "images/books/katiitis_song/image_3",
+      "image_3_asset": "images/books/katiitis_song/image_4",
+      "image_4_asset": "images/books/katiitis_song/image_5",
+      "image_5_asset": "images/books/katiitis_song/image_6",
+      "image_6_asset": "images/books/katiitis_song/image_7",
+      "image_7_asset": "images/books/katiitis_song/image_8",
+      "image_8_asset": "images/books/katiitis_song/image_9",
+      "image_9_asset": "images/books/katiitis_song/image_10",
+      "image_10_asset": "images/books/katiitis_song/image_11",
+      "image_11_asset": "images/books/katiitis_song/image_12",
+      "image_12_asset": "images/books/katiitis_song/image_13",
+      "image_13_asset": "images/books/katiitis_song/image_15",
+      "title": "Katiiti’s Song",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Katiiti’s Song"
+        },
+        "description": {
+          "eng": "Every day, Katiiti’s mother calls her with a beautiful song. One day, a crafty gorilla tries to sing as sweetly as her mother."
+        },
+        "text_1": {
+          "eng": "Katiiti lived in a village next to a forest."
+        },
+        "text_2": {
+          "eng": "She loved playing in the forest. Maama told her to be careful."
+        },
+        "text_3": {
+          "eng": "Every day Maama would sing their special song to call her."
+        },
+        "text_4": {
+          "eng": "One day, Katiiti bumped into a gorilla."
+        },
+        "text_5": {
+          "eng": "She ran and hid in a cave."
+        },
+        "text_6": {
+          "eng": "Gorilla came and sang Maama’s song in a gruff voice."
+        },
+        "text_7": {
+          "eng": "Gorilla ate lots of bananas to make his voice sweeter."
+        },
+        "text_8": {
+          "eng": "Gorilla sang sweetishly."
+        },
+        "text_9": {
+          "eng": "Gorilla went away and ate lots of honey to make his voice even sweeter."
+        },
+        "text_10": {
+          "eng": "Gorilla sang as sweetly as Maama."
+        },
+        "text_11": {
+          "eng": "Maama came just in time to chase away Gorilla."
+        },
+        "text_12": {
+          "eng": "Katiiti and Maama sang all the way back home."
+        }
+      },
+      "description": "Every day, Katiiti’s mother calls her with a beautiful song. One day, a crafty gorilla tries to sing as sweetly as her mother.",
+      "text_1": "Katiiti lived in a village next to a forest.",
+      "text_2": "She loved playing in the forest. Maama told her to be careful.",
+      "text_3": "Every day Maama would sing their special song to call her.",
+      "text_4": "One day, Katiiti bumped into a gorilla.",
+      "text_5": "She ran and hid in a cave.",
+      "text_6": "Gorilla came and sang Maama’s song in a gruff voice.",
+      "text_7": "Gorilla ate lots of bananas to make his voice sweeter.",
+      "text_8": "Gorilla sang sweetishly.",
+      "text_9": "Gorilla went away and ate lots of honey to make his voice even sweeter.",
+      "text_10": "Gorilla sang as sweetly as Maama.",
+      "text_11": "Maama came just in time to chase away Gorilla.",
+      "text_12": "Katiiti and Maama sang all the way back home."
+    }
+  ],
+  "_xlsxPath": "data/library/books.xlsx"
+}

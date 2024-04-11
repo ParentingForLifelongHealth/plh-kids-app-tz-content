@@ -1,0 +1,36 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "guidance_groups",
+  "status": "released",
+  "data_list_name": "guidance_groups",
+  "rows": [
+    {
+      "id": "group_a",
+      "description": "Ages 1-3",
+      "child_age_list": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": "group_b",
+      "description": "Ages 4-6",
+      "child_age_list": [
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id": "group_c",
+      "description": "Ages 7-9",
+      "child_age_list": [
+        "7",
+        "8",
+        "9"
+      ]
+    }
+  ],
+  "_xlsxPath": "data/library/books.xlsx"
+}

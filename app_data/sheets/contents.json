@@ -5,14 +5,20 @@
       "flow_type": "data_list",
       "flow_name": "about_this_app",
       "data_list_name": "about_this_app",
-      "_xlsxPath": "deployment_data_tz.xlsx"
+      "_xlsxPath": "data/deployment_data_tz.xlsx"
     },
     "language": {
       "flow_type": "data_list",
       "flow_name": "language",
       "data_list_name": "language",
       "flow_subtype": "app_config_language_list",
-      "_xlsxPath": "deployment_data_tz.xlsx"
+      "_xlsxPath": "data/deployment_data_tz.xlsx"
+    },
+    "books": {
+      "flow_type": "data_list",
+      "flow_name": "books",
+      "data_list_name": "books",
+      "_xlsxPath": "data/library/books.xlsx"
     },
     "check_in": {
       "flow_type": "data_list",
@@ -24,33 +30,39 @@
       "flow_type": "data_list",
       "flow_name": "common_categories",
       "data_list_name": "common_categories",
-      "_xlsxPath": "data/modules/modules.xlsx"
+      "_xlsxPath": "data/modules/TZ modules.xlsx"
     },
     "connect_articles": {
       "flow_type": "data_list",
       "flow_name": "connect_articles",
       "data_list_name": "connect_articles",
-      "_xlsxPath": "data/modules/modules.xlsx"
+      "_xlsxPath": "data/modules/TZ modules.xlsx"
     },
     "connect_categories": {
       "flow_type": "data_list",
       "flow_name": "connect_categories",
       "data_list_name": "connect_categories",
-      "_xlsxPath": "data/modules/modules.xlsx"
+      "_xlsxPath": "data/modules/TZ modules.xlsx"
+    },
+    "guidance_groups": {
+      "flow_type": "data_list",
+      "flow_name": "guidance_groups",
+      "data_list_name": "guidance_groups",
+      "_xlsxPath": "data/library/books.xlsx"
     },
     "privacy_policy": {
       "flow_type": "data_list",
       "flow_name": "privacy_policy",
       "data_list_name": "privacy_policy",
       "flow_subtype": "legal_terms",
-      "_xlsxPath": "deployment_data_tz.xlsx"
+      "_xlsxPath": "data/deployment_data_tz.xlsx"
     },
     "terms_and_conditions": {
       "flow_type": "data_list",
       "flow_name": "terms_and_conditions",
       "data_list_name": "terms_and_conditions",
       "flow_subtype": "legal_terms",
-      "_xlsxPath": "deployment_data_tz.xlsx"
+      "_xlsxPath": "data/deployment_data_tz.xlsx"
     },
     "library_data": {
       "flow_type": "data_list",
@@ -68,19 +80,19 @@
       "flow_type": "data_list",
       "flow_name": "modules",
       "data_list_name": "modules",
-      "_xlsxPath": "data/modules/modules.xlsx"
+      "_xlsxPath": "data/modules/TZ modules.xlsx"
     },
     "organisation": {
       "flow_type": "data_list",
       "flow_name": "organisation",
       "data_list_name": "organisation",
-      "_xlsxPath": "deployment_data_tz.xlsx"
+      "_xlsxPath": "data/deployment_data_tz.xlsx"
     },
     "organisation_group": {
       "flow_type": "data_list",
       "flow_name": "organisation_group",
       "data_list_name": "organisation_group",
-      "_xlsxPath": "deployment_data_tz.xlsx"
+      "_xlsxPath": "data/deployment_data_tz.xlsx"
     },
     "relax": {
       "flow_type": "data_list",
@@ -92,13 +104,13 @@
       "flow_type": "data_list",
       "flow_name": "test_articles",
       "data_list_name": "test_articles",
-      "_xlsxPath": "data/modules/modules.xlsx"
+      "_xlsxPath": "data/modules/TZ modules.xlsx"
     },
     "test_categories": {
       "flow_type": "data_list",
       "flow_name": "test_categories",
       "data_list_name": "test_categories",
-      "_xlsxPath": "data/modules/modules.xlsx"
+      "_xlsxPath": "data/modules/TZ modules.xlsx"
     }
   },
   "data_pipe": {},
@@ -142,6 +154,17 @@
       "parameter_list": {
         "input_data_list": "connect_articles",
         "output_flow_name": "3_extra_text_connect_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/article_generators.xlsx"
+    },
+    "connect_4_extra_text_gen": {
+      "flow_type": "generator",
+      "flow_name": "connect_4_extra_text_gen",
+      "parameter_list": {
+        "input_data_list": "connect_articles",
+        "output_flow_name": "4_extra_text_connect_@gen.id",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
@@ -252,7 +275,7 @@
       "flow_name": "deployment_global_tz",
       "override_target": "deployment_global",
       "override_condition": "@fields._deployment_name == \"plh_kids_tz\"",
-      "_xlsxPath": "deployment_data_tz.xlsx"
+      "_xlsxPath": "data/deployment_data_tz.xlsx"
     },
     "legal_terms": {
       "flow_type": "global",
@@ -297,6 +320,26 @@
       "flow_type": "template",
       "flow_name": "articles_connect",
       "_xlsxPath": "templates/modules/articles_navigation_temp.xlsx"
+    },
+    "book_cover": {
+      "flow_type": "template",
+      "flow_name": "book_cover",
+      "_xlsxPath": "templates/library/picture_books.xlsx"
+    },
+    "book_image": {
+      "flow_type": "template",
+      "flow_name": "book_image",
+      "_xlsxPath": "templates/library/picture_books.xlsx"
+    },
+    "book_page": {
+      "flow_type": "template",
+      "flow_name": "book_page",
+      "_xlsxPath": "templates/library/picture_books.xlsx"
+    },
+    "book_test": {
+      "flow_type": "template",
+      "flow_name": "book_test",
+      "_xlsxPath": "templates/library/picture_books.xlsx"
     },
     "category": {
       "flow_type": "template",
@@ -578,6 +621,81 @@
     },
     "3_extra_text_connect_review_1": {
       "flow_name": "3_extra_text_connect_review_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_home_activity_1": {
+      "flow_name": "4_extra_text_connect_home_activity_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_intro_connect": {
+      "flow_name": "4_extra_text_connect_intro_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_intro_connect_child": {
+      "flow_name": "4_extra_text_connect_intro_connect_child",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_1": {
+      "flow_name": "4_extra_text_connect_learn_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_10": {
+      "flow_name": "4_extra_text_connect_learn_10",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_11": {
+      "flow_name": "4_extra_text_connect_learn_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_2": {
+      "flow_name": "4_extra_text_connect_learn_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_3": {
+      "flow_name": "4_extra_text_connect_learn_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_4": {
+      "flow_name": "4_extra_text_connect_learn_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_5": {
+      "flow_name": "4_extra_text_connect_learn_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_6": {
+      "flow_name": "4_extra_text_connect_learn_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_7": {
+      "flow_name": "4_extra_text_connect_learn_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_8": {
+      "flow_name": "4_extra_text_connect_learn_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_learn_9": {
+      "flow_name": "4_extra_text_connect_learn_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "4_extra_text_connect_review_1": {
+      "flow_name": "4_extra_text_connect_review_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
