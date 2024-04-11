@@ -1,0 +1,331 @@
+{
+  "flow_type": "template",
+  "flow_name": "book_cover",
+  "status": "released",
+  "rows": [
+    {
+      "name": "book_id",
+      "value": "who_took_my_shoe",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "book_id"
+    },
+    {
+      "name": "module_id",
+      "value": "connect",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "name": "book",
+      "value": "books",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "book"
+    },
+    {
+      "name": "data",
+      "value": "@local.book",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book",
+            "matchedExpression": "@local.book",
+            "type": "local",
+            "fieldName": "book"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "concat_book_id",
+      "value": "@local.data.@local.book_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "concat_book_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data.@local.book_id",
+            "matchedExpression": "@local.data",
+            "type": "local",
+            "fieldName": "data"
+          },
+          {
+            "fullExpression": "@local.data.@local.book_id",
+            "matchedExpression": "@local.book_id",
+            "type": "local",
+            "fieldName": "book_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data": [
+          "value"
+        ],
+        "@local.book_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "book_data",
+      "value": "@data.@local.concat_book_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "book_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_book_id",
+            "matchedExpression": "@local.concat_book_id",
+            "type": "local",
+            "fieldName": "concat_book_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_book_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "join"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_1",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "value": "@local.book_data.title",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "flex:2"
+          ],
+          "_nested_name": "dg_1.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.book_data.title",
+                "matchedExpression": "@local.book_data.title",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.book_data.title": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "image",
+          "name": "image_cover_asset",
+          "value": "@local.book_data.image_cover_asset",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "flex:1"
+          ],
+          "_nested_name": "dg_1.image_cover_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.book_data.image_cover_asset",
+                "matchedExpression": "@local.book_data.image_cover_asset",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.book_data.image_cover_asset": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_1"
+    },
+    {
+      "type": "text",
+      "name": "description",
+      "value": "@local.book_data.description",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book_data.description",
+            "matchedExpression": "@local.book_data.description",
+            "type": "local",
+            "fieldName": "book_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book_data.description": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "acc_1",
+          "value": "Author",
+          "rows": [
+            {
+              "type": "display_group",
+              "name": "dg_2",
+              "parameter_list": {
+                "style": "column"
+              },
+              "rows": [
+                {
+                  "type": "text",
+                  "name": "author",
+                  "value": "**Author:** @local.book_data.author",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.acc_1.dg_2.author",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "**Author:** @local.book_data.author",
+                        "matchedExpression": "@local.book_data.author",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.book_data.author": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "name": "Illustrator",
+                  "value": "**Illustrator:** @local.book_data.illustrator",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.acc_1.dg_2.Illustrator",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "**Illustrator:** @local.book_data.illustrator",
+                        "matchedExpression": "@local.book_data.illustrator",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.book_data.illustrator": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "name": "book_level",
+                  "value": "@local.book_data.book_level",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.acc_1.dg_2.book_level",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.book_data.book_level",
+                        "matchedExpression": "@local.book_data.book_level",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.book_data.book_level": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "name": "licence",
+                  "value": "@local.book_data.licence",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "accordion.acc_1.dg_2.licence",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.book_data.licence",
+                        "matchedExpression": "@local.book_data.licence",
+                        "type": "local",
+                        "fieldName": "book_data"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.book_data.licence": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "accordion.acc_1.dg_2"
+            }
+          ],
+          "_nested_name": "accordion.acc_1"
+        }
+      ],
+      "name": "accordion",
+      "_nested_name": "accordion"
+    }
+  ],
+  "_xlsxPath": "templates/library/picture_books.xlsx"
+}
