@@ -1,0 +1,50 @@
+{
+  "flow_type": "generator",
+  "flow_name": "book_cover_gen",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "books",
+    "output_flow_name": "book_cover_@gen.id",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "book_cover",
+      "value": "book_cover",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "book_id",
+          "value": "@gen.id"
+        },
+        {
+          "name": "module_id",
+          "value": "connect",
+          "exclude_from_translation": true
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "templates/library/book_generators.xlsx"
+}
