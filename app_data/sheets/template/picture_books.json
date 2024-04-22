@@ -59,7 +59,7 @@
               "parameter_list": {
                 "style": "card"
               },
-              "_nested_name": "items.dg_@item.id.button_@item.id",
+              "_nested_name": "items_4.dg_@item.id.button_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -79,13 +79,13 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items.dg_@item.id.button_@item.id",
+                    "fullExpression": "items_4.dg_@item.id.button_@item.id",
                     "matchedExpression": "@item.id.button_",
                     "type": "item",
                     "fieldName": "id"
                   },
                   {
-                    "fullExpression": "items.dg_@item.id.button_@item.id",
+                    "fullExpression": "items_4.dg_@item.id.button_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -106,7 +106,7 @@
               }
             }
           ],
-          "_nested_name": "items.dg_@item.id",
+          "_nested_name": "items_4.dg_@item.id",
           "_dynamicFields": {
             "name": [
               {
@@ -118,7 +118,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "items.dg_@item.id",
+                "fullExpression": "items_4.dg_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -133,8 +133,8 @@
           }
         }
       ],
-      "name": "items",
-      "_nested_name": "items",
+      "name": "items_4",
+      "_nested_name": "items_4",
       "_dynamicFields": {
         "value": [
           {

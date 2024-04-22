@@ -139,8 +139,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
+      "name": "set_variable_9",
+      "_nested_name": "set_variable_9"
     },
     {
       "name": "section_no",
@@ -281,8 +281,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
+      "name": "set_variable_16",
+      "_nested_name": "set_variable_16"
     },
     {
       "type": "text",
