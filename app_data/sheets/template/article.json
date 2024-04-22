@@ -790,12 +790,6 @@
       }
     },
     {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
-    },
-    {
       "type": "template",
       "name": "question_1",
       "value": "question",
@@ -901,12 +895,6 @@
           "condition"
         ]
       }
-    },
-    {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
     },
     {
       "type": "template",
@@ -1016,12 +1004,6 @@
       }
     },
     {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
-    },
-    {
       "type": "template",
       "name": "question_3",
       "value": "question",
@@ -1129,12 +1111,6 @@
       }
     },
     {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
-    },
-    {
       "type": "template",
       "name": "section_1",
       "value": "section",
@@ -1215,12 +1191,6 @@
           "condition"
         ]
       }
-    },
-    {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
     },
     {
       "type": "template",
@@ -1305,12 +1275,6 @@
       }
     },
     {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
-    },
-    {
       "type": "template",
       "name": "section_3",
       "value": "section",
@@ -1391,12 +1355,6 @@
           "condition"
         ]
       }
-    },
-    {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
     },
     {
       "type": "template",

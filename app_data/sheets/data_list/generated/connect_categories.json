@@ -1,0 +1,95 @@
+{
+  "flow_name": "connect_categories",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "title": "Relax",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relax"
+        }
+      }
+    },
+    {
+      "id": "check_in",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Check-in",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-in"
+        }
+      }
+    },
+    {
+      "id": "intro",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Introduction",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Introduction"
+        }
+      }
+    },
+    {
+      "id": "learn",
+      "icon_asset": "images/icons/picture_book.svg",
+      "title": "Learn",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Learn"
+        }
+      }
+    },
+    {
+      "id": "review",
+      "icon_asset": "images/icons/thought_bubble.svg",
+      "title": "Review",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Review"
+        }
+      }
+    },
+    {
+      "id": "home_activity",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Home Activity",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home Activity"
+        }
+      }
+    }
+  ]
+}

@@ -227,7 +227,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion.acc_1.dg_2.author",
+                  "_nested_name": "accordion_12.acc_1.dg_2.author",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -251,7 +251,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion.acc_1.dg_2.Illustrator",
+                  "_nested_name": "accordion_12.acc_1.dg_2.Illustrator",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -275,7 +275,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion.acc_1.dg_2.book_level",
+                  "_nested_name": "accordion_12.acc_1.dg_2.book_level",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -299,7 +299,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion.acc_1.dg_2.licence",
+                  "_nested_name": "accordion_12.acc_1.dg_2.licence",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -317,14 +317,14 @@
                   }
                 }
               ],
-              "_nested_name": "accordion.acc_1.dg_2"
+              "_nested_name": "accordion_12.acc_1.dg_2"
             }
           ],
-          "_nested_name": "accordion.acc_1"
+          "_nested_name": "accordion_12.acc_1"
         }
       ],
-      "name": "accordion",
-      "_nested_name": "accordion"
+      "name": "accordion_12",
+      "_nested_name": "accordion_12"
     }
   ],
   "_xlsxPath": "templates/library/picture_books.xlsx"

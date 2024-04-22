@@ -30,6 +30,7 @@
     },
     {
       "type": "items",
+      "name": "items",
       "value": "@data.privacy_policy",
       "rows": [
         {
@@ -144,7 +145,6 @@
           }
         }
       ],
-      "name": "items",
       "_nested_name": "items",
       "_dynamicFields": {
         "value": [
