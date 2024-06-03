@@ -1,0 +1,15 @@
+{
+  "flow_name": "test_home_activity_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"home_activity\""
+      ],
+      "input_source": "prepped_test_articles",
+      "output_target": "test_home_activity_articles"
+    }
+  ]
+}

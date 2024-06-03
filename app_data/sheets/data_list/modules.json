@@ -5,31 +5,6 @@
   "status": "released",
   "rows": [
     {
-      "id": "test",
-      "number": 0,
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Test Module",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Test Module"
-        },
-        "description": {
-          "eng": "This is a sample module for debugging."
-        }
-      },
-      "description": "This is a sample module for debugging."
-    },
-    {
       "id": "welcome",
       "number": 1,
       "relax_id": "relax_2",

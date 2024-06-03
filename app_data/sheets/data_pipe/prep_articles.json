@@ -1,0 +1,16 @@
+{
+  "flow_type": "data_pipe",
+  "flow_name": "prep_articles",
+  "status": "released",
+  "rows": [
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "completed: FALSE"
+      ],
+      "input_source": "test_articles",
+      "output_target": "prepped_test_articles"
+    }
+  ],
+  "_xlsxPath": "data/modules/test modules_data_pipes.xlsx"
+}

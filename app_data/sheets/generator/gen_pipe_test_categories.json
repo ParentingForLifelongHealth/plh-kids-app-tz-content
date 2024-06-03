@@ -1,0 +1,22 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_pipe_test_categories",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "specific_test_categories",
+    "output_flow_name": "test_{@gen.id}_articles",
+    "output_flow_type": "data_pipe",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_test_articles",
+      "output_target": "test_{@gen.id}_articles"
+    }
+  ],
+  "_xlsxPath": "data/modules/test modules_data_pipes.xlsx"
+}
