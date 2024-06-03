@@ -1,0 +1,69 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "connect_categories",
+  "data_list_name": "connect_categories",
+  "status": "released",
+  "rows": [
+    {
+      "id": "intro",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Introduction",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Introduction"
+        }
+      }
+    },
+    {
+      "id": "learn",
+      "icon_asset": "images/icons/picture_book.svg",
+      "title": "Learn",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Learn"
+        }
+      }
+    },
+    {
+      "id": "review",
+      "icon_asset": "images/icons/thought_bubble.svg",
+      "title": "Review",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Review"
+        }
+      }
+    },
+    {
+      "id": "home_activity",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Home Activity",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home Activity"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/modules/TZ modules.xlsx"
+}

@@ -5,8 +5,8 @@
   "rows": [
     {
       "type": "template",
-      "name": "hp_review",
-      "value": "hp_review",
+      "name": "hp_review_challenges",
+      "value": "hp_review_challenges",
       "action_list": [
         {
           "trigger": "completed",
@@ -36,10 +36,10 @@
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "hp_review.workshop"
+          "_nested_name": "hp_review_challenges.workshop"
         }
       ],
-      "_nested_name": "hp_review"
+      "_nested_name": "hp_review_challenges"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "flow_name": "test_review_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "review_1",
+      "category_id": "review",
+      "text_1": "Here’s how to **CONNECT** with your child using a quick and easy daily activity:",
+      "section_1_title": "**MINIMISE DISTRACTIONS**",
+      "section_1_text": "This helps you to give your full attention to your child.",
+      "section_1_button_text": "More info",
+      "section_1_extra_text": "Giving your child your full attention helps your child to feel connected to you.",
+      "section_2_title": "**FOLLOW YOUR CHILD’S LEAD**",
+      "section_2_text": "Don’t try to change or control what your child is doing.",
+      "section_2_button_text": "More info",
+      "section_2_extra_text": "This helps your child feel important and in control.",
+      "section_3_title": "**OBSERVE AND LISTEN**",
+      "section_3_text": "Pay attention to what your child is doing. Be curious about what they might be thinking and feeling. Talk about that.",
+      "section_3_button_text": "More info",
+      "section_3_extra_text": "This shows your child you are interested and helps your child feel connected to you.",
+      "completed": false
+    }
+  ]
+}
