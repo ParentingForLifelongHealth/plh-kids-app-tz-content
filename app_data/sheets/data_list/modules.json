@@ -6,10 +6,19 @@
   "rows": [
     {
       "id": "welcome",
-      "number": 1,
-      "relax_id": "relax_2",
+      "number": "1",
       "check_in_id": "check_in_2",
       "image_asset": "images/modules/wave.svg",
+      "relax_id_list": [
+        "[]"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Introduction",
       "_translations": {
         "title": {
@@ -24,10 +33,19 @@
     },
     {
       "id": "connect",
-      "number": 2,
+      "number": "2",
       "image_asset": "images/modules/connect/intro_connect.svg",
-      "relax_id": "relax_19",
       "check_in_id": "check_in_9",
+      "relax_id_list": [
+        "relax_10"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Connect",
       "_translations": {
         "title": {
@@ -49,10 +67,19 @@
     },
     {
       "id": "play",
-      "number": 3,
-      "relax_id": "relax_3",
+      "number": "3",
       "check_in_id": "check_in_3",
+      "relax_id_list": [
+        "relax_8"
+      ],
       "image_asset": "images/modules/wave.svg",
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Play",
       "_translations": {
         "title": {
@@ -67,10 +94,21 @@
     },
     {
       "id": "talk",
-      "number": 4,
-      "relax_id": "relax_4",
+      "number": "4",
       "check_in_id": "check_in_4",
+      "relax_id_list": [
+        "relax_6",
+        "relax_14",
+        "relax_17"
+      ],
       "image_asset": "images/modules/wave.svg",
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Talk",
       "_translations": {
         "title": {
@@ -85,10 +123,21 @@
     },
     {
       "id": "explore",
-      "number": 5,
-      "relax_id": "relax_5",
+      "number": "5",
       "check_in_id": "check_in_5",
+      "relax_id_list": [
+        "relax_9",
+        "relax_11",
+        "relax_15"
+      ],
       "image_asset": "images/modules/wave.svg",
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Explore",
       "_translations": {
         "title": {
@@ -103,10 +152,19 @@
     },
     {
       "id": "create",
-      "number": 6,
-      "relax_id": "relax_6",
+      "number": "6",
       "check_in_id": "check_in_6",
+      "relax_id_list": [
+        "relax_13"
+      ],
       "image_asset": "images/modules/wave.svg",
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Create",
       "_translations": {
         "title": {
@@ -121,10 +179,20 @@
     },
     {
       "id": "build",
-      "number": 7,
-      "relax_id": "relax_7",
+      "number": "7",
       "check_in_id": "check_in_7",
+      "relax_id_list": [
+        "relax_7",
+        "relax_12"
+      ],
       "image_asset": "images/modules/wave.svg",
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Build",
       "_translations": {
         "title": {
@@ -139,10 +207,19 @@
     },
     {
       "id": "summary",
-      "number": 8,
-      "relax_id": "relax_8",
+      "number": "8",
       "check_in_id": "check_in_8",
       "image_asset": "images/modules/wave.svg",
+      "relax_id_list": [
+        "[]"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Summary",
       "_translations": {
         "title": {
