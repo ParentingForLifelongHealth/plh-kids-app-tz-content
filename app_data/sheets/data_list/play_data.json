@@ -1,0 +1,42 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "play_data",
+  "data_list_name": "play",
+  "status": "released",
+  "rows": [
+    {
+      "id": "animal_powers",
+      "group_id_list": [
+        "everyday",
+        "pretend_play"
+      ],
+      "favourite_field": "ltp_activity_animal_powers_favourite",
+      "attached_single_doc": "https://docs.google.com/document/d/14PKBirF5ZormMBOB6TQ77bioryt7dMUrQAqIryvWA48",
+      "title": "Animal powers",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Animal powers"
+        },
+        "intro_text": {
+          "eng": "Let your imaginations run wild with this fun animal game. Let your child choose what animal they would like to pretend to be and join them in the fun."
+        },
+        "steps_text": {
+          "eng": "1. Ask your child: If you could be any type of animal, what would you be? Why would you want to be that animal?\n2. Now let your child choose an animal for you.\n3. Use your body and voice to play the part of your animals.\n4. Talk about the different characteristics of your animal: What is your animal’s favorite activity? Where does your animal like to sleep? What does your animal like to eat?"
+        },
+        "tips_text": {
+          "eng": "* You can even try to do an every-day activity, like tidying the house, bathing or getting dressed, while pretending to be that animal.\n* Invite the rest of your family to join in the fun!"
+        }
+      },
+      "intro_text": "Let your imaginations run wild with this fun animal game. Let your child choose what animal they would like to pretend to be and join them in the fun.",
+      "steps_text": "1. Ask your child: If you could be any type of animal, what would you be? Why would you want to be that animal?\n2. Now let your child choose an animal for you.\n3. Use your body and voice to play the part of your animals.\n4. Talk about the different characteristics of your animal: What is your animal’s favorite activity? Where does your animal like to sleep? What does your animal like to eat?",
+      "tips_text": "* You can even try to do an every-day activity, like tidying the house, bathing or getting dressed, while pretending to be that animal.\n* Invite the rest of your family to join in the fun!"
+    }
+  ],
+  "_xlsxPath": "data/TZ activities.xlsx"
+}

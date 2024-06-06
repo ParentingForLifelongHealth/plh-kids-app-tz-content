@@ -40,23 +40,6 @@
       "text": "Help grow your teen’s skills for school and life."
     },
     {
-      "id": "games",
-      "title": "Fun and games",
-      "_translations": {
-        "title": {},
-        "text": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Fun and games"
-        },
-        "text": {
-          "eng": "Play games to strengthen your relationship and your teen’s skills."
-        }
-      },
-      "text": "Play games to strengthen your relationship and your teen’s skills."
-    },
-    {
       "id": "chat",
       "title": "Chat together",
       "_translations": {
@@ -72,6 +55,35 @@
         }
       },
       "text": "Talk with each other to know each other better."
+    },
+    {
+      "id": "pretend_play",
+      "title": "Pretend play",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pretend play"
+        }
+      }
+    },
+    {
+      "id": "games",
+      "title": "Fun and games",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Fun and games"
+        },
+        "text": {
+          "eng": "Play games to strengthen your relationship and your teen’s skills."
+        }
+      },
+      "text": "Play games to strengthen your relationship and your teen’s skills."
     }
   ],
   "_xlsxPath": "data/TZ activities.xlsx"
