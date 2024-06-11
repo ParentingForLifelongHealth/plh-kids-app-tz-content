@@ -1839,113 +1839,61 @@
     "md5Checksum": "7994d52c5fbd60d0ae7f33d161e1534f",
     "size_kb": 4296.8
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/cc0.png": {
-    "md5Checksum": "dd6e20cf63e3195d94a2bbe4375eab0e",
-    "size_kb": 1
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/ccby.png": {
-    "md5Checksum": "b0ff4cadee4a7e277aedc69541187ac9",
-    "size_kb": 1.4
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/fonts/NotoSans/Bold/NotoSans-Bold_gdi.woff": {
-    "md5Checksum": "80fd5e707a14d72a5449efa520f00b3d",
-    "size_kb": 26.8
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/fonts/NotoSans/BoldItalic/NotoSans-BoldItalic_gdi.woff": {
-    "md5Checksum": "82770ed85565a8d7f2f83d94febd0dcb",
-    "size_kb": 27.5
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/fonts/NotoSans/Italic/NotoSans-Italic_gdi.woff": {
-    "md5Checksum": "1da2376d417ef9114f95a620f833c418",
-    "size_kb": 27.6
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/fonts/NotoSans/Regular/NotoSans-Regular_gdi.woff": {
-    "md5Checksum": "f7c3ef1f1006b822e4530fbafd5bd74c",
-    "size_kb": 27.3
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_1.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_1.jpg": {
     "md5Checksum": "8c5b713c3eb242c5e0d8145162ad9c46",
     "size_kb": 204.5
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_10.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_10.jpg": {
     "md5Checksum": "564953932ac790b515a5efbff6692aca",
     "size_kb": 131.4
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_11.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_11.jpg": {
     "md5Checksum": "1bbbe53ca4e479b41093b2d25e8bd2a2",
     "size_kb": 129.8
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_12.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_12.jpg": {
     "md5Checksum": "57059a6a4541b627ae2dec3d5ce5eeb7",
     "size_kb": 153.9
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_13.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_13.jpg": {
     "md5Checksum": "656328f532aa1132cbb1fef1a01f54ad",
     "size_kb": 229.6
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_14.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_14.jpg": {
     "md5Checksum": "3ced9280ca2394c91313d5d2ad21f5d0",
     "size_kb": 197.7
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_2.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_2.jpg": {
     "md5Checksum": "30e8a6abaf282270276c907104af8477",
     "size_kb": 139.8
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_3.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_3.jpg": {
     "md5Checksum": "42e3434dee3c027927f2a2d067af9374",
     "size_kb": 181.1
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_4.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_4.jpg": {
     "md5Checksum": "9ff90cac714e686a7d61800eadc18214",
     "size_kb": 162.4
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_5.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_5.jpg": {
     "md5Checksum": "282a29c99e45f057650e48e42e80a630",
     "size_kb": 161.6
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_6.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_6.jpg": {
     "md5Checksum": "4f1504111bb59d403fe9b16ad82d1877",
     "size_kb": 141.6
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_7.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_7.jpg": {
     "md5Checksum": "09529b846d765f1ccce61a74d9538d10",
     "size_kb": 213.2
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_8.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_8.jpg": {
     "md5Checksum": "4c52f67fea9370d3848b64e722f4d085",
     "size_kb": 144.5
   },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/image_9.jpg": {
+  "images/books/little_monkey_s_lost_bananas/image_9.jpg": {
     "md5Checksum": "e198257e23a1780ba8307277083b5903",
     "size_kb": 159.1
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/level_band.png": {
-    "md5Checksum": "0ef359eceee3246bec2ad2fc3e012799",
-    "size_kb": 22.6
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/nav.html": {
-    "md5Checksum": "a3e3a89ada5231a386f1f2c60c5f9206",
-    "size_kb": 1.4
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/package.opf": {
-    "md5Checksum": "924cf3d068e59c85b3dc867e85681277",
-    "size_kb": 4.8
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/pb-storyweaver-logo-01.png": {
-    "md5Checksum": "9955c31c6d24a1c12050c00cb2d48941",
-    "size_kb": 57.3
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/publicdomain.svg": {
-    "md5Checksum": "ffb2bcf43aa04cfbc66d5306ffe9c38a",
-    "size_kb": 7.9
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/publisher_logo.png": {
-    "md5Checksum": "4c7f4c9ab158a08db776845cce5eaed7",
-    "size_kb": 363.5
-  },
-  "images/books/little_monkey_s_lost_bananas/OEBPS/toc.ncx": {
-    "md5Checksum": "a0e6a2ce924ebbb3da2333738789b3dd",
-    "size_kb": 3
   },
   "images/books/little_shoots/cover.jpg": {
     "md5Checksum": "e94b360a27d9b791842c226bceb780db",
@@ -3594,6 +3542,10 @@
   "images/icons/faces/tired.svg": {
     "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
     "size_kb": 2.4
+  },
+  "images/icons/heart_filled.svg": {
+    "md5Checksum": "88d5bd5d99c20bd6ecfe5790f285fc0c",
+    "size_kb": 1.4
   },
   "images/icons/in_progress.svg": {
     "md5Checksum": "6105962bc0edd981675d874dc8a51035",

@@ -325,6 +325,65 @@
       ],
       "name": "accordion_12",
       "_nested_name": "accordion_12"
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Start Reading",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "book_page_@local.book_data.id"
+          ],
+          "_raw": "click | go_to: book_page_@local.book_data.id",
+          "_cleaned": "click | go_to: book_page_@local.book_data.id"
+        }
+      ],
+      "_nested_name": "button",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "book_page_@local.book_data.id",
+                  "matchedExpression": "@local.book_data.id",
+                  "type": "local",
+                  "fieldName": "book_data"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | go_to: book_page_@local.book_data.id",
+                "matchedExpression": "@local.book_data.id",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | go_to: book_page_@local.book_data.id",
+                "matchedExpression": "@local.book_data.id",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.book_data.id": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/library/picture_books.xlsx"
