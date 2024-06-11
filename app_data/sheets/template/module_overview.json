@@ -17,6 +17,7 @@
           "_cleaned": "nav_resume | emit: force_reload"
         }
       ],
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "custom_actions_1"
     },

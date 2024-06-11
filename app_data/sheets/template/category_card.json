@@ -409,10 +409,10 @@
           "args": [
             "@local.target_template"
           ],
-          "_raw": "click | pop_up: @local.target_template | fullscreen: true",
-          "_cleaned": "click | pop_up: @local.target_template | fullscreen: true",
+          "_raw": "click | pop_up: @local.target_template | fullscreen_alt: true",
+          "_cleaned": "click | pop_up: @local.target_template | fullscreen_alt: true",
           "params": {
-            "fullscreen": true
+            "fullscreen_alt": true
           }
         }
       ],
@@ -478,7 +478,7 @@
             },
             "_raw": [
               {
-                "fullExpression": "click | pop_up: @local.target_template | fullscreen: true",
+                "fullExpression": "click | pop_up: @local.target_template | fullscreen_alt: true",
                 "matchedExpression": "@local.target_template",
                 "type": "local",
                 "fieldName": "target_template"
@@ -486,7 +486,7 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | pop_up: @local.target_template | fullscreen: true",
+                "fullExpression": "click | pop_up: @local.target_template | fullscreen_alt: true",
                 "matchedExpression": "@local.target_template",
                 "type": "local",
                 "fieldName": "target_template"

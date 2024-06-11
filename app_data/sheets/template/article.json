@@ -671,6 +671,30 @@
       }
     },
     {
+      "name": "pop_up_text",
+      "value": "@local.article_data.media_transcript",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "pop_up_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.article_data.media_transcript",
+            "matchedExpression": "@local.article_data.media_transcript",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.article_data.media_transcript": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "button",
       "name": "media_transcript",
       "value": "Read the transcript",
@@ -682,12 +706,22 @@
       "action_list": [
         {
           "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "pop_up_text",
+            "@local.pop_up_text"
+          ],
+          "_raw": "click | set_field: pop_up_text: @local.pop_up_text",
+          "_cleaned": "click | set_field: pop_up_text: @local.pop_up_text"
+        },
+        {
+          "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "media_transcript_@local.module_id@local.join@local.article_id"
+            "pop_up_text"
           ],
-          "_raw": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id",
-          "_cleaned": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id"
+          "_raw": "click | pop_up: pop_up_text",
+          "_cleaned": "click | pop_up: pop_up_text"
         }
       ],
       "condition": "!!(@local.article_data.media_transcript)",
@@ -697,65 +731,29 @@
         "action_list": {
           "0": {
             "args": {
-              "0": [
+              "1": [
                 {
-                  "fullExpression": "media_transcript_@local.module_id@local.join@local.article_id",
-                  "matchedExpression": "@local.module_id",
+                  "fullExpression": "@local.pop_up_text",
+                  "matchedExpression": "@local.pop_up_text",
                   "type": "local",
-                  "fieldName": "module_id"
-                },
-                {
-                  "fullExpression": "media_transcript_@local.module_id@local.join@local.article_id",
-                  "matchedExpression": "@local.join",
-                  "type": "local",
-                  "fieldName": "join"
-                },
-                {
-                  "fullExpression": "media_transcript_@local.module_id@local.join@local.article_id",
-                  "matchedExpression": "@local.article_id",
-                  "type": "local",
-                  "fieldName": "article_id"
+                  "fieldName": "pop_up_text"
                 }
               ]
             },
             "_raw": [
               {
-                "fullExpression": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id",
-                "matchedExpression": "@local.module_id",
+                "fullExpression": "click | set_field: pop_up_text: @local.pop_up_text",
+                "matchedExpression": "@local.pop_up_text",
                 "type": "local",
-                "fieldName": "module_id"
-              },
-              {
-                "fullExpression": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id",
-                "matchedExpression": "@local.join",
-                "type": "local",
-                "fieldName": "join"
-              },
-              {
-                "fullExpression": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id",
-                "matchedExpression": "@local.article_id",
-                "type": "local",
-                "fieldName": "article_id"
+                "fieldName": "pop_up_text"
               }
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id",
-                "matchedExpression": "@local.module_id",
+                "fullExpression": "click | set_field: pop_up_text: @local.pop_up_text",
+                "matchedExpression": "@local.pop_up_text",
                 "type": "local",
-                "fieldName": "module_id"
-              },
-              {
-                "fullExpression": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id",
-                "matchedExpression": "@local.join",
-                "type": "local",
-                "fieldName": "join"
-              },
-              {
-                "fullExpression": "click | pop_up: media_transcript_@local.module_id@local.join@local.article_id",
-                "matchedExpression": "@local.article_id",
-                "type": "local",
-                "fieldName": "article_id"
+                "fieldName": "pop_up_text"
               }
             ]
           }
@@ -770,18 +768,8 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.module_id": [
-          "action_list.0.args.0",
-          "action_list.0._raw",
-          "action_list.0._cleaned"
-        ],
-        "@local.join": [
-          "action_list.0.args.0",
-          "action_list.0._raw",
-          "action_list.0._cleaned"
-        ],
-        "@local.article_id": [
-          "action_list.0.args.0",
+        "@local.pop_up_text": [
+          "action_list.0.args.1",
           "action_list.0._raw",
           "action_list.0._cleaned"
         ],

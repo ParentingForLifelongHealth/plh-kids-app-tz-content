@@ -7,7 +7,7 @@
     {
       "id": "who_took_my_shoe",
       "image_cover_asset": "images/books/my_shoe/my_shoe_cover.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Elana Bregin",
       "illustrator": "Nicki Blackbeard",
       "licence": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
@@ -320,7 +320,7 @@
     {
       "id": "scared_tumi",
       "image_cover_asset": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Mohale Mashigo",
       "illustrator": "Nyambura Kariuki",
       "licence": "© Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -417,7 +417,7 @@
     {
       "id": "moms_red_coat",
       "image_cover_asset": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Chrissie Kritzinger",
       "illustrator": "Brad Cuzen",
       "licence": "© Book Dash , 2022. Some rights reserved. Released under CC BY 4.0 license.",
@@ -525,7 +525,7 @@
     {
       "id": "amma_be_back",
       "image_cover_asset": "images/books/when_will_amma_be_back/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Prathiba Swaminathan",
       "illustrator": "Alankrita Amaya",
       "licence": "© Pratham Books , 2018. Some rights reserved. Released under CC BY 4.0 license.",
@@ -639,7 +639,7 @@
     {
       "id": "bee_and_elephant",
       "image_cover_asset": "images/books/the_bee_and_the_elephant/image_1.jpg",
-      "book_level": "This is a Level 1 book for children who are eager to begin reading.",
+      "book_level": "level_1",
       "author": "Long Ravy",
       "illustrator": "Try Samphos",
       "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -712,7 +712,7 @@
     {
       "id": "reba_wants_ice_cream",
       "image_cover_asset": "images/books/reba_wants_ice_cream/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Sultana Zakia",
       "illustrator": "Dhiman Sarkar",
       "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -822,7 +822,7 @@
     {
       "id": "ranis_first_day_at_school",
       "image_cover_asset": "images/books/ranis_first_day_at_school/image_1.jpg",
-      "book_level": "This is a Level 1 book for children who are eager to begin reading.",
+      "book_level": "level_1",
       "author": "Cheryl Rao",
       "illustrator": "Mayur Mistry",
       "licence": "© Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -882,7 +882,7 @@
     {
       "id": "ma_hurry_up",
       "image_cover_asset": "images/books/ma_hurry_up/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Rukmini Banerji",
       "illustrator": "Sheetal Thapa",
       "licence": "© Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license.",
@@ -1070,6 +1070,7 @@
     },
     {
       "id": "beautiful_day",
+      "image_cover_asset": "images/books/beautiful_day/cover.jpg",
       "author": "Elana Bregin",
       "illustrator": "Lindy Pelzl",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2494,7 +2495,7 @@
     {
       "id": "angry_akku",
       "image_cover_asset": "images/books/angry_akku/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Vinayak Varma",
       "illustrator": "Vinayak Varma",
       "image_1_asset": "images/books/angry_akku/image_2.jpg",
@@ -2606,7 +2607,7 @@
     {
       "id": "beloved_daughter",
       "image_cover_asset": "images/books/beloved_daughter/image_1.jpg",
-      "book_level": "This is a Level 1 book for children who are eager to begin reading.",
+      "book_level": "level_1",
       "author": "Mulongo Bukheye and Ritah Katetemera",
       "illustrator": "Brian Wambi",
       "licence": "© African Storybook Initiative , 2016. Some rights reserved. Released\nunder CC BY 4.0 license.",
@@ -2700,7 +2701,7 @@
     {
       "id": "big_blue_bus",
       "image_cover_asset": "images/books/big_blue_bus/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Mecelin Kakoro",
       "illustrator": "Mango Tree",
       "licence": "© African Storybook Initiative , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -2818,7 +2819,7 @@
     {
       "id": "decision",
       "image_cover_asset": "images/books/decision/image_1.jpg",
-      "book_level": "This is a Level 3 book for children who are ready to read on their own.",
+      "book_level": "level_3",
       "author": "Ursula Nafula",
       "illustrator": "Vusi Malindi",
       "licence": "© African Storybook Initiative , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -2936,7 +2937,7 @@
     {
       "id": "emotions_come_go",
       "image_cover_asset": "images/books/emotions_come_go/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Mimi Werna",
       "illustrator": "Joe Werna",
       "licence": "© African Storybook Initiative , 2019. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3054,7 +3055,7 @@
     {
       "id": "i_like_to_read",
       "image_cover_asset": "images/books/i_like_to_read/image_1.jpg",
-      "book_level": "This is a Level 1 book for children who can read easy words, less than 50 words",
+      "book_level": "level_1",
       "author": "Letta Machoga",
       "illustrator": "Wiehan de Jager",
       "licence": "© African Storybook Initiative , 2014. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3212,7 +3213,7 @@
     {
       "id": "jasu_loves_football",
       "image_cover_asset": "images/books/jasu_loves_football/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Rehema Egbert",
       "illustrator": "Godwin Chipenya",
       "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3330,7 +3331,7 @@
     {
       "id": "little_monkey_s_lost_bananas",
       "image_cover_asset": "images/books/little_monkey_s_lost_bananas/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Long Leapsocheata",
       "illustrator": "Youm Kosal",
       "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3430,7 +3431,7 @@
     {
       "id": "mother_hen",
       "image_cover_asset": "images/books/mother_hen/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Phuangthana Phetsavong",
       "illustrator": "Aphisith Souphavongtay",
       "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3538,7 +3539,7 @@
     {
       "id": "my_first_day_at_school",
       "image_cover_asset": "images/books/my_first_day_at_school/image_1.jpg",
-      "book_level": "This is a Level 3 book for children who are ready to read on their own.",
+      "book_level": "level_3",
       "author": "Rehema Egbert",
       "illustrator": "Godwin Chipenya",
       "licence": "© Room to Read , 2013. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3662,7 +3663,7 @@
     {
       "id": "nichchumani_helps_out",
       "image_cover_asset": "images/books/nichchumani_helps_out/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Egambaram Kumudini",
       "illustrator": "Pavithra Wanamali",
       "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3738,7 +3739,7 @@
     {
       "id": "no_smiles_today",
       "image_cover_asset": "images/books/no_smiles_today/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Cheryl Rao",
       "illustrator": "Saurabh Pandey",
       "licence": "© Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3796,7 +3797,7 @@
     {
       "id": "pishi_and_me",
       "image_cover_asset": "images/books/pishi_and_me/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Timira Gupta",
       "illustrator": "Rajiv Eipe",
       "licence": "© Pratham Books , 2018. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3896,7 +3897,7 @@
     {
       "id": "red_bean_plant",
       "image_cover_asset": "images/books/red_bean_plant/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Nguyễn Thị Hồng Hạnh",
       "illustrator": "Phạm Hùng Vinh",
       "licence": "© Room to Read , 2012. Some rights reserved. Released under CC BY 4.0 license.",
@@ -4033,7 +4034,7 @@
     {
       "id": "shongololo_s_shoes",
       "image_cover_asset": "images/books/shongololo_s_shoes/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Jacqui L’Ange",
       "illustrator": "Megan Lotter",
       "licence": ". © Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -4124,7 +4125,7 @@
     {
       "id": "under_my_bed",
       "image_cover_asset": "images/books/under_my_bed/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Anupa Lal",
       "illustrator": "Suvidha Mistry",
       "licence": "© Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -4212,7 +4213,7 @@
     {
       "id": "very_green_day",
       "image_cover_asset": "images/books/very_green_day/image_1.jpg",
-      "book_level": "This is a Level 2 book for children who recognize familiar words and can read new words with help.",
+      "book_level": "level_2",
       "author": "Phạm Thu Thùy",
       "illustrator": "Phạm Thu Thùy",
       "licence": "© Room to Read , 2013. Some rights reserved. Released under CC BY 4.0 license.",
