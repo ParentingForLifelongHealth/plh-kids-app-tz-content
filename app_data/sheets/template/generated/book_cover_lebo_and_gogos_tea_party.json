@@ -1,5 +1,5 @@
 {
-  "flow_name": "book_cover_lebo_and_gogo's_tea_party",
+  "flow_name": "book_cover_lebo_and_gogos_tea_party",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "book_id",
-          "value": "lebo_and_gogo's_tea_party",
+          "value": "lebo_and_gogos_tea_party",
           "_translations": {
             "value": {}
           },
