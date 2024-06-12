@@ -254,7 +254,6 @@
       "name": "radio_grid_1",
       "parameter_list": {
         "answer_list": "@data.book_levels",
-        "item_width": "75px",
         "grid_width": "100%",
         "grid_gap": "16px"
       },
@@ -280,6 +279,7 @@
     {
       "type": "display_grid",
       "name": "grid_1",
+      "condition": "!(@local.radio_grid_1 == \"all_levels\")",
       "parameter_list": {
         "item_width": "160px",
         "item_border": "none",
@@ -291,7 +291,6 @@
           "type": "items",
           "name": "books",
           "value": "@data.books",
-          "condition": "!(@local.radio_grid_1 == \"all_levels\")",
           "parameter_list": {
             "filter": "@item.book_level == @local.radio_grid_1"
           },
@@ -374,14 +373,6 @@
                 "fieldName": "books"
               }
             ],
-            "condition": [
-              {
-                "fullExpression": "!(@local.radio_grid_1 == \"all_levels\")",
-                "matchedExpression": "@local.radio_grid_1",
-                "type": "local",
-                "fieldName": "radio_grid_1"
-              }
-            ],
             "parameter_list": {
               "filter": [
                 {
@@ -403,20 +394,47 @@
             "@data.books": [
               "value"
             ],
-            "@local.radio_grid_1": [
-              "condition",
+            "@item.book_level": [
               "parameter_list.filter"
             ],
-            "@item.book_level": [
+            "@local.radio_grid_1": [
               "parameter_list.filter"
             ]
           }
-        },
+        }
+      ],
+      "_nested_name": "grid_1",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!(@local.radio_grid_1 == \"all_levels\")",
+            "matchedExpression": "@local.radio_grid_1",
+            "type": "local",
+            "fieldName": "radio_grid_1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.radio_grid_1": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_grid",
+      "name": "grid_all",
+      "condition": "@local.radio_grid_1 == \"all_levels\"",
+      "parameter_list": {
+        "item_width": "160px",
+        "item_border": "none",
+        "grid_width": "100%",
+        "grid_gap": "16px"
+      },
+      "rows": [
         {
           "type": "items",
           "name": "books",
           "value": "@data.books",
-          "condition": "@local.radio_grid_1 == \"all_levels\"",
           "rows": [
             {
               "type": "template",
@@ -430,7 +448,7 @@
                     "value": {}
                   },
                   "type": "set_variable",
-                  "_nested_name": "grid_1.books.book_button_@item.id.book_id",
+                  "_nested_name": "grid_all.books.book_button_@item.id.book_id",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -442,7 +460,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "grid_1.books.book_button_@item.id.book_id",
+                        "fullExpression": "grid_all.books.book_button_@item.id.book_id",
                         "matchedExpression": "@item.id.book_id",
                         "type": "item",
                         "fieldName": "id"
@@ -459,7 +477,7 @@
                   }
                 }
               ],
-              "_nested_name": "grid_1.books.book_button_@item.id",
+              "_nested_name": "grid_all.books.book_button_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -471,7 +489,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "grid_1.books.book_button_@item.id",
+                    "fullExpression": "grid_all.books.book_button_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -486,7 +504,7 @@
               }
             }
           ],
-          "_nested_name": "grid_1.books",
+          "_nested_name": "grid_all.books",
           "_dynamicFields": {
             "value": [
               {
@@ -495,27 +513,31 @@
                 "type": "data",
                 "fieldName": "books"
               }
-            ],
-            "condition": [
-              {
-                "fullExpression": "@local.radio_grid_1 == \"all_levels\"",
-                "matchedExpression": "@local.radio_grid_1",
-                "type": "local",
-                "fieldName": "radio_grid_1"
-              }
             ]
           },
           "_dynamicDependencies": {
             "@data.books": [
               "value"
-            ],
-            "@local.radio_grid_1": [
-              "condition"
             ]
           }
         }
       ],
-      "_nested_name": "grid_1"
+      "_nested_name": "grid_all",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.radio_grid_1 == \"all_levels\"",
+            "matchedExpression": "@local.radio_grid_1",
+            "type": "local",
+            "fieldName": "radio_grid_1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.radio_grid_1": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/library/library_page.xlsx"
