@@ -229,30 +229,6 @@
       }
     },
     {
-      "type": "text",
-      "name": "print_level_description",
-      "value": "@local.level_description",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "print_level_description",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.level_description",
-            "matchedExpression": "@local.level_description",
-            "type": "local",
-            "fieldName": "level_description"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.level_description": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "display_group",
       "name": "dg_1",
       "rows": [
@@ -359,7 +335,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_18.acc_1.dg_2.author",
+                  "_nested_name": "accordion_17.acc_1.dg_2.author",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -383,7 +359,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_18.acc_1.dg_2.illustrator",
+                  "_nested_name": "accordion_17.acc_1.dg_2.illustrator",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -407,7 +383,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_18.acc_1.dg_2.print_level_description",
+                  "_nested_name": "accordion_17.acc_1.dg_2.print_level_description",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -431,7 +407,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_18.acc_1.dg_2.licence",
+                  "_nested_name": "accordion_17.acc_1.dg_2.licence",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -449,14 +425,14 @@
                   }
                 }
               ],
-              "_nested_name": "accordion_18.acc_1.dg_2"
+              "_nested_name": "accordion_17.acc_1.dg_2"
             }
           ],
-          "_nested_name": "accordion_18.acc_1"
+          "_nested_name": "accordion_17.acc_1"
         }
       ],
-      "name": "accordion_18",
-      "_nested_name": "accordion_18"
+      "name": "accordion_17",
+      "_nested_name": "accordion_17"
     },
     {
       "type": "button",

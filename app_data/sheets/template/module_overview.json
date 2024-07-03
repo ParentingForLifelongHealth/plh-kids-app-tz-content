@@ -83,7 +83,7 @@
     },
     {
       "name": "categories",
-      "value": "_categories",
+      "value": "_category_tasks",
       "_translations": {
         "value": {}
       },

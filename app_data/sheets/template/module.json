@@ -61,7 +61,7 @@
     },
     {
       "name": "articles",
-      "value": "_articles",
+      "value": "_article_tasks",
       "_translations": {
         "value": {}
       },
@@ -71,7 +71,7 @@
     },
     {
       "name": "categories",
-      "value": "_categories",
+      "value": "_category_tasks",
       "_translations": {
         "value": {}
       },
@@ -736,6 +736,63 @@
       },
       "_dynamicDependencies": {
         "@local.is_last_category": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "articles_data_list_name",
+      "value": "@local.module_id@local.articles",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "articles_data_list_name",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.module_id@local.articles",
+            "matchedExpression": "@local.module_id",
+            "type": "local",
+            "fieldName": "module_id"
+          },
+          {
+            "fullExpression": "@local.module_id@local.articles",
+            "matchedExpression": "@local.articles",
+            "type": "local",
+            "fieldName": "articles"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "value"
+        ],
+        "@local.articles": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "articles_data",
+      "value": "@data.@local.articles_data_list_name",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "articles_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.articles_data_list_name",
+            "matchedExpression": "@local.articles_data_list_name",
+            "type": "local",
+            "fieldName": "articles_data_list_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.articles_data_list_name": [
           "value"
         ]
       }
