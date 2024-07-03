@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "who_took_my_shoe",
+      "status": "released",
       "image_cover_asset": "images/books/my_shoe/my_shoe_cover.jpg",
       "level_id": "level_2",
       "author": "Elana Bregin",
@@ -125,6 +126,7 @@
     },
     {
       "id": "a_very_important_tree",
+      "status": "released",
       "image_cover_asset": "images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg",
       "level_id": "level_1",
       "author": "Elana Bregin",
@@ -161,6 +163,7 @@
     },
     {
       "id": "an_unexpected_adventure",
+      "status": "released",
       "image_cover_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg",
       "level_id": "level_1",
       "author": "Carina Jooste",
@@ -197,6 +200,7 @@
     },
     {
       "id": "no_go_sleep",
+      "status": "released",
       "image_cover_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
       "level_id": "level_2",
       "author": "Sarah McGregor",
@@ -322,6 +326,7 @@
     },
     {
       "id": "scared_tumi",
+      "status": "released",
       "image_cover_asset": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
       "level_id": "level_2",
       "author": "Mohale Mashigo",
@@ -419,6 +424,7 @@
     },
     {
       "id": "moms_red_coat",
+      "status": "released",
       "image_cover_asset": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
       "level_id": "level_2",
       "author": "Chrissie Kritzinger",
@@ -527,6 +533,7 @@
     },
     {
       "id": "amma_be_back",
+      "status": "released",
       "image_cover_asset": "images/books/when_will_amma_be_back/image_1.jpg",
       "level_id": "level_2",
       "author": "Prathiba Swaminathan",
@@ -641,6 +648,7 @@
     },
     {
       "id": "bee_and_elephant",
+      "status": "released",
       "image_cover_asset": "images/books/the_bee_and_the_elephant/image_1.jpg",
       "level_id": "level_1",
       "author": "Long Ravy",
@@ -714,6 +722,7 @@
     },
     {
       "id": "reba_wants_ice_cream",
+      "status": "draft",
       "image_cover_asset": "images/books/reba_wants_ice_cream/image_1.jpg",
       "level_id": "level_2",
       "author": "Sultana Zakia",
@@ -824,6 +833,7 @@
     },
     {
       "id": "ranis_first_day_at_school",
+      "status": "draft",
       "image_cover_asset": "images/books/ranis_first_day_at_school/image_1.jpg",
       "level_id": "level_1",
       "author": "Cheryl Rao",
@@ -884,6 +894,7 @@
     },
     {
       "id": "ma_hurry_up",
+      "status": "draft",
       "image_cover_asset": "images/books/ma_hurry_up/image_1.jpg",
       "level_id": "level_2",
       "author": "Rukmini Banerji",
@@ -979,6 +990,7 @@
     },
     {
       "id": "katiitis_song",
+      "status": "released",
       "image_cover_asset": "images/books/katiitis_song/image_1.jpg",
       "level_id": "level_1",
       "author": "Philippa Namutebi Kabali-Kagwa",
@@ -1074,6 +1086,7 @@
     },
     {
       "id": "beautiful_day",
+      "status": "released",
       "image_cover_asset": "images/books/beautiful_day/cover.jpg",
       "level_id": "level_1",
       "author": "Elana Bregin",
@@ -1178,6 +1191,7 @@
     },
     {
       "id": "trip_to_tap",
+      "status": "released",
       "image_cover_asset": "images/books/a_trip_to_the_tap/cover.jpg",
       "author": "Sindeka Mandoyi",
       "illustrator": "Phumle April",
@@ -1271,6 +1285,7 @@
     },
     {
       "id": "fifi_and_teddy",
+      "status": "released",
       "image_cover_asset": "images/books/fifi_and_teddy/cover.jpg",
       "level_id": "level_2",
       "author": "Tshepo Letsapa",
@@ -1350,6 +1365,7 @@
     },
     {
       "id": "how_you_want_your_eggs",
+      "status": "released",
       "image_cover_asset": "images/books/how_do_you_want_your_eggs/cover.jpg",
       "author": "Tania Kliphuis",
       "illustrator": "Richard Bolland",
@@ -1438,6 +1454,7 @@
     },
     {
       "id": "lebo_and_gogos_tea_party",
+      "status": "released",
       "image_cover_asset": "images/books/lebo_and_gogo's_tea_party/cover.jpg",
       "level_id": "level_3",
       "author": "Siphosethu Zantsi",
@@ -1527,6 +1544,7 @@
     },
     {
       "id": "lesedis_sandbox",
+      "status": "released",
       "image_cover_asset": "images/books/lesedis_sandbox/cover.jpg",
       "author": "Mathapelo Mabaso",
       "illustrator": "Jess Jardim-Wedepohl",
@@ -1620,6 +1638,7 @@
     },
     {
       "id": "little_shoots",
+      "status": "released",
       "image_cover_asset": "images/books/little_shoots/cover.jpg",
       "author": "Sope Martins",
       "illustrator": "Wiehan de Jager",
@@ -1708,6 +1727,7 @@
     },
     {
       "id": "look_out_luthando",
+      "status": "released",
       "image_cover_asset": "images/books/look_out_luthando/cover.jpg",
       "level_id": "level_2",
       "author": "Sue Boucher",
@@ -1837,6 +1857,7 @@
     },
     {
       "id": "my_inside_weather",
+      "status": "released",
       "image_cover_asset": "images/books/my_inside_weather/cover.jpg",
       "level_id": "level_2",
       "author": "Jen Thorpe",
@@ -1931,6 +1952,7 @@
     },
     {
       "id": "things_that_matter",
+      "status": "released",
       "image_cover_asset": "images/books/the_things_that_really_matter/cover.jpg",
       "author": "Refiloe Moahloli",
       "illustrator": "Subi Bosa",
@@ -2035,6 +2057,7 @@
     },
     {
       "id": "to_the_top",
+      "status": "released",
       "image_cover_asset": "images/books/to_the_top/cover.jpg",
       "level_id": "level_1",
       "author": "Clea Mallinson",
@@ -2069,6 +2092,7 @@
     },
     {
       "id": "where_is_lulu",
+      "status": "released",
       "image_cover_asset": "images/books/where_is_lulu/cover.jpg",
       "level_id": "level_1",
       "author": "Mohale Mashigo",
@@ -2158,6 +2182,7 @@
     },
     {
       "id": "amaizing_flower",
+      "status": "released",
       "image_cover_asset": "images/books/amaizing_flower/cover.jpg",
       "author": "Laurie Janey",
       "illustrator": "Amber Tak",
@@ -2252,6 +2277,7 @@
     },
     {
       "id": "babys_first_photo",
+      "status": "released",
       "image_cover_asset": "images/books/babys_first_photo/cover.jpg",
       "level_id": "level_1",
       "author": "Edem Torkornoo",
@@ -2346,6 +2372,7 @@
     },
     {
       "id": "brave_bora",
+      "status": "released",
       "image_cover_asset": "images/books/brave_bora/cover.jpg",
       "level_id": "level_2",
       "author": "Edna Gicovi",
@@ -2458,6 +2485,7 @@
     },
     {
       "id": "and_also",
+      "status": "released",
       "image_cover_asset": "images/books/and_also/image_1.jpg",
       "level_id": "level_2",
       "author": "Lauren Beukes",
@@ -2583,6 +2611,7 @@
     },
     {
       "id": "angry_akku",
+      "status": "released",
       "image_cover_asset": "images/books/angry_akku/image_1.jpg",
       "level_id": "level_2",
       "author": "Vinayak Varma",
@@ -2695,6 +2724,7 @@
     },
     {
       "id": "beloved_daughter",
+      "status": "released",
       "image_cover_asset": "images/books/beloved_daughter/image_1.jpg",
       "level_id": "level_1",
       "author": "Mulongo Bukheye and Ritah Katetemera",
@@ -2789,6 +2819,7 @@
     },
     {
       "id": "big_blue_bus",
+      "status": "released",
       "image_cover_asset": "images/books/big_blue_bus/image_1.jpg",
       "level_id": "level_2",
       "author": "Mecelin Kakoro",
@@ -2907,6 +2938,7 @@
     },
     {
       "id": "decision",
+      "status": "released",
       "image_cover_asset": "images/books/decision/image_1.jpg",
       "level_id": "level_3",
       "author": "Ursula Nafula",
@@ -3025,6 +3057,7 @@
     },
     {
       "id": "emotions_come_go",
+      "status": "released",
       "image_cover_asset": "images/books/emotions_come_go/image_1.jpg",
       "level_id": "level_2",
       "author": "Mimi Werna",
@@ -3143,6 +3176,7 @@
     },
     {
       "id": "i_like_to_read",
+      "status": "draft",
       "image_cover_asset": "images/books/i_like_to_read/image_1.jpg",
       "level_id": "level_1",
       "author": "Letta Machoga",
@@ -3213,6 +3247,7 @@
     },
     {
       "id": "it_wasnt_me",
+      "status": "draft",
       "image_cover_asset": "images/books/it_wasnt_me/image_1.jpg",
       "level_id": "level_1",
       "author": "Lesley Beake",
@@ -3307,6 +3342,7 @@
     },
     {
       "id": "jasu_loves_football",
+      "status": "released",
       "image_cover_asset": "images/books/jasu_loves_football/image_1.jpg",
       "level_id": "level_2",
       "author": "Rehema Egbert",
@@ -3425,6 +3461,7 @@
     },
     {
       "id": "little_monkey_s_lost_bananas",
+      "status": "draft",
       "image_cover_asset": "images/books/little_monkey_s_lost_bananas/image_1.jpg",
       "level_id": "level_2",
       "author": "Long Leapsocheata",
@@ -3525,6 +3562,7 @@
     },
     {
       "id": "mother_hen",
+      "status": "draft",
       "image_cover_asset": "images/books/mother_hen/image_1.jpg",
       "level_id": "level_2",
       "author": "Phuangthana Phetsavong",
@@ -3633,6 +3671,7 @@
     },
     {
       "id": "my_first_day_at_school",
+      "status": "draft",
       "image_cover_asset": "images/books/my_first_day_at_school/image_1.jpg",
       "level_id": "level_3",
       "author": "Rehema Egbert",
@@ -3757,6 +3796,7 @@
     },
     {
       "id": "nichchumani_helps_out",
+      "status": "draft",
       "image_cover_asset": "images/books/nichchumani_helps_out/image_1.jpg",
       "level_id": "level_2",
       "author": "Egambaram Kumudini",
@@ -3833,6 +3873,7 @@
     },
     {
       "id": "no_smiles_today",
+      "status": "draft",
       "image_cover_asset": "images/books/no_smiles_today/image_1.jpg",
       "level_id": "level_2",
       "author": "Cheryl Rao",
@@ -3891,6 +3932,7 @@
     },
     {
       "id": "pishi_and_me",
+      "status": "draft",
       "image_cover_asset": "images/books/pishi_and_me/image_1.jpg",
       "level_id": "level_2",
       "author": "Timira Gupta",
@@ -3991,6 +4033,7 @@
     },
     {
       "id": "red_bean_plant",
+      "status": "draft",
       "image_cover_asset": "images/books/red_bean_plant/image_1.jpg",
       "level_id": "level_2",
       "author": "Nguyễn Thị Hồng Hạnh",
@@ -4128,6 +4171,7 @@
     },
     {
       "id": "shongololo_s_shoes",
+      "status": "released",
       "image_cover_asset": "images/books/shongololo_s_shoes/image_1.jpg",
       "level_id": "level_2",
       "author": "Jacqui L’Ange",
@@ -4219,6 +4263,7 @@
     },
     {
       "id": "under_my_bed",
+      "status": "draft",
       "image_cover_asset": "images/books/under_my_bed/image_1.jpg",
       "level_id": "level_2",
       "author": "Anupa Lal",
@@ -4307,6 +4352,7 @@
     },
     {
       "id": "very_green_day",
+      "status": "draft",
       "image_cover_asset": "images/books/very_green_day/image_1.jpg",
       "level_id": "level_2",
       "author": "Phạm Thu Thùy",
@@ -4481,6 +4527,7 @@
     },
     {
       "id": "whats_next",
+      "status": "released",
       "image_cover_asset": "images/books/whats_next/image_1.jpg",
       "level_id": "level_2",
       "author": "Rayhaanah Williams",
@@ -4580,6 +4627,7 @@
     },
     {
       "id": "shhhhh",
+      "status": "released",
       "image_cover_asset": "images/books/shhhhh/image_1.jpg",
       "level_id": "level_1",
       "author": "Sam Wilson",
@@ -4672,6 +4720,389 @@
       "text_10": "Baby is awake!",
       "text_11": "DOOF CLANG WOOF BEEP TOOT BRMMM CLICKITY BADUBBA",
       "text_12": "Baby is noisy! CLANG WOOF BEEP BRMM CLICKITY TOOT CLICKITY DOOF BADUBBA! WOOF CLANG DOOF WOOF CLICKITY BAD CLANG DOOF WOOF BRMMM BEEP"
+    },
+    {
+      "id": "lost_toy",
+      "status": "released",
+      "image_cover_asset": "image/books/lost_toy/cover.jpg",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "image/books/lost_toy/page4.jpg",
+      "title": "Lost Toy",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Lost Toy"
+        }
+      }
+    },
+    {
+      "id": "what_at_the_park",
+      "status": "released",
+      "image_cover_asset": "image/books/whats_at_the_park/cover.jpg",
+      "author": "David Mann",
+      "illustrator": "Jess Jardim-Wedepohl",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "image/books/whats_at_the_park/page4.jpg",
+      "image_2_asset": "image/books/whats_at_the_park/page5.jpg",
+      "image_3_asset": "image/books/whats_at_the_park/page6.jpg",
+      "title": "What’s at the Park?",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3_left": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What’s at the Park?"
+        },
+        "description": {
+          "eng": "Zoey loves finding things in the park. One day, she gets a big surprise."
+        },
+        "text_1": {
+          "eng": "Down the road from Zoey’s house, there is a big, green park."
+        },
+        "text_2": {
+          "eng": "Zoey is quite shy, but she loves to play in the park. Every day after school, Zoey and Granny go there to play."
+        },
+        "text_3_left": {
+          "eng": "Granny needs glasses to see. But she can hear very well. Zoey is good at finding things. Even better than Granny!"
+        }
+      },
+      "description": "Zoey loves finding things in the park. One day, she gets a big surprise.",
+      "text_1": "Down the road from Zoey’s house, there is a big, green park.",
+      "text_2": "Zoey is quite shy, but she loves to play in the park. Every day after school, Zoey and Granny go there to play.",
+      "text_3_left": "Granny needs glasses to see. But she can hear very well. Zoey is good at finding things. Even better than Granny!"
+    },
+    {
+      "id": "zibu_and_zizo",
+      "status": "released",
+      "image_cover_asset": "image/books/zibu_and_zizo/cover.jpg",
+      "author": "Refilwe Nsibande",
+      "illustrator": "Josephine Versfeld",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
+      "image_1_asset": "image/books/zibu_and_zizo/page4.jpg",
+      "image_2_asset": "image/books/zibu_and_zizo/page5.jpg",
+      "image_3_asset": "image/books/zibu_and_zizo/page6.jpg",
+      "image_4_asset": "image/books/zibu_and_zizo/page7.jpg",
+      "image_5_asset": "image/books/zibu_and_zizo/page8.jpg",
+      "image_6_asset": "image/books/zibu_and_zizo/page9.jpg",
+      "image_7_asset": "image/books/zibu_and_zizo/page10.jpg",
+      "image_8_asset": "image/books/zibu_and_zizo/page11.jpg",
+      "image_9_asset": "image/books/zibu_and_zizo/page12.jpg",
+      "image_10_asset": "image/books/zibu_and_zizo/page13.jpg",
+      "image_11_asset": "image/books/zibu_and_zizo/page14.jpg",
+      "image_12_asset": "image/books/zibu_and_zizo/page15.jpg",
+      "image_13_asset": "image/books/zibu_and_zizo/page16.jpg",
+      "image_14_asset": "image/books/zibu_and_zizo/page17.jpg",
+      "title": "Zibu and Zizo",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1_left": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4_left": {},
+        "text_5_right": {},
+        "text_6_left": {},
+        "text_7_left": {},
+        "text_8_left": {},
+        "text_9_right": {},
+        "text_10": {},
+        "text_11_left": {},
+        "text_12_left": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Zibu and Zizo"
+        },
+        "description": {
+          "eng": "Zibu and Zizo are twin brothers. They are similar, but different. Being different is not bad, it’s great."
+        },
+        "text_1_left": {
+          "eng": "Zibu and Zizo are twin brothers. ‘They look the same,’ people always say."
+        },
+        "text_2": {
+          "eng": "Mama buys them the same clothes. They go to the same school."
+        },
+        "text_3": {
+          "eng": "Zibu and Zizo both like banana bread."
+        },
+        "text_4_left": {
+          "eng": "Sometimes Zibu and Zizo say ... Hello!! ... at the same time."
+        },
+        "text_5_right": {
+          "eng": "Zibu likes soccer."
+        },
+        "text_6_left": {
+          "eng": "Zizo likes drawing pictures."
+        },
+        "text_7_left": {
+          "eng": "Zibu likes to talk to people."
+        },
+        "text_8_left": {
+          "eng": "Zizo likes to keep to himself."
+        },
+        "text_9_right": {
+          "eng": "Zibu likes counting numbers. He wants to be an accountant."
+        },
+        "text_10": {
+          "eng": "Zizo likes learning new words. He wants to write books."
+        },
+        "text_11_left": {
+          "eng": "‘How come Zibu and Zizo look the same, but like different things?’ ask the children at school."
+        },
+        "text_12_left": {
+          "eng": "We look the same, but we are different and like different things and that's okay.'"
+        }
+      },
+      "description": "Zibu and Zizo are twin brothers. They are similar, but different. Being different is not bad, it’s great.",
+      "text_1_left": "Zibu and Zizo are twin brothers. ‘They look the same,’ people always say.",
+      "text_2": "Mama buys them the same clothes. They go to the same school.",
+      "text_3": "Zibu and Zizo both like banana bread.",
+      "text_4_left": "Sometimes Zibu and Zizo say ... Hello!! ... at the same time.",
+      "text_5_right": "Zibu likes soccer.",
+      "text_6_left": "Zizo likes drawing pictures.",
+      "text_7_left": "Zibu likes to talk to people.",
+      "text_8_left": "Zizo likes to keep to himself.",
+      "text_9_right": "Zibu likes counting numbers. He wants to be an accountant.",
+      "text_10": "Zizo likes learning new words. He wants to write books.",
+      "text_11_left": "‘How come Zibu and Zizo look the same, but like different things?’ ask the children at school.",
+      "text_12_left": "We look the same, but we are different and like different things and that's okay.'"
+    },
+    {
+      "id": "yes_you_can",
+      "status": "released",
+      "image_cover_asset": "image/books/yes_you_can/cover.jpg",
+      "author": "Xolile Sepuru",
+      "illustrator": "Subi Bosa",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://\ncreativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "image/books/yes_you_can/page4.jpg",
+      "image_2_asset": "image/books/yes_you_can/page5.jpg",
+      "image_3_asset": "image/books/yes_you_can/page6.jpg",
+      "image_4_asset": "image/books/yes_you_can/page7.jpg",
+      "image_5_asset": "image/books/yes_you_can/page8.jpg",
+      "image_6_asset": "image/books/yes_you_can/page9.jpg",
+      "image_7_asset": "image/books/yes_you_can/page10.jpg",
+      "image_8_asset": "image/books/yes_you_can/page11.jpg",
+      "image_9_asset": "image/books/yes_you_can/page12.jpg",
+      "image_10_asset": "image/books/yes_you_can/page13.jpg",
+      "image_11_asset": "image/books/yes_you_can/page14.jpg",
+      "image_12_asset": "image/books/yes_you_can/page15.jpg",
+      "image_13_asset": "image/books/yes_you_can/page16.jpg",
+      "image_14_asset": "image/books/yes_you_can/page17.jpg",
+      "title": "Yes you can!",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3_right": {},
+        "text_4": {},
+        "text_5_right": {},
+        "text_6": {},
+        "text_7_right": {},
+        "text_8": {},
+        "text_9_right": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Yes you can!"
+        },
+        "description": {
+          "eng": "Join Teacher Langa’s class as they share what they want to be when they grow up. Let’s see what they say!"
+        },
+        "text_1": {
+          "eng": "“What do you want to be when you grow up?” asks Teacher Langa."
+        },
+        "text_2": {
+          "eng": "Khutso shouts, “I want to be a cook!”"
+        },
+        "text_3_right": {
+          "eng": "I love helping my mom bake and cook at home.” Nandi says, “No! That’s a girl’s job. My mom does all the cooking at home.” “Yes he can, Nandi. You can be anything you want to be,” says Teacher Langa. The class chants, “Yes you can!”"
+        },
+        "text_4": {
+          "eng": "Milani says, “I want to build houses like my dad.”"
+        },
+        "text_5_right": {
+          "eng": "“No you can’t, that’s dangerous!” yells Phathu. “Yes she can, Phathu, as long as she loves it,” replies Teacher Langa. The class chants, “Yes she can!”"
+        },
+        "text_6": {
+          "eng": "Sthelo says, “I want to be a nurse.”"
+        },
+        "text_7_right": {
+          "eng": "The class bursts out laughing. “What is so funny?” asks Teacher Langa. Nandi replies, “Nurses are girls.” “There are male nurses too,” says Teacher Langa. “So class, can Sthelo be a nurse? The class booms, “Yes he can!”"
+        },
+        "text_8": {
+          "eng": "“I want to be an artist and draw pretty pictures,’’ says Liyana."
+        },
+        "text_9_right": {
+          "eng": "“That’s not a real job,” says Khutso and rolls his eyes. “That sounds lovely, Liyana!” replies teacher Langa. “Can Liyana be an artist?” “Yes she can!” shouts the class!"
+        },
+        "text_10": {
+          "eng": "“I want to be an alarm clock,” says Phathu."
+        },
+        "text_11": {
+          "eng": "“Huh?” “What do you think, class?” asks Teacher Langa. The class booms, “Yes you can! Yes you can!”"
+        },
+        "text_12": {
+          "eng": "Nandi hasn’t shared what she wants to be when she grows up. What do you think she could be?"
+        }
+      },
+      "description": "Join Teacher Langa’s class as they share what they want to be when they grow up. Let’s see what they say!",
+      "text_1": "“What do you want to be when you grow up?” asks Teacher Langa.",
+      "text_2": "Khutso shouts, “I want to be a cook!”",
+      "text_3_right": "I love helping my mom bake and cook at home.” Nandi says, “No! That’s a girl’s job. My mom does all the cooking at home.” “Yes he can, Nandi. You can be anything you want to be,” says Teacher Langa. The class chants, “Yes you can!”",
+      "text_4": "Milani says, “I want to build houses like my dad.”",
+      "text_5_right": "“No you can’t, that’s dangerous!” yells Phathu. “Yes she can, Phathu, as long as she loves it,” replies Teacher Langa. The class chants, “Yes she can!”",
+      "text_6": "Sthelo says, “I want to be a nurse.”",
+      "text_7_right": "The class bursts out laughing. “What is so funny?” asks Teacher Langa. Nandi replies, “Nurses are girls.” “There are male nurses too,” says Teacher Langa. “So class, can Sthelo be a nurse? The class booms, “Yes he can!”",
+      "text_8": "“I want to be an artist and draw pretty pictures,’’ says Liyana.",
+      "text_9_right": "“That’s not a real job,” says Khutso and rolls his eyes. “That sounds lovely, Liyana!” replies teacher Langa. “Can Liyana be an artist?” “Yes she can!” shouts the class!",
+      "text_10": "“I want to be an alarm clock,” says Phathu.",
+      "text_11": "“Huh?” “What do you think, class?” asks Teacher Langa. The class booms, “Yes you can! Yes you can!”",
+      "text_12": "Nandi hasn’t shared what she wants to be when she grows up. What do you think she could be?"
+    },
+    {
+      "id": "yello_earth_brown_earth",
+      "status": "released",
+      "image_cover_asset": "image/books/yellow_earth_brown_earth/image_1.jpg",
+      "level_id": "level_2",
+      "author": "Sanjana Kapur",
+      "illustrator": "Debasmita Dasgupta",
+      "licence": "© Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "image/books/yellow_earth_brown_earth/image_2.jpg",
+      "image_2_asset": "image/books/yellow_earth_brown_earth/image_3.jpg",
+      "image_3_asset": "image/books/yellow_earth_brown_earth/image_4.jpg",
+      "image_4_asset": "image/books/yellow_earth_brown_earth/image_5.jpg",
+      "image_5_asset": "image/books/yellow_earth_brown_earth/image_6.jpg",
+      "image_6_asset": "image/books/yellow_earth_brown_earth/image_7.jpg",
+      "image_7_asset": "image/books/yellow_earth_brown_earth/image_8.jpg",
+      "image_8_asset": "image/books/yellow_earth_brown_earth/image_9.jpg",
+      "image_9_asset": "image/books/yellow_earth_brown_earth/image_10.jpg",
+      "image_10_asset": "image/books/yellow_earth_brown_earth/image_11.jpg",
+      "title": "Yellow Earth, Brown Earth",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Yellow Earth, Brown Earth"
+        },
+        "description": {
+          "eng": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns."
+        }
+      },
+      "description": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns."
+    },
+    {
+      "id": "why_is_nita_upside_down",
+      "status": "released",
+      "image_cover_asset": "image/books/why_is_nita_upside_down/image_1.jpg",
+      "author": "Roxana Bouwer",
+      "illustrator": "Sarah Bouwer",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "image/books/why_is_nita_upside_down/image_2.jpg",
+      "image_2_asset": "image/books/why_is_nita_upside_down/image_3.jpg",
+      "image_3_asset": "image/books/why_is_nita_upside_down/image_4.jpg",
+      "image_4_asset": "image/books/why_is_nita_upside_down/image_5.jpg",
+      "image_5_asset": "image/books/why_is_nita_upside_down/image_6.jpg",
+      "image_6_asset": "image/books/why_is_nita_upside_down/image_7.jpg",
+      "image_7_asset": "image/books/why_is_nita_upside_down/image_8.jpg",
+      "image_8_asset": "image/books/why_is_nita_upside_down/image_9.jpg",
+      "image_9_asset": "image/books/why_is_nita_upside_down/image_10.jpg",
+      "image_10_asset": "image/books/why_is_nita_upside_down/image_11.jpg",
+      "image_11_asset": "image/books/why_is_nita_upside_down/image_12.jpg",
+      "image_12_asset": "image/books/why_is_nita_upside_down/image_13.jpg",
+      "image_13_asset": "image/books/why_is_nita_upside_down/image_14.jpg",
+      "image_14_asset": "image/books/why_is_nita_upside_down/image_15.jpg",
+      "image_15_asset": "image/books/why_is_nita_upside_down/image_16.jpg",
+      "title": "Why is Nita Upside Down",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1_left": {},
+        "text_2_left": {},
+        "text_3_left": {},
+        "text_4_left": {},
+        "text_6_left": {},
+        "text_7": {},
+        "text_8_left": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11_right": {},
+        "text_12_left": {},
+        "text_13_left": {},
+        "text_14_left": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Why is Nita Upside Down"
+        },
+        "description": {
+          "eng": "Nita’s hanging upside down. Can she turn the right way round?"
+        },
+        "text_1_left": {
+          "eng": "Nita’s hanging upside down, her long hair tickling at the ground. The trees, the grass, the everything is all the wrong way round."
+        },
+        "text_2_left": {
+          "eng": "Her feet, they poke into the sky. Little Navi’s walking by. He says ‘I’ve seen you here before. You’re upside down again! What for?’"
+        },
+        "text_3_left": {
+          "eng": "His feet swim lightly in the air. She tries to hide behind her hair. ‘It’s h-h-h-hard to t-t-talk’, she says to him. ‘I’m not the same. I don’t fit in.’"
+        },
+        "text_4_left": {
+          "eng": "Navi takes her by the hand. He wants to help her understand. They climb to Navi’s look-out spot. From up here they can see a lot. They perch and have a quiet stare at children playing here and there."
+        },
+        "text_6_left": {
+          "eng": "Those kids are not tthe same at all. Abe’s round."
+        },
+        "text_7": {
+          "eng": "Chi’s freckled,"
+        },
+        "text_8_left": {
+          "eng": "Lala’s extra tall."
+        },
+        "text_9": {
+          "eng": "Bambam’s wild and must be free,"
+        },
+        "text_10": {
+          "eng": "while Lulu’s reading quietly."
+        },
+        "text_11_right": {
+          "eng": "Look at Freya's crazy hair."
+        },
+        "text_12_left": {
+          "eng": "And Sid wears glasses everywhere."
+        },
+        "text_13_left": {
+          "eng": "And me, I am just skin and bone. And you are you. You’re not alone. Each human’s sort of strange, you see. That makes you just the same, like me. This world is really one big game. To play, we can’t all be the same."
+        },
+        "text_14_left": {
+          "eng": "Nita feels the right way round, thanks to the new friend she’s found. Upside down was never fun. Now she plays with everyone."
+        }
+      },
+      "description": "Nita’s hanging upside down. Can she turn the right way round?",
+      "text_1_left": "Nita’s hanging upside down, her long hair tickling at the ground. The trees, the grass, the everything is all the wrong way round.",
+      "text_2_left": "Her feet, they poke into the sky. Little Navi’s walking by. He says ‘I’ve seen you here before. You’re upside down again! What for?’",
+      "text_3_left": "His feet swim lightly in the air. She tries to hide behind her hair. ‘It’s h-h-h-hard to t-t-talk’, she says to him. ‘I’m not the same. I don’t fit in.’",
+      "text_4_left": "Navi takes her by the hand. He wants to help her understand. They climb to Navi’s look-out spot. From up here they can see a lot. They perch and have a quiet stare at children playing here and there.",
+      "text_6_left": "Those kids are not tthe same at all. Abe’s round.",
+      "text_7": "Chi’s freckled,",
+      "text_8_left": "Lala’s extra tall.",
+      "text_9": "Bambam’s wild and must be free,",
+      "text_10": "while Lulu’s reading quietly.",
+      "text_11_right": "Look at Freya's crazy hair.",
+      "text_12_left": "And Sid wears glasses everywhere.",
+      "text_13_left": "And me, I am just skin and bone. And you are you. You’re not alone. Each human’s sort of strange, you see. That makes you just the same, like me. This world is really one big game. To play, we can’t all be the same.",
+      "text_14_left": "Nita feels the right way round, thanks to the new friend she’s found. Upside down was never fun. Now she plays with everyone."
     }
   ],
   "_xlsxPath": "data/library/TZ books.xlsx"

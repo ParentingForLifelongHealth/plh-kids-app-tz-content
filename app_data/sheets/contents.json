@@ -330,11 +330,6 @@
       "flow_name": "category_card",
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
-    "category_card_alt": {
-      "flow_type": "template",
-      "flow_name": "category_card_alt",
-      "_xlsxPath": "templates/modules/module_navigation.xlsx"
-    },
     "enter_dev_mode": {
       "flow_type": "template",
       "flow_name": "enter_dev_mode",
@@ -663,6 +658,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "book_cover_lost_toy": {
+      "flow_name": "book_cover_lost_toy",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "book_cover_ma_hurry_up": {
       "flow_name": "book_cover_ma_hurry_up",
       "flow_subtype": "generated",
@@ -763,6 +763,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "book_cover_what_at_the_park": {
+      "flow_name": "book_cover_what_at_the_park",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "book_cover_whats_next": {
       "flow_name": "book_cover_whats_next",
       "flow_subtype": "generated",
@@ -775,6 +780,26 @@
     },
     "book_cover_who_took_my_shoe": {
       "flow_name": "book_cover_who_took_my_shoe",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_cover_why_is_nita_upside_down": {
+      "flow_name": "book_cover_why_is_nita_upside_down",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_cover_yello_earth_brown_earth": {
+      "flow_name": "book_cover_yello_earth_brown_earth",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_cover_yes_you_can": {
+      "flow_name": "book_cover_yes_you_can",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_cover_zibu_and_zizo": {
+      "flow_name": "book_cover_zibu_and_zizo",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -903,6 +928,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "book_page_lost_toy": {
+      "flow_name": "book_page_lost_toy",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "book_page_ma_hurry_up": {
       "flow_name": "book_page_ma_hurry_up",
       "flow_subtype": "generated",
@@ -1003,6 +1033,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "book_page_what_at_the_park": {
+      "flow_name": "book_page_what_at_the_park",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "book_page_whats_next": {
       "flow_name": "book_page_whats_next",
       "flow_subtype": "generated",
@@ -1015,6 +1050,26 @@
     },
     "book_page_who_took_my_shoe": {
       "flow_name": "book_page_who_took_my_shoe",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_page_why_is_nita_upside_down": {
+      "flow_name": "book_page_why_is_nita_upside_down",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_page_yello_earth_brown_earth": {
+      "flow_name": "book_page_yello_earth_brown_earth",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_page_yes_you_can": {
+      "flow_name": "book_page_yes_you_can",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "book_page_zibu_and_zizo": {
+      "flow_name": "book_page_zibu_and_zizo",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1520,11 +1575,6 @@
     "module_overview": {
       "flow_type": "template",
       "flow_name": "module_overview",
-      "_xlsxPath": "templates/modules/module_navigation.xlsx"
-    },
-    "module_overview_alt": {
-      "flow_type": "template",
-      "flow_name": "module_overview_alt",
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
     "nav_buttons": {
