@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "module_overview",
+  "flow_name": "module_overview_alt",
   "status": "released",
   "rows": [
     {
@@ -575,7 +575,7 @@
         {
           "type": "template",
           "name": "card_@item.id",
-          "value": "category_card",
+          "value": "category_card_alt",
           "exclude_from_translation": true,
           "rows": [
             {

@@ -330,6 +330,11 @@
       "flow_name": "category_card",
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
+    "category_card_alt": {
+      "flow_type": "template",
+      "flow_name": "category_card_alt",
+      "_xlsxPath": "templates/modules/module_navigation.xlsx"
+    },
     "enter_dev_mode": {
       "flow_type": "template",
       "flow_name": "enter_dev_mode",
@@ -1515,6 +1520,11 @@
     "module_overview": {
       "flow_type": "template",
       "flow_name": "module_overview",
+      "_xlsxPath": "templates/modules/module_navigation.xlsx"
+    },
+    "module_overview_alt": {
+      "flow_type": "template",
+      "flow_name": "module_overview_alt",
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
     "nav_buttons": {

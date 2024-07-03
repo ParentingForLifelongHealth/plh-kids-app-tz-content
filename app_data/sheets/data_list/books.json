@@ -7,7 +7,7 @@
     {
       "id": "who_took_my_shoe",
       "image_cover_asset": "images/books/my_shoe/my_shoe_cover.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Elana Bregin",
       "illustrator": "Nicki Blackbeard",
       "licence": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
@@ -126,6 +126,7 @@
     {
       "id": "a_very_important_tree",
       "image_cover_asset": "images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg",
+      "level_id": "level_1",
       "author": "Elana Bregin",
       "illustrator": "Liam Longland",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
@@ -161,6 +162,7 @@
     {
       "id": "an_unexpected_adventure",
       "image_cover_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg",
+      "level_id": "level_1",
       "author": "Carina Jooste",
       "illustrator": "Emma Bosman",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
@@ -196,6 +198,7 @@
     {
       "id": "no_go_sleep",
       "image_cover_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "level_id": "level_2",
       "author": "Sarah McGregor",
       "illustrator": "Subi Bosa",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
@@ -320,7 +323,7 @@
     {
       "id": "scared_tumi",
       "image_cover_asset": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Mohale Mashigo",
       "illustrator": "Nyambura Kariuki",
       "licence": "© Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -417,7 +420,7 @@
     {
       "id": "moms_red_coat",
       "image_cover_asset": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Chrissie Kritzinger",
       "illustrator": "Brad Cuzen",
       "licence": "© Book Dash , 2022. Some rights reserved. Released under CC BY 4.0 license.",
@@ -525,7 +528,7 @@
     {
       "id": "amma_be_back",
       "image_cover_asset": "images/books/when_will_amma_be_back/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Prathiba Swaminathan",
       "illustrator": "Alankrita Amaya",
       "licence": "© Pratham Books , 2018. Some rights reserved. Released under CC BY 4.0 license.",
@@ -639,7 +642,7 @@
     {
       "id": "bee_and_elephant",
       "image_cover_asset": "images/books/the_bee_and_the_elephant/image_1.jpg",
-      "book_level": "level_1",
+      "level_id": "level_1",
       "author": "Long Ravy",
       "illustrator": "Try Samphos",
       "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -712,7 +715,7 @@
     {
       "id": "reba_wants_ice_cream",
       "image_cover_asset": "images/books/reba_wants_ice_cream/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Sultana Zakia",
       "illustrator": "Dhiman Sarkar",
       "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -822,7 +825,7 @@
     {
       "id": "ranis_first_day_at_school",
       "image_cover_asset": "images/books/ranis_first_day_at_school/image_1.jpg",
-      "book_level": "level_1",
+      "level_id": "level_1",
       "author": "Cheryl Rao",
       "illustrator": "Mayur Mistry",
       "licence": "© Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -882,7 +885,7 @@
     {
       "id": "ma_hurry_up",
       "image_cover_asset": "images/books/ma_hurry_up/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Rukmini Banerji",
       "illustrator": "Sheetal Thapa",
       "licence": "© Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license.",
@@ -977,6 +980,7 @@
     {
       "id": "katiitis_song",
       "image_cover_asset": "images/books/katiitis_song/image_1.jpg",
+      "level_id": "level_1",
       "author": "Philippa Namutebi Kabali-Kagwa",
       "illustrator": "Mary Marble",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1071,6 +1075,7 @@
     {
       "id": "beautiful_day",
       "image_cover_asset": "images/books/beautiful_day/cover.jpg",
+      "level_id": "level_1",
       "author": "Elana Bregin",
       "illustrator": "Lindy Pelzl",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1192,6 +1197,7 @@
       "title": "A trip to the tap",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_left": {},
         "text_3_left": {},
@@ -1208,6 +1214,9 @@
       "_translatedFields": {
         "title": {
           "eng": "A trip to the tap"
+        },
+        "description": {
+          "eng": "Oluhle fetches water at the tap every day. She gets to carry her favourite pink bucket. But one day it gets lost …"
         },
         "text_1_left": {
           "eng": "Oluhle wakes up early. She is excited to get water. “Come Mama, we have to be first today,” she calls."
@@ -1246,6 +1255,7 @@
           "eng": "The friends can’t wait to show off with their new buckets. “Can we go to the tap now?” they ask."
         }
       },
+      "description": "Oluhle fetches water at the tap every day. She gets to carry her favourite pink bucket. But one day it gets lost …",
       "text_1_left": "Oluhle wakes up early. She is excited to get water. “Come Mama, we have to be first today,” she calls.",
       "text_2_left": "On the way they meet Nathi and Unathi. They are going to the tap with their mother.",
       "text_3_left": "Oluhle and her friends play while the grown-ups get water. “Oluhle, your bucket is full,” says Mama.",
@@ -1262,6 +1272,7 @@
     {
       "id": "fifi_and_teddy",
       "image_cover_asset": "images/books/fifi_and_teddy/cover.jpg",
+      "level_id": "level_2",
       "author": "Tshepo Letsapa",
       "illustrator": "Alison de Villiers",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1280,6 +1291,7 @@
       "title": "Fifi and Teddy",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1": {},
         "text_2": {},
         "text_3": {},
@@ -1293,6 +1305,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Fifi and Teddy"
+        },
+        "description": {
+          "eng": "Fifi has a brown teddy bear that she loves very much. But where is Teddy?"
         },
         "text_1": {
           "eng": "Fifi has loved Teddy since she was a baby."
@@ -1322,6 +1337,7 @@
           "eng": "“There you are, Teddy!”"
         }
       },
+      "description": "Fifi has a brown teddy bear that she loves very much. But where is Teddy?",
       "text_1": "Fifi has loved Teddy since she was a baby.",
       "text_2": "Fifi eats with Teddy. Fifi plays with Teddy.",
       "text_3": "Fifi takes Teddy wherever she goes. And they curl up together every night.",
@@ -1353,6 +1369,7 @@
       "title": "How do you want your eggs?",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2": {},
         "text_3_left": {},
@@ -1368,6 +1385,9 @@
       "_translatedFields": {
         "title": {
           "eng": "How do you want your eggs?"
+        },
+        "description": {
+          "eng": "Boiled, scrambled or fried? How does Luzuko want his eggs?"
         },
         "text_1_left": {
           "eng": "Good morning, Luzuko!"
@@ -1403,6 +1423,7 @@
           "eng": "Today, I just want a bowl of porridge."
         }
       },
+      "description": "Boiled, scrambled or fried? How does Luzuko want his eggs?",
       "text_1_left": "Good morning, Luzuko!",
       "text_2": "It’s time for breakfast.",
       "text_3_left": "How do you want your eggs?",
@@ -1418,6 +1439,7 @@
     {
       "id": "lebo_and_gogos_tea_party",
       "image_cover_asset": "images/books/lebo_and_gogo's_tea_party/cover.jpg",
+      "level_id": "level_3",
       "author": "Siphosethu Zantsi",
       "illustrator": "Elizabeth Sparg",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1436,6 +1458,7 @@
       "title": "Lebo and Gogo's Tea Party",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_left": {},
         "text_3_right": {},
@@ -1451,6 +1474,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Lebo and Gogo's Tea Party"
+        },
+        "description": {
+          "eng": "Lebo is excited to have a day of adventure with Gogo. When Gogo hurts herself, she can’t do anything that Lebo wants to do. What can Gogo and Lebo do to have fun together?"
         },
         "text_1_left": {
           "eng": "Lebo is at Gogo’s farm. She is bored with chasing the animals. \"Now you chase me, Gogo!\" Lebo shouts as she races past. \"Slow down, Lebo,\" Gogo says, hurrying to catch up."
@@ -1486,6 +1512,7 @@
           "eng": "\"Gogo, Gogo, I know what we can do today! Let’s have a tea party. Gogo, you can sit here. I will bring everything to you because you are hurt.\""
         }
       },
+      "description": "Lebo is excited to have a day of adventure with Gogo. When Gogo hurts herself, she can’t do anything that Lebo wants to do. What can Gogo and Lebo do to have fun together?",
       "text_1_left": "Lebo is at Gogo’s farm. She is bored with chasing the animals. \"Now you chase me, Gogo!\" Lebo shouts as she races past. \"Slow down, Lebo,\" Gogo says, hurrying to catch up.",
       "text_2_left": "Gogo trips over a rock while chasing Lebo. \"Ouch!\" she screams. Gogo has hurt her ankle.",
       "text_3_right": "She comes back from the doctor with a special boot and crutches. \"Gogo, come back to the city with us so that we can take care of you,\" says Lebo’s mom. \"I won’t leave my farm. I will manage on my own,\" Gogo replies, stubbornly.",
@@ -1519,6 +1546,7 @@
       "title": "Lesedi’s Sandbox",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_right": {},
         "text_3_left": {},
@@ -1535,6 +1563,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Lesedi’s Sandbox"
+        },
+        "description": {
+          "eng": "Lesedi dreams of going to the beach. He wants to feel the sand between his toes and build a sandcastle. So his parents come up with a plan…"
         },
         "text_1_left": {
           "eng": "It’s the holidays and I’d love to go to the beach, but we have never been. I wonder what it feels like to play in the sea sand."
@@ -1573,6 +1604,7 @@
           "eng": "Thank you, Mom and Dad. Today was the happiest day of my life!"
         }
       },
+      "description": "Lesedi dreams of going to the beach. He wants to feel the sand between his toes and build a sandcastle. So his parents come up with a plan…",
       "text_1_left": "It’s the holidays and I’d love to go to the beach, but we have never been. I wonder what it feels like to play in the sea sand.",
       "text_2_right": "Surprise! \"Look what we made you. A sandbox,\" exclaims Lesedi’s dad. Dad says he used some of his old tyres. Mom painted them with all my favourite colours: blue, red and yellow.",
       "text_3_left": "I can’t wait to get inside. I climb into my sandbox and my feet feel so warm and squishy.",
@@ -1607,6 +1639,7 @@
       "title": "Little Shoots",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_left": {},
         "text_2_right": {},
@@ -1622,6 +1655,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Little Shoots"
+        },
+        "description": {
+          "eng": "Layo can’t wait to grow. But just like the bamboo seeds he and grandma plant, it might take a little longer than he wants!"
         },
         "text_1_left": {
           "eng": "\"When will I grow?\" asks Layo."
@@ -1657,6 +1693,7 @@
           "eng": "“You have grown well.”"
         }
       },
+      "description": "Layo can’t wait to grow. But just like the bamboo seeds he and grandma plant, it might take a little longer than he wants!",
       "text_1_left": "\"When will I grow?\" asks Layo.",
       "text_2_left": "\"I don’t know,\" replies Baba. \"Soon,\" says Mama.",
       "text_2_right": "\"When you are ready,\" says Grandma.",
@@ -1672,6 +1709,7 @@
     {
       "id": "look_out_luthando",
       "image_cover_asset": "images/books/look_out_luthando/cover.jpg",
+      "level_id": "level_2",
       "author": "Sue Boucher",
       "illustrator": "Hylton Warburton",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1690,6 +1728,7 @@
       "title": "Look out, Luthando!",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_left": {},
         "text_2_right": {},
@@ -1713,6 +1752,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Look out, Luthando!"
+        },
+        "description": {
+          "eng": "Luthando is very good at listening and very good at smelling, but he’s not so good at looking where he is going. He walks into puddles and bumps his head. What could be the problem?"
         },
         "text_1_left": {
           "eng": "\"Listen!\" says Luthando. \"What do you hear?\" asks Sonto. \"Saturday.\" \"What does Saturday sound like?\" \"It’s quieter than Friday,\" says Luthando. \"Everyone’s still sleeping.\""
@@ -1772,6 +1814,7 @@
           "eng": "\"Look, a puddle!\" says Luthando. Too late!"
         }
       },
+      "description": "Luthando is very good at listening and very good at smelling, but he’s not so good at looking where he is going. He walks into puddles and bumps his head. What could be the problem?",
       "text_1_left": "\"Listen!\" says Luthando. \"What do you hear?\" asks Sonto. \"Saturday.\" \"What does Saturday sound like?\" \"It’s quieter than Friday,\" says Luthando. \"Everyone’s still sleeping.\"",
       "text_2_left": "\"I must fix Gogo’s gate today,\" Daddy says.",
       "text_2_right": "\"An ice cream for anyone who helps me carry the shopping home,\" Mama says. \"We’ll help you, Mama,\" say the children.",
@@ -1795,6 +1838,7 @@
     {
       "id": "my_inside_weather",
       "image_cover_asset": "images/books/my_inside_weather/cover.jpg",
+      "level_id": "level_2",
       "author": "Jen Thorpe",
       "illustrator": "Lara Berge",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1813,6 +1857,7 @@
       "title": "My inside weather",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_left": {},
         "text_3_left": {},
@@ -1829,6 +1874,9 @@
       "_translatedFields": {
         "title": {
           "eng": "My inside weather"
+        },
+        "description": {
+          "eng": "Sometimes our feelings are hard to talk about, but everyone knows how to talk about the weather."
         },
         "text_1_left": {
           "eng": "It’s easy to talk about the weather outside, even if it changes all the time."
@@ -1867,6 +1915,7 @@
           "eng": "They’ve got inside weather too, and they’ll understand."
         }
       },
+      "description": "Sometimes our feelings are hard to talk about, but everyone knows how to talk about the weather.",
       "text_1_left": "It’s easy to talk about the weather outside, even if it changes all the time.",
       "text_2_left": "But it’s hard to talk about the weather inside me. Sometimes it feels like people don’t understand.",
       "text_3_left": "Do you feel like that too?",
@@ -1902,6 +1951,7 @@
       "title": "The Things That Really Matter",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_right": {},
         "text_2": {},
         "text_3_right": {},
@@ -1920,6 +1970,9 @@
       "_translatedFields": {
         "title": {
           "eng": "The Things That Really Matter"
+        },
+        "description": {
+          "eng": "What are the most important things to take with you on a trip? Join Zuki, Tando, Mama and Papa on their eventful journey to find out."
         },
         "text_1_right": {
           "eng": "We are going on a trip. I ask Mama what to pack. She says, \"The things that really matter.\""
@@ -1964,6 +2017,7 @@
           "eng": "And so, we do have a good time. By playing and singing and finding our way together, while enjoying the best mielies."
         }
       },
+      "description": "What are the most important things to take with you on a trip? Join Zuki, Tando, Mama and Papa on their eventful journey to find out.",
       "text_1_right": "We are going on a trip. I ask Mama what to pack. She says, \"The things that really matter.\"",
       "text_2": "We stop at the windmill for breakfast. The jungle gym is so much fun. I forget my toy.",
       "text_3_right": "I am sad in the car, but Tando is happy. \"Hooray! Now you can play with me!\" he says.",
@@ -1982,6 +2036,7 @@
     {
       "id": "to_the_top",
       "image_cover_asset": "images/books/to_the_top/cover.jpg",
+      "level_id": "level_1",
       "author": "Clea Mallinson",
       "illustrator": "Julie Smith-Belton",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1999,17 +2054,23 @@
       "image_12_asset": "images/books/to_the_top/page15.jpg",
       "title": "To The Top!",
       "_translations": {
-        "title": {}
+        "title": {},
+        "description": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "To The Top!"
+        },
+        "description": {
+          "eng": "Climb the mountain with us! Look out for many tiny creatures… and BIG views. If we help each other, we can get to the top!"
         }
-      }
+      },
+      "description": "Climb the mountain with us! Look out for many tiny creatures… and BIG views. If we help each other, we can get to the top!"
     },
     {
       "id": "where_is_lulu",
       "image_cover_asset": "images/books/where_is_lulu/cover.jpg",
+      "level_id": "level_1",
       "author": "Mohale Mashigo",
       "illustrator": "Clyde Beech",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2028,6 +2089,7 @@
       "title": "Where is Lulu?",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_left": {},
         "text_3": {},
@@ -2043,6 +2105,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Where is Lulu?"
+        },
+        "description": {
+          "eng": "Where is Lulu and why is she hiding?"
         },
         "text_1_left": {
           "eng": "\"Oh, no!\""
@@ -2078,6 +2143,7 @@
           "eng": "Where is Lulu now?"
         }
       },
+      "description": "Where is Lulu and why is she hiding?",
       "text_1_left": "\"Oh, no!\"",
       "text_2_left": "\"Lulu! It’s time to go,\" calls Ma.",
       "text_3": "Where is Lulu? Is she under the sofa? Is she behind the curtain?",
@@ -2112,6 +2178,7 @@
       "title": "Ouma’s\nAmazing Flowers",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_right": {},
         "text_3_left": {},
@@ -2128,6 +2195,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Ouma’s\nAmazing Flowers"
+        },
+        "description": {
+          "eng": "Ouma has amazing flowers! Robyn wants to pick them all …"
         },
         "text_1_left": {
           "eng": "Ouma has a window box full of amazing flowers. Robyn wants to pick them all!"
@@ -2166,6 +2236,7 @@
           "eng": "\"And I have an idea ... Let’s plant more flowers together!\""
         }
       },
+      "description": "Ouma has amazing flowers! Robyn wants to pick them all …",
       "text_1_left": "Ouma has a window box full of amazing flowers. Robyn wants to pick them all!",
       "text_2_right": "Please don’t pick the flowers, Robyn! Ouma loves to see them when she opens her curtains.",
       "text_3_left": "Butterflies dance around the petals. It’s so lovely to have these visitors.",
@@ -2182,6 +2253,7 @@
     {
       "id": "babys_first_photo",
       "image_cover_asset": "images/books/babys_first_photo/cover.jpg",
+      "level_id": "level_1",
       "author": "Edem Torkornoo",
       "illustrator": "Megan Andrews",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2200,6 +2272,7 @@
       "title": "Baby’s First Family Photo",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_left": {},
         "text_2_left": {},
         "text_3_left": {},
@@ -2216,6 +2289,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Baby’s First Family Photo"
+        },
+        "description": {
+          "eng": "Baby’s family is excited about their first family photo. What will Mama, Papa, Big Sister, Baby and Gogo wear?"
         },
         "text_1_left": {
           "eng": "Whose bright orange wrapper is this? It is Mama’s."
@@ -2254,6 +2330,7 @@
           "eng": "SNAP!"
         }
       },
+      "description": "Baby’s family is excited about their first family photo. What will Mama, Papa, Big Sister, Baby and Gogo wear?",
       "text_1_left": "Whose bright orange wrapper is this? It is Mama’s.",
       "text_2_left": "Whose blue shirt is this? It is Papa's.",
       "text_3_left": "Whose yellow head wrap is this? It is Gogo's.",
@@ -2270,6 +2347,7 @@
     {
       "id": "brave_bora",
       "image_cover_asset": "images/books/brave_bora/cover.jpg",
+      "level_id": "level_2",
       "author": "Edna Gicovi",
       "illustrator": "Ellen Heydenrych",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2291,6 +2369,7 @@
       "title": "Brave Bora",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1_right": {},
         "text_2_right": {},
         "text_3_right": {},
@@ -2310,6 +2389,9 @@
       "_translatedFields": {
         "title": {
           "eng": "Brave Bora"
+        },
+        "description": {
+          "eng": "Going to the doctor can be scary! Can Bora overcome his fears, with a little help from Baba and Jojo?"
         },
         "text_1_right": {
           "eng": "Bora is sitting at the clinic with Baba. Jojo, his stuffed monkey, came too. Jojo is sleeping in Bora’s bag."
@@ -2357,6 +2439,7 @@
           "eng": "\"One red lollipop for our brave Bora!\""
         }
       },
+      "description": "Going to the doctor can be scary! Can Bora overcome his fears, with a little help from Baba and Jojo?",
       "text_1_right": "Bora is sitting at the clinic with Baba. Jojo, his stuffed monkey, came too. Jojo is sleeping in Bora’s bag.",
       "text_2_right": "\"I don’t like needles. They hurt!\" says Bora.",
       "text_3_right": "\"An injection helps make you healthy. It’s okay to be scared, Bora. Baba will be right here with you. And Jojo too.\"",
@@ -2376,6 +2459,7 @@
     {
       "id": "and_also",
       "image_cover_asset": "images/books/and_also/image_1.jpg",
+      "level_id": "level_2",
       "author": "Lauren Beukes",
       "illustrator": "Anja Venter",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2395,6 +2479,7 @@
       "title": "And Also!",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1": {},
         "text_2_left": {},
         "text_2_right": {},
@@ -2417,6 +2502,9 @@
       "_translatedFields": {
         "title": {
           "eng": "And Also!"
+        },
+        "description": {
+          "eng": "Thabo’s make-believe world has no room for his little sister, Keitu. But she has other ideas!"
         },
         "text_1": {
           "eng": "Thabo pretends that his bed is a raft on the sea!"
@@ -2473,6 +2561,7 @@
           "eng": "Keitu says, \"And also! We should play again tomorrow!\""
         }
       },
+      "description": "Thabo’s make-believe world has no room for his little sister, Keitu. But she has other ideas!",
       "text_1": "Thabo pretends that his bed is a raft on the sea!",
       "text_2_left": "His little sister Keitu says, \"Yes ! And also! There are sharks.\"",
       "text_2_right": "\"No!\" says Thabo.",
@@ -2495,7 +2584,7 @@
     {
       "id": "angry_akku",
       "image_cover_asset": "images/books/angry_akku/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Vinayak Varma",
       "illustrator": "Vinayak Varma",
       "image_1_asset": "images/books/angry_akku/image_2.jpg",
@@ -2607,7 +2696,7 @@
     {
       "id": "beloved_daughter",
       "image_cover_asset": "images/books/beloved_daughter/image_1.jpg",
-      "book_level": "level_1",
+      "level_id": "level_1",
       "author": "Mulongo Bukheye and Ritah Katetemera",
       "illustrator": "Brian Wambi",
       "licence": "© African Storybook Initiative , 2016. Some rights reserved. Released\nunder CC BY 4.0 license.",
@@ -2701,7 +2790,7 @@
     {
       "id": "big_blue_bus",
       "image_cover_asset": "images/books/big_blue_bus/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Mecelin Kakoro",
       "illustrator": "Mango Tree",
       "licence": "© African Storybook Initiative , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -2819,7 +2908,7 @@
     {
       "id": "decision",
       "image_cover_asset": "images/books/decision/image_1.jpg",
-      "book_level": "level_3",
+      "level_id": "level_3",
       "author": "Ursula Nafula",
       "illustrator": "Vusi Malindi",
       "licence": "© African Storybook Initiative , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -2937,7 +3026,7 @@
     {
       "id": "emotions_come_go",
       "image_cover_asset": "images/books/emotions_come_go/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Mimi Werna",
       "illustrator": "Joe Werna",
       "licence": "© African Storybook Initiative , 2019. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3055,7 +3144,7 @@
     {
       "id": "i_like_to_read",
       "image_cover_asset": "images/books/i_like_to_read/image_1.jpg",
-      "book_level": "level_1",
+      "level_id": "level_1",
       "author": "Letta Machoga",
       "illustrator": "Wiehan de Jager",
       "licence": "© African Storybook Initiative , 2014. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3125,6 +3214,7 @@
     {
       "id": "it_wasnt_me",
       "image_cover_asset": "images/books/it_wasnt_me/image_1.jpg",
+      "level_id": "level_1",
       "author": "Lesley Beake",
       "illustrator": "Gwendolene van der Merwe",
       "image_1_asset": "images/books/it_wasnt_me/image_2.jpg",
@@ -3143,6 +3233,7 @@
       "title": "It Wasn't Me!",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1": {},
         "text_2": {},
         "text_3": {},
@@ -3159,6 +3250,9 @@
       "_translatedFields": {
         "title": {
           "eng": "It Wasn't Me!"
+        },
+        "description": {
+          "eng": "Mom is going out for five minutes. What could go wrong?"
         },
         "text_1": {
           "eng": "I won’t be long. Be good!"
@@ -3197,6 +3291,7 @@
           "eng": "It wasn’t me!"
         }
       },
+      "description": "Mom is going out for five minutes. What could go wrong?",
       "text_1": "I won’t be long. Be good!",
       "text_2": "Oh!",
       "text_3": "Oh, no!",
@@ -3213,7 +3308,7 @@
     {
       "id": "jasu_loves_football",
       "image_cover_asset": "images/books/jasu_loves_football/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Rehema Egbert",
       "illustrator": "Godwin Chipenya",
       "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3331,7 +3426,7 @@
     {
       "id": "little_monkey_s_lost_bananas",
       "image_cover_asset": "images/books/little_monkey_s_lost_bananas/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Long Leapsocheata",
       "illustrator": "Youm Kosal",
       "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3431,7 +3526,7 @@
     {
       "id": "mother_hen",
       "image_cover_asset": "images/books/mother_hen/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Phuangthana Phetsavong",
       "illustrator": "Aphisith Souphavongtay",
       "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3539,7 +3634,7 @@
     {
       "id": "my_first_day_at_school",
       "image_cover_asset": "images/books/my_first_day_at_school/image_1.jpg",
-      "book_level": "level_3",
+      "level_id": "level_3",
       "author": "Rehema Egbert",
       "illustrator": "Godwin Chipenya",
       "licence": "© Room to Read , 2013. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3663,7 +3758,7 @@
     {
       "id": "nichchumani_helps_out",
       "image_cover_asset": "images/books/nichchumani_helps_out/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Egambaram Kumudini",
       "illustrator": "Pavithra Wanamali",
       "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3739,7 +3834,7 @@
     {
       "id": "no_smiles_today",
       "image_cover_asset": "images/books/no_smiles_today/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Cheryl Rao",
       "illustrator": "Saurabh Pandey",
       "licence": "© Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3797,7 +3892,7 @@
     {
       "id": "pishi_and_me",
       "image_cover_asset": "images/books/pishi_and_me/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Timira Gupta",
       "illustrator": "Rajiv Eipe",
       "licence": "© Pratham Books , 2018. Some rights reserved. Released under CC BY 4.0 license.",
@@ -3897,7 +3992,7 @@
     {
       "id": "red_bean_plant",
       "image_cover_asset": "images/books/red_bean_plant/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Nguyễn Thị Hồng Hạnh",
       "illustrator": "Phạm Hùng Vinh",
       "licence": "© Room to Read , 2012. Some rights reserved. Released under CC BY 4.0 license.",
@@ -4034,7 +4129,7 @@
     {
       "id": "shongololo_s_shoes",
       "image_cover_asset": "images/books/shongololo_s_shoes/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Jacqui L’Ange",
       "illustrator": "Megan Lotter",
       "licence": ". © Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
@@ -4125,7 +4220,7 @@
     {
       "id": "under_my_bed",
       "image_cover_asset": "images/books/under_my_bed/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Anupa Lal",
       "illustrator": "Suvidha Mistry",
       "licence": "© Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.",
@@ -4213,7 +4308,7 @@
     {
       "id": "very_green_day",
       "image_cover_asset": "images/books/very_green_day/image_1.jpg",
-      "book_level": "level_2",
+      "level_id": "level_2",
       "author": "Phạm Thu Thùy",
       "illustrator": "Phạm Thu Thùy",
       "licence": "© Room to Read , 2013. Some rights reserved. Released under CC BY 4.0 license.",
@@ -4387,6 +4482,7 @@
     {
       "id": "whats_next",
       "image_cover_asset": "images/books/whats_next/image_1.jpg",
+      "level_id": "level_2",
       "author": "Rayhaanah Williams",
       "illustrator": "Clyde Beech",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -4405,6 +4501,7 @@
       "title": "What’s next?",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1": {},
         "text_2": {},
         "text_3_left": {},
@@ -4422,6 +4519,9 @@
       "_translatedFields": {
         "title": {
           "eng": "What’s next?"
+        },
+        "description": {
+          "eng": "Once the school bell rings, the excitement begins. Grandpa picks Fatima up from school. What adventures will they have?"
         },
         "text_1": {
           "eng": "Fatima is always busy! She loves to run and play."
@@ -4463,6 +4563,7 @@
           "eng": "Fatima hurries to bed. She is excited for her next adventure with her best friend, Grandpa."
         }
       },
+      "description": "Once the school bell rings, the excitement begins. Grandpa picks Fatima up from school. What adventures will they have?",
       "text_1": "Fatima is always busy! She loves to run and play.",
       "text_2": "Her favourite part of the day is when Grandpa arrives. \"How should we spend our day, Fatima?\" asks Grandpa.",
       "text_3_left": "\"I know!\" says Fatima. \"Let’s go to the park.\"",
@@ -4480,6 +4581,7 @@
     {
       "id": "shhhhh",
       "image_cover_asset": "images/books/shhhhh/image_1.jpg",
+      "level_id": "level_1",
       "author": "Sam Wilson",
       "illustrator": "Alex Latimer",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -4499,6 +4601,7 @@
       "title": "SHHHHH!",
       "_translations": {
         "title": {},
+        "description": {},
         "text_1": {},
         "text_2": {},
         "text_3": {},
@@ -4515,6 +4618,9 @@
       "_translatedFields": {
         "title": {
           "eng": "SHHHHH!"
+        },
+        "description": {
+          "eng": "Shh! Baby is asleep! Why is everyone making so much noise?"
         },
         "text_1": {
           "eng": "Baby is sleeping. zzzzzzzzzzzz"
@@ -4553,6 +4659,7 @@
           "eng": "Baby is noisy! CLANG WOOF BEEP BRMM CLICKITY TOOT CLICKITY DOOF BADUBBA! WOOF CLANG DOOF WOOF CLICKITY BAD CLANG DOOF WOOF BRMMM BEEP"
         }
       },
+      "description": "Shh! Baby is asleep! Why is everyone making so much noise?",
       "text_1": "Baby is sleeping. zzzzzzzzzzzz",
       "text_2": "DOOF DOOF! DOOF Shh, Sister! Baby is sleeping!",
       "text_3": "CLANG CLANG CLANG! Shh, Brother! Baby is sleeping!",
