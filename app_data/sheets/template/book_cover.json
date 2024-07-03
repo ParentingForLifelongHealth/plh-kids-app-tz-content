@@ -121,6 +121,138 @@
       "_nested_name": "join"
     },
     {
+      "name": "level_id",
+      "value": "@local.book_data.level_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "level_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book_data.level_id",
+            "matchedExpression": "@local.book_data.level_id",
+            "type": "local",
+            "fieldName": "book_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book_data.level_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "book_level",
+      "value": "book_levels",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "book_level"
+    },
+    {
+      "name": "description",
+      "value": "description",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "description"
+    },
+    {
+      "name": "concat_level_id",
+      "value": "@local.book_level.@local.level_id.@local.description",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "concat_level_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book_level.@local.level_id.@local.description",
+            "matchedExpression": "@local.book_level",
+            "type": "local",
+            "fieldName": "book_level"
+          },
+          {
+            "fullExpression": "@local.book_level.@local.level_id.@local.description",
+            "matchedExpression": "@local.level_id",
+            "type": "local",
+            "fieldName": "level_id"
+          },
+          {
+            "fullExpression": "@local.book_level.@local.level_id.@local.description",
+            "matchedExpression": "@local.description",
+            "type": "local",
+            "fieldName": "description"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book_level": [
+          "value"
+        ],
+        "@local.level_id": [
+          "value"
+        ],
+        "@local.description": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "level_description",
+      "value": "@data.@local.concat_level_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "level_description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_level_id",
+            "matchedExpression": "@local.concat_level_id",
+            "type": "local",
+            "fieldName": "concat_level_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_level_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "print_level_description",
+      "value": "@local.level_description",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "print_level_description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.level_description",
+            "matchedExpression": "@local.level_description",
+            "type": "local",
+            "fieldName": "level_description"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.level_description": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "dg_1",
       "rows": [
@@ -211,7 +343,7 @@
         {
           "type": "accordion_section",
           "name": "acc_1",
-          "value": "Author",
+          "value": "Attribution",
           "rows": [
             {
               "type": "display_group",
@@ -227,7 +359,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_12.acc_1.dg_2.author",
+                  "_nested_name": "accordion_18.acc_1.dg_2.author",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -246,12 +378,12 @@
                 },
                 {
                   "type": "text",
-                  "name": "Illustrator",
+                  "name": "illustrator",
                   "value": "**Illustrator:** @local.book_data.illustrator",
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_12.acc_1.dg_2.Illustrator",
+                  "_nested_name": "accordion_18.acc_1.dg_2.illustrator",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -270,24 +402,24 @@
                 },
                 {
                   "type": "text",
-                  "name": "book_level",
-                  "value": "@local.book_data.book_level",
+                  "name": "print_level_description",
+                  "value": "@local.level_description",
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_12.acc_1.dg_2.book_level",
+                  "_nested_name": "accordion_18.acc_1.dg_2.print_level_description",
                   "_dynamicFields": {
                     "value": [
                       {
-                        "fullExpression": "@local.book_data.book_level",
-                        "matchedExpression": "@local.book_data.book_level",
+                        "fullExpression": "@local.level_description",
+                        "matchedExpression": "@local.level_description",
                         "type": "local",
-                        "fieldName": "book_data"
+                        "fieldName": "level_description"
                       }
                     ]
                   },
                   "_dynamicDependencies": {
-                    "@local.book_data.book_level": [
+                    "@local.level_description": [
                       "value"
                     ]
                   }
@@ -299,7 +431,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "_nested_name": "accordion_12.acc_1.dg_2.licence",
+                  "_nested_name": "accordion_18.acc_1.dg_2.licence",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -317,14 +449,14 @@
                   }
                 }
               ],
-              "_nested_name": "accordion_12.acc_1.dg_2"
+              "_nested_name": "accordion_18.acc_1.dg_2"
             }
           ],
-          "_nested_name": "accordion_12.acc_1"
+          "_nested_name": "accordion_18.acc_1"
         }
       ],
-      "name": "accordion_12",
-      "_nested_name": "accordion_12"
+      "name": "accordion_18",
+      "_nested_name": "accordion_18"
     },
     {
       "type": "button",

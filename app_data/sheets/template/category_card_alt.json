@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "category_card",
+  "flow_name": "category_card_alt",
   "status": "released",
   "rows": [
     {
@@ -425,7 +425,7 @@
         "in_progress_icon": "images/icons/in_progress.svg",
         "completed_icon": "images/icons/tick.svg"
       },
-      "condition": false,
+      "condition": true,
       "exclude_from_translation": true,
       "_nested_name": "task_card_@local.category_id",
       "_dynamicFields": {
@@ -598,7 +598,7 @@
         "in_progress_icon": "images/icons/in_progress.svg",
         "completed_icon": "images/icons/tick.svg"
       },
-      "condition": true,
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "task_card_@local.category_id",
       "_dynamicFields": {
