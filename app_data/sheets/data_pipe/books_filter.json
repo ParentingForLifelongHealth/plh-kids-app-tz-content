@@ -1,0 +1,16 @@
+{
+  "flow_type": "data_pipe",
+  "flow_name": "books_filter",
+  "status": "released",
+  "rows": [
+    {
+      "operation": "filter",
+      "input_source": "books",
+      "output_target": "books",
+      "args_list": [
+        "status != \"draft\""
+      ]
+    }
+  ],
+  "_xlsxPath": "data/library/TZ books.xlsx"
+}
