@@ -396,8 +396,376 @@
     "size_kb": 576.6
   },
   "contents.json": {
-    "md5Checksum": "ac19b76962fee41b9bd2015e56c1efd8",
-    "size_kb": 9.3
+    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
+    "size_kb": 5.9
+  },
+  "images/books/Circles_in_the_park/image_1.jpg": {
+    "md5Checksum": "b372eb45356f5605f0f72d5e6795dccf",
+    "size_kb": 112.1
+  },
+  "images/books/Circles_in_the_park/image_2.jpg": {
+    "md5Checksum": "35e454eaea2ec62ebf923847d6765dfc",
+    "size_kb": 391.5
+  },
+  "images/books/Circles_in_the_park/image_3.jpg": {
+    "md5Checksum": "e374255b17cdbc1290c016740b27665d",
+    "size_kb": 266.3
+  },
+  "images/books/Circles_in_the_park/image_4.jpg": {
+    "md5Checksum": "5aa91f805c0f6f2daa44b934232df4be",
+    "size_kb": 277
+  },
+  "images/books/Circles_in_the_park/image_5.jpg": {
+    "md5Checksum": "d0a90f96ca022e305056a12d1109dcce",
+    "size_kb": 338.6
+  },
+  "images/books/Circles_in_the_park/image_6.jpg": {
+    "md5Checksum": "ad702e8a459be8650a80605b364e28a3",
+    "size_kb": 290.5
+  },
+  "images/books/Circles_in_the_park/image_7.jpg": {
+    "md5Checksum": "f32fb4c5e6848132706a2910c6782a42",
+    "size_kb": 25.6
+  },
+  "images/books/Colours/image_1.jpg": {
+    "md5Checksum": "c5f4f9791d0b5da3a3d731f85506c942",
+    "size_kb": 51.5
+  },
+  "images/books/Colours/image_10.jpg": {
+    "md5Checksum": "88c73fe1195084c3c71b802e319e6e08",
+    "size_kb": 283.9
+  },
+  "images/books/Colours/image_11.jpg": {
+    "md5Checksum": "d07232b0f2e9b3616ad8d11a35a8da7e",
+    "size_kb": 80.2
+  },
+  "images/books/Colours/image_12.jpg": {
+    "md5Checksum": "872c8e0e94137137e2f8c4f1d7ac88fd",
+    "size_kb": 217.5
+  },
+  "images/books/Colours/image_13.jpg": {
+    "md5Checksum": "b8469477cb6222da8a948895e094d457",
+    "size_kb": 103.7
+  },
+  "images/books/Colours/image_14.jpg": {
+    "md5Checksum": "524a3ed6f63c7e4cba2438fde65720be",
+    "size_kb": 71.2
+  },
+  "images/books/Colours/image_15.jpg": {
+    "md5Checksum": "a3a6ad3ba66b2b1dc9771e3671671dfa",
+    "size_kb": 44.3
+  },
+  "images/books/Colours/image_16.jpg": {
+    "md5Checksum": "9643968c86b16e43eb0919f15d952593",
+    "size_kb": 51
+  },
+  "images/books/Colours/image_17.jpg": {
+    "md5Checksum": "ccce6fad7091fbec82e06de39c37dd29",
+    "size_kb": 66.5
+  },
+  "images/books/Colours/image_18.jpg": {
+    "md5Checksum": "7624373e3bbc426c058ef57591f66326",
+    "size_kb": 51.8
+  },
+  "images/books/Colours/image_19.jpg": {
+    "md5Checksum": "f58af2724ceb2d5ec9363e76fc3090ad",
+    "size_kb": 60.6
+  },
+  "images/books/Colours/image_2.jpg": {
+    "md5Checksum": "9885a44108e4793aba5c5c241f93a386",
+    "size_kb": 154.9
+  },
+  "images/books/Colours/image_20.jpg": {
+    "md5Checksum": "5e288195c5361d105d03663f90880f41",
+    "size_kb": 30.4
+  },
+  "images/books/Colours/image_3.jpg": {
+    "md5Checksum": "65f146c36b11e086f723dd668e74ac5d",
+    "size_kb": 53.9
+  },
+  "images/books/Colours/image_4.jpg": {
+    "md5Checksum": "b66fd6aa5ff630ae95992e61b93e810c",
+    "size_kb": 115.8
+  },
+  "images/books/Colours/image_5.jpg": {
+    "md5Checksum": "6e2e84959390a51b031bbf16d2026d22",
+    "size_kb": 71.3
+  },
+  "images/books/Colours/image_6.jpg": {
+    "md5Checksum": "6741344993ab0507bf5c2e6464c9de84",
+    "size_kb": 69.3
+  },
+  "images/books/Colours/image_7.jpg": {
+    "md5Checksum": "8b5e8e870feee5835cf896c92fee3822",
+    "size_kb": 76
+  },
+  "images/books/Colours/image_8.jpg": {
+    "md5Checksum": "80dc05443cb46e392a950fcca4060223",
+    "size_kb": 101.9
+  },
+  "images/books/Colours/image_9.jpg": {
+    "md5Checksum": "d0a5c1c31ff61c832a68d4df579d2b91",
+    "size_kb": 83.9
+  },
+  "images/books/Paint_day_plant_day/image_1.jpg": {
+    "md5Checksum": "ddb56f0518605461e2a73872847701de",
+    "size_kb": 543.9
+  },
+  "images/books/Paint_day_plant_day/image_10.jpg": {
+    "md5Checksum": "267726339ea91b53cf3926e3754cdaf4",
+    "size_kb": 803.3
+  },
+  "images/books/Paint_day_plant_day/image_11.jpg": {
+    "md5Checksum": "628bdfd942b67e3df203606efafdfbc1",
+    "size_kb": 260.8
+  },
+  "images/books/Paint_day_plant_day/image_12.jpg": {
+    "md5Checksum": "23a7161c38b1fd059e18500fe0864c84",
+    "size_kb": 172.7
+  },
+  "images/books/Paint_day_plant_day/image_2.jpg": {
+    "md5Checksum": "a28bbb7e48542d223f5501363ca00c4a",
+    "size_kb": 451.1
+  },
+  "images/books/Paint_day_plant_day/image_3.jpg": {
+    "md5Checksum": "67d1de85233e86654bf1cdc96477fdd1",
+    "size_kb": 431.1
+  },
+  "images/books/Paint_day_plant_day/image_4.jpg": {
+    "md5Checksum": "544279d442bd29b8f138ef31569bffc0",
+    "size_kb": 835.2
+  },
+  "images/books/Paint_day_plant_day/image_5.jpg": {
+    "md5Checksum": "00e335c9c0edd7b80229304d95e9f6b7",
+    "size_kb": 484.1
+  },
+  "images/books/Paint_day_plant_day/image_6.jpg": {
+    "md5Checksum": "5184abebe89ebcb1db566e71c15d728e",
+    "size_kb": 335.7
+  },
+  "images/books/Paint_day_plant_day/image_7.jpg": {
+    "md5Checksum": "c64bc023e10591db082bfa083a4c8654",
+    "size_kb": 478.1
+  },
+  "images/books/Paint_day_plant_day/image_8.jpg": {
+    "md5Checksum": "55f3e6e97e683d9934532afe053456a7",
+    "size_kb": 546.3
+  },
+  "images/books/Paint_day_plant_day/image_9.jpg": {
+    "md5Checksum": "91df64a707ab55aa8c911227751498db",
+    "size_kb": 350.4
+  },
+  "images/books/When_I_grow_up/image_1.jpg": {
+    "md5Checksum": "3d4ee6e85493fb228a795d58bbdf69fc",
+    "size_kb": 841.5
+  },
+  "images/books/When_I_grow_up/image_10.jpg": {
+    "md5Checksum": "7da8709ee9ddba9ada161b10c62b9029",
+    "size_kb": 1264.4
+  },
+  "images/books/When_I_grow_up/image_11.jpg": {
+    "md5Checksum": "619de4ed233e59517a8818518de5f09b",
+    "size_kb": 927.1
+  },
+  "images/books/When_I_grow_up/image_12.jpg": {
+    "md5Checksum": "0e90457bc37b034bf626c1559dd27a6c",
+    "size_kb": 903
+  },
+  "images/books/When_I_grow_up/image_13.jpg": {
+    "md5Checksum": "a7c4e4f031470bd39155425006115a34",
+    "size_kb": 1107.6
+  },
+  "images/books/When_I_grow_up/image_14.jpg": {
+    "md5Checksum": "148ad93460584961e6b280b720fc9147",
+    "size_kb": 909.6
+  },
+  "images/books/When_I_grow_up/image_15.jpg": {
+    "md5Checksum": "488b74c2c31b36a8d300e3ab52823403",
+    "size_kb": 1084.1
+  },
+  "images/books/When_I_grow_up/image_16.jpg": {
+    "md5Checksum": "e80c7e9ce542bfc02445448aeb76b148",
+    "size_kb": 851
+  },
+  "images/books/When_I_grow_up/image_17.jpg": {
+    "md5Checksum": "cee5d4186886cdc8f5589fd15079a149",
+    "size_kb": 889.4
+  },
+  "images/books/When_I_grow_up/image_18.jpg": {
+    "md5Checksum": "b10aed76a5cc886b65c446b2a1bb349c",
+    "size_kb": 1086
+  },
+  "images/books/When_I_grow_up/image_19.jpg": {
+    "md5Checksum": "3ca39ee87a5398cd0b3f74dc8eb3a6bc",
+    "size_kb": 1166.7
+  },
+  "images/books/When_I_grow_up/image_2.jpg": {
+    "md5Checksum": "8a32dbfe7fa9edf75e967f4d03cc5c1a",
+    "size_kb": 1104
+  },
+  "images/books/When_I_grow_up/image_20.jpg": {
+    "md5Checksum": "8c88403c2175e1d7a5b561698fc20391",
+    "size_kb": 927.3
+  },
+  "images/books/When_I_grow_up/image_21.jpg": {
+    "md5Checksum": "ace4e41cd9ad94d6ac4679062717ff87",
+    "size_kb": 997.4
+  },
+  "images/books/When_I_grow_up/image_22.jpg": {
+    "md5Checksum": "d467938cabaef7bb23812794c7677fcb",
+    "size_kb": 899.7
+  },
+  "images/books/When_I_grow_up/image_23.jpg": {
+    "md5Checksum": "58dadfb9773e15f9429ad09d85d896c5",
+    "size_kb": 1294.3
+  },
+  "images/books/When_I_grow_up/image_24.jpg": {
+    "md5Checksum": "119a6c0c2a78eae25c47cef87122ff50",
+    "size_kb": 1289.9
+  },
+  "images/books/When_I_grow_up/image_25.jpg": {
+    "md5Checksum": "c1fafd059159f98a67c8288b754682b1",
+    "size_kb": 236.6
+  },
+  "images/books/When_I_grow_up/image_26.jpg": {
+    "md5Checksum": "97e82b949ce93117e86aca4a52253a2f",
+    "size_kb": 321.6
+  },
+  "images/books/When_I_grow_up/image_3.jpg": {
+    "md5Checksum": "20c06df1aaf5057480f810be0cb757ce",
+    "size_kb": 899.7
+  },
+  "images/books/When_I_grow_up/image_4.jpg": {
+    "md5Checksum": "0fd6ccd52407ab8a100285e73fcdc5f0",
+    "size_kb": 935.4
+  },
+  "images/books/When_I_grow_up/image_5.jpg": {
+    "md5Checksum": "225b3e1947b66eb5e8c3b2583f0f9e12",
+    "size_kb": 892.6
+  },
+  "images/books/When_I_grow_up/image_6.jpg": {
+    "md5Checksum": "477f2b9a271b1e6aa1958f1ed49cb1cd",
+    "size_kb": 1185.6
+  },
+  "images/books/When_I_grow_up/image_7.jpg": {
+    "md5Checksum": "b5682ad6f00db1eabee19cd86fc5d983",
+    "size_kb": 913.7
+  },
+  "images/books/When_I_grow_up/image_8.jpg": {
+    "md5Checksum": "a7e9867f45dfeea51c528eb1592aed63",
+    "size_kb": 1016.5
+  },
+  "images/books/When_I_grow_up/image_9.jpg": {
+    "md5Checksum": "f8a31e41afd7c9ea618953ed16d784d9",
+    "size_kb": 1036.5
+  },
+  "images/books/Why_is_Nita_upside_down/image_1.jpg": {
+    "md5Checksum": "ca1e58d312db2392b3d4d3d44fad36ff",
+    "size_kb": 66.9
+  },
+  "images/books/Why_is_Nita_upside_down/image_10.jpg": {
+    "md5Checksum": "bebca0cafc972c4d153bd3dc5e2345a0",
+    "size_kb": 45.5
+  },
+  "images/books/Why_is_Nita_upside_down/image_11.jpg": {
+    "md5Checksum": "aeff8f7bbb67dbe4c9e11de935a01349",
+    "size_kb": 40.8
+  },
+  "images/books/Why_is_Nita_upside_down/image_12.jpg": {
+    "md5Checksum": "dd9ce45fd50965778fffb16672d500ac",
+    "size_kb": 106.9
+  },
+  "images/books/Why_is_Nita_upside_down/image_13.jpg": {
+    "md5Checksum": "525f46ad9e6f2e16fa7d0f2a0fccf409",
+    "size_kb": 54.7
+  },
+  "images/books/Why_is_Nita_upside_down/image_14.jpg": {
+    "md5Checksum": "1303d407c72413eb6e9631758d685d44",
+    "size_kb": 62.5
+  },
+  "images/books/Why_is_Nita_upside_down/image_15.jpg": {
+    "md5Checksum": "0cd28699634b68d3628add1167621b3f",
+    "size_kb": 64.3
+  },
+  "images/books/Why_is_Nita_upside_down/image_16.jpg": {
+    "md5Checksum": "e9b93e3592cd31c61a439addcdcbc871",
+    "size_kb": 78.2
+  },
+  "images/books/Why_is_Nita_upside_down/image_2.jpg": {
+    "md5Checksum": "860d6bc310ba28115a7dd31ff56d743f",
+    "size_kb": 52.5
+  },
+  "images/books/Why_is_Nita_upside_down/image_3.jpg": {
+    "md5Checksum": "747c7724c579cfb685fcfaa40c7ff861",
+    "size_kb": 49.9
+  },
+  "images/books/Why_is_Nita_upside_down/image_4.jpg": {
+    "md5Checksum": "506ac8ccda835687a2937b57d4b41627",
+    "size_kb": 62.7
+  },
+  "images/books/Why_is_Nita_upside_down/image_5.jpg": {
+    "md5Checksum": "d135c19c9556388112f9fdf07473ead6",
+    "size_kb": 42
+  },
+  "images/books/Why_is_Nita_upside_down/image_6.jpg": {
+    "md5Checksum": "701e0d199957b33f6376283ac1e1522a",
+    "size_kb": 114.8
+  },
+  "images/books/Why_is_Nita_upside_down/image_7.jpg": {
+    "md5Checksum": "5e7bb6a17cf5a306d94e402df2ee73e4",
+    "size_kb": 51.7
+  },
+  "images/books/Why_is_Nita_upside_down/image_8.jpg": {
+    "md5Checksum": "3121da65dda6e4db1abe553309a8883d",
+    "size_kb": 57.3
+  },
+  "images/books/Why_is_Nita_upside_down/image_9.jpg": {
+    "md5Checksum": "d72b7ecbd55689023130bee2d72546df",
+    "size_kb": 24.5
+  },
+  "images/books/Yellow_earth_brown_earth/image_1.jpg": {
+    "md5Checksum": "ddc72e6c732871ba47d55be69c9da75d",
+    "size_kb": 481.3
+  },
+  "images/books/Yellow_earth_brown_earth/image_10.jpg": {
+    "md5Checksum": "3f09c244d7ae08618948ff733db4678e",
+    "size_kb": 633.9
+  },
+  "images/books/Yellow_earth_brown_earth/image_11.jpg": {
+    "md5Checksum": "50789f9fd50dfbb86d8ee32876491d69",
+    "size_kb": 763.5
+  },
+  "images/books/Yellow_earth_brown_earth/image_2.jpg": {
+    "md5Checksum": "4e8e2c32b33f54c6e2d5f588b716dbe3",
+    "size_kb": 1365.7
+  },
+  "images/books/Yellow_earth_brown_earth/image_3.jpg": {
+    "md5Checksum": "532dabf7cdd2947cde0381ffe1c8e47d",
+    "size_kb": 409.9
+  },
+  "images/books/Yellow_earth_brown_earth/image_4.jpg": {
+    "md5Checksum": "adc0f4834f60a06e659b8f559d2ae5b0",
+    "size_kb": 173.4
+  },
+  "images/books/Yellow_earth_brown_earth/image_5.jpg": {
+    "md5Checksum": "c4ba5674b2329dc5ccbc1fb007f3e450",
+    "size_kb": 883.1
+  },
+  "images/books/Yellow_earth_brown_earth/image_6.jpg": {
+    "md5Checksum": "62cdec2ea32372b71ee70dbe9b76fc63",
+    "size_kb": 753.4
+  },
+  "images/books/Yellow_earth_brown_earth/image_7.jpg": {
+    "md5Checksum": "ab8489bcec1f509d30d8f1f1a7552adb",
+    "size_kb": 585
+  },
+  "images/books/Yellow_earth_brown_earth/image_8.jpg": {
+    "md5Checksum": "1f36588e72ceb03ee1ea91244d57a141",
+    "size_kb": 1093.7
+  },
+  "images/books/Yellow_earth_brown_earth/image_9.jpg": {
+    "md5Checksum": "8a97741cadece0e8465e69525a313c9c",
+    "size_kb": 1213.1
   },
   "images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page.jpg": {
     "md5Checksum": "920c77e3715640fc87eb1cd07a549845",
@@ -1331,6 +1699,150 @@
     "md5Checksum": "fce235d889428faacbb1003d867353ef",
     "size_kb": 3174.7
   },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180618_cover.jpg": {
+    "md5Checksum": "a48bca6885d996cc8a86eaa986d0fe49",
+    "size_kb": 339.9
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page1.jpg": {
+    "md5Checksum": "132a5545044193576d09b729bf1aa311",
+    "size_kb": 59.8
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page10.jpg": {
+    "md5Checksum": "28704acef5b867c8368b894137cb75b1",
+    "size_kb": 360.2
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page11.jpg": {
+    "md5Checksum": "3e25dacc66d73d1dcc0433de82ec566e",
+    "size_kb": 369.7
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page12.jpg": {
+    "md5Checksum": "cd70c9556afdd6f242a2103dd0c176fb",
+    "size_kb": 346.9
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page13.jpg": {
+    "md5Checksum": "652eeb386056462a0c849cdb711af13c",
+    "size_kb": 488.9
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page14.jpg": {
+    "md5Checksum": "677d3bffdc1540b95ef5683021aa3d1f",
+    "size_kb": 674.5
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page15.jpg": {
+    "md5Checksum": "632540604a00271325bae5eb97eff9a2",
+    "size_kb": 711.7
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page16.jpg": {
+    "md5Checksum": "be2bc0d4a52dba839ce22486b17663b1",
+    "size_kb": 385.3
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page17.jpg": {
+    "md5Checksum": "cf1b379b2b4116036e0d34a0f838c7ff",
+    "size_kb": 73.3
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page2.jpg": {
+    "md5Checksum": "fbd34ef02d606ae22c59457c35656299",
+    "size_kb": 385.4
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page3.jpg": {
+    "md5Checksum": "2122c9827a20f6ef002079f06355ddb0",
+    "size_kb": 351.5
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page4.jpg": {
+    "md5Checksum": "f6f8a6a54f2d1faa8bf74bc1868914fa",
+    "size_kb": 570.5
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page5.jpg": {
+    "md5Checksum": "00cd52fd83f74e8bda645362f2e5960c",
+    "size_kb": 572.2
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page6.jpg": {
+    "md5Checksum": "bf56910d28b22a097ffe7f6e3bcfd14c",
+    "size_kb": 402
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page7.jpg": {
+    "md5Checksum": "32e2019f472def3f38ff1abdcde99c7c",
+    "size_kb": 264.2
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page8.jpg": {
+    "md5Checksum": "0932e14ec0472ab99c13fe5da0cb341d",
+    "size_kb": 279.5
+  },
+  "images/books/grandpa_farouks_garden/grandpa-farouks-garden_20180705_page9.jpg": {
+    "md5Checksum": "bfc9643628178a5cb6145a789c3aed39",
+    "size_kb": 318.1
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_cover.jpg": {
+    "md5Checksum": "31075cbe531e734ab0af6c6c79dd23eb",
+    "size_kb": 1800.5
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page1.jpg": {
+    "md5Checksum": "e6a7292d44243bdc0a6d18169b53ec1e",
+    "size_kb": 725.1
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page10.jpg": {
+    "md5Checksum": "3e91a246b8e4d791c8a5d6e95a30a394",
+    "size_kb": 3946.4
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page11.jpg": {
+    "md5Checksum": "8abf126c606d017893f31cb63818ee8e",
+    "size_kb": 4796.6
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page12.jpg": {
+    "md5Checksum": "cc7431c3d6b39824d767d8e971f7c4c8",
+    "size_kb": 3460
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page13.jpg": {
+    "md5Checksum": "342326f6e9020b2a888e3f52603f0432",
+    "size_kb": 4126.5
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page14.jpg": {
+    "md5Checksum": "742847b5c268a5bd9d1aa9c45ee63794",
+    "size_kb": 3877.2
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page15.jpg": {
+    "md5Checksum": "a4f7c3227603ff26081a18f43a4849f5",
+    "size_kb": 2825.2
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page16.jpg": {
+    "md5Checksum": "d794eae006b558ef51ddcacc43c60745",
+    "size_kb": 5134.9
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page17.jpg": {
+    "md5Checksum": "b4f022c7d99a26ea839b5bd87134a9da",
+    "size_kb": 456.8
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page2.jpg": {
+    "md5Checksum": "d794eae006b558ef51ddcacc43c60745",
+    "size_kb": 5134.9
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page3.jpg": {
+    "md5Checksum": "85ceca6a8c5c289279472691a948a114",
+    "size_kb": 1802.5
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page4.jpg": {
+    "md5Checksum": "e7dcf23d8bf6c6372069ac1072570f66",
+    "size_kb": 3155.4
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page5.jpg": {
+    "md5Checksum": "d283272ab56b3734003184d9fdb90702",
+    "size_kb": 2823.5
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page6.jpg": {
+    "md5Checksum": "caaf738f87407f6de917053f6430b7b7",
+    "size_kb": 3413.7
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page7.jpg": {
+    "md5Checksum": "7971114f56e0c73dd62c2844b61d4adf",
+    "size_kb": 3426.1
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page8.jpg": {
+    "md5Checksum": "59f32f53aa38f195a23a8ca48382b78f",
+    "size_kb": 4612.8
+  },
+  "images/books/how_do_you_sleep/how-do-you-sleep_20220520_page9.jpg": {
+    "md5Checksum": "a66abccdc13e898c4b484ee492280df0",
+    "size_kb": 5235.7
+  },
   "images/books/how_do_you_want_your_eggs/cover.jpg": {
     "md5Checksum": "f1561431463edba9eadeb29250c8e50b",
     "size_kb": 985.8
@@ -1474,98 +1986,6 @@
   "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg": {
     "md5Checksum": "74a2e4042f4c3ef507d0cba8a4cb0eef",
     "size_kb": 1895.9
-  },
-  "images/books/i_like_to_read/image_1.jpg": {
-    "md5Checksum": "e3d887c98880309812e8e12f00a2fe90",
-    "size_kb": 58.5
-  },
-  "images/books/i_like_to_read/image_2.jpg": {
-    "md5Checksum": "b04b982196bcee487cefdcb2787ec2d7",
-    "size_kb": 74.7
-  },
-  "images/books/i_like_to_read/image_3.jpg": {
-    "md5Checksum": "7d2a2ce250813755271c09c001a3130c",
-    "size_kb": 82.3
-  },
-  "images/books/i_like_to_read/image_4.jpg": {
-    "md5Checksum": "ee93f600bfa55fdc3227a0b3f2b4e209",
-    "size_kb": 86
-  },
-  "images/books/i_like_to_read/image_5.jpg": {
-    "md5Checksum": "5b9df871098191c708f4ae41a7f99b09",
-    "size_kb": 62.9
-  },
-  "images/books/i_like_to_read/image_6.jpg": {
-    "md5Checksum": "4a8e3126a73852cda7ccde5a2d89718f",
-    "size_kb": 92.5
-  },
-  "images/books/i_like_to_read/image_7.jpg": {
-    "md5Checksum": "d275c4f56d59753cd41b822b2a9037dd",
-    "size_kb": 70.2
-  },
-  "images/books/i_like_to_read/image_8.jpg": {
-    "md5Checksum": "6b3e751ee76ea389e81fa9ec9fe3fe4e",
-    "size_kb": 79.1
-  },
-  "images/books/i_like_to_read/image_9.jpg": {
-    "md5Checksum": "ae706048e59c1d8107fdef2a409c9367",
-    "size_kb": 62.1
-  },
-  "images/books/it_wasnt_me/image_1.jpg": {
-    "md5Checksum": "ba5f7f5776db9f53fb315ce29b8c7b73",
-    "size_kb": 56.8
-  },
-  "images/books/it_wasnt_me/image_10.jpg": {
-    "md5Checksum": "d4f07955dc00722f6e349e2e14208e47",
-    "size_kb": 66.8
-  },
-  "images/books/it_wasnt_me/image_11.jpg": {
-    "md5Checksum": "d8a9fd382ec3042370d2c24bc41f9111",
-    "size_kb": 67.9
-  },
-  "images/books/it_wasnt_me/image_12.jpg": {
-    "md5Checksum": "b38bf166b4c4730f651bfa36a18d1f28",
-    "size_kb": 104.2
-  },
-  "images/books/it_wasnt_me/image_13.jpg": {
-    "md5Checksum": "23abaad764312a8168560291141c3e48",
-    "size_kb": 120.1
-  },
-  "images/books/it_wasnt_me/image_14.jpg": {
-    "md5Checksum": "0eb2c98caa9fedec4f572ef024103fa9",
-    "size_kb": 17.5
-  },
-  "images/books/it_wasnt_me/image_2.jpg": {
-    "md5Checksum": "d31c2ab74db8f9f7fdd00d358b0ce8f5",
-    "size_kb": 106.1
-  },
-  "images/books/it_wasnt_me/image_3.jpg": {
-    "md5Checksum": "d13a88856705acdb26699c5ae84a8d37",
-    "size_kb": 111.3
-  },
-  "images/books/it_wasnt_me/image_4.jpg": {
-    "md5Checksum": "1e22b29e97299a7b0dc82421f2225eca",
-    "size_kb": 52.9
-  },
-  "images/books/it_wasnt_me/image_5.jpg": {
-    "md5Checksum": "f0bd54aba32a2b562afc7dde0d77108b",
-    "size_kb": 67.6
-  },
-  "images/books/it_wasnt_me/image_6.jpg": {
-    "md5Checksum": "a66f6bb3643e380490cb78cfb9b2c812",
-    "size_kb": 62
-  },
-  "images/books/it_wasnt_me/image_7.jpg": {
-    "md5Checksum": "2e8f66a43fe252f5a5fce5d5e5f82a5c",
-    "size_kb": 39.3
-  },
-  "images/books/it_wasnt_me/image_8.jpg": {
-    "md5Checksum": "97009a3001169f7c870979f68f03c59b",
-    "size_kb": 86.1
-  },
-  "images/books/it_wasnt_me/image_9.jpg": {
-    "md5Checksum": "a0babf12ecc04f90ccda59602b63084b",
-    "size_kb": 62
   },
   "images/books/jasu_loves_football/image_1.jpg": {
     "md5Checksum": "81dc788005f79be72c4abde9650c8d8f",
@@ -1839,61 +2259,77 @@
     "md5Checksum": "7994d52c5fbd60d0ae7f33d161e1534f",
     "size_kb": 4296.8
   },
-  "images/books/little_monkey_s_lost_bananas/image_1.jpg": {
-    "md5Checksum": "8c5b713c3eb242c5e0d8145162ad9c46",
-    "size_kb": 204.5
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_cover.jpg": {
+    "md5Checksum": "017b09cdca2fa1ffced8db704d8869f2",
+    "size_kb": 3441.4
   },
-  "images/books/little_monkey_s_lost_bananas/image_10.jpg": {
-    "md5Checksum": "564953932ac790b515a5efbff6692aca",
-    "size_kb": 131.4
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page1.jpg": {
+    "md5Checksum": "45600370e4e5fc78cca17423583f10d9",
+    "size_kb": 1963
   },
-  "images/books/little_monkey_s_lost_bananas/image_11.jpg": {
-    "md5Checksum": "1bbbe53ca4e479b41093b2d25e8bd2a2",
-    "size_kb": 129.8
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page10.jpg": {
+    "md5Checksum": "f7d3672bdc40d964d6c5ec30dbadbab1",
+    "size_kb": 5753.1
   },
-  "images/books/little_monkey_s_lost_bananas/image_12.jpg": {
-    "md5Checksum": "57059a6a4541b627ae2dec3d5ce5eeb7",
-    "size_kb": 153.9
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page11.jpg": {
+    "md5Checksum": "eeea721dc8eb3efb33f434be8ad046cf",
+    "size_kb": 9421
   },
-  "images/books/little_monkey_s_lost_bananas/image_13.jpg": {
-    "md5Checksum": "656328f532aa1132cbb1fef1a01f54ad",
-    "size_kb": 229.6
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page12.jpg": {
+    "md5Checksum": "532af0ec49e36b9365e53951c3753fac",
+    "size_kb": 5431.3
   },
-  "images/books/little_monkey_s_lost_bananas/image_14.jpg": {
-    "md5Checksum": "3ced9280ca2394c91313d5d2ad21f5d0",
-    "size_kb": 197.7
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page13.jpg": {
+    "md5Checksum": "70eceae60a1b4487c7aeae9a6b3c8b30",
+    "size_kb": 6006.2
   },
-  "images/books/little_monkey_s_lost_bananas/image_2.jpg": {
-    "md5Checksum": "30e8a6abaf282270276c907104af8477",
-    "size_kb": 139.8
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page14.jpg": {
+    "md5Checksum": "f9989e8404d3a3e1dbc5d430a31f8c68",
+    "size_kb": 8556.3
   },
-  "images/books/little_monkey_s_lost_bananas/image_3.jpg": {
-    "md5Checksum": "42e3434dee3c027927f2a2d067af9374",
-    "size_kb": 181.1
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page15.jpg": {
+    "md5Checksum": "1328d052e33b3a172cc492f52092a729",
+    "size_kb": 5646.7
   },
-  "images/books/little_monkey_s_lost_bananas/image_4.jpg": {
-    "md5Checksum": "9ff90cac714e686a7d61800eadc18214",
-    "size_kb": 162.4
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page16.jpg": {
+    "md5Checksum": "43cc5070430a9ba020df86257931ccd5",
+    "size_kb": 5140.1
   },
-  "images/books/little_monkey_s_lost_bananas/image_5.jpg": {
-    "md5Checksum": "282a29c99e45f057650e48e42e80a630",
-    "size_kb": 161.6
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page17.jpg": {
+    "md5Checksum": "3b9e6d18f09b01a5533e1c567ec3ab3b",
+    "size_kb": 2253.9
   },
-  "images/books/little_monkey_s_lost_bananas/image_6.jpg": {
-    "md5Checksum": "4f1504111bb59d403fe9b16ad82d1877",
-    "size_kb": 141.6
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page2.jpg": {
+    "md5Checksum": "2010022cecfabe755398af4958466948",
+    "size_kb": 5510.2
   },
-  "images/books/little_monkey_s_lost_bananas/image_7.jpg": {
-    "md5Checksum": "09529b846d765f1ccce61a74d9538d10",
-    "size_kb": 213.2
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page3.jpg": {
+    "md5Checksum": "332f11705dfb181e8c8b83e80e5ca366",
+    "size_kb": 3164.8
   },
-  "images/books/little_monkey_s_lost_bananas/image_8.jpg": {
-    "md5Checksum": "4c52f67fea9370d3848b64e722f4d085",
-    "size_kb": 144.5
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page4.jpg": {
+    "md5Checksum": "c21f3c431392989c1ee0477153f18dd8",
+    "size_kb": 9202.2
   },
-  "images/books/little_monkey_s_lost_bananas/image_9.jpg": {
-    "md5Checksum": "e198257e23a1780ba8307277083b5903",
-    "size_kb": 159.1
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page5.jpg": {
+    "md5Checksum": "e51877069b46d1afbddc042c146c237c",
+    "size_kb": 7942.5
+  },
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page6.jpg": {
+    "md5Checksum": "db7ae901837d234ee9b86525076a23e7",
+    "size_kb": 5829.6
+  },
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page7.jpg": {
+    "md5Checksum": "b00df2fd1394c26094c6c072dd8c6fe0",
+    "size_kb": 5727.5
+  },
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page8.jpg": {
+    "md5Checksum": "4c4bb721cbc6e5de51ab42d765473321",
+    "size_kb": 8361
+  },
+  "images/books/lets_go_on_a_litter_hunt/lets-go-on-a-litter-hunt_20231101_page9.jpg": {
+    "md5Checksum": "c6839b22160d2d35eda5251f44181dfc",
+    "size_kb": 5518.9
   },
   "images/books/little_shoots/cover.jpg": {
     "md5Checksum": "e94b360a27d9b791842c226bceb780db",
@@ -2039,53 +2475,149 @@
     "md5Checksum": "f7cd56e04bae649fad16089a2cbd3764",
     "size_kb": 1782.7
   },
-  "images/books/ma_hurry_up/image_1.jpg": {
-    "md5Checksum": "8d92485fdd5bb28746a8b4d3d2339cc0",
-    "size_kb": 176
+  "images/books/lost_toy/cover.jpg": {
+    "md5Checksum": "719d872f3513efc51149653c4ccce81b",
+    "size_kb": 1027
   },
-  "images/books/ma_hurry_up/image_10.jpg": {
-    "md5Checksum": "bf82390d9ff9224e618f143cd2cc2627",
-    "size_kb": 150.8
+  "images/books/lost_toy/lost-toy_interior_20201105_page10.jpg": {
+    "md5Checksum": "f4553a9f7460a00ffef55fbb5d7c1453",
+    "size_kb": 3474.5
   },
-  "images/books/ma_hurry_up/image_11.jpg": {
-    "md5Checksum": "66c28b1eb254f465b9f1bd70ee0274eb",
-    "size_kb": 192.8
+  "images/books/lost_toy/lost-toy_interior_20201105_page11.jpg": {
+    "md5Checksum": "e97dad6c2fd96feb166f25c0e8d411c4",
+    "size_kb": 2785
   },
-  "images/books/ma_hurry_up/image_12.jpg": {
-    "md5Checksum": "f8adbbf0aee00a9a7d285cbf7391e39c",
-    "size_kb": 135.3
+  "images/books/lost_toy/lost-toy_interior_20201105_page12.jpg": {
+    "md5Checksum": "25cbf10f489baef6b81caa2f9112de7a",
+    "size_kb": 1699.9
   },
-  "images/books/ma_hurry_up/image_2.jpg": {
-    "md5Checksum": "0b9b36643c8b807b12177e728ff32c85",
-    "size_kb": 154
+  "images/books/lost_toy/lost-toy_interior_20201105_page13.jpg": {
+    "md5Checksum": "87e424d1f07a6c70d8a7dcbc4ca08bc3",
+    "size_kb": 2172.7
   },
-  "images/books/ma_hurry_up/image_3.jpg": {
-    "md5Checksum": "0ce4be0e9c233bce4fe70102ea4ef2d8",
-    "size_kb": 175.4
+  "images/books/lost_toy/lost-toy_interior_20201105_page14.jpg": {
+    "md5Checksum": "fdbb3f3a9aff5f36d752b263821e9d83",
+    "size_kb": 2881.3
   },
-  "images/books/ma_hurry_up/image_4.jpg": {
-    "md5Checksum": "59b8ceace3d3def69699411b5535893d",
-    "size_kb": 183.5
+  "images/books/lost_toy/lost-toy_interior_20201105_page15.jpg": {
+    "md5Checksum": "eb975a7b464a7af889d2ebed6ffb4c6f",
+    "size_kb": 1857.5
   },
-  "images/books/ma_hurry_up/image_5.jpg": {
-    "md5Checksum": "b7bda67844d9ecd8fbf80c83ac7f8a9c",
-    "size_kb": 170.3
+  "images/books/lost_toy/lost-toy_interior_20201105_page16.jpg": {
+    "md5Checksum": "d75b92617e7f2cf6db88c80c80c68e4f",
+    "size_kb": 2394
   },
-  "images/books/ma_hurry_up/image_6.jpg": {
-    "md5Checksum": "e19acf2d9a01961fcbe2e8a712206c0d",
-    "size_kb": 171.6
+  "images/books/lost_toy/lost-toy_interior_20201105_page17.jpg": {
+    "md5Checksum": "51a9893e5166d3c89a2b555c5b4b67ed",
+    "size_kb": 606.7
   },
-  "images/books/ma_hurry_up/image_7.jpg": {
-    "md5Checksum": "d65860046be30f91f0af56218612bfca",
-    "size_kb": 145.8
+  "images/books/lost_toy/lost-toy_interior_20201105_page2.jpg": {
+    "md5Checksum": "c21395b605389298020d7eaaa598b52f",
+    "size_kb": 2401.4
   },
-  "images/books/ma_hurry_up/image_8.jpg": {
-    "md5Checksum": "5db0fbd86199a624cafeeb83133b2ab9",
-    "size_kb": 160.5
+  "images/books/lost_toy/lost-toy_interior_20201105_page3.jpg": {
+    "md5Checksum": "b92f81313ebd2aa7ded54f4965a72390",
+    "size_kb": 1249.3
   },
-  "images/books/ma_hurry_up/image_9.jpg": {
-    "md5Checksum": "0f53e525125f6a94fc6f244e63b69d91",
-    "size_kb": 173.6
+  "images/books/lost_toy/lost-toy_interior_20201105_page5.jpg": {
+    "md5Checksum": "0f50e0b9b98e9531c89b857f3071b7d2",
+    "size_kb": 3511.5
+  },
+  "images/books/lost_toy/lost-toy_interior_20201105_page6.jpg": {
+    "md5Checksum": "141de6b51a02be92d16c9f600e9e4c62",
+    "size_kb": 4102.1
+  },
+  "images/books/lost_toy/lost-toy_interior_20201105_page7.jpg": {
+    "md5Checksum": "1da653e4331f074be5301aa84debee43",
+    "size_kb": 3168.2
+  },
+  "images/books/lost_toy/lost-toy_interior_20201105_page8.jpg": {
+    "md5Checksum": "b852de25a3dd0de8a491e2e15a7e1349",
+    "size_kb": 3262.7
+  },
+  "images/books/lost_toy/lost-toy_interior_20201105_page9.jpg": {
+    "md5Checksum": "eff63387456676809ee4a1f918bbaba0",
+    "size_kb": 4388
+  },
+  "images/books/lost_toy/page1.jpg": {
+    "md5Checksum": "2ec4d88fceecb033de875199bd4550e5",
+    "size_kb": 532.6
+  },
+  "images/books/lost_toy/page4.jpg": {
+    "md5Checksum": "279c2df542d7ee3c54e00fd2a0283931",
+    "size_kb": 4702.2
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_cover_20210929.jpg": {
+    "md5Checksum": "d7b8b54c98ab63b5a17dd1a1107bcb44",
+    "size_kb": 2725.4
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page1.jpg": {
+    "md5Checksum": "f6911eee6d0e666adf35e17aea70a24b",
+    "size_kb": 527
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page10.jpg": {
+    "md5Checksum": "9cfb63398334823c203aa7b98fd9113b",
+    "size_kb": 2325.1
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page11.jpg": {
+    "md5Checksum": "e904c20fd50cfe1d90ad49cdd351c727",
+    "size_kb": 2019.8
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page12.jpg": {
+    "md5Checksum": "3ae1b6da2523f150be4b48fa343dbf89",
+    "size_kb": 2692.7
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page13.jpg": {
+    "md5Checksum": "ba93d56cbd414d5b24b6d001b9bf56b9",
+    "size_kb": 1644.9
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page14.jpg": {
+    "md5Checksum": "e106b256f84184766c0c671fea4571f3",
+    "size_kb": 3305
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page15.jpg": {
+    "md5Checksum": "a53c516505dcdd8ddabcfdcd8673770c",
+    "size_kb": 3265.6
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page16.jpg": {
+    "md5Checksum": "11fdcbcd8278d87609eef03caeba19ae",
+    "size_kb": 5400.2
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page17.jpg": {
+    "md5Checksum": "799475703181d637b62e99d3a07077ff",
+    "size_kb": 727.5
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page2.jpg": {
+    "md5Checksum": "11fdcbcd8278d87609eef03caeba19ae",
+    "size_kb": 5400.2
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page3.jpg": {
+    "md5Checksum": "8b2d9296325f69b8ce8681d603de0203",
+    "size_kb": 2831.6
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page4.jpg": {
+    "md5Checksum": "7dfff40c4d7ee037beae155717011943",
+    "size_kb": 8376.1
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page5.jpg": {
+    "md5Checksum": "657cd2504353251788eece408718c5ab",
+    "size_kb": 3491.3
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page6.jpg": {
+    "md5Checksum": "6aa4c8091463326a53cfaecafb41f7ee",
+    "size_kb": 5868.8
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page7.jpg": {
+    "md5Checksum": "50902177968d634486d6e4cb369bf5ef",
+    "size_kb": 2354.5
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page8.jpg": {
+    "md5Checksum": "5e8380ea3a99c3bef4241d8f950e8fcb",
+    "size_kb": 1969.9
+  },
+  "images/books/mama_whats_for_lunch/mama-whats-for-lunch_interior_20210929_page9.jpg": {
+    "md5Checksum": "a6111bddeebeb15abdb2d8cdc0e598a9",
+    "size_kb": 2071.6
   },
   "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg": {
     "md5Checksum": "68f2263c936c543c1480ba03dd1c6749",
@@ -2159,146 +2691,6 @@
     "md5Checksum": "5c4b13939e5604048e6e2df7ce81cbc1",
     "size_kb": 1234.6
   },
-  "images/books/mother_hen/image_1.jpg": {
-    "md5Checksum": "3669c8ef0b4e8a4faf5e0ae4688a7b2c",
-    "size_kb": 35.3
-  },
-  "images/books/mother_hen/image_10.jpg": {
-    "md5Checksum": "871153fa572753afde1db43e0c6278bc",
-    "size_kb": 54
-  },
-  "images/books/mother_hen/image_11.jpg": {
-    "md5Checksum": "037b547a6a8c6de62e31daf794791809",
-    "size_kb": 66.7
-  },
-  "images/books/mother_hen/image_12.jpg": {
-    "md5Checksum": "3a60fc089ea91a18aa95fe1b078d6904",
-    "size_kb": 43.5
-  },
-  "images/books/mother_hen/image_13.jpg": {
-    "md5Checksum": "08db8ddc77a71ccc4d2f1beb12f83687",
-    "size_kb": 52.1
-  },
-  "images/books/mother_hen/image_14.jpg": {
-    "md5Checksum": "0eeca3f14469055eef1d22c9381ccb1b",
-    "size_kb": 81.1
-  },
-  "images/books/mother_hen/image_15.jpg": {
-    "md5Checksum": "e98067a13cb0a23deecd88f3a77c0ff0",
-    "size_kb": 57.4
-  },
-  "images/books/mother_hen/image_16.jpg": {
-    "md5Checksum": "1a08147b96cfaa458467721ec3d8b893",
-    "size_kb": 79.6
-  },
-  "images/books/mother_hen/image_17.jpg": {
-    "md5Checksum": "84e419f100ff97921981b841fbfa29b0",
-    "size_kb": 47.8
-  },
-  "images/books/mother_hen/image_2.jpg": {
-    "md5Checksum": "295436f6221382c96b9d47a2b2dd0f86",
-    "size_kb": 89.1
-  },
-  "images/books/mother_hen/image_3.jpg": {
-    "md5Checksum": "13c01a2894185ca27d1a21fb0af4ac97",
-    "size_kb": 64.7
-  },
-  "images/books/mother_hen/image_4.jpg": {
-    "md5Checksum": "65077d50f911f30d9cc304b4baa3278b",
-    "size_kb": 69.3
-  },
-  "images/books/mother_hen/image_5.jpg": {
-    "md5Checksum": "4ebef445ee73ba5c2b531500046c05f6",
-    "size_kb": 66.2
-  },
-  "images/books/mother_hen/image_6.jpg": {
-    "md5Checksum": "360a057f38762c17812b28bc2fcf499e",
-    "size_kb": 50.1
-  },
-  "images/books/mother_hen/image_7.jpg": {
-    "md5Checksum": "34bf5ab9f71248a40a071d0129877cf9",
-    "size_kb": 80.5
-  },
-  "images/books/mother_hen/image_8.jpg": {
-    "md5Checksum": "bea81cf0a9d6f9bca1daf3214287c097",
-    "size_kb": 68.6
-  },
-  "images/books/mother_hen/image_9.jpg": {
-    "md5Checksum": "d47820a7ca3bc787791af64cf2cf89e3",
-    "size_kb": 59.6
-  },
-  "images/books/my_first_day_at_school/image_1.jpg": {
-    "md5Checksum": "a3c2d8a1c34d175b75f5932ea0a09eaa",
-    "size_kb": 67
-  },
-  "images/books/my_first_day_at_school/image_10.jpg": {
-    "md5Checksum": "594f50ae6ebf65d036027808be5a140d",
-    "size_kb": 85.2
-  },
-  "images/books/my_first_day_at_school/image_11.jpg": {
-    "md5Checksum": "b46d6784c4b6fbcf7122e2b060a208b5",
-    "size_kb": 105.9
-  },
-  "images/books/my_first_day_at_school/image_12.jpg": {
-    "md5Checksum": "c39ed4bef7732528336f876748d96766",
-    "size_kb": 102.3
-  },
-  "images/books/my_first_day_at_school/image_13.jpg": {
-    "md5Checksum": "84d30d6e047ec3b1d4207af032669a9a",
-    "size_kb": 86.8
-  },
-  "images/books/my_first_day_at_school/image_14.jpg": {
-    "md5Checksum": "53eb254d53fcba52f2172adfa6e7d89e",
-    "size_kb": 142.5
-  },
-  "images/books/my_first_day_at_school/image_15.jpg": {
-    "md5Checksum": "e43bbb1ce8f8977a4a73632171c2f3b9",
-    "size_kb": 92.2
-  },
-  "images/books/my_first_day_at_school/image_16.jpg": {
-    "md5Checksum": "5a451b04823a6ac2ba2fefea630e0b21",
-    "size_kb": 122.6
-  },
-  "images/books/my_first_day_at_school/image_17.jpg": {
-    "md5Checksum": "29abcf948c5c767c850e2381bc03477f",
-    "size_kb": 103.8
-  },
-  "images/books/my_first_day_at_school/image_18.jpg": {
-    "md5Checksum": "7c0ae2e9953afa77498c94cc97d5d814",
-    "size_kb": 96.8
-  },
-  "images/books/my_first_day_at_school/image_2.jpg": {
-    "md5Checksum": "29531e625ee0eb41486efa273408dde9",
-    "size_kb": 126.7
-  },
-  "images/books/my_first_day_at_school/image_3.jpg": {
-    "md5Checksum": "36892defdecb7648396883bfdc85738e",
-    "size_kb": 139.7
-  },
-  "images/books/my_first_day_at_school/image_4.jpg": {
-    "md5Checksum": "740d9f4c506045b0941224641157aa5c",
-    "size_kb": 152.5
-  },
-  "images/books/my_first_day_at_school/image_5.jpg": {
-    "md5Checksum": "b67267afa66995bbbb15e3ed53178ee6",
-    "size_kb": 182.1
-  },
-  "images/books/my_first_day_at_school/image_6.jpg": {
-    "md5Checksum": "31657b12814bd12e4eba69dc99a6bf3e",
-    "size_kb": 135.2
-  },
-  "images/books/my_first_day_at_school/image_7.jpg": {
-    "md5Checksum": "a3626055fd71c496f166ef9471ec8941",
-    "size_kb": 130.7
-  },
-  "images/books/my_first_day_at_school/image_8.jpg": {
-    "md5Checksum": "8bfae15d9d07d3e80d4e7e1cb78cfdbb",
-    "size_kb": 92.3
-  },
-  "images/books/my_first_day_at_school/image_9.jpg": {
-    "md5Checksum": "4606bfbf73c96d852d85089590d5c4e4",
-    "size_kb": 108.7
-  },
   "images/books/my_inside_weather/cover.jpg": {
     "md5Checksum": "a683e2619f3f9cb8128a6562ced7d1f0",
     "size_kb": 166.6
@@ -2371,6 +2763,78 @@
     "md5Checksum": "ea55175766e4329cb73bf247942f724c",
     "size_kb": 147.9
   },
+  "images/books/my_little_garden/my-little-garden_cover_20201105.jpg": {
+    "md5Checksum": "6d90d20fb95dba49c9f0a7f5a6964613",
+    "size_kb": 1089.6
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page1.jpg": {
+    "md5Checksum": "887ee6ae7ff934b937a70a45d70ee5c4",
+    "size_kb": 922.2
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page10.jpg": {
+    "md5Checksum": "acfe664b4e3bdc04eb8a9321b15557e8",
+    "size_kb": 3928
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page11.jpg": {
+    "md5Checksum": "83bd4092ffee1796398327028878565c",
+    "size_kb": 2532.4
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page12.jpg": {
+    "md5Checksum": "95b12a3a861f0d544fd66a03ccfc49ec",
+    "size_kb": 3398.3
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page13.jpg": {
+    "md5Checksum": "e56daf5f84c39d4362ec094dbfadd642",
+    "size_kb": 3951.3
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page14.jpg": {
+    "md5Checksum": "07edc0d1ccd0e7118a6cf6fb381d2abe",
+    "size_kb": 4136.3
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page15.jpg": {
+    "md5Checksum": "a604c5f0d4953a66575d0ff3c6f0a667",
+    "size_kb": 5206.3
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page16.jpg": {
+    "md5Checksum": "b8487a73effd8ee8720756998717f039",
+    "size_kb": 7007.4
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page17.jpg": {
+    "md5Checksum": "8267bcbab51c40f45b2b2275501df261",
+    "size_kb": 911.4
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page2.jpg": {
+    "md5Checksum": "7f7f72a0993cd619d0bb5c0b248af54c",
+    "size_kb": 7011
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page3.jpg": {
+    "md5Checksum": "b953f47c7b986eec278ca45218ee0cb0",
+    "size_kb": 1381.1
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page4.jpg": {
+    "md5Checksum": "5446fb58b2a59f99b90377ded1df0009",
+    "size_kb": 3965.1
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page5.jpg": {
+    "md5Checksum": "ae3839eeb7e163670e5dd041558a4049",
+    "size_kb": 2721.8
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page6.jpg": {
+    "md5Checksum": "950b75dc4211edaff1d80a205e29275d",
+    "size_kb": 2913.4
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page7.jpg": {
+    "md5Checksum": "961c93e7efc40c607c692173d95d6d87",
+    "size_kb": 2674.5
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page8.jpg": {
+    "md5Checksum": "b934c7f3fefb5b32e4cbe69968a59644",
+    "size_kb": 2494.5
+  },
+  "images/books/my_little_garden/my-little-garden_interior_20201105_page9.jpg": {
+    "md5Checksum": "ccefea3d1942250fd98cade8c5211a77",
+    "size_kb": 3510.9
+  },
   "images/books/my_shoe/my_shoe_cover.jpg": {
     "md5Checksum": "333f1336d06094d26edb9b0c71045573",
     "size_kb": 1206.4
@@ -2434,314 +2898,6 @@
   "images/books/my_shoe/who-took-my-shoe_en_20221127.txt": {
     "md5Checksum": "6aab7c5d64e9f6e6d2d2900b7ab8c5b3",
     "size_kb": 3.3
-  },
-  "images/books/nichchumani_helps_out/image_1.jpg": {
-    "md5Checksum": "753f2bec2c5fdf3f5d6d01415cfc8352",
-    "size_kb": 198.1
-  },
-  "images/books/nichchumani_helps_out/image_10.jpg": {
-    "md5Checksum": "028bf39ea54255adc1a6c71b046e4b4a",
-    "size_kb": 248.3
-  },
-  "images/books/nichchumani_helps_out/image_2.jpg": {
-    "md5Checksum": "a90305a63255ec1ed797d2f946d13d3d",
-    "size_kb": 152
-  },
-  "images/books/nichchumani_helps_out/image_3.jpg": {
-    "md5Checksum": "6ddad4c0af9bcdeb5776245464f20278",
-    "size_kb": 136.9
-  },
-  "images/books/nichchumani_helps_out/image_4.jpg": {
-    "md5Checksum": "53502f824430090e6f2932a3f0740017",
-    "size_kb": 156.5
-  },
-  "images/books/nichchumani_helps_out/image_5.jpg": {
-    "md5Checksum": "634d287a8b0579a2c30a810a6e1ddb67",
-    "size_kb": 138.6
-  },
-  "images/books/nichchumani_helps_out/image_6.jpg": {
-    "md5Checksum": "b79e04cd126eb92292f3bb8383349bea",
-    "size_kb": 201.3
-  },
-  "images/books/nichchumani_helps_out/image_7.jpg": {
-    "md5Checksum": "9bcdcad9bba3c1852b6b5888125d6ff3",
-    "size_kb": 194.7
-  },
-  "images/books/nichchumani_helps_out/image_8.jpg": {
-    "md5Checksum": "3c687a40e60d2b7764c3d1377685fadc",
-    "size_kb": 226.8
-  },
-  "images/books/nichchumani_helps_out/image_9.jpg": {
-    "md5Checksum": "39ebf6c0df0fbd7dfd431f88feca9e21",
-    "size_kb": 190
-  },
-  "images/books/no_smiles_today/image_1.jpg": {
-    "md5Checksum": "9e6a657d89839347ce1663fcd475babe",
-    "size_kb": 83.8
-  },
-  "images/books/no_smiles_today/image_2.jpg": {
-    "md5Checksum": "334a2dbd0dcb555d614519aff8887c84",
-    "size_kb": 166.9
-  },
-  "images/books/no_smiles_today/image_3.jpg": {
-    "md5Checksum": "254c645e321367c25cdee33dbdc966c4",
-    "size_kb": 118.2
-  },
-  "images/books/no_smiles_today/image_4.jpg": {
-    "md5Checksum": "098c3e0aac559033033be427fa5b8e8b",
-    "size_kb": 101.8
-  },
-  "images/books/no_smiles_today/image_5.jpg": {
-    "md5Checksum": "548c891942f0efc8aee83b5a81f7cb61",
-    "size_kb": 83.8
-  },
-  "images/books/no_smiles_today/image_6.jpg": {
-    "md5Checksum": "d86d5ed3f322c45aefd1931d3bb8adc1",
-    "size_kb": 88.8
-  },
-  "images/books/no_smiles_today/image_7.jpg": {
-    "md5Checksum": "8860acc4a0752ee56e3344b1fabcc295",
-    "size_kb": 70.1
-  },
-  "images/books/pishi_and_me/image_1.jpg": {
-    "md5Checksum": "13229da8663792278a6181f3db49b43e",
-    "size_kb": 162.4
-  },
-  "images/books/pishi_and_me/image_10.jpg": {
-    "md5Checksum": "ee15154d4948a24c5cab740558791321",
-    "size_kb": 183.9
-  },
-  "images/books/pishi_and_me/image_11.jpg": {
-    "md5Checksum": "3c03ae3e6eac227f784603591e73b7db",
-    "size_kb": 163.5
-  },
-  "images/books/pishi_and_me/image_12.jpg": {
-    "md5Checksum": "d90ec09262985e03239fea18dd8b1e56",
-    "size_kb": 188
-  },
-  "images/books/pishi_and_me/image_13.jpg": {
-    "md5Checksum": "6430f2d496ed1ed8f2bd65ca1f4ee579",
-    "size_kb": 141.4
-  },
-  "images/books/pishi_and_me/image_14.jpg": {
-    "md5Checksum": "4d3e4b12fb9a9abfbe9100138744d74e",
-    "size_kb": 162.8
-  },
-  "images/books/pishi_and_me/image_17.jpg": {
-    "md5Checksum": "67cb0b27f7e8231a9fce776209eccd1e",
-    "size_kb": 173.5
-  },
-  "images/books/pishi_and_me/image_2.jpg": {
-    "md5Checksum": "7a381c1f386b52916b6b521c46a57ede",
-    "size_kb": 176.6
-  },
-  "images/books/pishi_and_me/image_3.jpg": {
-    "md5Checksum": "99bba26643881f9af6c2be6e5ac21d6c",
-    "size_kb": 163.7
-  },
-  "images/books/pishi_and_me/image_4.jpg": {
-    "md5Checksum": "feb64254d4c8b489292f248403134519",
-    "size_kb": 170.5
-  },
-  "images/books/pishi_and_me/image_5.jpg": {
-    "md5Checksum": "6a9e0f017f1bbe9b181225a6555df726",
-    "size_kb": 177.7
-  },
-  "images/books/pishi_and_me/image_6.jpg": {
-    "md5Checksum": "3fd5c2ff0ed1eb6b5760d63721d95a79",
-    "size_kb": 147.9
-  },
-  "images/books/pishi_and_me/image_7.jpg": {
-    "md5Checksum": "ff42805ee85b9886247cdbc23f13cea8",
-    "size_kb": 140.6
-  },
-  "images/books/pishi_and_me/image_8.jpg": {
-    "md5Checksum": "e27e754bade2e45ce453c44aedd0be29",
-    "size_kb": 151.3
-  },
-  "images/books/pishi_and_me/image_9.jpg": {
-    "md5Checksum": "65e8aa13a8ccff8f23a52651db9b2021",
-    "size_kb": 176.2
-  },
-  "images/books/ranis_first_day_at_school/image_1.jpg": {
-    "md5Checksum": "c1e6971d6367d2765c35f25baeedc99e",
-    "size_kb": 117.1
-  },
-  "images/books/ranis_first_day_at_school/image_2.jpg": {
-    "md5Checksum": "c70b7caf2134b5618c6bdcb97a522d0c",
-    "size_kb": 195.1
-  },
-  "images/books/ranis_first_day_at_school/image_3.jpg": {
-    "md5Checksum": "8751763d480dd00fdda7e1c7e6a45cb9",
-    "size_kb": 190.2
-  },
-  "images/books/ranis_first_day_at_school/image_4.jpg": {
-    "md5Checksum": "2216a17552cbc04174e155daa1c32ac0",
-    "size_kb": 182.4
-  },
-  "images/books/ranis_first_day_at_school/image_5.jpg": {
-    "md5Checksum": "d125bda51f7cc9498da60f97d5317e2b",
-    "size_kb": 171.2
-  },
-  "images/books/ranis_first_day_at_school/image_6.jpg": {
-    "md5Checksum": "b6f3a3f0c83e5ee92636dfe7421b6804",
-    "size_kb": 176.8
-  },
-  "images/books/ranis_first_day_at_school/image_7.jpg": {
-    "md5Checksum": "5c83c600d41add8611e73148c3d30623",
-    "size_kb": 167
-  },
-  "images/books/reba_wants_ice_cream/image_1.jpg": {
-    "md5Checksum": "ba85ea35708aad02a68c143ce2d4cbbd",
-    "size_kb": 57.2
-  },
-  "images/books/reba_wants_ice_cream/image_10.jpg": {
-    "md5Checksum": "bbe27c39531abfb38e7fd419b8e601a3",
-    "size_kb": 48.7
-  },
-  "images/books/reba_wants_ice_cream/image_11.jpg": {
-    "md5Checksum": "0855ebe806ab486ab29bca5f7bfdd2fd",
-    "size_kb": 94.3
-  },
-  "images/books/reba_wants_ice_cream/image_12.jpg": {
-    "md5Checksum": "ba4c0ec86754ddba324578761ae427a4",
-    "size_kb": 101.6
-  },
-  "images/books/reba_wants_ice_cream/image_13.jpg": {
-    "md5Checksum": "c5cc25d4ce27dbe15ff477af09ca7849",
-    "size_kb": 75
-  },
-  "images/books/reba_wants_ice_cream/image_14.jpg": {
-    "md5Checksum": "e1cf68134ecb7f9b5b4105748cc84934",
-    "size_kb": 65.7
-  },
-  "images/books/reba_wants_ice_cream/image_15.jpg": {
-    "md5Checksum": "aa38b61b7d48669df4025bd6a806c039",
-    "size_kb": 72.6
-  },
-  "images/books/reba_wants_ice_cream/image_16.jpg": {
-    "md5Checksum": "13bd00d44e27bf4259e1a6848abbb6fb",
-    "size_kb": 81.9
-  },
-  "images/books/reba_wants_ice_cream/image_17.jpg": {
-    "md5Checksum": "d742cc6ff47d0a259ca6007dbb53e888",
-    "size_kb": 90.6
-  },
-  "images/books/reba_wants_ice_cream/image_2.jpg": {
-    "md5Checksum": "31587902eb2f30c316c3b647a611972d",
-    "size_kb": 47.8
-  },
-  "images/books/reba_wants_ice_cream/image_3.jpg": {
-    "md5Checksum": "45e4e981789e93ab79071619b1392a67",
-    "size_kb": 66.4
-  },
-  "images/books/reba_wants_ice_cream/image_4.jpg": {
-    "md5Checksum": "0c05321a2d889be37c180e0674ec57b5",
-    "size_kb": 22.6
-  },
-  "images/books/reba_wants_ice_cream/image_5.jpg": {
-    "md5Checksum": "e104fdd811922f5be5b509133fdc118c",
-    "size_kb": 122.7
-  },
-  "images/books/reba_wants_ice_cream/image_6.jpg": {
-    "md5Checksum": "23a9171be93f7f24e56b5af8c27ff315",
-    "size_kb": 46.9
-  },
-  "images/books/reba_wants_ice_cream/image_7.jpg": {
-    "md5Checksum": "4e805a9c9684ca2668f176666d2354aa",
-    "size_kb": 25.7
-  },
-  "images/books/reba_wants_ice_cream/image_8.jpg": {
-    "md5Checksum": "777b906197951faaa5a636e271ff7728",
-    "size_kb": 60.4
-  },
-  "images/books/reba_wants_ice_cream/image_9.jpg": {
-    "md5Checksum": "7a39176a6e1e00b2714b5e73a4ee9af5",
-    "size_kb": 73.5
-  },
-  "images/books/red_bean_plant/image_1.jpg": {
-    "md5Checksum": "d04727c8f0932e39441b1f2a50d02b9a",
-    "size_kb": 66
-  },
-  "images/books/red_bean_plant/image_10.jpg": {
-    "md5Checksum": "db9704141035282ea8abc0409a631b1f",
-    "size_kb": 47.9
-  },
-  "images/books/red_bean_plant/image_11.jpg": {
-    "md5Checksum": "6baad2015c0bd1d886bc6ed034cb9473",
-    "size_kb": 17.2
-  },
-  "images/books/red_bean_plant/image_12.jpg": {
-    "md5Checksum": "df46dbfaa4740bc7fdc044b2427a30d7",
-    "size_kb": 32
-  },
-  "images/books/red_bean_plant/image_13.jpg": {
-    "md5Checksum": "e3ff629f99201f5a83fbb44233c83cc1",
-    "size_kb": 47.8
-  },
-  "images/books/red_bean_plant/image_14.jpg": {
-    "md5Checksum": "38df6ad1c2404c973b2d5305a4fe8273",
-    "size_kb": 37.6
-  },
-  "images/books/red_bean_plant/image_15.jpg": {
-    "md5Checksum": "5ad210467fcc1388e523e29f537ca3e5",
-    "size_kb": 41.3
-  },
-  "images/books/red_bean_plant/image_16.jpg": {
-    "md5Checksum": "e003435bf9bed03af8632df682a4112d",
-    "size_kb": 67.2
-  },
-  "images/books/red_bean_plant/image_17.jpg": {
-    "md5Checksum": "f410f04bc9e8ddc8ae4ca5da08e89691",
-    "size_kb": 30.4
-  },
-  "images/books/red_bean_plant/image_18.jpg": {
-    "md5Checksum": "ce6ea8ed365b18a7673691a685f5d2e1",
-    "size_kb": 33.6
-  },
-  "images/books/red_bean_plant/image_19.jpg": {
-    "md5Checksum": "048c3d5f80512b92c20bd4a447f8a1a8",
-    "size_kb": 39.8
-  },
-  "images/books/red_bean_plant/image_2.jpg": {
-    "md5Checksum": "57cfd0bf7129048f2b0da76777457bd6",
-    "size_kb": 39
-  },
-  "images/books/red_bean_plant/image_20.jpg": {
-    "md5Checksum": "f84b774208000b423a87b4e8e07789c5",
-    "size_kb": 56.7
-  },
-  "images/books/red_bean_plant/image_21.jpg": {
-    "md5Checksum": "404a7dd43e285bcd9005778a60998e49",
-    "size_kb": 26.7
-  },
-  "images/books/red_bean_plant/image_3.jpg": {
-    "md5Checksum": "370238be31b09dd2e10cfe669b0b1e3b",
-    "size_kb": 42.2
-  },
-  "images/books/red_bean_plant/image_4.jpg": {
-    "md5Checksum": "4f8a1756788f630ed29bc036f6d289e9",
-    "size_kb": 55.1
-  },
-  "images/books/red_bean_plant/image_5.jpg": {
-    "md5Checksum": "21ca588e43bbd8ec959eb8ed5e4ef29b",
-    "size_kb": 67.1
-  },
-  "images/books/red_bean_plant/image_6.jpg": {
-    "md5Checksum": "1e67e069747fbfdfbd359a17285295c5",
-    "size_kb": 45.1
-  },
-  "images/books/red_bean_plant/image_7.jpg": {
-    "md5Checksum": "3a425a6dd749cdd26d02a5472b9984a1",
-    "size_kb": 62.6
-  },
-  "images/books/red_bean_plant/image_8.jpg": {
-    "md5Checksum": "c42d1c5d8d879bf470ff9196cbbd876d",
-    "size_kb": 35.5
-  },
-  "images/books/red_bean_plant/image_9.jpg": {
-    "md5Checksum": "cf6b7a35d0b55c01f180ae54c4c0d439",
-    "size_kb": 51.5
   },
   "images/books/scared_tumi/scared-tumi_20161230_cover.jpg": {
     "md5Checksum": "e62494041bba761fe43ae7027c320393",
@@ -2935,6 +3091,78 @@
     "md5Checksum": "45fcfb778a0276050d3385fb130cd9b1",
     "size_kb": 86.4
   },
+  "images/books/tejus_shadow/tejus-shadow_20191114_cover.jpg": {
+    "md5Checksum": "969db970fc45698a8deda133488b10c5",
+    "size_kb": 760.8
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page1.jpg": {
+    "md5Checksum": "ea5486dec00f935fa90b60bf96851ef0",
+    "size_kb": 137
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page10.jpg": {
+    "md5Checksum": "58ac26a1ecbe9c6135a5ad11f46c640f",
+    "size_kb": 311.2
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page11.jpg": {
+    "md5Checksum": "172c3a87fff5dc6389402c1f06878f16",
+    "size_kb": 253.2
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page12.jpg": {
+    "md5Checksum": "944f87a319dd193ff8139625f723665d",
+    "size_kb": 572.9
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page13.jpg": {
+    "md5Checksum": "7d865d6d25589bd62b554eaf6ee471a2",
+    "size_kb": 889.7
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page14.jpg": {
+    "md5Checksum": "124c0222eb7f8e9fdac76e5243e87744",
+    "size_kb": 515.4
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page15.jpg": {
+    "md5Checksum": "d5f3a8a15425936962b3431e5bc9b7c9",
+    "size_kb": 419
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page16.jpg": {
+    "md5Checksum": "29fdd68d5fb417eb191b78fc05b1ea28",
+    "size_kb": 1936.5
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page17.jpg": {
+    "md5Checksum": "5f8a652ab383cbc869b789b1381a6336",
+    "size_kb": 157.2
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page2.jpg": {
+    "md5Checksum": "29fdd68d5fb417eb191b78fc05b1ea28",
+    "size_kb": 1936.5
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page3.jpg": {
+    "md5Checksum": "28dbae94bf417f1678b5c1167192e16a",
+    "size_kb": 525.2
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page4.jpg": {
+    "md5Checksum": "e94d5aac614502bbce4e6bf8474a8a29",
+    "size_kb": 446.8
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page5.jpg": {
+    "md5Checksum": "fc2f289f5e4091a97de1f3cac7b5be26",
+    "size_kb": 790.5
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page6.jpg": {
+    "md5Checksum": "0215ab7b479106e758d2bbe3e24f8c7c",
+    "size_kb": 466.5
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page7.jpg": {
+    "md5Checksum": "d9a7eb6445152ecd1fe7ee4924fe4081",
+    "size_kb": 543.9
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page8.jpg": {
+    "md5Checksum": "791c308f972153c9bc09d73919505bda",
+    "size_kb": 624.2
+  },
+  "images/books/tejus_shadow/tejus-shadow_interior_20191119_page9.jpg": {
+    "md5Checksum": "99304e95ed3846e0413b7f918b101a77",
+    "size_kb": 562.6
+  },
   "images/books/the_bee_and_the_elephant/image_1.jpg": {
     "md5Checksum": "4712feb38bcdcfaa4fb3bb62467dd20a",
     "size_kb": 88.5
@@ -2974,6 +3202,150 @@
   "images/books/the_bee_and_the_elephant/image_9.jpg": {
     "md5Checksum": "2dad6af6ab79eb03bdda638a598f61ce",
     "size_kb": 154.5
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_cover.jpg": {
+    "md5Checksum": "08698d194fa4df8577b9de9c4f95297f",
+    "size_kb": 156.7
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page1.jpg": {
+    "md5Checksum": "8cf4fab028c68db838667cf9d3e3ef10",
+    "size_kb": 76.1
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page10.jpg": {
+    "md5Checksum": "65f146936098a91ccf402d9f11452074",
+    "size_kb": 300.2
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page11.jpg": {
+    "md5Checksum": "213e9d221313c0522b54b44f05d8d455",
+    "size_kb": 527.6
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page12.jpg": {
+    "md5Checksum": "06171623d1b3dc323e1a8c5bfbdbcb3d",
+    "size_kb": 337.6
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page13.jpg": {
+    "md5Checksum": "e68f412cfdeb03c232cdb0e766ad2d98",
+    "size_kb": 158.7
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page14.jpg": {
+    "md5Checksum": "059b9a1c3928615df50b527134aad705",
+    "size_kb": 144
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page15.jpg": {
+    "md5Checksum": "8af94d157a6c40d713b44fd190fa74c6",
+    "size_kb": 223.4
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page16.jpg": {
+    "md5Checksum": "e14e514a67378406df5f39cff1252f8f",
+    "size_kb": 262.7
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page17.jpg": {
+    "md5Checksum": "0b90f037797c7f766256bd84998b5566",
+    "size_kb": 105.6
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page2.jpg": {
+    "md5Checksum": "e14e514a67378406df5f39cff1252f8f",
+    "size_kb": 262.7
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page3.jpg": {
+    "md5Checksum": "a869bdb0bff779c2515975e587db5f03",
+    "size_kb": 180.7
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page4.jpg": {
+    "md5Checksum": "e0a1dfab1a691a0fe05ce650cc516c69",
+    "size_kb": 157.7
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page5.jpg": {
+    "md5Checksum": "9fdd5cea8b713c5960b108b79a382164",
+    "size_kb": 307.3
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page6.jpg": {
+    "md5Checksum": "7181221fe1013e087862ab3814e63d9f",
+    "size_kb": 218.6
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page7.jpg": {
+    "md5Checksum": "102c7df0395bf7e974e29cb15e934a59",
+    "size_kb": 213.1
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page8.jpg": {
+    "md5Checksum": "fd877126afc68be085303df72993c541",
+    "size_kb": 459.5
+  },
+  "images/books/the_best_thing_ever/the-best-thing-ever_20180413_page9.jpg": {
+    "md5Checksum": "1df97c0f7d1eeb71265d02357be7b18b",
+    "size_kb": 259.2
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_cover.jpg": {
+    "md5Checksum": "06a7846fda25764bb5a1f4832a0c3a85",
+    "size_kb": 2589.8
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page1.jpg": {
+    "md5Checksum": "1bc9e17f1bc42c9806abf24da063d0c8",
+    "size_kb": 623
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page10.jpg": {
+    "md5Checksum": "1ce0ddcf0039e65ef84e9373febdedf5",
+    "size_kb": 5375.9
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page11.jpg": {
+    "md5Checksum": "91303663df3940f526b727ac0e5bc316",
+    "size_kb": 3957.8
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page12.jpg": {
+    "md5Checksum": "c9daac16d48db9b9db82fa7570c158f2",
+    "size_kb": 2611.1
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page13.jpg": {
+    "md5Checksum": "35c99ef7a8aa4be09a20bf510148e377",
+    "size_kb": 4035.2
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page14.jpg": {
+    "md5Checksum": "27c566aa27790de443fdce8927ad5990",
+    "size_kb": 3843.1
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page15.jpg": {
+    "md5Checksum": "115067b37f3bd4042e7a5b60b5d4ab47",
+    "size_kb": 9198.5
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page16.jpg": {
+    "md5Checksum": "b6b7ea03296dfe41fdfa857aee16147b",
+    "size_kb": 4066
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page17.jpg": {
+    "md5Checksum": "b6436020432a5c049486e9ca49451a07",
+    "size_kb": 666.3
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page2.jpg": {
+    "md5Checksum": "fd9a844f0cae47a86a2dcadb6515a9f2",
+    "size_kb": 3623.1
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page3.jpg": {
+    "md5Checksum": "52493596c893d227f691bf188356a5ac",
+    "size_kb": 1881.1
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page4.jpg": {
+    "md5Checksum": "15dbbd57b4bb02cbabd625d3d3ecc9ee",
+    "size_kb": 2876.8
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page5.jpg": {
+    "md5Checksum": "0b8dbc1acb19a6e709d7c28b01b711ae",
+    "size_kb": 2861.3
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page6.jpg": {
+    "md5Checksum": "131bfe34b9f25e0f3366c941cd66051f",
+    "size_kb": 2881.9
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page7.jpg": {
+    "md5Checksum": "8c9b25d17187ed122ee52cdc042cc9d0",
+    "size_kb": 4765.6
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page8.jpg": {
+    "md5Checksum": "23ef5422c507e449702b3e9069a9c33f",
+    "size_kb": 5373.1
+  },
+  "images/books/the_one_in_the_middle/the-one-in-the-middle_20231110_page9.jpg": {
+    "md5Checksum": "00681d0c3002d83e46714e90bdd98c1f",
+    "size_kb": 5575
   },
   "images/books/the_things_that_really_matter/cover.jpg": {
     "md5Checksum": "7d8f48caafc73b7dee5f13347e62fe5d",
@@ -3047,6 +3419,78 @@
     "md5Checksum": "db854ffb9d5e0874b343b659e2ff6b95",
     "size_kb": 1763.5
   },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_cover.jpg": {
+    "md5Checksum": "bdd41f4b45bc8372ae16856aa27b244c",
+    "size_kb": 2361.8
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page1.jpg": {
+    "md5Checksum": "005b4374b31c72a0680c31a409c3a42a",
+    "size_kb": 550.5
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page10.jpg": {
+    "md5Checksum": "29126ee9efe678f06a82f71325c0e5f8",
+    "size_kb": 3732.4
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page11.jpg": {
+    "md5Checksum": "cd6266652f5da9a1668b63686a7b1d8d",
+    "size_kb": 4103.7
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page12.jpg": {
+    "md5Checksum": "dbd4b7eb97c2d3b03823dc50f1b179b8",
+    "size_kb": 4284.5
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page13.jpg": {
+    "md5Checksum": "5bdff01cb2814ea1ee50987bc939920a",
+    "size_kb": 4677.5
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page14.jpg": {
+    "md5Checksum": "8fc7131249f7c03d7bf5a1abe10c97db",
+    "size_kb": 3445.3
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page15.jpg": {
+    "md5Checksum": "11a0eaa59223354733c494a085b6d7b0",
+    "size_kb": 5254.7
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page16.jpg": {
+    "md5Checksum": "d7243d7315a0748404dd2a4debd780c5",
+    "size_kb": 6826.6
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page17.jpg": {
+    "md5Checksum": "94d72219ae3826c4f1beb55ae503b64d",
+    "size_kb": 1977.2
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page2.jpg": {
+    "md5Checksum": "aabb64421f4f59dbfc4d3d43f447efc7",
+    "size_kb": 6140.5
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page3.jpg": {
+    "md5Checksum": "b646192639186401d59e87aa74d81674",
+    "size_kb": 2444.3
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page4.jpg": {
+    "md5Checksum": "4ff53179b8cf26b06eb0500194416a40",
+    "size_kb": 4808.8
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page5.jpg": {
+    "md5Checksum": "4458528fc8e2c9b7f19e01f2fba4b213",
+    "size_kb": 4141.4
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page6.jpg": {
+    "md5Checksum": "5af042789d4f776c07112e65a6bc678d",
+    "size_kb": 3689.9
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page7.jpg": {
+    "md5Checksum": "073ebff6d6c0dc9b100c5d5c5cfb2b49",
+    "size_kb": 3754.2
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page8.jpg": {
+    "md5Checksum": "fd2bcb477c48fcb0eb2c4381aa0a0ae5",
+    "size_kb": 4037.9
+  },
+  "images/books/tlotlegos_tea_party/tlotlegos-tea-party_20210524_page9.jpg": {
+    "md5Checksum": "7680b3f861fcd02d2a730bc5c579ce8b",
+    "size_kb": 4079.4
+  },
   "images/books/to_the_top/cover.jpg": {
     "md5Checksum": "a86126698fc8812773a6da9e0b742ee8",
     "size_kb": 2681.9
@@ -3119,165 +3563,149 @@
     "md5Checksum": "c3c157a0139a9dbfa5ab18635bb9b1d7",
     "size_kb": 909.3
   },
-  "images/books/under_my_bed/image_1.jpg": {
-    "md5Checksum": "3763b0d13ed53ee3192810e360fe7d13",
-    "size_kb": 100.1
+  "images/books/whats_at_the_park/cover.jpg": {
+    "md5Checksum": "49e8cdea3965f0e8bb8c5b189e423461",
+    "size_kb": 755.2
   },
-  "images/books/under_my_bed/image_10.jpg": {
-    "md5Checksum": "742fe532e931698893ed16689d897f7d",
-    "size_kb": 149.1
+  "images/books/whats_at_the_park/page4.jpg": {
+    "md5Checksum": "f3dc88cb39ef26a44aebf83cd83ed398",
+    "size_kb": 1665.6
   },
-  "images/books/under_my_bed/image_11.jpg": {
-    "md5Checksum": "65f0a86540ce89bb0322d558ddce1fc5",
-    "size_kb": 193.2
+  "images/books/whats_at_the_park/page6.jpg": {
+    "md5Checksum": "4a315e955463aa9af35386004cbad315",
+    "size_kb": 1140.8
   },
-  "images/books/under_my_bed/image_12.jpg": {
-    "md5Checksum": "eef5ba82ff725cee4d6ae02607422410",
-    "size_kb": 125.8
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page.jpg": {
+    "md5Checksum": "47ff535fc471f0504cc35bd444525892",
+    "size_kb": 318.8
   },
-  "images/books/under_my_bed/image_2.jpg": {
-    "md5Checksum": "6ebdeaad36e7985b652e53bfa3af4470",
-    "size_kb": 84.3
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page10.jpg": {
+    "md5Checksum": "0a166a8ebf35edd1857c1262d770c8c3",
+    "size_kb": 1423.6
   },
-  "images/books/under_my_bed/image_3.jpg": {
-    "md5Checksum": "d24f005ff2af904c64c673a3da2f339e",
-    "size_kb": 84.7
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page11.jpg": {
+    "md5Checksum": "1285f906919fcafa7d5e95e46d120999",
+    "size_kb": 1205.2
   },
-  "images/books/under_my_bed/image_4.jpg": {
-    "md5Checksum": "d46b05a65c1642c5ac28e5b5d15e9581",
-    "size_kb": 117.8
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page12.jpg": {
+    "md5Checksum": "861951c4457a59cbf0d88c08231becde",
+    "size_kb": 1371.8
   },
-  "images/books/under_my_bed/image_5.jpg": {
-    "md5Checksum": "a30492621208c0f96516680c6ed8065b",
-    "size_kb": 133.8
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page13.jpg": {
+    "md5Checksum": "0f4a3beb49059e276842116cb0abeab1",
+    "size_kb": 1480.9
   },
-  "images/books/under_my_bed/image_6.jpg": {
-    "md5Checksum": "e44f8ae662c41597f9b600b98261dc10",
-    "size_kb": 97.2
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page14.jpg": {
+    "md5Checksum": "6fce33cd61f4569216a14526fa56d1c1",
+    "size_kb": 1189.2
   },
-  "images/books/under_my_bed/image_7.jpg": {
-    "md5Checksum": "a70a25968e1523244377d3aa101398cd",
-    "size_kb": 100.9
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page15.jpg": {
+    "md5Checksum": "63ae94fef09d18e66c74143192a2fa18",
+    "size_kb": 1218.7
   },
-  "images/books/under_my_bed/image_8.jpg": {
-    "md5Checksum": "f5026e67d666747c77c9afd3289bf075",
-    "size_kb": 117.7
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page16.jpg": {
+    "md5Checksum": "77768eb45abcfcf74b5c81314987751b",
+    "size_kb": 609.6
   },
-  "images/books/under_my_bed/image_9.jpg": {
-    "md5Checksum": "10d7e0d383bf16d23565cd958a22d0b7",
-    "size_kb": 131.4
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page17.jpg": {
+    "md5Checksum": "2d5d773694defaa1b5b2f1ca85931e4d",
+    "size_kb": 354.9
   },
-  "images/books/very_green_day/image_1.jpg": {
-    "md5Checksum": "df05112a20104fcebb26c2c666a75c42",
-    "size_kb": 55.7
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page2.jpg": {
+    "md5Checksum": "68b0e0b7866a971268188d8c05799a53",
+    "size_kb": 577.7
   },
-  "images/books/very_green_day/image_10.jpg": {
-    "md5Checksum": "95a95b7c8f5d91bef779986fdb61b7c4",
-    "size_kb": 75.6
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page3.jpg": {
+    "md5Checksum": "2448a2b7496505859f7c246ed37160f4",
+    "size_kb": 612.1
   },
-  "images/books/very_green_day/image_11.jpg": {
-    "md5Checksum": "f1d659cf643931fea6b340962905976c",
-    "size_kb": 108.3
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page5.jpg": {
+    "md5Checksum": "e1a800adf297763b747284f112892f85",
+    "size_kb": 1777.5
   },
-  "images/books/very_green_day/image_12.jpg": {
-    "md5Checksum": "46eea8ebd7c7b78d26181a0d8a6efabf",
-    "size_kb": 50.5
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page7.jpg": {
+    "md5Checksum": "10c3ca2e96e0b3c63681fb72d3b8e20b",
+    "size_kb": 1536.5
   },
-  "images/books/very_green_day/image_13.jpg": {
-    "md5Checksum": "27219d29bd72b33922c220f72b00d594",
-    "size_kb": 60.2
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page8.jpg": {
+    "md5Checksum": "dd024410ec6bb41c1dc715a358b1738f",
+    "size_kb": 1654.7
   },
-  "images/books/very_green_day/image_14.jpg": {
-    "md5Checksum": "f96e77bb90a3aa59c318de89d1ede59d",
-    "size_kb": 75.7
+  "images/books/whats_at_the_park/whats-at-the-park_en_20181213_page9.jpg": {
+    "md5Checksum": "d29c82ffb26b5134a214ad88535a1b82",
+    "size_kb": 1019.7
   },
-  "images/books/very_green_day/image_15.jpg": {
-    "md5Checksum": "449413cfa8fc599209a4adc103b97fc1",
-    "size_kb": 46.8
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_cover.jpg": {
+    "md5Checksum": "83a0db35ba1317b736d6422b0f1e6580",
+    "size_kb": 31.1
   },
-  "images/books/very_green_day/image_16.jpg": {
-    "md5Checksum": "4647d450fbe6633cbf8e37cf2c50d857",
-    "size_kb": 57
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page1.jpg": {
+    "md5Checksum": "3e3e6595834fded515178c737d14eeeb",
+    "size_kb": 28.5
   },
-  "images/books/very_green_day/image_17.jpg": {
-    "md5Checksum": "7f13fc025374bbbde93f4df09deefdff",
-    "size_kb": 64.2
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page10.jpg": {
+    "md5Checksum": "d8234a67b7778fd48a9adeaf52017521",
+    "size_kb": 93.3
   },
-  "images/books/very_green_day/image_18.jpg": {
-    "md5Checksum": "a201be3e10b0273b4b3920f678637f1d",
-    "size_kb": 74.2
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page11.jpg": {
+    "md5Checksum": "657142c4066077cd821e40cac2f9c215",
+    "size_kb": 59.2
   },
-  "images/books/very_green_day/image_19.jpg": {
-    "md5Checksum": "7f103167134fee16f63aa6e3a04b38e6",
-    "size_kb": 26.5
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page12.jpg": {
+    "md5Checksum": "3ddf9452fb9343202b547aa6dca4178d",
+    "size_kb": 105
   },
-  "images/books/very_green_day/image_2.jpg": {
-    "md5Checksum": "9f39fa2311b0be436ff10d145231bbf9",
-    "size_kb": 84.2
-  },
-  "images/books/very_green_day/image_20.jpg": {
-    "md5Checksum": "7ecb60194338c5fe020fae6bfc256da8",
-    "size_kb": 123.1
-  },
-  "images/books/very_green_day/image_21.jpg": {
-    "md5Checksum": "98062bf95e92fcfa20729caf10e6c7ed",
-    "size_kb": 48.4
-  },
-  "images/books/very_green_day/image_22.jpg": {
-    "md5Checksum": "219bbd4a8ba96a6049f88adee070f065",
-    "size_kb": 51.9
-  },
-  "images/books/very_green_day/image_23.jpg": {
-    "md5Checksum": "03e247528bc91aca899278bf28232b77",
-    "size_kb": 66.6
-  },
-  "images/books/very_green_day/image_24.jpg": {
-    "md5Checksum": "59b53059b031fb3c682ac0745715ee77",
-    "size_kb": 26.2
-  },
-  "images/books/very_green_day/image_25.jpg": {
-    "md5Checksum": "4248ce9508e9d013eebdb862aa7933ab",
-    "size_kb": 48.1
-  },
-  "images/books/very_green_day/image_26.jpg": {
-    "md5Checksum": "517f83d74545e9e0fb1941ebb3b98d3e",
-    "size_kb": 47.7
-  },
-  "images/books/very_green_day/image_27.jpg": {
-    "md5Checksum": "06a4c75781dd82c079e650e5ff3b3e8b",
-    "size_kb": 57.3
-  },
-  "images/books/very_green_day/image_28.jpg": {
-    "md5Checksum": "0d2e750c83fb78d7e70924858d400d3b",
-    "size_kb": 18.1
-  },
-  "images/books/very_green_day/image_3.jpg": {
-    "md5Checksum": "7e111314478680b06f1f40c48282ab03",
-    "size_kb": 83.2
-  },
-  "images/books/very_green_day/image_4.jpg": {
-    "md5Checksum": "f5d1322c4d240aa51c864a21fa7550c1",
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page13.jpg": {
+    "md5Checksum": "858b40fd4f9a23fc3ee5b0ba7ab476b9",
     "size_kb": 69.9
   },
-  "images/books/very_green_day/image_5.jpg": {
-    "md5Checksum": "a9b1ecb9f46e76e4ce4b354d69c98faf",
-    "size_kb": 78.7
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page14.jpg": {
+    "md5Checksum": "12e87fc673cac790351fe8681a21f103",
+    "size_kb": 76.8
   },
-  "images/books/very_green_day/image_6.jpg": {
-    "md5Checksum": "75253b9ed46ecc615d36b5babe9ab39d",
-    "size_kb": 60.9
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page15.jpg": {
+    "md5Checksum": "630723182cab8145bacab71ce7192d82",
+    "size_kb": 79.7
   },
-  "images/books/very_green_day/image_7.jpg": {
-    "md5Checksum": "85f9c0c387870a774041648cb47d0f0b",
-    "size_kb": 51.8
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page16.jpg": {
+    "md5Checksum": "667374584b330d5f0d38faea23dcdce5",
+    "size_kb": 100.7
   },
-  "images/books/very_green_day/image_8.jpg": {
-    "md5Checksum": "922b34ea74f028440242a6acdc30aff1",
-    "size_kb": 85.8
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page17.jpg": {
+    "md5Checksum": "08ecaad64ea25855c9309bc6ff6a2cca",
+    "size_kb": 26
   },
-  "images/books/very_green_day/image_9.jpg": {
-    "md5Checksum": "992942a6c7401ae9cab9f2635552522f",
-    "size_kb": 92.5
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page2.jpg": {
+    "md5Checksum": "152d1e11992ec7f59e2fb94b5872d57f",
+    "size_kb": 121.3
+  },
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page3.jpg": {
+    "md5Checksum": "ff4d578aafdaf1e5f9df829c19108726",
+    "size_kb": 46.9
+  },
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page4.jpg": {
+    "md5Checksum": "d39715d255bdb01243a1ef35d4c5a438",
+    "size_kb": 102
+  },
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page5.jpg": {
+    "md5Checksum": "4c7c1e9c9cf3f7cbc024c41c59296129",
+    "size_kb": 78
+  },
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page6.jpg": {
+    "md5Checksum": "8c040b19c9ce4778ebd42f4f7e6f104b",
+    "size_kb": 101.1
+  },
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page7.jpg": {
+    "md5Checksum": "d6efc7a0e6cf081d18c735c4445800b2",
+    "size_kb": 89
+  },
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page8.jpg": {
+    "md5Checksum": "1cf749c4a631e0d3feb71ba210933e51",
+    "size_kb": 58.6
+  },
+  "images/books/whats_in_the_pot/whats-in-the-pot_20170308_page9.jpg": {
+    "md5Checksum": "fc21a86229dce8994c4d410a780dbec8",
+    "size_kb": 73
   },
   "images/books/whats_next/image_1.jpg": {
     "md5Checksum": "5c615a878cd830f6f0070a9000154991",
@@ -3466,6 +3894,150 @@
   "images/books/where_is_lulu/where-is-lulu_20180605_page3.jpg": {
     "md5Checksum": "e5eda361a9f6e1c9ae43088310af48df",
     "size_kb": 127.6
+  },
+  "images/books/yes_you_can/cover.jpg": {
+    "md5Checksum": "784c804674f6e96c33e2f724883fb60d",
+    "size_kb": 2075.7
+  },
+  "images/books/yes_you_can/page1.jpg": {
+    "md5Checksum": "711722a237b55ad21d093f1599580226",
+    "size_kb": 447.7
+  },
+  "images/books/yes_you_can/page10.jpg": {
+    "md5Checksum": "9d8f6891370666c5988149e611fafb1b",
+    "size_kb": 3137.4
+  },
+  "images/books/yes_you_can/page11.jpg": {
+    "md5Checksum": "1e70d9d6a3c9e20ff60cb21945d674a5",
+    "size_kb": 2638.8
+  },
+  "images/books/yes_you_can/page12.jpg": {
+    "md5Checksum": "2bc25ddfd7a37c6f8effac6aa39354a5",
+    "size_kb": 3110.5
+  },
+  "images/books/yes_you_can/page13.jpg": {
+    "md5Checksum": "28802b6157671c44fef952a7c25dd065",
+    "size_kb": 1812.9
+  },
+  "images/books/yes_you_can/page14.jpg": {
+    "md5Checksum": "4d29ff6184f48cc2e3a3799e4dd954fe",
+    "size_kb": 4029.9
+  },
+  "images/books/yes_you_can/page15.jpg": {
+    "md5Checksum": "33e5fbb4d3ac337a83a7ac7ea5767baf",
+    "size_kb": 3863.3
+  },
+  "images/books/yes_you_can/page16.jpg": {
+    "md5Checksum": "ebdc318b308bea3009cc59bc1184d756",
+    "size_kb": 2626.5
+  },
+  "images/books/yes_you_can/page17.jpg": {
+    "md5Checksum": "2f8c5ac8df5b318d8346eb27459a60d8",
+    "size_kb": 516.9
+  },
+  "images/books/yes_you_can/page2.jpg": {
+    "md5Checksum": "ebdc318b308bea3009cc59bc1184d756",
+    "size_kb": 2626.5
+  },
+  "images/books/yes_you_can/page3.jpg": {
+    "md5Checksum": "a891f7590c1e895a17a5e1b5624b7c13",
+    "size_kb": 1300.2
+  },
+  "images/books/yes_you_can/page4.jpg": {
+    "md5Checksum": "3633c5181aff00dff604e53cccf040a9",
+    "size_kb": 4336.6
+  },
+  "images/books/yes_you_can/page5.jpg": {
+    "md5Checksum": "724dfce31aaf89ecadfb16678e172d9a",
+    "size_kb": 3117.5
+  },
+  "images/books/yes_you_can/page6.jpg": {
+    "md5Checksum": "88d3f2f0c01a397469853a0faa0f5a74",
+    "size_kb": 2989
+  },
+  "images/books/yes_you_can/page7.jpg": {
+    "md5Checksum": "c9057f7bd8baf04d5f5fa4ac456dcdd7",
+    "size_kb": 1969.6
+  },
+  "images/books/yes_you_can/page8.jpg": {
+    "md5Checksum": "985ca10d2daa2f27ba6d12b669ee81d9",
+    "size_kb": 3191
+  },
+  "images/books/yes_you_can/page9.jpg": {
+    "md5Checksum": "6128adaea159fced325c442e2478fa01",
+    "size_kb": 3142.8
+  },
+  "images/books/zibu_and_zizo/cover.jpg": {
+    "md5Checksum": "7dd27fc0de2985cb3279386c78605230",
+    "size_kb": 1264.7
+  },
+  "images/books/zibu_and_zizo/page1.jpg": {
+    "md5Checksum": "a04767d9b1acd2df121046a228989f9a",
+    "size_kb": 257.1
+  },
+  "images/books/zibu_and_zizo/page10.jpg": {
+    "md5Checksum": "106681f7b082886dc492c244286c702b",
+    "size_kb": 3070.9
+  },
+  "images/books/zibu_and_zizo/page11.jpg": {
+    "md5Checksum": "4c7f85dc8f07bd7e6c80f2a498afea0a",
+    "size_kb": 3217.1
+  },
+  "images/books/zibu_and_zizo/page12.jpg": {
+    "md5Checksum": "f85a98ae80dba2c0f7147ce560a273a2",
+    "size_kb": 3525.1
+  },
+  "images/books/zibu_and_zizo/page13.jpg": {
+    "md5Checksum": "e18120f4380a757cc726c5d0173fa135",
+    "size_kb": 3394.4
+  },
+  "images/books/zibu_and_zizo/page14.jpg": {
+    "md5Checksum": "8bd0447919382efea5295e75a76716fc",
+    "size_kb": 2995.3
+  },
+  "images/books/zibu_and_zizo/page15.jpg": {
+    "md5Checksum": "13813afe1422f8fe5dc38bc4ad72b5f6",
+    "size_kb": 2784.8
+  },
+  "images/books/zibu_and_zizo/page16.jpg": {
+    "md5Checksum": "7620392fb3c802493f3f0f914c006225",
+    "size_kb": 4693.4
+  },
+  "images/books/zibu_and_zizo/page17.jpg": {
+    "md5Checksum": "930586d6950ebdb4508a52712139d79d",
+    "size_kb": 1877.3
+  },
+  "images/books/zibu_and_zizo/page2.jpg": {
+    "md5Checksum": "2c0b9a76691cf215ec6b74710394ade9",
+    "size_kb": 4691.4
+  },
+  "images/books/zibu_and_zizo/page3.jpg": {
+    "md5Checksum": "78d9c0943c8054dabf5549794ae960af",
+    "size_kb": 3059.1
+  },
+  "images/books/zibu_and_zizo/page4.jpg": {
+    "md5Checksum": "8550a6a89e32359ed6fc221d41482e3b",
+    "size_kb": 3082
+  },
+  "images/books/zibu_and_zizo/page5.jpg": {
+    "md5Checksum": "bd8ba542ee35ae314057beeadc442331",
+    "size_kb": 2969.7
+  },
+  "images/books/zibu_and_zizo/page6.jpg": {
+    "md5Checksum": "f390a3eae48f1943419f3ee37a734521",
+    "size_kb": 2635.2
+  },
+  "images/books/zibu_and_zizo/page7.jpg": {
+    "md5Checksum": "965de98ab1aa73eb8f4b9700a0a9a141",
+    "size_kb": 2929.6
+  },
+  "images/books/zibu_and_zizo/page8.jpg": {
+    "md5Checksum": "561714414b95390fd00c5e598f258ae0",
+    "size_kb": 2619.4
+  },
+  "images/books/zibu_and_zizo/page9.jpg": {
+    "md5Checksum": "8deafd8219130e9a153e79115aa2af7b",
+    "size_kb": 2905
   },
   "images/facilitators_face.svg": {
     "md5Checksum": "3f99592779a36144aee247f32dc67c32",
