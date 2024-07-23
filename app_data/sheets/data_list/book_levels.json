@@ -27,6 +27,11 @@
       "text": "Level 3",
       "description": "This is a Level 3 book for children who are ready to read on their own.",
       "name": "level_3"
+    },
+    {
+      "id": "level_4",
+      "text": "Level 4",
+      "name": "level_4"
     }
   ],
   "_xlsxPath": "data/library/TZ books.xlsx"

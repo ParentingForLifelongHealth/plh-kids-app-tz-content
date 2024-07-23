@@ -3315,36 +3315,78 @@
     {
       "id": "lost_toy",
       "status": "released",
-      "image_cover_asset": "image/books/lost_toy/cover.jpg",
+      "image_cover_asset": "images/books/lost_toy/cover.jpg",
+      "level_id": "level_1",
+      "author": "Sam Beckbessinger",
+      "illustrator": "Amy Slatem",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
-      "image_1_asset": "image/books/lost_toy/page4.jpg",
+      "image_1_asset": "images/books/lost_toy/page4.jpg",
+      "image_2_asset": "images/books/lost_toy/page5.jpg",
+      "image_3_asset": "images/books/lost_toy/page6.jpg",
+      "image_4_asset": "images/books/lost_toy/page7.jpg",
+      "image_5_asset": "images/books/lost_toy/page8.jpg",
+      "image_6_asset": "images/books/lost_toy/page9.jpg",
+      "image_7_asset": "images/books/lost_toy/page10.jpg",
+      "image_8_asset": "images/books/lost_toy/page11.jpg",
+      "image_9_asset": "images/books/lost_toy/page12.jpg",
+      "image_10_asset": "images/books/lost_toy/page13.jpg",
+      "image_11_asset": "images/books/lost_toy/page14.jpg",
+      "image_12_asset": "images/books/lost_toy/page15.jpg",
+      "image_13_asset": "images/books/lost_toy/page16.jpg",
+      "image_14_asset": "images/books/lost_toy/page17.jpg",
       "title": "Lost Toy",
       "_translations": {
-        "title": {}
+        "title": {},
+        "description": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Lost Toy"
+        },
+        "description": {
+          "eng": "A child has lost their favorite toy. They are so sad. Will some kind strangers help?"
         }
-      }
+      },
+      "description": "A child has lost their favorite toy. They are so sad. Will some kind strangers help?"
     },
     {
       "id": "what_at_the_park",
       "status": "released",
-      "image_cover_asset": "image/books/whats_at_the_park/cover.jpg",
+      "image_cover_asset": "images/books/whats_at_the_park/cover.jpg",
+      "level_id": "level_2",
       "author": "David Mann",
       "illustrator": "Jess Jardim-Wedepohl",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
-      "image_1_asset": "image/books/whats_at_the_park/page4.jpg",
-      "image_2_asset": "image/books/whats_at_the_park/page5.jpg",
-      "image_3_asset": "image/books/whats_at_the_park/page6.jpg",
+      "image_1_asset": "images/books/whats_at_the_park/page4.jpg",
+      "image_2_asset": "images/books/whats_at_the_park/page5.jpg",
+      "image_3_asset": "images/books/whats_at_the_park/page6.jpg",
+      "image_4_asset": "images/books/whats_at_the_park/page7.jpg",
+      "image_5_asset": "images/books/whats_at_the_park/page8.jpg",
+      "image_6_asset": "images/books/whats_at_the_park/page9.jpg",
+      "image_7_asset": "images/books/whats_at_the_park/page10.jpg",
+      "image_8_asset": "images/books/whats_at_the_park/page11.jpg",
+      "image_9_asset": "images/books/whats_at_the_park/page12.jpg",
+      "image_10_asset": "images/books/whats_at_the_park/page13.jpg",
+      "image_11_asset": "images/books/whats_at_the_park/page14.jpg",
+      "image_12_asset": "images/books/whats_at_the_park/page15.jpg",
+      "image_13_asset": "images/books/whats_at_the_park/page16.jpg",
+      "image_14_asset": "images/books/whats_at_the_park/page17.jpg",
       "title": "What’s at the Park?",
       "_translations": {
         "title": {},
         "description": {},
         "text_1": {},
         "text_3_left": {},
-        "text_2": {}
+        "text_4_left": {},
+        "text_5_left": {},
+        "text_6_left": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_2": {},
+        "text_7_left": {},
+        "text_11_left": {},
+        "text_12_left": {}
       },
       "_translatedFields": {
         "title": {
@@ -3361,34 +3403,71 @@
         },
         "text_3_left": {
           "eng": "Granny needs glasses to see. But she can hear very well. Zoey is good at finding things. Even better than Granny!"
+        },
+        "text_4_left": {
+          "eng": "She can find birds and bugs."
+        },
+        "text_5_left": {
+          "eng": "She can find the prettiest flowers and the tallest trees."
+        },
+        "text_6_left": {
+          "eng": "And she’s very good at finding Granny’s secret sweets."
+        },
+        "text_7_left": {
+          "eng": "“What’s that noise behind the tree?” asks Granny. “Does it sound like a bird?” asks Zoey. “No,” says Granny. “It sounds much bigger than a bird. Can you see what it is?”"
+        },
+        "text_8": {
+          "eng": "“It’s a dog!” says Zoey."
+        },
+        "text_9": {
+          "eng": "“Phew!” says Granny. “This dog is very smelly!”"
+        },
+        "text_10": {
+          "eng": "The next day, Zoey comes home from school and packs her bag. “Are you ready to go to the park?” asks Granny. “Yes, please,” says Zoey. “Granny, look who’s outside!” says Zoey."
+        },
+        "text_11_left": {
+          "eng": "“You found us!” says Zoey. “Now, let’s give you a bath.”"
+        },
+        "text_12_left": {
+          "eng": "And from that day on, Zoey, Granny and their new friend played in the park every day."
         }
       },
       "description": "Zoey loves finding things in the park. One day, she gets a big surprise.",
       "text_1": "Down the road from Zoey’s house, there is a big, green park.",
       "text_3_left": "Granny needs glasses to see. But she can hear very well. Zoey is good at finding things. Even better than Granny!",
-      "text_2": "Zoey is quite shy, but she loves to play in the park. Every day after school, Zoey and Granny go there to play."
+      "text_4_left": "She can find birds and bugs.",
+      "text_5_left": "She can find the prettiest flowers and the tallest trees.",
+      "text_6_left": "And she’s very good at finding Granny’s secret sweets.",
+      "text_8": "“It’s a dog!” says Zoey.",
+      "text_9": "“Phew!” says Granny. “This dog is very smelly!”",
+      "text_10": "The next day, Zoey comes home from school and packs her bag. “Are you ready to go to the park?” asks Granny. “Yes, please,” says Zoey. “Granny, look who’s outside!” says Zoey.",
+      "text_2": "Zoey is quite shy, but she loves to play in the park. Every day after school, Zoey and Granny go there to play.",
+      "text_7_left": "“What’s that noise behind the tree?” asks Granny. “Does it sound like a bird?” asks Zoey. “No,” says Granny. “It sounds much bigger than a bird. Can you see what it is?”",
+      "text_11_left": "“You found us!” says Zoey. “Now, let’s give you a bath.”",
+      "text_12_left": "And from that day on, Zoey, Granny and their new friend played in the park every day."
     },
     {
       "id": "zibu_and_zizo",
       "status": "released",
-      "image_cover_asset": "image/books/zibu_and_zizo/cover.jpg",
+      "image_cover_asset": "images/books/zibu_and_zizo/cover.jpg",
+      "level_id": "level_2",
       "author": "Refilwe Nsibande",
       "illustrator": "Josephine Versfeld",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.\norg/licenses/by/4.0/).",
-      "image_1_asset": "image/books/zibu_and_zizo/page4.jpg",
-      "image_2_asset": "image/books/zibu_and_zizo/page5.jpg",
-      "image_3_asset": "image/books/zibu_and_zizo/page6.jpg",
-      "image_4_asset": "image/books/zibu_and_zizo/page7.jpg",
-      "image_5_asset": "image/books/zibu_and_zizo/page8.jpg",
-      "image_6_asset": "image/books/zibu_and_zizo/page9.jpg",
-      "image_7_asset": "image/books/zibu_and_zizo/page10.jpg",
-      "image_8_asset": "image/books/zibu_and_zizo/page11.jpg",
-      "image_9_asset": "image/books/zibu_and_zizo/page12.jpg",
-      "image_10_asset": "image/books/zibu_and_zizo/page13.jpg",
-      "image_11_asset": "image/books/zibu_and_zizo/page14.jpg",
-      "image_12_asset": "image/books/zibu_and_zizo/page15.jpg",
-      "image_13_asset": "image/books/zibu_and_zizo/page16.jpg",
-      "image_14_asset": "image/books/zibu_and_zizo/page17.jpg",
+      "image_1_asset": "images/books/zibu_and_zizo/page4.jpg",
+      "image_2_asset": "images/books/zibu_and_zizo/page5.jpg",
+      "image_3_asset": "images/books/zibu_and_zizo/page6.jpg",
+      "image_4_asset": "images/books/zibu_and_zizo/page7.jpg",
+      "image_5_asset": "images/books/zibu_and_zizo/page8.jpg",
+      "image_6_asset": "images/books/zibu_and_zizo/page9.jpg",
+      "image_7_asset": "images/books/zibu_and_zizo/page10.jpg",
+      "image_8_asset": "images/books/zibu_and_zizo/page11.jpg",
+      "image_9_asset": "images/books/zibu_and_zizo/page12.jpg",
+      "image_10_asset": "images/books/zibu_and_zizo/page13.jpg",
+      "image_11_asset": "images/books/zibu_and_zizo/page14.jpg",
+      "image_12_asset": "images/books/zibu_and_zizo/page15.jpg",
+      "image_13_asset": "images/books/zibu_and_zizo/page16.jpg",
+      "image_14_asset": "images/books/zibu_and_zizo/page17.jpg",
       "title": "Zibu and Zizo",
       "_translations": {
         "title": {},
@@ -3467,24 +3546,24 @@
     {
       "id": "yes_you_can",
       "status": "released",
-      "image_cover_asset": "image/books/yes_you_can/cover.jpg",
+      "image_cover_asset": "images/books/yes_you_can/cover.jpg",
       "author": "Xolile Sepuru",
       "illustrator": "Subi Bosa",
       "licence": "Creative Commons Attribution 4.0 Licence (http://\ncreativecommons.org/licenses/by/4.0/).",
-      "image_1_asset": "image/books/yes_you_can/page4.jpg",
-      "image_2_asset": "image/books/yes_you_can/page5.jpg",
-      "image_3_asset": "image/books/yes_you_can/page6.jpg",
-      "image_4_asset": "image/books/yes_you_can/page7.jpg",
-      "image_5_asset": "image/books/yes_you_can/page8.jpg",
-      "image_6_asset": "image/books/yes_you_can/page9.jpg",
-      "image_7_asset": "image/books/yes_you_can/page10.jpg",
-      "image_8_asset": "image/books/yes_you_can/page11.jpg",
-      "image_9_asset": "image/books/yes_you_can/page12.jpg",
-      "image_10_asset": "image/books/yes_you_can/page13.jpg",
-      "image_11_asset": "image/books/yes_you_can/page14.jpg",
-      "image_12_asset": "image/books/yes_you_can/page15.jpg",
-      "image_13_asset": "image/books/yes_you_can/page16.jpg",
-      "image_14_asset": "image/books/yes_you_can/page17.jpg",
+      "image_1_asset": "images/books/yes_you_can/page4.jpg",
+      "image_2_asset": "images/books/yes_you_can/page5.jpg",
+      "image_3_asset": "images/books/yes_you_can/page6.jpg",
+      "image_4_asset": "images/books/yes_you_can/page7.jpg",
+      "image_5_asset": "images/books/yes_you_can/page8.jpg",
+      "image_6_asset": "images/books/yes_you_can/page9.jpg",
+      "image_7_asset": "images/books/yes_you_can/page10.jpg",
+      "image_8_asset": "images/books/yes_you_can/page11.jpg",
+      "image_9_asset": "images/books/yes_you_can/page12.jpg",
+      "image_10_asset": "images/books/yes_you_can/page13.jpg",
+      "image_11_asset": "images/books/yes_you_can/page14.jpg",
+      "image_12_asset": "images/books/yes_you_can/page15.jpg",
+      "image_13_asset": "images/books/yes_you_can/page16.jpg",
+      "image_14_asset": "images/books/yes_you_can/page17.jpg",
       "title": "Yes you can!",
       "_translations": {
         "title": {},
@@ -3563,25 +3642,41 @@
     {
       "id": "yello_earth_brown_earth",
       "status": "released",
-      "image_cover_asset": "image/books/yellow_earth_brown_earth/image_1.jpg",
+      "image_cover_asset": "images/books/yellow_earth_brown_earth/image_1.jpg",
       "level_id": "level_2",
       "author": "Sanjana Kapur",
       "illustrator": "Debasmita Dasgupta",
       "licence": "© Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
-      "image_1_asset": "image/books/yellow_earth_brown_earth/image_2.jpg",
-      "image_2_asset": "image/books/yellow_earth_brown_earth/image_3.jpg",
-      "image_3_asset": "image/books/yellow_earth_brown_earth/image_4.jpg",
-      "image_4_asset": "image/books/yellow_earth_brown_earth/image_5.jpg",
-      "image_5_asset": "image/books/yellow_earth_brown_earth/image_6.jpg",
-      "image_6_asset": "image/books/yellow_earth_brown_earth/image_7.jpg",
-      "image_7_asset": "image/books/yellow_earth_brown_earth/image_8.jpg",
-      "image_8_asset": "image/books/yellow_earth_brown_earth/image_9.jpg",
-      "image_9_asset": "image/books/yellow_earth_brown_earth/image_10.jpg",
-      "image_10_asset": "image/books/yellow_earth_brown_earth/image_11.jpg",
+      "image_1_asset": "images/books/yellow_earth_brown_earth/image_2.jpgs",
+      "image_2_asset": "images/books/yellow_earth_brown_earth/image_3.jpg",
+      "image_3_asset": "images/books/yellow_earth_brown_earth/image_4.jpg",
+      "image_4_asset": "images/books/yellow_earth_brown_earth/image_5.jpg",
+      "image_5_asset": "images/books/yellow_earth_brown_earth/image_6.jpg",
+      "image_6_asset": "images/books/yellow_earth_brown_earth/image_7.jpg",
+      "image_7_asset": "images/books/yellow_earth_brown_earth/image_8.jpg",
+      "image_8_asset": "images/books/yellow_earth_brown_earth/image_9.jpg",
+      "image_9_asset": "images/books/yellow_earth_brown_earth/image_10.jpg",
+      "image_10_asset": "images/books/yellow_earth_brown_earth/image_11.jpg",
       "title": "Yellow Earth, Brown Earth",
       "_translations": {
         "title": {},
-        "description": {}
+        "description": {},
+        "text_1": {},
+        "text_2_right": {},
+        "text_4_right": {},
+        "text_5_right": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_8": {},
+        "text_10": {},
+        "text_1_right": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_9_left": {},
+        "text_9_right": {}
       },
       "_translatedFields": {
         "title": {
@@ -3589,31 +3684,96 @@
         },
         "description": {
           "eng": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns."
+        },
+        "text_1": {
+          "eng": "Avi wakes up early. It is a good day. Avi is visiting Yellow Earth today. Yellow flowers, dried-up flowers, tiny flowers. Yellow flowers—"
+        },
+        "text_1_right": {
+          "eng": "Avi makes bunches."
+        },
+        "text_2": {
+          "eng": "Avi looks for the perfect stick to poke the earth with. Smooth stick bumpy stick. Smooth stick—"
+        },
+        "text_2_right": {
+          "eng": "Avi keeps looking for treasures."
+        },
+        "text_3": {
+          "eng": "Avi collects seeds. Brown seeds, black seeds, red seeds, green seeds. Brown seeds, black seeds— Yellow Earth is a happy place."
+        },
+        "text_4": {
+          "eng": "Avi is visiting Grey Earth today."
+        },
+        "text_4_right": {
+          "eng": "Big puddle, small puddle, no puddle. Big puddle, small puddle—"
+        },
+        "text_5": {
+          "eng": "Drip! Drop! Plish! Drip—"
+        },
+        "text_5_right": {
+          "eng": "Grey Earth is a wet place."
+        },
+        "text_6": {
+          "eng": "Avi is visiting Brown Earth today. CRUNCH crunch CRUNCH crunch—"
+        },
+        "text_6_right": {
+          "eng": "Avi stomps on the dry ground."
+        },
+        "text_7": {
+          "eng": "Avi smiles at the bright sun. Long cloud, round cloud, thin cloud. Long cloud— Brown Earth is a joyful place."
+        },
+        "text_8": {
+          "eng": "Avi watches the Earth change every year. Yellow Earth, Grey Earth, Brown Earth—"
+        },
+        "text_9_left": {
+          "eng": "Avi is looking for a stick."
+        },
+        "text_9_right": {
+          "eng": "Off to Yellow Earth again!"
+        },
+        "text_10": {
+          "eng": "Patterns Are All Around Us The day, the week, the month and the year — all have patterns that repeat. The seasons change every year and come back the same way. Every year, winter is followed by summer, which is followed by the monsoon. Look around you and try to spot these patterns. Go back to the beginning of the book and look for patterns you might have missed."
         }
       },
-      "description": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns."
+      "description": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns.",
+      "text_1": "Avi wakes up early. It is a good day. Avi is visiting Yellow Earth today. Yellow flowers, dried-up flowers, tiny flowers. Yellow flowers—",
+      "text_2_right": "Avi keeps looking for treasures.",
+      "text_4_right": "Big puddle, small puddle, no puddle. Big puddle, small puddle—",
+      "text_5_right": "Grey Earth is a wet place.",
+      "text_6_right": "Avi stomps on the dry ground.",
+      "text_7": "Avi smiles at the bright sun. Long cloud, round cloud, thin cloud. Long cloud— Brown Earth is a joyful place.",
+      "text_8": "Avi watches the Earth change every year. Yellow Earth, Grey Earth, Brown Earth—",
+      "text_10": "Patterns Are All Around Us The day, the week, the month and the year — all have patterns that repeat. The seasons change every year and come back the same way. Every year, winter is followed by summer, which is followed by the monsoon. Look around you and try to spot these patterns. Go back to the beginning of the book and look for patterns you might have missed.",
+      "text_1_right": "Avi makes bunches.",
+      "text_2": "Avi looks for the perfect stick to poke the earth with. Smooth stick bumpy stick. Smooth stick—",
+      "text_3": "Avi collects seeds. Brown seeds, black seeds, red seeds, green seeds. Brown seeds, black seeds— Yellow Earth is a happy place.",
+      "text_4": "Avi is visiting Grey Earth today.",
+      "text_5": "Drip! Drop! Plish! Drip—",
+      "text_6": "Avi is visiting Brown Earth today. CRUNCH crunch CRUNCH crunch—",
+      "text_9_left": "Avi is looking for a stick.",
+      "text_9_right": "Off to Yellow Earth again!"
     },
     {
       "id": "why_is_nita_upside_down",
       "status": "released",
-      "image_cover_asset": "image/books/why_is_nita_upside_down/image_1.jpg",
+      "image_cover_asset": "images/books/why_is_nita_upside_down/image_1.jpg",
+      "level_id": "level_2",
       "author": "Roxana Bouwer",
       "illustrator": "Sarah Bouwer",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
-      "image_1_asset": "image/books/why_is_nita_upside_down/image_2.jpg",
-      "image_2_asset": "image/books/why_is_nita_upside_down/image_3.jpg",
-      "image_3_asset": "image/books/why_is_nita_upside_down/image_4.jpg",
-      "image_4_asset": "image/books/why_is_nita_upside_down/image_5.jpg",
-      "image_5_asset": "image/books/why_is_nita_upside_down/image_6.jpg",
-      "image_6_asset": "image/books/why_is_nita_upside_down/image_7.jpg",
-      "image_7_asset": "image/books/why_is_nita_upside_down/image_8.jpg",
-      "image_8_asset": "image/books/why_is_nita_upside_down/image_9.jpg",
-      "image_9_asset": "image/books/why_is_nita_upside_down/image_10.jpg",
-      "image_10_asset": "image/books/why_is_nita_upside_down/image_11.jpg",
-      "image_11_asset": "image/books/why_is_nita_upside_down/image_12.jpg",
-      "image_12_asset": "image/books/why_is_nita_upside_down/image_13.jpg",
-      "image_13_asset": "image/books/why_is_nita_upside_down/image_14.jpg",
-      "image_14_asset": "image/books/why_is_nita_upside_down/image_15.jpg",
+      "image_1_asset": "images/books/why_is_nita_upside_down/image_2.jpg",
+      "image_2_asset": "images/books/why_is_nita_upside_down/image_3.jpg",
+      "image_3_asset": "images/books/why_is_nita_upside_down/image_4.jpg",
+      "image_4_asset": "images/books/why_is_nita_upside_down/image_5.jpg",
+      "image_5_asset": "images/books/why_is_nita_upside_down/image_6.jpg",
+      "image_6_asset": "images/books/why_is_nita_upside_down/image_7.jpg",
+      "image_7_asset": "images/books/why_is_nita_upside_down/image_8.jpg",
+      "image_8_asset": "images/books/why_is_nita_upside_down/image_9.jpg",
+      "image_9_asset": "images/books/why_is_nita_upside_down/image_10.jpg",
+      "image_10_asset": "images/books/why_is_nita_upside_down/image_11.jpg",
+      "image_11_asset": "images/books/why_is_nita_upside_down/image_12.jpg",
+      "image_12_asset": "images/books/why_is_nita_upside_down/image_13.jpg",
+      "image_13_asset": "images/books/why_is_nita_upside_down/image_14.jpg",
+      "image_14_asset": "images/books/why_is_nita_upside_down/image_15.jpg",
       "title": "Why is Nita Upside Down",
       "_translations": {
         "title": {},
@@ -3621,11 +3781,11 @@
         "text_2_left": {},
         "text_3_left": {},
         "text_4_left": {},
-        "text_6_left": {},
         "text_7": {},
         "text_9": {},
         "text_10": {},
         "text_1_left": {},
+        "text_6": {},
         "text_11_right": {},
         "text_8_left": {},
         "text_12_left": {},
@@ -3651,7 +3811,7 @@
         "text_4_left": {
           "eng": "Navi takes her by the hand. He wants to help her understand. They climb to Navi’s look-out spot. From up here they can see a lot. They perch and have a quiet stare at children playing here and there."
         },
-        "text_6_left": {
+        "text_6": {
           "eng": "Those kids are not tthe same at all. Abe’s round."
         },
         "text_7": {
@@ -3683,12 +3843,12 @@
       "text_2_left": "Her feet, they poke into the sky. Little Navi’s walking by. He says ‘I’ve seen you here before. You’re upside down again! What for?’",
       "text_3_left": "His feet swim lightly in the air. She tries to hide behind her hair. ‘It’s h-h-h-hard to t-t-talk’, she says to him. ‘I’m not the same. I don’t fit in.’",
       "text_4_left": "Navi takes her by the hand. He wants to help her understand. They climb to Navi’s look-out spot. From up here they can see a lot. They perch and have a quiet stare at children playing here and there.",
-      "text_6_left": "Those kids are not tthe same at all. Abe’s round.",
       "text_7": "Chi’s freckled,",
       "text_9": "Bambam’s wild and must be free,",
       "text_10": "while Lulu’s reading quietly.",
       "text_1_left": "Nita’s hanging upside down, her long hair tickling at the ground. The trees, the grass, the everything is all the wrong way round.",
-      "image_15_asset": "image/books/why_is_nita_upside_down/image_16.jpg",
+      "text_6": "Those kids are not tthe same at all. Abe’s round.",
+      "image_15_asset": "images/books/why_is_nita_upside_down/image_16.jpg",
       "text_11_right": "Look at Freya's crazy hair.",
       "text_8_left": "Lala’s extra tall.",
       "text_12_left": "And Sid wears glasses everywhere.",
@@ -3698,33 +3858,34 @@
     {
       "id": "when_i_grow_up",
       "status": "released",
-      "image_cover_asset": "image/books/when_i_grow_up/image_1.jpg",
+      "image_cover_asset": "images/books/when_i_grow_up/image_1.jpg",
+      "level_id": "level_4",
       "author": "Michele Fry",
       "illustrator": "Simóne van der Spuy",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
-      "image_1_asset": "image/books/when_i_grow_up/image_2.jpg",
-      "image_2_asset": "image/books/when_i_grow_up/image_3.jpg",
-      "image_3_asset": "image/books/when_i_grow_up/image_4.jpg",
-      "image_4_asset": "image/books/when_i_grow_up/image_5.jpg",
-      "image_5_asset": "image/books/when_i_grow_up/image_6.jpg",
-      "image_6_asset": "image/books/when_i_grow_up/image_7.jpg",
-      "image_7_asset": "image/books/when_i_grow_up/image_8.jpg",
-      "image_8_asset": "image/books/when_i_grow_up/image_9.jpg",
-      "image_9_asset": "image/books/when_i_grow_up/image_10.jpg",
-      "image_10_asset": "image/books/when_i_grow_up/image_11.jpg",
-      "image_11_asset": "image/books/when_i_grow_up/image_12.jpg",
-      "image_12_asset": "image/books/when_i_grow_up/image_13.jpg",
-      "image_13_asset": "image/books/when_i_grow_up/image_14.jpg",
-      "image_14_asset": "image/books/when_i_grow_up/image_15.jpg",
+      "image_1_asset": "images/books/when_i_grow_up/image_2.jpg",
+      "image_2_asset": "images/books/when_i_grow_up/image_3.jpg",
+      "image_3_asset": "images/books/when_i_grow_up/image_4.jpg",
+      "image_4_asset": "images/books/when_i_grow_up/image_5.jpg",
+      "image_5_asset": "images/books/when_i_grow_up/image_6.jpg",
+      "image_6_asset": "images/books/when_i_grow_up/image_7.jpg",
+      "image_7_asset": "images/books/when_i_grow_up/image_8.jpg",
+      "image_8_asset": "images/books/when_i_grow_up/image_9.jpg",
+      "image_9_asset": "images/books/when_i_grow_up/image_10.jpg",
+      "image_10_asset": "images/books/when_i_grow_up/image_11.jpg",
+      "image_11_asset": "images/books/when_i_grow_up/image_12.jpg",
+      "image_12_asset": "images/books/when_i_grow_up/image_13.jpg",
+      "image_13_asset": "images/books/when_i_grow_up/image_14.jpg",
+      "image_14_asset": "images/books/when_i_grow_up/image_15.jpg",
       "title": "When I grow up",
       "_translations": {
         "title": {},
         "description": {},
-        "text_6_right": {},
         "text_7": {},
         "text_11": {},
         "text_2": {},
         "text_4": {},
+        "text_6": {},
         "text_13": {},
         "text_15": {},
         "text_9_right": {},
@@ -3746,7 +3907,7 @@
         "text_4": {
           "eng": "When I grow up, I want to be a dancer and dance on a stage."
         },
-        "text_6_right": {
+        "text_6": {
           "eng": "When I grow up, I want to be a firefighter and put out big fires."
         },
         "text_7": {
@@ -3778,29 +3939,1175 @@
         }
       },
       "description": "I don’t know what I want to be when I grow up. Can you help me choose?",
-      "text_6_right": "When I grow up, I want to be a firefighter and put out big fires.",
       "text_7": "When I grow up, I want to be a nurse and make sick people better.",
       "text_11": "When I grow up, I want to be a mechanic and fix cars and tractors.",
       "text_2": "What do I want to be when I grow up?",
       "text_4": "When I grow up, I want to be a dancer and dance on a stage.",
-      "image_15_asset": "image/books/when_i_grow_up/image_16.jpg",
+      "text_6": "When I grow up, I want to be a firefighter and put out big fires.",
+      "image_15_asset": "images/books/when_i_grow_up/image_16.jpg",
       "text_13": "When I grow up, I want to be a teacher and teach children to read and write.",
       "text_15": "When I grow up, I want to be a soccer player and score the winning goal.",
-      "image_16_asset": "image/books/when_i_grow_up/image_17.jpg",
+      "image_16_asset": "images/books/when_i_grow_up/image_17.jpg",
       "text_9_right": "When I grow up, I want to be a musician and play in a band.",
       "text_16": "When I grow up, I want to be an astronaut and fly to the moon.",
-      "image_17_asset": "image/books/when_i_grow_up/image_18.jpg",
-      "image_18_asset": "image/books/when_i_grow_up/image_19.jpg",
-      "image_19_asset": "image/books/when_i_grow_up/image_20.jpg",
-      "image_20_asset": "image/books/when_i_grow_up/image_21.jpg",
+      "image_17_asset": "images/books/when_i_grow_up/image_18.jpg",
+      "image_18_asset": "images/books/when_i_grow_up/image_19.jpg",
+      "image_19_asset": "images/books/when_i_grow_up/image_20.jpg",
+      "image_20_asset": "images/books/when_i_grow_up/image_21.jpg",
       "text_19": "When I grow up, I want to be a chef and make food for my family and friends.",
-      "image_21_asset": "image/books/when_i_grow_up/image_22.jpg",
-      "image_22_asset": "image/books/when_i_grow_up/image_23.jpg",
-      "image_23_asset": "image/books/when_i_grow_up/image_24.jpg",
-      "image_24_asset": "image/books/when_i_grow_up/image_25.jpg",
+      "image_21_asset": "images/books/when_i_grow_up/image_22.jpg",
+      "image_22_asset": "images/books/when_i_grow_up/image_23.jpg",
+      "image_23_asset": "images/books/when_i_grow_up/image_24.jpg",
+      "image_24_asset": "images/books/when_i_grow_up/image_25.jpg",
       "image_25_asset": "image/books/when_i_grow_up/image_26.jpg",
       "text_21": "When I grow up, I can choose whatever I want to be!",
       "text_22": "What do you want to be when you grow up?"
+    },
+    {
+      "id": "whats_in_the_pot",
+      "status": "released",
+      "image_cover_asset": "images/books/what_in_the_pot/cover.jpg",
+      "level_id": "level_2",
+      "author": "Crystal Warren",
+      "illustrator": "Hayley Alonzo",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/what_in_the_pot/page4.jpg",
+      "image_2_asset": "images/books/what_in_the_pot/page5.jpg",
+      "image_3_asset": "images/books/what_in_the_pot/page6.jpg",
+      "image_4_asset": "images/books/what_in_the_pot/page7.jpg",
+      "image_5_asset": "images/books/what_in_the_pot/page8.jpg",
+      "image_6_asset": "images/books/what_in_the_pot/page9.jpg",
+      "image_7_asset": "images/books/what_in_the_pot/page10.jpg",
+      "image_8_asset": "images/books/what_in_the_pot/page11.jpg",
+      "image_9_asset": "images/books/what_in_the_pot/page12.jpg",
+      "image_10_asset": "images/books/what_in_the_pot/page13.jpg",
+      "image_11_asset": "images/books/what_in_the_pot/page14.jpg",
+      "image_12_asset": "images/books/what_in_the_pot/page15.jpg",
+      "image_13_asset": "images/books/what_in_the_pot/page16.jpg",
+      "image_14_asset": "images/books/what_in_the_pot/page17.jpg",
+      "title": "What's In The Pot?",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2_right": {},
+        "text_3_left": {},
+        "text_4_right": {},
+        "text_5_left": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {},
+        "text_3": {},
+        "text_4": {},
+        "text_6": {},
+        "text_8_right": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What's In The Pot?"
+        },
+        "description": {
+          "eng": "Sam can’t wait for supper. What’s in the pot? Wait and see."
+        },
+        "text_1": {
+          "eng": "“What’s for supper?” asked Sam. “It’s a surprise”, said Mama, putting a big pot on the stove."
+        },
+        "text_2_right": {
+          "eng": "She added a jug of water. Sam was worried. “Are we having water for supper?” he wailed. “It’s a surprise. Wait and see.” replied Mama."
+        },
+        "text_3": {
+          "eng": "“Can I help?” asked Sam. “I could stir.”"
+        },
+        "text_3_left": {
+          "eng": "“You are still a bit short,” said Mama. “The pot might fall over. But you can help me by fetching things.”"
+        },
+        "text_4": {
+          "eng": "\"Can you bring me an onoin, please.\" \"This doesn't smell very nice.\""
+        },
+        "text_4_right": {
+          "eng": "\"They will taste nice once they are cooked.\""
+        },
+        "text_5_left": {
+          "eng": "“Now I need some tomatoes. No, that is an apple. The tomatoes are also round and red, but you will find them in the fridge.”"
+        },
+        "text_6": {
+          "eng": "“Can you bring me potatoes. They are round and brown.”"
+        },
+        "text_6_right": {
+          "eng": "“Is supper ready yet?”"
+        },
+        "text_7": {
+          "eng": "“If you are hungry you can eat the apple while you wait.” “What about these?” “No, we won’t need biscuits. We can save those for after supper.”"
+        },
+        "text_8": {
+          "eng": "“What’s in the pot?”"
+        },
+        "text_8_right": {
+          "eng": "“It’s a surprise. Wait and see.”"
+        },
+        "text_9": {
+          "eng": "“What about this?” “That is a watermelon. It will be too big for the pot.” “See if you can find some spinach. It is also green.”"
+        },
+        "text_10": {
+          "eng": "“Please get some bread. No, it won’t go into the pot but on the table.”"
+        },
+        "text_11": {
+          "eng": "Mama carried the pot to the table and started to dish up. “What’s in the pot?” asked Sam."
+        },
+        "text_12": {
+          "eng": "“Soup!” My favourite!"
+        }
+      },
+      "description": "Sam can’t wait for supper. What’s in the pot? Wait and see.",
+      "text_1": "“What’s for supper?” asked Sam. “It’s a surprise”, said Mama, putting a big pot on the stove.",
+      "text_2_right": "She added a jug of water. Sam was worried. “Are we having water for supper?” he wailed. “It’s a surprise. Wait and see.” replied Mama.",
+      "text_3_left": "“You are still a bit short,” said Mama. “The pot might fall over. But you can help me by fetching things.”",
+      "text_4_right": "\"They will taste nice once they are cooked.\"",
+      "text_5_left": "“Now I need some tomatoes. No, that is an apple. The tomatoes are also round and red, but you will find them in the fridge.”",
+      "text_6_right": "“Is supper ready yet?”",
+      "text_7": "“If you are hungry you can eat the apple while you wait.” “What about these?” “No, we won’t need biscuits. We can save those for after supper.”",
+      "text_8": "“What’s in the pot?”",
+      "text_9": "“What about this?” “That is a watermelon. It will be too big for the pot.” “See if you can find some spinach. It is also green.”",
+      "text_10": "“Please get some bread. No, it won’t go into the pot but on the table.”",
+      "text_11": "Mama carried the pot to the table and started to dish up. “What’s in the pot?” asked Sam.",
+      "text_12": "“Soup!” My favourite!",
+      "text_3": "“Can I help?” asked Sam. “I could stir.”",
+      "text_4": "\"Can you bring me an onoin, please.\" \"This doesn't smell very nice.\"",
+      "text_6": "“Can you bring me potatoes. They are round and brown.”",
+      "text_8_right": "“It’s a surprise. Wait and see.”"
+    },
+    {
+      "id": "tlotlegos_tea_party",
+      "status": "released",
+      "image_cover_asset": "images/books/tlotlegos_tea_party/cover.jpg",
+      "author": "Laura de Lange",
+      "illustrator": "Nicolene Louw",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/tlotlegos_tea_party/page4.jpg",
+      "image_2_asset": "images/books/tlotlegos_tea_party/page5.jpg",
+      "image_3_asset": "images/books/tlotlegos_tea_party/page6.jpg",
+      "image_4_asset": "images/books/tlotlegos_tea_party/page7.jpg",
+      "image_5_asset": "images/books/tlotlegos_tea_party/page8.jpg",
+      "image_6_asset": "images/books/tlotlegos_tea_party/page9.jpg",
+      "image_7_asset": "images/books/tlotlegos_tea_party/page10.jpg",
+      "image_8_asset": "images/books/tlotlegos_tea_party/page11.jpg",
+      "image_9_asset": "images/books/tlotlegos_tea_party/page12.jpg",
+      "image_10_asset": "images/books/tlotlegos_tea_party/page13.jpg",
+      "image_11_asset": "images/books/tlotlegos_tea_party/page14.jpg",
+      "image_12_asset": "images/books/tlotlegos_tea_party/page15.jpg",
+      "image_13_asset": "images/books/tlotlegos_tea_party/page16.jpg",
+      "image_14_asset": "images/books/tlotlegos_tea_party/page17.jpg",
+      "title": "Tlotlego's Tea Party",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_7_right": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Tlotlego's Tea Party"
+        },
+        "description": {
+          "eng": "Tlotlego is hosting a tea party! But something strange keeps happening while he is setting the table."
+        },
+        "text_1": {
+          "eng": "Tlotlego is hosting a tea party for the WHOLE family. “How many people are coming for tea, Koko?” “You, me, Mama, and Papa. And your little sister, Tshiamo.”"
+        },
+        "text_2": {
+          "eng": "Tlotlego counts the teacups as he takes them from the kitchen. “One, two, three, four, and one for Koko!”"
+        },
+        "text_3": {
+          "eng": "Tlotlego goes to the stoep and places the teacups down on the table. “One, two, three, four, and ... ?” “I only see four cups,” says Koko, “but we are five people.” “When I was in the kitchen before, there were five cups!” Tlotlego exclaims."
+        },
+        "text_4": {
+          "eng": "Tlotlego counts the pretty little plates as he takes them from the cupboard. “One, two, three, four, and five! There’s a plate for each of us.”"
+        },
+        "text_5": {
+          "eng": "Tlotlego goes to the stoep and places the plates next to the teacups.“One, two, three, four, and ... ?” “I only see four plates,” says Koko, “but we are five people.”"
+        },
+        "text_6": {
+          "eng": "Tlotlego counts the biscuits as he takes them from the jar. “One, two, three, four, and five!”"
+        },
+        "text_7": {
+          "eng": "Tlotlego goes to the stoep and places the biscuits on the plates."
+        },
+        "text_7_right": {
+          "eng": "“One, two, three, four, and ... ?” “I only see four biscuits,” says Koko, “but we are five people.”"
+        },
+        "text_8": {
+          "eng": "Tlotlego is very confused. He knows he has been counting correctly. Before he had five biscuits, and now there are only four. HOW did the biscuits become less?"
+        },
+        "text_9": {
+          "eng": "Tlotlego counts the sugar cubes as he takes them from the jar. “One, two, three, four, and five!”"
+        },
+        "text_10": {
+          "eng": "Tlotlego goes to the stoep and places the sugar cubes on the table. This time, he is sure he hears a giggle. “One, two, three, four, and ... ?” “Five!” shouts a voice from under the table."
+        },
+        "text_11": {
+          "eng": "Tlotlego bends down to look under the table. To his shock, he sees a complete tea set laid out under the table! There are the missing teacup, plate, biscuit, and sugar cube. FIVE!"
+        },
+        "text_12": {
+          "eng": "When Mama and Papa come home from work, they all have tea on the stoep. One, two, three of them having tea at the table, and two of them having tea below!"
+        }
+      },
+      "description": "Tlotlego is hosting a tea party! But something strange keeps happening while he is setting the table.",
+      "text_1": "Tlotlego is hosting a tea party for the WHOLE family. “How many people are coming for tea, Koko?” “You, me, Mama, and Papa. And your little sister, Tshiamo.”",
+      "text_7": "Tlotlego goes to the stoep and places the biscuits on the plates.",
+      "text_8": "Tlotlego is very confused. He knows he has been counting correctly. Before he had five biscuits, and now there are only four. HOW did the biscuits become less?",
+      "text_9": "Tlotlego counts the sugar cubes as he takes them from the jar. “One, two, three, four, and five!”",
+      "text_10": "Tlotlego goes to the stoep and places the sugar cubes on the table. This time, he is sure he hears a giggle. “One, two, three, four, and ... ?” “Five!” shouts a voice from under the table.",
+      "text_11": "Tlotlego bends down to look under the table. To his shock, he sees a complete tea set laid out under the table! There are the missing teacup, plate, biscuit, and sugar cube. FIVE!",
+      "text_12": "When Mama and Papa come home from work, they all have tea on the stoep. One, two, three of them having tea at the table, and two of them having tea below!",
+      "text_2": "Tlotlego counts the teacups as he takes them from the kitchen. “One, two, three, four, and one for Koko!”",
+      "text_3": "Tlotlego goes to the stoep and places the teacups down on the table. “One, two, three, four, and ... ?” “I only see four cups,” says Koko, “but we are five people.” “When I was in the kitchen before, there were five cups!” Tlotlego exclaims.",
+      "text_4": "Tlotlego counts the pretty little plates as he takes them from the cupboard. “One, two, three, four, and five! There’s a plate for each of us.”",
+      "text_5": "Tlotlego goes to the stoep and places the plates next to the teacups.“One, two, three, four, and ... ?” “I only see four plates,” says Koko, “but we are five people.”",
+      "text_6": "Tlotlego counts the biscuits as he takes them from the jar. “One, two, three, four, and five!”",
+      "text_7_right": "“One, two, three, four, and ... ?” “I only see four biscuits,” says Koko, “but we are five people.”"
+    },
+    {
+      "id": "the_one_in_the_middle",
+      "status": "released",
+      "image_cover_asset": "images/books/the_one_in_the_middle/cover.jpg",
+      "author": "Kirsty Paxton",
+      "illustrator": "Neeske Alexander",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/the_one_in_the_middle/page4.jpg",
+      "image_2_asset": "images/books/the_one_in_the_middle/page5.jpg",
+      "image_3_asset": "images/books/the_one_in_the_middle/page6.jpg",
+      "image_4_asset": "images/books/the_one_in_the_middle/page7.jpg",
+      "image_5_asset": "images/books/the_one_in_the_middle/page8.jpg",
+      "image_6_asset": "images/books/the_one_in_the_middle/page9.jpg",
+      "image_7_asset": "images/books/the_one_in_the_middle/page10.jpg",
+      "image_8_asset": "images/books/the_one_in_the_middle/page11.jpg",
+      "image_9_asset": "images/books/the_one_in_the_middle/page12.jpg",
+      "image_10_asset": "images/books/the_one_in_the_middle/page13.jpg",
+      "image_11_asset": "images/books/the_one_in_the_middle/page14.jpg",
+      "image_12_asset": "images/books/the_one_in_the_middle/page15.jpg",
+      "image_13_asset": "images/books/the_one_in_the_middle/page16.jpg",
+      "image_14_asset": "images/books/the_one_in_the_middle/page17.jpg",
+      "title": "The one on the middle",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_11": {},
+        "text_1_left": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_11_left": {},
+        "text_7_right": {},
+        "text_9_left": {},
+        "text_8_right": {},
+        "text_10_right": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The one on the middle"
+        },
+        "description": {
+          "eng": "Khanyiswa is not the first born. She’s not the last born. She’s the one in the MIDDLE!"
+        },
+        "text_1_left": {
+          "eng": "I am the middle one. Not the first born. Not the last born. The one in the middle!"
+        },
+        "text_2": {
+          "eng": "The one in the middle can be easy to forget."
+        },
+        "text_3": {
+          "eng": "And easy to leave out."
+        },
+        "text_4": {
+          "eng": "But that’s okay because I am also the one with IDEAS!"
+        },
+        "text_5": {
+          "eng": "Look what I can make from just this cardboard box! A BEAUTIFUL house... with real doors and windows."
+        },
+        "text_7_right": {
+          "eng": "My house has an extra special bed, and a MAGIC SLIDE."
+        },
+        "text_8_right": {
+          "eng": "Some days my house is also a shop."
+        },
+        "text_9_left": {
+          "eng": "And on other days it’s a VERY FANTASTIC show."
+        },
+        "text_10_right": {
+          "eng": "Sometimes my house is just for me!"
+        },
+        "text_11": {
+          "eng": "And that’s the best place for me."
+        },
+        "text_11_left": {
+          "eng": "And sometimes it’s a house for three! I am the middle one. Not the first born. Not the last born. The one in the middle!"
+        }
+      },
+      "description": "Khanyiswa is not the first born. She’s not the last born. She’s the one in the MIDDLE!",
+      "text_11": "And that’s the best place for me.",
+      "text_1_left": "I am the middle one. Not the first born. Not the last born. The one in the middle!",
+      "text_2": "The one in the middle can be easy to forget.",
+      "text_3": "And easy to leave out.",
+      "text_4": "But that’s okay because I am also the one with IDEAS!",
+      "text_5": "Look what I can make from just this cardboard box! A BEAUTIFUL house... with real doors and windows.",
+      "text_11_left": "And sometimes it’s a house for three! I am the middle one. Not the first born. Not the last born. The one in the middle!",
+      "text_7_right": "My house has an extra special bed, and a MAGIC SLIDE.",
+      "text_9_left": "And on other days it’s a VERY FANTASTIC show.",
+      "text_8_right": "Some days my house is also a shop.",
+      "text_10_right": "Sometimes my house is just for me!"
+    },
+    {
+      "id": "the_best_thing_ever",
+      "status": "released",
+      "image_cover_asset": "images/books/the_best_thing_ever/cover.jpg",
+      "level_id": "level_1",
+      "author": "Melissa Fagan",
+      "illustrator": "Lauren Nel",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/\nlicenses/by/4.0/).",
+      "image_1_asset": "images/books/the_best_thing_ever/page4.jpg",
+      "image_2_asset": "images/books/the_best_thing_ever/page5.jpg",
+      "image_3_asset": "images/books/the_best_thing_ever/page6.jpg",
+      "image_4_asset": "images/books/the_best_thing_ever/page7.jpg",
+      "image_5_asset": "images/books/the_best_thing_ever/page8.jpg",
+      "image_6_asset": "images/books/the_best_thing_ever/page9.jpg",
+      "image_7_asset": "images/books/the_best_thing_ever/page10.jpg",
+      "image_8_asset": "images/books/the_best_thing_ever/page11.jpg",
+      "image_9_asset": "images/books/the_best_thing_ever/page12.jpg",
+      "image_10_asset": "images/books/the_best_thing_ever/page13.jpg",
+      "image_11_asset": "images/books/the_best_thing_ever/page14.jpg",
+      "image_12_asset": "images/books/the_best_thing_ever/page15.jpg",
+      "image_13_asset": "images/books/the_best_thing_ever/page16.jpg",
+      "image_14_asset": "images/books/the_best_thing_ever/page17.jpg",
+      "title": "The best thing ever",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_6_right": {},
+        "text_7": {},
+        "text_8": {},
+        "text_1_right": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_11_right": {},
+        "text_9_right": {},
+        "text_10_right": {},
+        "text_12_right": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The best thing ever"
+        },
+        "description": {
+          "eng": "Muzi loves to build with his toys. But when he leaves them behind to travel to uGogo’s house, he discovers something very special about the world. And he learns something new about himself."
+        },
+        "text_1_right": {
+          "eng": "Muzi loves to build things. He dreams of building the best thing ever."
+        },
+        "text_2": {
+          "eng": "Once he built a shelter for his toys. But it wasn’t the best thing ever."
+        },
+        "text_3": {
+          "eng": "Yesterday he built a bridge for his animals. It was a good thing. But not the best..."
+        },
+        "text_4": {
+          "eng": "Today Muzi is going to visit uGogo. He is sad. Without his toys, how can he build the best thing ever?"
+        },
+        "text_5": {
+          "eng": "At the bus stop, Muzi is amazed. He sees red things and blue things. Small things and big things. New things and old things."
+        },
+        "text_6_right": {
+          "eng": "Muzi has a new idea for building the best thing ever."
+        },
+        "text_7": {
+          "eng": "On the road to uGogo’s, Muzi finds many things. Long things and short things. Round things and square things."
+        },
+        "text_8": {
+          "eng": "By the riverside, Muzi finds more things. Soft things and pointy things. Green things and brown things."
+        },
+        "text_9_right": {
+          "eng": "Look, Muzi! We are here."
+        },
+        "text_10_right": {
+          "eng": "While uGogo bakes for the hungry travellers... Muzi builds."
+        },
+        "text_11_right": {
+          "eng": "Gogo, Gogo! says Muzi. The world is full of toys. Look what I can build."
+        },
+        "text_12_right": {
+          "eng": "Oh, Muzi, laughs Gogo. A new house for me. This is the best thing ever!"
+        }
+      },
+      "description": "Muzi loves to build with his toys. But when he leaves them behind to travel to uGogo’s house, he discovers something very special about the world. And he learns something new about himself.",
+      "text_6_right": "Muzi has a new idea for building the best thing ever.",
+      "text_7": "On the road to uGogo’s, Muzi finds many things. Long things and short things. Round things and square things.",
+      "text_8": "By the riverside, Muzi finds more things. Soft things and pointy things. Green things and brown things.",
+      "text_1_right": "Muzi loves to build things. He dreams of building the best thing ever.",
+      "text_2": "Once he built a shelter for his toys. But it wasn’t the best thing ever.",
+      "text_3": "Yesterday he built a bridge for his animals. It was a good thing. But not the best...",
+      "text_4": "Today Muzi is going to visit uGogo. He is sad. Without his toys, how can he build the best thing ever?",
+      "text_5": "At the bus stop, Muzi is amazed. He sees red things and blue things. Small things and big things. New things and old things.",
+      "text_11_right": "Gogo, Gogo! says Muzi. The world is full of toys. Look what I can build.",
+      "text_9_right": "Look, Muzi! We are here.",
+      "text_10_right": "While uGogo bakes for the hungry travellers... Muzi builds.",
+      "text_12_right": "Oh, Muzi, laughs Gogo. A new house for me. This is the best thing ever!"
+    },
+    {
+      "id": "tejus_shadow",
+      "status": "released",
+      "image_cover_asset": "images/books/tejus_shadow/cover.jpg",
+      "level_id": "level_3",
+      "author": "Sope Martins",
+      "illustrator": "Ndumiso Nyoni",
+      "licence": "© Book Dash , 2019. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/tejus_shadow/page4.jpg",
+      "image_2_asset": "images/books/tejus_shadow/page5.jpg",
+      "image_3_asset": "images/books/tejus_shadow/page6.jpg",
+      "image_4_asset": "images/books/tejus_shadow/page7.jpg",
+      "image_5_asset": "images/books/tejus_shadow/page8.jpg",
+      "image_6_asset": "images/books/tejus_shadow/page9.jpg",
+      "image_7_asset": "images/books/tejus_shadow/page10.jpg",
+      "image_10_asset": "images/books/tejus_shadow/page11.jpg",
+      "image_11_asset": "images/books/tejus_shadow/page12.jpg",
+      "image_12_asset": "images/books/tejus_shadow/page13.jpg",
+      "image_13_asset": "images/books/tejus_shadow/page14.jpg",
+      "image_14_asset": "images/books/tejus_shadow/page15.jpg",
+      "title": "Teju's Shadow",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {},
+        "text_13": {},
+        "text_14": {},
+        "text_12_right": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Teju's Shadow"
+        },
+        "description": {
+          "eng": "Teju is worried. Something keeps following him! What could it be?"
+        },
+        "text_1": {
+          "eng": "“What’s that?”"
+        },
+        "text_2": {
+          "eng": "Teju hides. “It won’t find me here!”"
+        },
+        "text_3": {
+          "eng": "He runs. “Why are you following me?”"
+        },
+        "text_4": {
+          "eng": "Leave me ALONE!"
+        },
+        "text_5": {
+          "eng": "Go away. Go away.GO AWAY! “Teju! What are you doing?” “It won’t go away!” “Your shadow?”"
+        },
+        "text_6": {
+          "eng": "“It follows me everywhere! It’s like a super secret spy!”"
+        },
+        "text_7": {
+          "eng": "“Well, there’s one way to make a shadow disappear...”"
+        },
+        "text_8": {
+          "eng": "MAMA!"
+        },
+        "text_9": {
+          "eng": "Later that night in Teju’s bedroom, the light goes off...  ...and then on. And off... ...and on. Teju can’t sleep."
+        },
+        "text_10": {
+          "eng": "<<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>"
+        },
+        "text_11": {
+          "eng": "“What’s wrong Teju?” “It only goes away in the dark, but I’m scared of the dark!” Mum gives Teju a big hug. “Do you want to see something amazing?”"
+        },
+        "text_12": {
+          "eng": "OOOHHHH! AAAAHH!"
+        },
+        "text_12_right": {
+          "eng": "Mum and Teju make shadow puppets until he falls asleep."
+        },
+        "text_13": {
+          "eng": "“Cool!” After school, Teju waits for Mum. “I’m bored.” Teju stands up, he jumps, he dances.His shadow does the same."
+        },
+        "text_14": {
+          "eng": "When he goes to bed that night, Teju leaves his night Light on. “Goodnight Shadow!”"
+        }
+      },
+      "description": "Teju is worried. Something keeps following him! What could it be?",
+      "text_1": "“What’s that?”",
+      "text_7": "“Well, there’s one way to make a shadow disappear...”",
+      "text_8": "MAMA!",
+      "text_9": "Later that night in Teju’s bedroom, the light goes off...  ...and then on. And off... ...and on. Teju can’t sleep.",
+      "text_10": "<<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>   <<CLICK>>",
+      "text_11": "“What’s wrong Teju?” “It only goes away in the dark, but I’m scared of the dark!” Mum gives Teju a big hug. “Do you want to see something amazing?”",
+      "text_12": "OOOHHHH! AAAAHH!",
+      "text_2": "Teju hides. “It won’t find me here!”",
+      "text_3": "He runs. “Why are you following me?”",
+      "text_4": "Leave me ALONE!",
+      "text_5": "Go away. Go away.GO AWAY! “Teju! What are you doing?” “It won’t go away!” “Your shadow?”",
+      "text_6": "“It follows me everywhere! It’s like a super secret spy!”",
+      "image_15_asset": "images/books/tejus_shadow/page17.jpg",
+      "text_13": "“Cool!” After school, Teju waits for Mum. “I’m bored.” Teju stands up, he jumps, he dances.His shadow does the same.",
+      "text_14": "When he goes to bed that night, Teju leaves his night Light on. “Goodnight Shadow!”",
+      "text_12_right": "Mum and Teju make shadow puppets until he falls asleep."
+    },
+    {
+      "id": "paint_day_plant_day",
+      "status": "released",
+      "image_cover_asset": "images/books/paint_day_plant_day/image_1.jpg",
+      "level_id": "level_2",
+      "author": "Sanjana Kapur",
+      "illustrator": "Debasmita Dasgupta",
+      "licence": "© Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/paint_day_plant_day/image_2.jpg",
+      "image_2_asset": "images/books/paint_day_plant_day/image_3.jpg",
+      "image_3_asset": "images/books/paint_day_plant_day/image_4.jpg",
+      "image_4_asset": "images/books/paint_day_plant_day/image_5.jpg",
+      "image_5_asset": "images/books/paint_day_plant_day/image_6.jpg",
+      "image_6_asset": "images/books/paint_day_plant_day/image_7.jpg",
+      "image_7_asset": "images/books/paint_day_plant_day/image_8.jpg",
+      "image_8_asset": "images/books/paint_day_plant_day/image_9.jpg",
+      "image_9_asset": "images/books/paint_day_plant_day/image_10.jpg",
+      "image_10_asset": "images/books/paint_day_plant_day/image_11.jpg",
+      "image_11_asset": "images/books/paint_day_plant_day/image_12.jpg",
+      "title": "Paint Dat, Plant Day",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_1_right": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Paint Dat, Plant Day"
+        },
+        "description": {
+          "eng": "Avi enjoys plant day, music day and paint day, and being busy throughout the week. Join in as Avi potters about the house, in this book about noticing and recognising patterns."
+        },
+        "text_1_right": {
+          "eng": "Avi stretches and jumps out of bed. Today is Plant Day."
+        },
+        "text_2": {
+          "eng": "Mama takes out the seeds. Avi places them carefully in the pots. Small pot, tall pot, square pot. Small pot— Avi waters the plants."
+        },
+        "text_3": {
+          "eng": "Avi washes the brushes. Papa mixes the paints. Today is Paint Day. Swish, dip, squash, swirl. Swish, dip— Avi loves mixing the colours."
+        },
+        "text_4": {
+          "eng": "Today is Fixing Day. Mama and Avi tighten the screws on the table. Tighten, thamp! Tighten, thamp! Avi checks to see if the table is still wobbly."
+        },
+        "text_5": {
+          "eng": "Today is Cleaning Day. Avi helps Mama and Papa dust everything. Dhup, wipe, cough, clean. Dhup, wipe— ACHOO!"
+        },
+        "text_6": {
+          "eng": "Today is Sheet Day. Avi is changing the sheets on the beds. Pull, tuck, pull, tuck, pat-pat. Pull, tuck—"
+        },
+        "text_7": {
+          "eng": "Avi lines up all the cushions and pillows on the floor. Cushion, cushion, pillow, bolster. Cushion, cushion— JUMP!"
+        },
+        "text_8": {
+          "eng": "Music Day is Avi’s favourite. No one stops the loud sounds! Dham-dhoom- japh, dham- dhoom- japh. Avi hits the drums again. Dham—"
+        },
+        "text_9": {
+          "eng": "It is Bird Day. Avi watches the birds with Mama and Papa. Brown bird, slow-walker, long legs. Brown bird—"
+        },
+        "text_10": {
+          "eng": "Avi yawns. He is tired but excited about waking up in the morning. Tomorrow is Plant Day again!"
+        },
+        "text_11": {
+          "eng": "<span><b>Patterns Are All Around Us </b></span><span>The days, the weeks, the months and the years always follow a pattern. Look at the days in your week. Is any day kept for a special activity? Make a calendar for yourself and fill it with the patterns you see.</span>"
+        }
+      },
+      "description": "Avi enjoys plant day, music day and paint day, and being busy throughout the week. Join in as Avi potters about the house, in this book about noticing and recognising patterns.",
+      "text_7": "Avi lines up all the cushions and pillows on the floor. Cushion, cushion, pillow, bolster. Cushion, cushion— JUMP!",
+      "text_8": "Music Day is Avi’s favourite. No one stops the loud sounds! Dham-dhoom- japh, dham- dhoom- japh. Avi hits the drums again. Dham—",
+      "text_9": "It is Bird Day. Avi watches the birds with Mama and Papa. Brown bird, slow-walker, long legs. Brown bird—",
+      "text_10": "Avi yawns. He is tired but excited about waking up in the morning. Tomorrow is Plant Day again!",
+      "text_11": "<span><b>Patterns Are All Around Us </b></span><span>The days, the weeks, the months and the years always follow a pattern. Look at the days in your week. Is any day kept for a special activity? Make a calendar for yourself and fill it with the patterns you see.</span>",
+      "text_1_right": "Avi stretches and jumps out of bed. Today is Plant Day.",
+      "text_2": "Mama takes out the seeds. Avi places them carefully in the pots. Small pot, tall pot, square pot. Small pot— Avi waters the plants.",
+      "text_3": "Avi washes the brushes. Papa mixes the paints. Today is Paint Day. Swish, dip, squash, swirl. Swish, dip— Avi loves mixing the colours.",
+      "text_4": "Today is Fixing Day. Mama and Avi tighten the screws on the table. Tighten, thamp! Tighten, thamp! Avi checks to see if the table is still wobbly.",
+      "text_5": "Today is Cleaning Day. Avi helps Mama and Papa dust everything. Dhup, wipe, cough, clean. Dhup, wipe— ACHOO!",
+      "text_6": "Today is Sheet Day. Avi is changing the sheets on the beds. Pull, tuck, pull, tuck, pat-pat. Pull, tuck—"
+    },
+    {
+      "id": "my_little_garden",
+      "status": "released",
+      "image_cover_asset": "images/books/my_little_garden/cover.jpg",
+      "level_id": "level_1",
+      "author": "Bridget Krone",
+      "illustrator": "Megan Lotter",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/my_little_garden/page4.jpg",
+      "image_2_asset": "images/books/my_little_garden/page5.jpg",
+      "image_3_asset": "images/books/my_little_garden/page6.jpg",
+      "image_4_asset": "images/books/my_little_garden/page7.jpg",
+      "image_5_asset": "images/books/my_little_garden/page8.jpg",
+      "image_6_asset": "images/books/my_little_garden/page9.jpg",
+      "image_7_asset": "images/books/my_little_garden/page10.jpg",
+      "image_8_asset": "images/books/my_little_garden/page11.jpg",
+      "image_9_asset": "images/books/my_little_garden/page12.jpg",
+      "image_10_asset": "images/books/my_little_garden/page13.jpg",
+      "image_11_asset": "images/books/my_little_garden/page14.jpg",
+      "image_12_asset": "images/books/my_little_garden/page15.jpg",
+      "image_13_asset": "images/books/my_little_garden/page16.jpg",
+      "image_14_asset": "images/books/my_little_garden/page17.jpg",
+      "title": "My little garden",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "My little garden"
+        },
+        "description": {
+          "eng": "A little boy and his dad find a plot full of litter. Can they turn it into something wonderful?"
+        }
+      },
+      "description": "A little boy and his dad find a plot full of litter. Can they turn it into something wonderful?"
+    },
+    {
+      "id": "mama_whats_for_lunch",
+      "status": "released",
+      "image_cover_asset": "images/books/mama_whats_for_lunch/cover.jpg",
+      "level_id": "level_2",
+      "author": "Sally Partridge",
+      "illustrator": "Heather Jenkins",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/mama_whats_for_lunch/page4.jpg",
+      "image_2_asset": "images/books/mama_whats_for_lunch/page5.jpg",
+      "image_3_asset": "images/books/mama_whats_for_lunch/page6.jpg",
+      "image_4_asset": "images/books/mama_whats_for_lunch/page7.jpg",
+      "image_5_asset": "images/books/mama_whats_for_lunch/page8.jpg",
+      "image_6_asset": "images/books/mama_whats_for_lunch/page9.jpg",
+      "image_7_asset": "images/books/mama_whats_for_lunch/page10.jpg",
+      "image_8_asset": "images/books/mama_whats_for_lunch/page11.jpg",
+      "image_9_asset": "images/books/mama_whats_for_lunch/page12.jpg",
+      "image_10_asset": "images/books/mama_whats_for_lunch/page13.jpg",
+      "image_11_asset": "images/books/mama_whats_for_lunch/page14.jpg",
+      "image_12_asset": "images/books/mama_whats_for_lunch/page15.jpg",
+      "image_13_asset": "images/books/mama_whats_for_lunch/page16.jpg",
+      "image_14_asset": "images/books/mama_whats_for_lunch/page17.jpg",
+      "title": "Mama, What's For Lunch",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_1": {},
+        "text_2_right": {},
+        "text_4_right": {},
+        "text_6_right": {},
+        "text_3": {},
+        "text_5": {},
+        "text_11_right": {},
+        "text_7_right": {},
+        "text_8_right": {},
+        "text_9_right": {},
+        "text_10_right": {},
+        "text_12_right": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Mama, What's For Lunch"
+        },
+        "description": {
+          "eng": "Join Thabo and his sister Tumi for magical lunches with Mama!"
+        },
+        "text_1": {
+          "eng": "“Hurry,Thabo. Mama is making lunch,” calls Tumi."
+        },
+        "text_2_right": {
+          "eng": "“Where are you going, Thabo?”"
+        },
+        "text_3": {
+          "eng": "His friends don’t understand why he chooses lunch over their game, but Thabo has a secret. Mama’s lunches are special."
+        },
+        "text_4_right": {
+          "eng": "On Monday, Mama shapes their food like little bugs that wriggle and crawl, making Tumi shriek in fright. “EEEE!” But they are yummy fruit and vegetables, and not very scary at all."
+        },
+        "text_5": {
+          "eng": "On Tuesday, she makes a lion that roars so loudly the house shakes. “ROAR!” ut it’s just delicious pasta and cheese."
+        },
+        "text_6_right": {
+          "eng": "On Wednesday, Mama creates a chicken that wakes up the whole street. “CLUCK CLUCK PAKAA!” But it’s just a plate of juicy fruit."
+        },
+        "text_7_right": {
+          "eng": "On Thursday, she builds a noisy truck. Thabo and Tumi cover their ears. “VROOOM!” But it’s a sweet strawberry jam sandwich."
+        },
+        "text_8_right": {
+          "eng": "On Friday, Mama makes a beautiful garden filled with flowers, birds and ladybugs. “TWEET TWEET!” But it’s healthy pap, beans and a crunchy salad"
+        },
+        "text_9_right": {
+          "eng": "“Mama, what’s for lunch?” asks Tumi. “Yes, Mama,” says Thabo. “What are you making today?”"
+        },
+        "text_10_right": {
+          "eng": "Thabo and Tumi can’t wait another second. Their tummies are grumbling. Finally, Mama is ready. “What is it Mama?” asks Thabo, licking his lips."
+        },
+        "text_11_right": {
+          "eng": "It’s Thabo, Tumi and Mama! “Mmm, our favourite, your famous stew and rice.” “Thank you, Mama!”"
+        },
+        "text_12_right": {
+          "eng": "What will Mama make on Sunday?"
+        }
+      },
+      "description": "Join Thabo and his sister Tumi for magical lunches with Mama!",
+      "text_1": "“Hurry,Thabo. Mama is making lunch,” calls Tumi.",
+      "text_2_right": "“Where are you going, Thabo?”",
+      "text_4_right": "On Monday, Mama shapes their food like little bugs that wriggle and crawl, making Tumi shriek in fright. “EEEE!” But they are yummy fruit and vegetables, and not very scary at all.",
+      "text_6_right": "On Wednesday, Mama creates a chicken that wakes up the whole street. “CLUCK CLUCK PAKAA!” But it’s just a plate of juicy fruit.",
+      "text_3": "His friends don’t understand why he chooses lunch over their game, but Thabo has a secret. Mama’s lunches are special.",
+      "text_5": "On Tuesday, she makes a lion that roars so loudly the house shakes. “ROAR!” ut it’s just delicious pasta and cheese.",
+      "text_11_right": "It’s Thabo, Tumi and Mama! “Mmm, our favourite, your famous stew and rice.” “Thank you, Mama!”",
+      "text_7_right": "On Thursday, she builds a noisy truck. Thabo and Tumi cover their ears. “VROOOM!” But it’s a sweet strawberry jam sandwich.",
+      "text_8_right": "On Friday, Mama makes a beautiful garden filled with flowers, birds and ladybugs. “TWEET TWEET!” But it’s healthy pap, beans and a crunchy salad",
+      "text_9_right": "“Mama, what’s for lunch?” asks Tumi. “Yes, Mama,” says Thabo. “What are you making today?”",
+      "text_10_right": "Thabo and Tumi can’t wait another second. Their tummies are grumbling. Finally, Mama is ready. “What is it Mama?” asks Thabo, licking his lips.",
+      "text_12_right": "What will Mama make on Sunday?"
+    },
+    {
+      "id": "lets_go_on_a_litter_hunt",
+      "status": "released",
+      "image_cover_asset": "images/books/lets_go_on_a_litter_hunt/cover.jpg",
+      "author": "Sue Adams",
+      "illustrator": "Lyn Leventhorpe",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/lets_go_on_a_litter_hunt/page4.jpg",
+      "image_2_asset": "images/books/lets_go_on_a_litter_hunt/page5.jpg",
+      "image_3_asset": "images/books/lets_go_on_a_litter_hunt/page6.jpg",
+      "image_4_asset": "images/books/lets_go_on_a_litter_hunt/page7.jpg",
+      "image_5_asset": "images/books/lets_go_on_a_litter_hunt/page8.jpg",
+      "image_6_asset": "images/books/lets_go_on_a_litter_hunt/page9.jpg",
+      "image_7_asset": "images/books/lets_go_on_a_litter_hunt/page10.jpg",
+      "image_8_asset": "images/books/lets_go_on_a_litter_hunt/page11.jpg",
+      "image_9_asset": "images/books/lets_go_on_a_litter_hunt/page12.jpg",
+      "image_10_asset": "images/books/lets_go_on_a_litter_hunt/page13.jpg",
+      "image_11_asset": "images/books/lets_go_on_a_litter_hunt/page14.jpg",
+      "image_12_asset": "images/books/lets_go_on_a_litter_hunt/page15.jpg",
+      "image_13_asset": "images/books/lets_go_on_a_litter_hunt/page16.jpg",
+      "image_14_asset": "images/books/lets_go_on_a_litter_hunt/page17.jpg",
+      "title": "Let's go on a litter hunt",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_2_left": {},
+        "text_5_left": {},
+        "text_7": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_1_left": {},
+        "text_12": {},
+        "text_3": {},
+        "text_4": {},
+        "text_6": {},
+        "text_8_left": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Let's go on a litter hunt"
+        },
+        "description": {
+          "eng": "The yard is a mess. How will the children clean up?"
+        },
+        "text_1_left": {
+          "eng": "Papa says, “This yard is a MESS. The wind blew the rubbish in.” Mama says, “Let’s go on a litter hunt. First look for tins.” Papa says, “Wear these gloves.” Yuck!"
+        },
+        "text_2_left": {
+          "eng": "We’re going on a tin hunt. We look up high and down low. We look under the bushes and against the fence."
+        },
+        "text_3": {
+          "eng": "We’ve found red tins and green tins, rusty tins and shiny tins, clean tins and dirty tins. Yuck!"
+        },
+        "text_4": {
+          "eng": "What must we do with all these tins? Find a bin and put them in! Now look for plastic."
+        },
+        "text_5_left": {
+          "eng": "We’re going on a plastic hunt. We look up high and down low. We look behind the chicken coop and in front of the house."
+        },
+        "text_6": {
+          "eng": "We’ve found milk bottles and bottle tops, shopping bags and sucker sticks, straws and broken buckets. Yuck!"
+        },
+        "text_7": {
+          "eng": "What must we do with all this plastic? Find a bin and put it in! Now look for paper."
+        },
+        "text_8_left": {
+          "eng": "We’re going on a paper hunt. We look up high and down low. We look near the water barrel and on top of the bench."
+        },
+        "text_9": {
+          "eng": "We’ve found wet paper and dry paper, cardboard boxes and newspaper, old paper plates and dirty tissues. Yuck!"
+        },
+        "text_10": {
+          "eng": "What must we do with all this paper? Find a bin and put it in! What else can you look for? Hmm ..."
+        },
+        "text_11": {
+          "eng": "There’s no more mess! Wow! This place is so clean. Thanks, litter hunters."
+        },
+        "text_12": {
+          "eng": "You deserve a treat! And remember ... what must you do with your litter? Find a bin and put it in!"
+        }
+      },
+      "description": "The yard is a mess. How will the children clean up?",
+      "text_2_left": "We’re going on a tin hunt. We look up high and down low. We look under the bushes and against the fence.",
+      "text_5_left": "We’re going on a plastic hunt. We look up high and down low. We look behind the chicken coop and in front of the house.",
+      "text_7": "What must we do with all this plastic? Find a bin and put it in! Now look for paper.",
+      "text_9": "We’ve found wet paper and dry paper, cardboard boxes and newspaper, old paper plates and dirty tissues. Yuck!",
+      "text_10": "What must we do with all this paper? Find a bin and put it in! What else can you look for? Hmm ...",
+      "text_11": "There’s no more mess! Wow! This place is so clean. Thanks, litter hunters.",
+      "text_1_left": "Papa says, “This yard is a MESS. The wind blew the rubbish in.” Mama says, “Let’s go on a litter hunt. First look for tins.” Papa says, “Wear these gloves.” Yuck!",
+      "text_12": "You deserve a treat! And remember ... what must you do with your litter? Find a bin and put it in!",
+      "text_3": "We’ve found red tins and green tins, rusty tins and shiny tins, clean tins and dirty tins. Yuck!",
+      "text_4": "What must we do with all these tins? Find a bin and put them in! Now look for plastic.",
+      "text_6": "We’ve found milk bottles and bottle tops, shopping bags and sucker sticks, straws and broken buckets. Yuck!",
+      "text_8_left": "We’re going on a paper hunt. We look up high and down low. We look near the water barrel and on top of the bench."
+    },
+    {
+      "id": "how_do_you_sleep",
+      "status": "released",
+      "image_cover_asset": "images/books/how_do_you_sleep/cover.jpg",
+      "level_id": "level_1",
+      "author": "Diane Awerbuck",
+      "illustrator": "Alex Latimer",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/how_do_you_sleep/page4.jpg",
+      "image_2_asset": "images/books/how_do_you_sleep/page5.jpg",
+      "image_3_asset": "images/books/how_do_you_sleep/page6.jpg",
+      "image_4_asset": "images/books/how_do_you_sleep/page7.jpg",
+      "image_5_asset": "images/books/how_do_you_sleep/page8.jpg",
+      "image_6_asset": "images/books/how_do_you_sleep/page9.jpg",
+      "image_7_asset": "images/books/how_do_you_sleep/page10.jpg",
+      "image_8_asset": "images/books/how_do_you_sleep/page11.jpg",
+      "image_9_asset": "images/books/how_do_you_sleep/page12.jpg",
+      "image_10_asset": "images/books/how_do_you_sleep/page13.jpg",
+      "image_11_asset": "images/books/how_do_you_sleep/page14.jpg",
+      "image_12_asset": "images/books/how_do_you_sleep/page15.jpg",
+      "image_13_asset": "images/books/how_do_you_sleep/page16.jpg",
+      "image_14_asset": "images/books/how_do_you_sleep/page17.jpg",
+      "title": "How do you sleep?",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_10": {},
+        "text_11": {},
+        "text_12": {},
+        "text_2": {},
+        "text_3": {},
+        "text_4": {},
+        "text_5": {},
+        "text_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How do you sleep?"
+        },
+        "description": {
+          "eng": "Can you sleep with one eye open? Can you sleep in a tree? Pula has a bed, but he wants to know how other creatures sleep."
+        },
+        "text_2": {
+          "eng": "How do you sleep, bird? I fly in my sleep"
+        },
+        "text_3": {
+          "eng": "How do you sleep, bat? I sleep upside down."
+        },
+        "text_4": {
+          "eng": "How do you sleep, bullfrog? I rest on my side"
+        },
+        "text_5": {
+          "eng": "How do you sleep, octopus? I change colour in my dreams."
+        },
+        "text_6": {
+          "eng": "How do you sleep, duck? We take turns to guard each other."
+        },
+        "text_7": {
+          "eng": "How do you sleep, baby owl? I sleep on my face."
+        },
+        "text_8": {
+          "eng": "How do you sleep, otter? We sleep holding hands."
+        },
+        "text_9": {
+          "eng": "How do you sleep, walrus? I sleep on the land and under the water."
+        },
+        "text_10": {
+          "eng": "How do you sleep, giraffe? We sleep on each other."
+        },
+        "text_11": {
+          "eng": "How do you sleep, meerkat? We sleep in a heap."
+        },
+        "text_12": {
+          "eng": "How do you sleep, Pula? Good night! Sleep tight!"
+        }
+      },
+      "description": "Can you sleep with one eye open? Can you sleep in a tree? Pula has a bed, but he wants to know how other creatures sleep.",
+      "text_7": "How do you sleep, baby owl? I sleep on my face.",
+      "text_8": "How do you sleep, otter? We sleep holding hands.",
+      "text_9": "How do you sleep, walrus? I sleep on the land and under the water.",
+      "text_10": "How do you sleep, giraffe? We sleep on each other.",
+      "text_11": "How do you sleep, meerkat? We sleep in a heap.",
+      "text_12": "How do you sleep, Pula? Good night! Sleep tight!",
+      "text_2": "How do you sleep, bird? I fly in my sleep",
+      "text_3": "How do you sleep, bat? I sleep upside down.",
+      "text_4": "How do you sleep, bullfrog? I rest on my side",
+      "text_5": "How do you sleep, octopus? I change colour in my dreams.",
+      "text_6": "How do you sleep, duck? We take turns to guard each other."
+    },
+    {
+      "id": "grandpa_farouks_garden",
+      "status": "released",
+      "image_cover_asset": "images/books/grandpa_farouks_garden/cover.jpg",
+      "level_id": "level_2",
+      "author": "Matthew Kalil",
+      "illustrator": "Sam van Riet",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
+      "image_1_asset": "images/books/grandpa_farouks_garden/page4.jpg",
+      "image_2_asset": "images/books/grandpa_farouks_garden/page5.jpg",
+      "image_3_asset": "images/books/grandpa_farouks_garden/page6.jpg",
+      "image_4_asset": "images/books/grandpa_farouks_garden/page7.jpg",
+      "image_5_asset": "images/books/grandpa_farouks_garden/page8.jpg",
+      "image_6_asset": "images/books/grandpa_farouks_garden/page9.jpg",
+      "image_7_asset": "images/books/grandpa_farouks_garden/page10.jpg",
+      "image_8_asset": "images/books/grandpa_farouks_garden/page11.jpg",
+      "image_9_asset": "images/books/grandpa_farouks_garden/page12.jpg",
+      "image_10_asset": "images/books/grandpa_farouks_garden/page13.jpg",
+      "image_11_asset": "images/books/grandpa_farouks_garden/page14.jpg",
+      "image_12_asset": "images/books/grandpa_farouks_garden/page15.jpg",
+      "image_13_asset": "images/books/grandpa_farouks_garden/page16.jpg",
+      "image_14_asset": "images/books/grandpa_farouks_garden/page17.jpg",
+      "title": "Grandpa Farouk’s garden",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_2_left": {},
+        "text_5_left": {},
+        "text_7": {},
+        "text_8": {},
+        "text_9": {},
+        "text_11": {},
+        "text_1_right": {},
+        "text_3": {},
+        "text_4": {},
+        "text_6": {},
+        "text_10_left": {},
+        "text_12_right": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Grandpa Farouk’s garden"
+        },
+        "description": {
+          "eng": "Amir loves Grandpa Farouk’s garden. But it’s dying. What can Amir do to help?"
+        },
+        "text_1_right": {
+          "eng": "Deep in the city, surrounded by houses and bricks and tar, you’ll find Grandpa Farouk’s garden."
+        },
+        "text_2_left": {
+          "eng": "Amir visits Grandpa once a week. He loves the leaves and flowers and trees."
+        },
+        "text_3": {
+          "eng": "Amir helps to water the plants. He helps with the compost, and works with his Grandpa all day."
+        },
+        "text_4": {
+          "eng": "When they finish, they feast on a harvest of fruit. One day, Grandpa didn’t eat his pear. “What’s wrong?” asked Amir."
+        },
+        "text_5_left": {
+          "eng": "“My garden is dying,” replied Grandpa. “Why?” asked Amir. “Look closely,” said Grandpa. “Some pests are eating the plants.”"
+        },
+        "text_6": {
+          "eng": "“We need ladybirds!” said Grandpa. “They are the bugs that eat the pests that kill the plants. Without ladybirds, the garden will die.” “I’ll bring you a bug or two,” said Amir."
+        },
+        "text_7": {
+          "eng": "For a whole week, Amir looked and searched and collected. He found one ladybird on the sports field."
+        },
+        "text_8": {
+          "eng": "Two more at the shop. Three at the park."
+        },
+        "text_9": {
+          "eng": "And four behind the TV. Next week, Amir went to visit Grandpa Farouk, and showed him his jar of ten bugs. “You’ve done well, oh my boy, you’ve done well,” Grandpa said, with a tear in his eye."
+        },
+        "text_10_left": {
+          "eng": "Grandpa was very happy. The ladybirds were very hungry!"
+        },
+        "text_11": {
+          "eng": "The ladybirds ate the pests, and the garden blossomed."
+        },
+        "text_12_right": {
+          "eng": "From that day on, Grandpa Farouk’s garden did what gardens should do. It grew and grew and grew."
+        }
+      },
+      "description": "Amir loves Grandpa Farouk’s garden. But it’s dying. What can Amir do to help?",
+      "text_2_left": "Amir visits Grandpa once a week. He loves the leaves and flowers and trees.",
+      "text_5_left": "“My garden is dying,” replied Grandpa. “Why?” asked Amir. “Look closely,” said Grandpa. “Some pests are eating the plants.”",
+      "text_7": "For a whole week, Amir looked and searched and collected. He found one ladybird on the sports field.",
+      "text_8": "Two more at the shop. Three at the park.",
+      "text_9": "And four behind the TV. Next week, Amir went to visit Grandpa Farouk, and showed him his jar of ten bugs. “You’ve done well, oh my boy, you’ve done well,” Grandpa said, with a tear in his eye.",
+      "text_11": "The ladybirds ate the pests, and the garden blossomed.",
+      "text_1_right": "Deep in the city, surrounded by houses and bricks and tar, you’ll find Grandpa Farouk’s garden.",
+      "text_3": "Amir helps to water the plants. He helps with the compost, and works with his Grandpa all day.",
+      "text_4": "When they finish, they feast on a harvest of fruit. One day, Grandpa didn’t eat his pear. “What’s wrong?” asked Amir.",
+      "text_6": "“We need ladybirds!” said Grandpa. “They are the bugs that eat the pests that kill the plants. Without ladybirds, the garden will die.” “I’ll bring you a bug or two,” said Amir.",
+      "text_10_left": "Grandpa was very happy. The ladybirds were very hungry!",
+      "text_12_right": "From that day on, Grandpa Farouk’s garden did what gardens should do. It grew and grew and grew."
+    },
+    {
+      "id": "colours",
+      "status": "released",
+      "image_cover_asset": "images/books/colours/image_1.jpg",
+      "level_id": "level_1",
+      "author": "Priyanka",
+      "illustrator": "Ajanta Guhathakurta",
+      "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/colours/image_2.jpg",
+      "image_2_asset": "images/books/colours/image_3.jpg",
+      "image_3_asset": "images/books/colours/image_4.jpg",
+      "image_4_asset": "images/books/colours/image_5.jpg",
+      "image_5_asset": "images/books/colours/image_6.jpg",
+      "image_6_asset": "images/books/colours/image_7.jpg",
+      "image_7_asset": "images/books/colours/image_8.jpg",
+      "image_8_asset": "images/books/colours/image_9.jpg",
+      "image_9_asset": "images/books/colours/image_10.jpg",
+      "image_10_asset": "images/books/colours/image_11.jpg",
+      "image_11_asset": "images/books/colours/image_12.jpg",
+      "image_12_asset": "images/books/colours/image_13.jpg",
+      "image_13_asset": "images/books/colours/image_14.jpg",
+      "image_14_asset": "images/books/colours/image_15.jpg",
+      "title": "Colours",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_4_right": {},
+        "text_6_right": {},
+        "text_1_right": {},
+        "text_14": {},
+        "text_15": {},
+        "text_8_right": {},
+        "text_10_right": {},
+        "text_12_right": {},
+        "text_19": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Colours"
+        },
+        "description": {
+          "eng": "A white bear likes colours a lot, and he falls in love with new ones all the time. Join him as he explores a world of rainbows."
+        },
+        "text_1_right": {
+          "eng": "Bear likes colours."
+        },
+        "text_4_right": {
+          "eng": "Now, her ears are yellow."
+        },
+        "text_6_right": {
+          "eng": "Now, her tummy is brown."
+        },
+        "text_8_right": {
+          "eng": "Now, her mouth is red."
+        },
+        "text_10_right": {
+          "eng": "Now, her hands are blue."
+        },
+        "text_12_right": {
+          "eng": "Now, her back is green."
+        },
+        "text_14": {
+          "eng": "Now, her legs are pink."
+        },
+        "text_15": {
+          "eng": "Now, Bear is colourful!"
+        },
+        "text_19": {
+          "eng": "Oh no! Where did all her colours go?"
+        }
+      },
+      "description": "A white bear likes colours a lot, and he falls in love with new ones all the time. Join him as he explores a world of rainbows.",
+      "text_4_right": "Now, her ears are yellow.",
+      "text_6_right": "Now, her tummy is brown.",
+      "text_1_right": "Bear likes colours.",
+      "image_15_asset": "images/books/colours/image_16.jpg",
+      "text_14": "Now, her legs are pink.",
+      "text_15": "Now, Bear is colourful!",
+      "image_16_asset": "images/books/colours/image_17.jpg",
+      "text_8_right": "Now, her mouth is red.",
+      "text_10_right": "Now, her hands are blue.",
+      "text_12_right": "Now, her back is green.",
+      "image_17_asset": "images/books/colours/image_18.jpg",
+      "image_18_asset": "images/books/colours/image_19.jpg",
+      "image_19_asset": "images/books/colours/image_20.jpg",
+      "text_19": "Oh no! Where did all her colours go?"
+    },
+    {
+      "id": "circles_in_the_park",
+      "status": "released",
+      "image_cover_asset": "images/books/circles_in_the_park/image_1.jpg",
+      "level_id": "level_1",
+      "author": "Veena Prasad",
+      "illustrator": "Canato Jimo",
+      "licence": "© Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
+      "image_1_asset": "images/books/circles_in_the_park/image_2.jpg",
+      "image_2_asset": "images/books/circles_in_the_park/image_3.jpg",
+      "image_3_asset": "images/books/circles_in_the_park/image_4.jpg",
+      "image_4_asset": "images/books/circles_in_the_park/image_5.jpg",
+      "image_5_asset": "images/books/circles_in_the_park/image_6.jpg",
+      "image_6_asset": "images/books/circles_in_the_park/image_7.jpg",
+      "title": "Circles in the park",
+      "_translations": {
+        "title": {},
+        "description": {},
+        "text_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Circles in the park"
+        },
+        "description": {
+          "eng": "Golu and Tama go to the park to play. What do they see all around them? This wordless book introduces circles, semi-circles and quarter-circles."
+        },
+        "text_6": {
+          "eng": "Circle Semi-circle Quarter-cricle How many semi-circles make a circle? How many quarter-circles make a semi-circle?"
+        }
+      },
+      "description": "Golu and Tama go to the park to play. What do they see all around them? This wordless book introduces circles, semi-circles and quarter-circles.",
+      "text_6": "Circle Semi-circle Quarter-cricle How many semi-circles make a circle? How many quarter-circles make a semi-circle?"
     }
   ]
 }
