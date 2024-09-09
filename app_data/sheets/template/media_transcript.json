@@ -4,14 +4,14 @@
   "status": "released",
   "rows": [
     {
-      "name": "article_id",
-      "value": "intro_connect",
+      "name": "prepare_id",
+      "value": "id_1",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "article_id"
+      "_nested_name": "prepare_id"
     },
     {
       "name": "module_id",
@@ -24,18 +24,18 @@
       "_nested_name": "module_id"
     },
     {
-      "name": "articles",
-      "value": "_articles",
+      "name": "prepare",
+      "value": "prepare",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "articles"
+      "_nested_name": "prepare"
     },
     {
       "name": "data",
-      "value": "@local.module_id@local.articles",
+      "value": "@local.prepare",
       "_translations": {
         "value": {}
       },
@@ -45,50 +45,41 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.module_id@local.articles",
-            "matchedExpression": "@local.module_id",
+            "fullExpression": "@local.prepare",
+            "matchedExpression": "@local.prepare",
             "type": "local",
-            "fieldName": "module_id"
-          },
-          {
-            "fullExpression": "@local.module_id@local.articles",
-            "matchedExpression": "@local.articles",
-            "type": "local",
-            "fieldName": "articles"
+            "fieldName": "prepare"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.module_id": [
-          "value"
-        ],
-        "@local.articles": [
+        "@local.prepare": [
           "value"
         ]
       }
     },
     {
-      "name": "concat_article_id",
-      "value": "@local.data.@local.article_id",
+      "name": "concat_prepare_id",
+      "value": "@local.data.@local.prepare_id",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "concat_article_id",
+      "_nested_name": "concat_prepare_id",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.data.@local.article_id",
+            "fullExpression": "@local.data.@local.prepare_id",
             "matchedExpression": "@local.data",
             "type": "local",
             "fieldName": "data"
           },
           {
-            "fullExpression": "@local.data.@local.article_id",
-            "matchedExpression": "@local.article_id",
+            "fullExpression": "@local.data.@local.prepare_id",
+            "matchedExpression": "@local.prepare_id",
             "type": "local",
-            "fieldName": "article_id"
+            "fieldName": "prepare_id"
           }
         ]
       },
@@ -96,32 +87,32 @@
         "@local.data": [
           "value"
         ],
-        "@local.article_id": [
+        "@local.prepare_id": [
           "value"
         ]
       }
     },
     {
-      "name": "article_data",
-      "value": "@data.@local.concat_article_id",
+      "name": "prepare_data",
+      "value": "@data.@local.concat_prepare_id",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "article_data",
+      "_nested_name": "prepare_data",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.@local.concat_article_id",
-            "matchedExpression": "@local.concat_article_id",
+            "fullExpression": "@data.@local.concat_prepare_id",
+            "matchedExpression": "@local.concat_prepare_id",
             "type": "local",
-            "fieldName": "concat_article_id"
+            "fieldName": "concat_prepare_id"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.concat_article_id": [
+        "@local.concat_prepare_id": [
           "value"
         ]
       }
@@ -162,5 +153,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/modules/articles.xlsx"
+  "_xlsxPath": "templates/prepare.xlsx"
 }

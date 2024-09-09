@@ -134,7 +134,7 @@
         "text_1": {
           "tz_sw": true
         },
-        "text_2": {
+        "image_text": {
           "tz_sw": true
         }
       },
@@ -142,25 +142,25 @@
         "text_1": {
           "eng": "Let’s see what happens when we don’t let our child take the lead:"
         },
-        "text_2": {
+        "image_text": {
           "eng": "Let’s play with the blocks together."
         }
       },
-      "text_2": "Let’s play with the blocks together."
+      "image_text": "Let’s play with the blocks together."
     },
     {
       "id": "learn_3",
       "category_id": "learn",
       "module_id": "connect",
       "image_asset": "images/modules/connect/learn_3.svg",
-      "text_2": "Who can build a taller tower?",
+      "image_text": "Who can build a taller tower?",
       "_translations": {
-        "text_2": {
+        "image_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
-        "text_2": {
+        "image_text": {
           "eng": "Who can build a taller tower?"
         }
       }
@@ -170,14 +170,14 @@
       "category_id": "learn",
       "module_id": "connect",
       "image_asset": "images/modules/connect/learn_4.svg",
-      "text_2": "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top.",
+      "image_text": "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top.",
       "_translations": {
-        "text_2": {
+        "image_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
-        "text_2": {
+        "image_text": {
           "eng": "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top."
         }
       }
@@ -187,14 +187,14 @@
       "category_id": "learn",
       "module_id": "connect",
       "image_asset": "images/modules/connect/learn_5.svg",
-      "text_2": "Where are you going? Why don’t you want to play together?",
+      "image_text": "Where are you going? Why don’t you want to play together?",
       "_translations": {
-        "text_2": {
+        "image_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
-        "text_2": {
+        "image_text": {
           "eng": "Where are you going? Why don’t you want to play together?"
         }
       }

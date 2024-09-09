@@ -134,7 +134,7 @@
     },
     {
       "name": "audio_asset",
-      "value": "@local.row_data.audio_asset",
+      "value": "@local.row_data.media_asset",
       "_translations": {
         "value": {}
       },
@@ -144,15 +144,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.row_data.audio_asset",
-            "matchedExpression": "@local.row_data.audio_asset",
+            "fullExpression": "@local.row_data.media_asset",
+            "matchedExpression": "@local.row_data.media_asset",
             "type": "local",
             "fieldName": "row_data"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.row_data.audio_asset": [
+        "@local.row_data.media_asset": [
           "value"
         ]
       }

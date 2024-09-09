@@ -153,7 +153,7 @@
     },
     {
       "name": "categories",
-      "value": "_categories",
+      "value": "_category_tasks",
       "_translations": {
         "value": {}
       },
@@ -325,6 +325,40 @@
       "_nested_name": "header"
     },
     {
+      "type": "title",
+      "name": "title",
+      "value": "@local.article_data.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.article_data.title)",
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.article_data.title",
+            "matchedExpression": "@local.article_data.title",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.article_data.title)",
+            "matchedExpression": "@local.article_data.title",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.article_data.title": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "text",
       "name": "text_1",
       "value": "@local.article_data.text_1",
@@ -360,27 +394,92 @@
       }
     },
     {
-      "type": "image",
-      "name": "image_asset",
-      "value": "@local.article_data.image_asset",
-      "_translations": {
-        "value": {}
-      },
+      "type": "display_group",
+      "name": "dg_box",
       "condition": "!!(@local.article_data.image_asset)",
-      "parameter_list": {
-        "style": "rounded_corners"
-      },
+      "style_list": [
+        "min_height: 40px"
+      ],
       "exclude_from_translation": true,
-      "_nested_name": "image_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.article_data.image_asset",
-            "matchedExpression": "@local.article_data.image_asset",
-            "type": "local",
-            "fieldName": "article_data"
+      "rows": [
+        {
+          "type": "image",
+          "name": "image_asset",
+          "value": "@local.article_data.image_asset",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!(@local.article_data.image_asset)",
+          "parameter_list": {
+            "style": "rounded_corners"
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "dg_box.image_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_data.image_asset",
+                "matchedExpression": "@local.article_data.image_asset",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@local.article_data.image_asset)",
+                "matchedExpression": "@local.article_data.image_asset",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_data.image_asset": [
+              "value",
+              "condition"
+            ]
           }
-        ],
+        },
+        {
+          "type": "text",
+          "name": "image_text",
+          "value": "@local.article_data.image_text",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!(@local.article_data.image_text)",
+          "parameter_list": {
+            "text_align": "left"
+          },
+          "_nested_name": "dg_box.image_text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_data.image_text",
+                "matchedExpression": "@local.article_data.image_text",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@local.article_data.image_text)",
+                "matchedExpression": "@local.article_data.image_text",
+                "type": "local",
+                "fieldName": "article_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_data.image_text": [
+              "value",
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_box",
+      "_dynamicFields": {
         "condition": [
           {
             "fullExpression": "!!(@local.article_data.image_asset)",
@@ -392,7 +491,6 @@
       },
       "_dynamicDependencies": {
         "@local.article_data.image_asset": [
-          "value",
           "condition"
         ]
       }

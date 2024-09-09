@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "book_id"
     },
@@ -18,6 +19,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_id"
     },
@@ -27,6 +29,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "book"
     },
@@ -36,6 +39,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "data",
       "_dynamicFields": {
@@ -60,6 +64,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "concat_book_id",
       "_dynamicFields": {
@@ -93,6 +98,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "book_data",
       "_dynamicFields": {
@@ -117,6 +123,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "join"
     },
@@ -126,6 +133,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "pages"
     },
@@ -135,6 +143,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "pages_json",
       "_dynamicFields": {
@@ -168,6 +177,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "asset"
     },
@@ -175,6 +185,7 @@
       "type": "items",
       "name": "items_pages",
       "value": "@local.pages_json",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "image_no_asset",
@@ -182,6 +193,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items_pages.image_no_asset",
           "_dynamicFields": {
@@ -214,6 +226,7 @@
           "name": "image_@item.id",
           "value": "book_image",
           "condition": "!!(@local.book_data.@local.image_no_asset)",
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "book_id",
@@ -221,6 +234,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items_pages.image_@item.id.book_id",
               "_dynamicFields": {
@@ -256,6 +270,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items_pages.image_@item.id.no",
               "_dynamicFields": {
