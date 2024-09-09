@@ -19,7 +19,6 @@
       "_translations": {
         "value": {}
       },
-      "action_list": true,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_id"

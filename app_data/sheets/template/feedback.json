@@ -252,56 +252,32 @@
       }
     },
     {
-      "type": "display_group",
-      "name": "dg",
+      "type": "text_bubble",
+      "value": "@local.@local.concat_feedback",
+      "_translations": {
+        "value": {}
+      },
       "parameter_list": {
-        "variant": "box_gray"
+        "speaker_image_asset": "images/kw_facilitator_rd.png"
       },
       "exclude_from_translation": true,
-      "rows": [
-        {
-          "type": "image",
-          "name": "image",
-          "value": "images/facilitators_face.svg",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "width: 90px"
-          ],
-          "exclude_from_translation": true,
-          "_nested_name": "dg.image"
-        },
-        {
-          "type": "text",
-          "name": "reply_option_1",
-          "value": "@local.@local.concat_feedback",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "flex: 1"
-          ],
-          "exclude_from_translation": true,
-          "_nested_name": "dg.reply_option_1",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.@local.concat_feedback",
-                "matchedExpression": "@local.concat_feedback",
-                "type": "local",
-                "fieldName": "concat_feedback"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.concat_feedback": [
-              "value"
-            ]
+      "name": "text_bubble_14",
+      "_nested_name": "text_bubble_14",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.@local.concat_feedback",
+            "matchedExpression": "@local.concat_feedback",
+            "type": "local",
+            "fieldName": "concat_feedback"
           }
-        }
-      ],
-      "_nested_name": "dg"
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_feedback": [
+          "value"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/modules/articles.xlsx"

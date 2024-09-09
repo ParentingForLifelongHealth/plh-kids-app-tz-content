@@ -35,7 +35,7 @@
     },
     {
       "name": "categories",
-      "value": "_categories",
+      "value": "_category_tasks",
       "_translations": {
         "value": {}
       },
@@ -373,6 +373,7 @@
         }
       ],
       "parameter_list": {
+        "variant": "circle",
         "task_group_id": "@local.module_id",
         "task_group_data": "@local.task_group_data",
         "completed_field": "@local.completed_field",
