@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare_id"
     },
@@ -18,6 +19,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_id"
     },
@@ -27,6 +29,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare"
     },
@@ -36,6 +39,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "data",
       "_dynamicFields": {
@@ -60,6 +64,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "concat_prepare_id",
       "_dynamicFields": {
@@ -93,6 +98,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare_data",
       "_dynamicFields": {
@@ -117,6 +123,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "join"
     },
@@ -127,6 +134,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "media_transcript",
       "_dynamicFields": {
         "value": [

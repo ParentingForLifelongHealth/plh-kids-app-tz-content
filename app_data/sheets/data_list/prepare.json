@@ -7,31 +7,7 @@
     {
       "id": "id_1",
       "media_type": "video",
-      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
-      "title": "title",
-      "_translations": {
-        "title": {},
-        "media_title": {},
-        "media_transcript": {},
-        "text": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "title"
-        },
-        "media_title": {
-          "eng": "media_title::eng"
-        },
-        "media_transcript": {
-          "eng": "media_transcript::eng"
-        },
-        "text": {
-          "eng": "text::eng"
-        }
-      },
-      "media_title": "media_title::eng",
-      "media_transcript": "media_transcript::eng",
-      "text": "text::eng"
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8"
     },
     {
       "id": "id_2"
