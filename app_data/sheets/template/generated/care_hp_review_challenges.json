@@ -1,12 +1,12 @@
 {
-  "flow_name": "module_overview_summary",
+  "flow_name": "care_hp_review_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "module_overview",
-      "value": "module_overview",
+      "name": "hp_review_challenges",
+      "value": "hp_review_challenges",
       "action_list": [
         {
           "trigger": "completed",
@@ -14,8 +14,8 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit:completed",
+          "_cleaned": "completed | emit:completed"
         },
         {
           "trigger": "uncompleted",
@@ -23,22 +23,23 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit:uncompleted",
+          "_cleaned": "uncompleted | emit:uncompleted"
         }
       ],
       "rows": [
         {
-          "name": "module_id",
-          "value": "summary",
+          "name": "workshop",
+          "value": "care",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "module_overview.module_id"
+          "_nested_name": "hp_review_challenges.workshop"
         }
       ],
-      "_nested_name": "module_overview"
+      "_nested_name": "hp_review_challenges"
     }
   ]
 }

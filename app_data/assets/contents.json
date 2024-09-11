@@ -4327,14 +4327,6 @@
     "md5Checksum": "efc64ef82fec7cb5f348d6bb2a4897e1",
     "size_kb": 727.1
   },
-  "images/modules/play/Emojis-07.svg": {
-    "md5Checksum": "8abebae91514bf8a588992c2b9180dc1",
-    "size_kb": 1.7
-  },
-  "images/modules/play/Happy_emoji.svg": {
-    "md5Checksum": "8d38f0370062db39bc81fd98636ee33e",
-    "size_kb": 2.2
-  },
   "images/modules/play/angry_emoji.svg": {
     "md5Checksum": "8a09518d837d6cc353005dbacc3124ef",
     "size_kb": 1.4
@@ -4343,9 +4335,17 @@
     "md5Checksum": "0c8bcdeca9597284966565e897737eaf",
     "size_kb": 1.9
   },
+  "images/modules/play/crying_emoji.svg": {
+    "md5Checksum": "8abebae91514bf8a588992c2b9180dc1",
+    "size_kb": 1.7
+  },
   "images/modules/play/frustrated_emoji.svg": {
     "md5Checksum": "7fccb4604b3e34e5b61e670efe924ef6",
     "size_kb": 1.8
+  },
+  "images/modules/play/happy_emoji.svg": {
+    "md5Checksum": "8d38f0370062db39bc81fd98636ee33e",
+    "size_kb": 2.2
   },
   "images/modules/play/how_to_play_1.svg": {
     "md5Checksum": "66b8cefb207d22e4b39de3a38be283bb",
@@ -4383,7 +4383,7 @@
     "md5Checksum": "aa23ea77eee6231c09f51480789d8f63",
     "size_kb": 2.7
   },
-  "images/modules/play/new_fertaliser.gif": {
+  "images/modules/play/new_fertiliser.gif": {
     "md5Checksum": "26957c4abd328f4028aaba1a433ceef3",
     "size_kb": 3745.3
   },
@@ -4443,7 +4443,7 @@
     "md5Checksum": "f3cff2fecbd9e1e1360e4bfcda125f59",
     "size_kb": 107.6
   },
-  "images/modules/play/why play_1.svg": {
+  "images/modules/play/why_play_1.svg": {
     "md5Checksum": "2cc2ec63d7efa2a2ef0579981d4f7d7d",
     "size_kb": 28.9
   },
