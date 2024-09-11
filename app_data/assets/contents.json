@@ -4391,13 +4391,13 @@
     "md5Checksum": "5a1a41552b3831a083649f8b70a85ab9",
     "size_kb": 1.4
   },
-  "images/modules/play/play module_title image.svg": {
-    "md5Checksum": "530f6f37af20bf1b5373d364572d164d",
-    "size_kb": 77.7
-  },
   "images/modules/play/play_module_ideas.svg": {
     "md5Checksum": "ba373e59cd9920979e72d7e86d7d41e8",
     "size_kb": 43.8
+  },
+  "images/modules/play/play_title_image.svg": {
+    "md5Checksum": "530f6f37af20bf1b5373d364572d164d",
+    "size_kb": 77.7
   },
   "images/modules/play/power_of_play_1.svg": {
     "md5Checksum": "47714e7dc08b4e4bd06d4cda68d04288",

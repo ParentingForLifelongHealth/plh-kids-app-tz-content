@@ -68,11 +68,11 @@
     {
       "id": "play",
       "number": "3",
+      "image_asset": "images/modules/play/play_title_image.svg",
       "check_in_id": "check_in_3",
       "relax_id_list": [
         "relax_8"
       ],
-      "image_asset": "images/modules/wave.svg",
       "play_id_list": [
         "[]"
       ],
