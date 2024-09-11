@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.1.44",
+  content_tag_latest: "1.1.45",
 };
 
 config.google_drive.sheets_folder_ids = ["1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"];
@@ -28,5 +28,6 @@ config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for 
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Kids TZ";
 
 config.error_logging = { dsn: "https://a371085a8bc146a3a45bb4e5d2d013ef@app.glitchtip.com/6036"};
+
 
 export default config;
