@@ -1526,6 +1526,16 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "care_hp_review": {
+      "flow_name": "care_hp_review",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "care_hp_review_challenges": {
+      "flow_name": "care_hp_review_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "category_connect_home_activity": {
       "flow_name": "category_connect_home_activity",
       "flow_subtype": "generated",
@@ -1581,6 +1591,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "module_care": {
+      "flow_name": "module_care",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "module_connect": {
       "flow_name": "module_connect",
       "flow_subtype": "generated",
@@ -1598,6 +1613,11 @@
     },
     "module_overview_build": {
       "flow_name": "module_overview_build",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_overview_care": {
+      "flow_name": "module_overview_care",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1621,18 +1641,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_overview_summary": {
-      "flow_name": "module_overview_summary",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_overview_talk": {
       "flow_name": "module_overview_talk",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_overview_welcome": {
-      "flow_name": "module_overview_welcome",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1641,18 +1651,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_summary": {
-      "flow_name": "module_summary",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_talk": {
       "flow_name": "module_talk",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_welcome": {
-      "flow_name": "module_welcome",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1663,16 +1663,6 @@
     },
     "play_hp_review_challenges": {
       "flow_name": "play_hp_review_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "summary_hp_review": {
-      "flow_name": "summary_hp_review",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "summary_hp_review_challenges": {
-      "flow_name": "summary_hp_review_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1803,16 +1793,6 @@
     },
     "text_relax_9": {
       "flow_name": "text_relax_9",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "welcome_hp_review": {
-      "flow_name": "welcome_hp_review",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "welcome_hp_review_challenges": {
-      "flow_name": "welcome_hp_review_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
