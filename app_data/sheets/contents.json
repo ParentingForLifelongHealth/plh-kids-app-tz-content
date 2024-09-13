@@ -285,6 +285,19 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/TZ article_generators.xlsx"
+    },
+    "play_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "play_category_gen",
+      "parameter_list": {
+        "input_data_list": "play_articles",
+        "output_flow_name": "category_play_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "play",
+      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
+      "_xlsxPath": "templates/TZ categories.xlsx"
     }
   },
   "global": {
@@ -896,8 +909,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_circles_in_the_park": {
-      "flow_name": "book_cover_circles_in_the_park",
+    "book_cover_circles_in_park": {
+      "flow_name": "book_cover_circles_in_park",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1031,6 +1044,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "book_cover_nita_upside_down": {
+      "flow_name": "book_cover_nita_upside_down",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "book_cover_no_go_sleep": {
       "flow_name": "book_cover_no_go_sleep",
       "flow_subtype": "generated",
@@ -1041,8 +1059,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_paint_day_plant_day": {
-      "flow_name": "book_cover_paint_day_plant_day",
+    "book_cover_paint_plant_day": {
+      "flow_name": "book_cover_paint_plant_day",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1141,8 +1159,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_when_i_grow_up": {
-      "flow_name": "book_cover_when_i_grow_up",
+    "book_cover_when_grow_up": {
+      "flow_name": "book_cover_when_grow_up",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1153,11 +1171,6 @@
     },
     "book_cover_who_took_my_shoe": {
       "flow_name": "book_cover_who_took_my_shoe",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_why_is_nita_upside_down": {
-      "flow_name": "book_cover_why_is_nita_upside_down",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1236,8 +1249,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_circles_in_the_park": {
-      "flow_name": "book_page_circles_in_the_park",
+    "book_page_circles_in_park": {
+      "flow_name": "book_page_circles_in_park",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1371,6 +1384,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "book_page_nita_upside_down": {
+      "flow_name": "book_page_nita_upside_down",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "book_page_no_go_sleep": {
       "flow_name": "book_page_no_go_sleep",
       "flow_subtype": "generated",
@@ -1381,8 +1399,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_paint_day_plant_day": {
-      "flow_name": "book_page_paint_day_plant_day",
+    "book_page_paint_plant_day": {
+      "flow_name": "book_page_paint_plant_day",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1481,8 +1499,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_when_i_grow_up": {
-      "flow_name": "book_page_when_i_grow_up",
+    "book_page_when_grow_up": {
+      "flow_name": "book_page_when_grow_up",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1493,11 +1511,6 @@
     },
     "book_page_who_took_my_shoe": {
       "flow_name": "book_page_who_took_my_shoe",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_why_is_nita_upside_down": {
-      "flow_name": "book_page_why_is_nita_upside_down",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1553,6 +1566,156 @@
     },
     "category_connect_review": {
       "flow_name": "category_connect_review",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_how_to_play_1": {
+      "flow_name": "category_play_how_to_play_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_how_to_play_2": {
+      "flow_name": "category_play_how_to_play_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_how_to_play_3": {
+      "flow_name": "category_play_how_to_play_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_how_to_play_4": {
+      "flow_name": "category_play_how_to_play_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_practice_1": {
+      "flow_name": "category_play_practice_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_1": {
+      "flow_name": "category_play_the_power_of_play_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_10": {
+      "flow_name": "category_play_the_power_of_play_10",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_11": {
+      "flow_name": "category_play_the_power_of_play_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_12": {
+      "flow_name": "category_play_the_power_of_play_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_13": {
+      "flow_name": "category_play_the_power_of_play_13",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_14": {
+      "flow_name": "category_play_the_power_of_play_14",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_15": {
+      "flow_name": "category_play_the_power_of_play_15",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_16": {
+      "flow_name": "category_play_the_power_of_play_16",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_17": {
+      "flow_name": "category_play_the_power_of_play_17",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_2": {
+      "flow_name": "category_play_the_power_of_play_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_3": {
+      "flow_name": "category_play_the_power_of_play_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_4": {
+      "flow_name": "category_play_the_power_of_play_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_5": {
+      "flow_name": "category_play_the_power_of_play_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_6": {
+      "flow_name": "category_play_the_power_of_play_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_7": {
+      "flow_name": "category_play_the_power_of_play_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_8": {
+      "flow_name": "category_play_the_power_of_play_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_the_power_of_play_9": {
+      "flow_name": "category_play_the_power_of_play_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_using_books_1": {
+      "flow_name": "category_play_using_books_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_using_books_2": {
+      "flow_name": "category_play_using_books_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_using_books_3": {
+      "flow_name": "category_play_using_books_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_using_books_4": {
+      "flow_name": "category_play_using_books_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_using_books_5": {
+      "flow_name": "category_play_using_books_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_why_play_1": {
+      "flow_name": "category_play_why_play_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_why_play_2": {
+      "flow_name": "category_play_why_play_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_play_why_play_3": {
+      "flow_name": "category_play_why_play_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

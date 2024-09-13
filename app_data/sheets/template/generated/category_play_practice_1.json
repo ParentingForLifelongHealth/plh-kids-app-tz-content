@@ -1,12 +1,12 @@
 {
-  "flow_name": "book_cover_when_i_grow_up",
+  "flow_name": "category_play_practice_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "book_cover",
-      "value": "book_cover",
+      "name": "category",
+      "value": "category",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,26 +29,27 @@
       ],
       "rows": [
         {
-          "name": "book_id",
-          "value": "when_i_grow_up",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "book_cover.book_id"
-        },
-        {
-          "name": "module_id",
-          "value": "connect",
+          "name": "category_id",
+          "value": "practice_1",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "book_cover.module_id"
+          "_nested_name": "category.category_id"
+        },
+        {
+          "name": "module_id",
+          "value": "play",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "category.module_id"
         }
       ],
-      "_nested_name": "book_cover"
+      "_nested_name": "category"
     }
   ]
 }
