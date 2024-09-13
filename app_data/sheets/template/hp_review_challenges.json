@@ -118,14 +118,14 @@
       "_nested_name": "hp_challenge"
     },
     {
-      "name": "workshop_hp_challenge",
+      "name": "row_id_hp_challenge",
       "value": "@local.row_id@local.hp_challenge",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "workshop_hp_challenge",
+      "_nested_name": "row_id_hp_challenge",
       "_dynamicFields": {
         "value": [
           {
