@@ -1,12 +1,12 @@
 {
-  "flow_name": "book_cover_why_is_nita_upside_down",
+  "flow_name": "book_page_circles_in_park",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "book_cover",
-      "value": "book_cover",
+      "name": "book_page",
+      "value": "book_page",
       "action_list": [
         {
           "trigger": "completed",
@@ -30,12 +30,12 @@
       "rows": [
         {
           "name": "book_id",
-          "value": "why_is_nita_upside_down",
+          "value": "circles_in_park",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "book_cover.book_id"
+          "_nested_name": "book_page.book_id"
         },
         {
           "name": "module_id",
@@ -45,10 +45,10 @@
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "book_cover.module_id"
+          "_nested_name": "book_page.module_id"
         }
       ],
-      "_nested_name": "book_cover"
+      "_nested_name": "book_page"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "flow_name": "book_page_circles_in_the_park",
+  "flow_name": "category_play_the_power_of_play_3",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "book_page",
-      "value": "book_page",
+      "name": "category",
+      "value": "category",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,26 +29,27 @@
       ],
       "rows": [
         {
-          "name": "book_id",
-          "value": "circles_in_the_park",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "book_page.book_id"
-        },
-        {
-          "name": "module_id",
-          "value": "connect",
+          "name": "category_id",
+          "value": "the_power_of_play_3",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "book_page.module_id"
+          "_nested_name": "category.category_id"
+        },
+        {
+          "name": "module_id",
+          "value": "play",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "category.module_id"
         }
       ],
-      "_nested_name": "book_page"
+      "_nested_name": "category"
     }
   ]
 }
