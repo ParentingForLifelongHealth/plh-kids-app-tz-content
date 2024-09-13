@@ -1,13 +1,7 @@
 {
-  "flow_type": "generator",
-  "flow_name": "hp_review_gen",
-  "status": "released",
-  "parameter_list": {
-    "input_data_list": "hp_check_in",
-    "output_flow_name": "{@gen.id}_hp_review",
-    "output_flow_type": "template",
-    "output_flow_subtype": "generated"
-  },
+  "flow_name": "w_solve_hp_review",
+  "flow_subtype": "generated",
+  "flow_type": "template",
   "rows": [
     {
       "type": "template",
@@ -36,11 +30,16 @@
       "rows": [
         {
           "name": "row_id",
-          "value": "@gen.id",
-          "exclude_from_translation": true
+          "value": "w_solve",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "hp_review.row_id"
         }
-      ]
+      ],
+      "_nested_name": "hp_review"
     }
-  ],
-  "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
+  ]
 }

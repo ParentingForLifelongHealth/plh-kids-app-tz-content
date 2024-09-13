@@ -1,5 +1,5 @@
 {
-  "flow_name": "connect_hp_review",
+  "flow_name": "w_srh_hp_review",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -29,14 +29,14 @@
       ],
       "rows": [
         {
-          "name": "workshop",
-          "value": "connect",
+          "name": "row_id",
+          "value": "w_srh",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "hp_review.workshop"
+          "_nested_name": "hp_review.row_id"
         }
       ],
       "_nested_name": "hp_review"
