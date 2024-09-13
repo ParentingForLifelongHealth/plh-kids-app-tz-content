@@ -1,6 +1,6 @@
 {
   "flow_type": "data_list",
-  "flow_name": "hp_challenges_data",
+  "flow_name": "hp_challenges",
   "status": "released",
   "data_list_name": "hp_challenges",
   "rows": [
@@ -125,7 +125,6 @@
     {
       "id": "w_money",
       "number_of_challenges": "4",
-      "button_go_to_template_3_a": "lib_act_w_money",
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when making your budget together?",
       "_translations": {
@@ -136,7 +135,6 @@
         "reply_challenge_2": {},
         "text_challenge_3": {},
         "reply_challenge_3": {},
-        "button_text_3_a": {},
         "text_challenge_4": {},
         "reply_challenge_4": {},
         "top_text": {}
@@ -163,9 +161,6 @@
         "reply_challenge_3": {
           "eng": "I am sorry to hear this. I know it can be difficult! Why don’t we go through it again? Your teen or other family members can join and help you!"
         },
-        "button_text_3_a": {
-          "eng": "@data.workshop.w_money.tools"
-        },
         "text_challenge_4": {
           "eng": "My teen did not want to do the budgeting with me."
         },
@@ -182,7 +177,6 @@
       "reply_challenge_2": "People’s wants and needs are different sometimes. Talking about them together can help you and your teen to understand each other, respect your differences and see where you can compromise.",
       "text_challenge_3": "I did not understand what to do.",
       "reply_challenge_3": "I am sorry to hear this. I know it can be difficult! Why don’t we go through it again? Your teen or other family members can join and help you!",
-      "button_text_3_a": "@data.workshop.w_money.tools",
       "text_challenge_4": "My teen did not want to do the budgeting with me.",
       "reply_challenge_4": "Try making the budget with other adults in your home first. Your teen may get interested in what you are doing. \n\nMaking a budget may sound serious but try to make it fun – make it a game during one-on-one time! Or you can try to make the budget for @global.w_money_grandma first. \n\nRemember to praise them when you are done!",
       "top_text": "Challenges other parents experience:"
@@ -358,18 +352,14 @@
     {
       "id": "w_solve",
       "number_of_challenges": "5",
-      "button_go_to_template_1_a": "lib_act_w_solve",
-      "button_go_to_template_2_a": "lib_act_w_solve",
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to resolve the problem with your teen?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
         "reply_challenge_1": {},
-        "button_text_1_a": {},
         "text_challenge_2": {},
         "reply_challenge_2": {},
-        "button_text_2_a": {},
         "text_challenge_3": {},
         "reply_challenge_3": {},
         "text_challenge_4": {},
@@ -388,17 +378,11 @@
         "reply_challenge_1": {
           "eng": "It takes some practice to use all four steps of problem solving. Next time a problem comes up, look at the four steps together with your teen – it will make a big difference!"
         },
-        "button_text_1_a": {
-          "eng": "Four steps of problem solving"
-        },
         "text_challenge_2": {
           "eng": "I started with the solutions right away."
         },
         "reply_challenge_2": {
           "eng": "When we have a problem, we always want to get to the quickest end result and can forget about the steps. To come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions."
-        },
-        "button_text_2_a": {
-          "eng": "Four steps of problem solving"
         },
         "text_challenge_3": {
           "eng": "We could not agree on a solution to try out and we got into an argument."
@@ -424,10 +408,8 @@
       },
       "text_challenge_1": "I forgot the steps of problem solving.",
       "reply_challenge_1": "It takes some practice to use all four steps of problem solving. Next time a problem comes up, look at the four steps together with your teen – it will make a big difference!",
-      "button_text_1_a": "Four steps of problem solving",
       "text_challenge_2": "I started with the solutions right away.",
       "reply_challenge_2": "When we have a problem, we always want to get to the quickest end result and can forget about the steps. To come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions.",
-      "button_text_2_a": "Four steps of problem solving",
       "text_challenge_3": "We could not agree on a solution to try out and we got into an argument.",
       "reply_challenge_3": "Sometimes it can be difficult to agree with everyone in the family, especially if everyone is not yet calm. You could agree to try one solution first and then another. Also, if you get stuck, try to get together later to agree on the solution together.",
       "text_challenge_4": "I got angry when the problem came up and I forgot to use the problem-solving steps.",
@@ -518,16 +500,12 @@
     {
       "id": "w_crisis",
       "number_of_challenges": "3",
-      "button_go_to_template_1_a": "lib_act_w_solve",
-      "button_go_to_template_1_b": "parent_centre_help",
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to prepare for a possible crisis with your teen?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
         "reply_challenge_1": {},
-        "button_text_1_a": {},
-        "button_text_1_b": {},
         "text_challenge_2": {},
         "reply_challenge_2": {},
         "text_challenge_3": {},
@@ -543,12 +521,6 @@
         },
         "reply_challenge_1": {
           "eng": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving and reach out to get the support you and your teen need!"
-        },
-        "button_text_1_a": {
-          "eng": "@data.workshop.w_solve.tools"
-        },
-        "button_text_1_b": {
-          "eng": "Get support"
         },
         "text_challenge_2": {
           "eng": "The conversation made me very uncomfortable because I was reminded of a negative experience I had."
@@ -568,8 +540,6 @@
       },
       "text_challenge_1": "My teen told me that something serious happened to them and I did not know how to handle it.",
       "reply_challenge_1": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving and reach out to get the support you and your teen need!",
-      "button_text_1_a": "@data.workshop.w_solve.tools",
-      "button_text_1_b": "Get support",
       "text_challenge_2": "The conversation made me very uncomfortable because I was reminded of a negative experience I had.",
       "reply_challenge_2": "When we are reminded of such experiences, it is normal to feel upset or angry. It is important to find a time when you are calm, so that you can think of what support you need. You may need to talk to someone.",
       "text_challenge_3": "One of us did not feel comfortable.",
