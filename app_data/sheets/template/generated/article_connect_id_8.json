@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_connect_learn_1",
+  "flow_name": "article_connect_id_8",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "learn_1",
+          "value": "id_8",
           "_translations": {
             "value": {}
           },
