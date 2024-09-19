@@ -216,205 +216,146 @@
       "id": "the_power_of_play_4",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\""
         }
-      },
-      "image_text": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\""
+      }
     },
     {
       "id": "the_power_of_play_5",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"I want more supper. Another book! Just one more song?\" \n\n\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"I want more supper. Another book! Just one more song?\" \n\n\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\""
         }
-      },
-      "image_text": "\"I want more supper. Another book! Just one more song?\" \n\n\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\""
+      }
     },
     {
       "id": "the_power_of_play_6",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page7.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\""
         }
-      },
-      "image_text": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\""
+      }
     },
     {
       "id": "the_power_of_play_7",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page8.jpg",
-      "title": "The power of PLAY",
+      "image_text": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\""
         }
-      },
-      "image_text": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\""
+      }
     },
     {
       "id": "the_power_of_play_8",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?\"\n\n\"Yes! Yes! Yes!\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?\"\n\n\"Yes! Yes! Yes!\""
         }
-      },
-      "image_text": "\"Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?\"\n\n\"Yes! Yes! Yes!\""
+      }
     },
     {
       "id": "the_power_of_play_9",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!\""
         }
-      },
-      "image_text": "\"I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!\""
+      }
     },
     {
       "id": "the_power_of_play_10",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!\""
         }
-      },
-      "image_text": "\"I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!\""
+      }
     },
     {
       "id": "the_power_of_play_11",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!\""
         }
-      },
-      "image_text": "\"I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!\""
+      }
     },
     {
       "id": "the_power_of_play_12",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page13.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...\""
         }
-      },
-      "image_text": "\"Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...\""
+      }
     },
     {
       "id": "the_power_of_play_13",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page14.jpg",
-      "title": "The power of PLAY",
+      "image_text": "\"Goodnight, Nandi.\"",
       "_translations": {
-        "title": {},
         "image_text": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "image_text": {
           "eng": "\"Goodnight, Nandi.\""
         }
-      },
-      "image_text": "\"Goodnight, Nandi.\""
+      }
     },
     {
       "id": "the_power_of_play_14",
       "category_id": "power_play",
-      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg",
-      "title": "The power of PLAY",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        }
-      }
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg"
     },
     {
       "id": "the_power_of_play_15",
@@ -423,9 +364,8 @@
       "quiz_1_option_1_image_asset": "images/modules/play/frustrated_emoji.svg",
       "quiz_1_option_2_image_asset": "images/modules/play/angry_emoji.svg",
       "quiz_1_option_3_image_asset": "images/modules/play/tired_emoji.svg",
-      "title": "The power of PLAY",
+      "text_1": "**Question time:**\n\nLet’s think about what happened in this story.",
       "_translations": {
-        "title": {},
         "text_1": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
@@ -436,9 +376,6 @@
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "text_1": {
           "eng": "**Question time:**\n\nLet’s think about what happened in this story."
         },
@@ -464,7 +401,6 @@
           "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
         }
       },
-      "text_1": "**Question time:**\n\nLet’s think about what happened in this story.",
       "quiz_1_question": "How did the mother feel when Nandi didn’t want to go to sleep?",
       "quiz_1_option_1_text": "Frustrated",
       "quiz_1_feedback_1": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
@@ -479,9 +415,8 @@
       "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
       "quiz_2_option_2_image_asset": "images/modules/play/scared_emoji.svg",
       "quiz_2_option_3_image_asset": "images/modules/play/awake_emoji.svg",
-      "title": "The power of PLAY",
+      "text_1": "**Question time:**",
       "_translations": {
-        "title": {},
         "text_1": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
@@ -501,9 +436,6 @@
         "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "text_1": {
           "eng": "**Question time:**"
         },
@@ -550,7 +482,6 @@
           "eng": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep."
         }
       },
-      "text_1": "**Question time:**",
       "quiz_1_question": "What did her mother do to help her fall asleep?",
       "quiz_1_option_1_text": "She shouted at Nandi: “Just go to sleep!”",
       "quiz_1_feedback_1": "While we can understand why Nandi’s mother would feel like shouting, Nandi’s mom did something clever. She and Nandi created a fun story together that helped Nandi to fall asleep.",
@@ -572,17 +503,13 @@
       "image_asset": "images/modules/play/play_module_ideas.svg",
       "media_type": "audio",
       "media_asset": "Need to add",
-      "title": "The power of PLAY",
+      "text_2": "Here are some more ideas for how you can use play to help your child to cooperate with what you need them to do.",
       "_translations": {
-        "title": {},
         "text_2": {},
         "media_title": {},
         "media_transcript": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "The power of PLAY"
-        },
         "text_2": {
           "eng": "Here are some more ideas for how you can use play to help your child to cooperate with what you need them to do."
         },
@@ -593,44 +520,36 @@
           "eng": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed."
         }
       },
-      "text_2": "Here are some more ideas for how you can use play to help your child to cooperate with what you need them to do.",
       "media_title": "Listen for more ideas:",
       "media_transcript": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed."
     },
     {
       "id": "using_books_1",
+      "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_1.svg",
-      "title": "Using books to PLAY",
+      "text_1": "Book activities can be playful too. Here are some ways that you can make book activities fun.",
       "_translations": {
-        "title": {},
         "text_1": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "Using books to PLAY"
-        },
         "text_1": {
           "eng": "Book activities can be playful too. Here are some ways that you can make book activities fun."
         }
-      },
-      "text_1": "Book activities can be playful too. Here are some ways that you can make book activities fun."
+      }
     },
     {
       "id": "using_books_2",
+      "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_2.svg",
       "media_type": "audio",
       "media_asset": "Need to add",
-      "title": "Using books to PLAY",
+      "text_1": "Use a lively, animated voice, with different voices for different characters.",
       "_translations": {
-        "title": {},
         "text_1": {},
         "media_title": {},
         "media_transcript": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "Using books to PLAY"
-        },
         "text_1": {
           "eng": "Use a lively, animated voice, with different voices for different characters."
         },
@@ -641,23 +560,19 @@
           "eng": "Need to add"
         }
       },
-      "text_1": "Use a lively, animated voice, with different voices for different characters.",
       "media_title": "Listen to this example:",
       "media_transcript": "Need to add"
     },
     {
       "id": "using_books_3",
+      "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_3.svg",
-      "title": "Using books to PLAY",
+      "text_1": "You can mimic different actions from the story.",
       "_translations": {
-        "title": {},
         "text_1": {},
         "text_2": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "Using books to PLAY"
-        },
         "text_1": {
           "eng": "You can mimic different actions from the story."
         },
@@ -665,40 +580,32 @@
           "eng": "This is a great way to keep children engaged and helps them understand what is happening in the story."
         }
       },
-      "text_1": "You can mimic different actions from the story.",
       "text_2": "This is a great way to keep children engaged and helps them understand what is happening in the story."
     },
     {
       "id": "using_books_4",
+      "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_4.svg",
-      "title": "Using books to PLAY",
+      "text_1": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds.",
       "_translations": {
-        "title": {},
         "text_1": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "Using books to PLAY"
-        },
         "text_1": {
           "eng": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds."
         }
-      },
-      "text_1": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds."
+      }
     },
     {
       "id": "using_books_5",
+      "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_5.svg",
-      "title": "Using books to PLAY",
+      "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, animated voice, with different voices for different characters\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
       "_translations": {
-        "title": {},
         "text_1": {},
         "text_2": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "Using books to PLAY"
-        },
         "text_1": {
           "eng": "Three easy ways to make book activities fun:\n\n1. Use a lively, animated voice, with different voices for different characters\n2. Mimic different actions from the story\n3. Mimic different sounds from the story"
         },
@@ -706,27 +613,23 @@
           "eng": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right."
         }
       },
-      "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, animated voice, with different voices for different characters\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
       "text_2": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right."
     },
     {
       "id": "practice_1",
+      "category_id": "practice",
       "image_asset": "images/modules/play/ready_to_practice.svg",
       "section_1_image_asset": "images/modules/play/icon_hand.svg",
       "section_2_image_asset": "images/modules/play/icon_book.svg",
       "section_3_image_asset": "images/modules/play/icon_relax.svg",
-      "title": "Ready to practise?",
+      "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:",
       "_translations": {
-        "title": {},
         "text_1": {},
         "section_1_title": {},
         "section_2_title": {},
         "section_3_title": {}
       },
       "_translatedFields": {
-        "title": {
-          "eng": "Ready to practise?"
-        },
         "text_1": {
           "eng": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:"
         },
@@ -740,7 +643,6 @@
           "eng": "Remember to make time for yourself to have fun and relax too."
         }
       },
-      "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:",
       "section_1_title": "Make some time to interact with your child in playful ways.",
       "section_2_title": "Use books and stories to have fun together.",
       "section_3_title": "Remember to make time for yourself to have fun and relax too."
