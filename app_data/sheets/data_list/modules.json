@@ -5,6 +5,30 @@
   "status": "released",
   "rows": [
     {
+      "id": "join",
+      "number": "0",
+      "image_asset": "images/modules/wave.svg",
+      "relax_id_list": [
+        "[]"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "Join",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Join"
+        }
+      }
+    },
+    {
       "id": "connect",
       "number": "1",
       "image_asset": "images/modules/connect/intro_connect.svg",

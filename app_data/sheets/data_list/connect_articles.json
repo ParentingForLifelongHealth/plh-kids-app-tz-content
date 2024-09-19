@@ -5,552 +5,155 @@
   "status": "released",
   "rows": [
     {
-      "id": "intro_connect",
-      "category_id": "intro",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/intro_connect.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1gsQt2k2R0GciIaBr4dH2qf_MeSCasvcOIe5hRc3gq70",
-      "text_1": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with your child and spending quality time together makes a big difference to their development.",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with your child and spending quality time together makes a big difference to their development."
-        }
-      }
+      "id": "id_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1PAWPEQpGAcIjyAUbXC2O0uSkRawq1MxFgHf9Im9lqps"
     },
     {
-      "id": "intro_connect_child",
-      "category_id": "intro",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/intro_connect_child.svg",
-      "media_type": "audio",
-      "media_asset": "audio/modules/connect/intro_connect_child.m4a",
-      "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
-      "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
-      "text_1": "**CONNECTING** with our children is not always easy!",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "**CONNECTING** with our children is not always easy!"
-        },
-        "media_title": {
-          "eng": "Listen to the audio to learn more."
-        },
-        "media_transcript": {
-          "eng": "As caregivers, we all spend time doing things with our children, but giving them our full attention is not always easy. We all face distractions and challenges that make it difficult to spend quality time with our children. When we feel stressed or when our children are being difficult, it can be even harder to find the time and energy to connect with them."
-        },
-        "quiz_1_question": {
-          "eng": "Have you experienced this?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Yes"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Many people feel this way. We have some easy activities that could help."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "No"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "It’s great that you make time to connect with your child. We have some extra ideas you might like."
-        }
-      },
-      "media_title": "Listen to the audio to learn more.",
-      "media_transcript": "As caregivers, we all spend time doing things with our children, but giving them our full attention is not always easy. We all face distractions and challenges that make it difficult to spend quality time with our children. When we feel stressed or when our children are being difficult, it can be even harder to find the time and energy to connect with them.",
-      "quiz_1_question": "Have you experienced this?",
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Many people feel this way. We have some easy activities that could help.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "It’s great that you make time to connect with your child. We have some extra ideas you might like."
+      "id": "id_2"
     },
     {
-      "id": "learn_1",
-      "category_id": "learn",
-      "module_id": "connect",
-      "media_type": "video",
-      "media_asset": "video/modules/connect/join_child.mp4",
-      "text_1": "How to **CONNECT**?\n\nJoin your child in their world!",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "How to **CONNECT**?\n\nJoin your child in their world!"
-        },
-        "media_title": {
-          "eng": "Watch this video to see how."
-        },
-        "media_transcript": {
-          "eng": "Joining your child in their world means giving them your full attention, and letting them lead. You don’t need a lot of time - even 10 minutes a day can make a big difference.\n\nHere’s how to connect with your child: Make time to spend with your child one-on-one.\n\nTry to minimise distractions and interruptions.\n\nJoin your child in their world by getting down on their level. Sit close to them to make it a shared experience.\n\nLet your child decide what to play and how to play. Don’t try to change what they are doing or instruct them. Instead, follow their lead.\n\nDuring the activity, observe and listen. Pay attention to what your child is doing or saying. Be curious about what they might be thinking and feeling.\n\nRespond to what your child is doing with enthusiasm and praise. You could say: I see you are enjoying playing with these blocks. Wow! You are building such a tall and strong wall!\n\nJoining your child in their world and giving them your full attention helps them feel close and connected to you. This helps you build a strong relationship with your child. A strong relationship with you will help them to have healthy relationships with others in the future."
-        }
-      },
-      "media_title": "Watch this video to see how.",
-      "media_transcript": "Joining your child in their world means giving them your full attention, and letting them lead. You don’t need a lot of time - even 10 minutes a day can make a big difference.\n\nHere’s how to connect with your child: Make time to spend with your child one-on-one.\n\nTry to minimise distractions and interruptions.\n\nJoin your child in their world by getting down on their level. Sit close to them to make it a shared experience.\n\nLet your child decide what to play and how to play. Don’t try to change what they are doing or instruct them. Instead, follow their lead.\n\nDuring the activity, observe and listen. Pay attention to what your child is doing or saying. Be curious about what they might be thinking and feeling.\n\nRespond to what your child is doing with enthusiasm and praise. You could say: I see you are enjoying playing with these blocks. Wow! You are building such a tall and strong wall!\n\nJoining your child in their world and giving them your full attention helps them feel close and connected to you. This helps you build a strong relationship with your child. A strong relationship with you will help them to have healthy relationships with others in the future."
+      "id": "id_3"
     },
     {
-      "id": "learn_2",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_2.svg",
-      "text_1": "Let’s see what happens when we don’t let our child take the lead:",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "image_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Let’s see what happens when we don’t let our child take the lead:"
-        },
-        "image_text": {
-          "eng": "Let’s play with the blocks together."
-        }
-      },
-      "image_text": "Let’s play with the blocks together."
+      "id": "id_4"
     },
     {
-      "id": "learn_3",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_3.svg",
-      "image_text": "Who can build a taller tower?",
-      "_translations": {
-        "image_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "image_text": {
-          "eng": "Who can build a taller tower?"
-        }
-      }
+      "id": "id_5"
     },
     {
-      "id": "learn_4",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_4.svg",
-      "image_text": "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top.",
-      "_translations": {
-        "image_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "image_text": {
-          "eng": "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top."
-        }
-      }
+      "id": "id_6"
     },
     {
-      "id": "learn_5",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_5.svg",
-      "image_text": "Where are you going? Why don’t you want to play together?",
-      "_translations": {
-        "image_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "image_text": {
-          "eng": "Where are you going? Why don’t you want to play together?"
-        }
-      }
+      "id": "id_7"
     },
     {
-      "id": "learn_6",
-      "category_id": "learn",
-      "module_id": "connect",
-      "quiz_1_option_1_image_asset": "images/modules/connect/mom_face.svg",
-      "quiz_1_option_2_image_asset": "images/modules/connect/daughter_face.svg",
-      "quiz_2_option_1_image_asset": "images/modules/connect/sad_daughters_ face.svg",
-      "quiz_2_option_2_image_asset": "images/modules/connect/happy_daughters_face.svg",
-      "text_1": "Let’s reflect:",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Let’s reflect:"
-        },
-        "quiz_1_question": {
-          "eng": "Who is leading the activity?"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Yes, the mother is choosing what to play and how to play, instead of letting her child take the lead."
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Looking at the story, we can see that the mother is actually the one who is choosing what to play and how to play."
-        },
-        "quiz_2_question": {
-          "eng": "How does the child feel when her mother says she is doing it wrong?"
-        },
-        "quiz_2_option_1_text": {
-          "eng": "Sad"
-        },
-        "quiz_2_feedback_1": {
-          "eng": "She feels unhappy and deflated. She might not want to play together again."
-        },
-        "quiz_2_option_2_text": {
-          "eng": "Happy"
-        },
-        "quiz_2_feedback_2": {
-          "eng": "Looking at the story, we can see from the child’s face that she feels unhappy, and then walks away."
-        }
-      },
-      "quiz_1_question": "Who is leading the activity?",
-      "quiz_1_feedback_1": "Yes, the mother is choosing what to play and how to play, instead of letting her child take the lead.",
-      "quiz_1_feedback_2": "Looking at the story, we can see that the mother is actually the one who is choosing what to play and how to play.",
-      "quiz_2_question": "How does the child feel when her mother says she is doing it wrong?",
-      "quiz_2_option_1_text": "Sad",
-      "quiz_2_feedback_1": "She feels unhappy and deflated. She might not want to play together again.",
-      "quiz_2_option_2_text": "Happy",
-      "quiz_2_feedback_2": "Looking at the story, we can see from the child’s face that she feels unhappy, and then walks away."
+      "id": "id_8"
     },
     {
-      "id": "learn_7",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_7.svg",
-      "media_type": "audio",
-      "media_asset": "audio/modules/connect/learn_7.m4a",
-      "text_1": "What could the mother have done differently?",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "What could the mother have done differently?"
-        },
-        "text_2": {
-          "eng": "Good question! She could have let her child lead and used praise instead of criticism."
-        },
-        "media_title": {
-          "eng": "Listen to learn more."
-        },
-        "media_transcript": {
-          "eng": "Why did the child feel discouraged and why did she walk away? \nBecause the mother was being critical and tried to change what her child was doing. \n\nConnecting with our children is not about telling them how they should be playing or what they are doing wrong. By following your child’s lead, showing that you are paying attention and responding with praise, you make your child feel important and connected to you. This builds their confidence and sets them up for success."
-        }
-      },
-      "text_2": "Good question! She could have let her child lead and used praise instead of criticism.",
-      "media_title": "Listen to learn more.",
-      "media_transcript": "Why did the child feel discouraged and why did she walk away? \nBecause the mother was being critical and tried to change what her child was doing. \n\nConnecting with our children is not about telling them how they should be playing or what they are doing wrong. By following your child’s lead, showing that you are paying attention and responding with praise, you make your child feel important and connected to you. This builds their confidence and sets them up for success."
+      "id": "id_9"
     },
     {
-      "id": "learn_8",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_8.svg",
-      "text_1": "Looking for a quick and powerful connection activity? \nA great way to connect with your child is to look at a book together.",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Looking for a quick and powerful connection activity? \nA great way to connect with your child is to look at a book together."
-        }
-      }
+      "id": "id_10"
     },
     {
-      "id": "learn_9",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_9.svg",
-      "media_type": "audio",
-      "media_asset": "audio/modules/connect/learn_9.m4a",
-      "text_1": "Here’s how to connect during book activities:\nAs you go through the book, notice and respond to what your child is interested in.",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Here’s how to connect during book activities:\nAs you go through the book, notice and respond to what your child is interested in."
-        },
-        "media_title": {
-          "eng": "Listen for an example."
-        },
-        "media_transcript": {
-          "eng": "As you go through the book, notice what your child is interested in and talk about it. So, if your child is looking at the picture of the sandwich, you could say: “Look, he is eating some bread. What do you think is on the bread? What do you like to eat on your bread?”"
-        }
-      },
-      "media_title": "Listen for an example.",
-      "media_transcript": "As you go through the book, notice what your child is interested in and talk about it. So, if your child is looking at the picture of the sandwich, you could say: “Look, he is eating some bread. What do you think is on the bread? What do you like to eat on your bread?”"
+      "id": "id_11"
     },
     {
-      "id": "learn_10",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_10.svg",
-      "text_1": "Let your child set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead.",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Let your child set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead."
-        }
-      }
+      "id": "id_12"
     },
     {
-      "id": "learn_11",
-      "category_id": "learn",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/learn_11.svg",
-      "media_type": "audio",
-      "media_asset": "audio/modules/connect/learn_11.m4a",
-      "text_1": "Always try to respond to what your child is saying in a positive and enthusiastic way.",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Always try to respond to what your child is saying in a positive and enthusiastic way."
-        },
-        "media_title": {
-          "eng": "Positive responses? What’s that?"
-        },
-        "media_transcript": {
-          "eng": "Instead of saying “no!” or “that’s wrong!”, use praise and positive responses to encourage your child to keep learning.\nIf your child says something that’s wrong (like pointing to an apple and calling it a tomato) you don’t need to say “how can you think that?!” or “that’s wrong!”. \nInstead, you can ignore the mistake and respond with the correct name, saying: \n“That’s an apple. It’s red and round like a tomato, but it’s an apple”. Your child will learn more if they don’t feel criticised or discouraged."
-        }
-      },
-      "media_title": "Positive responses? What’s that?",
-      "media_transcript": "Instead of saying “no!” or “that’s wrong!”, use praise and positive responses to encourage your child to keep learning.\nIf your child says something that’s wrong (like pointing to an apple and calling it a tomato) you don’t need to say “how can you think that?!” or “that’s wrong!”. \nInstead, you can ignore the mistake and respond with the correct name, saying: \n“That’s an apple. It’s red and round like a tomato, but it’s an apple”. Your child will learn more if they don’t feel criticised or discouraged."
+      "id": "id_13"
     },
     {
-      "id": "review_1",
-      "category_id": "review",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/review_1.svg",
-      "section_1_image_asset": "images/modules/connect/minimise_distractions.svg",
-      "section_2_image_asset": "images/modules/connect/follow_your_childs_lead.svg",
-      "section_3_image_asset": "images/modules/connect/observe_and_listen.svg",
-      "text_1": "Here’s how to **CONNECT** with your child using a quick and easy daily activity:",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_1_button_text": {
-          "tz_sw": true
-        },
-        "section_1_extra_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_2_button_text": {
-          "tz_sw": true
-        },
-        "section_2_extra_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        },
-        "section_3_button_text": {
-          "tz_sw": true
-        },
-        "section_3_extra_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Here’s how to **CONNECT** with your child using a quick and easy daily activity:"
-        },
-        "section_1_title": {
-          "eng": "**MINIMISE DISTRACTIONS**"
-        },
-        "section_1_text": {
-          "eng": "This helps you to give your full attention to your child."
-        },
-        "section_1_button_text": {
-          "eng": "More info"
-        },
-        "section_1_extra_text": {
-          "eng": "Giving your child your full attention helps your child to feel connected to you."
-        },
-        "section_2_title": {
-          "eng": "**FOLLOW YOUR CHILD’S LEAD**"
-        },
-        "section_2_text": {
-          "eng": "Don’t try to change or control what your child is doing."
-        },
-        "section_2_button_text": {
-          "eng": "More info"
-        },
-        "section_2_extra_text": {
-          "eng": "This helps your child feel important and in control."
-        },
-        "section_3_title": {
-          "eng": "**OBSERVE AND LISTEN**"
-        },
-        "section_3_text": {
-          "eng": "Pay attention to what your child is doing. Be curious about what they might be thinking and feeling. Talk about that."
-        },
-        "section_3_button_text": {
-          "eng": "More info"
-        },
-        "section_3_extra_text": {
-          "eng": "This shows your child you are interested and helps your child feel connected to you."
-        }
-      },
-      "section_1_title": "**MINIMISE DISTRACTIONS**",
-      "section_1_text": "This helps you to give your full attention to your child.",
-      "section_1_button_text": "More info",
-      "section_1_extra_text": "Giving your child your full attention helps your child to feel connected to you.",
-      "section_2_title": "**FOLLOW YOUR CHILD’S LEAD**",
-      "section_2_text": "Don’t try to change or control what your child is doing.",
-      "section_2_button_text": "More info",
-      "section_2_extra_text": "This helps your child feel important and in control.",
-      "section_3_title": "**OBSERVE AND LISTEN**",
-      "section_3_text": "Pay attention to what your child is doing. Be curious about what they might be thinking and feeling. Talk about that.",
-      "section_3_button_text": "More info",
-      "section_3_extra_text": "This shows your child you are interested and helps your child feel connected to you."
+      "id": "id_14"
     },
     {
-      "id": "home_activity_1",
-      "category_id": "home_activity",
-      "module_id": "connect",
-      "image_asset": "images/modules/connect/to_the_top.svg",
-      "media_type": "video",
-      "media_asset": "video/modules/connect/shared_reading.mp4",
-      "text_1": "Want to try this at home?\n\n We have lots of books you can share with your child to **CONNECT**.",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Want to try this at home?\n\n We have lots of books you can share with your child to **CONNECT**."
-        },
-        "text_2": {
-          "eng": "As you go through the book, remember to:\n\n1. Give your child your full attention\n2. Let your child lead the activity\n3. Talk about what interests them\n4. Respond with praise and encouragement"
-        },
-        "media_title": {
-          "eng": "Watch this video to see how."
-        }
-      },
-      "text_2": "As you go through the book, remember to:\n\n1. Give your child your full attention\n2. Let your child lead the activity\n3. Talk about what interests them\n4. Respond with praise and encouragement",
-      "media_title": "Watch this video to see how."
+      "id": "id_15"
+    },
+    {
+      "id": "id_16"
+    },
+    {
+      "id": "id_17"
+    },
+    {
+      "id": "id_18"
+    },
+    {
+      "id": "id_19"
+    },
+    {
+      "id": "id_20"
+    },
+    {
+      "id": "id_21"
+    },
+    {
+      "id": "id_22"
+    },
+    {
+      "id": "id_23"
+    },
+    {
+      "id": "id_24"
+    },
+    {
+      "id": "id_25"
+    },
+    {
+      "id": "id_26"
+    },
+    {
+      "id": "id_27"
+    },
+    {
+      "id": "id_28"
+    },
+    {
+      "id": "id_29"
+    },
+    {
+      "id": "id_30"
+    },
+    {
+      "id": "id_31"
+    },
+    {
+      "id": "id_32"
+    },
+    {
+      "id": "id_33"
+    },
+    {
+      "id": "id_34"
+    },
+    {
+      "id": "id_35"
+    },
+    {
+      "id": "id_36"
+    },
+    {
+      "id": "id_37"
+    },
+    {
+      "id": "id_38"
+    },
+    {
+      "id": "id_39"
+    },
+    {
+      "id": "id_40"
+    },
+    {
+      "id": "id_41"
+    },
+    {
+      "id": "id_42"
+    },
+    {
+      "id": "id_43"
+    },
+    {
+      "id": "id_44"
+    },
+    {
+      "id": "id_45"
+    },
+    {
+      "id": "id_46"
+    },
+    {
+      "id": "id_47"
+    },
+    {
+      "id": "id_48"
+    },
+    {
+      "id": "id_49"
+    },
+    {
+      "id": "id_50"
     }
   ],
   "_xlsxPath": "data/modules/TZ modules.xlsx"
