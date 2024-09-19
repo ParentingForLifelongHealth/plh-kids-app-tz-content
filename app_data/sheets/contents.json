@@ -38,19 +38,8 @@
       "data_list_name": "common_categories",
       "_xlsxPath": "data/modules/TZ modules.xlsx"
     },
-    "connect_articles": {
-      "flow_type": "data_list",
-      "flow_name": "connect_articles",
-      "data_list_name": "connect_articles",
-      "_xlsxPath": "data/modules/TZ modules.xlsx"
-    },
     "books": {
       "flow_name": "books",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "connect_categories": {
-      "flow_name": "connect_categories",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -146,11 +135,6 @@
       "flow_type": "data_pipe",
       "flow_name": "books_filter",
       "_xlsxPath": "data/library/TZ books.xlsx"
-    },
-    "concat_categories": {
-      "flow_type": "data_pipe",
-      "flow_name": "concat_categories",
-      "_xlsxPath": "data/modules/TZ modules_data_pipes.xlsx"
     }
   },
   "generator": {
@@ -186,28 +170,6 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/modules/check_in article_generator.xlsx"
-    },
-    "connect_article_gen": {
-      "flow_type": "generator",
-      "flow_name": "connect_article_gen",
-      "parameter_list": {
-        "input_data_list": "connect_articles",
-        "output_flow_name": "article_connect_@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "templates/TZ article_generators.xlsx"
-    },
-    "connect_category_gen": {
-      "flow_type": "generator",
-      "flow_name": "connect_category_gen",
-      "parameter_list": {
-        "input_data_list": "connect_categories",
-        "output_flow_name": "category_connect_@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "data/modules/TZ categories.xlsx"
     },
     "gen_module": {
       "flow_type": "generator",
@@ -502,256 +464,6 @@
     },
     "article_check_in_9": {
       "flow_name": "article_check_in_9",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_1": {
-      "flow_name": "article_connect_id_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_10": {
-      "flow_name": "article_connect_id_10",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_11": {
-      "flow_name": "article_connect_id_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_12": {
-      "flow_name": "article_connect_id_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_13": {
-      "flow_name": "article_connect_id_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_14": {
-      "flow_name": "article_connect_id_14",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_15": {
-      "flow_name": "article_connect_id_15",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_16": {
-      "flow_name": "article_connect_id_16",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_17": {
-      "flow_name": "article_connect_id_17",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_18": {
-      "flow_name": "article_connect_id_18",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_19": {
-      "flow_name": "article_connect_id_19",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_2": {
-      "flow_name": "article_connect_id_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_20": {
-      "flow_name": "article_connect_id_20",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_21": {
-      "flow_name": "article_connect_id_21",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_22": {
-      "flow_name": "article_connect_id_22",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_23": {
-      "flow_name": "article_connect_id_23",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_24": {
-      "flow_name": "article_connect_id_24",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_25": {
-      "flow_name": "article_connect_id_25",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_26": {
-      "flow_name": "article_connect_id_26",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_27": {
-      "flow_name": "article_connect_id_27",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_28": {
-      "flow_name": "article_connect_id_28",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_29": {
-      "flow_name": "article_connect_id_29",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_3": {
-      "flow_name": "article_connect_id_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_30": {
-      "flow_name": "article_connect_id_30",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_31": {
-      "flow_name": "article_connect_id_31",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_32": {
-      "flow_name": "article_connect_id_32",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_33": {
-      "flow_name": "article_connect_id_33",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_34": {
-      "flow_name": "article_connect_id_34",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_35": {
-      "flow_name": "article_connect_id_35",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_36": {
-      "flow_name": "article_connect_id_36",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_37": {
-      "flow_name": "article_connect_id_37",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_38": {
-      "flow_name": "article_connect_id_38",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_39": {
-      "flow_name": "article_connect_id_39",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_4": {
-      "flow_name": "article_connect_id_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_40": {
-      "flow_name": "article_connect_id_40",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_41": {
-      "flow_name": "article_connect_id_41",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_42": {
-      "flow_name": "article_connect_id_42",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_43": {
-      "flow_name": "article_connect_id_43",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_44": {
-      "flow_name": "article_connect_id_44",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_45": {
-      "flow_name": "article_connect_id_45",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_46": {
-      "flow_name": "article_connect_id_46",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_47": {
-      "flow_name": "article_connect_id_47",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_48": {
-      "flow_name": "article_connect_id_48",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_49": {
-      "flow_name": "article_connect_id_49",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_5": {
-      "flow_name": "article_connect_id_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_50": {
-      "flow_name": "article_connect_id_50",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_6": {
-      "flow_name": "article_connect_id_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_7": {
-      "flow_name": "article_connect_id_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_8": {
-      "flow_name": "article_connect_id_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_connect_id_9": {
-      "flow_name": "article_connect_id_9",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1702,26 +1414,6 @@
     },
     "book_page_zibu_and_zizo": {
       "flow_name": "book_page_zibu_and_zizo",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_connect_home_activity": {
-      "flow_name": "category_connect_home_activity",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_connect_intro": {
-      "flow_name": "category_connect_intro",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_connect_learn": {
-      "flow_name": "category_connect_learn",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_connect_review": {
-      "flow_name": "category_connect_review",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
