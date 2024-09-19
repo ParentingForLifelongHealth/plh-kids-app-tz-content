@@ -90,7 +90,7 @@
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "app_launch.xlsx"
     },
     "modules": {
       "flow_type": "data_list",
@@ -301,6 +301,11 @@
     }
   },
   "global": {
+    "app_menu_globals": {
+      "flow_type": "global",
+      "flow_name": "app_menu_globals",
+      "_xlsxPath": "app_menu.xlsx"
+    },
     "deployment_global_tz": {
       "flow_type": "global",
       "flow_name": "deployment_global_tz",
@@ -313,23 +318,17 @@
     "app_about": {
       "flow_type": "template",
       "flow_name": "app_about",
-      "_xlsxPath": "templates/app_menu.xlsx"
-    },
-    "app_launch_calculations": {
-      "flow_type": "template",
-      "flow_name": "app_launch_calculations",
-      "process_on_start": 1,
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "app_menu.xlsx"
     },
     "app_menu": {
       "flow_type": "template",
       "flow_name": "app_menu",
-      "_xlsxPath": "templates/app_menu.xlsx"
+      "_xlsxPath": "app_menu.xlsx"
     },
     "app_update_complete": {
       "flow_type": "template",
       "flow_name": "app_update_complete",
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "app_launch.xlsx"
     },
     "article": {
       "flow_type": "template",
@@ -376,43 +375,45 @@
       "flow_name": "category_card",
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
+    "check_field_value": {
+      "flow_type": "template",
+      "flow_name": "check_field_value",
+      "_xlsxPath": "library_field_values.xlsx"
+    },
     "enter_dev_mode": {
       "flow_type": "template",
       "flow_name": "enter_dev_mode",
-      "_xlsxPath": "templates/app_menu.xlsx"
+      "_xlsxPath": "app_menu.xlsx"
     },
     "exit_dev_mode": {
       "flow_type": "template",
       "flow_name": "exit_dev_mode",
-      "_xlsxPath": "templates/app_menu.xlsx"
+      "_xlsxPath": "app_menu.xlsx"
     },
     "extra_text": {
       "flow_type": "template",
       "flow_name": "extra_text",
       "_xlsxPath": "templates/modules/articles.xlsx"
     },
-    "feature_feedback_debug": {
-      "flow_type": "template",
-      "flow_name": "feature_feedback_debug",
-      "comments": "Default general feedback form",
-      "_xlsxPath": "templates/app_menu.xlsx"
-    },
-    "feature_feedback_default": {
-      "flow_type": "template",
-      "flow_name": "feature_feedback_default",
-      "comments": "Default text-select feedback form",
-      "_xlsxPath": "templates/app_menu.xlsx"
-    },
-    "feature_feedback_text_select": {
-      "flow_type": "template",
-      "flow_name": "feature_feedback_text_select",
-      "comments": "Used in /feedback debug page",
-      "_xlsxPath": "templates/app_menu.xlsx"
-    },
     "feedback": {
       "flow_type": "template",
       "flow_name": "feedback",
       "_xlsxPath": "templates/modules/articles.xlsx"
+    },
+    "feedback_debug": {
+      "flow_type": "template",
+      "flow_name": "feedback_debug",
+      "_xlsxPath": "app_feedback.xlsx"
+    },
+    "feedback_default": {
+      "flow_type": "template",
+      "flow_name": "feedback_default",
+      "_xlsxPath": "app_feedback.xlsx"
+    },
+    "feedback_text_select": {
+      "flow_type": "template",
+      "flow_name": "feedback_text_select",
+      "_xlsxPath": "app_feedback.xlsx"
     },
     "flow_connect": {
       "flow_type": "template",
@@ -2239,34 +2240,39 @@
       "flow_name": "hp_review_other_challenge",
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
+    "import_user_data": {
+      "flow_type": "template",
+      "flow_name": "import_user_data",
+      "_xlsxPath": "app_menu.xlsx"
+    },
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
-      "_xlsxPath": "templates/app_launch.xlsx"
+      "_xlsxPath": "app_launch.xlsx"
     },
     "accept_terms": {
       "flow_type": "template",
       "flow_subtype": "legal_terms",
       "flow_name": "accept_terms",
-      "_xlsxPath": "templates/app_legal_terms.xlsx"
+      "_xlsxPath": "app_legal_terms.xlsx"
     },
     "accept_terms_warning": {
       "flow_type": "template",
       "flow_subtype": "legal_terms",
       "flow_name": "accept_terms_warning",
-      "_xlsxPath": "templates/app_legal_terms.xlsx"
+      "_xlsxPath": "app_legal_terms.xlsx"
     },
     "app_menu_privacy_policy": {
       "flow_type": "template",
       "flow_subtype": "legal_terms",
       "flow_name": "app_menu_privacy_policy",
-      "_xlsxPath": "templates/app_legal_terms.xlsx"
+      "_xlsxPath": "app_legal_terms.xlsx"
     },
     "app_menu_terms": {
       "flow_type": "template",
       "flow_subtype": "legal_terms",
       "flow_name": "app_menu_terms",
-      "_xlsxPath": "templates/app_legal_terms.xlsx"
+      "_xlsxPath": "app_legal_terms.xlsx"
     },
     "lib_books": {
       "flow_type": "template",
@@ -2366,7 +2372,7 @@
     "user_id": {
       "flow_type": "template",
       "flow_name": "user_id",
-      "_xlsxPath": "templates/app_menu.xlsx"
+      "_xlsxPath": "app_menu.xlsx"
     },
     "workshop_activity": {
       "flow_type": "template",
