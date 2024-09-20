@@ -50,11 +50,12 @@
 | --- | --- | --- |
 | data_list |  | 17 |
 | data_list | app_config_language_list | 1 |
-| data_list | generated | 2 |
+| data_list | generated | 4 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
-| generator |  | 11 |
+| data_pipe | generated | 2 |
+| generator |  | 13 |
 | global |  | 2 |
 | template |  | 48 |
 | template | generated | 276 |

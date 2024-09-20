@@ -165,7 +165,7 @@
     {
       "type": "data_list",
       "subtype": "generated",
-      "total": 2
+      "total": 4
     },
     {
       "type": "data_list",
@@ -183,9 +183,14 @@
       "total": 2
     },
     {
+      "type": "data_pipe",
+      "subtype": "generated",
+      "total": 2
+    },
+    {
       "type": "generator",
       "subtype": null,
-      "total": 11
+      "total": 13
     },
     {
       "type": "global",

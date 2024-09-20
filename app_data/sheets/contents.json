@@ -54,6 +54,16 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
+    "play_article_tasks": {
+      "flow_name": "play_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_category_tasks": {
+      "flow_name": "play_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "guidance_groups": {
       "flow_type": "data_list",
       "flow_name": "guidance_groups",
@@ -151,6 +161,16 @@
       "flow_type": "data_pipe",
       "flow_name": "exclude_draft_modules",
       "_xlsxPath": "modules/TZ modules data pipes.xlsx"
+    },
+    "prep_play_articles": {
+      "flow_name": "prep_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    "prep_play_categories": {
+      "flow_name": "prep_play_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
     }
   },
   "generator": {
@@ -208,6 +228,30 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
+    },
+    "gen_prep_articles": {
+      "flow_type": "generator",
+      "flow_name": "gen_prep_articles",
+      "parameter_list": {
+        "input_data_list": "modules_released",
+        "output_flow_name": "prep_{@gen.id}_articles",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "comment": "could be a global sheet, same as KW",
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx"
+    },
+    "gen_prep_categories": {
+      "flow_type": "generator",
+      "flow_name": "gen_prep_categories",
+      "parameter_list": {
+        "input_data_list": "modules_released",
+        "output_flow_name": "prep_{@gen.id}_categories",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "comment": "could be a global sheet, ALMOST same as KW",
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx"
     },
     "gen_relax": {
       "flow_type": "generator",

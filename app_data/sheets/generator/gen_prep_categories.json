@@ -1,0 +1,30 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_prep_categories",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "modules_released",
+    "output_flow_name": "prep_{@gen.id}_categories",
+    "output_flow_type": "data_pipe",
+    "output_flow_subtype": "generated"
+  },
+  "comment": "could be a global sheet, ALMOST same as KW",
+  "rows": [
+    {
+      "operation": "concat",
+      "args_list": [
+        "common_categories",
+        "{@gen.id}_categories"
+      ]
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "completed: FALSE",
+        "task_child: {@gen.id}_@row.id_article_tasks"
+      ],
+      "output_target": "{@gen.id}_category_tasks"
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx"
+}
