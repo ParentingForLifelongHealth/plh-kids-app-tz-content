@@ -9,7 +9,6 @@
     "output_flow_subtype": "generated"
   },
   "module_id": "play",
-  "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
   "rows": [
     {
       "type": "template",

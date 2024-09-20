@@ -7,6 +7,7 @@
     {
       "id": "join",
       "number": "0",
+      "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "relax_id_list": [
         "[]"
@@ -37,6 +38,7 @@
       "relax_id_list": [
         "relax_10"
       ],
+      "status": "draft",
       "play_id_list": [
         "[]"
       ],
@@ -74,6 +76,7 @@
       "relax_id_list": [
         "relax_13"
       ],
+      "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "play_id_list": [
         "[]"
@@ -106,6 +109,7 @@
     },
     {
       "id": "play",
+      "status": "released",
       "number": "3",
       "image_asset": "images/modules/play/play_title_image.svg",
       "check_in_id": "check_in_3",
@@ -152,6 +156,7 @@
         "relax_14",
         "relax_17"
       ],
+      "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "play_id_list": [
         "[]"
@@ -191,6 +196,7 @@
         "relax_7",
         "relax_12"
       ],
+      "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "play_id_list": [
         "[]"
@@ -231,6 +237,7 @@
         "relax_11",
         "relax_15"
       ],
+      "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "play_id_list": [
         "[]"
@@ -265,6 +272,7 @@
       "id": "care",
       "number": "7",
       "check_in_id": "check_in_8",
+      "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "relax_id_list": [
         "[]"

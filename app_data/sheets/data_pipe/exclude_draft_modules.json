@@ -1,0 +1,16 @@
+{
+  "flow_type": "data_pipe",
+  "flow_name": "exclude_draft_modules",
+  "status": "released",
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "status != \"draft\""
+      ],
+      "input_source": "modules",
+      "output_target": "modules_released"
+    }
+  ],
+  "_xlsxPath": "data/modules/TZ modules_data_pipes.xlsx"
+}
