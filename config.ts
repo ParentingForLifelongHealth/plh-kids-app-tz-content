@@ -8,18 +8,11 @@ config.git = {
   content_tag_latest: "1.1.57",
 };
 
-const sheets_folder_map = { 
-  library_app_menu: "19wSspWYMbRc75een-kS0q0aq24--75u8",
-  library_field_values:"1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo",
-  kids_global: "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
-  kids_tz: "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
-}
-
 config.google_drive.sheets_folder_ids = [
-  sheets_folder_map.library_app_menu, 
-  sheets_folder_map.library_field_values, 
-  sheets_folder_map.kids_global, 
-  sheets_folder_map.kids_tz
+  "19wSspWYMbRc75een-kS0q0aq24--75u8", \\ library_app_menu
+  "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", \\ library_field_values
+  "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", \\ kids_global
+  "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19" \\ kids_tz
 ];
 
 config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1kLl5t3o4A2ssC2iC-lT2bp4u8BZZneSE"];
