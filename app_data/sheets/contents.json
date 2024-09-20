@@ -59,8 +59,43 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
+    "play_books_play_article_tasks": {
+      "flow_name": "play_books_play_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "play_category_tasks": {
       "flow_name": "play_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_check_in_article_tasks": {
+      "flow_name": "play_check_in_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_how_play_article_tasks": {
+      "flow_name": "play_how_play_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_power_play_article_tasks": {
+      "flow_name": "play_power_play_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_practice_article_tasks": {
+      "flow_name": "play_practice_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_relax_article_tasks": {
+      "flow_name": "play_relax_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "play_why_play_article_tasks": {
+      "flow_name": "play_why_play_article_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -171,6 +206,36 @@
       "flow_name": "prep_play_categories",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
+    },
+    "prep_split_books_play_articles": {
+      "flow_name": "prep_split_books_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    "prep_split_how_play_articles": {
+      "flow_name": "prep_split_how_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    "prep_split_play_articles": {
+      "flow_name": "prep_split_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    "prep_split_power_play_articles": {
+      "flow_name": "prep_split_power_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    "prep_split_practice_articles": {
+      "flow_name": "prep_split_practice_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    "prep_split_why_play_articles": {
+      "flow_name": "prep_split_why_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
     }
   },
   "generator": {
@@ -274,6 +339,28 @@
         "output_flow_subtype": "generated"
       },
       "_xlsxPath": "templates/library/relax_activities.xlsx"
+    },
+    "gen_split_play_articles": {
+      "flow_type": "generator",
+      "flow_name": "gen_split_play_articles",
+      "parameter_list": {
+        "input_data_list": "play_categories",
+        "output_flow_name": "prep_split_{@gen.id}_articles",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx"
+    },
+    "gen_standard_articles": {
+      "flow_type": "generator",
+      "flow_name": "gen_standard_articles",
+      "parameter_list": {
+        "input_data_list": "modules_released",
+        "output_flow_name": "prep_split_{@gen.id}_articles",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx"
     },
     "hp_review_challenges_gen": {
       "flow_type": "generator",
@@ -1824,7 +1911,7 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
-      "_xlsxPath": "templates/app_navigation.xlsx"
+      "_xlsxPath": "TZ app_navigation.xlsx"
     },
     "hp_review": {
       "flow_type": "template",
@@ -1903,6 +1990,11 @@
     "module_overview": {
       "flow_type": "template",
       "flow_name": "module_overview",
+      "_xlsxPath": "templates/modules/module_navigation.xlsx"
+    },
+    "module_path": {
+      "flow_type": "template",
+      "flow_name": "module_path",
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
     "nav_buttons": {

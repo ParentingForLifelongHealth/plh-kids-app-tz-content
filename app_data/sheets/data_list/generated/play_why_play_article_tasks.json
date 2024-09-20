@@ -1,0 +1,84 @@
+{
+  "flow_name": "play_why_play_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "why_play_1",
+      "category_id": "why_play",
+      "image_asset": "images/modules/play/why_play_1.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/play/play_01.m4a",
+      "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
+      "text_2": "We want to talk about PLAY, because of how important it is to children’s learning and development.\n\nCreating time and space for children to play is as important as eating and sleeping! \nAnd when you join your child in playful activities, you take their learning to the next level. \nYou might even have some fun yourself.",
+      "_translations": {
+        "text_2": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "We want to talk about PLAY, because of how important it is to children’s learning and development.\n\nCreating time and space for children to play is as important as eating and sleeping! \nAnd when you join your child in playful activities, you take their learning to the next level. \nYou might even have some fun yourself."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Sometimes children play with friends, and other times, on their own. Sometimes play is busy and loud, and other times it is quiet and relaxed. No matter what it looks like, when children play, they learn. Today we will look at ways you can support your child through play. You don’t need special toys or a lot of time. What’s important is that you have some fun together."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Sometimes children play with friends, and other times, on their own. Sometimes play is busy and loud, and other times it is quiet and relaxed. No matter what it looks like, when children play, they learn. Today we will look at ways you can support your child through play. You don’t need special toys or a lot of time. What’s important is that you have some fun together."
+    },
+    {
+      "id": "why_play_2",
+      "category_id": "why_play",
+      "image_asset": "images/modules/play/why_play_2.svg",
+      "text_2": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image.",
+      "_translations": {
+        "text_2": {},
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "**The ParentApp Garden**"
+        },
+        "text_2": {
+          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
+        }
+      },
+      "title": "**The ParentApp Garden**"
+    },
+    {
+      "id": "why_play_3",
+      "category_id": "why_play",
+      "image_asset": "images/modules/play/new_fertaliser.gif",
+      "media_type": "audio",
+      "media_asset": "audio/modules/play/play_02.m4a",
+      "text_2": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development.",
+      "_translations": {
+        "text_2": {},
+        "media_title": {},
+        "media_transcript": {},
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "**The ParentApp Garden**"
+        },
+        "text_2": {
+          "eng": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Fertiliser or “plant food” boosts the quality of the soil around the plant and the plant’s growth. When you sprinkle playfulness throughout your interactions with your child, it will make a big difference to their development. It doesn’t have to be a lot at once, but doing it regularly can improve your relationship while also helping your child learn important skills."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Fertiliser or “plant food” boosts the quality of the soil around the plant and the plant’s growth. When you sprinkle playfulness throughout your interactions with your child, it will make a big difference to their development. It doesn’t have to be a lot at once, but doing it regularly can improve your relationship while also helping your child learn important skills.",
+      "title": "**The ParentApp Garden**"
+    }
+  ]
+}
