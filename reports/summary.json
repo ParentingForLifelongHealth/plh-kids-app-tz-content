@@ -38,7 +38,7 @@
     },
     {
       "type": "go_to",
-      "count": 13
+      "count": 11
     },
     {
       "type": "pop_up",
@@ -50,7 +50,7 @@
     },
     {
       "type": "set_local",
-      "count": 13
+      "count": 7
     },
     {
       "type": "user",
@@ -72,7 +72,7 @@
     },
     {
       "type": "button",
-      "count": 33
+      "count": 31
     },
     {
       "type": "carousel",
@@ -92,11 +92,11 @@
     },
     {
       "type": "display_group",
-      "count": 37
+      "count": 35
     },
     {
       "type": "items",
-      "count": 9
+      "count": 8
     },
     {
       "type": "lottie_animation",
@@ -112,7 +112,7 @@
     },
     {
       "type": "set_variable",
-      "count": 429
+      "count": 414
     },
     {
       "type": "task_card",
@@ -124,7 +124,7 @@
     },
     {
       "type": "template",
-      "count": 296
+      "count": 294
     },
     {
       "type": "text",
@@ -195,7 +195,7 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 50
+      "total": 48
     },
     {
       "type": "template",

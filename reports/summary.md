@@ -12,10 +12,10 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 258 |
 | feedback | 7 |
-| go_to | 13 |
+| go_to | 11 |
 | pop_up | 5 |
 | set_field | 13 |
-| set_local | 13 |
+| set_local | 7 |
 | user | 1 |
 
 ## Components
@@ -24,20 +24,20 @@
 | accordion | 1 |
 | animated_section | 2 |
 | audio | 1 |
-| button | 33 |
+| button | 31 |
 | carousel | 1 |
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 37 |
-| items | 9 |
+| display_group | 35 |
+| items | 8 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 429 |
+| set_variable | 414 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 296 |
+| template | 294 |
 | text | 45 |
 | text_area | 2 |
 | text_box | 5 |
@@ -56,6 +56,6 @@
 | data_pipe |  | 2 |
 | generator |  | 11 |
 | global |  | 2 |
-| template |  | 50 |
+| template |  | 48 |
 | template | generated | 276 |
 | template | legal_terms | 4 |
