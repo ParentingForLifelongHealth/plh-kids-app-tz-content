@@ -9,7 +9,7 @@
       "category_id": "why_play",
       "image_asset": "images/modules/play/why_play_1.svg",
       "media_type": "audio",
-      "media_asset": "Need to add",
+      "media_asset": "audio/modules/play/play_01.m4a",
       "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
       "text_2": "We want to talk about PLAY, because of how important it is to children’s learning and development.\n\nCreating time and space for children to play is as important as eating and sleeping! \nAnd when you join your child in playful activities, you take their learning to the next level. \nYou might even have some fun yourself.",
       "_translations": {
@@ -55,7 +55,7 @@
       "category_id": "why_play",
       "image_asset": "images/modules/play/new_fertaliser.gif",
       "media_type": "audio",
-      "media_asset": "Need to add",
+      "media_asset": "audio/modules/play/play_02.m4a",
       "title": "**The ParentApp Garden**",
       "_translations": {
         "title": {},
@@ -132,7 +132,7 @@
       "id": "how_to_play_4",
       "category_id": "how_play",
       "media_type": "audio",
-      "media_asset": "Need to add",
+      "media_asset": "audio/modules/play/man/play_03.m4a",
       "text_1": "Let’s hear from a caregiver:",
       "_translations": {
         "text_1": {},
@@ -153,7 +153,7 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/power_of_play_1.svg",
       "media_type": "audio",
-      "media_asset": "Need to add",
+      "media_asset": "audio/modules/play/play_04.m4a",
       "text_1": "Did you know: You can use play to your advantage.",
       "_translations": {
         "text_1": {},
@@ -502,7 +502,7 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/play_module_ideas.svg",
       "media_type": "audio",
-      "media_asset": "Need to add",
+      "media_asset": "audio/modules/play/play_05.m4a",
       "text_2": "Here are some more ideas for how you can use play to help your child to cooperate with what you need them to do.",
       "_translations": {
         "text_2": {},

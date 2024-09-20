@@ -5,7 +5,7 @@
   "rows": [
     {
       "operation": "filter",
-      "input_source": "books",
+      "input_source": "books_all",
       "output_target": "books",
       "args_list": [
         "status != \"draft\""

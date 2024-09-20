@@ -26,6 +26,12 @@
       "data_list_name": "book_levels",
       "_xlsxPath": "data/library/TZ books.xlsx"
     },
+    "books_all": {
+      "flow_type": "data_list",
+      "flow_name": "books_all",
+      "data_list_name": "books_all",
+      "_xlsxPath": "data/library/TZ books.xlsx"
+    },
     "check_in": {
       "flow_type": "data_list",
       "flow_name": "check_in",
@@ -40,6 +46,11 @@
     },
     "books": {
       "flow_name": "books",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "modules_released": {
+      "flow_name": "modules_released",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -135,6 +146,11 @@
       "flow_type": "data_pipe",
       "flow_name": "books_filter",
       "_xlsxPath": "data/library/TZ books.xlsx"
+    },
+    "exclude_draft_modules": {
+      "flow_type": "data_pipe",
+      "flow_name": "exclude_draft_modules",
+      "_xlsxPath": "data/modules/TZ modules_data_pipes.xlsx"
     }
   },
   "generator": {
@@ -258,7 +274,6 @@
         "output_flow_subtype": "generated"
       },
       "module_id": "play",
-      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
       "_xlsxPath": "templates/TZ categories.xlsx"
     }
   },
@@ -837,16 +852,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_i_like_to_read": {
-      "flow_name": "book_cover_i_like_to_read",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_it_wasnt_me": {
-      "flow_name": "book_cover_it_wasnt_me",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_cover_jasu_loves_football": {
       "flow_name": "book_cover_jasu_loves_football",
       "flow_subtype": "generated",
@@ -872,11 +877,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_little_monkey_s_lost_bananas": {
-      "flow_name": "book_cover_little_monkey_s_lost_bananas",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_cover_little_shoots": {
       "flow_name": "book_cover_little_shoots",
       "flow_subtype": "generated",
@@ -892,11 +892,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_ma_hurry_up": {
-      "flow_name": "book_cover_ma_hurry_up",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_cover_mama_whats_for_lunch": {
       "flow_name": "book_cover_mama_whats_for_lunch",
       "flow_subtype": "generated",
@@ -904,16 +899,6 @@
     },
     "book_cover_moms_red_coat": {
       "flow_name": "book_cover_moms_red_coat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_mother_hen": {
-      "flow_name": "book_cover_mother_hen",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_my_first_day_at_school": {
-      "flow_name": "book_cover_my_first_day_at_school",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -927,11 +912,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_nichchumani_helps_out": {
-      "flow_name": "book_cover_nichchumani_helps_out",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_cover_nita_upside_down": {
       "flow_name": "book_cover_nita_upside_down",
       "flow_subtype": "generated",
@@ -942,33 +922,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_cover_no_smiles_today": {
-      "flow_name": "book_cover_no_smiles_today",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_cover_paint_plant_day": {
       "flow_name": "book_cover_paint_plant_day",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_pishi_and_me": {
-      "flow_name": "book_cover_pishi_and_me",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_ranis_first_day_at_school": {
-      "flow_name": "book_cover_ranis_first_day_at_school",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_reba_wants_ice_cream": {
-      "flow_name": "book_cover_reba_wants_ice_cream",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_red_bean_plant": {
-      "flow_name": "book_cover_red_bean_plant",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1019,16 +974,6 @@
     },
     "book_cover_trip_to_tap": {
       "flow_name": "book_cover_trip_to_tap",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_under_my_bed": {
-      "flow_name": "book_cover_under_my_bed",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_cover_very_green_day": {
-      "flow_name": "book_cover_very_green_day",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1177,16 +1122,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_i_like_to_read": {
-      "flow_name": "book_page_i_like_to_read",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_it_wasnt_me": {
-      "flow_name": "book_page_it_wasnt_me",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_page_jasu_loves_football": {
       "flow_name": "book_page_jasu_loves_football",
       "flow_subtype": "generated",
@@ -1212,11 +1147,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_little_monkey_s_lost_bananas": {
-      "flow_name": "book_page_little_monkey_s_lost_bananas",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_page_little_shoots": {
       "flow_name": "book_page_little_shoots",
       "flow_subtype": "generated",
@@ -1232,11 +1162,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_ma_hurry_up": {
-      "flow_name": "book_page_ma_hurry_up",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_page_mama_whats_for_lunch": {
       "flow_name": "book_page_mama_whats_for_lunch",
       "flow_subtype": "generated",
@@ -1244,16 +1169,6 @@
     },
     "book_page_moms_red_coat": {
       "flow_name": "book_page_moms_red_coat",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_mother_hen": {
-      "flow_name": "book_page_mother_hen",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_my_first_day_at_school": {
-      "flow_name": "book_page_my_first_day_at_school",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1267,11 +1182,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_nichchumani_helps_out": {
-      "flow_name": "book_page_nichchumani_helps_out",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_page_nita_upside_down": {
       "flow_name": "book_page_nita_upside_down",
       "flow_subtype": "generated",
@@ -1282,33 +1192,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "book_page_no_smiles_today": {
-      "flow_name": "book_page_no_smiles_today",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "book_page_paint_plant_day": {
       "flow_name": "book_page_paint_plant_day",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_pishi_and_me": {
-      "flow_name": "book_page_pishi_and_me",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_ranis_first_day_at_school": {
-      "flow_name": "book_page_ranis_first_day_at_school",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_reba_wants_ice_cream": {
-      "flow_name": "book_page_reba_wants_ice_cream",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_red_bean_plant": {
-      "flow_name": "book_page_red_bean_plant",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1359,16 +1244,6 @@
     },
     "book_page_trip_to_tap": {
       "flow_name": "book_page_trip_to_tap",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_under_my_bed": {
-      "flow_name": "book_page_under_my_bed",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "book_page_very_green_day": {
-      "flow_name": "book_page_very_green_day",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
