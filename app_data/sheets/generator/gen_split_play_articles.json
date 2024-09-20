@@ -1,0 +1,23 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_split_play_articles",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "play_categories",
+    "output_flow_name": "prep_split_{@gen.id}_articles",
+    "output_flow_type": "data_pipe",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "play_articles",
+      "output_target": "play_{@gen.id}_article_tasks",
+      "module_id": "play"
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx"
+}
