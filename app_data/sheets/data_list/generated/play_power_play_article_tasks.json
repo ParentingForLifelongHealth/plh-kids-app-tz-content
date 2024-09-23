@@ -32,7 +32,8 @@
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!",
-      "text_1": "Did you know: You can use play to your advantage."
+      "text_1": "Did you know: You can use play to your advantage.",
+      "completed": false
     },
     {
       "id": "the_power_of_play_2",
@@ -51,7 +52,8 @@
         "text_1": {},
         "image_text": {}
       },
-      "image_text": "I don't want to go to sleep"
+      "image_text": "I don't want to go to sleep",
+      "completed": false
     },
     {
       "id": "the_power_of_play_3",
@@ -65,7 +67,8 @@
       "image_text": "\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_4",
@@ -79,7 +82,8 @@
       "image_text": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_5",
@@ -93,7 +97,8 @@
       "image_text": "\"I want more supper. Another book! Just one more song?\" \n\n\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_6",
@@ -107,7 +112,8 @@
       "image_text": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_7",
@@ -121,7 +127,8 @@
       "image_text": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_8",
@@ -135,7 +142,8 @@
       "image_text": "\"Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?\"\n\n\"Yes! Yes! Yes!\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_9",
@@ -149,7 +157,8 @@
       "image_text": "\"I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_10",
@@ -163,7 +172,8 @@
       "image_text": "\"I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_11",
@@ -177,7 +187,8 @@
       "image_text": "\"I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_12",
@@ -191,7 +202,8 @@
       "image_text": "\"Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_13",
@@ -205,12 +217,14 @@
       "image_text": "\"Goodnight, Nandi.\"",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_play_14",
       "category_id": "power_play",
-      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg"
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg",
+      "completed": false
     },
     {
       "id": "the_power_of_play_15",
@@ -262,7 +276,8 @@
       "quiz_1_option_2_text": "Angry",
       "quiz_1_feedback_2": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
       "quiz_1_option_3_text": "Tired",
-      "quiz_1_feedback_3": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
+      "quiz_1_feedback_3": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
+      "completed": false
     },
     {
       "id": "the_power_of_play_16",
@@ -350,7 +365,8 @@
       "quiz_2_option_2_text": "Scared",
       "quiz_2_feedback_2": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep.",
       "quiz_2_option_3_text": "Awake",
-      "quiz_2_feedback_3": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep."
+      "quiz_2_feedback_3": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep.",
+      "completed": false
     },
     {
       "id": "the_power_of_play_17",
@@ -376,7 +392,8 @@
         }
       },
       "media_title": "Listen for more ideas:",
-      "media_transcript": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed."
+      "media_transcript": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed.",
+      "completed": false
     }
   ]
 }

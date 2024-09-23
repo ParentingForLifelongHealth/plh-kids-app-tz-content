@@ -8,7 +8,7 @@
       "args_list": [
         "category_id == \"why_play\""
       ],
-      "input_source": "play_articles",
+      "input_source": "play_article_tasks",
       "output_target": "play_why_play_article_tasks",
       "module_id": "play"
     }

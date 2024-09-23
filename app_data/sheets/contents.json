@@ -197,11 +197,6 @@
       "flow_name": "exclude_draft_modules",
       "_xlsxPath": "modules/TZ modules data pipes.xlsx"
     },
-    "prep_play_articles": {
-      "flow_name": "prep_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
     "prep_play_categories": {
       "flow_name": "prep_play_categories",
       "flow_subtype": "generated",
@@ -214,11 +209,6 @@
     },
     "prep_split_how_play_articles": {
       "flow_name": "prep_split_how_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    "prep_split_play_articles": {
-      "flow_name": "prep_split_play_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
@@ -236,6 +226,17 @@
       "flow_name": "prep_split_why_play_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
+    },
+    "prep_standard_play_articles": {
+      "flow_name": "prep_standard_play_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    "prep_play_articles": {
+      "flow_type": "data_pipe",
+      "flow_name": "prep_play_articles",
+      "comment": "Temporary solution until https://github.com/IDEMSInternational/open-app-builder/issues/2434 is addressed.",
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx"
     }
   },
   "generator": {
@@ -294,18 +295,6 @@
       },
       "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
-    "gen_prep_articles": {
-      "flow_type": "generator",
-      "flow_name": "gen_prep_articles",
-      "parameter_list": {
-        "input_data_list": "modules_released",
-        "output_flow_name": "prep_{@gen.id}_articles",
-        "output_flow_type": "data_pipe",
-        "output_flow_subtype": "generated"
-      },
-      "comment": "could be a global sheet, same as KW",
-      "_xlsxPath": "modules/TZ modules data pipes.xlsx"
-    },
     "gen_prep_categories": {
       "flow_type": "generator",
       "flow_name": "gen_prep_categories",
@@ -356,7 +345,7 @@
       "flow_name": "gen_standard_articles",
       "parameter_list": {
         "input_data_list": "modules_released",
-        "output_flow_name": "prep_split_{@gen.id}_articles",
+        "output_flow_name": "prep_standard_{@gen.id}_articles",
         "output_flow_type": "data_pipe",
         "output_flow_subtype": "generated"
       },

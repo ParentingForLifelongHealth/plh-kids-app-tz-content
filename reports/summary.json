@@ -180,17 +180,17 @@
     {
       "type": "data_pipe",
       "subtype": null,
-      "total": 2
+      "total": 3
     },
     {
       "type": "data_pipe",
       "subtype": "generated",
-      "total": 8
+      "total": 7
     },
     {
       "type": "generator",
       "subtype": null,
-      "total": 15
+      "total": 14
     },
     {
       "type": "global",
