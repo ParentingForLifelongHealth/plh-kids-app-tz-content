@@ -10,15 +10,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to spend one-on-one time with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -64,15 +82,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to praise your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_no": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "question_how": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -118,15 +154,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your home practice was to try out REAL, POSITIVE and EXACT instructions with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -172,15 +226,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "This week, your goal was: Whenever you are feeling stressed or upset, take five breaths in and out before you react. \n\nYour goal was also to talk to your teen about how you both felt in a stressful situation.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -226,15 +298,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to make a family budget and savings plan.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -280,15 +370,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to make ONE rule with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -334,15 +442,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to introduce ONE positive consequence (for your teen taking responsibility) and ONE negative consequence (for your teen breaking a household rule).",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -388,15 +514,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to try and resolve a problem or conflict together with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -442,15 +586,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to map risks and support systems with your teen – both in your community and online.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -496,15 +658,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for it.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -550,15 +730,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to look at the stories in this module together with your teen and let it spark a discussion about body changes and intimate relationships.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -604,15 +802,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "Your goal was to discuss the @data.workshop.w_svp.in_text_title with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -658,15 +874,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "text_goal": "This week, your goal was: Share with your teen how you feel, and ask them to also name their feelings.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "reply_no": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -712,14 +946,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "reply_no": "That’s okay, hopefully you can try it soon and see how it turns out.",
       "_translations": {
-        "reply_no": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "question_how": {}
+        "reply_no": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "reply_no": {
@@ -761,14 +1011,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "reply_no": "That’s okay, hopefully you can try it soon and see how it turns out.",
       "_translations": {
-        "reply_no": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "question_how": {}
+        "reply_no": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "reply_no": {
@@ -810,14 +1076,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "reply_no": "That’s okay, hopefully you can try it soon and see how it turns out.",
       "_translations": {
-        "reply_no": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "question_how": {}
+        "reply_no": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "reply_no": {
@@ -859,14 +1141,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/1_zsHcT_j8TTa75X9yrUbQh8J2WmL_q2n8n-byDpecQg",
       "reply_no": "That’s okay, hopefully you can try it soon and see how it turns out.",
       "_translations": {
-        "reply_no": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "question_how": {}
+        "reply_no": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        },
+        "activity_title": {
+          "tz_sw": true
+        },
+        "question_done": {
+          "tz_sw": true
+        },
+        "question_how": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "reply_no": {

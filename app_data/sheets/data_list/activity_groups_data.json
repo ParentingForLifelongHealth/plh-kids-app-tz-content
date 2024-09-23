@@ -9,8 +9,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VWRi_cCZY6JEU619WkwdpZCTd4SJZhnAxxYMSnZD56I",
       "title": "Everyday activities",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -26,8 +30,12 @@
       "id": "home",
       "title": "Learning at home",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -43,8 +51,12 @@
       "id": "chat",
       "title": "Chat together",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -60,7 +72,9 @@
       "id": "pretend_play",
       "title": "Pretend play",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -72,8 +86,12 @@
       "id": "games",
       "title": "Fun and games",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

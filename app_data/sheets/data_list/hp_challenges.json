@@ -10,14 +10,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to praise your teen?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -59,18 +75,42 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when sharing how you feel with your teen?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -128,16 +168,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when making your budget together?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -187,20 +247,48 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to make a rule together?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -266,22 +354,54 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to introduce a consequence together?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "text_challenge_7": {},
-        "reply_challenge_7": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "text_challenge_7": {
+          "tz_sw": true
+        },
+        "reply_challenge_7": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -355,18 +475,42 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to resolve the problem with your teen?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -424,20 +568,48 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to map risks and support with your teen?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -503,14 +675,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when trying to prepare for a possible crisis with your teen?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -552,16 +740,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when talking to your teen about body changes and intimate relationships?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -611,14 +819,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when talking about the @data.workshop.w_svp.in_text_title with your teen?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -660,18 +884,42 @@
       "attached_single_doc": "https://docs.google.com/document/d/14nzDwZCdwKVheBWLd1eq7SOC5UaRddIXe50CqC3DgMk",
       "question_text": "Did you have any challenges when sharing how you feel with your teen?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "top_text": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {

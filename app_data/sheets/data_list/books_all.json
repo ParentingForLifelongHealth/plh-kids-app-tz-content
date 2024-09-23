@@ -31,24 +31,60 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-67ExWY2JrnuPM1Gilr6n0FYa2ryOXLD2NA70bDe-Rg",
       "title": "Who Took My Shoe?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2_left": {},
-        "text_2_right": {},
-        "text_3_left": {},
-        "text_3_right": {},
-        "text_4_left": {},
-        "text_4_right": {},
-        "text_5_left": {},
-        "text_5_right": {},
-        "text_6_left": {},
-        "text_6_right": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_5_right": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -148,8 +184,12 @@
       "image_14_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page17.jpg",
       "title": "A Very Important Tree",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -185,8 +225,12 @@
       "image_14_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page17.jpg",
       "title": "An unexpected adventure",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -221,26 +265,66 @@
       "image_13_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page17.jpg",
       "title": "I don't want to go to sleep",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_1_right": {},
-        "text_2_left": {},
-        "text_2_right": {},
-        "text_3_left": {},
-        "text_3_right": {},
-        "text_4_left": {},
-        "text_4_right": {},
-        "text_5_left": {},
-        "text_5_right": {},
-        "text_6_left": {},
-        "text_6_right": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_5_right": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -349,20 +433,48 @@
       "images_attributions": "Cover page: Scared Boy, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 2: Boy in Fear, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 3: Mom and Child, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 4: Monster under the Bed, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mother to Rescue, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 6: Eyes in the Tub, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 7: Sister Helps, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 8: Inside a Whale, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 9: Mother and Sister to rescue, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 10: Boy's thought bubble, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 11: Family, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.Page 12: Mother, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 13: At Dentist's, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 14: Assurance, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 15: Mother's care, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 16: Miniature Octopus, by Nyambura Kariuki © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "Scared Tumi",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -448,22 +560,54 @@
       "images_attributions": "Cover page: Mother and child holding a red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Child hugging mother in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Child and mother hugging, sleeping, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Adult in red coat excited, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mom kneeling next to child, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Child hugging mother as she leaves, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child lying on red coat with food, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child painting in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Child and adult gardening, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child sleeping with dirty red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Washed clothes on line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Red coat falling on lady coming out of car, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Mother patting child on head, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Clothes on drying line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dirty red coat hanging, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "Mom's Red Coat",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6_left": {},
-        "text_6_right": {},
-        "text_7": {},
-        "text_7_left": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -558,23 +702,57 @@
       "images_attributions": "Cover page: Girl trying to read clock, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 2: A woman enters a girl's room, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 3: Girl tucked into bed, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 4: Girl refusing to eat food, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 5: Girl and her grandfather go vegetable shopping, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 6: Girl screaming in a kitchen, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 7: Girls and a bus conductor, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 8: Girl plays in a park, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 9: Girl feeding her dog, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 10: Man reads girl a story, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 11: Woman looks into a dark room , by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 12: Brinjal and breakfast, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 13: Girl smiling joyfully, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 14: Woman and girl hug, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 15: Girl and her daily activities, by Alankrita Amaya © Pratham Books, 2018. Some rights\nreserved. Released under CC BY 4.0 license. Page 16: The daily activities of a girl, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "When Will Amma Be Back?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -667,16 +845,36 @@
       "images_attributions": "Cover page: Bee sleeping on elephant, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 2: Bee crying while elephant looks on, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 3: Elephant showing a bee a\nnest, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 4: Bird flying towards elephant and bee, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 5: Elephant showing a bee a cave, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 6: Bee and elephant being chased by bats, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 7: Elephant showing a bee a beehive, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 8: Bees taking in beehive, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 9: All animals going together in the forest, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license. Page 10: Bee on elephant's trunk, by Try Samphos © Room to Read, 2011. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "The Bee and the Elephant",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -748,22 +946,54 @@
       "images_attributions": "Cover page: Girl thinking about ice creams, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 2: Man pushing a cart, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 3: Girl comes running towards a woman, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 4: Bushes, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 5: Woman slicing a fish, and a girl standing by, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 6: Woman giving money to a girl, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 7: Cat sitting on the grass, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 8: Silhoutted scene of a girl at a counter, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 9: Shopkeeper selling something to a girl, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 10: Girl lying on a mat and doing her work, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 11: Girl in deep thought, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 12: Girl thinking about ice cream, girl praying intently, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 13: Girl runs towards a shop, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 14: Girl runs away with an ice cream while another looks on, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 15: Two girls at a shop, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 16: Man gives an ice cream to a gir,l by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license. Page 17: Girl licks ice cream happily, by Dhiman Sarkar © Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "Reba Wants Ice Cream",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_5": {},
-        "text_6": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11_left": {},
-        "text_11_right": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_11_right": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -849,14 +1079,30 @@
       "images_attributions": "Cover page: Girl going to school, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 2: Girl holding mother's hand at school, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 3: Children and vehicles outside building, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 4: Girl looking scared, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 5: Girl hugging mother, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 6: Girl and two women, by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 7: Happy girl going to school , by Mayur Mistry © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "Rani's First Day at School",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -915,20 +1161,48 @@
       "images_attributions": "Cover page: An excited boy, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 2: A boy waking up in the morning, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 3: A woman filling a bucket with water, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 4: A boy coming out of bath, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 5: A woman in the kitchen, by Sheetal Thapa © Pratham Books, 2004. Some rights\nreserved. Released under CC BY 4.0 license. Page 6: A boy taking his bag hanging on the wall, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 7: A woman taking off a uniform for a girl from a hanger, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved.\nReleased under CC BY 4.0 license. Page 8: A boy taking a bag hanging on the wall, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 9: A woman making a pony tail for a girl, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 10: A boy angry at someone, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 11: A woman holding a pot in the kitchen, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license. Page 12: A boy\ndragging his mother out of the house, by Sheetal Thapa © Pratham Books, 2004. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "Ma! Hurry Up!!",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1011,20 +1285,48 @@
       "image_13_asset": "images/books/katiitis_song/image_15.jpg",
       "title": "Katiiti’s Song",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1106,22 +1408,54 @@
       "image_12_asset": "images/books/beautiful_day/12.jpg",
       "title": "A Beautiful Day",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_1_right": {},
-        "text_2_left": {},
-        "text_2_right": {},
-        "text_3_left": {},
-        "text_3_right": {},
-        "text_5_left": {},
-        "text_6": {},
-        "text_7_left": {},
-        "text_7_right": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1210,20 +1544,48 @@
       "image_12_asset": "images/books/a_trip_to_the_tap/page15.jpg",
       "title": "A trip to the tap",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8_left": {},
-        "text_9_left": {},
-        "text_10_left": {},
-        "text_11_left": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1305,17 +1667,39 @@
       "image_12_asset": "images/books/fifi_and_teddy/page15.jpg",
       "title": "Fifi and Teddy",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1384,19 +1768,45 @@
       "image_12_asset": "images/books/how_do_you_want_your_eggs/page15.jpg",
       "title": "How do you want your eggs?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8_right": {},
-        "text_9_left": {},
-        "text_10_left": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1474,19 +1884,45 @@
       "image_12_asset": "images/books/lebo_and_gogo's_tea_party/page15.jpg",
       "title": "Lebo and Gogo's Tea Party",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_3_right": {},
-        "text_4_left": {},
-        "text_5": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8_left": {},
-        "text_9_left": {},
-        "text_10_left": {},
-        "text_11_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1563,20 +1999,48 @@
       "image_12_asset": "images/books/lesedis_sandbox/page15.jpg",
       "title": "Lesedi’s Sandbox",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_right": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7_right": {},
-        "text_8_left": {},
-        "text_9_right": {},
-        "text_10_left": {},
-        "text_11_right": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11_right": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1657,19 +2121,45 @@
       "image_12_asset": "images/books/little_shoots/page15.jpg",
       "title": "Little Shoots",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_2_right": {},
-        "text_3_right": {},
-        "text_4_left": {},
-        "text_4_right": {},
-        "text_6_left": {},
-        "text_6_right": {},
-        "text_8_left": {},
-        "text_10_left": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1747,27 +2237,69 @@
       "image_12_asset": "images/books/look_out_luthando/page15.jpg",
       "title": "Look out, Luthando!",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_2_right": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_4_right": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_6_right": {},
-        "text_7_left": {},
-        "text_7_right": {},
-        "text_8_left": {},
-        "text_9_left": {},
-        "text_9_right": {},
-        "text_10_left": {},
-        "text_10_right": {},
-        "text_11_left": {},
-        "text_12": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1877,20 +2409,48 @@
       "image_12_asset": "images/books/my_inside_weather/page15.jpg",
       "title": "My inside weather",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8_left": {},
-        "text_9_left": {},
-        "text_10_left": {},
-        "text_11_left": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1972,22 +2532,54 @@
       "image_13_asset": "images/books/the_things_that_really_matter/page16.jpg",
       "title": "The Things That Really Matter",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_right": {},
-        "text_2": {},
-        "text_3_right": {},
-        "text_4_left": {},
-        "text_5_right": {},
-        "text_6_left": {},
-        "text_6_right": {},
-        "text_7_right": {},
-        "text_8_left": {},
-        "text_8_right": {},
-        "text_9_right": {},
-        "text_10_left": {},
-        "text_11_right": {},
-        "text_12_right": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_right": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11_right": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2077,8 +2669,12 @@
       "image_12_asset": "images/books/to_the_top/page15.jpg",
       "title": "To The Top!",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2112,19 +2708,45 @@
       "image_12_asset": "images/books/where_is_lulu/page15.jpg",
       "title": "Where is Lulu?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_9_left": {},
-        "text_10": {},
-        "text_11_left": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2202,20 +2824,48 @@
       "image_13_asset": "images/books/amaizing_flower/page16.jpg",
       "title": "Ouma’s\nAmazing Flowers",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_right": {},
-        "text_3_left": {},
-        "text_4_right": {},
-        "text_5_left": {},
-        "text_6_right": {},
-        "text_7_left": {},
-        "text_8_right": {},
-        "text_9_left": {},
-        "text_10_right": {},
-        "text_11_left": {},
-        "text_12_right": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2297,20 +2947,48 @@
       "image_12_asset": "images/books/babys_first_photo/page15.jpg",
       "title": "Baby’s First Family Photo",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8_left": {},
-        "text_9_left": {},
-        "text_10_left": {},
-        "text_11_left": {},
-        "text_11_right": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_11_right": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2395,23 +3073,57 @@
       "image_15_asset": "images/books/brave_bora/page17.jpg",
       "title": "Brave Bora",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_right": {},
-        "text_2_right": {},
-        "text_3_right": {},
-        "text_4_left": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7": {},
-        "text_7_left": {},
-        "text_8_right": {},
-        "text_9_right": {},
-        "text_10_right": {},
-        "text_11_left": {},
-        "text_12_right": {},
-        "text_13_right": {},
-        "text_14": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        },
+        "text_13_right": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2506,26 +3218,66 @@
       "image_13_asset": "images/books/and_also/image_14.jpg",
       "title": "And Also!",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2_left": {},
-        "text_2_right": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_4_right": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_6_right": {},
-        "text_7_left": {},
-        "text_7_right": {},
-        "text_8_left": {},
-        "text_9_left": {},
-        "text_9_right": {},
-        "text_10_left": {},
-        "text_10_right": {},
-        "text_12_left": {},
-        "text_12_right": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2634,23 +3386,57 @@
       "image_16_asset": "images/books/angry_akku/image_17.jpg",
       "title": "Angry Akku",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2_left": {},
-        "text_3": {},
-        "text_5": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10_left": {},
-        "text_11_left": {},
-        "text_12": {},
-        "text_13_left": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13_left": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2744,20 +3530,48 @@
       "image_12_asset": "images/books/beloved_daughter/image_13.jpg",
       "title": "Beloved Daughter",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2843,24 +3657,60 @@
       "image_16_asset": "images/books/big_blue_bus/image_17.jpg",
       "title": "Big Blue Bus",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2962,24 +3812,60 @@
       "image_16_asset": "images/books/decision/image_17.jpg",
       "title": "Decision",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3081,24 +3967,60 @@
       "image_16_asset": "images/books/emotions_come_go/image_17.jpg",
       "title": "Emotions Come and Go",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3192,16 +4114,36 @@
       "image_8_asset": "images/books/i_like_to_read/image_9.jpg",
       "title": "I Like to Read",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3267,20 +4209,46 @@
       "image_13_asset": "images/books/it_wasnt_me/image_14.jpg",
       "title": "It Wasn't Me!",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3366,24 +4334,60 @@
       "image_16_asset": "images/books/jasu_loves_football/image_17.jpg",
       "title": "Jasu Loves Football",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3482,21 +4486,51 @@
       "image_13_asset": "images/books/little_monkey_s_lost_bananas/image_14.jpg",
       "title": "Little Monkey's Lost Bananas",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3586,22 +4620,54 @@
       "image_16_asset": "images/books/mother_hen/image_17.jpg",
       "title": "Busy Mother Hen",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3696,25 +4762,63 @@
       "image_17_asset": "images/books/my_first_day_at_school/image_18.jpg",
       "title": "My First Day at School",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16": {},
-        "text_17": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        },
+        "text_17": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3813,17 +4917,39 @@
       "image_9_asset": "images/books/nichchumani_helps_out/image_10.jpg",
       "title": "Nichchumani Helps Out",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3887,14 +5013,30 @@
       "image_6_asset": "images/books/no_smiles_today/image_7.jpg",
       "title": "No Smiles Today",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3953,21 +5095,51 @@
       "image_13_asset": "images/books/pishi_and_me/image_14.jpg",
       "title": "Pishi and Me",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4061,27 +5233,69 @@
       "image_20_asset": "images/books/red_bean_plant/image_21.jpg",
       "title": "Tra's Red Bean Plant",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16": {},
-        "text_17": {},
-        "text_18": {},
-        "text_19": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        },
+        "text_17": {
+          "tz_sw": true
+        },
+        "text_18": {
+          "tz_sw": true
+        },
+        "text_19": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4193,19 +5407,45 @@
       "image_14_asset": "images/books/shongololo_s_shoes/image_15.jpg",
       "title": "Shongololo's Shoes",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4282,19 +5522,45 @@
       "image_11_asset": "images/books/under_my_bed/image_12.jpg",
       "title": "Under My Bed",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4387,33 +5653,87 @@
       "image_27_asset": "images/books/very_green_day/image_28.jpg",
       "title": "A Very Green Day",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_11": {},
-        "text_12": {},
-        "text_13": {},
-        "text_14": {},
-        "text_15": {},
-        "text_16": {},
-        "text_17": {},
-        "text_18": {},
-        "text_20": {},
-        "text_21": {},
-        "text_22": {},
-        "text_23": {},
-        "text_24": {},
-        "text_25": {},
-        "text_26": {},
-        "text_27": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        },
+        "text_17": {
+          "tz_sw": true
+        },
+        "text_18": {
+          "tz_sw": true
+        },
+        "text_20": {
+          "tz_sw": true
+        },
+        "text_21": {
+          "tz_sw": true
+        },
+        "text_22": {
+          "tz_sw": true
+        },
+        "text_23": {
+          "tz_sw": true
+        },
+        "text_24": {
+          "tz_sw": true
+        },
+        "text_25": {
+          "tz_sw": true
+        },
+        "text_26": {
+          "tz_sw": true
+        },
+        "text_27": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4547,21 +5867,51 @@
       "image_12_asset": "images/books/whats_next/image_13.jpg",
       "title": "What’s next?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3_left": {},
-        "text_3_right": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_10_left": {},
-        "text_10_right": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4648,20 +5998,48 @@
       "image_13_asset": "images/books/shhhhh/image_15.jpg",
       "title": "SHHHHH!",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4745,8 +6123,12 @@
       "image_14_asset": "images/books/lost_toy/page17.jpg",
       "title": "Lost Toy",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4782,20 +6164,48 @@
       "image_14_asset": "images/books/whats_at_the_park/page17.jpg",
       "title": "What’s at the Park?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_5_left": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11_left": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4879,20 +6289,48 @@
       "image_14_asset": "images/books/zibu_and_zizo/page17.jpg",
       "title": "Zibu and Zizo",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4_left": {},
-        "text_5_right": {},
-        "text_6_left": {},
-        "text_7_left": {},
-        "text_8_left": {},
-        "text_9_right": {},
-        "text_10": {},
-        "text_11_left": {},
-        "text_12_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_5_right": {
+          "tz_sw": true
+        },
+        "text_6_left": {
+          "tz_sw": true
+        },
+        "text_7_left": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -4975,20 +6413,48 @@
       "image_14_asset": "images/books/yes_you_can/page17.jpg",
       "title": "Yes you can!",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3_right": {},
-        "text_4": {},
-        "text_5_right": {},
-        "text_6": {},
-        "text_7_right": {},
-        "text_8": {},
-        "text_9_right": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3_right": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5_right": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5068,24 +6534,60 @@
       "image_10_asset": "images/books/yellow_brown_earth/image_11.jpg",
       "title": "Yellow Earth, Brown Earth",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_1_right": {},
-        "text_2": {},
-        "text_2_right": {},
-        "text_3": {},
-        "text_4": {},
-        "text_4_right": {},
-        "text_5": {},
-        "text_5_right": {},
-        "text_6": {},
-        "text_6_right": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9_left": {},
-        "text_9_right": {},
-        "text_10": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_5_right": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5186,21 +6688,51 @@
       "image_15_asset": "images/books/nita_upside_down/image_16.jpg",
       "title": "Why is Nita Upside Down",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_3_left": {},
-        "text_4_left": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8_left": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11_right": {},
-        "text_12_left": {},
-        "text_13_left": {},
-        "text_14_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4_left": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11_right": {
+          "tz_sw": true
+        },
+        "text_12_left": {
+          "tz_sw": true
+        },
+        "text_13_left": {
+          "tz_sw": true
+        },
+        "text_14_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5299,20 +6831,48 @@
       "image_25_asset": "image/books/when_grow_up/image_26.jpg",
       "title": "When I grow up",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_2": {},
-        "text_4": {},
-        "text_6": {},
-        "text_7": {},
-        "text_9_right": {},
-        "text_11": {},
-        "text_13": {},
-        "text_15": {},
-        "text_16": {},
-        "text_19": {},
-        "text_21": {},
-        "text_22": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_16": {
+          "tz_sw": true
+        },
+        "text_19": {
+          "tz_sw": true
+        },
+        "text_21": {
+          "tz_sw": true
+        },
+        "text_22": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5396,24 +6956,60 @@
       "image_14_asset": "images/books/whats_in_pot/page17.jpg",
       "title": "What's In The Pot?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2_right": {},
-        "text_3": {},
-        "text_3_left": {},
-        "text_4": {},
-        "text_4_right": {},
-        "text_5_left": {},
-        "text_6": {},
-        "text_6_right": {},
-        "text_7": {},
-        "text_8": {},
-        "text_8_right": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_3_left": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5512,21 +7108,51 @@
       "image_14_asset": "images/books/tlotlegos_tea_party/page17.jpg",
       "title": "Tlotlego's Tea Party",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_7_right": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5613,19 +7239,45 @@
       "image_14_asset": "images/books/the_one_in_the_middle/page17.jpg",
       "title": "The one on the middle",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_7_right": {},
-        "text_8_right": {},
-        "text_9_left": {},
-        "text_10_right": {},
-        "text_11": {},
-        "text_11_left": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_9_left": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_11_left": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5705,20 +7357,48 @@
       "image_14_asset": "images/books/the_best_thing_ever/page17.jpg",
       "title": "The best thing ever",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_right": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6_right": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9_right": {},
-        "text_10_right": {},
-        "text_11_right": {},
-        "text_12_right": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_11_right": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5801,23 +7481,57 @@
       "image_15_asset": "images/books/tejus_shadow/page17.jpg",
       "title": "Teju's Shadow",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {},
-        "text_12_right": {},
-        "text_13": {},
-        "text_14": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        },
+        "text_13": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -5910,19 +7624,45 @@
       "image_11_asset": "images/books/paint_plant_day/image_12.jpg",
       "title": "Paint Dat, Plant Day",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_right": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -6002,8 +7742,12 @@
       "image_14_asset": "images/books/my_little_garden/page17.jpg",
       "title": "My little garden",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -6039,20 +7783,48 @@
       "image_14_asset": "images/books/mama_whats_for_lunch/page17.jpg",
       "title": "Mama, What's For Lunch",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1": {},
-        "text_2_right": {},
-        "text_3": {},
-        "text_4_right": {},
-        "text_5": {},
-        "text_6_right": {},
-        "text_7_right": {},
-        "text_8_right": {},
-        "text_9_right": {},
-        "text_10_right": {},
-        "text_11_right": {},
-        "text_12_right": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2_right": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_7_right": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_9_right": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_11_right": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -6135,20 +7907,48 @@
       "image_14_asset": "images/books/lets_go_on_a_litter_hunt/page17.jpg",
       "title": "Let's go on a litter hunt",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_left": {},
-        "text_2_left": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5_left": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8_left": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_left": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8_left": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -6232,19 +8032,45 @@
       "image_14_asset": "images/books/how_do_you_sleep/page17.jpg",
       "title": "How do you sleep?",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10": {},
-        "text_11": {},
-        "text_12": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -6324,20 +8150,48 @@
       "image_14_asset": "images/books/grandpa_farouks_garden/page17.jpg",
       "title": "Grandpa Farouk’s garden",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_right": {},
-        "text_2_left": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5_left": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {},
-        "text_10_left": {},
-        "text_11": {},
-        "text_12_right": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_2_left": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5_left": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
+        "text_7": {
+          "tz_sw": true
+        },
+        "text_8": {
+          "tz_sw": true
+        },
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10_left": {
+          "tz_sw": true
+        },
+        "text_11": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -6426,17 +8280,39 @@
       "image_19_asset": "images/books/the_colours/image_20.jpg",
       "title": "Colours",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_1_right": {},
-        "text_4_right": {},
-        "text_6_right": {},
-        "text_8_right": {},
-        "text_10_right": {},
-        "text_12_right": {},
-        "text_14": {},
-        "text_15": {},
-        "text_19": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_1_right": {
+          "tz_sw": true
+        },
+        "text_4_right": {
+          "tz_sw": true
+        },
+        "text_6_right": {
+          "tz_sw": true
+        },
+        "text_8_right": {
+          "tz_sw": true
+        },
+        "text_10_right": {
+          "tz_sw": true
+        },
+        "text_12_right": {
+          "tz_sw": true
+        },
+        "text_14": {
+          "tz_sw": true
+        },
+        "text_15": {
+          "tz_sw": true
+        },
+        "text_19": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -6500,9 +8376,15 @@
       "image_6_asset": "images/books/circles_in_park/image_7.jpg",
       "title": "Circles in the park",
       "_translations": {
-        "title": {},
-        "description": {},
-        "text_6": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

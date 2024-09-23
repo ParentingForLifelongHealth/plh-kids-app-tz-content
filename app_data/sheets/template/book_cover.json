@@ -360,7 +360,9 @@
                   "name": "author",
                   "value": "**Author:** @local.book_data.author",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "_nested_name": "accordion_19.acc_1.dg_2.author",
                   "_dynamicFields": {
@@ -384,7 +386,9 @@
                   "name": "illustrator",
                   "value": "**Illustrator:** @local.book_data.illustrator",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "_nested_name": "accordion_19.acc_1.dg_2.illustrator",
                   "_dynamicFields": {
@@ -468,7 +472,9 @@
       "name": "button",
       "value": "Start Reading",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {
