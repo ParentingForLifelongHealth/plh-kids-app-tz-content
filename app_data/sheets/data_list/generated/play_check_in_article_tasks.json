@@ -68,7 +68,8 @@
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad"
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
     }
   ]
 }

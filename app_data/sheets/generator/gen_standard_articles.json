@@ -4,7 +4,7 @@
   "status": "released",
   "parameter_list": {
     "input_data_list": "modules_released",
-    "output_flow_name": "prep_split_{@gen.id}_articles",
+    "output_flow_name": "prep_standard_{@gen.id}_articles",
     "output_flow_type": "data_pipe",
     "output_flow_subtype": "generated"
   },
@@ -14,7 +14,13 @@
       "args_list": [
         "id == \"@gen.relax_id\""
       ],
-      "input_source": "relax",
+      "input_source": "relax"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "completed: FALSE"
+      ],
       "output_target": "{@gen.id}_relax_article_tasks"
     },
     {
@@ -22,7 +28,13 @@
       "args_list": [
         "id == \"@gen.check_in_id\""
       ],
-      "input_source": "check_in",
+      "input_source": "check_in"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "completed: FALSE"
+      ],
       "output_target": "{@gen.id}_check_in_article_tasks"
     }
   ],

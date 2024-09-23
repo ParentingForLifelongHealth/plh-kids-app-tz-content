@@ -20,7 +20,8 @@
           "eng": "**Create space and time for children to play**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play."
         }
       },
-      "text_1": "There is no right or wrong way to play. The important thing is to have fun together. Here are some ideas for different ways to support your child through play:"
+      "text_1": "There is no right or wrong way to play. The important thing is to have fun together. Here are some ideas for different ways to support your child through play:",
+      "completed": false
     },
     {
       "id": "how_to_play_2",
@@ -34,7 +35,8 @@
         "text_2": {
           "eng": "**Join your child in their play from time to time** \nLook for opportunities to sit down – even for 10 minutes – and engage with what your child is doing in a positive way. This does not mean taking over or telling them what to do differently. It means being part of the activity in a way that your child will enjoy."
         }
-      }
+      },
+      "completed": false
     },
     {
       "id": "how_to_play_3",
@@ -48,13 +50,14 @@
         "text_2": {
           "eng": "**Keep it joyful and fun**\nBeing playful does not mean that your child won’t respect you or take you seriously. It will help your child to have a strong relationship with you. And when relationships are strong, dealing with stress and challenges become easier."
         }
-      }
+      },
+      "completed": false
     },
     {
       "id": "how_to_play_4",
       "category_id": "how_play",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/man/play_03.m4a",
+      "media_asset": "audio/modules/play/play_03.m4a",
       "_translatedFields": {
         "text_1": {
           "eng": "Let’s hear from a caregiver:"
@@ -68,7 +71,8 @@
         "media_transcript": {},
         "text_1": {}
       },
-      "text_1": "Let’s hear from a caregiver:"
+      "text_1": "Let’s hear from a caregiver:",
+      "completed": false
     }
   ]
 }

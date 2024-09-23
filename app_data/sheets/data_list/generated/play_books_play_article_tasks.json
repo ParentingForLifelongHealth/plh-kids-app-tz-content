@@ -15,7 +15,8 @@
       "text_1": "Book activities can be playful too. Here are some ways that you can make book activities fun.",
       "_translations": {
         "text_1": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "using_books_2",
@@ -41,7 +42,8 @@
         "text_1": {}
       },
       "media_transcript": "Need to add",
-      "text_1": "Use a lively, animated voice, with different voices for different characters."
+      "text_1": "Use a lively, animated voice, with different voices for different characters.",
+      "completed": false
     },
     {
       "id": "using_books_3",
@@ -60,7 +62,8 @@
           "eng": "This is a great way to keep children engaged and helps them understand what is happening in the story."
         }
       },
-      "text_1": "You can mimic different actions from the story."
+      "text_1": "You can mimic different actions from the story.",
+      "completed": false
     },
     {
       "id": "using_books_4",
@@ -74,7 +77,8 @@
       "text_1": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds.",
       "_translations": {
         "text_1": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "using_books_5",
@@ -93,7 +97,8 @@
           "eng": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right."
         }
       },
-      "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, animated voice, with different voices for different characters\n2. Mimic different actions from the story\n3. Mimic different sounds from the story"
+      "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, animated voice, with different voices for different characters\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
+      "completed": false
     }
   ]
 }

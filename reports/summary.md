@@ -53,9 +53,9 @@
 | data_list | generated | 11 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
-| data_pipe |  | 2 |
-| data_pipe | generated | 8 |
-| generator |  | 15 |
+| data_pipe |  | 3 |
+| data_pipe | generated | 7 |
+| generator |  | 14 |
 | global |  | 2 |
 | template |  | 49 |
 | template | generated | 276 |

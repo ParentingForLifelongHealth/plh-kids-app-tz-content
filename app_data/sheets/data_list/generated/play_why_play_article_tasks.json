@@ -28,7 +28,8 @@
         }
       },
       "media_title": "Listen to learn more:",
-      "media_transcript": "Sometimes children play with friends, and other times, on their own. Sometimes play is busy and loud, and other times it is quiet and relaxed. No matter what it looks like, when children play, they learn. Today we will look at ways you can support your child through play. You don’t need special toys or a lot of time. What’s important is that you have some fun together."
+      "media_transcript": "Sometimes children play with friends, and other times, on their own. Sometimes play is busy and loud, and other times it is quiet and relaxed. No matter what it looks like, when children play, they learn. Today we will look at ways you can support your child through play. You don’t need special toys or a lot of time. What’s important is that you have some fun together.",
+      "completed": false
     },
     {
       "id": "why_play_2",
@@ -47,7 +48,8 @@
           "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
         }
       },
-      "title": "**The ParentApp Garden**"
+      "title": "**The ParentApp Garden**",
+      "completed": false
     },
     {
       "id": "why_play_3",
@@ -78,7 +80,8 @@
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "Fertiliser or “plant food” boosts the quality of the soil around the plant and the plant’s growth. When you sprinkle playfulness throughout your interactions with your child, it will make a big difference to their development. It doesn’t have to be a lot at once, but doing it regularly can improve your relationship while also helping your child learn important skills.",
-      "title": "**The ParentApp Garden**"
+      "title": "**The ParentApp Garden**",
+      "completed": false
     }
   ]
 }
