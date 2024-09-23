@@ -35,28 +35,28 @@
       "id": "why_play_2",
       "category_id": "why_play",
       "image_asset": "images/modules/play/why_play_2.svg",
-      "title": "**The ParentApp Garden**",
+      "title": "The ParentApp Garden",
       "_translations": {
         "title": {},
         "text_2": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "**The ParentApp Garden**"
+          "eng": "The ParentApp Garden"
         },
         "text_2": {
-          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
+          "eng": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
         }
       },
-      "text_2": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
+      "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
     },
     {
       "id": "why_play_3",
       "category_id": "why_play",
-      "image_asset": "images/modules/play/new_fertaliser.gif",
+      "image_asset": "images/modules/play/new_fertiliser.gif",
       "media_type": "audio",
       "media_asset": "audio/modules/play/play_02.m4a",
-      "title": "**The ParentApp Garden**",
+      "title": "The ParentApp Garden",
       "_translations": {
         "title": {},
         "text_2": {},
@@ -65,7 +65,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "**The ParentApp Garden**"
+          "eng": "The ParentApp Garden"
         },
         "text_2": {
           "eng": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
@@ -364,8 +364,9 @@
       "quiz_1_option_1_image_asset": "images/modules/play/frustrated_emoji.svg",
       "quiz_1_option_2_image_asset": "images/modules/play/angry_emoji.svg",
       "quiz_1_option_3_image_asset": "images/modules/play/tired_emoji.svg",
-      "text_1": "**Question time:**\n\nLet’s think about what happened in this story.",
+      "title": "Question time",
       "_translations": {
+        "title": {},
         "text_1": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
@@ -376,8 +377,11 @@
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
+        "title": {
+          "eng": "Question time"
+        },
         "text_1": {
-          "eng": "**Question time:**\n\nLet’s think about what happened in this story."
+          "eng": "Let’s think about what happened in this story."
         },
         "quiz_1_question": {
           "eng": "How did the mother feel when Nandi didn’t want to go to sleep?"
@@ -401,6 +405,7 @@
           "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
         }
       },
+      "text_1": "Let’s think about what happened in this story.",
       "quiz_1_question": "How did the mother feel when Nandi didn’t want to go to sleep?",
       "quiz_1_option_1_text": "Frustrated",
       "quiz_1_feedback_1": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
@@ -415,9 +420,9 @@
       "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
       "quiz_2_option_2_image_asset": "images/modules/play/scared_emoji.svg",
       "quiz_2_option_3_image_asset": "images/modules/play/awake_emoji.svg",
-      "text_1": "**Question time:**",
+      "title": "Question time",
       "_translations": {
-        "text_1": {},
+        "title": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
@@ -436,8 +441,8 @@
         "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
-        "text_1": {
-          "eng": "**Question time:**"
+        "title": {
+          "eng": "Question time"
         },
         "quiz_1_question": {
           "eng": "What did her mother do to help her fall asleep?"

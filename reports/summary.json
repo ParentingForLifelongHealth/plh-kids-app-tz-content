@@ -95,6 +95,10 @@
       "count": 35
     },
     {
+      "type": "image",
+      "count": 1
+    },
+    {
       "type": "items",
       "count": 8
     },
@@ -112,7 +116,7 @@
     },
     {
       "type": "set_variable",
-      "count": 415
+      "count": 417
     },
     {
       "type": "task_card",
@@ -128,7 +132,7 @@
     },
     {
       "type": "text",
-      "count": 45
+      "count": 44
     },
     {
       "type": "text_area",
@@ -140,7 +144,7 @@
     },
     {
       "type": "text_bubble",
-      "count": 1
+      "count": 2
     },
     {
       "type": "title",

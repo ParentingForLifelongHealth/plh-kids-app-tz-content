@@ -36,6 +36,14 @@
       "type": "declare_global_constant",
       "name": "has_multiple_languages",
       "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_asset",
+      "value": "images/facilitators_face.svg",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_tz.xlsx"

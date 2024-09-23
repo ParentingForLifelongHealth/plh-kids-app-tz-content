@@ -30,18 +30,19 @@
 | data_items | 1 |
 | display_grid | 2 |
 | display_group | 35 |
+| image | 1 |
 | items | 8 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 415 |
+| set_variable | 417 |
 | task_card | 3 |
 | task_progress_bar | 1 |
 | template | 295 |
-| text | 45 |
+| text | 44 |
 | text_area | 2 |
 | text_box | 5 |
-| text_bubble | 1 |
+| text_bubble | 2 |
 | title | 19 |
 | update_action_list | 1 |
 

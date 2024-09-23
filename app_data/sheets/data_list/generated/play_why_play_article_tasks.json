@@ -35,26 +35,26 @@
       "id": "why_play_2",
       "category_id": "why_play",
       "image_asset": "images/modules/play/why_play_2.svg",
-      "text_2": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image.",
+      "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image.",
       "_translations": {
         "text_2": {},
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "**The ParentApp Garden**"
+          "eng": "The ParentApp Garden"
         },
         "text_2": {
-          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
+          "eng": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image."
         }
       },
-      "title": "**The ParentApp Garden**",
+      "title": "The ParentApp Garden",
       "completed": false
     },
     {
       "id": "why_play_3",
       "category_id": "why_play",
-      "image_asset": "images/modules/play/new_fertaliser.gif",
+      "image_asset": "images/modules/play/new_fertiliser.gif",
       "media_type": "audio",
       "media_asset": "audio/modules/play/play_02.m4a",
       "text_2": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development.",
@@ -66,7 +66,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "**The ParentApp Garden**"
+          "eng": "The ParentApp Garden"
         },
         "text_2": {
           "eng": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
@@ -80,7 +80,7 @@
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "Fertiliser or “plant food” boosts the quality of the soil around the plant and the plant’s growth. When you sprinkle playfulness throughout your interactions with your child, it will make a big difference to their development. It doesn’t have to be a lot at once, but doing it regularly can improve your relationship while also helping your child learn important skills.",
-      "title": "**The ParentApp Garden**",
+      "title": "The ParentApp Garden",
       "completed": false
     }
   ]

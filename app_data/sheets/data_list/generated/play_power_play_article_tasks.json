@@ -231,8 +231,11 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/question_time.svg",
       "_translatedFields": {
+        "title": {
+          "eng": "Question time"
+        },
         "text_1": {
-          "eng": "**Question time:**\n\nLet’s think about what happened in this story."
+          "eng": "Let’s think about what happened in this story."
         },
         "quiz_1_question": {
           "eng": "How did the mother feel when Nandi didn’t want to go to sleep?"
@@ -256,8 +259,9 @@
           "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
         }
       },
-      "text_1": "**Question time:**\n\nLet’s think about what happened in this story.",
+      "title": "Question time",
       "_translations": {
+        "title": {},
         "text_1": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
@@ -267,6 +271,7 @@
         "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
+      "text_1": "Let’s think about what happened in this story.",
       "quiz_1_option_1_image_asset": "images/modules/play/frustrated_emoji.svg",
       "quiz_1_option_2_image_asset": "images/modules/play/angry_emoji.svg",
       "quiz_1_option_3_image_asset": "images/modules/play/tired_emoji.svg",
@@ -283,8 +288,8 @@
       "id": "the_power_of_play_16",
       "category_id": "power_play",
       "_translatedFields": {
-        "text_1": {
-          "eng": "**Question time:**"
+        "title": {
+          "eng": "Question time"
         },
         "quiz_1_question": {
           "eng": "What did her mother do to help her fall asleep?"
@@ -329,9 +334,9 @@
           "eng": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep."
         }
       },
-      "text_1": "**Question time:**",
+      "title": "Question time",
       "_translations": {
-        "text_1": {},
+        "title": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},

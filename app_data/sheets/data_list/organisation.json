@@ -17,15 +17,9 @@
       "group": "partners"
     },
     {
-      "id": "organisation_9",
-      "name": "THSN",
-      "image_asset": "images/logos/thsn.png",
-      "group": "funders"
-    },
-    {
       "id": "organisation_11",
       "name": "LEGO",
-      "image_asset": "images/logos/lego.png",
+      "image_asset": "images/logos/lego_foundation.png",
       "group": "funders"
     }
   ],
