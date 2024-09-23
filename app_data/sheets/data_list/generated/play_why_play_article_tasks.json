@@ -12,9 +12,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
       "text_2": "We want to talk about PLAY, because of how important it is to children’s learning and development.\n\nCreating time and space for children to play is as important as eating and sleeping! \nAnd when you join your child in playful activities, you take their learning to the next level. \nYou might even have some fun yourself.",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -37,8 +43,12 @@
       "image_asset": "images/modules/play/why_play_2.svg",
       "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image.",
       "_translations": {
-        "text_2": {},
-        "title": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -59,10 +69,18 @@
       "media_asset": "audio/modules/play/play_02.m4a",
       "text_2": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development.",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {},
-        "title": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -12,9 +12,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
       "text_2": "We want to talk about PLAY, because of how important it is to children’s learning and development.\n\nCreating time and space for children to play is as important as eating and sleeping! \nAnd when you join your child in playful activities, you take their learning to the next level. \nYou might even have some fun yourself.",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -37,8 +43,12 @@
       "image_asset": "images/modules/play/why_play_2.svg",
       "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \nLet’s see how play forms a part of the garden image.",
       "_translations": {
-        "text_2": {},
-        "title": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -59,10 +69,18 @@
       "media_asset": "audio/modules/play/play_02.m4a",
       "text_2": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development.",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {},
-        "title": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -89,8 +107,12 @@
       "image_asset": "images/modules/play/how_to_play_1.svg",
       "text_2": "**Create space and time for children to play**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
       "_translations": {
-        "text_2": {},
-        "text_1": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -109,7 +131,9 @@
       "image_asset": "images/modules/play/how_to_play_2.svg",
       "text_2": "**Join your child in their play from time to time** \nLook for opportunities to sit down – even for 10 minutes – and engage with what your child is doing in a positive way. This does not mean taking over or telling them what to do differently. It means being part of the activity in a way that your child will enjoy.",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -124,7 +148,9 @@
       "image_asset": "images/modules/play/how_to_play_3.svg",
       "text_2": "**Keep it joyful and fun**\nBeing playful does not mean that your child won’t respect you or take you seriously. It will help your child to have a strong relationship with you. And when relationships are strong, dealing with stress and challenges become easier.",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -148,8 +174,12 @@
       },
       "media_transcript": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together.",
       "_translations": {
-        "media_transcript": {},
-        "text_1": {}
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "text_1": "Let’s hear from a caregiver:",
       "completed": false
@@ -162,10 +192,18 @@
       "media_asset": "audio/modules/play/play_04.m4a",
       "text_2": "Playful interactions can help your child cooperate and follow instructions.",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {},
-        "text_1": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -200,8 +238,12 @@
       },
       "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them. \n\nPlayful interactions are a great way to do this.\n**Let’s take a look at an example:**",
       "_translations": {
-        "text_1": {},
-        "image_text": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "image_text": "I don't want to go to sleep",
       "completed": false
@@ -217,7 +259,9 @@
       },
       "image_text": "\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -232,7 +276,9 @@
       },
       "image_text": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -247,7 +293,9 @@
       },
       "image_text": "\"I want more supper. Another book! Just one more song?\" \n\n\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -262,7 +310,9 @@
       },
       "image_text": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -277,7 +327,9 @@
       },
       "image_text": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -292,7 +344,9 @@
       },
       "image_text": "\"Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?\"\n\n\"Yes! Yes! Yes!\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -307,7 +361,9 @@
       },
       "image_text": "\"I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -322,7 +378,9 @@
       },
       "image_text": "\"I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -337,7 +395,9 @@
       },
       "image_text": "\"I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -352,7 +412,9 @@
       },
       "image_text": "\"Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -367,7 +429,9 @@
       },
       "image_text": "\"Goodnight, Nandi.\"",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -412,15 +476,33 @@
       },
       "title": "Question time",
       "_translations": {
-        "title": {},
-        "text_1": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "text_1": "Let’s think about what happened in this story.",
       "quiz_1_option_1_image_asset": "images/modules/play/frustrated_emoji.svg",
@@ -487,23 +569,51 @@
       },
       "title": "Question time",
       "_translations": {
-        "title": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_2_question": {},
+        "title": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
       },
       "quiz_1_question": "What did her mother do to help her fall asleep?",
       "quiz_1_option_1_text": "She shouted at Nandi: “Just go to sleep!”",
@@ -532,9 +642,15 @@
       "media_asset": "audio/modules/play/play_05.m4a",
       "text_2": "Here are some more ideas for how you can use play to help your child to cooperate with what you need them to do.",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -562,7 +678,9 @@
       },
       "text_1": "Book activities can be playful too. Here are some ways that you can make book activities fun.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -585,9 +703,15 @@
       },
       "media_title": "Listen to this example:",
       "_translations": {
-        "media_title": {},
-        "media_transcript": {},
-        "text_1": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "Need to add",
       "text_1": "Use a lively, animated voice, with different voices for different characters.",
@@ -599,8 +723,12 @@
       "image_asset": "images/modules/play/using_books_3.svg",
       "text_2": "This is a great way to keep children engaged and helps them understand what is happening in the story.",
       "_translations": {
-        "text_2": {},
-        "text_1": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -624,7 +752,9 @@
       },
       "text_1": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -634,8 +764,12 @@
       "image_asset": "images/modules/play/using_books_5.svg",
       "text_2": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right.",
       "_translations": {
-        "text_2": {},
-        "text_1": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -668,10 +802,18 @@
       },
       "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:",
       "_translations": {
-        "text_1": {},
-        "section_1_title": {},
-        "section_2_title": {},
-        "section_3_title": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        }
       },
       "section_1_image_asset": "images/modules/play/icon_hand.svg",
       "section_2_image_asset": "images/modules/play/icon_book.svg",

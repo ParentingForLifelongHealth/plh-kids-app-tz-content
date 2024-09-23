@@ -9,8 +9,12 @@
       "image_asset": "images/modules/play/how_to_play_1.svg",
       "text_2": "**Create space and time for children to play**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
       "_translations": {
-        "text_2": {},
-        "text_1": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -29,7 +33,9 @@
       "image_asset": "images/modules/play/how_to_play_2.svg",
       "text_2": "**Join your child in their play from time to time** \nLook for opportunities to sit down – even for 10 minutes – and engage with what your child is doing in a positive way. This does not mean taking over or telling them what to do differently. It means being part of the activity in a way that your child will enjoy.",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -44,7 +50,9 @@
       "image_asset": "images/modules/play/how_to_play_3.svg",
       "text_2": "**Keep it joyful and fun**\nBeing playful does not mean that your child won’t respect you or take you seriously. It will help your child to have a strong relationship with you. And when relationships are strong, dealing with stress and challenges become easier.",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -68,8 +76,12 @@
       },
       "media_transcript": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together.",
       "_translations": {
-        "media_transcript": {},
-        "text_1": {}
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "text_1": "Let’s hear from a caregiver:",
       "completed": false

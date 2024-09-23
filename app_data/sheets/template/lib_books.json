@@ -131,7 +131,9 @@
       "name": "title",
       "value": "My Favourite Books",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "title"
     },
@@ -210,7 +212,9 @@
       "name": "title",
       "value": "All Books",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "title"
     },

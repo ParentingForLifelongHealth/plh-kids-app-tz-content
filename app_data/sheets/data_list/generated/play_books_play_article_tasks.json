@@ -14,7 +14,9 @@
       },
       "text_1": "Book activities can be playful too. Here are some ways that you can make book activities fun.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -37,9 +39,15 @@
       },
       "media_title": "Listen to this example:",
       "_translations": {
-        "media_title": {},
-        "media_transcript": {},
-        "text_1": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "Need to add",
       "text_1": "Use a lively, animated voice, with different voices for different characters.",
@@ -51,8 +59,12 @@
       "image_asset": "images/modules/play/using_books_3.svg",
       "text_2": "This is a great way to keep children engaged and helps them understand what is happening in the story.",
       "_translations": {
-        "text_2": {},
-        "text_1": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -76,7 +88,9 @@
       },
       "text_1": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -86,8 +100,12 @@
       "image_asset": "images/modules/play/using_books_5.svg",
       "text_2": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right.",
       "_translations": {
-        "text_2": {},
-        "text_1": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

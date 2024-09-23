@@ -13,11 +13,21 @@
       "attached_single_doc": "https://docs.google.com/document/d/14PKBirF5ZormMBOB6TQ77bioryt7dMUrQAqIryvWA48",
       "title": "The things that make me happy",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -49,10 +59,18 @@
       "favourite_field": "ltp_activity_gardening_favourite",
       "title": "Gardening",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -81,10 +99,18 @@
       "favourite_field": "ltp_activity_something_special_favourite",
       "title": "Something special",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -112,10 +138,18 @@
       "favourite_field": "ltp_activity_what_makes_us_special_favourite",
       "title": "What makes us special",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -143,11 +177,21 @@
       "favourite_field": "ltp_activity_pattern_play_favourite",
       "title": "Pattern play",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -179,10 +223,18 @@
       "favourite_field": "ltp_activity_cooking_together_favourite",
       "title": "Cooking together",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -210,10 +262,18 @@
       "favourite_field": "ltp_activity_household_helpers_favourite",
       "title": "Household helpers",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -242,10 +302,18 @@
       "favourite_field": "ltp_activity_music_and_dancing_favourite",
       "title": "Music and dancing",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -274,10 +342,18 @@
       "favourite_field": "ltp_activity_walking_together_favourite",
       "title": "Walking together",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -305,10 +381,18 @@
       "favourite_field": "ltp_activity_story_favourite",
       "title": "Make up a story together",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -337,10 +421,18 @@
       "favourite_field": "ltp_activity_simon_says_favourite",
       "title": "Simon says",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -368,10 +460,18 @@
       "favourite_field": "ltp_activity_when_I_grow_up_favourite",
       "title": "When I grow up",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -399,10 +499,18 @@
       "favourite_field": "ltp_activity_favourite_play_favourite",
       "title": "Favourite play",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -431,10 +539,18 @@
       "favourite_field": "ltp_activity_act_the_story_favourite",
       "title": "Act the story",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -463,10 +579,18 @@
       "favourite_field": "ltp_activity_shadow_movie_favourite",
       "title": "Shadow movie",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -495,10 +619,18 @@
       "favourite_field": "ltp_activity_build_a_road_favourite",
       "title": "Build a road",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -527,10 +659,18 @@
       "favourite_field": "ltp_activity_animal_strengths_favourite",
       "title": "Animal strengths",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -558,11 +698,21 @@
       "favourite_field": "ltp_activity_treasure_hunt_favourite",
       "title": "Treasure hunt",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -594,10 +744,18 @@
       "favourite_field": "ltp_activity_search_with_senses_favourite",
       "title": "Search with your senses",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -625,11 +783,21 @@
       "favourite_field": "ltp_activity_count_and_compare_favourite",
       "title": "Count and compare",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -661,11 +829,21 @@
       "favourite_field": "ltp_activity_mystery_box_favourite",
       "title": "Mystery box",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

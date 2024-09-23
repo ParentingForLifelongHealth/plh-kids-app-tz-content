@@ -9,7 +9,9 @@
       "icon_asset": "images/icons/smile_eyes_down.svg",
       "title": "Relax",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

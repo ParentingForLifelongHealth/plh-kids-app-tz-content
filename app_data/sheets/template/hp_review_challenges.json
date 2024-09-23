@@ -1102,7 +1102,9 @@
       "name": "placeholder",
       "value": "Tap and choose",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "placeholder"
