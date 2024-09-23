@@ -14,7 +14,7 @@
       "operation": "append_columns",
       "args_list": [
         "completed: FALSE",
-        "task_child: play_@row.id_article_tasks"
+        "task_child: play_{@row.id}_article_tasks"
       ],
       "output_target": "play_category_tasks"
     }

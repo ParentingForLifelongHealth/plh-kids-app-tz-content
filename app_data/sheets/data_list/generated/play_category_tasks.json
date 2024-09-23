@@ -16,7 +16,7 @@
         }
       },
       "completed": false,
-      "task_child": "play_@row.id_article_tasks"
+      "task_child": "play_relax_article_tasks"
     },
     {
       "id": "check_in",
@@ -33,7 +33,7 @@
         }
       },
       "completed": false,
-      "task_child": "play_@row.id_article_tasks"
+      "task_child": "play_check_in_article_tasks"
     },
     {
       "id": "why_play",
@@ -48,7 +48,7 @@
         }
       },
       "completed": false,
-      "task_child": "play_@row.id_article_tasks"
+      "task_child": "play_why_play_article_tasks"
     },
     {
       "id": "how_play",
@@ -63,7 +63,7 @@
         }
       },
       "completed": false,
-      "task_child": "play_@row.id_article_tasks"
+      "task_child": "play_how_play_article_tasks"
     },
     {
       "id": "power_play",
@@ -78,7 +78,7 @@
         }
       },
       "completed": false,
-      "task_child": "play_@row.id_article_tasks"
+      "task_child": "play_power_play_article_tasks"
     },
     {
       "id": "books_play",
@@ -93,7 +93,7 @@
         }
       },
       "completed": false,
-      "task_child": "play_@row.id_article_tasks"
+      "task_child": "play_books_play_article_tasks"
     },
     {
       "id": "practice",
@@ -108,7 +108,7 @@
         }
       },
       "completed": false,
-      "task_child": "play_@row.id_article_tasks"
+      "task_child": "play_practice_article_tasks"
     }
   ]
 }
