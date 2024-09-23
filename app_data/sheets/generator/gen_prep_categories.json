@@ -21,7 +21,7 @@
       "operation": "append_columns",
       "args_list": [
         "completed: FALSE",
-        "task_child: {@gen.id}_@row.id_article_tasks"
+        "task_child: {@gen.id}_{@row.id}_article_tasks"
       ],
       "output_target": "{@gen.id}_category_tasks"
     }
