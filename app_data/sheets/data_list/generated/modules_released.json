@@ -22,25 +22,15 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        },
-        "description_short": {},
-        "description": {}
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Play"
-        },
-        "description_short": {
-          "eng": "playful interactions"
-        },
-        "description": {
-          "eng": "In the same way that fertilizer boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
         }
       },
       "check_in_id": "check_in_3",
-      "relax_id": "relax_8",
-      "description_short": "playful interactions",
-      "description": "In the same way that fertilizer boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
+      "relax_id": "relax_8"
     }
   ]
 }

@@ -50,23 +50,13 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        },
-        "description_short": {},
-        "description": {}
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Connect"
-        },
-        "description_short": {
-          "eng": "connecting with your child"
-        },
-        "description": {
-          "eng": "A plant that is firmly connected to the soil can grow strong roots and withstand storms. Children need strong connections with their caregivers to grow and thrive."
         }
-      },
-      "description_short": "connecting with your child",
-      "description": "A plant that is firmly connected to the soil can grow strong roots and withstand storms. Children need strong connections with their caregivers to grow and thrive."
+      }
     },
     {
       "id": "create",
@@ -89,23 +79,13 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        },
-        "description_short": {},
-        "description": {}
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Create"
-        },
-        "description_short": {
-          "eng": "creating a positive environment"
-        },
-        "description": {
-          "eng": "In the same way that all plants need sunshine to grow, all children need praise and positive encouragement from their caregivers."
         }
-      },
-      "description_short": "creating a positive environment",
-      "description": "In the same way that all plants need sunshine to grow, all children need praise and positive encouragement from their caregivers."
+      }
     },
     {
       "id": "play",
@@ -128,23 +108,13 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        },
-        "description_short": {},
-        "description": {}
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Play"
-        },
-        "description_short": {
-          "eng": "playful interactions"
-        },
-        "description": {
-          "eng": "In the same way that fertilizer boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
         }
-      },
-      "description_short": "playful interactions",
-      "description": "In the same way that fertilizer boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development."
+      }
     },
     {
       "id": "talk",
@@ -169,23 +139,13 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        },
-        "description_short": {},
-        "description": {}
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Talk"
-        },
-        "description_short": {
-          "eng": "talking with your child"
-        },
-        "description": {
-          "eng": "When and how you water your plants make a difference to their growth. In the same way, how and when you talk to your child is important for your relationship, and your child’s wellbeing."
         }
-      },
-      "description_short": "talking with your child",
-      "description": "When and how you water your plants make a difference to their growth. In the same way, how and when you talk to your child is important for your relationship, and your child’s wellbeing."
+      }
     },
     {
       "id": "build",
@@ -209,23 +169,13 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        },
-        "description_short": {},
-        "description": {}
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Build"
-        },
-        "description_short": {
-          "eng": "helping your child build skills"
-        },
-        "description": {
-          "eng": "Gardeners can’t control the weather, but there are things they can do to prepare for bad weather and help their plants recover after a storm. In the same way, you can help your child to build the skills they need to cope with challenges."
         }
-      },
-      "description_short": "helping your child build skills",
-      "description": "Gardeners can’t control the weather, but there are things they can do to prepare for bad weather and help their plants recover after a storm. In the same way, you can help your child to build the skills they need to cope with challenges."
+      }
     },
     {
       "id": "explore",
@@ -250,23 +200,13 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        },
-        "description_short": {},
-        "description": {}
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Explore"
-        },
-        "description_short": {
-          "eng": "exploring your environment"
-        },
-        "description": {
-          "eng": "Plants are part of a wider garden, or ecosystem. In the same way, your child is part of a family and community, that also plays an important role in their development."
         }
-      },
-      "description_short": "exploring your environment",
-      "description": "Plants are part of a wider garden, or ecosystem. In the same way, your child is part of a family and community, that also plays an important role in their development."
+      }
     },
     {
       "id": "care",
@@ -286,23 +226,13 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Care",
       "_translations": {
-        "title": {},
-        "description_short": {},
-        "description": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Care"
-        },
-        "description_short": {
-          "eng": "care for the caregiver"
-        },
-        "description": {
-          "eng": "The health of the gardener is important to the health of the garden. In the same way, parents need to take care of themselves, so that they can take care of their children."
         }
-      },
-      "description_short": "care for the caregiver",
-      "description": "The health of the gardener is important to the health of the garden. In the same way, parents need to take care of themselves, so that they can take care of their children."
+      }
     }
   ],
   "_xlsxPath": "modules/TZ modules.xlsx"
