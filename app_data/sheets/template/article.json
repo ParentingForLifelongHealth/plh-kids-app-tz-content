@@ -359,6 +359,40 @@
       }
     },
     {
+      "type": "text",
+      "name": "text_1",
+      "value": "@local.article_data.text_1",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.article_data.text_1)",
+      "_nested_name": "text_1",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.article_data.text_1",
+            "matchedExpression": "@local.article_data.text_1",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.article_data.text_1)",
+            "matchedExpression": "@local.article_data.text_1",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.article_data.text_1": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
       "name": "speaker_image_asset",
       "value": "@global.facilitator_face_asset",
       "_translations": {
@@ -384,30 +418,30 @@
     },
     {
       "type": "text_bubble",
-      "name": "text_1",
-      "value": "@local.article_data.text_1",
+      "name": "text_1_facilitator",
+      "value": "@local.article_data.text_1_facilitator",
       "_translations": {
         "value": {}
       },
-      "condition": "!!(@local.article_data.text_1)",
+      "condition": "!!(@local.article_data.text_1_facilitator)",
       "parameter_list": {
         "speaker_image_asset": "@local.speaker_image_asset"
       },
       "exclude_from_translation": true,
-      "_nested_name": "text_1",
+      "_nested_name": "text_1_facilitator",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.article_data.text_1",
-            "matchedExpression": "@local.article_data.text_1",
+            "fullExpression": "@local.article_data.text_1_facilitator",
+            "matchedExpression": "@local.article_data.text_1_facilitator",
             "type": "local",
             "fieldName": "article_data"
           }
         ],
         "condition": [
           {
-            "fullExpression": "!!(@local.article_data.text_1)",
-            "matchedExpression": "@local.article_data.text_1",
+            "fullExpression": "!!(@local.article_data.text_1_facilitator)",
+            "matchedExpression": "@local.article_data.text_1_facilitator",
             "type": "local",
             "fieldName": "article_data"
           }
@@ -424,7 +458,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@local.article_data.text_1": [
+        "@local.article_data.text_1_facilitator": [
           "value",
           "condition"
         ],
