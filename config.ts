@@ -5,7 +5,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.1.65",
+  content_tag_latest: "1.1.67",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -16,6 +16,9 @@ config.google_drive.sheets_folder_ids = [
 ];
 
 config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1kLl5t3o4A2ssC2iC-lT2bp4u8BZZneSE"];
+
+// Exclude uncompressed assets
+config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("uncompressed")
 
 config.api.db_name = "plh_kids_tz";
 
