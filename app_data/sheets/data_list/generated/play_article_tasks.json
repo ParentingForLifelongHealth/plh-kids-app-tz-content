@@ -129,15 +129,13 @@
       "id": "how_to_play_2",
       "category_id": "how_play",
       "image_asset": "images/modules/play/how_to_play_2.svg",
-      "text_2": "**Join your child in their play from time to time** \nLook for opportunities to sit down – even for 10 minutes – and engage with what your child is doing in a positive way. This does not mean taking over or telling them what to do differently. It means being part of the activity in a way that your child will enjoy.",
+      "text_2": "**Join your child in their play from time to time** \n\nLook for opportunities to sit down – even for 10 minutes – and engage with what your child is doing in a positive way. This does not mean taking over or telling them what to do differently. It means being part of the activity in a way that your child will enjoy.",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "_translatedFields": {
         "text_2": {
-          "eng": "**Join your child in their play from time to time** \nLook for opportunities to sit down – even for 10 minutes – and engage with what your child is doing in a positive way. This does not mean taking over or telling them what to do differently. It means being part of the activity in a way that your child will enjoy."
+          "eng": "**Join your child in their play from time to time** \n\nLook for opportunities to sit down – even for 10 minutes – and engage with what your child is doing in a positive way. This does not mean taking over or telling them what to do differently. It means being part of the activity in a way that your child will enjoy."
         }
       },
       "completed": false
@@ -146,15 +144,13 @@
       "id": "how_to_play_3",
       "category_id": "how_play",
       "image_asset": "images/modules/play/how_to_play_3.svg",
-      "text_2": "**Keep it joyful and fun**\nBeing playful does not mean that your child won’t respect you or take you seriously. It will help your child to have a strong relationship with you. And when relationships are strong, dealing with stress and challenges become easier.",
+      "text_2": "**Keep it joyful and fun**\n\nBeing playful does not mean that your child won’t respect you or take you seriously. It will help your child to have a strong relationship with you. And when relationships are strong, dealing with stress and challenges become easier.",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "_translatedFields": {
         "text_2": {
-          "eng": "**Keep it joyful and fun**\nBeing playful does not mean that your child won’t respect you or take you seriously. It will help your child to have a strong relationship with you. And when relationships are strong, dealing with stress and challenges become easier."
+          "eng": "**Keep it joyful and fun**\n\nBeing playful does not mean that your child won’t respect you or take you seriously. It will help your child to have a strong relationship with you. And when relationships are strong, dealing with stress and challenges become easier."
         }
       },
       "completed": false
@@ -168,12 +164,18 @@
         "text_1": {
           "eng": "Let’s hear from a caregiver:"
         },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
         "media_transcript": {
           "eng": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together."
         }
       },
-      "media_transcript": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together.",
+      "media_title": "Listen to learn more:",
       "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
@@ -181,6 +183,7 @@
           "tz_sw": true
         }
       },
+      "media_transcript": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together.",
       "text_1": "Let’s hear from a caregiver:",
       "completed": false
     },
@@ -230,17 +233,15 @@
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
       "_translatedFields": {
         "text_1": {
-          "eng": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them. \n\nPlayful interactions are a great way to do this.\n**Let’s take a look at an example:**"
+          "eng": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work **with** your child than **against** them.\n\nPlayful interactions are a great way to do this.  \n**Let’s take a look at an example:**"
         },
         "image_text": {
           "eng": "I don't want to go to sleep"
         }
       },
-      "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them. \n\nPlayful interactions are a great way to do this.\n**Let’s take a look at an example:**",
+      "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work **with** your child than **against** them.\n\nPlayful interactions are a great way to do this.  \n**Let’s take a look at an example:**",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
+        "text_1": {},
         "image_text": {
           "tz_sw": true
         }
@@ -790,13 +791,13 @@
         "text_1": {
           "eng": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:"
         },
-        "section_1_title": {
+        "section_1_text": {
           "eng": "Make some time to interact with your child in playful ways."
         },
-        "section_2_title": {
+        "section_2_text": {
           "eng": "Use books and stories to have fun together."
         },
-        "section_3_title": {
+        "section_3_text": {
           "eng": "Remember to make time for yourself to have fun and relax too."
         }
       },
@@ -805,22 +806,22 @@
         "text_1": {
           "tz_sw": true
         },
-        "section_1_title": {
+        "section_1_text": {
           "tz_sw": true
         },
-        "section_2_title": {
+        "section_2_text": {
           "tz_sw": true
         },
-        "section_3_title": {
+        "section_3_text": {
           "tz_sw": true
         }
       },
       "section_1_image_asset": "images/modules/play/icon_hand.svg",
       "section_2_image_asset": "images/modules/play/icon_book.svg",
       "section_3_image_asset": "images/modules/play/icon_relax.svg",
-      "section_1_title": "Make some time to interact with your child in playful ways.",
-      "section_2_title": "Use books and stories to have fun together.",
-      "section_3_title": "Remember to make time for yourself to have fun and relax too.",
+      "section_1_text": "Make some time to interact with your child in playful ways.",
+      "section_2_text": "Use books and stories to have fun together.",
+      "section_3_text": "Remember to make time for yourself to have fun and relax too.",
       "completed": false
     }
   ]
