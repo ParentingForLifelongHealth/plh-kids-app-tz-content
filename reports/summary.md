@@ -21,7 +21,7 @@
 | task_card | 3 |
 | task_progress_bar | 1 |
 | template | 295 |
-| text | 44 |
+| text | 45 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
