@@ -11,13 +11,13 @@
         "text_1": {
           "eng": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:"
         },
-        "section_1_title": {
+        "section_1_text": {
           "eng": "Make some time to interact with your child in playful ways."
         },
-        "section_2_title": {
+        "section_2_text": {
           "eng": "Use books and stories to have fun together."
         },
-        "section_3_title": {
+        "section_3_text": {
           "eng": "Remember to make time for yourself to have fun and relax too."
         }
       },
@@ -26,22 +26,22 @@
         "text_1": {
           "tz_sw": true
         },
-        "section_1_title": {
+        "section_1_text": {
           "tz_sw": true
         },
-        "section_2_title": {
+        "section_2_text": {
           "tz_sw": true
         },
-        "section_3_title": {
+        "section_3_text": {
           "tz_sw": true
         }
       },
       "section_1_image_asset": "images/modules/play/icon_hand.svg",
       "section_2_image_asset": "images/modules/play/icon_book.svg",
       "section_3_image_asset": "images/modules/play/icon_relax.svg",
-      "section_1_title": "Make some time to interact with your child in playful ways.",
-      "section_2_title": "Use books and stories to have fun together.",
-      "section_3_title": "Remember to make time for yourself to have fun and relax too.",
+      "section_1_text": "Make some time to interact with your child in playful ways.",
+      "section_2_text": "Use books and stories to have fun together.",
+      "section_3_text": "Remember to make time for yourself to have fun and relax too.",
       "completed": false
     }
   ]
