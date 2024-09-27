@@ -5,7 +5,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.1.66",
+  content_tag_latest: "1.1.67",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -25,8 +25,8 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 // Hacky fix to point extended deployment to content within its own repo
 config.app_data.output_path = "./app_data";
 
-// Exclude draft assets to reduce app size
-config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("draft")
+// To reduce app size, exclude draft and uncompressed assets
+config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("draft") && !fileEntry.relativePath.includes("uncompleted")
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids TZ";
