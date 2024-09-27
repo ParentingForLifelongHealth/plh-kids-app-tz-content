@@ -24,6 +24,16 @@
       "image_asset": "images/modules/play/using_books_2.svg",
       "media_type": "audio",
       "media_asset": "Need to add",
+      "text_1": "Use a lively, playful voice, with different voices for different characters.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Use a lively, playful voice, with different voices for different characters."
@@ -36,31 +46,13 @@
         }
       },
       "media_title": "Listen to this example:",
-      "_translations": {
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        },
-        "text_1": {}
-      },
       "media_transcript": "Need to add",
-      "text_1": "Use a lively, playful voice, with different voices for different characters.",
       "completed": false
     },
     {
       "id": "using_books_3",
       "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_3.svg",
-      "_translatedFields": {
-        "text_1": {
-          "eng": "You can mimic different actions from the story."
-        },
-        "text_1_facilitator": {
-          "eng": "This is a great way to keep children engaged and helps them understand what is happening in the story."
-        }
-      },
       "text_1": "You can mimic different actions from the story.",
       "_translations": {
         "text_1": {
@@ -70,6 +62,14 @@
           "tz_sw": true
         }
       },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You can mimic different actions from the story."
+        },
+        "text_1_facilitator": {
+          "eng": "This is a great way to keep children engaged and helps them understand what is happening in the story."
+        }
+      },
       "text_1_facilitator": "This is a great way to keep children engaged and helps them understand what is happening in the story.",
       "completed": false
     },
@@ -77,15 +77,15 @@
       "id": "using_books_4",
       "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_4.svg",
-      "_translatedFields": {
-        "text_1": {
-          "eng": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds."
-        }
-      },
       "text_1": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds.",
       "_translations": {
         "text_1": {
           "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You can also mimic different sounds from the story, like animal sounds, vehicle sounds, or nature sounds."
         }
       },
       "completed": false
@@ -94,6 +94,13 @@
       "id": "using_books_5",
       "category_id": "books_play",
       "image_asset": "images/modules/play/using_books_5.svg",
+      "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, playful voice to bring the story to life\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
+      "_translations": {
+        "text_1": {},
+        "text_2": {
+          "tz_sw": true
+        }
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Three easy ways to make book activities fun:\n\n1. Use a lively, playful voice to bring the story to life\n2. Mimic different actions from the story\n3. Mimic different sounds from the story"
@@ -103,13 +110,6 @@
         }
       },
       "text_2": "Remember: If children are having fun, they are learning. Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right.",
-      "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "text_1": {}
-      },
-      "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, playful voice to bring the story to life\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
       "completed": false
     }
   ]

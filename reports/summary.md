@@ -55,8 +55,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 1268510 KB | 1268.5 MB |
-| unused | 294395 KB | 294.4 MB |
+| total | 1268505 KB | 1268.5 MB |
+| unused | 294400 KB | 294.4 MB |
 </details>
 
 <details open>
@@ -259,6 +259,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/modules/connect/whats_next.svg | 727.1 |
 | images/modules/play/crying_emoji.svg | 1.7 |
 | images/modules/play/happy_emoji.svg | 2.2 |
+| images/modules/play/icon_hand.svg | 2.9 |
+| images/modules/play/icon_relax.svg | 1.5 |
 | images/modules/play/icons_module.svg | 2.7 |
 | images/modules/play/ok_emoji.svg | 1.4 |
 | lottie/bulging_circles.txt | 0.2 |
@@ -1327,10 +1329,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/how_to_play_1.svg | 95.5 | 3 |
 | images/modules/play/how_to_play_2.svg | 105.5 | 3 |
 | images/modules/play/how_to_play_3.svg | 102.7 | 3 |
-| images/modules/play/icon_book.svg | 1.1 | 5 |
-| images/modules/play/icon_hand.svg | 2.9 | 3 |
+| images/modules/play/icon_book.svg | 1.1 | 2 |
 | images/modules/play/icon_light_bulb.svg | 3.5 | 2 |
-| images/modules/play/icon_relax.svg | 1.5 | 3 |
 | images/modules/play/icon_star.svg | 1.3 | 2 |
 | images/modules/play/new_fertiliser.gif | 3745.3 | 3 |
 | images/modules/play/play_module_ideas.svg | 43.8 | 3 |
