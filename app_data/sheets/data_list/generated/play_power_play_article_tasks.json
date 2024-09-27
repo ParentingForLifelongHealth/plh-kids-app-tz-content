@@ -45,6 +45,12 @@
       "id": "the_power_of_play_2",
       "category_id": "power_play",
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them.",
+      "_translations": {
+        "text_1": {},
+        "text_1_facilitator": {},
+        "image_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them."
@@ -55,12 +61,6 @@
         "image_text": {
           "eng": "I don't want to go to sleep!"
         }
-      },
-      "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them.",
-      "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "image_text": {}
       },
       "text_1_facilitator": "Playful interactions are a great way to do this. **Let’s take a look at an example:**",
       "image_text": "I don't want to go to sleep!",
@@ -263,12 +263,12 @@
       "id": "the_power_of_play_15",
       "category_id": "power_play",
       "image_asset": "images/modules/play/question_time.svg",
-      "title": "Question time",
+      "text_1": "Let’s think about what happened in this story:",
       "_translations": {
+        "text_1": {},
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -320,7 +320,7 @@
           "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
         }
       },
-      "text_1": "Let’s think about what happened in this story:",
+      "title": "Question time",
       "quiz_1_option_1_image_asset": "images/modules/play/frustrated_emoji.svg",
       "quiz_1_option_2_image_asset": "images/modules/play/angry_emoji.svg",
       "quiz_1_option_3_image_asset": "images/modules/play/tired_emoji.svg",
@@ -336,52 +336,6 @@
     {
       "id": "the_power_of_play_16",
       "category_id": "power_play",
-      "title": "Question time:",
-      "_translations": {
-        "title": {},
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        }
-      },
       "_translatedFields": {
         "title": {
           "eng": "Question time:"
@@ -429,6 +383,52 @@
           "eng": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep."
         }
       },
+      "title": "Question time:",
+      "_translations": {
+        "title": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
+      },
       "quiz_1_question": "What did her mother do to help her fall asleep?",
       "quiz_1_option_1_text": "She shouted at Nandi: “Just go to sleep!”",
       "quiz_1_feedback_1": "While we can understand why Nandi’s mother would feel like shouting, Nandi’s mom did something clever. She and Nandi created a fun story together that helped Nandi to fall asleep.",
@@ -454,6 +454,16 @@
       "image_asset": "images/modules/play/play_module_ideas.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/play/play_05.m4a",
+      "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Here are some more ideas for using play to help your child to cooperate with what you need them to do."
@@ -466,17 +476,7 @@
         }
       },
       "media_title": "Listen for more ideas:",
-      "_translations": {
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        },
-        "text_1": {}
-      },
       "media_transcript": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed.",
-      "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
       "completed": false
     }
   ]

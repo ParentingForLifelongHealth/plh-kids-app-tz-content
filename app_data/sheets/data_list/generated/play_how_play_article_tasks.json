@@ -7,6 +7,12 @@
       "id": "how_to_play_1",
       "category_id": "how_play",
       "image_asset": "images/modules/play/how_to_play_1.svg",
+      "text_1": "There is no right or wrong way to play. The important thing is to have fun together.",
+      "_translations": {
+        "text_1": {},
+        "text_2": {},
+        "text_1_facilitator": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "There is no right or wrong way to play. The important thing is to have fun together."
@@ -19,12 +25,6 @@
         }
       },
       "text_2": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
-      "_translations": {
-        "text_2": {},
-        "text_1": {},
-        "text_1_facilitator": {}
-      },
-      "text_1": "There is no right or wrong way to play. The important thing is to have fun together.",
       "text_1_facilitator": "Here are some ideas for supporting your child through play:",
       "completed": false
     },

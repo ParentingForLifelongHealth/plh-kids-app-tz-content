@@ -158,12 +158,12 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "1268510 KB",
+      "KB": "1268505 KB",
       "MB": "1268.5 MB"
     },
     {
       "assets": "unused",
-      "KB": "294395 KB",
+      "KB": "294400 KB",
       "MB": "294.4 MB"
     }
   ],
@@ -939,6 +939,14 @@
     {
       "path": "images/modules/play/happy_emoji.svg",
       "size_kb": 2.2
+    },
+    {
+      "path": "images/modules/play/icon_hand.svg",
+      "size_kb": 2.9
+    },
+    {
+      "path": "images/modules/play/icon_relax.svg",
+      "size_kb": 1.5
     },
     {
       "path": "images/modules/play/icons_module.svg",
@@ -6190,23 +6198,13 @@
     },
     {
       "path": "images/modules/play/icon_book.svg",
-      "count": 5,
+      "count": 2,
       "size_kb": 1.1
-    },
-    {
-      "path": "images/modules/play/icon_hand.svg",
-      "count": 3,
-      "size_kb": 2.9
     },
     {
       "path": "images/modules/play/icon_light_bulb.svg",
       "count": 2,
       "size_kb": 3.5
-    },
-    {
-      "path": "images/modules/play/icon_relax.svg",
-      "count": 3,
-      "size_kb": 1.5
     },
     {
       "path": "images/modules/play/icon_star.svg",

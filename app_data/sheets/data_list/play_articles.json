@@ -11,9 +11,9 @@
       "media_type": "audio",
       "media_asset": "audio/modules/play/play_01.m4a",
       "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
-      "title": "Creating time and space for children to play is as important as eating and sleeping!",
+      "text_1": "Creating time and space for children to play is as important as eating and sleeping!",
       "_translations": {
-        "title": {},
+        "text_1": {},
         "text_2": {},
         "media_title": {
           "tz_sw": true
@@ -23,7 +23,7 @@
         }
       },
       "_translatedFields": {
-        "title": {
+        "text_1": {
           "eng": "Creating time and space for children to play is as important as eating and sleeping!"
         },
         "text_2": {
@@ -755,41 +755,15 @@
       "id": "practice_1",
       "category_id": "practice",
       "image_asset": "images/modules/play/ready_to_practice.svg",
-      "section_1_image_asset": "images/modules/play/icon_hand.svg",
-      "section_2_image_asset": "images/modules/play/icon_book.svg",
-      "section_3_image_asset": "images/modules/play/icon_relax.svg",
-      "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:",
+      "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too.",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        }
+        "text_1": {}
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:"
-        },
-        "section_1_text": {
-          "eng": "Make some time to interact with your child in playful ways."
-        },
-        "section_2_text": {
-          "eng": "Use books and stories to have fun together."
-        },
-        "section_3_text": {
-          "eng": "Remember to make time for yourself to have fun and relax too."
+          "eng": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too."
         }
-      },
-      "section_1_text": "Make some time to interact with your child in playful ways.",
-      "section_2_text": "Use books and stories to have fun together.",
-      "section_3_text": "Remember to make time for yourself to have fun and relax too."
+      }
     }
   ],
   "_xlsxPath": "modules/TZ modules.xlsx"
