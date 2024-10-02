@@ -26,7 +26,7 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 config.app_data.output_path = "./app_data";
 
 // To reduce app size, exclude draft and uncompressed assets
-config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("draft") && !fileEntry.relativePath.includes("uncompleted")
+config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("draft") && !fileEntry.relativePath.includes("uncompressed")
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids TZ";
