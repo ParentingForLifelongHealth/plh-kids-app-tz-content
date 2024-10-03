@@ -276,33 +276,9 @@
       }
     },
     {
-      "name": "bubble_text",
-      "value": "@local.@local.concat_feedback",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "bubble_text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.@local.concat_feedback",
-            "matchedExpression": "@local.concat_feedback",
-            "type": "local",
-            "fieldName": "concat_feedback"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.concat_feedback": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "text_bubble",
       "name": "text_bubble",
-      "value": "@local.bubble_text",
+      "value": "@local.@local.concat_feedback",
       "_translations": {
         "value": {}
       },
@@ -314,10 +290,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.bubble_text",
-            "matchedExpression": "@local.bubble_text",
+            "fullExpression": "@local.@local.concat_feedback",
+            "matchedExpression": "@local.concat_feedback",
             "type": "local",
-            "fieldName": "bubble_text"
+            "fieldName": "concat_feedback"
           }
         ],
         "parameter_list": {
@@ -332,7 +308,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@local.bubble_text": [
+        "@local.concat_feedback": [
           "value"
         ],
         "@local.speaker_image_asset": [

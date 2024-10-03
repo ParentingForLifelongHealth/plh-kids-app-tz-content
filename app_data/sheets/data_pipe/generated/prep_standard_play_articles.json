@@ -31,17 +31,5 @@
       ],
       "output_target": "play_check_in_article_tasks"
     }
-  ],
-  "_output_flows": [
-    {
-      "flow_name": "play_relax_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    {
-      "flow_name": "play_check_in_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    }
   ]
 }

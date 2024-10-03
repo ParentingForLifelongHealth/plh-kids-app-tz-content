@@ -26,12 +26,5 @@
       "output_target": "{@gen.id}_category_tasks"
     }
   ],
-  "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-  "_output_flows": [
-    {
-      "flow_name": "prep_play_categories",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    }
-  ]
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx"
 }

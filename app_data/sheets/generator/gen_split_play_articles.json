@@ -19,32 +19,5 @@
       "module_id": "play"
     }
   ],
-  "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-  "_output_flows": [
-    {
-      "flow_name": "prep_split_why_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_split_how_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_split_power_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_split_books_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_split_practice_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    }
-  ]
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx"
 }

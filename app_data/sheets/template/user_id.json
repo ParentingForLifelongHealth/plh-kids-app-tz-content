@@ -91,7 +91,7 @@
     {
       "type": "title",
       "name": "title",
-      "value": "@global.user_id_text",
+      "value": "@global.uuid_title",
       "_translations": {
         "value": {}
       },
@@ -99,15 +99,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.user_id_text",
-            "matchedExpression": "@global.user_id_text",
+            "fullExpression": "@global.uuid_title",
+            "matchedExpression": "@global.uuid_title",
             "type": "global",
-            "fieldName": "user_id_text"
+            "fieldName": "uuid_title"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.user_id_text": [
+        "@global.uuid_title": [
           "value"
         ]
       }
@@ -193,6 +193,32 @@
             ],
             "@local.copied": [
               "parameter_list.copied_text"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "text",
+          "value": "You may be asked to share this code with people who will support your @global.app_name journey.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "_nested_name": "has_ever_been_synced.text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "You may be asked to share this code with people who will support your @global.app_name journey.",
+                "matchedExpression": "@global.app_name",
+                "type": "global",
+                "fieldName": "app_name"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.app_name": [
+              "value"
             ]
           }
         },

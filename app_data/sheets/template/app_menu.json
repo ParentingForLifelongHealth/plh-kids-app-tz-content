@@ -328,30 +328,6 @@
     },
     {
       "type": "button",
-      "name": "button_user_id",
-      "value": "@global.user_id_text",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "button_user_id",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.user_id_text",
-            "matchedExpression": "@global.user_id_text",
-            "type": "global",
-            "fieldName": "user_id_text"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.user_id_text": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
       "name": "button_dev_enter",
       "value": "Developer mode",
       "_translations": {

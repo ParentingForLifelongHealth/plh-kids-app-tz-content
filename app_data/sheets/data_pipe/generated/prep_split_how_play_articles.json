@@ -12,12 +12,5 @@
       "output_target": "play_how_play_article_tasks",
       "module_id": "play"
     }
-  ],
-  "_output_flows": [
-    {
-      "flow_name": "play_how_play_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    }
   ]
 }

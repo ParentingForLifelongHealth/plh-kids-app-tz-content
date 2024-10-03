@@ -41,47 +41,5 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/modules/module_navigation.xlsx",
-  "_output_flows": [
-    {
-      "flow_name": "module_overview_join",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_overview_connect",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_overview_create",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_overview_play",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_overview_talk",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_overview_build",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_overview_explore",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_overview_care",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    }
-  ]
+  "_xlsxPath": "templates/modules/module_navigation.xlsx"
 }
