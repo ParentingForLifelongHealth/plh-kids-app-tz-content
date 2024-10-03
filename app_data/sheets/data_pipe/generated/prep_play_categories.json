@@ -18,5 +18,12 @@
       ],
       "output_target": "play_category_tasks"
     }
+  ],
+  "_output_flows": [
+    {
+      "flow_name": "play_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
   ]
 }
