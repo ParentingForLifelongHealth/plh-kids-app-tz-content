@@ -99,6 +99,15 @@
       "name": "has_multiple_languages",
       "value": false,
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_id_text",
+      "value": "User ID",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "app_menu.xlsx"

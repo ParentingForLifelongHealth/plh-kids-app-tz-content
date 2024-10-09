@@ -1,0 +1,21 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "book_tags",
+  "status": "released",
+  "data_list_name": "book_tags",
+  "rows": [
+    {
+      "id": "nature",
+      "title": "Nature",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Nature"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "books/TZ books data.xlsx"
+}

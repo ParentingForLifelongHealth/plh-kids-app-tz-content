@@ -49,5 +49,12 @@
       "output_target": "play_article_tasks"
     }
   ],
-  "_xlsxPath": "modules/TZ modules data pipes.xlsx"
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "play_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
 }

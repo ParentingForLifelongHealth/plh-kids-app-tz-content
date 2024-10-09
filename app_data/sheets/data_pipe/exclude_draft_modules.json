@@ -12,5 +12,12 @@
       "output_target": "modules_released"
     }
   ],
-  "_xlsxPath": "modules/TZ modules data pipes.xlsx"
+  "_xlsxPath": "modules/TZ modules data pipes.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "modules_released",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
 }

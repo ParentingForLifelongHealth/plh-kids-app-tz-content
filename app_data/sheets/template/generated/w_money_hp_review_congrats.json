@@ -1,0 +1,18 @@
+{
+  "flow_name": "w_money_hp_review_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "text",
+      "name": "outro_text",
+      "value": "Thank you for sharing your experiences! Well done for thinking about how you can budget and save with your family. This will really help you to work towards your family goals. \n\nTogether you can achieve so many good things!",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "outro_text"
+    }
+  ]
+}
