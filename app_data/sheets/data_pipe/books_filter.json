@@ -12,5 +12,12 @@
       ]
     }
   ],
-  "_xlsxPath": "books/TZ books data.xlsx"
+  "_xlsxPath": "books/TZ books data.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "books",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
 }

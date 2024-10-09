@@ -1,0 +1,18 @@
+{
+  "flow_name": "w_grief_hp_review_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "text",
+      "name": "outro_text",
+      "value": "Well done for exploring solutions to your challenges. Go try them out. Together with your teen you can get through difficult times stronger.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "outro_text"
+    }
+  ]
+}

@@ -38,11 +38,12 @@
       "relax_id_list": [
         "relax_10"
       ],
+      "book_id_list": [
+        "moms_red_coat",
+        "to_the_top"
+      ],
       "status": "draft",
       "play_id_list": [
-        "[]"
-      ],
-      "book_id_list": [
         "[]"
       ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
@@ -97,10 +98,10 @@
       "relax_id_list": [
         "relax_8"
       ],
-      "play_id_list": [
-        "[]"
-      ],
       "book_id_list": [
+        "lesedis_sandbox"
+      ],
+      "play_id_list": [
         "[]"
       ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",

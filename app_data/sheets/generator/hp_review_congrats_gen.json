@@ -1,131 +1,104 @@
 {
   "flow_type": "generator",
-  "flow_name": "hp_review_gen",
+  "flow_name": "hp_review_congrats_gen",
   "status": "released",
   "parameter_list": {
     "input_data_list": "hp_check_in",
-    "output_flow_name": "{@gen.id}_hp_review",
+    "output_flow_name": "{@gen.id}_hp_review_congrats",
     "output_flow_type": "template",
     "output_flow_subtype": "generated"
   },
   "rows": [
     {
-      "type": "template",
-      "name": "hp_review",
-      "value": "hp_review",
-      "action_list": [
-        {
-          "trigger": "completed",
-          "action_id": "emit",
-          "args": [
-            "completed"
-          ],
-          "_raw": "completed | emit:completed",
-          "_cleaned": "completed | emit:completed"
-        },
-        {
-          "trigger": "uncompleted",
-          "action_id": "emit",
-          "args": [
-            "uncompleted"
-          ],
-          "_raw": "uncompleted | emit:uncompleted",
-          "_cleaned": "uncompleted | emit:uncompleted"
-        }
-      ],
-      "rows": [
-        {
-          "name": "row_id",
-          "value": "@gen.id",
-          "exclude_from_translation": true
-        }
-      ]
+      "type": "text",
+      "name": "outro_text",
+      "value": "@gen.outro_text"
     }
   ],
   "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
   "_output_flows": [
     {
-      "flow_name": "w_1on1_hp_review",
+      "flow_name": "w_1on1_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_praise_hp_review",
+      "flow_name": "w_praise_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_instruct_hp_review",
+      "flow_name": "w_instruct_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_stress_hp_review",
+      "flow_name": "w_stress_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_money_hp_review",
+      "flow_name": "w_money_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_rules_hp_review",
+      "flow_name": "w_rules_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_consequence_hp_review",
+      "flow_name": "w_consequence_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_solve_hp_review",
+      "flow_name": "w_solve_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_safe_hp_review",
+      "flow_name": "w_safe_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_crisis_hp_review",
+      "flow_name": "w_crisis_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_srh_hp_review",
+      "flow_name": "w_srh_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_svp_hp_review",
+      "flow_name": "w_svp_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_grief_hp_review",
+      "flow_name": "w_grief_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_learn_1_hp_review",
+      "flow_name": "w_learn_1_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_learn_2_hp_review",
+      "flow_name": "w_learn_2_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_learn_3_hp_review",
+      "flow_name": "w_learn_3_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "w_learn_4_hp_review",
+      "flow_name": "w_learn_4_hp_review_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

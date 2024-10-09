@@ -5,7 +5,7 @@
   "rows": [
     {
       "name": "row_id",
-      "value": "w_rules",
+      "value": "instructions",
       "_translations": {
         "value": {}
       },
@@ -202,6 +202,16 @@
       }
     },
     {
+      "name": "hp_review_congrats",
+      "value": "_hp_review_congrats",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "hp_review_congrats"
+    },
+    {
       "type": "display_group",
       "name": "first_access",
       "condition": "!@fields.@local.row_id_hp_review_started",
@@ -389,69 +399,6 @@
       "exclude_from_translation": true,
       "rows": [
         {
-          "name": "activity_image",
-          "value": "@local.row_data.activity_image_tog",
-          "_translations": {
-            "value": {}
-          },
-          "condition": "@fields.do_this_workshop_together",
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "workshop_activity.activity_image",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.row_data.activity_image_tog",
-                "matchedExpression": "@local.row_data.activity_image_tog",
-                "type": "local",
-                "fieldName": "row_data"
-              }
-            ],
-            "condition": [
-              {
-                "fullExpression": "@fields.do_this_workshop_together",
-                "matchedExpression": "@fields.do_this_workshop_together",
-                "type": "fields",
-                "fieldName": "do_this_workshop_together"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.row_data.activity_image_tog": [
-              "value"
-            ],
-            "@fields.do_this_workshop_together": [
-              "condition"
-            ]
-          }
-        },
-        {
-          "name": "activity_image",
-          "value": "@local.row_data.activity_image_ind",
-          "_translations": {
-            "value": {}
-          },
-          "condition": "row_id_hp_review_started",
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "workshop_activity.activity_image",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.row_data.activity_image_ind",
-                "matchedExpression": "@local.row_data.activity_image_ind",
-                "type": "local",
-                "fieldName": "row_data"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.row_data.activity_image_ind": [
-              "value"
-            ]
-          }
-        },
-        {
           "name": "activity_title",
           "value": "@local.row_data.activity_title",
           "_translations": {
@@ -502,18 +449,38 @@
           }
         },
         {
-          "name": "activity_banner",
-          "hidden": false,
+          "name": "pop_up_template",
+          "value": "@local.row_id@local.hp_review_congrats",
+          "_translations": {
+            "value": {}
+          },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "workshop_activity.activity_banner"
-        },
-        {
-          "name": "include_outro",
-          "value": true,
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "workshop_activity.include_outro"
+          "_nested_name": "workshop_activity.pop_up_template",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.row_id@local.hp_review_congrats",
+                "matchedExpression": "@local.row_id",
+                "type": "local",
+                "fieldName": "row_id"
+              },
+              {
+                "fullExpression": "@local.row_id@local.hp_review_congrats",
+                "matchedExpression": "@local.hp_review_congrats",
+                "type": "local",
+                "fieldName": "hp_review_congrats"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.row_id": [
+              "value"
+            ],
+            "@local.hp_review_congrats": [
+              "value"
+            ]
+          }
         },
         {
           "type": "nested_properties",
