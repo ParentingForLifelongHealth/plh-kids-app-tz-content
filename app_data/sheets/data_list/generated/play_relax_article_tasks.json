@@ -6,7 +6,7 @@
     {
       "id": "relax_8",
       "media_asset": "audio/relax/relax_8.mp3",
-      "type": "passive_short",
+      "media_type": "audio",
       "title": "Small things",
       "_translations": {
         "title": {
