@@ -7,6 +7,7 @@
     {
       "id": "join",
       "number": "0",
+      "facilitator": "male",
       "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "relax_id_list": [
@@ -32,6 +33,7 @@
     {
       "id": "connect",
       "number": "1",
+      "facilitator": "female",
       "image_asset": "images/modules/connect/intro_connect.svg",
       "check_in_id": "check_in_9",
       "relax_id": "relax_10",
@@ -62,6 +64,7 @@
     {
       "id": "create",
       "number": "2",
+      "facilitator": "male",
       "check_in_id": "check_in_6",
       "relax_id": "relax_13",
       "relax_id_list": [
@@ -92,6 +95,7 @@
       "id": "play",
       "status": "released",
       "number": "3",
+      "facilitator": "female",
       "image_asset": "images/modules/play/play_title_image.svg",
       "check_in_id": "check_in_3",
       "relax_id": "relax_8",
@@ -120,6 +124,7 @@
     {
       "id": "talk",
       "number": "4",
+      "facilitator": "male",
       "check_in_id": "check_in_4",
       "relax_id": "relax_6",
       "relax_id_list": [
@@ -151,6 +156,7 @@
     {
       "id": "build",
       "number": "5",
+      "facilitator": "female",
       "check_in_id": "check_in_7",
       "relax_id": "relax_7",
       "relax_id_list": [
@@ -181,6 +187,7 @@
     {
       "id": "explore",
       "number": "6",
+      "facilitator": "male",
       "check_in_id": "check_in_5",
       "relax_id": "relax_9",
       "relax_id_list": [
@@ -212,6 +219,7 @@
     {
       "id": "care",
       "number": "7",
+      "facilitator": "female",
       "check_in_id": "check_in_8",
       "status": "draft",
       "image_asset": "images/modules/wave.svg",

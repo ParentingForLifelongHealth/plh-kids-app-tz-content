@@ -786,7 +786,8 @@
           },
           "condition": "!!(@local.article_data.media_title)",
           "parameter_list": {
-            "title": "@local.media_title"
+            "title": "@local.media_title",
+            "transcript_text": "@local.article_data.media_transcript"
           },
           "exclude_from_translation": true,
           "_nested_name": "audio.media_asset",
@@ -815,6 +816,14 @@
                   "type": "local",
                   "fieldName": "media_title"
                 }
+              ],
+              "transcript_text": [
+                {
+                  "fullExpression": "@local.article_data.media_transcript",
+                  "matchedExpression": "@local.article_data.media_transcript",
+                  "type": "local",
+                  "fieldName": "article_data"
+                }
               ]
             }
           },
@@ -827,6 +836,9 @@
             ],
             "@local.media_title": [
               "parameter_list.title"
+            ],
+            "@local.article_data.media_transcript": [
+              "parameter_list.transcript_text"
             ]
           }
         },
@@ -838,6 +850,9 @@
             "value": {}
           },
           "condition": "!(@local.article_data.media_title)",
+          "parameter_list": {
+            "transcript_text": "@local.article_data.media_transcript"
+          },
           "exclude_from_translation": true,
           "_nested_name": "audio.media_asset",
           "_dynamicFields": {
@@ -856,7 +871,17 @@
                 "type": "local",
                 "fieldName": "article_data"
               }
-            ]
+            ],
+            "parameter_list": {
+              "transcript_text": [
+                {
+                  "fullExpression": "@local.article_data.media_transcript",
+                  "matchedExpression": "@local.article_data.media_transcript",
+                  "type": "local",
+                  "fieldName": "article_data"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@local.article_data.media_asset": [
@@ -864,6 +889,9 @@
             ],
             "@local.article_data.media_title": [
               "condition"
+            ],
+            "@local.article_data.media_transcript": [
+              "parameter_list.transcript_text"
             ]
           }
         }
@@ -881,114 +909,6 @@
       },
       "_dynamicDependencies": {
         "@local.article_data.media_type": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "pop_up_text",
-      "value": "@local.article_data.media_transcript",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "pop_up_text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.article_data.media_transcript",
-            "matchedExpression": "@local.article_data.media_transcript",
-            "type": "local",
-            "fieldName": "article_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.article_data.media_transcript": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "media_transcript",
-      "value": "Read the transcript",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "pop_up_text",
-            "@local.pop_up_text"
-          ],
-          "_raw": "click | set_field: pop_up_text: @local.pop_up_text",
-          "_cleaned": "click | set_field: pop_up_text: @local.pop_up_text"
-        },
-        {
-          "trigger": "click",
-          "action_id": "pop_up",
-          "args": [
-            "pop_up_text"
-          ],
-          "_raw": "click | pop_up: pop_up_text",
-          "_cleaned": "click | pop_up: pop_up_text"
-        }
-      ],
-      "condition": "!!(@local.article_data.media_transcript)",
-      "exclude_from_translation": false,
-      "_nested_name": "media_transcript",
-      "_dynamicFields": {
-        "action_list": {
-          "0": {
-            "args": {
-              "1": [
-                {
-                  "fullExpression": "@local.pop_up_text",
-                  "matchedExpression": "@local.pop_up_text",
-                  "type": "local",
-                  "fieldName": "pop_up_text"
-                }
-              ]
-            },
-            "_raw": [
-              {
-                "fullExpression": "click | set_field: pop_up_text: @local.pop_up_text",
-                "matchedExpression": "@local.pop_up_text",
-                "type": "local",
-                "fieldName": "pop_up_text"
-              }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "click | set_field: pop_up_text: @local.pop_up_text",
-                "matchedExpression": "@local.pop_up_text",
-                "type": "local",
-                "fieldName": "pop_up_text"
-              }
-            ]
-          }
-        },
-        "condition": [
-          {
-            "fullExpression": "!!(@local.article_data.media_transcript)",
-            "matchedExpression": "@local.article_data.media_transcript",
-            "type": "local",
-            "fieldName": "article_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.pop_up_text": [
-          "action_list.0.args.1",
-          "action_list.0._raw",
-          "action_list.0._cleaned"
-        ],
-        "@local.article_data.media_transcript": [
           "condition"
         ]
       }

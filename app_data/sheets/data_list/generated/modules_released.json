@@ -6,6 +6,7 @@
     {
       "id": "play",
       "number": "3",
+      "facilitator": "female",
       "status": "released",
       "image_asset": "images/modules/play/play_title_image.svg",
       "relax_id_list": [
