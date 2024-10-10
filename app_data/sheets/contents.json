@@ -38,6 +38,12 @@
       "data_list_name": "books_all",
       "_xlsxPath": "books/TZ books data.xlsx"
     },
+    "characters": {
+      "flow_type": "data_list",
+      "flow_name": "characters",
+      "data_list_name": "characters",
+      "_xlsxPath": "TZ characters.xlsx"
+    },
     "check_in": {
       "flow_type": "data_list",
       "flow_name": "check_in",
