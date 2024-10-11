@@ -6,7 +6,7 @@
 | accordion | 1 |
 | animated_section | 2 |
 | audio | 1 |
-| button | 32 |
+| button | 30 |
 | carousel | 1 |
 | combo_box | 2 |
 | data_items | 1 |
@@ -17,7 +17,7 @@
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 408 |
+| set_variable | 406 |
 | task_card | 3 |
 | task_progress_bar | 1 |
 | template | 300 |
@@ -27,6 +27,7 @@
 | text_bubble | 2 |
 | title | 20 |
 | update_action_list | 1 |
+| video | 1 |
 </details>
 
 <details >
@@ -44,8 +45,8 @@
 | emit: uncompleted | 262 |
 | feedback | 7 |
 | go_to | 11 |
-| pop_up | 6 |
-| set_field | 13 |
+| pop_up | 4 |
+| set_field | 12 |
 | set_local | 7 |
 | user | 1 |
 </details>
@@ -55,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 17133 KB | 17.1 MB |
-| unused | 61072 KB | 61.1 MB |
+| total | 17019 KB | 17 MB |
+| unused | 71684 KB | 71.7 MB |
 </details>
 
 <details open>
@@ -97,6 +98,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/babys_first_photo/babys-first-family-photo_20190506_page3.jpg | 23.7 |
 | images/books/babys_first_photo/page16.jpg | 107.1 |
 | images/books/babys_first_photo/page17.jpg | 6.2 |
+| images/facilitators_face_man.svg | 7.4 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
@@ -118,33 +120,50 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_blue.svg | 1 |
 | images/icons/thought_bubble.svg | 2.1 |
 | images/logos/favicon.png | 6.3 |
-| images/modules/connect/article_learn_1.svg | 62.8 |
-| images/modules/connect/daughter_face.svg | 18.1 |
+| images/modules/connect/connect-01.svg | 197.7 |
+| images/modules/connect/connect_1.svg | 26.6 |
+| images/modules/connect/connect_10.svg | 289.6 |
+| images/modules/connect/connect_11.svg | 8452.7 |
+| images/modules/connect/connect_12.svg | 187.7 |
+| images/modules/connect/connect_13.svg | 142.6 |
+| images/modules/connect/connect_14.svg | 31.9 |
+| images/modules/connect/connect_2.svg | 192.2 |
+| images/modules/connect/connect_3.gif | 3313.4 |
+| images/modules/connect/connect_4.svg | 494.2 |
+| images/modules/connect/connect_5.svg | 129 |
+| images/modules/connect/connect_6.svg | 91.9 |
+| images/modules/connect/connect_7.svg | 41.5 |
+| images/modules/connect/connect_8.svg | 34.1 |
+| images/modules/connect/connect_9.svg | 32.3 |
+| images/modules/connect/connect_title image.svg | 76.7 |
 | images/modules/connect/fathers_face.svg | 13.9 |
-| images/modules/connect/follow_your_childs_lead.svg | 3.1 |
-| images/modules/connect/happy_daughters_face.svg | 17.7 |
-| images/modules/connect/intro_connect_child.svg | 86.3 |
-| images/modules/connect/learn_1.svg | 64.6 |
-| images/modules/connect/learn_10.svg | 105.2 |
-| images/modules/connect/learn_11.svg | 164.5 |
-| images/modules/connect/learn_2.svg | 37.7 |
-| images/modules/connect/learn_3.svg | 37 |
-| images/modules/connect/learn_4.svg | 38.2 |
-| images/modules/connect/learn_5.svg | 36.7 |
-| images/modules/connect/learn_7.svg | 55.6 |
-| images/modules/connect/learn_8.svg | 79.2 |
-| images/modules/connect/learn_9.svg | 3926.5 |
-| images/modules/connect/minimise_distractions.svg | 1.1 |
 | images/modules/connect/mom_face.svg | 6.1 |
-| images/modules/connect/observe_and_listen.svg | 2.5 |
-| images/modules/connect/review_1.svg | 64.6 |
-| images/modules/connect/sad_daughters_ face.svg | 22.8 |
 | images/modules/connect/thumbs_down_brown.svg | 2 |
 | images/modules/connect/thumbs_down_yellow.svg | 2.2 |
 | images/modules/connect/thumbs_up_brown.svg | 2 |
 | images/modules/connect/thumbs_up_yellow.svg | 2 |
-| images/modules/connect/to_the_top.svg | 3698.9 |
-| images/modules/connect/whats_next.svg | 727.1 |
+| images/modules/create/create_1.svg | 15.9 |
+| images/modules/create/create_10.svg | 30.1 |
+| images/modules/create/create_11.svg | 71.3 |
+| images/modules/create/create_12.svg | 167 |
+| images/modules/create/create_13.svg | 104.1 |
+| images/modules/create/create_14.svg | 169.1 |
+| images/modules/create/create_15.svg | 142.5 |
+| images/modules/create/create_16.svg | 161.6 |
+| images/modules/create/create_17.svg | 40.1 |
+| images/modules/create/create_18.svg | 107.3 |
+| images/modules/create/create_19.svg | 197 |
+| images/modules/create/create_2.svg | 196 |
+| images/modules/create/create_20.svg | 154.6 |
+| images/modules/create/create_21.svg | 21.2 |
+| images/modules/create/create_3.gif | 3826.9 |
+| images/modules/create/create_4.svg | 184.6 |
+| images/modules/create/create_5.svg | 56.8 |
+| images/modules/create/create_6.svg | 79.1 |
+| images/modules/create/create_7.svg | 56.8 |
+| images/modules/create/create_8.svg | 86.3 |
+| images/modules/create/create_9.svg | 169 |
+| images/modules/create/create_title image.svg | 83.8 |
 | images/modules/play/crying_emoji.svg | 1.7 |
 | images/modules/play/happy_emoji.svg | 2.2 |
 | images/modules/play/icon_hand.svg | 2.9 |
@@ -1056,6 +1075,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/zibu_and_zizo/page7.jpg | 2 |
 | images/books/zibu_and_zizo/page8.jpg | 2 |
 | images/books/zibu_and_zizo/page9.jpg | 2 |
+| images/modules/connect/intro_connect.svg | 1 |
 | images/modules/wave.svg | 6 |
 </details>
 
@@ -1200,7 +1220,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/beautiful_day/02.jpg | 58.1 | 2 |
 | images/books/beautiful_day/03.jpg | 59.1 | 2 |
 | images/books/beautiful_day/12.jpg | 70.4 | 2 |
-| images/facilitators_face.svg | 16.4 | 1 |
+| images/facilitators_face.svg | 17.5 | 1 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/tz.svg | 0.5 | 2 |
 | images/icons/book_outline_white.svg | 0.7 | 1 |
@@ -1224,7 +1244,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/lego_foundation.png | 54.4 | 1 |
 | images/logos/plh_white.png | 12.8 | 1 |
-| images/modules/connect/intro_connect.svg | 115.6 | 1 |
 | images/modules/play/angry_emoji.svg | 1.4 | 3 |
 | images/modules/play/awake_emoji.svg | 1.9 | 3 |
 | images/modules/play/frustrated_emoji.svg | 1.8 | 3 |
@@ -1258,7 +1277,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 18 |
+| data_list |  | 19 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 11 |
 | data_list | legal_terms | 2 |

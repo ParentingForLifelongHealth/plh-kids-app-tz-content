@@ -14,7 +14,7 @@
     },
     {
       "type": "button",
-      "count": 32
+      "count": 30
     },
     {
       "type": "carousel",
@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 408
+      "count": 406
     },
     {
       "type": "task_card",
@@ -94,6 +94,10 @@
     },
     {
       "type": "update_action_list",
+      "count": 1
+    },
+    {
+      "type": "video",
       "count": 1
     }
   ],
@@ -140,11 +144,11 @@
     },
     {
       "type": "pop_up",
-      "count": 6
+      "count": 4
     },
     {
       "type": "set_field",
-      "count": 13
+      "count": 12
     },
     {
       "type": "set_local",
@@ -158,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "17133 KB",
-      "MB": "17.1 MB"
+      "KB": "17019 KB",
+      "MB": "17 MB"
     },
     {
       "assets": "unused",
-      "KB": "61072 KB",
-      "MB": "61.1 MB"
+      "KB": "71684 KB",
+      "MB": "71.7 MB"
     }
   ],
   "assets_unused": [
@@ -293,6 +297,10 @@
       "size_kb": 6.2
     },
     {
+      "path": "images/facilitators_face_man.svg",
+      "size_kb": 7.4
+    },
+    {
       "path": "images/icons/book_outline_blue.svg",
       "size_kb": 0.7
     },
@@ -377,88 +385,76 @@
       "size_kb": 6.3
     },
     {
-      "path": "images/modules/connect/article_learn_1.svg",
-      "size_kb": 62.8
+      "path": "images/modules/connect/connect-01.svg",
+      "size_kb": 197.7
     },
     {
-      "path": "images/modules/connect/daughter_face.svg",
-      "size_kb": 18.1
+      "path": "images/modules/connect/connect_1.svg",
+      "size_kb": 26.6
+    },
+    {
+      "path": "images/modules/connect/connect_10.svg",
+      "size_kb": 289.6
+    },
+    {
+      "path": "images/modules/connect/connect_11.svg",
+      "size_kb": 8452.7
+    },
+    {
+      "path": "images/modules/connect/connect_12.svg",
+      "size_kb": 187.7
+    },
+    {
+      "path": "images/modules/connect/connect_13.svg",
+      "size_kb": 142.6
+    },
+    {
+      "path": "images/modules/connect/connect_14.svg",
+      "size_kb": 31.9
+    },
+    {
+      "path": "images/modules/connect/connect_2.svg",
+      "size_kb": 192.2
+    },
+    {
+      "path": "images/modules/connect/connect_3.gif",
+      "size_kb": 3313.4
+    },
+    {
+      "path": "images/modules/connect/connect_4.svg",
+      "size_kb": 494.2
+    },
+    {
+      "path": "images/modules/connect/connect_5.svg",
+      "size_kb": 129
+    },
+    {
+      "path": "images/modules/connect/connect_6.svg",
+      "size_kb": 91.9
+    },
+    {
+      "path": "images/modules/connect/connect_7.svg",
+      "size_kb": 41.5
+    },
+    {
+      "path": "images/modules/connect/connect_8.svg",
+      "size_kb": 34.1
+    },
+    {
+      "path": "images/modules/connect/connect_9.svg",
+      "size_kb": 32.3
+    },
+    {
+      "path": "images/modules/connect/connect_title image.svg",
+      "size_kb": 76.7
     },
     {
       "path": "images/modules/connect/fathers_face.svg",
       "size_kb": 13.9
     },
     {
-      "path": "images/modules/connect/follow_your_childs_lead.svg",
-      "size_kb": 3.1
-    },
-    {
-      "path": "images/modules/connect/happy_daughters_face.svg",
-      "size_kb": 17.7
-    },
-    {
-      "path": "images/modules/connect/intro_connect_child.svg",
-      "size_kb": 86.3
-    },
-    {
-      "path": "images/modules/connect/learn_1.svg",
-      "size_kb": 64.6
-    },
-    {
-      "path": "images/modules/connect/learn_10.svg",
-      "size_kb": 105.2
-    },
-    {
-      "path": "images/modules/connect/learn_11.svg",
-      "size_kb": 164.5
-    },
-    {
-      "path": "images/modules/connect/learn_2.svg",
-      "size_kb": 37.7
-    },
-    {
-      "path": "images/modules/connect/learn_3.svg",
-      "size_kb": 37
-    },
-    {
-      "path": "images/modules/connect/learn_4.svg",
-      "size_kb": 38.2
-    },
-    {
-      "path": "images/modules/connect/learn_5.svg",
-      "size_kb": 36.7
-    },
-    {
-      "path": "images/modules/connect/learn_7.svg",
-      "size_kb": 55.6
-    },
-    {
-      "path": "images/modules/connect/learn_8.svg",
-      "size_kb": 79.2
-    },
-    {
-      "path": "images/modules/connect/learn_9.svg",
-      "size_kb": 3926.5
-    },
-    {
-      "path": "images/modules/connect/minimise_distractions.svg",
-      "size_kb": 1.1
-    },
-    {
       "path": "images/modules/connect/mom_face.svg",
       "size_kb": 6.1
-    },
-    {
-      "path": "images/modules/connect/observe_and_listen.svg",
-      "size_kb": 2.5
-    },
-    {
-      "path": "images/modules/connect/review_1.svg",
-      "size_kb": 64.6
-    },
-    {
-      "path": "images/modules/connect/sad_daughters_ face.svg",
-      "size_kb": 22.8
     },
     {
       "path": "images/modules/connect/thumbs_down_brown.svg",
@@ -477,12 +473,92 @@
       "size_kb": 2
     },
     {
-      "path": "images/modules/connect/to_the_top.svg",
-      "size_kb": 3698.9
+      "path": "images/modules/create/create_1.svg",
+      "size_kb": 15.9
     },
     {
-      "path": "images/modules/connect/whats_next.svg",
-      "size_kb": 727.1
+      "path": "images/modules/create/create_10.svg",
+      "size_kb": 30.1
+    },
+    {
+      "path": "images/modules/create/create_11.svg",
+      "size_kb": 71.3
+    },
+    {
+      "path": "images/modules/create/create_12.svg",
+      "size_kb": 167
+    },
+    {
+      "path": "images/modules/create/create_13.svg",
+      "size_kb": 104.1
+    },
+    {
+      "path": "images/modules/create/create_14.svg",
+      "size_kb": 169.1
+    },
+    {
+      "path": "images/modules/create/create_15.svg",
+      "size_kb": 142.5
+    },
+    {
+      "path": "images/modules/create/create_16.svg",
+      "size_kb": 161.6
+    },
+    {
+      "path": "images/modules/create/create_17.svg",
+      "size_kb": 40.1
+    },
+    {
+      "path": "images/modules/create/create_18.svg",
+      "size_kb": 107.3
+    },
+    {
+      "path": "images/modules/create/create_19.svg",
+      "size_kb": 197
+    },
+    {
+      "path": "images/modules/create/create_2.svg",
+      "size_kb": 196
+    },
+    {
+      "path": "images/modules/create/create_20.svg",
+      "size_kb": 154.6
+    },
+    {
+      "path": "images/modules/create/create_21.svg",
+      "size_kb": 21.2
+    },
+    {
+      "path": "images/modules/create/create_3.gif",
+      "size_kb": 3826.9
+    },
+    {
+      "path": "images/modules/create/create_4.svg",
+      "size_kb": 184.6
+    },
+    {
+      "path": "images/modules/create/create_5.svg",
+      "size_kb": 56.8
+    },
+    {
+      "path": "images/modules/create/create_6.svg",
+      "size_kb": 79.1
+    },
+    {
+      "path": "images/modules/create/create_7.svg",
+      "size_kb": 56.8
+    },
+    {
+      "path": "images/modules/create/create_8.svg",
+      "size_kb": 86.3
+    },
+    {
+      "path": "images/modules/create/create_9.svg",
+      "size_kb": 169
+    },
+    {
+      "path": "images/modules/create/create_title image.svg",
+      "size_kb": 83.8
     },
     {
       "path": "images/modules/play/crying_emoji.svg",
@@ -4987,6 +5063,11 @@
       "missing": true
     },
     {
+      "path": "images/modules/connect/intro_connect.svg",
+      "count": 1,
+      "missing": true
+    },
+    {
       "path": "images/modules/wave.svg",
       "count": 6,
       "missing": true
@@ -5666,7 +5747,7 @@
     {
       "path": "images/facilitators_face.svg",
       "count": 1,
-      "size_kb": 16.4
+      "size_kb": 17.5
     },
     {
       "path": "images/flags/gb.svg",
@@ -5782,11 +5863,6 @@
       "path": "images/logos/plh_white.png",
       "count": 1,
       "size_kb": 12.8
-    },
-    {
-      "path": "images/modules/connect/intro_connect.svg",
-      "count": 1,
-      "size_kb": 115.6
     },
     {
       "path": "images/modules/play/angry_emoji.svg",
@@ -5923,7 +5999,7 @@
     {
       "type": "data_list",
       "subtype": null,
-      "total": 18
+      "total": 19
     },
     {
       "type": "data_list",
