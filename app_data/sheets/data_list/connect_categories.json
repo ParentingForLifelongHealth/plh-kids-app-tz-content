@@ -1,0 +1,64 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "connect_categories",
+  "data_list_name": "connect_categories",
+  "status": "released",
+  "rows": [
+    {
+      "id": "why_connect",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Introduction",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Introduction"
+        }
+      }
+    },
+    {
+      "id": "how_connect",
+      "icon_asset": "images/icons/picture_book.svg",
+      "title": "Learn",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Learn"
+        }
+      }
+    },
+    {
+      "id": "power_connect",
+      "icon_asset": "images/icons/thought_bubble.svg",
+      "title": "Review",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Review"
+        }
+      }
+    },
+    {
+      "id": "books_connect",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Home Activity",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home Activity"
+        }
+      }
+    },
+    {
+      "id": "practice"
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules.xlsx"
+}
