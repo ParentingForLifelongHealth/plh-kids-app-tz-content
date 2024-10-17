@@ -11,13 +11,13 @@ config.git = {
 config.google_drive.sheets_folder_ids = [
   "19wSspWYMbRc75een-kS0q0aq24--75u8", // library_app_menu
   "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", // library_field_values
-  "1n0-dEIszITo-Y1lHOJGB_lEGTjRiaATD", // kids global sheets
-  "1sObO2MblthBs6sL9a5G9g2YP6djBN4RN" // kids tz sheets
+  "1hDWtXkwEh9NGBy1EP0UFgwv-xCVD5zFZ", // kids global sheets
+  "1-HT_FFRF8axlyaE5_WDTZwJ8M_odi21f" // kids tz sheets
 ];
 
 config.google_drive.assets_folder_ids = [
-  "1-V_pkc1p3is30Rpsra7cuZHN79wv8R7J", // kids global assets, 
-  "1BVZb6DRrqRQy3R9cFUpAv3FByT25gg0y" // kids tz assets
+  "12M-e2YOWAAWeMM03fCpuAqTi0NoPXbIs", // kids global assets, 
+  "1BY6ghsHK-1Q6w4TxUZAH8_XBzIjj-lFS" // kids tz assets
   ];
 
 config.api.db_name = "plh_kids_tz";
