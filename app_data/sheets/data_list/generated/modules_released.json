@@ -4,6 +4,67 @@
   "flow_type": "data_list",
   "rows": [
     {
+      "id": "connect",
+      "number": "1",
+      "facilitator": "female",
+      "status": "released",
+      "image_asset": "images/modules/connect/intro_connect.svg",
+      "relax_id_list": [
+        "relax_10"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "moms_red_coat",
+        "to_the_top"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "Connect",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Connect"
+        }
+      },
+      "check_in_id": "check_in_9",
+      "relax_id": "relax_10"
+    },
+    {
+      "id": "create",
+      "number": "2",
+      "facilitator": "male",
+      "status": "released",
+      "image_asset": "images/modules/wave.svg",
+      "relax_id_list": [
+        "relax_13"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "book_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "Create",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Create"
+        }
+      },
+      "check_in_id": "check_in_6",
+      "relax_id": "relax_13"
+    },
+    {
       "id": "play",
       "number": "3",
       "facilitator": "female",

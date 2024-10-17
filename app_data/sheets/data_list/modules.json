@@ -32,6 +32,7 @@
     },
     {
       "id": "connect",
+      "status": "released",
       "number": "1",
       "facilitator": "female",
       "image_asset": "images/modules/connect/intro_connect.svg",
@@ -44,7 +45,6 @@
         "moms_red_coat",
         "to_the_top"
       ],
-      "status": "draft",
       "play_id_list": [
         "[]"
       ],
@@ -63,6 +63,7 @@
     },
     {
       "id": "create",
+      "status": "released",
       "number": "2",
       "facilitator": "male",
       "check_in_id": "check_in_6",
@@ -70,7 +71,6 @@
       "relax_id_list": [
         "relax_13"
       ],
-      "status": "draft",
       "image_asset": "images/modules/wave.svg",
       "play_id_list": [
         "[]"

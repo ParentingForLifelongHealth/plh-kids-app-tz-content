@@ -1,0 +1,106 @@
+{
+  "flow_name": "connect_category_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "title": "Relax",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relax"
+        }
+      },
+      "completed": false,
+      "task_child": "connect_relax_article_tasks"
+    },
+    {
+      "id": "check_in",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Check-in",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-in"
+        }
+      },
+      "completed": false,
+      "task_child": "connect_check_in_article_tasks"
+    },
+    {
+      "id": "why_connect",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Introduction",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Introduction"
+        }
+      },
+      "completed": false,
+      "task_child": "connect_why_connect_article_tasks"
+    },
+    {
+      "id": "how_connect",
+      "icon_asset": "images/icons/picture_book.svg",
+      "title": "Learn",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Learn"
+        }
+      },
+      "completed": false,
+      "task_child": "connect_how_connect_article_tasks"
+    },
+    {
+      "id": "power_connect",
+      "icon_asset": "images/icons/thought_bubble.svg",
+      "title": "Review",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Review"
+        }
+      },
+      "completed": false,
+      "task_child": "connect_power_connect_article_tasks"
+    },
+    {
+      "id": "books_connect",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Home Activity",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home Activity"
+        }
+      },
+      "completed": false,
+      "task_child": "connect_books_connect_article_tasks"
+    },
+    {
+      "id": "practice",
+      "completed": false,
+      "task_child": "connect_practice_article_tasks"
+    }
+  ]
+}
