@@ -153,6 +153,12 @@
       "data_list_name": "hp_check_in",
       "_xlsxPath": "modules/TZ hp_review.xlsx"
     },
+    "join_categories": {
+      "flow_type": "data_list",
+      "flow_name": "join_categories",
+      "data_list_name": "join_categories",
+      "_xlsxPath": "modules/TZ modules.xlsx"
+    },
     "privacy_policy": {
       "flow_type": "data_list",
       "flow_name": "privacy_policy",

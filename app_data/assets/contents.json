@@ -1885,81 +1885,153 @@
     "md5Checksum": "3fc7e58b4eb8331b513f65568b7ebe50",
     "size_kb": 11.5
   },
-  "images/books/lebo_and_gogo_s_tea_party/cover.jpg": {
+  "images/books/lebo_gogo_tea_party/cover.jpg": {
     "md5Checksum": "c54bf66be0772139a9389dee91b74509",
     "size_kb": 20.3
   },
-  "images/books/lebo_and_gogo_s_tea_party/lebo-and-gogos-tea-party_20221201_page1.jpg": {
+  "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page1.jpg": {
     "md5Checksum": "7beda8bd1120889136717c622d9cac3c",
     "size_kb": 6.7
   },
-  "images/books/lebo_and_gogo_s_tea_party/lebo-and-gogos-tea-party_20221201_page16.jpg": {
+  "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page16.jpg": {
     "md5Checksum": "42ca41fe250416af142648919dc7830e",
     "size_kb": 28.3
   },
-  "images/books/lebo_and_gogo_s_tea_party/lebo-and-gogos-tea-party_20221201_page17.jpg": {
+  "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page17.jpg": {
     "md5Checksum": "4c43eff5cc121c588baebd6864d82de4",
     "size_kb": 9.5
   },
-  "images/books/lebo_and_gogo_s_tea_party/lebo-and-gogos-tea-party_20221201_page2.jpg": {
+  "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page2.jpg": {
     "md5Checksum": "42ca41fe250416af142648919dc7830e",
     "size_kb": 28.3
   },
-  "images/books/lebo_and_gogo_s_tea_party/lebo-and-gogos-tea-party_20221201_page3.jpg": {
+  "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page3.jpg": {
     "md5Checksum": "1be2da50324676570471e0fd4a4a3958",
     "size_kb": 13.5
   },
-  "images/books/lebo_and_gogo_s_tea_party/page10.jpg": {
+  "images/books/lebo_gogo_tea_party/page10.jpg": {
     "md5Checksum": "56bcabceb620540fbae21d019e2b0411",
     "size_kb": 40.1
   },
-  "images/books/lebo_and_gogo_s_tea_party/page11.jpg": {
+  "images/books/lebo_gogo_tea_party/page11.jpg": {
     "md5Checksum": "4894ed05e824b821673e895ba2604515",
     "size_kb": 38.1
   },
-  "images/books/lebo_and_gogo_s_tea_party/page12.jpg": {
+  "images/books/lebo_gogo_tea_party/page12.jpg": {
     "md5Checksum": "770dd1a363e258909aa58e8eb10eaf55",
     "size_kb": 30.3
   },
-  "images/books/lebo_and_gogo_s_tea_party/page13.jpg": {
+  "images/books/lebo_gogo_tea_party/page13.jpg": {
     "md5Checksum": "4e0be736dcdb3cb999f05e4f57ff664a",
     "size_kb": 28.1
   },
-  "images/books/lebo_and_gogo_s_tea_party/page14.jpg": {
+  "images/books/lebo_gogo_tea_party/page14.jpg": {
     "md5Checksum": "a4c326aab18c19a2f82ac73fd55ef9fa",
     "size_kb": 18.9
   },
-  "images/books/lebo_and_gogo_s_tea_party/page15.jpg": {
+  "images/books/lebo_gogo_tea_party/page15.jpg": {
     "md5Checksum": "e13082883bb5aedcd6683978aa583a0f",
     "size_kb": 53.7
   },
-  "images/books/lebo_and_gogo_s_tea_party/page4.jpg": {
+  "images/books/lebo_gogo_tea_party/page4.jpg": {
     "md5Checksum": "85e4380e3e7afc36f4c9601980eb2aa5",
     "size_kb": 24.8
   },
-  "images/books/lebo_and_gogo_s_tea_party/page5.jpg": {
+  "images/books/lebo_gogo_tea_party/page5.jpg": {
     "md5Checksum": "48272766670f37d014a5dade8f316341",
     "size_kb": 19
   },
-  "images/books/lebo_and_gogo_s_tea_party/page6.jpg": {
+  "images/books/lebo_gogo_tea_party/page6.jpg": {
     "md5Checksum": "8796bd97eae1fb393ac77aac5b7822a5",
     "size_kb": 33.4
   },
-  "images/books/lebo_and_gogo_s_tea_party/page7.jpg": {
+  "images/books/lebo_gogo_tea_party/page7.jpg": {
     "md5Checksum": "bb04b6caeb0ade538113666122686217",
     "size_kb": 15.4
   },
-  "images/books/lebo_and_gogo_s_tea_party/page8.jpg": {
+  "images/books/lebo_gogo_tea_party/page8.jpg": {
     "md5Checksum": "4709f1df0304e510db6c3c11196a495f",
     "size_kb": 43.1
   },
-  "images/books/lebo_and_gogo_s_tea_party/page9.jpg": {
+  "images/books/lebo_gogo_tea_party/page9.jpg": {
     "md5Checksum": "f2b778e2807af057fe4a6eb7243a8ffb",
     "size_kb": 26.6
   },
   "images/books/lesedis_sandbox/cover.jpg": {
     "md5Checksum": "9e10a30bf6a758b1336a9ac7bd98b777",
     "size_kb": 34
+  },
+  "images/books/lesedis_sandbox/lefas_bath/cover.jpg": {
+    "md5Checksum": "13289c45b8539e73ce11beac74492f7e",
+    "size_kb": 93.6
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page1.jpg": {
+    "md5Checksum": "908eac129faf5fafdb7177a7a349debe",
+    "size_kb": 25.7
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page10.jpg": {
+    "md5Checksum": "e0e771b73510ddb6bf48ef9acd8e8491",
+    "size_kb": 59
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page11.jpg": {
+    "md5Checksum": "3c5bc1200b1609ae06ced7802c587783",
+    "size_kb": 61.7
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page12.jpg": {
+    "md5Checksum": "fd72e117e92839a8745b17fde045efd2",
+    "size_kb": 63.2
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page13.jpg": {
+    "md5Checksum": "22990e220e754f2eba988402c3ce8838",
+    "size_kb": 54.5
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page14.jpg": {
+    "md5Checksum": "8477ffb14adb16f6db56fed96041afb7",
+    "size_kb": 71.3
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page15.jpg": {
+    "md5Checksum": "898e2fc97181017ea9dbc28dd9afe9a3",
+    "size_kb": 65
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page16.jpg": {
+    "md5Checksum": "b83d28c3ddd24f434ddd5a791751be21",
+    "size_kb": 47.2
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page17.jpg": {
+    "md5Checksum": "5317bd7416f3e803bfa69e50c7abbc90",
+    "size_kb": 17.4
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page2.jpg": {
+    "md5Checksum": "b46810f260dcb1c17262a3610021e23d",
+    "size_kb": 47.2
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page3.jpg": {
+    "md5Checksum": "6e45d5b9f3e93e0072747f53219be986",
+    "size_kb": 35.7
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page4.jpg": {
+    "md5Checksum": "ec2a97ac07e49727aef8d505c2d05a3c",
+    "size_kb": 63.1
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page5.jpg": {
+    "md5Checksum": "0d378815a9b39fd50ed8f4b7e8b04336",
+    "size_kb": 61.3
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page6.jpg": {
+    "md5Checksum": "52246e954024b0d7afe38c5dde2b4061",
+    "size_kb": 58.3
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page7.jpg": {
+    "md5Checksum": "48452fc7d010cea7f2096aa2dc54f461",
+    "size_kb": 58.7
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page8.jpg": {
+    "md5Checksum": "5adb99ba02565169c4db9f452e431880",
+    "size_kb": 62.9
+  },
+  "images/books/lesedis_sandbox/lefas_bath/page9.jpg": {
+    "md5Checksum": "3843390e37ce385358379cfcc375445a",
+    "size_kb": 60.1
   },
   "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page1.jpg": {
     "md5Checksum": "17b022982a174e115430e7c829ce4ffb",
@@ -4240,6 +4312,18 @@
   "images/icons/in_progress_white.svg": {
     "md5Checksum": "f7bdd991a067c30d0cb140d5b77745bb",
     "size_kb": 1.1
+  },
+  "images/icons/join_icons/caring_yourchild.svg": {
+    "md5Checksum": "63369e95c95dcc9365fe1b091c82cd7d",
+    "size_kb": 4.4
+  },
+  "images/icons/join_icons/caring_yourself.svg": {
+    "md5Checksum": "3973d0d95da529bef9624b196dc05b4d",
+    "size_kb": 1.3
+  },
+  "images/icons/join_icons/welcome.svg": {
+    "md5Checksum": "f717b60f62c5bc6a82fd429d1809e97c",
+    "size_kb": 2.9
   },
   "images/icons/magnifying_glass.svg": {
     "md5Checksum": "4aa37ded543f172aa02486aaf484c4f9",
