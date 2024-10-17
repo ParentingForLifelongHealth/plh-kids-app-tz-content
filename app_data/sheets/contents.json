@@ -85,6 +85,36 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
+    "connect_category_tasks": {
+      "flow_name": "connect_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_check_in_article_tasks": {
+      "flow_name": "connect_check_in_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "connect_relax_article_tasks": {
+      "flow_name": "connect_relax_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_category_tasks": {
+      "flow_name": "create_category_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_check_in_article_tasks": {
+      "flow_name": "create_check_in_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "create_relax_article_tasks": {
+      "flow_name": "create_relax_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "modules_released": {
       "flow_name": "modules_released",
       "flow_subtype": "generated",
@@ -197,6 +227,12 @@
       "data_list_name": "organisation_group",
       "_xlsxPath": "deployment_data_tz.xlsx"
     },
+    "play": {
+      "flow_type": "data_list",
+      "flow_name": "play",
+      "data_list_name": "play",
+      "_xlsxPath": "modules/TZ activities.xlsx"
+    },
     "play_articles": {
       "flow_type": "data_list",
       "flow_name": "play_articles",
@@ -208,12 +244,6 @@
       "flow_name": "play_categories",
       "data_list_name": "play_categories",
       "_xlsxPath": "modules/TZ modules.xlsx"
-    },
-    "play_data": {
-      "flow_type": "data_list",
-      "flow_name": "play_data",
-      "data_list_name": "play",
-      "_xlsxPath": "modules/TZ activities.xlsx"
     },
     "prepare": {
       "flow_type": "data_list",
@@ -248,6 +278,30 @@
       "_output_flows": [
         {
           "flow_name": "modules_released",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_connect_categories": {
+      "flow_name": "prep_connect_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "connect_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_create_categories": {
+      "flow_name": "prep_create_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "create_category_tasks",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         }
@@ -320,6 +374,40 @@
       "_output_flows": [
         {
           "flow_name": "play_why_play_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_standard_connect_articles": {
+      "flow_name": "prep_standard_connect_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "connect_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "connect_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_standard_create_articles": {
+      "flow_name": "prep_standard_create_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "create_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "create_check_in_article_tasks",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         }
@@ -1145,6 +1233,16 @@
       "_xlsxPath": "modules/TZ modules data pipes.xlsx",
       "_output_flows": [
         {
+          "flow_name": "prep_connect_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_create_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
           "flow_name": "prep_play_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -1476,6 +1574,16 @@
       },
       "_xlsxPath": "modules/TZ modules data pipes.xlsx",
       "_output_flows": [
+        {
+          "flow_name": "prep_standard_connect_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_standard_create_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
         {
           "flow_name": "prep_standard_play_articles",
           "flow_subtype": "generated",

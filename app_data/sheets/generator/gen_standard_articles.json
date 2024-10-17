@@ -41,6 +41,16 @@
   "_xlsxPath": "modules/TZ modules data pipes.xlsx",
   "_output_flows": [
     {
+      "flow_name": "prep_standard_connect_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_standard_create_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
       "flow_name": "prep_standard_play_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"

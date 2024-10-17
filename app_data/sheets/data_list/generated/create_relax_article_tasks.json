@@ -1,0 +1,31 @@
+{
+  "flow_name": "create_relax_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_13",
+      "media_asset": "audio/relax/relax_13.mp3",
+      "media_type": "audio",
+      "title": "Your song",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your song"
+        },
+        "transcript": {
+          "eng": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!"
+        }
+      },
+      "transcript": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!",
+      "completed": false
+    }
+  ]
+}
