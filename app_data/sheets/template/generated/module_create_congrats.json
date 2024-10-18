@@ -1,0 +1,25 @@
+{
+  "flow_name": "module_create_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "images/modules/create/create_title_image.svg",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "image"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Well done for finishing the Create module!",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    }
+  ]
+}

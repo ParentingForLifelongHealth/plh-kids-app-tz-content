@@ -1,0 +1,90 @@
+{
+  "flow_name": "connect_power_connect_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "the_power_of_connection_1",
+      "category_id": "power_connect",
+      "media_type": "audio",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "When I first heard I had to spend one-on-one time with my child, it was hard for me. I’m always doing things for my child, why do I need to get involved if they are playing happily by themselves? I did not want to spoil my child so that he thinks we have to do everything together. \n\nBut after thinking about how good I feel when someone makes an effort to spend time with me and to listen to me, I thought that this might be really good for my child as well. So I decided to try it. \n\nI sat down next to my child and suggested that we draw a picture together. I asked her what she would like to draw. She suggested we draw our house and garden. I asked her what she would like me to draw, and she said I can draw the tree outside our house, while she draws the house. It was actually really relaxing to sit and do something together. We had a nice discussion about some of our favourite things about our home and what we enjoy doing together as a family."
+        }
+      },
+      "media_transcript": "When I first heard I had to spend one-on-one time with my child, it was hard for me. I’m always doing things for my child, why do I need to get involved if they are playing happily by themselves? I did not want to spoil my child so that he thinks we have to do everything together. \n\nBut after thinking about how good I feel when someone makes an effort to spend time with me and to listen to me, I thought that this might be really good for my child as well. So I decided to try it. \n\nI sat down next to my child and suggested that we draw a picture together. I asked her what she would like to draw. She suggested we draw our house and garden. I asked her what she would like me to draw, and she said I can draw the tree outside our house, while she draws the house. It was actually really relaxing to sit and do something together. We had a nice discussion about some of our favourite things about our home and what we enjoy doing together as a family.",
+      "_translations": {
+        "media_transcript": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
+      },
+      "text_1_facilitator": "Let’s hear from a caregiver:",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_connection_2",
+      "category_id": "power_connect",
+      "image_asset": "images/modules/connect/connect_7.svg",
+      "media_type": "audio",
+      "text_1": "Did you know: connecting with your child can help reduce negative behaviours.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Did you know: connecting with your child can help reduce negative behaviours."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "When our children are being difficult, it can be even harder to find the time and energy to connect with them. But this is often when children benefit from connection the most. \n\nChildren are more likely to act out when they feel unseen or unsupported. If you notice your child is being difficult or acting out, try to make some time to connect with them and spend one-on-one time together."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "When our children are being difficult, it can be even harder to find the time and energy to connect with them. But this is often when children benefit from connection the most. \n\nChildren are more likely to act out when they feel unseen or unsupported. If you notice your child is being difficult or acting out, try to make some time to connect with them and spend one-on-one time together.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_connection_3",
+      "category_id": "power_connect",
+      "image_asset": "images/modules/connect/connect_8.svg",
+      "media_type": "audio",
+      "text_1": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
+      "_translations": {
+        "text_1": {},
+        "text_2": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?"
+        },
+        "text_2": {
+          "eng": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Remember that what you experience, you can express. What you pour into your child’s cup is what will pour out. When your child experiences kindness and understanding, they learn how to do the same for other people. \n\nThis does not mean that you allow your child to do whatever they want without consequences. You can support your child to improve their behaviour while still showing them that your love for them does not change."
+        }
+      },
+      "text_2": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Remember that what you experience, you can express. What you pour into your child’s cup is what will pour out. When your child experiences kindness and understanding, they learn how to do the same for other people. \n\nThis does not mean that you allow your child to do whatever they want without consequences. You can support your child to improve their behaviour while still showing them that your love for them does not change.",
+      "completed": false
+    }
+  ]
+}

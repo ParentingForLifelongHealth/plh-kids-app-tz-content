@@ -8,7 +8,7 @@
       "number": "1",
       "facilitator": "female",
       "status": "released",
-      "image_asset": "images/modules/connect/intro_connect.svg",
+      "image_asset": "images/modules/connect/connect_title_image.svg",
       "relax_id_list": [
         "relax_10"
       ],
@@ -24,13 +24,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Connect"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Connect module!"
         }
       },
+      "congratulation_text": "Well done for finishing the Connect module!",
       "check_in_id": "check_in_9",
       "relax_id": "relax_10"
     },
@@ -39,7 +44,7 @@
       "number": "2",
       "facilitator": "male",
       "status": "released",
-      "image_asset": "images/modules/wave.svg",
+      "image_asset": "images/modules/create/create_title_image.svg",
       "relax_id_list": [
         "relax_13"
       ],
@@ -54,13 +59,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Create"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Create module!"
         }
       },
+      "congratulation_text": "Well done for finishing the Create module!",
       "check_in_id": "check_in_6",
       "relax_id": "relax_13"
     },
@@ -84,13 +94,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Play"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Play module!"
         }
       },
+      "congratulation_text": "Well done for finishing the Play module!",
       "check_in_id": "check_in_3",
       "relax_id": "relax_8"
     }
