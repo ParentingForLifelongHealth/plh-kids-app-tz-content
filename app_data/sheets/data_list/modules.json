@@ -9,7 +9,7 @@
       "number": "0",
       "facilitator": "male",
       "status": "draft",
-      "image_asset": "images/modules/wave.svg",
+      "image_asset": "images/modules/join/join_title_image.svg",
       "relax_id_list": [
         "[]"
       ],
@@ -22,20 +22,24 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Join",
       "_translations": {
-        "title": {}
+        "title": {},
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Join"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Join module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Join module!"
     },
     {
       "id": "connect",
       "status": "released",
       "number": "1",
       "facilitator": "female",
-      "image_asset": "images/modules/connect/intro_connect.svg",
       "check_in_id": "check_in_9",
       "relax_id": "relax_10",
       "relax_id_list": [
@@ -45,6 +49,7 @@
         "moms_red_coat",
         "to_the_top"
       ],
+      "image_asset": "images/modules/connect/connect_title_image.svg",
       "play_id_list": [
         "[]"
       ],
@@ -53,13 +58,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Connect"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Connect module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Connect module!"
     },
     {
       "id": "create",
@@ -71,7 +81,7 @@
       "relax_id_list": [
         "relax_13"
       ],
-      "image_asset": "images/modules/wave.svg",
+      "image_asset": "images/modules/create/create_title_image.svg",
       "play_id_list": [
         "[]"
       ],
@@ -83,20 +93,24 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Create"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Create module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Create module!"
     },
     {
       "id": "play",
       "status": "released",
       "number": "3",
       "facilitator": "female",
-      "image_asset": "images/modules/play/play_title_image.svg",
       "check_in_id": "check_in_3",
       "relax_id": "relax_8",
       "relax_id_list": [
@@ -105,6 +119,7 @@
       "book_id_list": [
         "lesedis_sandbox"
       ],
+      "image_asset": "images/modules/play/play_title_image.svg",
       "play_id_list": [
         "[]"
       ],
@@ -113,13 +128,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Play"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Play module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Play module!"
     },
     {
       "id": "talk",
@@ -133,7 +153,7 @@
         "relax_17"
       ],
       "status": "draft",
-      "image_asset": "images/modules/wave.svg",
+      "image_asset": "images/modules/talk/talk_title_image.svg",
       "play_id_list": [
         "[]"
       ],
@@ -145,13 +165,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Talk"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Talk module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Talk module!"
     },
     {
       "id": "build",
@@ -164,7 +189,7 @@
         "relax_12"
       ],
       "status": "draft",
-      "image_asset": "images/modules/wave.svg",
+      "image_asset": "images/modules/build/build_title_image.svg",
       "play_id_list": [
         "[]"
       ],
@@ -176,13 +201,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Build"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Build module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Build module!"
     },
     {
       "id": "explore",
@@ -196,7 +226,7 @@
         "relax_15"
       ],
       "status": "draft",
-      "image_asset": "images/modules/wave.svg",
+      "image_asset": "images/modules/explore/explore_title_image.svg",
       "play_id_list": [
         "[]"
       ],
@@ -208,13 +238,18 @@
       "_translations": {
         "title": {
           "tz_sw": true
-        }
+        },
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Explore"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Explore module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Explore module!"
     },
     {
       "id": "care",
@@ -222,7 +257,7 @@
       "facilitator": "female",
       "check_in_id": "check_in_8",
       "status": "draft",
-      "image_asset": "images/modules/wave.svg",
+      "image_asset": "images/modules/care/care_title_image.svg",
       "relax_id_list": [
         "[]"
       ],
@@ -235,13 +270,18 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Care",
       "_translations": {
-        "title": {}
+        "title": {},
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Care"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the Care module!"
         }
-      }
+      },
+      "congratulation_text": "Well done for finishing the Care module!"
     }
   ],
   "_xlsxPath": "modules/TZ modules.xlsx"

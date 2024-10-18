@@ -1,0 +1,25 @@
+{
+  "flow_name": "module_explore_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "images/modules/explore/explore_title_image.svg",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "image"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Well done for finishing the Explore module!",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    }
+  ]
+}

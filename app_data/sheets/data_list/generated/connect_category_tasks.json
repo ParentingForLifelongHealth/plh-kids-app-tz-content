@@ -40,13 +40,13 @@
     {
       "id": "why_connect",
       "icon_asset": "images/icons/magnifying_glass.svg",
-      "title": "Introduction",
+      "title": "Why CONNECT",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Introduction"
+          "eng": "Why CONNECT"
         }
       },
       "completed": false,
@@ -54,14 +54,14 @@
     },
     {
       "id": "how_connect",
-      "icon_asset": "images/icons/picture_book.svg",
-      "title": "Learn",
+      "icon_asset": "images/modules/play/icon_light_bulb.svg",
+      "title": "How to CONNECT",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Learn"
+          "eng": "How to CONNECT"
         }
       },
       "completed": false,
@@ -69,14 +69,14 @@
     },
     {
       "id": "power_connect",
-      "icon_asset": "images/icons/thought_bubble.svg",
-      "title": "Review",
+      "icon_asset": "images/modules/play/icon_star.svg",
+      "title": "The power of CONNECTION",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Review"
+          "eng": "The power of CONNECTION"
         }
       },
       "completed": false,
@@ -84,14 +84,14 @@
     },
     {
       "id": "books_connect",
-      "icon_asset": "images/icons/parent_child_heart.svg",
-      "title": "Home Activity",
+      "icon_asset": "images/modules/play/icon_book.svg",
+      "title": "Using books to CONNECT",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Home Activity"
+          "eng": "Using books to CONNECT"
         }
       },
       "completed": false,
@@ -99,6 +99,18 @@
     },
     {
       "id": "practice",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Ready to practice?",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ready to practice?"
+        }
+      },
       "completed": false,
       "task_child": "connect_practice_article_tasks"
     }
