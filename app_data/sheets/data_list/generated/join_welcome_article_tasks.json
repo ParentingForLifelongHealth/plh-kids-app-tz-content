@@ -1,0 +1,89 @@
+{
+  "flow_name": "join_welcome_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "welcome_1",
+      "category_id": "welcome",
+      "image_asset": "images/modules/join/join_1.svg",
+      "media_type": "audio",
+      "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
+      "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1lpXd8yo_AdER942tfRycEx1NiIFSoVLMHnYnzY-BekE",
+      "text_1": "Well done for starting your ParentApp journey, it’s good to have you here.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {},
+        "media_transcript": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Well done for starting your ParentApp journey, it’s good to have you here."
+        },
+        "media_title": {
+          "eng": "Listen to your welcome message from the ParentApp team:"
+        },
+        "media_transcript": {
+          "eng": "A very warm welcome to you - dear parent! We are thrilled that you have decided to join our community of caregivers. The fact that you are using ParentApp right now means that your children, their wellbeing and development is important to you. The aim of this app is to guide and support you in your important role as a parent. \n\nAs parents ourselves, we know how hard parenting can be - how tired, frustrated and overwhelmed we all sometimes feel. \n\nWe know that an app can’t solve all your problems, but we hope that ParentApp can make you feel slightly less alone, and make things feel just a little bit easier and more manageable."
+        },
+        "quiz_1_question": {
+          "eng": "Ready to get started?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes, let’s go!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! Let’s take a look at what you can expect from ParentApp."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Not yet – I have questions…"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We understand! Let’s first take a look at what you can expect from ParentApp."
+        }
+      },
+      "media_title": "Listen to your welcome message from the ParentApp team:",
+      "media_transcript": "A very warm welcome to you - dear parent! We are thrilled that you have decided to join our community of caregivers. The fact that you are using ParentApp right now means that your children, their wellbeing and development is important to you. The aim of this app is to guide and support you in your important role as a parent. \n\nAs parents ourselves, we know how hard parenting can be - how tired, frustrated and overwhelmed we all sometimes feel. \n\nWe know that an app can’t solve all your problems, but we hope that ParentApp can make you feel slightly less alone, and make things feel just a little bit easier and more manageable.",
+      "quiz_1_question": "Ready to get started?",
+      "quiz_1_option_1_text": "Yes, let’s go!",
+      "quiz_1_feedback_1": "Great! Let’s take a look at what you can expect from ParentApp.",
+      "quiz_1_option_2_text": "Not yet – I have questions…",
+      "quiz_1_feedback_2": "We understand! Let’s first take a look at what you can expect from ParentApp.",
+      "completed": false
+    },
+    {
+      "id": "welcome_2",
+      "category_id": "welcome",
+      "image_asset": "images/modules/join/join_2.svg",
+      "media_type": "audio",
+      "text_1": "Every ParentApp module will support you to:\n1. build a strong relationship with your child\n2. use books and stories to boost your child’s learning\n3. take care of yourself",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Every ParentApp module will support you to:\n1. build a strong relationship with your child\n2. use books and stories to boost your child’s learning\n3. take care of yourself"
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "One of the main goals of ParentApp for Kids is to help you build a strong and loving relationship with your child. Strong relationships with parents set children up for success in life. That’s why ParentApp offers tried and tested parenting tools to support you in your role as a parent.  \n\nWe know how important your child is to you, and that you want the very best for them. That’s why ParentApp has a digital library with books and guidance for how to use them to help your child learn. \n\nLastly: because we know how important YOU are to your children, ParentApp supports you to take care of yourself too."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "One of the main goals of ParentApp for Kids is to help you build a strong and loving relationship with your child. Strong relationships with parents set children up for success in life. That’s why ParentApp offers tried and tested parenting tools to support you in your role as a parent.  \n\nWe know how important your child is to you, and that you want the very best for them. That’s why ParentApp has a digital library with books and guidance for how to use them to help your child learn. \n\nLastly: because we know how important YOU are to your children, ParentApp supports you to take care of yourself too.",
+      "completed": false
+    }
+  ]
+}

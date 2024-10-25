@@ -6,281 +6,378 @@
   "rows": [
     {
       "id": "join",
-      "number": "0",
+      "status": "released",
+      "number": "1",
       "facilitator": "male",
-      "status": "draft",
-      "image_asset": "images/modules/join/join_title_image.svg",
+      "check_in_id": "check_in_1",
+      "relax_id": "relax_4",
       "relax_id_list": [
-        "[]"
+        "relax_3",
+        "relax_new",
+        "relax_4"
       ],
       "play_id_list": [
-        "[]"
+        "happy_things",
+        "gardening",
+        "something_special"
       ],
       "book_id_list": [
-        "[]"
+        "little_shoots",
+        "things_that_matter"
       ],
+      "image_asset": "images/modules/join/join_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "Join",
+      "title": "JOIN",
       "_translations": {
         "title": {},
+        "description_short": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Join"
+          "eng": "JOIN"
+        },
+        "description_short": {
+          "eng": "Join ParentApp for Kids"
+        },
+        "description": {
+          "eng": "Welcome to the ParentApp for Kids community!"
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the Join module!"
+          "eng": "Well done for finishing the JOIN module!"
         }
       },
-      "congratulation_text": "Well done for finishing the Join module!"
+      "description_short": "Join ParentApp for Kids",
+      "description": "Welcome to the ParentApp for Kids community!",
+      "congratulation_text": "Well done for finishing the JOIN module!"
     },
     {
       "id": "connect",
       "status": "released",
-      "number": "1",
+      "number": "2",
       "facilitator": "female",
-      "check_in_id": "check_in_9",
+      "check_in_id": "check_in_10",
       "relax_id": "relax_10",
       "relax_id_list": [
+        "relax_2",
+        "relax_22",
         "relax_10"
       ],
+      "play_id_list": [
+        "what_makes_us_special",
+        "pattern_play",
+        "cooking_together"
+      ],
       "book_id_list": [
-        "moms_red_coat",
-        "to_the_top"
+        "to_the_top",
+        "moms_red_coat"
       ],
       "image_asset": "images/modules/connect/connect_title_image.svg",
-      "play_id_list": [
-        "[]"
-      ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "Connect",
+      "title": "CONNECT",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "description_short": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Connect"
+          "eng": "CONNECT"
+        },
+        "description_short": {
+          "eng": "connecting with your child"
+        },
+        "description": {
+          "eng": "Making time to connect with your child helps build a strong and positive relationship."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the Connect module!"
+          "eng": "Well done for finishing the CONNECT module!"
         }
       },
-      "congratulation_text": "Well done for finishing the Connect module!"
+      "description_short": "connecting with your child",
+      "description": "Making time to connect with your child helps build a strong and positive relationship.",
+      "congratulation_text": "Well done for finishing the CONNECT module!"
     },
     {
       "id": "create",
       "status": "released",
-      "number": "2",
+      "number": "3",
       "facilitator": "male",
-      "check_in_id": "check_in_6",
-      "relax_id": "relax_13",
+      "check_in_id": "check_in_8",
+      "relax_id": "relax_14",
       "relax_id_list": [
-        "relax_13"
+        "relax_21",
+        "relax_5",
+        "relax_14"
       ],
-      "image_asset": "images/modules/create/create_title_image.svg",
       "play_id_list": [
-        "[]"
+        "household_helpers",
+        "music_and_dancing",
+        "walking_together"
       ],
       "book_id_list": [
-        "[]"
+        "babys_first_photo",
+        "shongololo_s_shoes"
       ],
+      "image_asset": "images/modules/create/create_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "Create",
+      "title": "CREATE",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "description_short": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Create"
+          "eng": "CREATE"
+        },
+        "description_short": {
+          "eng": "creating a positive environment"
+        },
+        "description": {
+          "eng": "Create a positive and supportive environment for your child to learn in."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the Create module!"
+          "eng": "Well done for finishing the CREATE module!"
         }
       },
-      "congratulation_text": "Well done for finishing the Create module!"
+      "description_short": "creating a positive environment",
+      "description": "Create a positive and supportive environment for your child to learn in.",
+      "congratulation_text": "Well done for finishing the CREATE module!"
     },
     {
       "id": "play",
       "status": "released",
-      "number": "3",
+      "number": "4",
       "facilitator": "female",
-      "check_in_id": "check_in_3",
-      "relax_id": "relax_8",
+      "check_in_id": "check_in_13",
+      "relax_id": "relax_20",
       "relax_id_list": [
-        "relax_8"
+        "relax_8",
+        "relax_13",
+        "relax_20"
+      ],
+      "play_id_list": [
+        "favourite_play",
+        "act_the_story",
+        "shadow_movie"
       ],
       "book_id_list": [
-        "lesedis_sandbox"
+        "lesedis_sandbox",
+        "lefas_bath"
       ],
       "image_asset": "images/modules/play/play_title_image.svg",
-      "play_id_list": [
-        "[]"
-      ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "Play",
+      "title": "PLAY",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "description_short": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Play"
+          "eng": "PLAY"
+        },
+        "description_short": {
+          "eng": "playful interactions"
+        },
+        "description": {
+          "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the Play module!"
+          "eng": "Well done for finishing the PLAY module!"
         }
       },
-      "congratulation_text": "Well done for finishing the Play module!"
+      "description_short": "playful interactions",
+      "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
+      "congratulation_text": "Well done for finishing the PLAY module!"
     },
     {
       "id": "talk",
-      "number": "4",
+      "number": "5",
       "facilitator": "male",
-      "check_in_id": "check_in_4",
-      "relax_id": "relax_6",
+      "check_in_id": "check_in_5",
+      "relax_id": "relax_17",
       "relax_id_list": [
         "relax_6",
-        "relax_14",
+        "relax_7",
         "relax_17"
+      ],
+      "play_id_list": [
+        "story",
+        "simon_says",
+        "when_i_grow_up"
+      ],
+      "book_id_list": [
+        "jasu_loves_football",
+        "no_go_sleep"
       ],
       "status": "draft",
       "image_asset": "images/modules/talk/talk_title_image.svg",
-      "play_id_list": [
-        "[]"
-      ],
-      "book_id_list": [
-        "[]"
-      ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "Talk",
+      "title": "TALK",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "description_short": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Talk"
+          "eng": "TALK"
+        },
+        "description_short": {
+          "eng": "talking with your child"
+        },
+        "description": {
+          "eng": "Words are powerful. What you say to your child and how you say it makes a difference."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the Talk module!"
+          "eng": "Well done for finishing the TALK module!"
         }
       },
-      "congratulation_text": "Well done for finishing the Talk module!"
+      "description_short": "talking with your child",
+      "description": "Words are powerful. What you say to your child and how you say it makes a difference.",
+      "congratulation_text": "Well done for finishing the TALK module!"
     },
     {
       "id": "build",
-      "number": "5",
+      "number": "6",
       "facilitator": "female",
-      "check_in_id": "check_in_7",
-      "relax_id": "relax_7",
+      "check_in_id": "check_in_11",
+      "relax_id": "relax_19",
       "relax_id_list": [
-        "relax_7",
-        "relax_12"
+        "relax_16",
+        "relax_24",
+        "relax_19"
+      ],
+      "play_id_list": [
+        "build_a_road",
+        "animal_strengths",
+        "treasure_hunt"
+      ],
+      "book_id_list": [
+        "angry_akku",
+        "a_very_important_tree"
       ],
       "status": "draft",
       "image_asset": "images/modules/build/build_title_image.svg",
-      "play_id_list": [
-        "[]"
-      ],
-      "book_id_list": [
-        "[]"
-      ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "Build",
+      "title": "BUILD",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "description_short": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Build"
+          "eng": "BUILD"
+        },
+        "description_short": {
+          "eng": "helping your child build skills"
+        },
+        "description": {
+          "eng": "Help your child build skills to deal with challenges."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the Build module!"
+          "eng": "Well done for finishing the BUILD module!"
         }
       },
-      "congratulation_text": "Well done for finishing the Build module!"
+      "description_short": "helping your child build skills",
+      "description": "Help your child build skills to deal with challenges.",
+      "congratulation_text": "Well done for finishing the BUILD module!"
     },
     {
       "id": "explore",
-      "number": "6",
+      "number": "7",
       "facilitator": "male",
       "check_in_id": "check_in_5",
-      "relax_id": "relax_9",
+      "relax_id": "relax_11",
       "relax_id_list": [
-        "relax_9",
-        "relax_11",
-        "relax_15"
+        "relax_12",
+        "relax_15",
+        "relax_11"
+      ],
+      "play_id_list": [
+        "search_with_senses",
+        "count_and_compare",
+        "mystery_box"
+      ],
+      "book_id_list": [
+        "zibu_and_zizo",
+        "yello_earth_brown_earth"
       ],
       "status": "draft",
       "image_asset": "images/modules/explore/explore_title_image.svg",
-      "play_id_list": [
-        "[]"
-      ],
-      "book_id_list": [
-        "[]"
-      ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "Explore",
+      "title": "EXPLORE",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "description_short": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Explore"
+          "eng": "EXPLORE"
+        },
+        "description_short": {
+          "eng": "exploring your environment"
+        },
+        "description": {
+          "eng": "Support your child to explore and learn from the world around them."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the Explore module!"
+          "eng": "Well done for finishing the EXPLORE module!"
         }
       },
-      "congratulation_text": "Well done for finishing the Explore module!"
+      "description_short": "exploring your environment",
+      "description": "Support your child to explore and learn from the world around them.",
+      "congratulation_text": "Well done for finishing the EXPLORE module!"
     },
     {
       "id": "care",
-      "number": "7",
+      "number": "8",
       "facilitator": "female",
-      "check_in_id": "check_in_8",
-      "status": "draft",
-      "image_asset": "images/modules/care/care_title_image.svg",
+      "check_in_id": "check_in_12",
       "relax_id_list": [
-        "[]"
-      ],
-      "play_id_list": [
-        "[]"
+        "relax_18",
+        "relax_1",
+        "relax_9"
       ],
       "book_id_list": [
+        "decision",
+        "my_inside_weather"
+      ],
+      "status": "draft",
+      "image_asset": "images/modules/care/care_title_image.svg",
+      "play_id_list": [
         "[]"
       ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "Care",
       "_translations": {
         "title": {},
+        "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Care"
         },
+        "description": {
+          "eng": "Caring for yourself and caring for others go hand-in-hand."
+        },
         "congratulation_text": {
           "eng": "Well done for finishing the Care module!"
         }
       },
+      "description": "Caring for yourself and caring for others go hand-in-hand.",
       "congratulation_text": "Well done for finishing the Care module!"
     }
   ],

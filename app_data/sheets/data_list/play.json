@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "happy_things",
+      "image_asset": "images/learning_thru_play/happy_things.svg",
       "group_id_list": [
         "chat_together"
       ],
@@ -53,6 +54,7 @@
     },
     {
       "id": "gardening",
+      "image_asset": "images/learning_thru_play/gardening.svg",
       "group_id_list": [
         "everyday_activities"
       ],
@@ -92,6 +94,7 @@
     },
     {
       "id": "something_special",
+      "image_asset": "images/learning_thru_play/something_special.svg",
       "group_id_list": [
         "everyday",
         "pretend_play"
@@ -132,6 +135,7 @@
     },
     {
       "id": "what_makes_us_special",
+      "image_asset": "images/learning_thru_play/makes_us_special.svg",
       "group_id_list": [
         "chat_together"
       ],
@@ -171,6 +175,7 @@
     },
     {
       "id": "pattern_play",
+      "image_asset": "images/learning_thru_play/pattern_play_1.svg",
       "group_id_list": [
         "learning_at_home"
       ],
@@ -217,6 +222,7 @@
     },
     {
       "id": "cooking_together",
+      "image_asset": "images/learning_thru_play/cooking_together.svg",
       "group_id_list": [
         "everyday_activities"
       ],
@@ -256,6 +262,7 @@
     },
     {
       "id": "household_helpers",
+      "image_asset": "images/learning_thru_play/household_helpers.svg",
       "group_id_list": [
         "everyday_activities"
       ],
@@ -295,6 +302,7 @@
     },
     {
       "id": "music_and_dancing",
+      "image_asset": "images/learning_thru_play/music_dancing .svg",
       "group_id_list": [
         "everyday_activities",
         "move_your_body"
@@ -335,6 +343,7 @@
     },
     {
       "id": "walking_together",
+      "image_asset": "images/learning_thru_play/walking_together.svg",
       "group_id_list": [
         "everyday_activities",
         "move_your_body"
