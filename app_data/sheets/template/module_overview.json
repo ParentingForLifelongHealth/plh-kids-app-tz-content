@@ -232,7 +232,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items_24.card_@item.id.module_id",
+              "_nested_name": "items_12.card_@item.id.module_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -244,7 +244,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items_24.card_@item.id.module_id",
+                    "fullExpression": "items_12.card_@item.id.module_id",
                     "matchedExpression": "@item.id.module_id",
                     "type": "item",
                     "fieldName": "id"
@@ -268,7 +268,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "items_24.card_@item.id.category_id",
+              "_nested_name": "items_12.card_@item.id.category_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -280,7 +280,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items_24.card_@item.id.category_id",
+                    "fullExpression": "items_12.card_@item.id.category_id",
                     "matchedExpression": "@item.id.category_id",
                     "type": "item",
                     "fieldName": "id"
@@ -297,7 +297,7 @@
               }
             }
           ],
-          "_nested_name": "items_24.card_@item.id",
+          "_nested_name": "items_12.card_@item.id",
           "_dynamicFields": {
             "name": [
               {
@@ -309,7 +309,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "items_24.card_@item.id",
+                "fullExpression": "items_12.card_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -324,8 +324,8 @@
           }
         }
       ],
-      "name": "items_24",
-      "_nested_name": "items_24",
+      "name": "items_12",
+      "_nested_name": "items_12",
       "_dynamicFields": {
         "value": [
           {

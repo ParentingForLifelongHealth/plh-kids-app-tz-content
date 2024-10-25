@@ -7,6 +7,7 @@
       "id": "the_power_of_connection_1",
       "category_id": "power_connect",
       "media_type": "audio",
+      "media_asset": "audio/modules/connect/connect_04.m4a",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s hear from a caregiver:"
@@ -30,6 +31,7 @@
       "category_id": "power_connect",
       "image_asset": "images/modules/connect/connect_7.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/connect/connect_05.aac",
       "text_1": "Did you know: connecting with your child can help reduce negative behaviours.",
       "_translations": {
         "text_1": {},
@@ -58,6 +60,7 @@
       "category_id": "power_connect",
       "image_asset": "images/modules/connect/connect_8.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/connect/connect_06.aac",
       "text_1": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
       "_translations": {
         "text_1": {},

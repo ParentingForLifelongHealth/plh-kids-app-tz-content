@@ -1,0 +1,23 @@
+{
+  "flow_name": "prep_split_caring_you_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"caring_you\""
+      ],
+      "input_source": "join_article_tasks",
+      "output_target": "join_caring_you_article_tasks",
+      "module_id": "join"
+    }
+  ],
+  "_output_flows": [
+    {
+      "flow_name": "join_caring_you_article_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}
