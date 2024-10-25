@@ -1,201 +1,19 @@
 {
   "android/icon-background.png": {
-    "md5Checksum": "8711f369969c25216e0013c4010e0907",
-    "size_kb": 21.4
+    "md5Checksum": "eb62fccb250452852f36a12e0c54c7ac",
+    "size_kb": 3.9
   },
   "android/icon-foreground.png": {
-    "md5Checksum": "8fa0416dee7554964c6c543c87c800c3",
-    "size_kb": 58.3
+    "md5Checksum": "cd185cfc6de49ffa3e6c28a27cbe9d89",
+    "size_kb": 73.7
   },
   "android/icon.png": {
-    "md5Checksum": "b43a9fbad47678f0da72a710e3cebbde",
-    "size_kb": 70.3
+    "md5Checksum": "ed94fc23546bf4dccdfffb6adb0fc5f6",
+    "size_kb": 80.4
   },
   "android/splash.png": {
-    "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
-    "size_kb": 239
-  },
-  "audio/modules/connect/connect_01.aac": {
-    "md5Checksum": "fd9ee560d362eca3cb26ac8fac6dd4b7",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_01.aac",
-          "md5Checksum": "f17d78fd58fc5c43180f8ee387e284d8",
-          "size_kb": 617.2
-        }
-      }
-    },
-    "size_kb": 518.4
-  },
-  "audio/modules/connect/connect_02.m4a": {
-    "md5Checksum": "5437a76223d4dde3a7cc858aa3db7810",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_02.m4a",
-          "md5Checksum": "2a3c24ebea13f4284bdcd41b396c39ea",
-          "size_kb": 217.3
-        }
-      }
-    },
-    "size_kb": 234.1
-  },
-  "audio/modules/connect/connect_03.aac": {
-    "md5Checksum": "12c994c547a4b3ce0a01f5b1d3671ed6",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_03.aac",
-          "md5Checksum": "950bedf72533b50f068122753fb3f7d2",
-          "size_kb": 456.2
-        }
-      }
-    },
-    "size_kb": 399
-  },
-  "audio/modules/connect/connect_04.m4a": {
-    "md5Checksum": "5e6485941b83c37c13e233f668c04f1d",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_04.m4a",
-          "md5Checksum": "4aa9989b591df8c06cfab97ce100f70f",
-          "size_kb": 537.8
-        }
-      }
-    },
-    "size_kb": 573
-  },
-  "audio/modules/connect/connect_05.aac": {
-    "md5Checksum": "f25a10c8adacfc32f929d510b48ce0bb",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_05.aac",
-          "md5Checksum": "3da55b01c65c5fae6ef5547e691d9893",
-          "size_kb": 490.5
-        }
-      }
-    },
-    "size_kb": 431
-  },
-  "audio/modules/connect/connect_06.aac": {
-    "md5Checksum": "3d80d3da3c8186cf6ee4bb25bcb8a6ad",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_06.aac",
-          "md5Checksum": "e37dbc52748e56170f5a3d6c14e84287",
-          "size_kb": 544.3
-        }
-      }
-    },
-    "size_kb": 479.6
-  },
-  "audio/modules/connect/connect_07.m4a": {
-    "md5Checksum": "30f130de93b99933b2a6cbb65ddb72b5",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_07.m4a",
-          "md5Checksum": "dd427af04d5a159f40a16ecbc84c6d4b",
-          "size_kb": 323.1
-        }
-      }
-    },
-    "size_kb": 296.5
-  },
-  "audio/modules/connect/connect_08.m4a": {
-    "md5Checksum": "9f5036dcc7b56295f6ad9eb3655e8f63",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_08.m4a",
-          "md5Checksum": "b50a1523d2d532614b2a8875a6d7a9fb",
-          "size_kb": 297
-        }
-      }
-    },
-    "size_kb": 266.4
-  },
-  "audio/modules/connect/connect_09.m4a": {
-    "md5Checksum": "b5582c4b593a0a67536e9e6fbb933f04",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_09.m4a",
-          "md5Checksum": "8469b75ccc0a320c59b1d24fc0a10420",
-          "size_kb": 332.4
-        }
-      }
-    },
-    "size_kb": 335.3
-  },
-  "audio/modules/play/play_01.m4a": {
-    "md5Checksum": "168482036152d0bb4bf515957b85c4f9",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/play/tz_sw/play_01.m4a",
-          "md5Checksum": "0d69b4d22e8ec5ede13c78c7737702b5",
-          "size_kb": 206.7
-        }
-      }
-    },
-    "size_kb": 207.2
-  },
-  "audio/modules/play/play_02.m4a": {
-    "md5Checksum": "03113efff2b956f453eb573ee68faf13",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/play/tz_sw/play_02.m4a",
-          "md5Checksum": "90610671d46300991d2eee552f30577c",
-          "size_kb": 295
-        }
-      }
-    },
-    "size_kb": 266.9
-  },
-  "audio/modules/play/play_03.m4a": {
-    "md5Checksum": "4e528e7a725eeba8ac7161a358c3e838",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/play/tz_sw/play_03.m4a",
-          "md5Checksum": "37a2336598f27eadf8156c59464e3b09",
-          "size_kb": 362.9
-        }
-      }
-    },
-    "size_kb": 347.7
-  },
-  "audio/modules/play/play_04.m4a": {
-    "md5Checksum": "6c8bf51028944ab24802802becd6f5f3",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/play/tz_sw/play_04.m4a",
-          "md5Checksum": "2bb132a4c8dab06b3b2fe9a417eec10d",
-          "size_kb": 435.3
-        }
-      }
-    },
-    "size_kb": 301.9
-  },
-  "audio/modules/play/play_05.m4a": {
-    "md5Checksum": "c7f75cdd693e7c99f36def731d1fe355",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/play/tz_sw/play_05.m4a",
-          "md5Checksum": "825c75732dcca9b0e53fda0d287f2db8",
-          "size_kb": 280.1
-        }
-      }
-    },
-    "size_kb": 253.9
+    "md5Checksum": "1df0962827af87893ee9a05fbf2fc479",
+    "size_kb": 156.5
   },
   "audio/relax/relax_1.mp3": {
     "md5Checksum": "0f92ea6022f35eec1d3f6c891ffdadb1",
@@ -924,6 +742,10 @@
   "images/books/babys_first_photo/babys-first-family-photo_20190506_page3.jpg": {
     "md5Checksum": "b095e079e0f99bb84b577d6c2c979f3b",
     "size_kb": 23.7
+  },
+  "images/books/babys_first_photo/babys_first_photo_round_cover.png": {
+    "md5Checksum": "fb039506674bb6e946ac9016a365f517",
+    "size_kb": 153.3
   },
   "images/books/babys_first_photo/cover.jpg": {
     "md5Checksum": "b68240962b0e49819ddbce5bb227d415",
@@ -1957,81 +1779,85 @@
     "md5Checksum": "f2b778e2807af057fe4a6eb7243a8ffb",
     "size_kb": 26.6
   },
-  "images/books/lesedis_sandbox/cover.jpg": {
-    "md5Checksum": "9e10a30bf6a758b1336a9ac7bd98b777",
-    "size_kb": 34
-  },
-  "images/books/lesedis_sandbox/lefas_bath/cover.jpg": {
+  "images/books/lefas_bath/cover.jpg": {
     "md5Checksum": "13289c45b8539e73ce11beac74492f7e",
     "size_kb": 93.6
   },
-  "images/books/lesedis_sandbox/lefas_bath/page1.jpg": {
+  "images/books/lefas_bath/lefas_bath_round_cover.png": {
+    "md5Checksum": "b0b12b43b13dfc2e6c842b88aef3020d",
+    "size_kb": 99.6
+  },
+  "images/books/lefas_bath/page1.jpg": {
     "md5Checksum": "908eac129faf5fafdb7177a7a349debe",
     "size_kb": 25.7
   },
-  "images/books/lesedis_sandbox/lefas_bath/page10.jpg": {
+  "images/books/lefas_bath/page10.jpg": {
     "md5Checksum": "e0e771b73510ddb6bf48ef9acd8e8491",
     "size_kb": 59
   },
-  "images/books/lesedis_sandbox/lefas_bath/page11.jpg": {
+  "images/books/lefas_bath/page11.jpg": {
     "md5Checksum": "3c5bc1200b1609ae06ced7802c587783",
     "size_kb": 61.7
   },
-  "images/books/lesedis_sandbox/lefas_bath/page12.jpg": {
+  "images/books/lefas_bath/page12.jpg": {
     "md5Checksum": "fd72e117e92839a8745b17fde045efd2",
     "size_kb": 63.2
   },
-  "images/books/lesedis_sandbox/lefas_bath/page13.jpg": {
+  "images/books/lefas_bath/page13.jpg": {
     "md5Checksum": "22990e220e754f2eba988402c3ce8838",
     "size_kb": 54.5
   },
-  "images/books/lesedis_sandbox/lefas_bath/page14.jpg": {
+  "images/books/lefas_bath/page14.jpg": {
     "md5Checksum": "8477ffb14adb16f6db56fed96041afb7",
     "size_kb": 71.3
   },
-  "images/books/lesedis_sandbox/lefas_bath/page15.jpg": {
+  "images/books/lefas_bath/page15.jpg": {
     "md5Checksum": "898e2fc97181017ea9dbc28dd9afe9a3",
     "size_kb": 65
   },
-  "images/books/lesedis_sandbox/lefas_bath/page16.jpg": {
+  "images/books/lefas_bath/page16.jpg": {
     "md5Checksum": "b83d28c3ddd24f434ddd5a791751be21",
     "size_kb": 47.2
   },
-  "images/books/lesedis_sandbox/lefas_bath/page17.jpg": {
+  "images/books/lefas_bath/page17.jpg": {
     "md5Checksum": "5317bd7416f3e803bfa69e50c7abbc90",
     "size_kb": 17.4
   },
-  "images/books/lesedis_sandbox/lefas_bath/page2.jpg": {
+  "images/books/lefas_bath/page2.jpg": {
     "md5Checksum": "b46810f260dcb1c17262a3610021e23d",
     "size_kb": 47.2
   },
-  "images/books/lesedis_sandbox/lefas_bath/page3.jpg": {
+  "images/books/lefas_bath/page3.jpg": {
     "md5Checksum": "6e45d5b9f3e93e0072747f53219be986",
     "size_kb": 35.7
   },
-  "images/books/lesedis_sandbox/lefas_bath/page4.jpg": {
+  "images/books/lefas_bath/page4.jpg": {
     "md5Checksum": "ec2a97ac07e49727aef8d505c2d05a3c",
     "size_kb": 63.1
   },
-  "images/books/lesedis_sandbox/lefas_bath/page5.jpg": {
+  "images/books/lefas_bath/page5.jpg": {
     "md5Checksum": "0d378815a9b39fd50ed8f4b7e8b04336",
     "size_kb": 61.3
   },
-  "images/books/lesedis_sandbox/lefas_bath/page6.jpg": {
+  "images/books/lefas_bath/page6.jpg": {
     "md5Checksum": "52246e954024b0d7afe38c5dde2b4061",
     "size_kb": 58.3
   },
-  "images/books/lesedis_sandbox/lefas_bath/page7.jpg": {
+  "images/books/lefas_bath/page7.jpg": {
     "md5Checksum": "48452fc7d010cea7f2096aa2dc54f461",
     "size_kb": 58.7
   },
-  "images/books/lesedis_sandbox/lefas_bath/page8.jpg": {
+  "images/books/lefas_bath/page8.jpg": {
     "md5Checksum": "5adb99ba02565169c4db9f452e431880",
     "size_kb": 62.9
   },
-  "images/books/lesedis_sandbox/lefas_bath/page9.jpg": {
+  "images/books/lefas_bath/page9.jpg": {
     "md5Checksum": "3843390e37ce385358379cfcc375445a",
     "size_kb": 60.1
+  },
+  "images/books/lesedis_sandbox/cover.jpg": {
+    "md5Checksum": "9e10a30bf6a758b1336a9ac7bd98b777",
+    "size_kb": 34
   },
   "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page1.jpg": {
     "md5Checksum": "17b022982a174e115430e7c829ce4ffb",
@@ -2052,6 +1878,10 @@
   "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page3.jpg": {
     "md5Checksum": "1ecaf7efffb4f6dff730d62faa0d98a2",
     "size_kb": 22.9
+  },
+  "images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png": {
+    "md5Checksum": "603a8b6c7a4488def9fe0602b1be30aa",
+    "size_kb": 139.2
   },
   "images/books/lesedis_sandbox/page10.jpg": {
     "md5Checksum": "7d23b9869a39b97d8429fc1b75ace423",
@@ -2196,6 +2026,10 @@
   "images/books/little_shoots/little-shoots_20210525_page3.jpg": {
     "md5Checksum": "937d0c5816082ceb68b509a01aa4e5f8",
     "size_kb": 31.2
+  },
+  "images/books/little_shoots/little_shoots_round_cover.png": {
+    "md5Checksum": "5c269b4758c7927d4777c61fbf1953a8",
+    "size_kb": 112.9
   },
   "images/books/little_shoots/page10.jpg": {
     "md5Checksum": "53f7d463847c81a0de98edf671ab2d7c",
@@ -2532,6 +2366,10 @@
   "images/books/moms_red_coat/moms-red-coat_20221201_page9.jpg": {
     "md5Checksum": "a2e800ef211880936fd5b61da84b60f8",
     "size_kb": 18.5
+  },
+  "images/books/moms_red_coat/moms_red_coat_round_cover.png": {
+    "md5Checksum": "ed19d022446baf78659caa487a4c5234",
+    "size_kb": 65.8
   },
   "images/books/my_inside_weather/cover.jpg": {
     "md5Checksum": "f1d5c257feb2a424932824eb49acc14e",
@@ -3041,6 +2879,10 @@
     "md5Checksum": "f696947d28d9c98d4932a37af8e524a3",
     "size_kb": 29
   },
+  "images/books/shongololo_s_shoes/shongololo_s_shoes_round_cover.png": {
+    "md5Checksum": "b42c62431f6723f781be63dd37c68b7f",
+    "size_kb": 60.4
+  },
   "images/books/tejus_shadow/cover.jpg": {
     "md5Checksum": "8b03126d3dd665632e513e11dda7c411",
     "size_kb": 29.8
@@ -3449,6 +3291,10 @@
     "md5Checksum": "8bf7e13be0f5aa5b2cda5be7f06447a2",
     "size_kb": 28.1
   },
+  "images/books/the_things_that_really_matter/the_things_that_really_matter_round_cover.png": {
+    "md5Checksum": "3c79cbbd11ef99034d1d2fdc7f0b89a8",
+    "size_kb": 114.7
+  },
   "images/books/tlotlegos_tea_party/cover.jpg": {
     "md5Checksum": "cb894531b17c5fb1a3a7626cbfb44ebc",
     "size_kb": 23.2
@@ -3592,6 +3438,10 @@
   "images/books/to_the_top/to-the-top_interior_20211005_page3.jpg": {
     "md5Checksum": "9a6665ec5ad72418807f05fdaa34147f",
     "size_kb": 7.8
+  },
+  "images/books/to_the_top/to_the_top_round_cover.png": {
+    "md5Checksum": "6fa5e6decdfec80b87e824b8dec7b8b6",
+    "size_kb": 95.7
   },
   "images/books/whats_at_the_park/cover.jpg": {
     "md5Checksum": "efd61eeed61282915363d1fe9b806c0c",
@@ -4393,6 +4243,50 @@
     "md5Checksum": "81136e04436759812dc3f6e90c61de11",
     "size_kb": 0.3
   },
+  "images/learning_through_play/cooking_together.svg": {
+    "md5Checksum": "87f3d8f5d91d3650c5603d7084837750",
+    "size_kb": 95.8
+  },
+  "images/learning_through_play/gardening.svg": {
+    "md5Checksum": "a2971f2dd0a5e9d779bf8976bb664cf0",
+    "size_kb": 125
+  },
+  "images/learning_through_play/happy_things.svg": {
+    "md5Checksum": "5e3948b910f452522e7b04f7f9ec32ee",
+    "size_kb": 172.3
+  },
+  "images/learning_through_play/household_helpers.svg": {
+    "md5Checksum": "31c8154f44373a194fce1d312d67c679",
+    "size_kb": 334.6
+  },
+  "images/learning_through_play/makes_us_special.svg": {
+    "md5Checksum": "003da17c503fce9341230075b49cbb60",
+    "size_kb": 149.5
+  },
+  "images/learning_through_play/music_dancing.svg": {
+    "md5Checksum": "41401d38dfb97fca39cf88a89ce4bcfb",
+    "size_kb": 117.2
+  },
+  "images/learning_through_play/pattern_play_1.svg": {
+    "md5Checksum": "abb1362a8bf682d9ff3026a5c8873b16",
+    "size_kb": 102.2
+  },
+  "images/learning_through_play/pattern_play_2.svg": {
+    "md5Checksum": "7f77423dc839d02ef368792150e15712",
+    "size_kb": 84.3
+  },
+  "images/learning_through_play/pattern_play_3.svg": {
+    "md5Checksum": "11037cea554c735f0313f926bf65a5cf",
+    "size_kb": 70.8
+  },
+  "images/learning_through_play/something_special.svg": {
+    "md5Checksum": "44e5e8a4fa433570530396f2a97569ad",
+    "size_kb": 192.1
+  },
+  "images/learning_through_play/walking_together.svg": {
+    "md5Checksum": "a5a22a42aa2138e6e171281e9169d725",
+    "size_kb": 239.5
+  },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
     "size_kb": 84.6
@@ -4589,6 +4483,98 @@
     "md5Checksum": "8a89c287e133ffcbb5d5f2dbad8b48a3",
     "size_kb": 83.8
   },
+  "images/modules/join/join_1.svg": {
+    "md5Checksum": "a7bd1ef718c77b2868f82dccb18e7d7b",
+    "size_kb": 41.1
+  },
+  "images/modules/join/join_10.gif": {
+    "md5Checksum": "66df8c7ed6a5ce223b64569a61e3085e",
+    "size_kb": 12992.1
+  },
+  "images/modules/join/join_11.svg": {
+    "md5Checksum": "231ecd5612907af26af6baee8d636af9",
+    "size_kb": 27.4
+  },
+  "images/modules/join/join_12.svg": {
+    "md5Checksum": "e9bb82133e39340087966f98f57234d6",
+    "size_kb": 486.4
+  },
+  "images/modules/join/join_13.svg": {
+    "md5Checksum": "b84159da80fbceda1580d440fa689645",
+    "size_kb": 69.3
+  },
+  "images/modules/join/join_14.svg": {
+    "md5Checksum": "c67a138e270b8d84ada322a9f67eba98",
+    "size_kb": 366.6
+  },
+  "images/modules/join/join_15.svg": {
+    "md5Checksum": "38b11f94891feea448743e009d73a94a",
+    "size_kb": 50.3
+  },
+  "images/modules/join/join_16.svg": {
+    "md5Checksum": "ed388817dde73c1e70a178a75f4b87db",
+    "size_kb": 120
+  },
+  "images/modules/join/join_17.svg": {
+    "md5Checksum": "e9495fe6d2deef75acee3f936524bce6",
+    "size_kb": 8458.6
+  },
+  "images/modules/join/join_18.svg": {
+    "md5Checksum": "d335d9649800884e2689b585569218e9",
+    "size_kb": 75.9
+  },
+  "images/modules/join/join_19.svg": {
+    "md5Checksum": "4fe79d9a1fed426a68da7b8864de407a",
+    "size_kb": 213.1
+  },
+  "images/modules/join/join_2.svg": {
+    "md5Checksum": "d4f085eea57036aa166f6140574e80ee",
+    "size_kb": 194.8
+  },
+  "images/modules/join/join_20.svg": {
+    "md5Checksum": "1526b8cc50201ba811c7946fa9187293",
+    "size_kb": 80.8
+  },
+  "images/modules/join/join_21.svg": {
+    "md5Checksum": "b43e2bd94721a38298054047ce0f986c",
+    "size_kb": 424.1
+  },
+  "images/modules/join/join_22.svg": {
+    "md5Checksum": "32779d92c6e9f43358a6f4834a2e09bf",
+    "size_kb": 31.9
+  },
+  "images/modules/join/join_3.svg": {
+    "md5Checksum": "f46c8634151e07f7bbb36775a2f787cd",
+    "size_kb": 330.5
+  },
+  "images/modules/join/join_4.svg": {
+    "md5Checksum": "d5020d12ba0831ae53c15a1c0a41a4c0",
+    "size_kb": 42.3
+  },
+  "images/modules/join/join_5.svg": {
+    "md5Checksum": "665e6005cdb1f9cc882ea77bc6004ecf",
+    "size_kb": 13.2
+  },
+  "images/modules/join/join_6.svg": {
+    "md5Checksum": "0f7e6a55a7d7e34cba21b3cb50475edb",
+    "size_kb": 37.2
+  },
+  "images/modules/join/join_7.svg": {
+    "md5Checksum": "03f894b7ceecbde7b12ad5f8d55317b9",
+    "size_kb": 351.4
+  },
+  "images/modules/join/join_8.svg": {
+    "md5Checksum": "674d224b9afc8ad2210176283068a460",
+    "size_kb": 41.1
+  },
+  "images/modules/join/join_9.svg": {
+    "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
+    "size_kb": 286.7
+  },
+  "images/modules/join/join_title_image.svg": {
+    "md5Checksum": "a7bd1ef718c77b2868f82dccb18e7d7b",
+    "size_kb": 41.1
+  },
   "images/modules/play/angry_emoji.svg": {
     "md5Checksum": "8a09518d837d6cc353005dbacc3124ef",
     "size_kb": 1.4
@@ -4727,28 +4713,10 @@
   },
   "video/modules/connect/join_child.mp4": {
     "md5Checksum": "9c53e2a61bb80acda41b3734f8246df8",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "video/modules/connect/tz_sw/join_child.mp4",
-          "md5Checksum": "609d2e4eb3e71c2d0d6b75ceb63c83d7",
-          "size_kb": 11833.8
-        }
-      }
-    },
     "size_kb": 10726.2
   },
   "video/modules/connect/shared_reading.mp4": {
     "md5Checksum": "238541c3566e61ebf6f88079f9beb4d5",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "video/modules/connect/tz_sw/shared_reading.mp4",
-          "md5Checksum": "fff40d28dd670f22d2dfacd0328cc15b",
-          "size_kb": 36652.8
-        }
-      }
-    },
     "size_kb": 36376.3
   }
 }

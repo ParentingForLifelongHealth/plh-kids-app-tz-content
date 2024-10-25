@@ -38,7 +38,7 @@
     },
     {
       "type": "image",
-      "count": 1
+      "count": 9
     },
     {
       "type": "items",
@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 406
+      "count": 422
     },
     {
       "type": "task_card",
@@ -70,11 +70,11 @@
     },
     {
       "type": "template",
-      "count": 300
+      "count": 442
     },
     {
       "type": "text",
-      "count": 62
+      "count": 70
     },
     {
       "type": "text_area",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 264
+      "count": 406
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 262
+      "count": 404
     },
     {
       "type": "feedback",
@@ -144,7 +144,7 @@
     },
     {
       "type": "pop_up",
-      "count": 4
+      "count": 12
     },
     {
       "type": "set_field",
@@ -162,67 +162,31 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "54419 KB",
-      "MB": "54.4 MB"
+      "KB": "54127 KB",
+      "MB": "54.1 MB"
     },
     {
       "assets": "unused",
-      "KB": "56032 KB",
-      "MB": "56 MB"
+      "KB": "78639 KB",
+      "MB": "78.6 MB"
     }
   ],
   "assets_unused": [
     {
       "path": "android/icon-background.png",
-      "size_kb": 21.4
+      "size_kb": 3.9
     },
     {
       "path": "android/icon-foreground.png",
-      "size_kb": 58.3
+      "size_kb": 73.7
     },
     {
       "path": "android/icon.png",
-      "size_kb": 70.3
+      "size_kb": 80.4
     },
     {
       "path": "android/splash.png",
-      "size_kb": 239
-    },
-    {
-      "path": "audio/modules/connect/connect_01.aac",
-      "size_kb": 518.4
-    },
-    {
-      "path": "audio/modules/connect/connect_02.m4a",
-      "size_kb": 234.1
-    },
-    {
-      "path": "audio/modules/connect/connect_03.aac",
-      "size_kb": 399
-    },
-    {
-      "path": "audio/modules/connect/connect_04.m4a",
-      "size_kb": 573
-    },
-    {
-      "path": "audio/modules/connect/connect_05.aac",
-      "size_kb": 431
-    },
-    {
-      "path": "audio/modules/connect/connect_06.aac",
-      "size_kb": 479.6
-    },
-    {
-      "path": "audio/modules/connect/connect_07.m4a",
-      "size_kb": 296.5
-    },
-    {
-      "path": "audio/modules/connect/connect_08.m4a",
-      "size_kb": 266.4
-    },
-    {
-      "path": "audio/modules/connect/connect_09.m4a",
-      "size_kb": 335.3
+      "size_kb": 156.5
     },
     {
       "path": "contents.json",
@@ -287,6 +251,10 @@
     {
       "path": "images/books/babys_first_photo/babys-first-family-photo_20190506_page3.jpg",
       "size_kb": 23.7
+    },
+    {
+      "path": "images/books/babys_first_photo/babys_first_photo_round_cover.png",
+      "size_kb": 153.3
     },
     {
       "path": "images/books/babys_first_photo/page16.jpg",
@@ -417,76 +385,20 @@
       "size_kb": 13.5
     },
     {
-      "path": "images/books/lesedis_sandbox/lefas_bath/cover.jpg",
-      "size_kb": 93.6
+      "path": "images/books/lefas_bath/lefas_bath_round_cover.png",
+      "size_kb": 99.6
     },
     {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page1.jpg",
+      "path": "images/books/lefas_bath/page1.jpg",
       "size_kb": 25.7
     },
     {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page10.jpg",
-      "size_kb": 59
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page11.jpg",
-      "size_kb": 61.7
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page12.jpg",
-      "size_kb": 63.2
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page13.jpg",
-      "size_kb": 54.5
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page14.jpg",
-      "size_kb": 71.3
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page15.jpg",
-      "size_kb": 65
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page16.jpg",
+      "path": "images/books/lefas_bath/page2.jpg",
       "size_kb": 47.2
     },
     {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page17.jpg",
-      "size_kb": 17.4
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page2.jpg",
-      "size_kb": 47.2
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page3.jpg",
+      "path": "images/books/lefas_bath/page3.jpg",
       "size_kb": 35.7
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page4.jpg",
-      "size_kb": 63.1
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page5.jpg",
-      "size_kb": 61.3
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page6.jpg",
-      "size_kb": 58.3
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page7.jpg",
-      "size_kb": 58.7
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page8.jpg",
-      "size_kb": 62.9
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lefas_bath/page9.jpg",
-      "size_kb": 60.1
     },
     {
       "path": "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page1.jpg",
@@ -507,6 +419,10 @@
     {
       "path": "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page3.jpg",
       "size_kb": 22.9
+    },
+    {
+      "path": "images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png",
+      "size_kb": 139.2
     },
     {
       "path": "images/books/lets_go_on_a_litter_hunt/page1.jpg",
@@ -539,6 +455,10 @@
     {
       "path": "images/books/little_shoots/little-shoots_20210525_page3.jpg",
       "size_kb": 31.2
+    },
+    {
+      "path": "images/books/little_shoots/little_shoots_round_cover.png",
+      "size_kb": 112.9
     },
     {
       "path": "images/books/look_out_luthando/look-out-luthando_20221127_page1.jpg",
@@ -597,6 +517,10 @@
       "size_kb": 15.6
     },
     {
+      "path": "images/books/moms_red_coat/moms_red_coat_round_cover.png",
+      "size_kb": 65.8
+    },
+    {
       "path": "images/books/my_inside_weather/my-inside-weather_20180115_page1.jpg",
       "size_kb": 11.9
     },
@@ -647,6 +571,10 @@
     {
       "path": "images/books/shhhhh/image_14.jpg",
       "size_kb": 73.6
+    },
+    {
+      "path": "images/books/shongololo_s_shoes/shongololo_s_shoes_round_cover.png",
+      "size_kb": 60.4
     },
     {
       "path": "images/books/tejus_shadow/page1.jpg",
@@ -705,6 +633,10 @@
       "size_kb": 28.1
     },
     {
+      "path": "images/books/the_things_that_really_matter/the_things_that_really_matter_round_cover.png",
+      "size_kb": 114.7
+    },
+    {
       "path": "images/books/tlotlegos_tea_party/page1.jpg",
       "size_kb": 9.3
     },
@@ -735,6 +667,10 @@
     {
       "path": "images/books/to_the_top/to-the-top_interior_20211005_page3.jpg",
       "size_kb": 7.8
+    },
+    {
+      "path": "images/books/to_the_top/to_the_top_round_cover.png",
+      "size_kb": 95.7
     },
     {
       "path": "images/books/whats_at_the_park/page.jpg",
@@ -853,6 +789,18 @@
       "size_kb": 1.1
     },
     {
+      "path": "images/icons/join_icons/caring_yourchild.svg",
+      "size_kb": 4.4
+    },
+    {
+      "path": "images/icons/join_icons/caring_yourself.svg",
+      "size_kb": 1.3
+    },
+    {
+      "path": "images/icons/join_icons/welcome.svg",
+      "size_kb": 2.9
+    },
+    {
       "path": "images/icons/parent_child.svg",
       "size_kb": 2
     },
@@ -867,6 +815,10 @@
     {
       "path": "images/icons/pencil.svg",
       "size_kb": 1.1
+    },
+    {
+      "path": "images/icons/picture_book.svg",
+      "size_kb": 1.8
     },
     {
       "path": "images/icons/play.svg",
@@ -885,16 +837,60 @@
       "size_kb": 1
     },
     {
+      "path": "images/icons/thought_bubble.svg",
+      "size_kb": 2.1
+    },
+    {
+      "path": "images/learning_through_play/cooking_together.svg",
+      "size_kb": 95.8
+    },
+    {
+      "path": "images/learning_through_play/gardening.svg",
+      "size_kb": 125
+    },
+    {
+      "path": "images/learning_through_play/happy_things.svg",
+      "size_kb": 172.3
+    },
+    {
+      "path": "images/learning_through_play/household_helpers.svg",
+      "size_kb": 334.6
+    },
+    {
+      "path": "images/learning_through_play/makes_us_special.svg",
+      "size_kb": 149.5
+    },
+    {
+      "path": "images/learning_through_play/music_dancing.svg",
+      "size_kb": 117.2
+    },
+    {
+      "path": "images/learning_through_play/pattern_play_1.svg",
+      "size_kb": 102.2
+    },
+    {
+      "path": "images/learning_through_play/pattern_play_2.svg",
+      "size_kb": 84.3
+    },
+    {
+      "path": "images/learning_through_play/pattern_play_3.svg",
+      "size_kb": 70.8
+    },
+    {
+      "path": "images/learning_through_play/something_special.svg",
+      "size_kb": 192.1
+    },
+    {
+      "path": "images/learning_through_play/walking_together.svg",
+      "size_kb": 239.5
+    },
+    {
       "path": "images/logos/favicon.png",
       "size_kb": 6.3
     },
     {
       "path": "images/modules/connect/connect-01.svg",
       "size_kb": 197.7
-    },
-    {
-      "path": "images/modules/connect/connect_title image.svg",
-      "size_kb": 76.7
     },
     {
       "path": "images/modules/connect/fathers_face.svg",
@@ -921,8 +917,92 @@
       "size_kb": 2
     },
     {
-      "path": "images/modules/create/create_title image.svg",
-      "size_kb": 83.8
+      "path": "images/modules/join/join_1.svg",
+      "size_kb": 41.1
+    },
+    {
+      "path": "images/modules/join/join_10.gif",
+      "size_kb": 12992.1
+    },
+    {
+      "path": "images/modules/join/join_11.svg",
+      "size_kb": 27.4
+    },
+    {
+      "path": "images/modules/join/join_12.svg",
+      "size_kb": 486.4
+    },
+    {
+      "path": "images/modules/join/join_13.svg",
+      "size_kb": 69.3
+    },
+    {
+      "path": "images/modules/join/join_14.svg",
+      "size_kb": 366.6
+    },
+    {
+      "path": "images/modules/join/join_15.svg",
+      "size_kb": 50.3
+    },
+    {
+      "path": "images/modules/join/join_16.svg",
+      "size_kb": 120
+    },
+    {
+      "path": "images/modules/join/join_17.svg",
+      "size_kb": 8458.6
+    },
+    {
+      "path": "images/modules/join/join_18.svg",
+      "size_kb": 75.9
+    },
+    {
+      "path": "images/modules/join/join_19.svg",
+      "size_kb": 213.1
+    },
+    {
+      "path": "images/modules/join/join_2.svg",
+      "size_kb": 194.8
+    },
+    {
+      "path": "images/modules/join/join_20.svg",
+      "size_kb": 80.8
+    },
+    {
+      "path": "images/modules/join/join_21.svg",
+      "size_kb": 424.1
+    },
+    {
+      "path": "images/modules/join/join_22.svg",
+      "size_kb": 31.9
+    },
+    {
+      "path": "images/modules/join/join_3.svg",
+      "size_kb": 330.5
+    },
+    {
+      "path": "images/modules/join/join_4.svg",
+      "size_kb": 42.3
+    },
+    {
+      "path": "images/modules/join/join_5.svg",
+      "size_kb": 13.2
+    },
+    {
+      "path": "images/modules/join/join_6.svg",
+      "size_kb": 37.2
+    },
+    {
+      "path": "images/modules/join/join_7.svg",
+      "size_kb": 351.4
+    },
+    {
+      "path": "images/modules/join/join_8.svg",
+      "size_kb": 41.1
+    },
+    {
+      "path": "images/modules/join/join_9.svg",
+      "size_kb": 286.7
     },
     {
       "path": "images/modules/play/crying_emoji.svg",
@@ -1080,81 +1160,6 @@
     {
       "path": "images/books/it_wasnt_me/image_9.jpg",
       "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/cover.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page10.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page11.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page12.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page13.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page14.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page15.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page16.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page17.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page4.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page5.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page6.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page7.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page8.jpg",
-      "count": 2,
-      "missing": true
-    },
-    {
-      "path": "images/books/lefas_bath/page9.jpg",
-      "count": 2,
       "missing": true
     },
     {
@@ -2043,42 +2048,27 @@
       "missing": true
     },
     {
-      "path": "images/modules/connect/intro_connect.svg",
-      "count": 1,
+      "path": "images/modules/build/build_title_image.svg",
+      "count": 2,
       "missing": true
     },
     {
-      "path": "images/modules/wave.svg",
-      "count": 6,
+      "path": "images/modules/care/care_title_image.svg",
+      "count": 2,
+      "missing": true
+    },
+    {
+      "path": "images/modules/explore/explore_title_image.svg",
+      "count": 2,
+      "missing": true
+    },
+    {
+      "path": "images/modules/talk/talk_title_image.svg",
+      "count": 2,
       "missing": true
     }
   ],
   "asset_summary": [
-    {
-      "path": "audio/modules/play/play_01.m4a",
-      "count": 3,
-      "size_kb": 207.2
-    },
-    {
-      "path": "audio/modules/play/play_02.m4a",
-      "count": 3,
-      "size_kb": 266.9
-    },
-    {
-      "path": "audio/modules/play/play_03.m4a",
-      "count": 3,
-      "size_kb": 347.7
-    },
-    {
-      "path": "audio/modules/play/play_04.m4a",
-      "count": 3,
-      "size_kb": 301.9
-    },
-    {
-      "path": "audio/modules/play/play_05.m4a",
-      "count": 3,
-      "size_kb": 253.9
-    },
     {
       "path": "audio/relax/relax_1.mp3",
       "count": 1,
@@ -2086,7 +2076,7 @@
     },
     {
       "path": "audio/relax/relax_10.mp3",
-      "count": 1,
+      "count": 2,
       "size_kb": 404.9
     },
     {
@@ -2101,7 +2091,7 @@
     },
     {
       "path": "audio/relax/relax_13.mp3",
-      "count": 1,
+      "count": 2,
       "size_kb": 398.4
     },
     {
@@ -3768,6 +3758,81 @@
       "path": "images/books/lebo_gogo_tea_party/page9.jpg",
       "count": 2,
       "size_kb": 26.6
+    },
+    {
+      "path": "images/books/lefas_bath/cover.jpg",
+      "count": 2,
+      "size_kb": 93.6
+    },
+    {
+      "path": "images/books/lefas_bath/page10.jpg",
+      "count": 2,
+      "size_kb": 59
+    },
+    {
+      "path": "images/books/lefas_bath/page11.jpg",
+      "count": 2,
+      "size_kb": 61.7
+    },
+    {
+      "path": "images/books/lefas_bath/page12.jpg",
+      "count": 2,
+      "size_kb": 63.2
+    },
+    {
+      "path": "images/books/lefas_bath/page13.jpg",
+      "count": 2,
+      "size_kb": 54.5
+    },
+    {
+      "path": "images/books/lefas_bath/page14.jpg",
+      "count": 2,
+      "size_kb": 71.3
+    },
+    {
+      "path": "images/books/lefas_bath/page15.jpg",
+      "count": 2,
+      "size_kb": 65
+    },
+    {
+      "path": "images/books/lefas_bath/page16.jpg",
+      "count": 2,
+      "size_kb": 47.2
+    },
+    {
+      "path": "images/books/lefas_bath/page17.jpg",
+      "count": 2,
+      "size_kb": 17.4
+    },
+    {
+      "path": "images/books/lefas_bath/page4.jpg",
+      "count": 2,
+      "size_kb": 63.1
+    },
+    {
+      "path": "images/books/lefas_bath/page5.jpg",
+      "count": 2,
+      "size_kb": 61.3
+    },
+    {
+      "path": "images/books/lefas_bath/page6.jpg",
+      "count": 2,
+      "size_kb": 58.3
+    },
+    {
+      "path": "images/books/lefas_bath/page7.jpg",
+      "count": 2,
+      "size_kb": 58.7
+    },
+    {
+      "path": "images/books/lefas_bath/page8.jpg",
+      "count": 2,
+      "size_kb": 62.9
+    },
+    {
+      "path": "images/books/lefas_bath/page9.jpg",
+      "count": 2,
+      "size_kb": 60.1
     },
     {
       "path": "images/books/lesedis_sandbox/cover.jpg",
@@ -6131,7 +6196,7 @@
     },
     {
       "path": "images/icons/faces/happy_face_new.svg",
-      "count": 17,
+      "count": 19,
       "size_kb": 1.4
     },
     {
@@ -6141,7 +6206,7 @@
     },
     {
       "path": "images/icons/faces/ok_face_new.svg",
-      "count": 17,
+      "count": 19,
       "size_kb": 0.5
     },
     {
@@ -6151,7 +6216,7 @@
     },
     {
       "path": "images/icons/faces/sad_face_new.svg",
-      "count": 17,
+      "count": 19,
       "size_kb": 1.5
     },
     {
@@ -6170,54 +6235,29 @@
       "size_kb": 1.1
     },
     {
-      "path": "images/icons/join_icons/caring_yourchild.svg",
-      "count": 1,
-      "size_kb": 4.4
-    },
-    {
-      "path": "images/icons/join_icons/caring_yourself.svg",
-      "count": 1,
-      "size_kb": 1.3
-    },
-    {
-      "path": "images/icons/join_icons/welcome.svg",
-      "count": 1,
-      "size_kb": 2.9
-    },
-    {
       "path": "images/icons/magnifying_glass.svg",
-      "count": 4,
+      "count": 6,
       "size_kb": 0.9
     },
     {
       "path": "images/icons/parent_child_heart.svg",
-      "count": 5,
+      "count": 6,
       "size_kb": 3
     },
     {
-      "path": "images/icons/picture_book.svg",
-      "count": 1,
-      "size_kb": 1.8
-    },
-    {
       "path": "images/icons/smile_eyes_down.svg",
-      "count": 3,
+      "count": 5,
       "size_kb": 0.9
     },
     {
       "path": "images/icons/smile_eyes_up.svg",
-      "count": 19,
+      "count": 21,
       "size_kb": 1
     },
     {
       "path": "images/icons/star_outline_white.svg",
       "count": 1,
       "size_kb": 1
-    },
-    {
-      "path": "images/icons/thought_bubble.svg",
-      "count": 1,
-      "size_kb": 2.1
     },
     {
       "path": "images/icons/tick.svg",
@@ -6251,182 +6291,197 @@
     },
     {
       "path": "images/modules/connect/connect_1.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 26.6
     },
     {
       "path": "images/modules/connect/connect_10.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 289.6
     },
     {
       "path": "images/modules/connect/connect_11.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 8452.7
     },
     {
       "path": "images/modules/connect/connect_12.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 187.7
     },
     {
       "path": "images/modules/connect/connect_13.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 142.6
     },
     {
       "path": "images/modules/connect/connect_14.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 31.9
     },
     {
       "path": "images/modules/connect/connect_2.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 192.2
     },
     {
       "path": "images/modules/connect/connect_3.gif",
-      "count": 1,
+      "count": 3,
       "size_kb": 3313.4
     },
     {
       "path": "images/modules/connect/connect_4.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 494.2
     },
     {
       "path": "images/modules/connect/connect_5.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 129
     },
     {
       "path": "images/modules/connect/connect_6.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 91.9
     },
     {
       "path": "images/modules/connect/connect_7.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 41.5
     },
     {
       "path": "images/modules/connect/connect_8.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 34.1
     },
     {
       "path": "images/modules/connect/connect_9.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 32.3
     },
     {
+      "path": "images/modules/connect/connect_title_image.svg",
+      "count": 3,
+      "size_kb": 76.7
+    },
+    {
       "path": "images/modules/create/create_1.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 15.9
     },
     {
       "path": "images/modules/create/create_10.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 30.1
     },
     {
       "path": "images/modules/create/create_11.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 71.3
     },
     {
       "path": "images/modules/create/create_12.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 167
     },
     {
       "path": "images/modules/create/create_13.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 104.1
     },
     {
       "path": "images/modules/create/create_14.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 169.1
     },
     {
       "path": "images/modules/create/create_15.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 142.5
     },
     {
       "path": "images/modules/create/create_16.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 161.6
     },
     {
       "path": "images/modules/create/create_17.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 40.1
     },
     {
       "path": "images/modules/create/create_18.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 107.3
     },
     {
       "path": "images/modules/create/create_19.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 197
     },
     {
       "path": "images/modules/create/create_2.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 196
     },
     {
       "path": "images/modules/create/create_20.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 154.6
     },
     {
       "path": "images/modules/create/create_21.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 21.2
     },
     {
       "path": "images/modules/create/create_3.gif",
-      "count": 2,
+      "count": 6,
       "size_kb": 3826.9
     },
     {
       "path": "images/modules/create/create_4.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 184.6
     },
     {
       "path": "images/modules/create/create_5.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 56.8
     },
     {
       "path": "images/modules/create/create_6.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 79.1
     },
     {
       "path": "images/modules/create/create_7.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 56.8
     },
     {
       "path": "images/modules/create/create_8.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 86.3
     },
     {
       "path": "images/modules/create/create_9.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 169
     },
     {
+      "path": "images/modules/create/create_title_image.svg",
+      "count": 3,
+      "size_kb": 83.8
+    },
+    {
+      "path": "images/modules/join/join_title_image.svg",
+      "count": 2,
+      "size_kb": 41.1
+    },
+    {
       "path": "images/modules/play/angry_emoji.svg",
-      "count": 4,
+      "count": 6,
       "size_kb": 1.4
     },
     {
@@ -6441,7 +6496,7 @@
     },
     {
       "path": "images/modules/play/happy_emoji.svg",
-      "count": 1,
+      "count": 3,
       "size_kb": 2.2
     },
     {
@@ -6461,17 +6516,17 @@
     },
     {
       "path": "images/modules/play/icon_book.svg",
-      "count": 4,
+      "count": 6,
       "size_kb": 1.1
     },
     {
       "path": "images/modules/play/icon_light_bulb.svg",
-      "count": 3,
+      "count": 6,
       "size_kb": 3.5
     },
     {
       "path": "images/modules/play/icon_star.svg",
-      "count": 3,
+      "count": 6,
       "size_kb": 1.3
     },
     {
@@ -6486,7 +6541,7 @@
     },
     {
       "path": "images/modules/play/play_title_image.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 77.7
     },
     {
@@ -6506,7 +6561,7 @@
     },
     {
       "path": "images/modules/play/sad_emoji.svg",
-      "count": 4,
+      "count": 6,
       "size_kb": 1.7
     },
     {
@@ -6516,7 +6571,7 @@
     },
     {
       "path": "images/modules/play/tired_emoji.svg",
-      "count": 4,
+      "count": 6,
       "size_kb": 1.5
     },
     {
@@ -6564,7 +6619,7 @@
     {
       "type": "data_list",
       "subtype": null,
-      "total": 24
+      "total": 23
     },
     {
       "type": "data_list",
@@ -6574,7 +6629,7 @@
     {
       "type": "data_list",
       "subtype": "generated",
-      "total": 11
+      "total": 29
     },
     {
       "type": "data_list",
@@ -6589,17 +6644,17 @@
     {
       "type": "data_pipe",
       "subtype": null,
-      "total": 3
+      "total": 5
     },
     {
       "type": "data_pipe",
       "subtype": "generated",
-      "total": 7
+      "total": 19
     },
     {
       "type": "generator",
       "subtype": null,
-      "total": 15
+      "total": 22
     },
     {
       "type": "global",
@@ -6614,7 +6669,7 @@
     {
       "type": "template",
       "subtype": "generated",
-      "total": 297
+      "total": 447
     },
     {
       "type": "template",

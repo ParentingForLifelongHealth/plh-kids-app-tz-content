@@ -12,16 +12,16 @@
 | data_items | 1 |
 | display_grid | 2 |
 | display_group | 33 |
-| image | 1 |
+| image | 9 |
 | items | 8 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 406 |
+| set_variable | 422 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 300 |
-| text | 62 |
+| template | 442 |
+| text | 70 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
@@ -36,16 +36,16 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 264 |
+| emit: completed | 406 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 262 |
+| emit: uncompleted | 404 |
 | feedback | 7 |
 | go_to | 11 |
-| pop_up | 4 |
+| pop_up | 12 |
 | set_field | 12 |
 | set_local | 7 |
 | user | 1 |
@@ -56,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 54419 KB | 54.4 MB |
-| unused | 56032 KB | 56 MB |
+| total | 54127 KB | 54.1 MB |
+| unused | 78639 KB | 78.6 MB |
 </details>
 
 <details open>
@@ -67,19 +67,10 @@ Assets that appear in app-data but do not have references within sheets
 
 | path | size_kb |
 | --- | --- |
-| android/icon-background.png | 21.4 |
-| android/icon-foreground.png | 58.3 |
-| android/icon.png | 70.3 |
-| android/splash.png | 239 |
-| audio/modules/connect/connect_01.aac | 518.4 |
-| audio/modules/connect/connect_02.m4a | 234.1 |
-| audio/modules/connect/connect_03.aac | 399 |
-| audio/modules/connect/connect_04.m4a | 573 |
-| audio/modules/connect/connect_05.aac | 431 |
-| audio/modules/connect/connect_06.aac | 479.6 |
-| audio/modules/connect/connect_07.m4a | 296.5 |
-| audio/modules/connect/connect_08.m4a | 266.4 |
-| audio/modules/connect/connect_09.m4a | 335.3 |
+| android/icon-background.png | 3.9 |
+| android/icon-foreground.png | 73.7 |
+| android/icon.png | 80.4 |
+| android/splash.png | 156.5 |
 | contents.json | 5.9 |
 | images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page.jpg | 6.8 |
 | images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page2.jpg | 63.5 |
@@ -96,6 +87,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/babys_first_photo/babys-first-family-photo_20190506_page1.jpg | 12.7 |
 | images/books/babys_first_photo/babys-first-family-photo_20190506_page2.jpg | 123.1 |
 | images/books/babys_first_photo/babys-first-family-photo_20190506_page3.jpg | 23.7 |
+| images/books/babys_first_photo/babys_first_photo_round_cover.png | 153.3 |
 | images/books/babys_first_photo/page16.jpg | 107.1 |
 | images/books/babys_first_photo/page17.jpg | 6.2 |
 | images/books/beloved_daughter/image_16.jpg | 47.1 |
@@ -128,29 +120,16 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page17.jpg | 9.5 |
 | images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page2.jpg | 28.3 |
 | images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page3.jpg | 13.5 |
-| images/books/lesedis_sandbox/lefas_bath/cover.jpg | 93.6 |
-| images/books/lesedis_sandbox/lefas_bath/page1.jpg | 25.7 |
-| images/books/lesedis_sandbox/lefas_bath/page10.jpg | 59 |
-| images/books/lesedis_sandbox/lefas_bath/page11.jpg | 61.7 |
-| images/books/lesedis_sandbox/lefas_bath/page12.jpg | 63.2 |
-| images/books/lesedis_sandbox/lefas_bath/page13.jpg | 54.5 |
-| images/books/lesedis_sandbox/lefas_bath/page14.jpg | 71.3 |
-| images/books/lesedis_sandbox/lefas_bath/page15.jpg | 65 |
-| images/books/lesedis_sandbox/lefas_bath/page16.jpg | 47.2 |
-| images/books/lesedis_sandbox/lefas_bath/page17.jpg | 17.4 |
-| images/books/lesedis_sandbox/lefas_bath/page2.jpg | 47.2 |
-| images/books/lesedis_sandbox/lefas_bath/page3.jpg | 35.7 |
-| images/books/lesedis_sandbox/lefas_bath/page4.jpg | 63.1 |
-| images/books/lesedis_sandbox/lefas_bath/page5.jpg | 61.3 |
-| images/books/lesedis_sandbox/lefas_bath/page6.jpg | 58.3 |
-| images/books/lesedis_sandbox/lefas_bath/page7.jpg | 58.7 |
-| images/books/lesedis_sandbox/lefas_bath/page8.jpg | 62.9 |
-| images/books/lesedis_sandbox/lefas_bath/page9.jpg | 60.1 |
+| images/books/lefas_bath/lefas_bath_round_cover.png | 99.6 |
+| images/books/lefas_bath/page1.jpg | 25.7 |
+| images/books/lefas_bath/page2.jpg | 47.2 |
+| images/books/lefas_bath/page3.jpg | 35.7 |
 | images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page1.jpg | 13.1 |
 | images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page16.jpg | 90.6 |
 | images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page17.jpg | 10.2 |
 | images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page2.jpg | 90.6 |
 | images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page3.jpg | 22.9 |
+| images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png | 139.2 |
 | images/books/lets_go_on_a_litter_hunt/page1.jpg | 9 |
 | images/books/lets_go_on_a_litter_hunt/page2.jpg | 35.4 |
 | images/books/lets_go_on_a_litter_hunt/page3.jpg | 17.9 |
@@ -159,6 +138,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/little_shoots/little-shoots_20210525_page17.jpg | 10.3 |
 | images/books/little_shoots/little-shoots_20210525_page2.jpg | 87.8 |
 | images/books/little_shoots/little-shoots_20210525_page3.jpg | 31.2 |
+| images/books/little_shoots/little_shoots_round_cover.png | 112.9 |
 | images/books/look_out_luthando/look-out-luthando_20221127_page1.jpg | 7.4 |
 | images/books/look_out_luthando/look-out-luthando_20221127_page16.jpg | 67.7 |
 | images/books/look_out_luthando/look-out-luthando_20221127_page17.jpg | 11.1 |
@@ -173,6 +153,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/moms_red_coat/moms-red-coat_20221201_page1.jpg | 7.3 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page2.jpg | 22.9 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page3.jpg | 15.6 |
+| images/books/moms_red_coat/moms_red_coat_round_cover.png | 65.8 |
 | images/books/my_inside_weather/my-inside-weather_20180115_page1.jpg | 11.9 |
 | images/books/my_inside_weather/my-inside-weather_20180115_page16.jpg | 13.3 |
 | images/books/my_inside_weather/my-inside-weather_20180115_page17.jpg | 9.6 |
@@ -186,6 +167,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/scared_tumi/scared-tumi_20161230_page2.jpg | 74 |
 | images/books/scared_tumi/scared-tumi_20161230_page3.jpg | 10.9 |
 | images/books/shhhhh/image_14.jpg | 73.6 |
+| images/books/shongololo_s_shoes/shongololo_s_shoes_round_cover.png | 60.4 |
 | images/books/tejus_shadow/page1.jpg | 7.1 |
 | images/books/tejus_shadow/page16.jpg | 78.1 |
 | images/books/tejus_shadow/page2.jpg | 78.1 |
@@ -200,6 +182,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page17.jpg | 12 |
 | images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page2.jpg | 12 |
 | images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page3.jpg | 28.1 |
+| images/books/the_things_that_really_matter/the_things_that_really_matter_round_cover.png | 114.7 |
 | images/books/tlotlegos_tea_party/page1.jpg | 9.3 |
 | images/books/tlotlegos_tea_party/page2.jpg | 57.3 |
 | images/books/tlotlegos_tea_party/page3.jpg | 14 |
@@ -208,6 +191,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/books/to_the_top/to-the-top_interior_20211005_page17.jpg | 6 |
 | images/books/to_the_top/to-the-top_interior_20211005_page2.jpg | 43.5 |
 | images/books/to_the_top/to-the-top_interior_20211005_page3.jpg | 7.8 |
+| images/books/to_the_top/to_the_top_round_cover.png | 95.7 |
 | images/books/whats_at_the_park/page.jpg | 6.7 |
 | images/books/whats_at_the_park/page2.jpg | 6.4 |
 | images/books/whats_at_the_park/page3.jpg | 7.7 |
@@ -237,24 +221,60 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/scared.svg | 2.1 |
 | images/icons/faces/tired.svg | 2.4 |
 | images/icons/in_progress_white.svg | 1.1 |
+| images/icons/join_icons/caring_yourchild.svg | 4.4 |
+| images/icons/join_icons/caring_yourself.svg | 1.3 |
+| images/icons/join_icons/welcome.svg | 2.9 |
 | images/icons/parent_child.svg | 2 |
 | images/icons/pause.svg | 0.7 |
 | images/icons/pause_white.svg | 0.7 |
 | images/icons/pencil.svg | 1.1 |
+| images/icons/picture_book.svg | 1.8 |
 | images/icons/play.svg | 0.5 |
 | images/icons/play_white.svg | 0.5 |
 | images/icons/question_mark_blue.svg | 0.8 |
 | images/icons/star_outline_blue.svg | 1 |
+| images/icons/thought_bubble.svg | 2.1 |
+| images/learning_through_play/cooking_together.svg | 95.8 |
+| images/learning_through_play/gardening.svg | 125 |
+| images/learning_through_play/happy_things.svg | 172.3 |
+| images/learning_through_play/household_helpers.svg | 334.6 |
+| images/learning_through_play/makes_us_special.svg | 149.5 |
+| images/learning_through_play/music_dancing.svg | 117.2 |
+| images/learning_through_play/pattern_play_1.svg | 102.2 |
+| images/learning_through_play/pattern_play_2.svg | 84.3 |
+| images/learning_through_play/pattern_play_3.svg | 70.8 |
+| images/learning_through_play/something_special.svg | 192.1 |
+| images/learning_through_play/walking_together.svg | 239.5 |
 | images/logos/favicon.png | 6.3 |
 | images/modules/connect/connect-01.svg | 197.7 |
-| images/modules/connect/connect_title image.svg | 76.7 |
 | images/modules/connect/fathers_face.svg | 13.9 |
 | images/modules/connect/mom_face.svg | 6.1 |
 | images/modules/connect/thumbs_down_brown.svg | 2 |
 | images/modules/connect/thumbs_down_yellow.svg | 2.2 |
 | images/modules/connect/thumbs_up_brown.svg | 2 |
 | images/modules/connect/thumbs_up_yellow.svg | 2 |
-| images/modules/create/create_title image.svg | 83.8 |
+| images/modules/join/join_1.svg | 41.1 |
+| images/modules/join/join_10.gif | 12992.1 |
+| images/modules/join/join_11.svg | 27.4 |
+| images/modules/join/join_12.svg | 486.4 |
+| images/modules/join/join_13.svg | 69.3 |
+| images/modules/join/join_14.svg | 366.6 |
+| images/modules/join/join_15.svg | 50.3 |
+| images/modules/join/join_16.svg | 120 |
+| images/modules/join/join_17.svg | 8458.6 |
+| images/modules/join/join_18.svg | 75.9 |
+| images/modules/join/join_19.svg | 213.1 |
+| images/modules/join/join_2.svg | 194.8 |
+| images/modules/join/join_20.svg | 80.8 |
+| images/modules/join/join_21.svg | 424.1 |
+| images/modules/join/join_22.svg | 31.9 |
+| images/modules/join/join_3.svg | 330.5 |
+| images/modules/join/join_4.svg | 42.3 |
+| images/modules/join/join_5.svg | 13.2 |
+| images/modules/join/join_6.svg | 37.2 |
+| images/modules/join/join_7.svg | 351.4 |
+| images/modules/join/join_8.svg | 41.1 |
+| images/modules/join/join_9.svg | 286.7 |
 | images/modules/play/crying_emoji.svg | 1.7 |
 | images/modules/play/icon_hand.svg | 2.9 |
 | images/modules/play/icon_relax.svg | 1.5 |
@@ -297,21 +317,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/it_wasnt_me/image_7.jpg | 1 |
 | images/books/it_wasnt_me/image_8.jpg | 1 |
 | images/books/it_wasnt_me/image_9.jpg | 1 |
-| images/books/lefas_bath/cover.jpg | 2 |
-| images/books/lefas_bath/page10.jpg | 2 |
-| images/books/lefas_bath/page11.jpg | 2 |
-| images/books/lefas_bath/page12.jpg | 2 |
-| images/books/lefas_bath/page13.jpg | 2 |
-| images/books/lefas_bath/page14.jpg | 2 |
-| images/books/lefas_bath/page15.jpg | 2 |
-| images/books/lefas_bath/page16.jpg | 2 |
-| images/books/lefas_bath/page17.jpg | 2 |
-| images/books/lefas_bath/page4.jpg | 2 |
-| images/books/lefas_bath/page5.jpg | 2 |
-| images/books/lefas_bath/page6.jpg | 2 |
-| images/books/lefas_bath/page7.jpg | 2 |
-| images/books/lefas_bath/page8.jpg | 2 |
-| images/books/lefas_bath/page9.jpg | 2 |
 | images/books/little_monkey_s_lost_bananas/image_1.jpg | 1 |
 | images/books/little_monkey_s_lost_bananas/image_10.jpg | 1 |
 | images/books/little_monkey_s_lost_bananas/image_11.jpg | 1 |
@@ -489,8 +494,10 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_7.jpg | 1 |
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
-| images/modules/connect/intro_connect.svg | 1 |
-| images/modules/wave.svg | 6 |
+| images/modules/build/build_title_image.svg | 2 |
+| images/modules/care/care_title_image.svg | 2 |
+| images/modules/explore/explore_title_image.svg | 2 |
+| images/modules/talk/talk_title_image.svg | 2 |
 </details>
 
 <details >
@@ -500,16 +507,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
-| audio/modules/play/play_01.m4a | 207.2 | 3 |
-| audio/modules/play/play_02.m4a | 266.9 | 3 |
-| audio/modules/play/play_03.m4a | 347.7 | 3 |
-| audio/modules/play/play_04.m4a | 301.9 | 3 |
-| audio/modules/play/play_05.m4a | 253.9 | 3 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
-| audio/relax/relax_10.mp3 | 404.9 | 1 |
+| audio/relax/relax_10.mp3 | 404.9 | 2 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
 | audio/relax/relax_12.mp3 | 539.7 | 1 |
-| audio/relax/relax_13.mp3 | 398.4 | 1 |
+| audio/relax/relax_13.mp3 | 398.4 | 2 |
 | audio/relax/relax_14.mp3 | 256.9 | 1 |
 | audio/relax/relax_15.mp3 | 125 | 1 |
 | audio/relax/relax_16.mp3 | 274 | 1 |
@@ -843,6 +845,21 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/lebo_gogo_tea_party/page7.jpg | 15.4 | 2 |
 | images/books/lebo_gogo_tea_party/page8.jpg | 43.1 | 2 |
 | images/books/lebo_gogo_tea_party/page9.jpg | 26.6 | 2 |
+| images/books/lefas_bath/cover.jpg | 93.6 | 2 |
+| images/books/lefas_bath/page10.jpg | 59 | 2 |
+| images/books/lefas_bath/page11.jpg | 61.7 | 2 |
+| images/books/lefas_bath/page12.jpg | 63.2 | 2 |
+| images/books/lefas_bath/page13.jpg | 54.5 | 2 |
+| images/books/lefas_bath/page14.jpg | 71.3 | 2 |
+| images/books/lefas_bath/page15.jpg | 65 | 2 |
+| images/books/lefas_bath/page16.jpg | 47.2 | 2 |
+| images/books/lefas_bath/page17.jpg | 17.4 | 2 |
+| images/books/lefas_bath/page4.jpg | 63.1 | 2 |
+| images/books/lefas_bath/page5.jpg | 61.3 | 2 |
+| images/books/lefas_bath/page6.jpg | 58.3 | 2 |
+| images/books/lefas_bath/page7.jpg | 58.7 | 2 |
+| images/books/lefas_bath/page8.jpg | 62.9 | 2 |
+| images/books/lefas_bath/page9.jpg | 60.1 | 2 |
 | images/books/lesedis_sandbox/cover.jpg | 34 | 2 |
 | images/books/lesedis_sandbox/page10.jpg | 45.5 | 2 |
 | images/books/lesedis_sandbox/page11.jpg | 31.2 | 2 |
@@ -1315,84 +1332,82 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/flags/tz.svg | 0.5 | 2 |
 | images/icons/book_outline_white.svg | 0.7 | 1 |
 | images/icons/faces/happy.svg | 1.4 | 2 |
-| images/icons/faces/happy_face_new.svg | 1.4 | 17 |
+| images/icons/faces/happy_face_new.svg | 1.4 | 19 |
 | images/icons/faces/neutral.svg | 0.5 | 2 |
-| images/icons/faces/ok_face_new.svg | 0.5 | 17 |
+| images/icons/faces/ok_face_new.svg | 0.5 | 19 |
 | images/icons/faces/sad.svg | 1.5 | 2 |
-| images/icons/faces/sad_face_new.svg | 1.5 | 17 |
+| images/icons/faces/sad_face_new.svg | 1.5 | 19 |
 | images/icons/heart.svg | 0.6 | 1 |
 | images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/in_progress.svg | 1.1 | 3 |
-| images/icons/join_icons/caring_yourchild.svg | 4.4 | 1 |
-| images/icons/join_icons/caring_yourself.svg | 1.3 | 1 |
-| images/icons/join_icons/welcome.svg | 2.9 | 1 |
-| images/icons/magnifying_glass.svg | 0.9 | 4 |
-| images/icons/parent_child_heart.svg | 3 | 5 |
-| images/icons/picture_book.svg | 1.8 | 1 |
-| images/icons/smile_eyes_down.svg | 0.9 | 3 |
-| images/icons/smile_eyes_up.svg | 1 | 19 |
+| images/icons/magnifying_glass.svg | 0.9 | 6 |
+| images/icons/parent_child_heart.svg | 3 | 6 |
+| images/icons/smile_eyes_down.svg | 0.9 | 5 |
+| images/icons/smile_eyes_up.svg | 1 | 21 |
 | images/icons/star_outline_white.svg | 1 | 1 |
-| images/icons/thought_bubble.svg | 2.1 | 1 |
 | images/icons/tick.svg | 0.3 | 2 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/lego_foundation.png | 54.4 | 1 |
 | images/logos/plh_white.png | 12.8 | 1 |
-| images/modules/connect/connect_1.svg | 26.6 | 1 |
-| images/modules/connect/connect_10.svg | 289.6 | 1 |
-| images/modules/connect/connect_11.svg | 8452.7 | 1 |
-| images/modules/connect/connect_12.svg | 187.7 | 1 |
-| images/modules/connect/connect_13.svg | 142.6 | 1 |
-| images/modules/connect/connect_14.svg | 31.9 | 1 |
-| images/modules/connect/connect_2.svg | 192.2 | 1 |
-| images/modules/connect/connect_3.gif | 3313.4 | 1 |
-| images/modules/connect/connect_4.svg | 494.2 | 1 |
-| images/modules/connect/connect_5.svg | 129 | 1 |
-| images/modules/connect/connect_6.svg | 91.9 | 1 |
-| images/modules/connect/connect_7.svg | 41.5 | 1 |
-| images/modules/connect/connect_8.svg | 34.1 | 1 |
-| images/modules/connect/connect_9.svg | 32.3 | 1 |
-| images/modules/create/create_1.svg | 15.9 | 1 |
-| images/modules/create/create_10.svg | 30.1 | 1 |
-| images/modules/create/create_11.svg | 71.3 | 1 |
-| images/modules/create/create_12.svg | 167 | 1 |
-| images/modules/create/create_13.svg | 104.1 | 1 |
-| images/modules/create/create_14.svg | 169.1 | 1 |
-| images/modules/create/create_15.svg | 142.5 | 1 |
-| images/modules/create/create_16.svg | 161.6 | 1 |
-| images/modules/create/create_17.svg | 40.1 | 1 |
-| images/modules/create/create_18.svg | 107.3 | 1 |
-| images/modules/create/create_19.svg | 197 | 1 |
-| images/modules/create/create_2.svg | 196 | 1 |
-| images/modules/create/create_20.svg | 154.6 | 1 |
-| images/modules/create/create_21.svg | 21.2 | 1 |
-| images/modules/create/create_3.gif | 3826.9 | 2 |
-| images/modules/create/create_4.svg | 184.6 | 1 |
-| images/modules/create/create_5.svg | 56.8 | 1 |
-| images/modules/create/create_6.svg | 79.1 | 1 |
-| images/modules/create/create_7.svg | 56.8 | 1 |
-| images/modules/create/create_8.svg | 86.3 | 1 |
-| images/modules/create/create_9.svg | 169 | 1 |
-| images/modules/play/angry_emoji.svg | 1.4 | 4 |
+| images/modules/connect/connect_1.svg | 26.6 | 3 |
+| images/modules/connect/connect_10.svg | 289.6 | 3 |
+| images/modules/connect/connect_11.svg | 8452.7 | 3 |
+| images/modules/connect/connect_12.svg | 187.7 | 3 |
+| images/modules/connect/connect_13.svg | 142.6 | 3 |
+| images/modules/connect/connect_14.svg | 31.9 | 3 |
+| images/modules/connect/connect_2.svg | 192.2 | 3 |
+| images/modules/connect/connect_3.gif | 3313.4 | 3 |
+| images/modules/connect/connect_4.svg | 494.2 | 3 |
+| images/modules/connect/connect_5.svg | 129 | 3 |
+| images/modules/connect/connect_6.svg | 91.9 | 3 |
+| images/modules/connect/connect_7.svg | 41.5 | 3 |
+| images/modules/connect/connect_8.svg | 34.1 | 3 |
+| images/modules/connect/connect_9.svg | 32.3 | 3 |
+| images/modules/connect/connect_title_image.svg | 76.7 | 3 |
+| images/modules/create/create_1.svg | 15.9 | 3 |
+| images/modules/create/create_10.svg | 30.1 | 3 |
+| images/modules/create/create_11.svg | 71.3 | 3 |
+| images/modules/create/create_12.svg | 167 | 3 |
+| images/modules/create/create_13.svg | 104.1 | 3 |
+| images/modules/create/create_14.svg | 169.1 | 3 |
+| images/modules/create/create_15.svg | 142.5 | 3 |
+| images/modules/create/create_16.svg | 161.6 | 3 |
+| images/modules/create/create_17.svg | 40.1 | 3 |
+| images/modules/create/create_18.svg | 107.3 | 3 |
+| images/modules/create/create_19.svg | 197 | 3 |
+| images/modules/create/create_2.svg | 196 | 3 |
+| images/modules/create/create_20.svg | 154.6 | 3 |
+| images/modules/create/create_21.svg | 21.2 | 3 |
+| images/modules/create/create_3.gif | 3826.9 | 6 |
+| images/modules/create/create_4.svg | 184.6 | 3 |
+| images/modules/create/create_5.svg | 56.8 | 3 |
+| images/modules/create/create_6.svg | 79.1 | 3 |
+| images/modules/create/create_7.svg | 56.8 | 3 |
+| images/modules/create/create_8.svg | 86.3 | 3 |
+| images/modules/create/create_9.svg | 169 | 3 |
+| images/modules/create/create_title_image.svg | 83.8 | 3 |
+| images/modules/join/join_title_image.svg | 41.1 | 2 |
+| images/modules/play/angry_emoji.svg | 1.4 | 6 |
 | images/modules/play/awake_emoji.svg | 1.9 | 3 |
 | images/modules/play/frustrated_emoji.svg | 1.8 | 3 |
-| images/modules/play/happy_emoji.svg | 2.2 | 1 |
+| images/modules/play/happy_emoji.svg | 2.2 | 3 |
 | images/modules/play/how_to_play_1.svg | 95.5 | 3 |
 | images/modules/play/how_to_play_2.svg | 105.5 | 3 |
 | images/modules/play/how_to_play_3.svg | 102.7 | 3 |
-| images/modules/play/icon_book.svg | 1.1 | 4 |
-| images/modules/play/icon_light_bulb.svg | 3.5 | 3 |
-| images/modules/play/icon_star.svg | 1.3 | 3 |
+| images/modules/play/icon_book.svg | 1.1 | 6 |
+| images/modules/play/icon_light_bulb.svg | 3.5 | 6 |
+| images/modules/play/icon_star.svg | 1.3 | 6 |
 | images/modules/play/new_fertiliser.gif | 3745.3 | 3 |
 | images/modules/play/play_module_ideas.svg | 43.8 | 3 |
-| images/modules/play/play_title_image.svg | 77.7 | 2 |
+| images/modules/play/play_title_image.svg | 77.7 | 3 |
 | images/modules/play/power_of_play_1.svg | 81.2 | 3 |
 | images/modules/play/question_time.svg | 68.6 | 3 |
 | images/modules/play/ready_to_practice.svg | 34.3 | 3 |
-| images/modules/play/sad_emoji.svg | 1.7 | 4 |
+| images/modules/play/sad_emoji.svg | 1.7 | 6 |
 | images/modules/play/scared_emoji.svg | 1.9 | 3 |
-| images/modules/play/tired_emoji.svg | 1.5 | 4 |
+| images/modules/play/tired_emoji.svg | 1.5 | 6 |
 | images/modules/play/using_books_1.svg | 34.6 | 3 |
 | images/modules/play/using_books_2.svg | 106.2 | 3 |
 | images/modules/play/using_books_3.svg | 161.6 | 3 |
@@ -1408,16 +1423,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 24 |
+| data_list |  | 23 |
 | data_list | app_config_language_list | 1 |
-| data_list | generated | 11 |
+| data_list | generated | 29 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
-| data_pipe |  | 3 |
-| data_pipe | generated | 7 |
-| generator |  | 15 |
+| data_pipe |  | 5 |
+| data_pipe | generated | 19 |
+| generator |  | 22 |
 | global |  | 2 |
 | template |  | 49 |
-| template | generated | 297 |
+| template | generated | 447 |
 | template | legal_terms | 4 |
 </details>
