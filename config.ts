@@ -8,6 +8,12 @@ config.git = {
   content_tag_latest: "1.1.81",
 };
 
+config.android.app_id = 'international.idems.plh_kids_tz';
+config.android.app_name = 'PLH Kids TZ';
+
+config.ios.app_id = 'international.idems.plh_kids_tz';
+config.ios.app_name = 'PLH Kids TZ';
+
 config.google_drive.sheets_folder_ids = [
   "19wSspWYMbRc75een-kS0q0aq24--75u8", // library_app_menu
   "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", // library_field_values
