@@ -5,14 +5,22 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.1.83",
+  content_tag_latest: "1.1.84",
 };
 
-config.android.app_id = 'international.idems.plh_kids_tz';
-config.android.app_name = 'PLH Kids TZ';
+config.android = {
+  app_id:'international.idems.plh_kids_tz',
+  app_name:'PLH Kids TZ',
+  splash_asset_path: "./app_data/assets/android/splash.png",
+  icon_asset_path: "./app_data/assets/android/icon.png",
+  icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
+  icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+};
 
-config.ios.app_id = 'international.idems.plh_kids_tz';
-config.ios.app_name = 'PLH Kids TZ';
+config.ios = {
+  app_id:'international.idems.plh_kids_tz',
+  app_name:'PLH Kids TZ',
+};
 
 config.google_drive.sheets_folder_ids = [
   "19wSspWYMbRc75een-kS0q0aq24--75u8", // library_app_menu
