@@ -6,7 +6,7 @@
 | accordion | 22 |
 | animated_section | 2 |
 | audio | 1 |
-| button | 51 |
+| button | 30 |
 | carousel | 2 |
 | combo_box | 2 |
 | data_items | 1 |
@@ -17,10 +17,10 @@
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 505 |
+| set_variable | 504 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 516 |
+| template | 537 |
 | text | 90 |
 | text_area | 2 |
 | text_box | 5 |
@@ -42,7 +42,7 @@
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 503 |
+| emit: uncompleted | 524 |
 | feedback | 7 |
 | go_to | 11 |
 | pop_up | 12 |
@@ -56,7 +56,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 56543 KB | 56.5 MB |
+| total | 56545 KB | 56.5 MB |
 | unused | 56275 KB | 56.3 MB |
 </details>
 
@@ -1319,6 +1319,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/tz.svg | 0.5 | 2 |
 | images/icons/book_outline_white.svg | 0.7 | 1 |
+| images/icons/chevron_back_white.svg | 1.3 | 1 |
+| images/icons/chevron_forward_white.svg | 1.3 | 1 |
 | images/icons/faces/happy.svg | 1.4 | 2 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 20 |
 | images/icons/faces/neutral.svg | 0.5 | 2 |

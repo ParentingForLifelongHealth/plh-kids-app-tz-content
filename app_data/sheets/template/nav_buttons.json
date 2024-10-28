@@ -35,11 +35,6 @@
           "type": "button",
           "name": "button_uncompleted",
           "value": "Previous",
-          "_translations": {
-            "value": {
-              "tz_sw": true
-            }
-          },
           "action_list": [
             {
               "trigger": "click",
@@ -52,38 +47,49 @@
             }
           ],
           "parameter_list": {
-            "style": "navigation"
+            "style": "navigation",
+            "text_align": "centre"
           },
           "style_list": [
             "flex: 1"
           ],
-          "hidden": "!@local.display_uncompleted",
-          "_nested_name": "buttons.button_uncompleted",
-          "_dynamicFields": {
-            "hidden": [
-              {
-                "fullExpression": "!@local.display_uncompleted",
-                "matchedExpression": "!@local.display_uncompleted",
-                "type": "local",
-                "fieldName": "display_uncompleted"
+          "rows": [
+            {
+              "type": "image",
+              "name": "image_uncompleted",
+              "value": "images/icons/chevron_back_white.svg",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "position": "left",
+                "style": "in_button"
+              },
+              "hidden": "!@local.display_uncompleted",
+              "_nested_name": "buttons.button_uncompleted.image_uncompleted",
+              "_dynamicFields": {
+                "hidden": [
+                  {
+                    "fullExpression": "!@local.display_uncompleted",
+                    "matchedExpression": "!@local.display_uncompleted",
+                    "type": "local",
+                    "fieldName": "display_uncompleted"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "!@local.display_uncompleted": [
+                  "hidden"
+                ]
               }
-            ]
-          },
-          "_dynamicDependencies": {
-            "!@local.display_uncompleted": [
-              "hidden"
-            ]
-          }
+            }
+          ],
+          "_nested_name": "buttons.button_uncompleted"
         },
         {
           "type": "button",
           "name": "button_completed",
           "value": "Next",
-          "_translations": {
-            "value": {
-              "tz_sw": true
-            }
-          },
           "action_list": [
             {
               "trigger": "click",
@@ -96,10 +102,26 @@
             }
           ],
           "parameter_list": {
-            "style": "navigation"
+            "style": "navigation",
+            "text_align": "centre"
           },
           "style_list": [
             "flex: 1"
+          ],
+          "rows": [
+            {
+              "type": "image",
+              "name": "image_completed",
+              "value": "images/icons/chevron_forward_white.svg",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "position": "right",
+                "style": "in_button"
+              },
+              "_nested_name": "buttons.button_completed.image_completed"
+            }
           ],
           "_nested_name": "buttons.button_completed"
         }
@@ -107,5 +129,5 @@
       "_nested_name": "buttons"
     }
   ],
-  "_xlsxPath": "templates/app_navigation.xlsx"
+  "_xlsxPath": "TZ app_navigation.xlsx"
 }
