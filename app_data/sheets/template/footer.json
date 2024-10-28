@@ -7,7 +7,7 @@
       "name": "button_list",
       "value": [
         {
-          "image": "images/logos/plh_white.png",
+          "image": "images/icons/house_white.svg",
           "target_template": "home_screen"
         },
         {
@@ -15,8 +15,8 @@
           "target_template": "picture_books"
         },
         {
-          "image": "images/icons/star_outline_white.svg",
-          "target_template": "relax_activities"
+          "image": "images/icons/hands_hold_heart_white.svg",
+          "target_template": "resource_centre"
         }
       ],
       "type": "set_variable",
@@ -48,5 +48,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/app_navigation.xlsx"
+  "_xlsxPath": "TZ app_navigation.xlsx"
 }

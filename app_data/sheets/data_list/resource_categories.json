@@ -1,0 +1,35 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "resource_categories",
+  "status": "released",
+  "data_list_name": "resource_categories",
+  "rows": [
+    {
+      "id": "relax",
+      "name": "Relax",
+      "_translations": {
+        "name": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Relax"
+        }
+      }
+    },
+    {
+      "id": "play",
+      "name": "Learning Through Play",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Learning Through Play"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "TZ resource centre.xlsx"
+}

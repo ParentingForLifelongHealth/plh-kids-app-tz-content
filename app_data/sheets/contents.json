@@ -7,12 +7,6 @@
       "data_list_name": "about_this_app",
       "_xlsxPath": "deployment_data_tz.xlsx"
     },
-    "activity_groups_data": {
-      "flow_type": "data_list",
-      "flow_name": "activity_groups_data",
-      "data_list_name": "activity_groups",
-      "_xlsxPath": "modules/TZ activities.xlsx"
-    },
     "language": {
       "flow_type": "data_list",
       "flow_name": "language",
@@ -367,6 +361,12 @@
       "flow_name": "relax",
       "data_list_name": "relax",
       "_xlsxPath": "modules/TZ relax.xlsx"
+    },
+    "resource_categories": {
+      "flow_type": "data_list",
+      "flow_name": "resource_categories",
+      "data_list_name": "resource_categories",
+      "_xlsxPath": "TZ resource centre.xlsx"
     }
   },
   "data_pipe": {
@@ -2369,6 +2369,124 @@
         }
       ]
     },
+    "gen_play": {
+      "flow_type": "generator",
+      "flow_name": "gen_play",
+      "parameter_list": {
+        "input_data_list": "play",
+        "output_flow_name": "play_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ activities template generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "play_happy_things",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_gardening",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_something_special",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_what_makes_us_special",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_pattern_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_cooking_together",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_household_helpers",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_music_and_dancing",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_walking_together",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_story",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_simon_says",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_when_I_grow_up",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_favourite_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_act_the_story",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_shadow_movie",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_build_a_road",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_animal_strengths",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_treasure_hunt",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_search_with_senses",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_count_and_compare",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_mystery_box",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_prep_categories": {
       "flow_type": "generator",
       "flow_name": "gen_prep_categories",
@@ -2531,149 +2649,6 @@
         },
         {
           "flow_name": "article_relax_24",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_relax_25",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
-    "gen_relax_text": {
-      "flow_type": "generator",
-      "flow_name": "gen_relax_text",
-      "parameter_list": {
-        "input_data_list": "relax",
-        "output_flow_name": "text_@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "templates/library/relax_activities.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "text_relax_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_3",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_6",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_7",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_8",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_9",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_10",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_11",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_12",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_13",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_14",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_15",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_16",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_17",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_18",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_19",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_20",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_21",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_22",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_23",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_24",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "text_relax_25",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3998,6 +3973,11 @@
     }
   },
   "template": {
+    "activity_carousel": {
+      "flow_type": "template",
+      "flow_name": "activity_carousel",
+      "_xlsxPath": "TZ resource centre.xlsx"
+    },
     "app_about": {
       "flow_type": "template",
       "flow_name": "app_about",
@@ -4096,7 +4076,7 @@
     "footer": {
       "flow_type": "template",
       "flow_name": "footer",
-      "_xlsxPath": "templates/app_navigation.xlsx"
+      "_xlsxPath": "TZ app_navigation.xlsx"
     },
     "article_check_in_1": {
       "flow_name": "article_check_in_1",
@@ -5015,11 +4995,6 @@
     },
     "article_relax_24": {
       "flow_name": "article_relax_24",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_relax_25": {
-      "flow_name": "article_relax_25",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6483,128 +6458,108 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_1": {
-      "flow_name": "text_relax_1",
+    "play_act_the_story": {
+      "flow_name": "play_act_the_story",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_10": {
-      "flow_name": "text_relax_10",
+    "play_animal_strengths": {
+      "flow_name": "play_animal_strengths",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_11": {
-      "flow_name": "text_relax_11",
+    "play_build_a_road": {
+      "flow_name": "play_build_a_road",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_12": {
-      "flow_name": "text_relax_12",
+    "play_cooking_together": {
+      "flow_name": "play_cooking_together",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_13": {
-      "flow_name": "text_relax_13",
+    "play_count_and_compare": {
+      "flow_name": "play_count_and_compare",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_14": {
-      "flow_name": "text_relax_14",
+    "play_favourite_play": {
+      "flow_name": "play_favourite_play",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_15": {
-      "flow_name": "text_relax_15",
+    "play_gardening": {
+      "flow_name": "play_gardening",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_16": {
-      "flow_name": "text_relax_16",
+    "play_happy_things": {
+      "flow_name": "play_happy_things",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_17": {
-      "flow_name": "text_relax_17",
+    "play_household_helpers": {
+      "flow_name": "play_household_helpers",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_18": {
-      "flow_name": "text_relax_18",
+    "play_music_and_dancing": {
+      "flow_name": "play_music_and_dancing",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_19": {
-      "flow_name": "text_relax_19",
+    "play_mystery_box": {
+      "flow_name": "play_mystery_box",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_2": {
-      "flow_name": "text_relax_2",
+    "play_pattern_play": {
+      "flow_name": "play_pattern_play",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_20": {
-      "flow_name": "text_relax_20",
+    "play_search_with_senses": {
+      "flow_name": "play_search_with_senses",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_21": {
-      "flow_name": "text_relax_21",
+    "play_shadow_movie": {
+      "flow_name": "play_shadow_movie",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_22": {
-      "flow_name": "text_relax_22",
+    "play_simon_says": {
+      "flow_name": "play_simon_says",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_23": {
-      "flow_name": "text_relax_23",
+    "play_something_special": {
+      "flow_name": "play_something_special",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_24": {
-      "flow_name": "text_relax_24",
+    "play_story": {
+      "flow_name": "play_story",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_25": {
-      "flow_name": "text_relax_25",
+    "play_treasure_hunt": {
+      "flow_name": "play_treasure_hunt",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_3": {
-      "flow_name": "text_relax_3",
+    "play_walking_together": {
+      "flow_name": "play_walking_together",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_4": {
-      "flow_name": "text_relax_4",
+    "play_what_makes_us_special": {
+      "flow_name": "play_what_makes_us_special",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "text_relax_5": {
-      "flow_name": "text_relax_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "text_relax_6": {
-      "flow_name": "text_relax_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "text_relax_7": {
-      "flow_name": "text_relax_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "text_relax_8": {
-      "flow_name": "text_relax_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "text_relax_9": {
-      "flow_name": "text_relax_9",
+    "play_when_I_grow_up": {
+      "flow_name": "play_when_I_grow_up",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6977,10 +6932,10 @@
       "flow_name": "relax_card",
       "_xlsxPath": "templates/library/relax_activities.xlsx"
     },
-    "relax_text": {
+    "resource_centre": {
       "flow_type": "template",
-      "flow_name": "relax_text",
-      "_xlsxPath": "templates/library/relax_activities.xlsx"
+      "flow_name": "resource_centre",
+      "_xlsxPath": "TZ resource centre.xlsx"
     },
     "section": {
       "flow_type": "template",

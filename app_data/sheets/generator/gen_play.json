@@ -1,0 +1,220 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_play",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "play",
+    "output_flow_name": "play_{@gen.id}",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@gen.title"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "@gen.image_asset",
+      "parameter_list": [
+        "style: rounded_corners"
+      ]
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "@gen.intro_text"
+    },
+    {
+      "name": "text_1",
+      "value": "@gen.steps_text"
+    },
+    {
+      "name": "text_2",
+      "value": "@gen.tips_text"
+    },
+    {
+      "name": "title_1",
+      "value": "Steps"
+    },
+    {
+      "name": "title_2",
+      "value": "Tips"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "first",
+          "value": "@local.title_1",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_1",
+              "value": "@local.text_1"
+            }
+          ]
+        },
+        {
+          "type": "accordion_section",
+          "name": "second",
+          "value": "@local.title_2",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_2",
+              "value": "@local.text_2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "display_uncompleted",
+          "value": false
+        },
+        {
+          "name": "button_completed",
+          "value": "Done"
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "modules/TZ activities template generators.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "play_happy_things",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_gardening",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_something_special",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_what_makes_us_special",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_pattern_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_cooking_together",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_household_helpers",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_music_and_dancing",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_walking_together",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_story",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_simon_says",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_when_I_grow_up",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_favourite_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_act_the_story",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_shadow_movie",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_build_a_road",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_animal_strengths",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_treasure_hunt",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_search_with_senses",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_count_and_compare",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_mystery_box",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

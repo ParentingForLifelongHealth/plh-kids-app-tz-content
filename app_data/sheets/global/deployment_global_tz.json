@@ -40,7 +40,7 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_face_asset",
-      "value": "images/facilitators_face.svg",
+      "value": "images/facilitator_face_woman.svg",
       "_translations": {
         "value": {}
       }
