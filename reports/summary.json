@@ -2,7 +2,7 @@
   "template_components": [
     {
       "type": "accordion",
-      "count": 1
+      "count": 22
     },
     {
       "type": "animated_section",
@@ -14,11 +14,11 @@
     },
     {
       "type": "button",
-      "count": 30
+      "count": 51
     },
     {
       "type": "carousel",
-      "count": 1
+      "count": 2
     },
     {
       "type": "combo_box",
@@ -38,11 +38,11 @@
     },
     {
       "type": "image",
-      "count": 9
+      "count": 30
     },
     {
       "type": "items",
-      "count": 8
+      "count": 9
     },
     {
       "type": "lottie_animation",
@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 422
+      "count": 505
     },
     {
       "type": "task_card",
@@ -70,11 +70,11 @@
     },
     {
       "type": "template",
-      "count": 542
+      "count": 516
     },
     {
       "type": "text",
-      "count": 70
+      "count": 90
     },
     {
       "type": "text_area",
@@ -90,7 +90,7 @@
     },
     {
       "type": "title",
-      "count": 20
+      "count": 42
     },
     {
       "type": "update_action_list",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 506
+      "count": 526
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 504
+      "count": 503
     },
     {
       "type": "feedback",
@@ -162,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "54997 KB",
-      "MB": "55 MB"
+      "KB": "56543 KB",
+      "MB": "56.5 MB"
     },
     {
       "assets": "unused",
-      "KB": "53892 KB",
-      "MB": "53.9 MB"
+      "KB": "56275 KB",
+      "MB": "56.3 MB"
     }
   ],
   "assets_unused": [
@@ -187,6 +187,78 @@
     {
       "path": "android/splash.png",
       "size_kb": 156.5
+    },
+    {
+      "path": "audio/modules/connect/connect_01.mp3",
+      "size_kb": 171.8
+    },
+    {
+      "path": "audio/modules/connect/connect_02.mp3",
+      "size_kb": 187.2
+    },
+    {
+      "path": "audio/modules/connect/connect_03.mp3",
+      "size_kb": 128.3
+    },
+    {
+      "path": "audio/modules/connect/connect_04.mp3",
+      "size_kb": 477.8
+    },
+    {
+      "path": "audio/modules/connect/connect_05.mp3",
+      "size_kb": 143.1
+    },
+    {
+      "path": "audio/modules/connect/connect_06.mp3",
+      "size_kb": 167.6
+    },
+    {
+      "path": "audio/modules/connect/connect_07.mp3",
+      "size_kb": 241.2
+    },
+    {
+      "path": "audio/modules/connect/connect_08.mp3",
+      "size_kb": 204.1
+    },
+    {
+      "path": "audio/modules/connect/connect_09.mp3",
+      "size_kb": 254.9
+    },
+    {
+      "path": "audio/modules/create/create_01.mp3",
+      "size_kb": 165.5
+    },
+    {
+      "path": "audio/modules/create/create_02.mp3",
+      "size_kb": 336.2
+    },
+    {
+      "path": "audio/modules/create/create_03.mp3",
+      "size_kb": 190.2
+    },
+    {
+      "path": "audio/modules/play/play_01.mp3",
+      "size_kb": 155.3
+    },
+    {
+      "path": "audio/modules/play/play_02.mp3",
+      "size_kb": 189.1
+    },
+    {
+      "path": "audio/modules/play/play_03.mp3",
+      "size_kb": 268.2
+    },
+    {
+      "path": "audio/modules/play/play_04.mp3",
+      "size_kb": 202.7
+    },
+    {
+      "path": "audio/modules/play/play_05.mp3",
+      "size_kb": 206.8
+    },
+    {
+      "path": "audio/modules/play/play_06.mp3",
+      "size_kb": 159.8
     },
     {
       "path": "contents.json",
@@ -745,7 +817,7 @@
       "size_kb": 23.1
     },
     {
-      "path": "images/facilitators_face_man.svg",
+      "path": "images/facilitator_face_man.svg",
       "size_kb": 7.4
     },
     {
@@ -825,36 +897,12 @@
       "size_kb": 1
     },
     {
+      "path": "images/icons/star_outline_white.svg",
+      "size_kb": 1
+    },
+    {
       "path": "images/icons/thought_bubble.svg",
       "size_kb": 2.1
-    },
-    {
-      "path": "images/learning_through_play/cooking_together.svg",
-      "size_kb": 95.8
-    },
-    {
-      "path": "images/learning_through_play/gardening.svg",
-      "size_kb": 125
-    },
-    {
-      "path": "images/learning_through_play/happy_things.svg",
-      "size_kb": 172.3
-    },
-    {
-      "path": "images/learning_through_play/household_helpers.svg",
-      "size_kb": 334.6
-    },
-    {
-      "path": "images/learning_through_play/makes_us_special.svg",
-      "size_kb": 149.5
-    },
-    {
-      "path": "images/learning_through_play/music_dancing.svg",
-      "size_kb": 117.2
-    },
-    {
-      "path": "images/learning_through_play/pattern_play_1.svg",
-      "size_kb": 102.2
     },
     {
       "path": "images/learning_through_play/pattern_play_2.svg",
@@ -865,16 +913,12 @@
       "size_kb": 70.8
     },
     {
-      "path": "images/learning_through_play/something_special.svg",
-      "size_kb": 192.1
-    },
-    {
-      "path": "images/learning_through_play/walking_together.svg",
-      "size_kb": 239.5
-    },
-    {
       "path": "images/logos/favicon.png",
       "size_kb": 6.3
+    },
+    {
+      "path": "images/logos/plh_white.png",
+      "size_kb": 12.8
     },
     {
       "path": "images/modules/connect/connect-01.svg",
@@ -913,8 +957,16 @@
       "size_kb": 2.7
     },
     {
+      "path": "images/modules/play/new_fertiliser.mp4",
+      "size_kb": 32.7
+    },
+    {
       "path": "images/modules/play/ok_emoji.svg",
       "size_kb": 1.4
+    },
+    {
+      "path": "images/relax/relax_woman.svg",
+      "size_kb": 14.8
     },
     {
       "path": "lottie/bulging_circles.txt",
@@ -1940,51 +1992,6 @@
       "missing": true
     },
     {
-      "path": "images/learning_thru_play/cooking_together.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/gardening.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/happy_things.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/household_helpers.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/makes_us_special.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/music_dancing .svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/pattern_play_1.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/something_special.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_thru_play/walking_together.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
       "path": "images/modules/build/build_title_image.svg",
       "count": 2,
       "missing": true
@@ -1992,6 +1999,16 @@
     {
       "path": "images/modules/care/care_title_image.svg",
       "count": 2,
+      "missing": true
+    },
+    {
+      "path": "images/modules/create/create_01.mp3",
+      "count": 3,
+      "missing": true
+    },
+    {
+      "path": "images/modules/create/create_02.mp3",
+      "count": 3,
       "missing": true
     },
     {
@@ -6107,7 +6124,7 @@
       "size_kb": 30.1
     },
     {
-      "path": "images/facilitators_face.svg",
+      "path": "images/facilitator_face_woman.svg",
       "count": 1,
       "size_kb": 17.5
     },
@@ -6157,14 +6174,24 @@
       "size_kb": 1.5
     },
     {
-      "path": "images/icons/heart.svg",
+      "path": "images/icons/hands_hold_heart_white.svg",
       "count": 1,
+      "size_kb": 3.4
+    },
+    {
+      "path": "images/icons/heart.svg",
+      "count": 2,
       "size_kb": 0.6
     },
     {
       "path": "images/icons/heart_filled.svg",
-      "count": 1,
+      "count": 2,
       "size_kb": 1.4
+    },
+    {
+      "path": "images/icons/house_white.svg",
+      "count": 1,
+      "size_kb": 0.6
     },
     {
       "path": "images/icons/in_progress.svg",
@@ -6207,11 +6234,6 @@
       "size_kb": 1
     },
     {
-      "path": "images/icons/star_outline_white.svg",
-      "count": 1,
-      "size_kb": 1
-    },
-    {
       "path": "images/icons/tick.svg",
       "count": 2,
       "size_kb": 0.3
@@ -6220,6 +6242,51 @@
       "path": "images/icons/tick_white.svg",
       "count": 1,
       "size_kb": 0.3
+    },
+    {
+      "path": "images/learning_through_play/cooking_together.svg",
+      "count": 2,
+      "size_kb": 95.8
+    },
+    {
+      "path": "images/learning_through_play/gardening.svg",
+      "count": 2,
+      "size_kb": 125
+    },
+    {
+      "path": "images/learning_through_play/happy_things.svg",
+      "count": 2,
+      "size_kb": 172.3
+    },
+    {
+      "path": "images/learning_through_play/household_helpers.svg",
+      "count": 2,
+      "size_kb": 334.6
+    },
+    {
+      "path": "images/learning_through_play/makes_us_special.svg",
+      "count": 2,
+      "size_kb": 149.5
+    },
+    {
+      "path": "images/learning_through_play/music_dancing.svg",
+      "count": 2,
+      "size_kb": 117.2
+    },
+    {
+      "path": "images/learning_through_play/pattern_play_1.svg",
+      "count": 2,
+      "size_kb": 102.2
+    },
+    {
+      "path": "images/learning_through_play/something_special.svg",
+      "count": 2,
+      "size_kb": 192.1
+    },
+    {
+      "path": "images/learning_through_play/walking_together.svg",
+      "count": 2,
+      "size_kb": 239.5
     },
     {
       "path": "images/logos/IDEMS.png",
@@ -6235,11 +6302,6 @@
       "path": "images/logos/lego_foundation.png",
       "count": 1,
       "size_kb": 54.4
-    },
-    {
-      "path": "images/logos/plh_white.png",
-      "count": 1,
-      "size_kb": 12.8
     },
     {
       "path": "images/modules/connect/connect_1.svg",
@@ -6662,6 +6724,11 @@
       "size_kb": 136.9
     },
     {
+      "path": "images/relax/relax_man.svg",
+      "count": 28,
+      "size_kb": 27
+    },
+    {
       "path": "lottie/bulging_circles.json",
       "count": 2,
       "size_kb": 11.8
@@ -6716,12 +6783,12 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 49
+      "total": 50
     },
     {
       "type": "template",
       "subtype": "generated",
-      "total": 547
+      "total": 542
     },
     {
       "type": "template",

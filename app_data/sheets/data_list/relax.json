@@ -8,6 +8,7 @@
       "id": "relax_1",
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1h3wNodphmp0PCZueby4UdtvBke5O6EqzcJPHNC2v7uY",
       "title": "Quick pause",
       "_translations": {
@@ -32,6 +33,7 @@
       "id": "relax_2",
       "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Power of three",
       "_translations": {
         "title": {
@@ -55,6 +57,7 @@
       "id": "relax_3",
       "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "One thing today",
       "_translations": {
         "title": {
@@ -78,6 +81,7 @@
       "id": "relax_4",
       "media_asset": "audio/relax/relax_4.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Breathe to three",
       "_translations": {
         "title": {
@@ -101,6 +105,7 @@
       "id": "relax_5",
       "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "In and out",
       "_translations": {
         "title": {
@@ -124,6 +129,7 @@
       "id": "relax_6",
       "media_asset": "audio/relax/relax_6.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Think about today",
       "_translations": {
         "title": {
@@ -147,6 +153,7 @@
       "id": "relax_7",
       "media_asset": "audio/relax/relax_7.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Pause to respond",
       "_translations": {
         "title": {
@@ -170,6 +177,7 @@
       "id": "relax_8",
       "media_asset": "audio/relax/relax_8.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Small things",
       "_translations": {
         "title": {
@@ -193,6 +201,7 @@
       "id": "relax_9",
       "media_asset": "audio/relax/relax_9.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Body scan",
       "_translations": {
         "title": {
@@ -216,6 +225,7 @@
       "id": "relax_10",
       "media_asset": "audio/relax/relax_10.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Feel the ground",
       "_translations": {
         "title": {
@@ -239,6 +249,7 @@
       "id": "relax_11",
       "media_asset": "audio/relax/relax_11.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Counting sounds",
       "_translations": {
         "title": {
@@ -262,6 +273,7 @@
       "id": "relax_12",
       "media_asset": "audio/relax/relax_12.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Feel your feelings",
       "_translations": {
         "title": {
@@ -285,6 +297,7 @@
       "id": "relax_13",
       "media_asset": "audio/relax/relax_13.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Your song",
       "_translations": {
         "title": {
@@ -308,6 +321,7 @@
       "id": "relax_14",
       "media_asset": "audio/relax/relax_14.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Ground & gratitude",
       "_translations": {
         "title": {
@@ -331,6 +345,7 @@
       "id": "relax_15",
       "media_asset": "audio/relax/relax_15.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Notice how you feel",
       "_translations": {
         "title": {
@@ -354,6 +369,7 @@
       "id": "relax_16",
       "media_asset": "audio/relax/relax_16.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Pause power",
       "_translations": {
         "title": {
@@ -377,6 +393,7 @@
       "id": "relax_17",
       "media_asset": "audio/relax/relax_17.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Praise yourself",
       "_translations": {
         "title": {
@@ -400,6 +417,7 @@
       "id": "relax_18",
       "media_asset": "audio/relax/relax_18.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Taking care of yourself",
       "_translations": {
         "title": {
@@ -423,6 +441,7 @@
       "id": "relax_19",
       "media_asset": "audio/relax/relax_19.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Take a pause",
       "_translations": {
         "title": {
@@ -446,6 +465,7 @@
       "id": "relax_20",
       "media_asset": "audio/relax/relax_20.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Physical activity",
       "_translations": {
         "title": {
@@ -469,6 +489,7 @@
       "id": "relax_21",
       "media_asset": "audio/relax/relax_21.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "List of things",
       "_translations": {
         "title": {
@@ -492,6 +513,7 @@
       "id": "relax_22",
       "media_asset": "audio/relax/relax_22.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Connect",
       "_translations": {
         "title": {
@@ -515,6 +537,7 @@
       "id": "relax_23",
       "media_asset": "audio/relax/relax_23.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Prevent anger",
       "_translations": {
         "title": {
@@ -538,6 +561,7 @@
       "id": "relax_24",
       "media_asset": "audio/relax/relax_24.mp3",
       "media_type": "audio",
+      "image_asset": "images/relax/relax_man.svg",
       "title": "Angry? Take a break",
       "_translations": {
         "title": {
@@ -556,9 +580,6 @@
         }
       },
       "transcript": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
-    },
-    {
-      "id": "relax_25"
     }
   ],
   "_xlsxPath": "modules/TZ relax.xlsx"

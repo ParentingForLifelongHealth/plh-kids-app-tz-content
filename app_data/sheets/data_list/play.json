@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "happy_things",
-      "image_asset": "images/learning_thru_play/happy_things.svg",
+      "image_asset": "images/learning_through_play/happy_things.svg",
       "group_id_list": [
         "chat_together"
       ],
@@ -54,7 +54,7 @@
     },
     {
       "id": "gardening",
-      "image_asset": "images/learning_thru_play/gardening.svg",
+      "image_asset": "images/learning_through_play/gardening.svg",
       "group_id_list": [
         "everyday_activities"
       ],
@@ -94,7 +94,7 @@
     },
     {
       "id": "something_special",
-      "image_asset": "images/learning_thru_play/something_special.svg",
+      "image_asset": "images/learning_through_play/something_special.svg",
       "group_id_list": [
         "everyday",
         "pretend_play"
@@ -135,7 +135,7 @@
     },
     {
       "id": "what_makes_us_special",
-      "image_asset": "images/learning_thru_play/makes_us_special.svg",
+      "image_asset": "images/learning_through_play/makes_us_special.svg",
       "group_id_list": [
         "chat_together"
       ],
@@ -175,7 +175,7 @@
     },
     {
       "id": "pattern_play",
-      "image_asset": "images/learning_thru_play/pattern_play_1.svg",
+      "image_asset": "images/learning_through_play/pattern_play_1.svg",
       "group_id_list": [
         "learning_at_home"
       ],
@@ -222,7 +222,7 @@
     },
     {
       "id": "cooking_together",
-      "image_asset": "images/learning_thru_play/cooking_together.svg",
+      "image_asset": "images/learning_through_play/cooking_together.svg",
       "group_id_list": [
         "everyday_activities"
       ],
@@ -262,7 +262,7 @@
     },
     {
       "id": "household_helpers",
-      "image_asset": "images/learning_thru_play/household_helpers.svg",
+      "image_asset": "images/learning_through_play/household_helpers.svg",
       "group_id_list": [
         "everyday_activities"
       ],
@@ -302,7 +302,7 @@
     },
     {
       "id": "music_and_dancing",
-      "image_asset": "images/learning_thru_play/music_dancing .svg",
+      "image_asset": "images/learning_through_play/music_dancing.svg",
       "group_id_list": [
         "everyday_activities",
         "move_your_body"
@@ -343,7 +343,7 @@
     },
     {
       "id": "walking_together",
-      "image_asset": "images/learning_thru_play/walking_together.svg",
+      "image_asset": "images/learning_through_play/walking_together.svg",
       "group_id_list": [
         "everyday_activities",
         "move_your_body"
@@ -557,9 +557,7 @@
         "steps_text": {
           "tz_sw": true
         },
-        "tips_text": {
-          "tz_sw": true
-        }
+        "tips_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -572,12 +570,12 @@
           "eng": "1. Choose a story your child knows and decide who will play which character.\n2. Discuss together what you will need to recreate the story. Household objects can be things in the story, and different areas can be different places. \n3. Tell the story and act it out together. You can do silly voices and actions for each character, and move around your home and garden or outside space."
         },
         "tips_text": {
-          "eng": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the ParentApp library and let your child choose a book, read it together and then act out the story."
+          "eng": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the @global.app_name library and let your child choose a book, read it together and then act out the story."
         }
       },
       "intro_text": "Children love playing pretend. Acting out a story together is a great way to help children learn to be creative and work towards a common goal.",
       "steps_text": "1. Choose a story your child knows and decide who will play which character.\n2. Discuss together what you will need to recreate the story. Household objects can be things in the story, and different areas can be different places. \n3. Tell the story and act it out together. You can do silly voices and actions for each character, and move around your home and garden or outside space.",
-      "tips_text": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the ParentApp library and let your child choose a book, read it together and then act out the story."
+      "tips_text": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the @global.app_name library and let your child choose a book, read it together and then act out the story."
     },
     {
       "id": "shadow_movie",

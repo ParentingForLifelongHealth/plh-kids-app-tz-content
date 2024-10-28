@@ -1,0 +1,225 @@
+{
+  "flow_name": "play_count_and_compare",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Count and compare",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "@gen.image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "rounded_corners"
+      },
+      "_nested_name": "image_asset"
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "There are lots of opportunities around your home or during everyday activities to count and compare objects. This is a great way to build your child’s numeracy skills, which helps them at school.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "intro_text"
+    },
+    {
+      "name": "text_1",
+      "value": "Ideas for counting and comparing games:\n* Label bottles with numbers and have children count and drop small objects inside to match the number on the bottle.\n* Count your steps as you climb the stairs, count the number of chickens you see on the road, the number of fruits in a tree, the number of trucks or cars…opportunities for counting and comparing are all around us. \n* Ask your child to categorise objects: which objects are big? Which are small? Soft? Hard? Heavy? Light? Which are used for cooking? Which are used for washing up?  \n* Ask your child to make comparisons: Which car is closest to our house? Which tree is the tallest in our garden? Which shoe is the smallest?  \n* Preparing snacks or cooking food is a great way to help your child understand adding and subtracting. If we have five mangoes and we use two for dinner, how many do we have left? How many pieces of bread do we need so that each one at the table gets two pieces?",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "text_1"
+    },
+    {
+      "name": "text_2",
+      "value": "* Praise and encourage your child if they get it right. Don’t react negatively or with judgement if they make a mistake. If they give the wrong answer, you can simply respond with the correct answer (e.g., if they say there are three bananas, but there are actually 5, you can respond with: *“Hmmm, let’s look carefully – how many do we see? 1, 2, 3, 4, 5. I see five bananas. Can you count them again and see if you also count five?”*). This will encourage them to keep trying and to keep learning with your encouragement.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "text_2"
+    },
+    {
+      "name": "title_1",
+      "value": "Steps",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "title_1"
+    },
+    {
+      "name": "title_2",
+      "value": "Tips",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "first",
+          "value": "@local.title_1",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_1",
+              "value": "@local.text_1",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "accordion.first.accordion_content_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_1",
+                    "matchedExpression": "@local.text_1",
+                    "type": "local",
+                    "fieldName": "text_1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_1": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.first",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_1",
+                "matchedExpression": "@local.title_1",
+                "type": "local",
+                "fieldName": "title_1"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_1": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "accordion_section",
+          "name": "second",
+          "value": "@local.title_2",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_2",
+              "value": "@local.text_2",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "accordion.second.accordion_content_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_2",
+                    "matchedExpression": "@local.text_2",
+                    "type": "local",
+                    "fieldName": "text_2"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_2": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.second",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_2",
+                "matchedExpression": "@local.title_2",
+                "type": "local",
+                "fieldName": "title_2"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_2": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "display_uncompleted",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.display_uncompleted"
+        },
+        {
+          "name": "button_completed",
+          "value": "Done",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.button_completed"
+        }
+      ],
+      "_nested_name": "nav_buttons"
+    }
+  ]
+}
