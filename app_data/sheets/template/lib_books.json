@@ -135,11 +135,13 @@
           "tz_sw": true
         }
       },
+      "condition": false,
       "_nested_name": "title"
     },
     {
       "type": "carousel",
       "name": "carousel",
+      "condition": false,
       "parameter_list": {
         "centred_slides": "false",
         "space_between": "0"
@@ -148,13 +150,14 @@
         {
           "type": "items",
           "value": "@data.books",
+          "condition": false,
           "rows": [
             {
               "value": "@data.books",
               "_translations": {
                 "value": {}
               },
-              "hidden": "!@field.@item.favourite_field",
+              "condition": false,
               "type": "set_variable",
               "name": "set_variable_1",
               "_nested_name": "carousel.items_1.set_variable_1",
@@ -166,22 +169,11 @@
                     "type": "data",
                     "fieldName": "books"
                   }
-                ],
-                "hidden": [
-                  {
-                    "fullExpression": "!@field.@item.favourite_field",
-                    "matchedExpression": "@item.favourite_field",
-                    "type": "item",
-                    "fieldName": "favourite_field"
-                  }
                 ]
               },
               "_dynamicDependencies": {
                 "@data.books": [
                   "value"
-                ],
-                "@item.favourite_field": [
-                  "hidden"
                 ]
               }
             }
@@ -208,6 +200,12 @@
       "_nested_name": "carousel"
     },
     {
+      "condition": false,
+      "type": "set_variable",
+      "name": "set_variable_12",
+      "_nested_name": "set_variable_12"
+    },
+    {
       "type": "title",
       "name": "title",
       "value": "All Books",
@@ -216,13 +214,15 @@
           "tz_sw": true
         }
       },
+      "condition": false,
       "_nested_name": "title"
     },
     {
+      "condition": false,
       "hidden": "!@field.@item.favourite_field",
       "type": "set_variable",
-      "name": "set_variable_13",
-      "_nested_name": "set_variable_13",
+      "name": "set_variable_14",
+      "_nested_name": "set_variable_14",
       "_dynamicFields": {
         "hidden": [
           {
@@ -241,6 +241,7 @@
     },
     {
       "name": "answer_list",
+      "condition": false,
       "type": "set_variable",
       "_nested_name": "answer_list"
     },
@@ -256,6 +257,7 @@
     {
       "type": "radio_button_grid",
       "name": "radio_grid_1",
+      "condition": false,
       "parameter_list": {
         "answer_list": "@data.book_levels",
         "grid_width": "100%",

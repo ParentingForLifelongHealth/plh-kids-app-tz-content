@@ -387,6 +387,7 @@
               "_cleaned": "changed | set_field: @local.toggle_history_field_name: @local.toggle_history_value"
             }
           ],
+          "condition": false,
           "parameter_list": {
             "variant": "icon",
             "icon_true_asset": "images/icons/heart_filled.svg",

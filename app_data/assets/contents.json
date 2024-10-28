@@ -4325,6 +4325,14 @@
     "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
     "size_kb": 0.7
   },
+  "images/icons/chevron_back_white.svg": {
+    "md5Checksum": "a4baa37914bd75a9661409448b0ca174",
+    "size_kb": 1.3
+  },
+  "images/icons/chevron_forward_white.svg": {
+    "md5Checksum": "72e4d75307c33a2e9ce252f1549e43e7",
+    "size_kb": 1.3
+  },
   "images/icons/faces/angry.svg": {
     "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",
     "size_kb": 1.1
