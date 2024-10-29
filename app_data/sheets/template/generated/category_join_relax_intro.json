@@ -1,12 +1,12 @@
 {
-  "flow_name": "article_connect_id_27",
+  "flow_name": "category_join_relax_intro",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "article",
-      "value": "article",
+      "name": "category",
+      "value": "category",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,26 +29,27 @@
       ],
       "rows": [
         {
-          "name": "article_id",
-          "value": "id_27",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "article.article_id"
-        },
-        {
-          "name": "module_id",
-          "value": "connect",
+          "name": "category_id",
+          "value": "relax_intro",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "article.module_id"
+          "_nested_name": "category.category_id"
+        },
+        {
+          "name": "module_id",
+          "value": "join",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "category.module_id"
         }
       ],
-      "_nested_name": "article"
+      "_nested_name": "category"
     }
   ]
 }

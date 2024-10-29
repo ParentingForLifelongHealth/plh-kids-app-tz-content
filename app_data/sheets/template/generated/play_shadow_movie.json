@@ -202,19 +202,10 @@
       ],
       "rows": [
         {
-          "name": "display_uncompleted",
-          "value": false,
+          "name": "is_standalone_task",
+          "value": true,
           "type": "set_variable",
-          "_nested_name": "nav_buttons.display_uncompleted"
-        },
-        {
-          "name": "button_completed",
-          "value": "Done",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.button_completed"
+          "_nested_name": "nav_buttons.is_standalone_task"
         }
       ],
       "_nested_name": "nav_buttons"

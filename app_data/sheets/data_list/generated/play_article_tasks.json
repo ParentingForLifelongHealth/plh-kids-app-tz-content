@@ -8,7 +8,7 @@
       "category_id": "why_play",
       "image_asset": "images/modules/play/why_play_1.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_01.mp3",
+      "media_asset": "audio/modules/play/play_01.m4a",
       "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
       "text_1": "Creating time and space for children to play is as important as eating and sleeping!",
       "_translations": {
@@ -67,7 +67,7 @@
       "category_id": "why_play",
       "image_asset": "images/modules/play/new_fertiliser.gif",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_02.mp3",
+      "media_asset": "audio/modules/play/play_02.m4a",
       "text_1": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development.",
       "_translations": {
         "text_1": {
@@ -166,7 +166,7 @@
       "id": "how_to_play_4",
       "category_id": "how_play",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_03.mp3",
+      "media_asset": "audio/modules/play/play_03.m4a",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s hear from a caregiver:"
@@ -199,10 +199,10 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/power_of_play_1.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_04.mp3",
+      "media_asset": "audio/modules/play/play_04.m4a",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Did you know?: You can use play to your advantage."
+          "eng": "Did you know that you can use play to your advantage?"
         },
         "text_2": {
           "eng": "Playful interactions can help your child cooperate and follow instructions."
@@ -229,7 +229,7 @@
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!",
-      "text_1_facilitator": "Did you know?: You can use play to your advantage.",
+      "text_1_facilitator": "Did you know that you can use play to your advantage?",
       "completed": false
     },
     {
@@ -644,7 +644,7 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/play_module_ideas.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_05.mp3",
+      "media_asset": "audio/modules/play/play_05.m4a",
       "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
       "_translations": {
         "text_1": {},
@@ -697,9 +697,7 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1": {
@@ -709,11 +707,11 @@
           "eng": "Listen to this example:"
         },
         "media_transcript": {
-          "eng": "Need to add"
+          "eng": "“Look! Here are two white ducks and one BIG green frog! Hmm, what do you think the frog might be saying to the ducks? Maybe Mr Frog is saying: “croak, come - let’s jump into the water and make a big splash! Ready? One, two, three - jump!”"
         }
       },
       "media_title": "Listen to this example:",
-      "media_transcript": "Need to add",
+      "media_transcript": "“Look! Here are two white ducks and one BIG green frog! Hmm, what do you think the frog might be saying to the ducks? Maybe Mr Frog is saying: “croak, come - let’s jump into the water and make a big splash! Ready? One, two, three - jump!”",
       "completed": false
     },
     {

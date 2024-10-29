@@ -10,7 +10,6 @@
       "media_type": "audio",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1lpXd8yo_AdER942tfRycEx1NiIFSoVLMHnYnzY-BekE",
       "text_1": "Well done for starting your ParentApp journey, it’s good to have you here.",
       "_translations": {
         "text_1": {},
@@ -59,6 +58,11 @@
     },
     {
       "id": "welcome_2",
+      "category_id": "welcome",
+      "completed": false
+    },
+    {
+      "id": "welcome_3",
       "category_id": "welcome",
       "image_asset": "images/modules/join/join_2.svg",
       "media_type": "audio",

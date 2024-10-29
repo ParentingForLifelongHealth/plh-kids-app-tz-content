@@ -30,9 +30,7 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1": {
@@ -42,11 +40,11 @@
           "eng": "Listen to this example:"
         },
         "media_transcript": {
-          "eng": "Need to add"
+          "eng": "“Look! Here are two white ducks and one BIG green frog! Hmm, what do you think the frog might be saying to the ducks? Maybe Mr Frog is saying: “croak, come - let’s jump into the water and make a big splash! Ready? One, two, three - jump!”"
         }
       },
       "media_title": "Listen to this example:",
-      "media_transcript": "Need to add",
+      "media_transcript": "“Look! Here are two white ducks and one BIG green frog! Hmm, what do you think the frog might be saying to the ducks? Maybe Mr Frog is saying: “croak, come - let’s jump into the water and make a big splash! Ready? One, two, three - jump!”",
       "completed": false
     },
     {

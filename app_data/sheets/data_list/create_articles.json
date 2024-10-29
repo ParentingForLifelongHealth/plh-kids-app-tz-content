@@ -50,7 +50,7 @@
       "category_id": "why_create",
       "image_asset": "images/modules/create/create_3.gif",
       "media_type": "audio",
-      "media_asset": "audio/modules/create/create_01.mp3",
+      "media_asset": "images/modules/create/create_01.mp3",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -485,7 +485,7 @@
       "category_id": "books_create",
       "image_asset": "images/modules/create/create_18.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/create/create_03.mp3",
+      "media_asset": "images/modules/create/create_03.mp2",
       "text_1": "As you go through the book together, respond to what your child is saying in a positive and enthusiastic way.",
       "_translations": {
         "text_1": {},
@@ -513,7 +513,7 @@
       "category_id": "books_create",
       "image_asset": "images/modules/create/create_19.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/create/create_02.mp3",
+      "media_asset": "images/modules/create/create_02.mp3",
       "text_1": "Avoid being critical or negative.",
       "_translations": {
         "text_1": {},

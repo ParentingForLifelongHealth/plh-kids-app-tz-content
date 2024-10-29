@@ -5,38 +5,50 @@
   "data_list_name": "book_tags",
   "rows": [
     {
-      "id": "nature",
-      "title": "Nature and Animals",
+      "id": "animals",
+      "title": "Animals",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Nature and Animals"
+          "eng": "Animals"
+        }
+      }
+    },
+    {
+      "id": "nature",
+      "title": "Nature",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Nature"
         }
       }
     },
     {
       "id": "emotions",
-      "title": "Emotions and Life Skills",
+      "title": "Emotions",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Emotions and Life Skills"
+          "eng": "Emotions"
         }
       }
     },
     {
-      "id": "family",
-      "title": "Family and Friends",
+      "id": "life skills",
+      "title": "Life Skills",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Family and Friends"
+          "eng": "Life Skills"
         }
       }
     },
@@ -65,6 +77,30 @@
       }
     },
     {
+      "id": "family",
+      "title": "Family",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Family"
+        }
+      }
+    },
+    {
+      "id": "friends",
+      "title": "Friends",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Friends"
+        }
+      }
+    },
+    {
       "id": "play",
       "title": "Let's Play",
       "_translations": {
@@ -73,18 +109,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Let's Play"
-        }
-      }
-    },
-    {
-      "id": "diversity",
-      "title": "Culture and Diversity",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Culture and Diversity"
         }
       }
     }
