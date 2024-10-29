@@ -537,7 +537,7 @@
     {
       "id": "moms_red_coat",
       "status": "released",
-      "image_cover_asset": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
+      "image_cover_asset": "images/books/moms_red_coat/cover.png",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "level_id": "level_2",
       "author": "Chrissie Kritzinger",
@@ -567,8 +567,6 @@
       "guidance_11_a": "Say: Look, the wind blew the red coat away. Ask: who do you think is under the coat? Why do you think so?",
       "image_12_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page15.jpg",
       "guidance_12_a": "Demonstrate the emotions from the story. Say in a happy voice: hooray! His mom is back! Ask: how do you think he is feeling now?",
-      "image_13_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page16.jpg",
-      "image_14_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page17.jpg",
       "other_credits": "This book has been published on StoryWeaver by Book Dash. This book has been published on StoryWeaver by Book Dash. It was created at Book Dash, Durban on 29 October 2022 by Chrissie Kritzinger, Brad Cuzen, Meerashen Naidoo, and Zanri Kritzinger.",
       "images_attributions": "Cover page: Mother and child holding a red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Child hugging mother in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Child and mother hugging, sleeping, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Adult in red coat excited, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mom kneeling next to child, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Child hugging mother as she leaves, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child lying on red coat with food, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child painting in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Child and adult gardening, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child sleeping with dirty red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Washed clothes on line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Red coat falling on lady coming out of car, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Mother patting child on head, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Clothes on drying line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dirty red coat hanging, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "Mom's Red Coat",
@@ -2159,7 +2157,7 @@
       "guidance_11_a": "Describe and explain the pictures. Say: Look, the three boys from the photo are now older.",
       "image_12_asset": "images/books/little_shoots/page15.jpg",
       "guidance_12_a": "Ask: what looks different in this picture? What has changed?",
-      "image_13_asset": "Add image",
+      "image_13_asset": "images/books/little_shoots/page17.jpg",
       "guidance_13_a": "Reflect on the story with your child. Ask: What happened in this story? What was the story about? What did you think of the story?",
       "title": "Little Shoots",
       "_translations": {
@@ -2555,7 +2553,7 @@
     {
       "id": "things_that_matter",
       "status": "released",
-      "image_cover_asset": "images/books/the_things_that_really_matter/cover.jpg",
+      "image_cover_asset": "images/books/the_things_that_really_matter/cover.png",
       "guidance_cover": "Bring your child’s attention to the book’s cover. Ask: What are they doing? What do you think this story could be about?",
       "author": "Refiloe Moahloli",
       "illustrator": "Subi Bosa",
@@ -2706,7 +2704,7 @@
     {
       "id": "to_the_top",
       "status": "released",
-      "image_cover_asset": "images/books/to_the_top/cover.jpg",
+      "image_cover_asset": "images/books/to_the_top/cover.png",
       "guidance_cover": "Discuss the book’s cover. Ask your child: What do you see? Where do you think they might be going?",
       "level_id": "level_1",
       "author": "Clea Mallinson",
@@ -2736,7 +2734,7 @@
       "guidance_11_a": "Ask your child: Where is the frog sitting? What is the bird doing? Who is sitting at the top of the hill?",
       "image_12_asset": "images/books/to_the_top/page15.jpg",
       "guidance_12_a": "Ask: why are they sitting down? What are they looking at? How would you feel after climbing such a big mountain?",
-      "image_13_asset": "add image",
+      "image_13_asset": "images/books/to_the_top/page17.jpg",
       "guidance_13_a": "Act out events from the book at a later stage. Go for a walk with your child and see what animals and birds you can spot as you walk. Or, collect different hats around your house and make a game out of hiding them and trying to find them.",
       "title": "To The Top!",
       "_translations": {
@@ -2999,7 +2997,7 @@
     {
       "id": "babys_first_photo",
       "status": "released",
-      "image_cover_asset": "images/books/babys_first_photo/cover.jpg",
+      "image_cover_asset": "images/books/babys_first_photo/cover.png",
       "guidance_cover": "Discuss the book’s cover. Ask: What do you see? What do you think this story is about?",
       "level_id": "level_1",
       "author": "Edem Torkornoo",
@@ -5470,7 +5468,7 @@
     {
       "id": "shongololo_s_shoes",
       "status": "released",
-      "image_cover_asset": "images/books/shongololo_s_shoes/image_1.jpg",
+      "image_cover_asset": "images/books/shongololo_s_shoes/cover.png",
       "guidance_cover": "Discuss the book’s cover. Ask: What do you see? Where is the millipede shongololo sitting?",
       "level_id": "level_2",
       "author": "Jacqui L’Ange",
@@ -6926,7 +6924,6 @@
       "image_22_asset": "images/books/when_grow_up/image_23.jpg",
       "image_23_asset": "images/books/when_grow_up/image_24.jpg",
       "image_24_asset": "images/books/when_grow_up/image_25.jpg",
-      "image_25_asset": "image/books/when_grow_up/image_26.jpg",
       "title": "When I grow up",
       "_translations": {
         "title": {
@@ -8501,7 +8498,7 @@
     {
       "id": "lefas_bath",
       "status": "released",
-      "image_cover_asset": "images/books/lefas_bath/cover.jpg",
+      "image_cover_asset": "images/books/lefas_bath/cover.png",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "author": "Marion Drew",
       "illustrator": "Ellen Heydenrych",

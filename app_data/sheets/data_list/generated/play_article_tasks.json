@@ -8,7 +8,7 @@
       "category_id": "why_play",
       "image_asset": "images/modules/play/why_play_1.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_01.m4a",
+      "media_asset": "audio/modules/play/play_01.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
       "text_1": "Creating time and space for children to play is as important as eating and sleeping!",
       "_translations": {
@@ -67,7 +67,7 @@
       "category_id": "why_play",
       "image_asset": "images/modules/play/new_fertiliser.gif",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_02.m4a",
+      "media_asset": "audio/modules/play/play_02.mp3",
       "text_1": "In the same way that fertiliser boosts plant growth, playing with your child is the magic ingredient that supercharges their learning and development.",
       "_translations": {
         "text_1": {
@@ -166,7 +166,7 @@
       "id": "how_to_play_4",
       "category_id": "how_play",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_03.m4a",
+      "media_asset": "audio/modules/play/play_03.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s hear from a caregiver:"
@@ -199,7 +199,7 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/power_of_play_1.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_04.m4a",
+      "media_asset": "audio/modules/play/play_04.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Did you know?: You can use play to your advantage."
@@ -644,7 +644,7 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/play_module_ideas.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_05.m4a",
+      "media_asset": "audio/modules/play/play_05.mp3",
       "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
       "_translations": {
         "text_1": {},

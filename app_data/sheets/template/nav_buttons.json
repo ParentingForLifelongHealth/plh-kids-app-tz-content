@@ -53,6 +53,7 @@
           "style_list": [
             "flex: 1"
           ],
+          "condition": "!!@local.display_uncompleted",
           "rows": [
             {
               "type": "image",
@@ -65,26 +66,25 @@
                 "position": "left",
                 "style": "in_button"
               },
-              "hidden": "!@local.display_uncompleted",
-              "_nested_name": "buttons.button_uncompleted.image_uncompleted",
-              "_dynamicFields": {
-                "hidden": [
-                  {
-                    "fullExpression": "!@local.display_uncompleted",
-                    "matchedExpression": "!@local.display_uncompleted",
-                    "type": "local",
-                    "fieldName": "display_uncompleted"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "!@local.display_uncompleted": [
-                  "hidden"
-                ]
-              }
+              "_nested_name": "buttons.button_uncompleted.image_uncompleted"
             }
           ],
-          "_nested_name": "buttons.button_uncompleted"
+          "_nested_name": "buttons.button_uncompleted",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!!@local.display_uncompleted",
+                "matchedExpression": "!@local.display_uncompleted",
+                "type": "local",
+                "fieldName": "display_uncompleted"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.display_uncompleted": [
+              "condition"
+            ]
+          }
         },
         {
           "type": "button",

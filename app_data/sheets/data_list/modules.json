@@ -87,7 +87,7 @@
           "eng": "CONNECT"
         },
         "description_short": {
-          "eng": "connecting with your child"
+          "eng": "Connect with your child"
         },
         "description": {
           "eng": "Making time to connect with your child helps build a strong and positive relationship."
@@ -96,7 +96,7 @@
           "eng": "Well done for finishing the CONNECT module!"
         }
       },
-      "description_short": "connecting with your child",
+      "description_short": "Connect with your child",
       "description": "Making time to connect with your child helps build a strong and positive relationship.",
       "congratulation_text": "Well done for finishing the CONNECT module!"
     },
@@ -135,7 +135,7 @@
           "eng": "CREATE"
         },
         "description_short": {
-          "eng": "creating a positive environment"
+          "eng": "Create a positive environment"
         },
         "description": {
           "eng": "Create a positive and supportive environment for your child to learn in."
@@ -144,7 +144,7 @@
           "eng": "Well done for finishing the CREATE module!"
         }
       },
-      "description_short": "creating a positive environment",
+      "description_short": "Create a positive environment",
       "description": "Create a positive and supportive environment for your child to learn in.",
       "congratulation_text": "Well done for finishing the CREATE module!"
     },
@@ -183,7 +183,7 @@
           "eng": "PLAY"
         },
         "description_short": {
-          "eng": "playful interactions"
+          "eng": "Playful interactions"
         },
         "description": {
           "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
@@ -192,7 +192,7 @@
           "eng": "Well done for finishing the PLAY module!"
         }
       },
-      "description_short": "playful interactions",
+      "description_short": "Playful interactions",
       "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
       "congratulation_text": "Well done for finishing the PLAY module!"
     },
@@ -231,7 +231,7 @@
           "eng": "TALK"
         },
         "description_short": {
-          "eng": "talking with your child"
+          "eng": "Talk with your child"
         },
         "description": {
           "eng": "Words are powerful. What you say to your child and how you say it makes a difference."
@@ -240,7 +240,7 @@
           "eng": "Well done for finishing the TALK module!"
         }
       },
-      "description_short": "talking with your child",
+      "description_short": "Talk with your child",
       "description": "Words are powerful. What you say to your child and how you say it makes a difference.",
       "congratulation_text": "Well done for finishing the TALK module!"
     },
@@ -279,7 +279,7 @@
           "eng": "BUILD"
         },
         "description_short": {
-          "eng": "helping your child build skills"
+          "eng": "Helping your child build skills"
         },
         "description": {
           "eng": "Help your child build skills to deal with challenges."
@@ -288,7 +288,7 @@
           "eng": "Well done for finishing the BUILD module!"
         }
       },
-      "description_short": "helping your child build skills",
+      "description_short": "Helping your child build skills",
       "description": "Help your child build skills to deal with challenges.",
       "congratulation_text": "Well done for finishing the BUILD module!"
     },
@@ -327,7 +327,7 @@
           "eng": "EXPLORE"
         },
         "description_short": {
-          "eng": "exploring your environment"
+          "eng": "Explore your environment"
         },
         "description": {
           "eng": "Support your child to explore and learn from the world around them."
@@ -336,7 +336,7 @@
           "eng": "Well done for finishing the EXPLORE module!"
         }
       },
-      "description_short": "exploring your environment",
+      "description_short": "Explore your environment",
       "description": "Support your child to explore and learn from the world around them.",
       "congratulation_text": "Well done for finishing the EXPLORE module!"
     },

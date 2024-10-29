@@ -86,7 +86,7 @@
           "eng": "CONNECT"
         },
         "description_short": {
-          "eng": "connecting with your child"
+          "eng": "Connect with your child"
         },
         "description": {
           "eng": "Making time to connect with your child helps build a strong and positive relationship."
@@ -95,7 +95,7 @@
           "eng": "Well done for finishing the CONNECT module!"
         }
       },
-      "description_short": "connecting with your child",
+      "description_short": "Connect with your child",
       "description": "Making time to connect with your child helps build a strong and positive relationship.",
       "congratulation_text": "Well done for finishing the CONNECT module!"
     },
@@ -134,7 +134,7 @@
           "eng": "CREATE"
         },
         "description_short": {
-          "eng": "creating a positive environment"
+          "eng": "Create a positive environment"
         },
         "description": {
           "eng": "Create a positive and supportive environment for your child to learn in."
@@ -143,7 +143,7 @@
           "eng": "Well done for finishing the CREATE module!"
         }
       },
-      "description_short": "creating a positive environment",
+      "description_short": "Create a positive environment",
       "description": "Create a positive and supportive environment for your child to learn in.",
       "congratulation_text": "Well done for finishing the CREATE module!"
     },
@@ -182,7 +182,7 @@
           "eng": "PLAY"
         },
         "description_short": {
-          "eng": "playful interactions"
+          "eng": "Playful interactions"
         },
         "description": {
           "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
@@ -191,7 +191,7 @@
           "eng": "Well done for finishing the PLAY module!"
         }
       },
-      "description_short": "playful interactions",
+      "description_short": "Playful interactions",
       "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
       "congratulation_text": "Well done for finishing the PLAY module!"
     }

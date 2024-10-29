@@ -8,7 +8,7 @@
       "category_id": "why_connect",
       "image_asset": "images/modules/connect/connect_1.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_01.aac",
+      "media_asset": "audio/modules/connect/connect_01.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1PAWPEQpGAcIjyAUbXC2O0uSkRawq1MxFgHf9Im9lqps",
       "text_1": "This week, we are focusing on the topic of **CONNECTION**.",
       "_translations": {
@@ -65,7 +65,7 @@
       "category_id": "why_connect",
       "image_asset": "images/modules/connect/connect_3.gif",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_02.m4a",
+      "media_asset": "audio/modules/connect/connect_02.mp3",
       "text_1": "A plant that is firmly connected to the soil can grow strong roots and withstand storms. Children need strong connections with their caregivers to grow and thrive.",
       "_translations": {
         "text_1": {},
@@ -176,7 +176,7 @@
       "category_id": "how_connect",
       "image_asset": "images/modules/connect/connect_6.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_03.aac",
+      "media_asset": "audio/modules/connect/connect_03.mp3",
       "_translatedFields": {
         "text_2": {
           "eng": "During one-on-one time, **be responsive and enthusiastic.**\n\nRespond to what your child is doing and saying with enthusiasm and encouragement."
@@ -204,7 +204,7 @@
       "id": "the_power_of_connection_1",
       "category_id": "power_connect",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_04.m4a",
+      "media_asset": "audio/modules/connect/connect_04.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s hear from a caregiver:"
@@ -228,7 +228,7 @@
       "category_id": "power_connect",
       "image_asset": "images/modules/connect/connect_7.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_05.aac",
+      "media_asset": "audio/modules/connect/connect_05.mp3",
       "text_1": "Did you know: connecting with your child can help reduce negative behaviours.",
       "_translations": {
         "text_1": {},
@@ -257,7 +257,7 @@
       "category_id": "power_connect",
       "image_asset": "images/modules/connect/connect_8.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_06.aac",
+      "media_asset": "audio/modules/connect/connect_06.mp3",
       "text_1": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
       "_translations": {
         "text_1": {},
@@ -311,7 +311,7 @@
       "category_id": "books_connect",
       "image_asset": "images/modules/connect/connect_10.svg",
       "media_type": "video",
-      "media_asset": "audio/modules/connect/connect_07.m4a",
+      "media_asset": "audio/modules/connect/connect_07.mp3",
       "text_1": "Make book and story activities part of your daily routine.",
       "_translations": {
         "text_1": {},
@@ -383,7 +383,7 @@
       "category_id": "books_connect",
       "image_asset": "images/modules/connect/connect_11.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_08.m4a",
+      "media_asset": "audio/modules/connect/connect_08.mp3",
       "text_1": "As you go through the book, give your child your full attention. Notice and respond to what your child is interested in.",
       "_translations": {
         "text_1": {},
@@ -410,7 +410,7 @@
       "category_id": "books_connect",
       "image_asset": "images/modules/connect/connect_12.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/connect/connect_04.m4a",
+      "media_asset": "audio/modules/connect/connect_04.mp3",
       "text_1": "Don’t force your child if they are not interested. Rather try again another time.",
       "_translations": {
         "text_1": {},

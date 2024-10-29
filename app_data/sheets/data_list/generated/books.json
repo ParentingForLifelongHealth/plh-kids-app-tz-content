@@ -536,7 +536,7 @@
     {
       "id": "moms_red_coat",
       "status": "released",
-      "image_cover_asset": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
+      "image_cover_asset": "images/books/moms_red_coat/cover.png",
       "level_id": "level_2",
       "author": "Chrissie Kritzinger",
       "illustrator": "Brad Cuzen",
@@ -553,8 +553,6 @@
       "image_10_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page13.jpg",
       "image_11_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page14.jpg",
       "image_12_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page15.jpg",
-      "image_13_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page16.jpg",
-      "image_14_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page17.jpg",
       "other_credits": "This book has been published on StoryWeaver by Book Dash. This book has been published on StoryWeaver by Book Dash. It was created at Book Dash, Durban on 29 October 2022 by Chrissie Kritzinger, Brad Cuzen, Meerashen Naidoo, and Zanri Kritzinger.",
       "images_attributions": "Cover page: Mother and child holding a red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Child hugging mother in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Child and mother hugging, sleeping, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Adult in red coat excited, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mom kneeling next to child, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Child hugging mother as she leaves, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child lying on red coat with food, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child painting in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Child and adult gardening, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child sleeping with dirty red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Washed clothes on line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Red coat falling on lady coming out of car, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Mother patting child on head, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Clothes on drying line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dirty red coat hanging, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "Mom's Red Coat",
@@ -1801,7 +1799,7 @@
       "image_10_asset": "images/books/little_shoots/page13.jpg",
       "image_11_asset": "images/books/little_shoots/page14.jpg",
       "image_12_asset": "images/books/little_shoots/page15.jpg",
-      "image_13_asset": "Add image",
+      "image_13_asset": "images/books/little_shoots/page17.jpg",
       "title": "Little Shoots",
       "_translations": {
         "title": {
@@ -2210,7 +2208,7 @@
     {
       "id": "things_that_matter",
       "status": "released",
-      "image_cover_asset": "images/books/the_things_that_really_matter/cover.jpg",
+      "image_cover_asset": "images/books/the_things_that_really_matter/cover.png",
       "author": "Refiloe Moahloli",
       "illustrator": "Subi Bosa",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2361,7 +2359,7 @@
     {
       "id": "to_the_top",
       "status": "released",
-      "image_cover_asset": "images/books/to_the_top/cover.jpg",
+      "image_cover_asset": "images/books/to_the_top/cover.png",
       "level_id": "level_1",
       "author": "Clea Mallinson",
       "illustrator": "Julie Smith-Belton",
@@ -2378,7 +2376,7 @@
       "image_10_asset": "images/books/to_the_top/page13.jpg",
       "image_11_asset": "images/books/to_the_top/page14.jpg",
       "image_12_asset": "images/books/to_the_top/page15.jpg",
-      "image_13_asset": "add image",
+      "image_13_asset": "images/books/to_the_top/page17.jpg",
       "title": "To The Top!",
       "_translations": {
         "title": {
@@ -2654,7 +2652,7 @@
     {
       "id": "babys_first_photo",
       "status": "released",
-      "image_cover_asset": "images/books/babys_first_photo/cover.jpg",
+      "image_cover_asset": "images/books/babys_first_photo/cover.png",
       "level_id": "level_1",
       "author": "Edem Torkornoo",
       "illustrator": "Megan Andrews",
@@ -3993,7 +3991,7 @@
     {
       "id": "shongololo_s_shoes",
       "status": "released",
-      "image_cover_asset": "images/books/shongololo_s_shoes/image_1.jpg",
+      "image_cover_asset": "images/books/shongololo_s_shoes/cover.png",
       "level_id": "level_2",
       "author": "Jacqui L’Ange",
       "illustrator": "Megan Lotter",
@@ -5205,7 +5203,6 @@
       "image_22_asset": "images/books/when_grow_up/image_23.jpg",
       "image_23_asset": "images/books/when_grow_up/image_24.jpg",
       "image_24_asset": "images/books/when_grow_up/image_25.jpg",
-      "image_25_asset": "image/books/when_grow_up/image_26.jpg",
       "text_21": "When I grow up, I can choose whatever I want to be!",
       "text_22": "What do you want to be when you grow up?"
     },
@@ -6680,7 +6677,7 @@
     {
       "id": "lefas_bath",
       "status": "released",
-      "image_cover_asset": "images/books/lefas_bath/cover.jpg",
+      "image_cover_asset": "images/books/lefas_bath/cover.png",
       "author": "Marion Drew",
       "illustrator": "Ellen Heydenrych",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
