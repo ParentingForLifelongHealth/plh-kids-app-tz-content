@@ -11,13 +11,13 @@
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 33 |
+| display_group | 35 |
 | image | 30 |
 | items | 9 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 504 |
+| set_variable | 502 |
 | task_card | 3 |
 | task_progress_bar | 1 |
 | template | 537 |
@@ -56,7 +56,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 60294 KB | 60.3 MB |
+| total | 61818 KB | 61.8 MB |
 | unused | 48298 KB | 48.3 MB |
 </details>
 
@@ -1208,6 +1208,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/connect/connect_13.svg | 142.6 | 3 |
 | images/modules/connect/connect_14.svg | 31.9 | 3 |
 | images/modules/connect/connect_2.svg | 192.2 | 3 |
+| images/modules/connect/connect_3.gif | 77.9 | 3 |
 | images/modules/connect/connect_4.svg | 494.2 | 3 |
 | images/modules/connect/connect_5.svg | 129 | 3 |
 | images/modules/connect/connect_6.svg | 91.9 | 3 |
@@ -1231,6 +1232,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/create/create_2.svg | 196 | 3 |
 | images/modules/create/create_20.svg | 154.6 | 3 |
 | images/modules/create/create_21.svg | 21.2 | 3 |
+| images/modules/create/create_3.gif | 411.6 | 6 |
 | images/modules/create/create_4.svg | 184.6 | 3 |
 | images/modules/create/create_5.svg | 56.8 | 3 |
 | images/modules/create/create_6.svg | 79.1 | 3 |
@@ -1239,6 +1241,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/create/create_9.svg | 169 | 3 |
 | images/modules/create/create_title_image.svg | 83.8 | 3 |
 | images/modules/join/join_1.svg | 41.1 | 3 |
+| images/modules/join/join_10.gif | 940.7 | 3 |
 | images/modules/join/join_11.svg | 27.4 | 3 |
 | images/modules/join/join_12.svg | 486.4 | 3 |
 | images/modules/join/join_13.svg | 69.3 | 3 |
@@ -1270,6 +1273,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/icon_book.svg | 1.1 | 8 |
 | images/modules/play/icon_light_bulb.svg | 3.5 | 6 |
 | images/modules/play/icon_star.svg | 1.3 | 6 |
+| images/modules/play/new_fertiliser.gif | 93.9 | 3 |
 | images/modules/play/play_module_ideas.svg | 43.8 | 3 |
 | images/modules/play/play_title_image.svg | 77.7 | 3 |
 | images/modules/play/power_of_play_1.svg | 81.2 | 3 |

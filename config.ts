@@ -5,7 +5,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.1.88",
+  content_tag_latest: "1.1.89",
 };
 
 config.android = {
@@ -39,8 +39,8 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 // Hacky fix to point extended deployment to content within its own repo
 config.app_data.output_path = "./app_data";
 
-// To reduce app size, exclude draft, youtube, gifs and uncompressed assets
-config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("draft") && !fileEntry.relativePath.includes("uncompressed")  && !fileEntry.relativePath.includes(".gif")  && !fileEntry.relativePath.includes("youtube")
+// To reduce app size, exclude draft, youtube and uncompressed assets
+config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("draft") && !fileEntry.relativePath.includes("uncompressed")  && !fileEntry.relativePath.includes("youtube")
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids TZ";

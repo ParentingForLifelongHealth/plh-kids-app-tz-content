@@ -4029,6 +4029,10 @@
     "md5Checksum": "3e5f8e26124c741d062651922e7a9ebd",
     "size_kb": 192.2
   },
+  "images/modules/connect/connect_3.gif": {
+    "md5Checksum": "1db9a3aab1e98fb26d9ff94606dad74c",
+    "size_kb": 77.9
+  },
   "images/modules/connect/connect_4.svg": {
     "md5Checksum": "e32304e344772b76584801106824390d",
     "size_kb": 494.2
@@ -4121,6 +4125,10 @@
     "md5Checksum": "f40993407bdc0fdafb512c21c918dbd9",
     "size_kb": 21.2
   },
+  "images/modules/create/create_3.gif": {
+    "md5Checksum": "d13c2f0ae3f60c1f72bd0464692cf6bc",
+    "size_kb": 411.6
+  },
   "images/modules/create/create_4.svg": {
     "md5Checksum": "100f6def9051ae5615f0bc662625fb81",
     "size_kb": 184.6
@@ -4152,6 +4160,10 @@
   "images/modules/join/join_1.svg": {
     "md5Checksum": "a7bd1ef718c77b2868f82dccb18e7d7b",
     "size_kb": 41.1
+  },
+  "images/modules/join/join_10.gif": {
+    "md5Checksum": "3088065cbd2015959be7eb97c3a2f723",
+    "size_kb": 940.7
   },
   "images/modules/join/join_11.svg": {
     "md5Checksum": "231ecd5612907af26af6baee8d636af9",
@@ -4276,6 +4288,10 @@
   "images/modules/play/icon_star.svg": {
     "md5Checksum": "7567cb259945a7f431d1e4ff45b4f0e4",
     "size_kb": 1.3
+  },
+  "images/modules/play/new_fertiliser.gif": {
+    "md5Checksum": "0891b4175abfb2fcf3b70c9039b0def5",
+    "size_kb": 93.9
   },
   "images/modules/play/play_module_ideas.svg": {
     "md5Checksum": "ba373e59cd9920979e72d7e86d7d41e8",
