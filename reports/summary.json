@@ -70,7 +70,7 @@
     },
     {
       "type": "template",
-      "count": 537
+      "count": 417
     },
     {
       "type": "text",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 526
+      "count": 406
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 524
+      "count": 404
     },
     {
       "type": "feedback",
@@ -162,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "61818 KB",
-      "MB": "61.8 MB"
+      "KB": "60104 KB",
+      "MB": "60.1 MB"
     },
     {
       "assets": "unused",
-      "KB": "48298 KB",
-      "MB": "48.3 MB"
+      "KB": "2910 KB",
+      "MB": "2.9 MB"
     }
   ],
   "assets_unused": [
@@ -191,6 +191,38 @@
     {
       "path": "audio/modules/connect/connect_09.mp3",
       "size_kb": 254.9
+    },
+    {
+      "path": "audio/modules/create/create_01.mp3",
+      "size_kb": 165.5
+    },
+    {
+      "path": "audio/modules/create/create_02.mp3",
+      "size_kb": 336.2
+    },
+    {
+      "path": "audio/modules/create/create_03.mp3",
+      "size_kb": 190.2
+    },
+    {
+      "path": "audio/modules/play/play_01.mp3",
+      "size_kb": 155.3
+    },
+    {
+      "path": "audio/modules/play/play_02.mp3",
+      "size_kb": 189.1
+    },
+    {
+      "path": "audio/modules/play/play_03.mp3",
+      "size_kb": 268.2
+    },
+    {
+      "path": "audio/modules/play/play_04.mp3",
+      "size_kb": 202.7
+    },
+    {
+      "path": "audio/modules/play/play_05.mp3",
+      "size_kb": 206.8
     },
     {
       "path": "audio/modules/play/play_06.mp3",
@@ -315,14 +347,6 @@
     {
       "path": "lottie/cascading_stars.json",
       "size_kb": 140.5
-    },
-    {
-      "path": "video/modules/connect/join_child.mp4",
-      "size_kb": 10726.2
-    },
-    {
-      "path": "video/modules/connect/shared_reading.mp4",
-      "size_kb": 36376.3
     }
   ],
   "assets_missing": [
@@ -1342,6 +1366,16 @@
       "missing": true
     },
     {
+      "path": "images/modules/create/create_01.mp3",
+      "count": 3,
+      "missing": true
+    },
+    {
+      "path": "images/modules/create/create_02.mp3",
+      "count": 3,
+      "missing": true
+    },
+    {
       "path": "images/modules/explore/explore_title_image.svg",
       "count": 2,
       "missing": true
@@ -1392,46 +1426,6 @@
       "path": "audio/modules/connect/connect_08.mp3",
       "count": 3,
       "size_kb": 204.1
-    },
-    {
-      "path": "audio/modules/create/create_01.mp3",
-      "count": 3,
-      "size_kb": 165.5
-    },
-    {
-      "path": "audio/modules/create/create_02.mp3",
-      "count": 3,
-      "size_kb": 336.2
-    },
-    {
-      "path": "audio/modules/create/create_03.mp3",
-      "count": 3,
-      "size_kb": 190.2
-    },
-    {
-      "path": "audio/modules/play/play_01.mp3",
-      "count": 3,
-      "size_kb": 155.3
-    },
-    {
-      "path": "audio/modules/play/play_02.mp3",
-      "count": 3,
-      "size_kb": 189.1
-    },
-    {
-      "path": "audio/modules/play/play_03.mp3",
-      "count": 3,
-      "size_kb": 268.2
-    },
-    {
-      "path": "audio/modules/play/play_04.mp3",
-      "count": 3,
-      "size_kb": 202.7
-    },
-    {
-      "path": "audio/modules/play/play_05.mp3",
-      "count": 3,
-      "size_kb": 206.8
     },
     {
       "path": "audio/relax/relax_1.mp3",
@@ -6223,7 +6217,7 @@
     {
       "type": "template",
       "subtype": "generated",
-      "total": 542
+      "total": 422
     },
     {
       "type": "template",

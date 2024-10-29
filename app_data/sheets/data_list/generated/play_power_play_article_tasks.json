@@ -8,10 +8,10 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/power_of_play_1.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_04.mp3",
+      "media_asset": "audio/modules/play/play_04.m4a",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Did you know?: You can use play to your advantage."
+          "eng": "Did you know that you can use play to your advantage?"
         },
         "text_2": {
           "eng": "Playful interactions can help your child cooperate and follow instructions."
@@ -38,7 +38,7 @@
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!",
-      "text_1_facilitator": "Did you know?: You can use play to your advantage.",
+      "text_1_facilitator": "Did you know that you can use play to your advantage?",
       "completed": false
     },
     {
@@ -453,7 +453,7 @@
       "category_id": "power_play",
       "image_asset": "images/modules/play/play_module_ideas.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/play/play_05.mp3",
+      "media_asset": "audio/modules/play/play_05.m4a",
       "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
       "_translations": {
         "text_1": {},

@@ -20,7 +20,7 @@
 | set_variable | 502 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 537 |
+| template | 417 |
 | text | 90 |
 | text_area | 2 |
 | text_box | 5 |
@@ -36,13 +36,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 526 |
+| emit: completed | 406 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 524 |
+| emit: uncompleted | 404 |
 | feedback | 7 |
 | go_to | 11 |
 | pop_up | 12 |
@@ -56,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 61818 KB | 61.8 MB |
-| unused | 48298 KB | 48.3 MB |
+| total | 60104 KB | 60.1 MB |
+| unused | 2910 KB | 2.9 MB |
 </details>
 
 <details open>
@@ -72,6 +72,14 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 80.4 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_09.mp3 | 254.9 |
+| audio/modules/create/create_01.mp3 | 165.5 |
+| audio/modules/create/create_02.mp3 | 336.2 |
+| audio/modules/create/create_03.mp3 | 190.2 |
+| audio/modules/play/play_01.mp3 | 155.3 |
+| audio/modules/play/play_02.mp3 | 189.1 |
+| audio/modules/play/play_03.mp3 | 268.2 |
+| audio/modules/play/play_04.mp3 | 202.7 |
+| audio/modules/play/play_05.mp3 | 206.8 |
 | audio/modules/play/play_06.mp3 | 159.8 |
 | contents.json | 5.9 |
 | images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png | 139.2 |
@@ -103,8 +111,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/relax/relax_woman.svg | 14.8 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
-| video/modules/connect/join_child.mp4 | 10726.2 |
-| video/modules/connect/shared_reading.mp4 | 36376.3 |
 </details>
 
 <details open>
@@ -317,6 +323,8 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_9.jpg | 1 |
 | images/modules/build/build_title_image.svg | 2 |
 | images/modules/care/care_title_image.svg | 2 |
+| images/modules/create/create_01.mp3 | 3 |
+| images/modules/create/create_02.mp3 | 3 |
 | images/modules/explore/explore_title_image.svg | 2 |
 | images/modules/talk/talk_title_image.svg | 2 |
 </details>
@@ -336,14 +344,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/connect/connect_06.mp3 | 167.6 | 3 |
 | audio/modules/connect/connect_07.mp3 | 241.2 | 3 |
 | audio/modules/connect/connect_08.mp3 | 204.1 | 3 |
-| audio/modules/create/create_01.mp3 | 165.5 | 3 |
-| audio/modules/create/create_02.mp3 | 336.2 | 3 |
-| audio/modules/create/create_03.mp3 | 190.2 | 3 |
-| audio/modules/play/play_01.mp3 | 155.3 | 3 |
-| audio/modules/play/play_02.mp3 | 189.1 | 3 |
-| audio/modules/play/play_03.mp3 | 268.2 | 3 |
-| audio/modules/play/play_04.mp3 | 202.7 | 3 |
-| audio/modules/play/play_05.mp3 | 206.8 | 3 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
 | audio/relax/relax_10.mp3 | 404.9 | 2 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
@@ -1308,6 +1308,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 25 |
 | global |  | 2 |
 | template |  | 50 |
-| template | generated | 542 |
+| template | generated | 422 |
 | template | legal_terms | 4 |
 </details>

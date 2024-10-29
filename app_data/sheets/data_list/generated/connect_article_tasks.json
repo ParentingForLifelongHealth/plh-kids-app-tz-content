@@ -287,6 +287,11 @@
       "completed": false
     },
     {
+      "id": "the_power_of_connection_4",
+      "category_id": "power_connect",
+      "completed": false
+    },
+    {
       "id": "using_books_1",
       "category_id": "books_connect",
       "image_asset": "images/modules/connect/connect_9.svg",
@@ -467,146 +472,6 @@
         }
       },
       "text_2": "For your home practice:\n\n🤝 Make some time to spend with your child one-on-one.\n\n📖 Make book activities part of your routine, and use it as a time to connect. \n\n😌 Spending quality time with our children is important, but make sure you take some time for yourself too.",
-      "completed": false
-    },
-    {
-      "id": "id_16",
-      "completed": false
-    },
-    {
-      "id": "id_17",
-      "completed": false
-    },
-    {
-      "id": "id_18",
-      "completed": false
-    },
-    {
-      "id": "id_19",
-      "completed": false
-    },
-    {
-      "id": "id_20",
-      "completed": false
-    },
-    {
-      "id": "id_21",
-      "completed": false
-    },
-    {
-      "id": "id_22",
-      "completed": false
-    },
-    {
-      "id": "id_23",
-      "completed": false
-    },
-    {
-      "id": "id_24",
-      "completed": false
-    },
-    {
-      "id": "id_25",
-      "completed": false
-    },
-    {
-      "id": "id_26",
-      "completed": false
-    },
-    {
-      "id": "id_27",
-      "completed": false
-    },
-    {
-      "id": "id_28",
-      "completed": false
-    },
-    {
-      "id": "id_29",
-      "completed": false
-    },
-    {
-      "id": "id_30",
-      "completed": false
-    },
-    {
-      "id": "id_31",
-      "completed": false
-    },
-    {
-      "id": "id_32",
-      "completed": false
-    },
-    {
-      "id": "id_33",
-      "completed": false
-    },
-    {
-      "id": "id_34",
-      "completed": false
-    },
-    {
-      "id": "id_35",
-      "completed": false
-    },
-    {
-      "id": "id_36",
-      "completed": false
-    },
-    {
-      "id": "id_37",
-      "completed": false
-    },
-    {
-      "id": "id_38",
-      "completed": false
-    },
-    {
-      "id": "id_39",
-      "completed": false
-    },
-    {
-      "id": "id_40",
-      "completed": false
-    },
-    {
-      "id": "id_41",
-      "completed": false
-    },
-    {
-      "id": "id_42",
-      "completed": false
-    },
-    {
-      "id": "id_43",
-      "completed": false
-    },
-    {
-      "id": "id_44",
-      "completed": false
-    },
-    {
-      "id": "id_45",
-      "completed": false
-    },
-    {
-      "id": "id_46",
-      "completed": false
-    },
-    {
-      "id": "id_47",
-      "completed": false
-    },
-    {
-      "id": "id_48",
-      "completed": false
-    },
-    {
-      "id": "id_49",
-      "completed": false
-    },
-    {
-      "id": "id_50",
       "completed": false
     }
   ]

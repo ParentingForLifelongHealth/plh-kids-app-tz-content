@@ -1,5 +1,5 @@
 {
-  "flow_name": "category_connect_id_50",
+  "flow_name": "category_connect_the_power_of_connection_4",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "category_id",
-          "value": "id_50",
+          "value": "the_power_of_connection_4",
           "_translations": {
             "value": {}
           },

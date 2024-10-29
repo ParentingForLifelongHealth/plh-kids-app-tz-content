@@ -99,12 +99,8 @@
       ],
       "rows": [
         {
-          "name": "display_uncompleted",
-          "value": false
-        },
-        {
-          "name": "button_completed",
-          "value": "Done"
+          "name": "is_standalone_task",
+          "value": true
         }
       ]
     }

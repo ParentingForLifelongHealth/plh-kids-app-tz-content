@@ -4,25 +4,105 @@
   "status": "released",
   "rows": [
     {
-      "name": "use_completed_chevron",
+      "name": "is_standalone_task",
       "value": false,
-      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "use_completed_chevron"
+      "_nested_name": "is_standalone_task"
     },
     {
-      "name": "use_uncompleted_chevron",
-      "value": true,
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "use_uncompleted_chevron"
+      "type": "display_group",
+      "name": "if_standalone",
+      "parameter_list": {
+        "style": "column"
+      },
+      "condition": "@local.is_standalone_task",
+      "rows": [
+        {
+          "name": "display_uncompleted",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "if_standalone.display_uncompleted"
+        },
+        {
+          "name": "completed_text",
+          "value": "Done",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "if_standalone.completed_text"
+        },
+        {
+          "name": "completed_icon",
+          "type": "set_variable",
+          "_nested_name": "if_standalone.completed_icon"
+        }
+      ],
+      "_nested_name": "if_standalone",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.is_standalone_task",
+            "matchedExpression": "@local.is_standalone_task",
+            "type": "local",
+            "fieldName": "is_standalone_task"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.is_standalone_task": [
+          "condition"
+        ]
+      }
     },
     {
-      "name": "display_uncompleted",
-      "value": true,
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "display_uncompleted"
+      "type": "display_group",
+      "name": "if_in_sequence",
+      "condition": "!@local.is_standalone_task",
+      "rows": [
+        {
+          "name": "display_uncompleted",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "if_in_sequence.display_uncompleted"
+        },
+        {
+          "name": "completed_text",
+          "value": "Next",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "if_in_sequence.completed_text"
+        },
+        {
+          "name": "completed_icon",
+          "value": "images/icons/chevron_forward_white.svg",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "if_in_sequence.completed_icon"
+        }
+      ],
+      "_nested_name": "if_in_sequence",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.is_standalone_task",
+            "matchedExpression": "!@local.is_standalone_task",
+            "type": "local",
+            "fieldName": "is_standalone_task"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.is_standalone_task": [
+          "condition"
+        ]
+      }
     },
     {
       "type": "display_group",
@@ -35,6 +115,11 @@
           "type": "button",
           "name": "button_uncompleted",
           "value": "Previous",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
           "action_list": [
             {
               "trigger": "click",
@@ -48,27 +133,13 @@
           ],
           "parameter_list": {
             "style": "navigation",
-            "text_align": "centre"
+            "text_align": "centre",
+            "icon": "images/icons/chevron_back_white.svg"
           },
           "style_list": [
             "flex: 1"
           ],
           "condition": "!!@local.display_uncompleted",
-          "rows": [
-            {
-              "type": "image",
-              "name": "image_uncompleted",
-              "value": "images/icons/chevron_back_white.svg",
-              "_translations": {
-                "value": {}
-              },
-              "parameter_list": {
-                "position": "left",
-                "style": "in_button"
-              },
-              "_nested_name": "buttons.button_uncompleted.image_uncompleted"
-            }
-          ],
           "_nested_name": "buttons.button_uncompleted",
           "_dynamicFields": {
             "condition": [
@@ -89,7 +160,10 @@
         {
           "type": "button",
           "name": "button_completed",
-          "value": "Next",
+          "value": "@local.completed_text",
+          "_translations": {
+            "value": {}
+          },
           "action_list": [
             {
               "trigger": "click",
@@ -103,27 +177,41 @@
           ],
           "parameter_list": {
             "style": "navigation",
-            "text_align": "centre"
+            "text_align": "centre",
+            "icon": "@local.completed_icon"
           },
           "style_list": [
             "flex: 1"
           ],
-          "rows": [
-            {
-              "type": "image",
-              "name": "image_completed",
-              "value": "images/icons/chevron_forward_white.svg",
-              "_translations": {
-                "value": {}
-              },
-              "parameter_list": {
-                "position": "right",
-                "style": "in_button"
-              },
-              "_nested_name": "buttons.button_completed.image_completed"
+          "_nested_name": "buttons.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.completed_text",
+                "matchedExpression": "@local.completed_text",
+                "type": "local",
+                "fieldName": "completed_text"
+              }
+            ],
+            "parameter_list": {
+              "icon": [
+                {
+                  "fullExpression": "@local.completed_icon",
+                  "matchedExpression": "@local.completed_icon",
+                  "type": "local",
+                  "fieldName": "completed_icon"
+                }
+              ]
             }
-          ],
-          "_nested_name": "buttons.button_completed"
+          },
+          "_dynamicDependencies": {
+            "@local.completed_text": [
+              "value"
+            ],
+            "@local.completed_icon": [
+              "parameter_list.icon"
+            ]
+          }
         }
       ],
       "_nested_name": "buttons"
