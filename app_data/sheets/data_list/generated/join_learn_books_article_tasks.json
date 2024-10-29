@@ -61,21 +61,21 @@
       "quiz_1_option_2_text": "Not really",
       "quiz_1_feedback_2": "That’s okay! We are excited to get you started on your book-sharing journey.",
       "text_2": "Sharing stories and looking at books together benefits children in many ways.",
-      "media_asset": "https://drive.google.com/file/d/1TlKq1uMEiO8kul8_pfNH9Bx3nAVRBcED/view?usp=share_link",
+      "media_asset": "https://drive.google.com/file/d/1khiG2vfEChUVCR0nL0kSQfcx1nx4VRFq/view?usp=share_link",
       "completed": false
     },
     {
       "id": "learn_books_2",
       "category_id": "learn_books",
       "image_asset": "images/modules/join/join_13.svg",
-      "text_1": "At what age can I start sharing books with my child?",
-      "_translations": {
-        "text_1": {}
-      },
       "_translatedFields": {
-        "text_1": {
+        "text_2": {
           "eng": "At what age can I start sharing books with my child?"
         }
+      },
+      "text_2": "At what age can I start sharing books with my child?",
+      "_translations": {
+        "text_2": {}
       },
       "completed": false
     },
@@ -106,14 +106,14 @@
       "id": "learn_books_4",
       "category_id": "learn_books",
       "image_asset": "images/modules/join/join_15.svg",
-      "text_1": "How can I do book activities with my child if I struggle with reading myself?",
-      "_translations": {
-        "text_1": {}
-      },
       "_translatedFields": {
-        "text_1": {
+        "text_2": {
           "eng": "How can I do book activities with my child if I struggle with reading myself?"
         }
+      },
+      "text_2": "How can I do book activities with my child if I struggle with reading myself?",
+      "_translations": {
+        "text_2": {}
       },
       "completed": false
     },
@@ -130,7 +130,7 @@
           "eng": "Watch to learn more:"
         },
         "media_transcript": {
-          "eng": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life."
+          "eng": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.\n\nSo, find a few minutes a day, every day, to read with your child. It’s one of the greatest gifts you can give them."
         }
       },
       "media_title": "Watch to learn more:",
@@ -139,9 +139,9 @@
         "media_transcript": {},
         "text_1_facilitator": {}
       },
-      "media_transcript": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.",
+      "media_transcript": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.\n\nSo, find a few minutes a day, every day, to read with your child. It’s one of the greatest gifts you can give them.",
       "text_1_facilitator": "This is a concern for many parents and caregivers. The good news is that you don’t need to read the book’s text when doing book activities.",
-      "media_asset": "https://drive.google.com/file/d/19KtH78JtKI0ZOM0i0LfiwrYM4JqDbjJA/view?usp=sharing",
+      "media_asset": "https://drive.google.com/file/d/1-rz_jvPgTxJnsugCL2UHWqpXveQvZEoV/view?usp=share_link",
       "completed": false
     },
     {
@@ -168,21 +168,21 @@
       },
       "media_title": "Watch to learn more:",
       "media_transcript": "Book activities are a great way to have fun together with your child. Let’s take a look at how you can share this book with your child in a playful and engaging way. \n\nThis book is all about the joy of playing. Join Lesedi as his imagination takes him all the way to the beach for an adventure! \n\nDescribe the pictures to your child and ask them questions about the story. Point to the sandbox and ask your chid: “What is this for?” Point to boy in the picture and ask: “How do you think he is feeling? What do you think he is going to do next?”\n\nMimic actions from the pictures or story. Together with your child, pretend to put your feet in the sand and wiggle your toes. Talk about what the sand would feel like? \n\nMimic the sound of the wind swooping in and blowing the umbrella away. Demonstrate surprise and ask your child how they would feel if that happened to them. \n\nRemember, book activities do not have to be serious. The goal is to make it a playful experience. We hope you enjoy the book and have fun together!",
-      "media_asset": "https://drive.google.com/file/d/11DH5GgLGP90VxdHrIwdZlXgEAnqtyWLU/view?usp=share_link",
+      "media_asset": "https://drive.google.com/file/d/1uBZ8nDhlY26--nNJwbca4sfnBJ0IHJgM/view?usp=share_link",
       "completed": false
     },
     {
       "id": "learn_books_7",
       "category_id": "learn_books",
       "image_asset": "images/modules/join/join_18.svg",
-      "text_1": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?",
-      "_translations": {
-        "text_1": {}
-      },
       "_translatedFields": {
-        "text_1": {
+        "text_2": {
           "eng": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?"
         }
+      },
+      "text_2": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?",
+      "_translations": {
+        "text_2": {}
       },
       "completed": false
     },

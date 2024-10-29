@@ -27,14 +27,14 @@
       "id": "caring_you_2",
       "category_id": "caring_you",
       "image_asset": "images/modules/join/join_4.svg",
-      "text_1": "Why is my wellbeing important to my child?",
-      "_translations": {
-        "text_1": {}
-      },
       "_translatedFields": {
-        "text_1": {
+        "text_2": {
           "eng": "Why is my wellbeing important to my child?"
         }
+      },
+      "text_2": "Why is my wellbeing important to my child?",
+      "_translations": {
+        "text_2": {}
       },
       "completed": false
     },

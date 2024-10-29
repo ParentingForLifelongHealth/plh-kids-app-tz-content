@@ -40,14 +40,14 @@
       "id": "caring_child_2",
       "category_id": "caring_child",
       "image_asset": "images/modules/join/join_8.svg",
-      "text_1": "What creates a strong and loving relationship between a caregiver and child?",
-      "_translations": {
-        "text_1": {}
-      },
       "_translatedFields": {
-        "text_1": {
+        "text_2": {
           "eng": "What creates a strong and loving relationship between a caregiver and child?"
         }
+      },
+      "text_2": "What creates a strong and loving relationship between a caregiver and child?",
+      "_translations": {
+        "text_2": {}
       },
       "completed": false
     },
