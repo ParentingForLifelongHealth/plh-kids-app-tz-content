@@ -6,13 +6,85 @@
   "rows": [
     {
       "id": "nature",
-      "title": "Nature",
+      "title": "Nature and Animals",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Nature"
+          "eng": "Nature and Animals"
+        }
+      }
+    },
+    {
+      "id": "emotions",
+      "title": "Emotions and Life Skills",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Emotions and Life Skills"
+        }
+      }
+    },
+    {
+      "id": "family",
+      "title": "Family and Friends",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Family and Friends"
+        }
+      }
+    },
+    {
+      "id": "adventure",
+      "title": "Adventure",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Adventure"
+        }
+      }
+    },
+    {
+      "id": "learn",
+      "title": "Let's Learn",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Let's Learn"
+        }
+      }
+    },
+    {
+      "id": "play",
+      "title": "Let's Play",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Let's Play"
+        }
+      }
+    },
+    {
+      "id": "diversity",
+      "title": "Culture and Diversity",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Culture and Diversity"
         }
       }
     }
