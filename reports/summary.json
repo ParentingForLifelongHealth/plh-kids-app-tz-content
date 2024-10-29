@@ -162,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "56545 KB",
-      "MB": "56.5 MB"
+      "KB": "60294 KB",
+      "MB": "60.3 MB"
     },
     {
       "assets": "unused",
-      "KB": "56275 KB",
-      "MB": "56.3 MB"
+      "KB": "48298 KB",
+      "MB": "48.3 MB"
     }
   ],
   "assets_unused": [
@@ -189,72 +189,8 @@
       "size_kb": 156.5
     },
     {
-      "path": "audio/modules/connect/connect_01.mp3",
-      "size_kb": 171.8
-    },
-    {
-      "path": "audio/modules/connect/connect_02.mp3",
-      "size_kb": 187.2
-    },
-    {
-      "path": "audio/modules/connect/connect_03.mp3",
-      "size_kb": 128.3
-    },
-    {
-      "path": "audio/modules/connect/connect_04.mp3",
-      "size_kb": 477.8
-    },
-    {
-      "path": "audio/modules/connect/connect_05.mp3",
-      "size_kb": 143.1
-    },
-    {
-      "path": "audio/modules/connect/connect_06.mp3",
-      "size_kb": 167.6
-    },
-    {
-      "path": "audio/modules/connect/connect_07.mp3",
-      "size_kb": 241.2
-    },
-    {
-      "path": "audio/modules/connect/connect_08.mp3",
-      "size_kb": 204.1
-    },
-    {
       "path": "audio/modules/connect/connect_09.mp3",
       "size_kb": 254.9
-    },
-    {
-      "path": "audio/modules/create/create_01.mp3",
-      "size_kb": 165.5
-    },
-    {
-      "path": "audio/modules/create/create_02.mp3",
-      "size_kb": 336.2
-    },
-    {
-      "path": "audio/modules/create/create_03.mp3",
-      "size_kb": 190.2
-    },
-    {
-      "path": "audio/modules/play/play_01.mp3",
-      "size_kb": 155.3
-    },
-    {
-      "path": "audio/modules/play/play_02.mp3",
-      "size_kb": 189.1
-    },
-    {
-      "path": "audio/modules/play/play_03.mp3",
-      "size_kb": 268.2
-    },
-    {
-      "path": "audio/modules/play/play_04.mp3",
-      "size_kb": 202.7
-    },
-    {
-      "path": "audio/modules/play/play_05.mp3",
-      "size_kb": 206.8
     },
     {
       "path": "audio/modules/play/play_06.mp3",
@@ -265,556 +201,12 @@
       "size_kb": 5.9
     },
     {
-      "path": "images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page.jpg",
-      "size_kb": 6.8
-    },
-    {
-      "path": "images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page2.jpg",
-      "size_kb": 63.5
-    },
-    {
-      "path": "images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page3.jpg",
-      "size_kb": 16.1
-    },
-    {
-      "path": "images/books/a_trip_to_the_tap/page16.jpg",
-      "size_kb": 82.5
-    },
-    {
-      "path": "images/books/a_trip_to_the_tap/page17.jpg",
-      "size_kb": 5.4
-    },
-    {
-      "path": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page1.jpg",
-      "size_kb": 4.2
-    },
-    {
-      "path": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page2.jpg",
-      "size_kb": 55
-    },
-    {
-      "path": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page3.jpg",
-      "size_kb": 12.9
-    },
-    {
-      "path": "images/books/amaizing_flower/oumas-amazing-flowers_20231101_page1.jpg",
-      "size_kb": 6.5
-    },
-    {
-      "path": "images/books/amaizing_flower/page17.jpg",
-      "size_kb": 7.1
-    },
-    {
-      "path": "images/books/amaizing_flower/page2.jpg",
-      "size_kb": 34.7
-    },
-    {
-      "path": "images/books/amaizing_flower/page3.jpg",
-      "size_kb": 10.5
-    },
-    {
-      "path": "images/books/babys_first_photo/babys-first-family-photo_20190506_page1.jpg",
-      "size_kb": 12.7
-    },
-    {
-      "path": "images/books/babys_first_photo/babys-first-family-photo_20190506_page2.jpg",
-      "size_kb": 123.1
-    },
-    {
-      "path": "images/books/babys_first_photo/babys-first-family-photo_20190506_page3.jpg",
-      "size_kb": 23.7
-    },
-    {
-      "path": "images/books/babys_first_photo/babys_first_photo_round_cover.png",
-      "size_kb": 153.3
-    },
-    {
-      "path": "images/books/babys_first_photo/page16.jpg",
-      "size_kb": 107.1
-    },
-    {
-      "path": "images/books/babys_first_photo/page17.jpg",
-      "size_kb": 6.2
-    },
-    {
-      "path": "images/books/beloved_daughter/image_16.jpg",
-      "size_kb": 47.1
-    },
-    {
-      "path": "images/books/brave_bora/brave-bora_interior_20211005_page.jpg",
-      "size_kb": 7
-    },
-    {
-      "path": "images/books/brave_bora/brave-bora_interior_20211005_page2.jpg",
-      "size_kb": 48.6
-    },
-    {
-      "path": "images/books/brave_bora/brave-bora_interior_20211005_page3.jpg",
-      "size_kb": 16.6
-    },
-    {
-      "path": "images/books/fifi_and_teddy/fifi-and-teddy_20221127_page1.jpg",
-      "size_kb": 9
-    },
-    {
-      "path": "images/books/fifi_and_teddy/fifi-and-teddy_20221127_page16.jpg",
-      "size_kb": 29.8
-    },
-    {
-      "path": "images/books/fifi_and_teddy/fifi-and-teddy_20221127_page17.jpg",
-      "size_kb": 6.6
-    },
-    {
-      "path": "images/books/fifi_and_teddy/fifi-and-teddy_20221127_page2.jpg",
-      "size_kb": 37.9
-    },
-    {
-      "path": "images/books/fifi_and_teddy/fifi-and-teddy_20221127_page3.jpg",
-      "size_kb": 12.2
-    },
-    {
-      "path": "images/books/grandpa_farouks_garden/page1.jpg",
-      "size_kb": 6.6
-    },
-    {
-      "path": "images/books/grandpa_farouks_garden/page2.jpg",
-      "size_kb": 32.9
-    },
-    {
-      "path": "images/books/grandpa_farouks_garden/page3.jpg",
-      "size_kb": 26.3
-    },
-    {
-      "path": "images/books/how_do_you_sleep/page1.jpg",
-      "size_kb": 11.2
-    },
-    {
-      "path": "images/books/how_do_you_sleep/page2.jpg",
-      "size_kb": 67.8
-    },
-    {
-      "path": "images/books/how_do_you_sleep/page3.jpg",
-      "size_kb": 22
-    },
-    {
-      "path": "images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page1.jpg",
-      "size_kb": 8.2
-    },
-    {
-      "path": "images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page16.jpg",
-      "size_kb": 40
-    },
-    {
-      "path": "images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page17.jpg",
-      "size_kb": 5.5
-    },
-    {
-      "path": "images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page2.jpg",
-      "size_kb": 40
-    },
-    {
-      "path": "images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page3.jpg",
-      "size_kb": 19.1
-    },
-    {
-      "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page.jpg",
-      "size_kb": 7
-    },
-    {
-      "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page16.jpg",
-      "size_kb": 14.1
-    },
-    {
-      "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page2.jpg",
-      "size_kb": 14.1
-    },
-    {
-      "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page3.jpg",
-      "size_kb": 8.7
-    },
-    {
-      "path": "images/books/katiitis_song/image_14.jpg",
-      "size_kb": 72.2
-    },
-    {
-      "path": "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page1.jpg",
-      "size_kb": 6.7
-    },
-    {
-      "path": "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page16.jpg",
-      "size_kb": 28.3
-    },
-    {
-      "path": "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page17.jpg",
-      "size_kb": 9.5
-    },
-    {
-      "path": "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page2.jpg",
-      "size_kb": 28.3
-    },
-    {
-      "path": "images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page3.jpg",
-      "size_kb": 13.5
-    },
-    {
-      "path": "images/books/lefas_bath/lefas_bath_round_cover.png",
-      "size_kb": 99.6
-    },
-    {
-      "path": "images/books/lefas_bath/page1.jpg",
-      "size_kb": 25.7
-    },
-    {
-      "path": "images/books/lefas_bath/page2.jpg",
-      "size_kb": 47.2
-    },
-    {
-      "path": "images/books/lefas_bath/page3.jpg",
-      "size_kb": 35.7
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page1.jpg",
-      "size_kb": 13.1
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page16.jpg",
-      "size_kb": 90.6
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page17.jpg",
-      "size_kb": 10.2
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page2.jpg",
-      "size_kb": 90.6
-    },
-    {
-      "path": "images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page3.jpg",
-      "size_kb": 22.9
-    },
-    {
       "path": "images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png",
       "size_kb": 139.2
     },
     {
-      "path": "images/books/lets_go_on_a_litter_hunt/page1.jpg",
-      "size_kb": 9
-    },
-    {
-      "path": "images/books/lets_go_on_a_litter_hunt/page2.jpg",
-      "size_kb": 35.4
-    },
-    {
-      "path": "images/books/lets_go_on_a_litter_hunt/page3.jpg",
-      "size_kb": 17.9
-    },
-    {
-      "path": "images/books/little_shoots/little-shoots_20210525_page1.jpg",
-      "size_kb": 22.4
-    },
-    {
-      "path": "images/books/little_shoots/little-shoots_20210525_page16.jpg",
-      "size_kb": 88.2
-    },
-    {
-      "path": "images/books/little_shoots/little-shoots_20210525_page17.jpg",
-      "size_kb": 10.3
-    },
-    {
-      "path": "images/books/little_shoots/little-shoots_20210525_page2.jpg",
-      "size_kb": 87.8
-    },
-    {
-      "path": "images/books/little_shoots/little-shoots_20210525_page3.jpg",
-      "size_kb": 31.2
-    },
-    {
-      "path": "images/books/little_shoots/little_shoots_round_cover.png",
+      "path": "images/books/little_shoots/cover.png",
       "size_kb": 112.9
-    },
-    {
-      "path": "images/books/look_out_luthando/look-out-luthando_20221127_page1.jpg",
-      "size_kb": 7.4
-    },
-    {
-      "path": "images/books/look_out_luthando/look-out-luthando_20221127_page16.jpg",
-      "size_kb": 67.7
-    },
-    {
-      "path": "images/books/look_out_luthando/look-out-luthando_20221127_page17.jpg",
-      "size_kb": 11.1
-    },
-    {
-      "path": "images/books/look_out_luthando/look-out-luthando_20221127_page2.jpg",
-      "size_kb": 60.9
-    },
-    {
-      "path": "images/books/look_out_luthando/look-out-luthando_20221127_page3.jpg",
-      "size_kb": 17.2
-    },
-    {
-      "path": "images/books/lost_toy/page1.jpg",
-      "size_kb": 8.8
-    },
-    {
-      "path": "images/books/lost_toy/page2.jpg",
-      "size_kb": 27.8
-    },
-    {
-      "path": "images/books/lost_toy/page3.jpg",
-      "size_kb": 14.1
-    },
-    {
-      "path": "images/books/mama_whats_for_lunch/page1.jpg",
-      "size_kb": 8
-    },
-    {
-      "path": "images/books/mama_whats_for_lunch/page2.jpg",
-      "size_kb": 79.8
-    },
-    {
-      "path": "images/books/mama_whats_for_lunch/page3.jpg",
-      "size_kb": 39.3
-    },
-    {
-      "path": "images/books/moms_red_coat/moms-red-coat_20221201_page1.jpg",
-      "size_kb": 7.3
-    },
-    {
-      "path": "images/books/moms_red_coat/moms-red-coat_20221201_page2.jpg",
-      "size_kb": 22.9
-    },
-    {
-      "path": "images/books/moms_red_coat/moms-red-coat_20221201_page3.jpg",
-      "size_kb": 15.6
-    },
-    {
-      "path": "images/books/moms_red_coat/moms_red_coat_round_cover.png",
-      "size_kb": 65.8
-    },
-    {
-      "path": "images/books/my_inside_weather/my-inside-weather_20180115_page1.jpg",
-      "size_kb": 11.9
-    },
-    {
-      "path": "images/books/my_inside_weather/my-inside-weather_20180115_page16.jpg",
-      "size_kb": 13.3
-    },
-    {
-      "path": "images/books/my_inside_weather/my-inside-weather_20180115_page17.jpg",
-      "size_kb": 9.6
-    },
-    {
-      "path": "images/books/my_inside_weather/my-inside-weather_20180115_page2.jpg",
-      "size_kb": 13.3
-    },
-    {
-      "path": "images/books/my_inside_weather/my-inside-weather_20180115_page3.jpg",
-      "size_kb": 15.8
-    },
-    {
-      "path": "images/books/my_little_garden/page1.jpg",
-      "size_kb": 14.2
-    },
-    {
-      "path": "images/books/my_little_garden/page2.jpg",
-      "size_kb": 49.1
-    },
-    {
-      "path": "images/books/my_little_garden/page3.jpg",
-      "size_kb": 16.1
-    },
-    {
-      "path": "images/books/scared_tumi/scared-tumi_20161230_page1.jpg",
-      "size_kb": 7.6
-    },
-    {
-      "path": "images/books/scared_tumi/scared-tumi_20161230_page16.jpg",
-      "size_kb": 4.9
-    },
-    {
-      "path": "images/books/scared_tumi/scared-tumi_20161230_page2.jpg",
-      "size_kb": 74
-    },
-    {
-      "path": "images/books/scared_tumi/scared-tumi_20161230_page3.jpg",
-      "size_kb": 10.9
-    },
-    {
-      "path": "images/books/shhhhh/image_14.jpg",
-      "size_kb": 73.6
-    },
-    {
-      "path": "images/books/shongololo_s_shoes/shongololo_s_shoes_round_cover.png",
-      "size_kb": 60.4
-    },
-    {
-      "path": "images/books/tejus_shadow/page1.jpg",
-      "size_kb": 7.1
-    },
-    {
-      "path": "images/books/tejus_shadow/page16.jpg",
-      "size_kb": 78.1
-    },
-    {
-      "path": "images/books/tejus_shadow/page2.jpg",
-      "size_kb": 78.1
-    },
-    {
-      "path": "images/books/tejus_shadow/page3.jpg",
-      "size_kb": 18.9
-    },
-    {
-      "path": "images/books/the_best_thing_ever/page1.jpg",
-      "size_kb": 8.3
-    },
-    {
-      "path": "images/books/the_best_thing_ever/page2.jpg",
-      "size_kb": 26.2
-    },
-    {
-      "path": "images/books/the_best_thing_ever/page3.jpg",
-      "size_kb": 17.2
-    },
-    {
-      "path": "images/books/the_one_in_the_middle/page1.jpg",
-      "size_kb": 8.5
-    },
-    {
-      "path": "images/books/the_one_in_the_middle/page2.jpg",
-      "size_kb": 29.7
-    },
-    {
-      "path": "images/books/the_one_in_the_middle/page3.jpg",
-      "size_kb": 16.5
-    },
-    {
-      "path": "images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page1.jpg",
-      "size_kb": 7.5
-    },
-    {
-      "path": "images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page17.jpg",
-      "size_kb": 12
-    },
-    {
-      "path": "images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page2.jpg",
-      "size_kb": 12
-    },
-    {
-      "path": "images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page3.jpg",
-      "size_kb": 28.1
-    },
-    {
-      "path": "images/books/the_things_that_really_matter/the_things_that_really_matter_round_cover.png",
-      "size_kb": 114.7
-    },
-    {
-      "path": "images/books/tlotlegos_tea_party/page1.jpg",
-      "size_kb": 9.3
-    },
-    {
-      "path": "images/books/tlotlegos_tea_party/page2.jpg",
-      "size_kb": 57.3
-    },
-    {
-      "path": "images/books/tlotlegos_tea_party/page3.jpg",
-      "size_kb": 14
-    },
-    {
-      "path": "images/books/to_the_top/to-the-top_interior_20211005_page1.jpg",
-      "size_kb": 6.9
-    },
-    {
-      "path": "images/books/to_the_top/to-the-top_interior_20211005_page16.jpg",
-      "size_kb": 43.6
-    },
-    {
-      "path": "images/books/to_the_top/to-the-top_interior_20211005_page17.jpg",
-      "size_kb": 6
-    },
-    {
-      "path": "images/books/to_the_top/to-the-top_interior_20211005_page2.jpg",
-      "size_kb": 43.5
-    },
-    {
-      "path": "images/books/to_the_top/to-the-top_interior_20211005_page3.jpg",
-      "size_kb": 7.8
-    },
-    {
-      "path": "images/books/to_the_top/to_the_top_round_cover.png",
-      "size_kb": 95.7
-    },
-    {
-      "path": "images/books/whats_at_the_park/page.jpg",
-      "size_kb": 6.7
-    },
-    {
-      "path": "images/books/whats_at_the_park/page2.jpg",
-      "size_kb": 6.4
-    },
-    {
-      "path": "images/books/whats_at_the_park/page3.jpg",
-      "size_kb": 7.7
-    },
-    {
-      "path": "images/books/whats_in_pot/page1.jpg",
-      "size_kb": 7.6
-    },
-    {
-      "path": "images/books/whats_in_pot/page2.jpg",
-      "size_kb": 28.3
-    },
-    {
-      "path": "images/books/whats_in_pot/page3.jpg",
-      "size_kb": 11.7
-    },
-    {
-      "path": "images/books/when_grow_up/image_26.jpg",
-      "size_kb": 22.1
-    },
-    {
-      "path": "images/books/where_is_lulu/where-is-lulu_20180605_page1.jpg",
-      "size_kb": 18.3
-    },
-    {
-      "path": "images/books/where_is_lulu/where-is-lulu_20180605_page16.jpg",
-      "size_kb": 44.6
-    },
-    {
-      "path": "images/books/where_is_lulu/where-is-lulu_20180605_page17.jpg",
-      "size_kb": 6.9
-    },
-    {
-      "path": "images/books/where_is_lulu/where-is-lulu_20180605_page2.jpg",
-      "size_kb": 44.6
-    },
-    {
-      "path": "images/books/where_is_lulu/where-is-lulu_20180605_page3.jpg",
-      "size_kb": 12
-    },
-    {
-      "path": "images/books/yes_you_can/page1.jpg",
-      "size_kb": 6.7
-    },
-    {
-      "path": "images/books/yes_you_can/page2.jpg",
-      "size_kb": 55.9
-    },
-    {
-      "path": "images/books/yes_you_can/page3.jpg",
-      "size_kb": 16.8
-    },
-    {
-      "path": "images/books/zibu_and_zizo/page1.jpg",
-      "size_kb": 11.9
-    },
-    {
-      "path": "images/books/zibu_and_zizo/page2.jpg",
-      "size_kb": 48.8
-    },
-    {
-      "path": "images/books/zibu_and_zizo/page3.jpg",
-      "size_kb": 23.1
     },
     {
       "path": "images/facilitator_face_man.svg",
@@ -905,64 +297,12 @@
       "size_kb": 2.1
     },
     {
-      "path": "images/learning_through_play/pattern_play_2.svg",
-      "size_kb": 84.3
-    },
-    {
-      "path": "images/learning_through_play/pattern_play_3.svg",
-      "size_kb": 70.8
-    },
-    {
       "path": "images/logos/favicon.png",
       "size_kb": 6.3
     },
     {
       "path": "images/logos/plh_white.png",
       "size_kb": 12.8
-    },
-    {
-      "path": "images/modules/connect/connect-01.svg",
-      "size_kb": 197.7
-    },
-    {
-      "path": "images/modules/connect/fathers_face.svg",
-      "size_kb": 13.9
-    },
-    {
-      "path": "images/modules/connect/mom_face.svg",
-      "size_kb": 6.1
-    },
-    {
-      "path": "images/modules/connect/thumbs_down_yellow.svg",
-      "size_kb": 2.2
-    },
-    {
-      "path": "images/modules/connect/thumbs_up_yellow.svg",
-      "size_kb": 2
-    },
-    {
-      "path": "images/modules/play/crying_emoji.svg",
-      "size_kb": 1.7
-    },
-    {
-      "path": "images/modules/play/icon_hand.svg",
-      "size_kb": 2.9
-    },
-    {
-      "path": "images/modules/play/icon_relax.svg",
-      "size_kb": 1.5
-    },
-    {
-      "path": "images/modules/play/icons_module.svg",
-      "size_kb": 2.7
-    },
-    {
-      "path": "images/modules/play/new_fertiliser.mp4",
-      "size_kb": 32.7
-    },
-    {
-      "path": "images/modules/play/ok_emoji.svg",
-      "size_kb": 1.4
     },
     {
       "path": "images/relax/relax_woman.svg",
@@ -986,11 +326,6 @@
     }
   ],
   "assets_missing": [
-    {
-      "path": "image/books/when_grow_up/image_26.jpg",
-      "count": 2,
-      "missing": true
-    },
     {
       "path": "images/books/i_like_to_read/image_1.jpg",
       "count": 1,
@@ -1174,6 +509,11 @@
     {
       "path": "images/books/little_monkey_s_lost_bananas/image_9.jpg",
       "count": 1,
+      "missing": true
+    },
+    {
+      "path": "images/books/little_shoots/cover.jpg",
+      "count": 2,
       "missing": true
     },
     {
@@ -2002,16 +1342,6 @@
       "missing": true
     },
     {
-      "path": "images/modules/create/create_01.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/modules/create/create_02.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
       "path": "images/modules/explore/explore_title_image.svg",
       "count": 2,
       "missing": true
@@ -2023,6 +1353,86 @@
     }
   ],
   "asset_summary": [
+    {
+      "path": "audio/modules/connect/connect_01.mp3",
+      "count": 3,
+      "size_kb": 171.8
+    },
+    {
+      "path": "audio/modules/connect/connect_02.mp3",
+      "count": 3,
+      "size_kb": 187.2
+    },
+    {
+      "path": "audio/modules/connect/connect_03.mp3",
+      "count": 3,
+      "size_kb": 128.3
+    },
+    {
+      "path": "audio/modules/connect/connect_04.mp3",
+      "count": 6,
+      "size_kb": 477.8
+    },
+    {
+      "path": "audio/modules/connect/connect_05.mp3",
+      "count": 3,
+      "size_kb": 143.1
+    },
+    {
+      "path": "audio/modules/connect/connect_06.mp3",
+      "count": 3,
+      "size_kb": 167.6
+    },
+    {
+      "path": "audio/modules/connect/connect_07.mp3",
+      "count": 3,
+      "size_kb": 241.2
+    },
+    {
+      "path": "audio/modules/connect/connect_08.mp3",
+      "count": 3,
+      "size_kb": 204.1
+    },
+    {
+      "path": "audio/modules/create/create_01.mp3",
+      "count": 3,
+      "size_kb": 165.5
+    },
+    {
+      "path": "audio/modules/create/create_02.mp3",
+      "count": 3,
+      "size_kb": 336.2
+    },
+    {
+      "path": "audio/modules/create/create_03.mp3",
+      "count": 3,
+      "size_kb": 190.2
+    },
+    {
+      "path": "audio/modules/play/play_01.mp3",
+      "count": 3,
+      "size_kb": 155.3
+    },
+    {
+      "path": "audio/modules/play/play_02.mp3",
+      "count": 3,
+      "size_kb": 189.1
+    },
+    {
+      "path": "audio/modules/play/play_03.mp3",
+      "count": 3,
+      "size_kb": 268.2
+    },
+    {
+      "path": "audio/modules/play/play_04.mp3",
+      "count": 3,
+      "size_kb": 202.7
+    },
+    {
+      "path": "audio/modules/play/play_05.mp3",
+      "count": 3,
+      "size_kb": 206.8
+    },
     {
       "path": "audio/relax/relax_1.mp3",
       "count": 1,
@@ -2584,9 +1994,9 @@
       "size_kb": 33.7
     },
     {
-      "path": "images/books/babys_first_photo/cover.jpg",
+      "path": "images/books/babys_first_photo/cover.png",
       "count": 2,
-      "size_kb": 32.8
+      "size_kb": 153.3
     },
     {
       "path": "images/books/babys_first_photo/page10.jpg",
@@ -3714,9 +3124,9 @@
       "size_kb": 26.6
     },
     {
-      "path": "images/books/lefas_bath/cover.jpg",
+      "path": "images/books/lefas_bath/cover.png",
       "count": 2,
-      "size_kb": 93.6
+      "size_kb": 99.6
     },
     {
       "path": "images/books/lefas_bath/page10.jpg",
@@ -3929,11 +3339,6 @@
       "size_kb": 30.3
     },
     {
-      "path": "images/books/little_shoots/cover.jpg",
-      "count": 2,
-      "size_kb": 33.6
-    },
-    {
       "path": "images/books/little_shoots/page10.jpg",
       "count": 2,
       "size_kb": 45.2
@@ -3962,6 +3367,11 @@
       "path": "images/books/little_shoots/page15.jpg",
       "count": 2,
       "size_kb": 62.9
+    },
+    {
+      "path": "images/books/little_shoots/page17.jpg",
+      "count": 2,
+      "size_kb": 10.3
     },
     {
       "path": "images/books/little_shoots/page4.jpg",
@@ -4209,9 +3619,9 @@
       "size_kb": 23.8
     },
     {
-      "path": "images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg",
+      "path": "images/books/moms_red_coat/cover.png",
       "count": 2,
-      "size_kb": 20.5
+      "size_kb": 65.8
     },
     {
       "path": "images/books/moms_red_coat/moms-red-coat_20221201_page10.jpg",
@@ -4242,16 +3652,6 @@
       "path": "images/books/moms_red_coat/moms-red-coat_20221201_page15.jpg",
       "count": 2,
       "size_kb": 14.7
-    },
-    {
-      "path": "images/books/moms_red_coat/moms-red-coat_20221201_page16.jpg",
-      "count": 2,
-      "size_kb": 22.9
-    },
-    {
-      "path": "images/books/moms_red_coat/moms-red-coat_20221201_page17.jpg",
-      "count": 2,
-      "size_kb": 6.7
     },
     {
       "path": "images/books/moms_red_coat/moms-red-coat_20221201_page4.jpg",
@@ -4779,9 +4179,9 @@
       "size_kb": 22
     },
     {
-      "path": "images/books/shongololo_s_shoes/image_1.jpg",
+      "path": "images/books/shongololo_s_shoes/cover.png",
       "count": 2,
-      "size_kb": 23.9
+      "size_kb": 60.4
     },
     {
       "path": "images/books/shongololo_s_shoes/image_10.jpg",
@@ -5224,9 +4624,9 @@
       "size_kb": 47.7
     },
     {
-      "path": "images/books/the_things_that_really_matter/cover.jpg",
+      "path": "images/books/the_things_that_really_matter/cover.png",
       "count": 2,
-      "size_kb": 32.4
+      "size_kb": 114.7
     },
     {
       "path": "images/books/the_things_that_really_matter/page10.jpg",
@@ -5369,9 +4769,9 @@
       "size_kb": 28.6
     },
     {
-      "path": "images/books/to_the_top/cover.jpg",
+      "path": "images/books/to_the_top/cover.png",
       "count": 2,
-      "size_kb": 25.5
+      "size_kb": 95.7
     },
     {
       "path": "images/books/to_the_top/page10.jpg",
@@ -5402,6 +4802,11 @@
       "path": "images/books/to_the_top/page15.jpg",
       "count": 2,
       "size_kb": 23.5
+    },
+    {
+      "path": "images/books/to_the_top/page17.jpg",
+      "count": 2,
+      "size_kb": 6
     },
     {
       "path": "images/books/to_the_top/page4.jpg",

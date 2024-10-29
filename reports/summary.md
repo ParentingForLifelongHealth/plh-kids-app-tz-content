@@ -56,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 56545 KB | 56.5 MB |
-| unused | 56275 KB | 56.3 MB |
+| total | 60294 KB | 60.3 MB |
+| unused | 48298 KB | 48.3 MB |
 </details>
 
 <details open>
@@ -71,163 +71,11 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 73.7 |
 | android/icon.png | 80.4 |
 | android/splash.png | 156.5 |
-| audio/modules/connect/connect_01.mp3 | 171.8 |
-| audio/modules/connect/connect_02.mp3 | 187.2 |
-| audio/modules/connect/connect_03.mp3 | 128.3 |
-| audio/modules/connect/connect_04.mp3 | 477.8 |
-| audio/modules/connect/connect_05.mp3 | 143.1 |
-| audio/modules/connect/connect_06.mp3 | 167.6 |
-| audio/modules/connect/connect_07.mp3 | 241.2 |
-| audio/modules/connect/connect_08.mp3 | 204.1 |
 | audio/modules/connect/connect_09.mp3 | 254.9 |
-| audio/modules/create/create_01.mp3 | 165.5 |
-| audio/modules/create/create_02.mp3 | 336.2 |
-| audio/modules/create/create_03.mp3 | 190.2 |
-| audio/modules/play/play_01.mp3 | 155.3 |
-| audio/modules/play/play_02.mp3 | 189.1 |
-| audio/modules/play/play_03.mp3 | 268.2 |
-| audio/modules/play/play_04.mp3 | 202.7 |
-| audio/modules/play/play_05.mp3 | 206.8 |
 | audio/modules/play/play_06.mp3 | 159.8 |
 | contents.json | 5.9 |
-| images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page.jpg | 6.8 |
-| images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page2.jpg | 63.5 |
-| images/books/a_trip_to_the_tap/a-trip-to-the-tap_20231102_page3.jpg | 16.1 |
-| images/books/a_trip_to_the_tap/page16.jpg | 82.5 |
-| images/books/a_trip_to_the_tap/page17.jpg | 5.4 |
-| images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page1.jpg | 4.2 |
-| images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page2.jpg | 55 |
-| images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page3.jpg | 12.9 |
-| images/books/amaizing_flower/oumas-amazing-flowers_20231101_page1.jpg | 6.5 |
-| images/books/amaizing_flower/page17.jpg | 7.1 |
-| images/books/amaizing_flower/page2.jpg | 34.7 |
-| images/books/amaizing_flower/page3.jpg | 10.5 |
-| images/books/babys_first_photo/babys-first-family-photo_20190506_page1.jpg | 12.7 |
-| images/books/babys_first_photo/babys-first-family-photo_20190506_page2.jpg | 123.1 |
-| images/books/babys_first_photo/babys-first-family-photo_20190506_page3.jpg | 23.7 |
-| images/books/babys_first_photo/babys_first_photo_round_cover.png | 153.3 |
-| images/books/babys_first_photo/page16.jpg | 107.1 |
-| images/books/babys_first_photo/page17.jpg | 6.2 |
-| images/books/beloved_daughter/image_16.jpg | 47.1 |
-| images/books/brave_bora/brave-bora_interior_20211005_page.jpg | 7 |
-| images/books/brave_bora/brave-bora_interior_20211005_page2.jpg | 48.6 |
-| images/books/brave_bora/brave-bora_interior_20211005_page3.jpg | 16.6 |
-| images/books/fifi_and_teddy/fifi-and-teddy_20221127_page1.jpg | 9 |
-| images/books/fifi_and_teddy/fifi-and-teddy_20221127_page16.jpg | 29.8 |
-| images/books/fifi_and_teddy/fifi-and-teddy_20221127_page17.jpg | 6.6 |
-| images/books/fifi_and_teddy/fifi-and-teddy_20221127_page2.jpg | 37.9 |
-| images/books/fifi_and_teddy/fifi-and-teddy_20221127_page3.jpg | 12.2 |
-| images/books/grandpa_farouks_garden/page1.jpg | 6.6 |
-| images/books/grandpa_farouks_garden/page2.jpg | 32.9 |
-| images/books/grandpa_farouks_garden/page3.jpg | 26.3 |
-| images/books/how_do_you_sleep/page1.jpg | 11.2 |
-| images/books/how_do_you_sleep/page2.jpg | 67.8 |
-| images/books/how_do_you_sleep/page3.jpg | 22 |
-| images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page1.jpg | 8.2 |
-| images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page16.jpg | 40 |
-| images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page17.jpg | 5.5 |
-| images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page2.jpg | 40 |
-| images/books/how_do_you_want_your_eggs/how-do-you-want-your-eggs_20231103_page3.jpg | 19.1 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page.jpg | 7 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page16.jpg | 14.1 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page2.jpg | 14.1 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page3.jpg | 8.7 |
-| images/books/katiitis_song/image_14.jpg | 72.2 |
-| images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page1.jpg | 6.7 |
-| images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page16.jpg | 28.3 |
-| images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page17.jpg | 9.5 |
-| images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page2.jpg | 28.3 |
-| images/books/lebo_gogo_tea_party/lebo-and-gogos-tea-party_20221201_page3.jpg | 13.5 |
-| images/books/lefas_bath/lefas_bath_round_cover.png | 99.6 |
-| images/books/lefas_bath/page1.jpg | 25.7 |
-| images/books/lefas_bath/page2.jpg | 47.2 |
-| images/books/lefas_bath/page3.jpg | 35.7 |
-| images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page1.jpg | 13.1 |
-| images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page16.jpg | 90.6 |
-| images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page17.jpg | 10.2 |
-| images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page2.jpg | 90.6 |
-| images/books/lesedis_sandbox/lesedis-sandbox_interior_20200515_page3.jpg | 22.9 |
 | images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png | 139.2 |
-| images/books/lets_go_on_a_litter_hunt/page1.jpg | 9 |
-| images/books/lets_go_on_a_litter_hunt/page2.jpg | 35.4 |
-| images/books/lets_go_on_a_litter_hunt/page3.jpg | 17.9 |
-| images/books/little_shoots/little-shoots_20210525_page1.jpg | 22.4 |
-| images/books/little_shoots/little-shoots_20210525_page16.jpg | 88.2 |
-| images/books/little_shoots/little-shoots_20210525_page17.jpg | 10.3 |
-| images/books/little_shoots/little-shoots_20210525_page2.jpg | 87.8 |
-| images/books/little_shoots/little-shoots_20210525_page3.jpg | 31.2 |
-| images/books/little_shoots/little_shoots_round_cover.png | 112.9 |
-| images/books/look_out_luthando/look-out-luthando_20221127_page1.jpg | 7.4 |
-| images/books/look_out_luthando/look-out-luthando_20221127_page16.jpg | 67.7 |
-| images/books/look_out_luthando/look-out-luthando_20221127_page17.jpg | 11.1 |
-| images/books/look_out_luthando/look-out-luthando_20221127_page2.jpg | 60.9 |
-| images/books/look_out_luthando/look-out-luthando_20221127_page3.jpg | 17.2 |
-| images/books/lost_toy/page1.jpg | 8.8 |
-| images/books/lost_toy/page2.jpg | 27.8 |
-| images/books/lost_toy/page3.jpg | 14.1 |
-| images/books/mama_whats_for_lunch/page1.jpg | 8 |
-| images/books/mama_whats_for_lunch/page2.jpg | 79.8 |
-| images/books/mama_whats_for_lunch/page3.jpg | 39.3 |
-| images/books/moms_red_coat/moms-red-coat_20221201_page1.jpg | 7.3 |
-| images/books/moms_red_coat/moms-red-coat_20221201_page2.jpg | 22.9 |
-| images/books/moms_red_coat/moms-red-coat_20221201_page3.jpg | 15.6 |
-| images/books/moms_red_coat/moms_red_coat_round_cover.png | 65.8 |
-| images/books/my_inside_weather/my-inside-weather_20180115_page1.jpg | 11.9 |
-| images/books/my_inside_weather/my-inside-weather_20180115_page16.jpg | 13.3 |
-| images/books/my_inside_weather/my-inside-weather_20180115_page17.jpg | 9.6 |
-| images/books/my_inside_weather/my-inside-weather_20180115_page2.jpg | 13.3 |
-| images/books/my_inside_weather/my-inside-weather_20180115_page3.jpg | 15.8 |
-| images/books/my_little_garden/page1.jpg | 14.2 |
-| images/books/my_little_garden/page2.jpg | 49.1 |
-| images/books/my_little_garden/page3.jpg | 16.1 |
-| images/books/scared_tumi/scared-tumi_20161230_page1.jpg | 7.6 |
-| images/books/scared_tumi/scared-tumi_20161230_page16.jpg | 4.9 |
-| images/books/scared_tumi/scared-tumi_20161230_page2.jpg | 74 |
-| images/books/scared_tumi/scared-tumi_20161230_page3.jpg | 10.9 |
-| images/books/shhhhh/image_14.jpg | 73.6 |
-| images/books/shongololo_s_shoes/shongololo_s_shoes_round_cover.png | 60.4 |
-| images/books/tejus_shadow/page1.jpg | 7.1 |
-| images/books/tejus_shadow/page16.jpg | 78.1 |
-| images/books/tejus_shadow/page2.jpg | 78.1 |
-| images/books/tejus_shadow/page3.jpg | 18.9 |
-| images/books/the_best_thing_ever/page1.jpg | 8.3 |
-| images/books/the_best_thing_ever/page2.jpg | 26.2 |
-| images/books/the_best_thing_ever/page3.jpg | 17.2 |
-| images/books/the_one_in_the_middle/page1.jpg | 8.5 |
-| images/books/the_one_in_the_middle/page2.jpg | 29.7 |
-| images/books/the_one_in_the_middle/page3.jpg | 16.5 |
-| images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page1.jpg | 7.5 |
-| images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page17.jpg | 12 |
-| images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page2.jpg | 12 |
-| images/books/the_things_that_really_matter/the-things-that-really-matter_20200515_page3.jpg | 28.1 |
-| images/books/the_things_that_really_matter/the_things_that_really_matter_round_cover.png | 114.7 |
-| images/books/tlotlegos_tea_party/page1.jpg | 9.3 |
-| images/books/tlotlegos_tea_party/page2.jpg | 57.3 |
-| images/books/tlotlegos_tea_party/page3.jpg | 14 |
-| images/books/to_the_top/to-the-top_interior_20211005_page1.jpg | 6.9 |
-| images/books/to_the_top/to-the-top_interior_20211005_page16.jpg | 43.6 |
-| images/books/to_the_top/to-the-top_interior_20211005_page17.jpg | 6 |
-| images/books/to_the_top/to-the-top_interior_20211005_page2.jpg | 43.5 |
-| images/books/to_the_top/to-the-top_interior_20211005_page3.jpg | 7.8 |
-| images/books/to_the_top/to_the_top_round_cover.png | 95.7 |
-| images/books/whats_at_the_park/page.jpg | 6.7 |
-| images/books/whats_at_the_park/page2.jpg | 6.4 |
-| images/books/whats_at_the_park/page3.jpg | 7.7 |
-| images/books/whats_in_pot/page1.jpg | 7.6 |
-| images/books/whats_in_pot/page2.jpg | 28.3 |
-| images/books/whats_in_pot/page3.jpg | 11.7 |
-| images/books/when_grow_up/image_26.jpg | 22.1 |
-| images/books/where_is_lulu/where-is-lulu_20180605_page1.jpg | 18.3 |
-| images/books/where_is_lulu/where-is-lulu_20180605_page16.jpg | 44.6 |
-| images/books/where_is_lulu/where-is-lulu_20180605_page17.jpg | 6.9 |
-| images/books/where_is_lulu/where-is-lulu_20180605_page2.jpg | 44.6 |
-| images/books/where_is_lulu/where-is-lulu_20180605_page3.jpg | 12 |
-| images/books/yes_you_can/page1.jpg | 6.7 |
-| images/books/yes_you_can/page2.jpg | 55.9 |
-| images/books/yes_you_can/page3.jpg | 16.8 |
-| images/books/zibu_and_zizo/page1.jpg | 11.9 |
-| images/books/zibu_and_zizo/page2.jpg | 48.8 |
-| images/books/zibu_and_zizo/page3.jpg | 23.1 |
+| images/books/little_shoots/cover.png | 112.9 |
 | images/facilitator_face_man.svg | 7.4 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/faces/angry.svg | 1.1 |
@@ -250,21 +98,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_blue.svg | 1 |
 | images/icons/star_outline_white.svg | 1 |
 | images/icons/thought_bubble.svg | 2.1 |
-| images/learning_through_play/pattern_play_2.svg | 84.3 |
-| images/learning_through_play/pattern_play_3.svg | 70.8 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
-| images/modules/connect/connect-01.svg | 197.7 |
-| images/modules/connect/fathers_face.svg | 13.9 |
-| images/modules/connect/mom_face.svg | 6.1 |
-| images/modules/connect/thumbs_down_yellow.svg | 2.2 |
-| images/modules/connect/thumbs_up_yellow.svg | 2 |
-| images/modules/play/crying_emoji.svg | 1.7 |
-| images/modules/play/icon_hand.svg | 2.9 |
-| images/modules/play/icon_relax.svg | 1.5 |
-| images/modules/play/icons_module.svg | 2.7 |
-| images/modules/play/new_fertiliser.mp4 | 32.7 |
-| images/modules/play/ok_emoji.svg | 1.4 |
 | images/relax/relax_woman.svg | 14.8 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
@@ -279,7 +114,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| image/books/when_grow_up/image_26.jpg | 2 |
 | images/books/i_like_to_read/image_1.jpg | 1 |
 | images/books/i_like_to_read/image_2.jpg | 1 |
 | images/books/i_like_to_read/image_3.jpg | 1 |
@@ -317,6 +151,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/little_monkey_s_lost_bananas/image_7.jpg | 1 |
 | images/books/little_monkey_s_lost_bananas/image_8.jpg | 1 |
 | images/books/little_monkey_s_lost_bananas/image_9.jpg | 1 |
+| images/books/little_shoots/cover.jpg | 2 |
 | images/books/ma_hurry_up/image_1.jpg | 1 |
 | images/books/ma_hurry_up/image_10.jpg | 1 |
 | images/books/ma_hurry_up/image_11.jpg | 1 |
@@ -482,8 +317,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_9.jpg | 1 |
 | images/modules/build/build_title_image.svg | 2 |
 | images/modules/care/care_title_image.svg | 2 |
-| images/modules/create/create_01.mp3 | 3 |
-| images/modules/create/create_02.mp3 | 3 |
 | images/modules/explore/explore_title_image.svg | 2 |
 | images/modules/talk/talk_title_image.svg | 2 |
 </details>
@@ -495,6 +328,22 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
+| audio/modules/connect/connect_01.mp3 | 171.8 | 3 |
+| audio/modules/connect/connect_02.mp3 | 187.2 | 3 |
+| audio/modules/connect/connect_03.mp3 | 128.3 | 3 |
+| audio/modules/connect/connect_04.mp3 | 477.8 | 6 |
+| audio/modules/connect/connect_05.mp3 | 143.1 | 3 |
+| audio/modules/connect/connect_06.mp3 | 167.6 | 3 |
+| audio/modules/connect/connect_07.mp3 | 241.2 | 3 |
+| audio/modules/connect/connect_08.mp3 | 204.1 | 3 |
+| audio/modules/create/create_01.mp3 | 165.5 | 3 |
+| audio/modules/create/create_02.mp3 | 336.2 | 3 |
+| audio/modules/create/create_03.mp3 | 190.2 | 3 |
+| audio/modules/play/play_01.mp3 | 155.3 | 3 |
+| audio/modules/play/play_02.mp3 | 189.1 | 3 |
+| audio/modules/play/play_03.mp3 | 268.2 | 3 |
+| audio/modules/play/play_04.mp3 | 202.7 | 3 |
+| audio/modules/play/play_05.mp3 | 206.8 | 3 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
 | audio/relax/relax_10.mp3 | 404.9 | 2 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
@@ -607,7 +456,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/angry_akku/image_7.jpg | 33.6 | 2 |
 | images/books/angry_akku/image_8.jpg | 32.5 | 2 |
 | images/books/angry_akku/image_9.jpg | 33.7 | 2 |
-| images/books/babys_first_photo/cover.jpg | 32.8 | 2 |
+| images/books/babys_first_photo/cover.png | 153.3 | 2 |
 | images/books/babys_first_photo/page10.jpg | 22.9 | 2 |
 | images/books/babys_first_photo/page11.jpg | 31.1 | 2 |
 | images/books/babys_first_photo/page12.jpg | 30.7 | 2 |
@@ -833,7 +682,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/lebo_gogo_tea_party/page7.jpg | 15.4 | 2 |
 | images/books/lebo_gogo_tea_party/page8.jpg | 43.1 | 2 |
 | images/books/lebo_gogo_tea_party/page9.jpg | 26.6 | 2 |
-| images/books/lefas_bath/cover.jpg | 93.6 | 2 |
+| images/books/lefas_bath/cover.png | 99.6 | 2 |
 | images/books/lefas_bath/page10.jpg | 59 | 2 |
 | images/books/lefas_bath/page11.jpg | 61.7 | 2 |
 | images/books/lefas_bath/page12.jpg | 63.2 | 2 |
@@ -876,13 +725,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/lets_go_on_a_litter_hunt/page7.jpg | 32.7 | 2 |
 | images/books/lets_go_on_a_litter_hunt/page8.jpg | 54.7 | 2 |
 | images/books/lets_go_on_a_litter_hunt/page9.jpg | 30.3 | 2 |
-| images/books/little_shoots/cover.jpg | 33.6 | 2 |
 | images/books/little_shoots/page10.jpg | 45.2 | 2 |
 | images/books/little_shoots/page11.jpg | 48.9 | 2 |
 | images/books/little_shoots/page12.jpg | 46.6 | 2 |
 | images/books/little_shoots/page13.jpg | 37.3 | 2 |
 | images/books/little_shoots/page14.jpg | 45.3 | 2 |
 | images/books/little_shoots/page15.jpg | 62.9 | 2 |
+| images/books/little_shoots/page17.jpg | 10.3 | 2 |
 | images/books/little_shoots/page4.jpg | 53.6 | 2 |
 | images/books/little_shoots/page5.jpg | 58.4 | 2 |
 | images/books/little_shoots/page6.jpg | 40.4 | 2 |
@@ -932,15 +781,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/mama_whats_for_lunch/page7.jpg | 25.1 | 2 |
 | images/books/mama_whats_for_lunch/page8.jpg | 25.5 | 2 |
 | images/books/mama_whats_for_lunch/page9.jpg | 23.8 | 2 |
-| images/books/moms_red_coat/moms-red-coat_20221201_cover.jpg | 20.5 | 2 |
+| images/books/moms_red_coat/cover.png | 65.8 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page10.jpg | 19 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page11.jpg | 22.1 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page12.jpg | 17.2 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page13.jpg | 21.1 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page14.jpg | 19 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page15.jpg | 14.7 | 2 |
-| images/books/moms_red_coat/moms-red-coat_20221201_page16.jpg | 22.9 | 2 |
-| images/books/moms_red_coat/moms-red-coat_20221201_page17.jpg | 6.7 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page4.jpg | 13.8 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page5.jpg | 17.4 | 2 |
 | images/books/moms_red_coat/moms-red-coat_20221201_page6.jpg | 16.3 | 2 |
@@ -1046,7 +893,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/shhhhh/image_7.jpg | 17.5 | 2 |
 | images/books/shhhhh/image_8.jpg | 16.7 | 2 |
 | images/books/shhhhh/image_9.jpg | 22 | 2 |
-| images/books/shongololo_s_shoes/image_1.jpg | 23.9 | 2 |
+| images/books/shongololo_s_shoes/cover.png | 60.4 | 2 |
 | images/books/shongololo_s_shoes/image_10.jpg | 39.3 | 2 |
 | images/books/shongololo_s_shoes/image_11.jpg | 32.4 | 2 |
 | images/books/shongololo_s_shoes/image_12.jpg | 29.2 | 2 |
@@ -1135,7 +982,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/the_one_in_the_middle/page7.jpg | 26.9 | 2 |
 | images/books/the_one_in_the_middle/page8.jpg | 34.5 | 2 |
 | images/books/the_one_in_the_middle/page9.jpg | 47.7 | 2 |
-| images/books/the_things_that_really_matter/cover.jpg | 32.4 | 2 |
+| images/books/the_things_that_really_matter/cover.png | 114.7 | 2 |
 | images/books/the_things_that_really_matter/page10.jpg | 21.5 | 2 |
 | images/books/the_things_that_really_matter/page11.jpg | 37.3 | 2 |
 | images/books/the_things_that_really_matter/page12.jpg | 20.7 | 2 |
@@ -1164,13 +1011,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/tlotlegos_tea_party/page7.jpg | 42.4 | 2 |
 | images/books/tlotlegos_tea_party/page8.jpg | 48.2 | 2 |
 | images/books/tlotlegos_tea_party/page9.jpg | 28.6 | 2 |
-| images/books/to_the_top/cover.jpg | 25.5 | 2 |
+| images/books/to_the_top/cover.png | 95.7 | 2 |
 | images/books/to_the_top/page10.jpg | 32 | 2 |
 | images/books/to_the_top/page11.jpg | 32.7 | 2 |
 | images/books/to_the_top/page12.jpg | 35.6 | 2 |
 | images/books/to_the_top/page13.jpg | 30.5 | 2 |
 | images/books/to_the_top/page14.jpg | 26.2 | 2 |
 | images/books/to_the_top/page15.jpg | 23.5 | 2 |
+| images/books/to_the_top/page17.jpg | 6 | 2 |
 | images/books/to_the_top/page4.jpg | 32 | 2 |
 | images/books/to_the_top/page5.jpg | 41.4 | 2 |
 | images/books/to_the_top/page6.jpg | 41.6 | 2 |
