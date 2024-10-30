@@ -14,7 +14,6 @@
       "level_id": "level_2",
       "author": "Elana Bregin",
       "illustrator": "Nicki Blackbeard",
-      "licence": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page4.jpg",
       "image_2_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page5.jpg",
       "image_3_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page6.jpg",
@@ -40,6 +39,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -96,6 +96,9 @@
         "description": {
           "eng": "Jabulani has lost his school shoe. He can’t find it anywhere. Where can it be?"
         },
+        "licence": {
+          "eng": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "\"Come, Jabulani,\" Ma says.\"Why aren’t you ready? You’ll be late for school.\" \"I can’t find my shoe,\" says Jabulani."
         },
@@ -146,6 +149,7 @@
         }
       },
       "description": "Jabulani has lost his school shoe. He can’t find it anywhere. Where can it be?",
+      "licence": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "\"Come, Jabulani,\" Ma says.\"Why aren’t you ready? You’ll be late for school.\" \"I can’t find my shoe,\" says Jabulani.",
       "text_2_left": "\"Did you look under your bed?\" says Ma. \"It’s not under my bed,\" Jabulani says.",
       "text_2_right": "\"Did you look in the wardrobe?\" Ma asks. \"Yes, it’s not in the wardrobe.\"",
@@ -175,7 +179,6 @@
       "level_id": "level_1",
       "author": "Elana Bregin",
       "illustrator": "Liam Longland",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page4.jpg",
       "image_2_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page5.jpg",
       "image_3_asset": "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page6.jpg",
@@ -197,7 +200,8 @@
         },
         "description": {
           "tz_sw": true
-        }
+        },
+        "licence": {}
       },
       "_translatedFields": {
         "title": {
@@ -205,9 +209,13 @@
         },
         "description": {
           "eng": "Busi loves the big, beautiful tree outside her house. But her brother wants to cut it down. How will she stop him?"
+        },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
         }
       },
-      "description": "Busi loves the big, beautiful tree outside her house. But her brother wants to cut it down. How will she stop him?"
+      "description": "Busi loves the big, beautiful tree outside her house. But her brother wants to cut it down. How will she stop him?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
     },
     {
       "id": "an_unexpected_adventure",
@@ -221,7 +229,6 @@
       "level_id": "level_1",
       "author": "Carina Jooste",
       "illustrator": "Emma Bosman",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page4.jpg",
       "image_2_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page5.jpg",
       "image_3_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page6.jpg",
@@ -243,7 +250,8 @@
         },
         "description": {
           "tz_sw": true
-        }
+        },
+        "licence": {}
       },
       "_translatedFields": {
         "title": {
@@ -251,9 +259,13 @@
         },
         "description": {
           "eng": "A boring afternoon turns into an exciting adventure when a little boy opens a book."
+        },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
         }
       },
-      "description": "A boring afternoon turns into an exciting adventure when a little boy opens a book."
+      "description": "A boring afternoon turns into an exciting adventure when a little boy opens a book.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
     },
     {
       "id": "no_go_sleep",
@@ -267,7 +279,6 @@
       "level_id": "level_2",
       "author": "Sarah McGregor",
       "illustrator": "Subi Bosa",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page4.jpg",
       "image_2_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg",
       "image_3_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg",
@@ -289,6 +300,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -351,6 +363,9 @@
         "description": {
           "eng": "Nandi doesn’t want to go to sleep. No way! She wants to go on an adventure. Join Nandi as she lets her imagination run wild and free."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "\"Goodnight, Nandi.\""
         },
@@ -407,6 +422,7 @@
         }
       },
       "description": "Nandi doesn’t want to go to sleep. No way! She wants to go on an adventure. Join Nandi as she lets her imagination run wild and free.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "\"That’s enough now. Goodnight, Nandi.\"",
       "text_2_right": "\"I ... don’t ... want ... to ... go ... to ... sleep.\"",
       "text_3_left": "\"I want more supper. Another book! Just one more song?\" \"Goodnight, Nandi.\"",
@@ -437,7 +453,6 @@
       "level_id": "level_2",
       "author": "Mohale Mashigo",
       "illustrator": "Nyambura Kariuki",
-      "licence": "© Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/scared_tumi/scared-tumi_20161230_page4.jpg",
       "image_2_asset": "images/books/scared_tumi/scared-tumi_20161230_page5.jpg",
       "image_3_asset": "images/books/scared_tumi/scared-tumi_20161230_page6.jpg",
@@ -461,6 +476,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -505,6 +521,9 @@
         "description": {
           "eng": "\"What if there’s a monster under my bed?\" Tumi is scared. Mama tries to show him that everything is okay."
         },
+        "licence": {
+          "eng": "© Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "My name is Tumi and I am scared."
         },
@@ -543,6 +562,7 @@
         }
       },
       "description": "\"What if there’s a monster under my bed?\" Tumi is scared. Mama tries to show him that everything is okay.",
+      "licence": "© Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "My name is Tumi and I am scared.",
       "text_7": "What if a whale swallows me at the beach?",
       "text_8": "\"Then Kamo and I will swim into the whale’s mouth to rescue you.\"",
@@ -568,7 +588,6 @@
       "level_id": "level_2",
       "author": "Chrissie Kritzinger",
       "illustrator": "Brad Cuzen",
-      "licence": "© Book Dash , 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page4.jpg",
       "image_2_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page5.jpg",
       "image_3_asset": "images/books/moms_red_coat/moms-red-coat_20221201_page6.jpg",
@@ -591,6 +610,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -630,31 +650,65 @@
         "text_5": {
           "tz_sw": true
         },
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
         "text_7_left": {
           "tz_sw": true
-        }
+        },
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?"
+        },
         "title": {
           "eng": "Mom's Red Coat"
         },
         "description": {
           "eng": "Mom needs to go away for work. I’ll miss her. Will it help if she leaves her red coat with me?"
         },
+        "licence": {
+          "eng": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "I love Mom’s coat! It’s red and long and warm. And it smells like Mom!"
+        },
+        "guidance_1_a": {
+          "eng": "Ask: what are they doing? What colour is her coat?"
         },
         "text_2": {
           "eng": "I love doing things with Mom! We picnic outside. She hugs me when I come home from school. We work in the garden. At night, she holds me tight until I fall asleep."
         },
+        "guidance_2_a": {
+          "eng": "Describe what you see, or ask your child to tell you what they see."
+        },
         "text_3": {
           "eng": "\"Good news!\" says Mom. \"I found a job! I will be away all week, but I’ll come home on weekends!\""
+        },
+        "guidance_3_a": {
+          "eng": "Mimic actions from the pictures or story, like the mom being excited."
         },
         "text_4": {
           "eng": "\"Who will hold me at night, Mom?\" \"Who will hug me, picnic with me, garden with me?\""
         },
+        "guidance_4_a": {
+          "eng": "Talk about what the characters might be thinking or feeling. Ask: how does the boy feel? Why do you think he feels that way?"
+        },
         "text_5": {
           "eng": "\"I can see that you are sad. I will leave my red coat here with you.\" \"When you see it, remember that I love you and I’m coming back.\""
+        },
+        "guidance_5_a": {
+          "eng": "To help your child understand, explain what is happening. Say: Look, the mom has to go, but she is leaving her red coat behind for her son to comfort him."
         },
         "text_6_left": {
           "eng": "I drag the red coat outside – it’s my picnic blanket! It feels like Mom is with me."
@@ -662,29 +716,51 @@
         "text_6_right": {
           "eng": "Oops! Juice spill!"
         },
+        "guidance_6_a": {
+          "eng": "Ask: Where is the boy? Where is his mom’s red coat? What is he doing?"
+        },
         "text_7": {
           "eng": "I am sad that Mom’s not waiting at the door when I come home. I put on her coat. It’s warm and it smells like her. It feels like a hug!"
         },
         "text_7_left": {
           "eng": "Oops! Paint!"
         },
+        "guidance_7_a": {
+          "eng": "Use descriptive words to talk about the pictures. Say: Look, he is wearing his mom’s red coat. He is holding a paint brush in one hand and a picture in the other hand."
+        },
         "text_8": {
           "eng": "I help Gogo in the garden. The long coat on the branch scares away the chickens! It feels like Mom is gardening with us. Oops! Mud!"
+        },
+        "guidance_8_a": {
+          "eng": "Ask: Where is the red coat now? What animals can you see under the tree? Do they look the same, or are they different? Are they going in the same direction or in opposite directions?"
         },
         "text_9": {
           "eng": "When it’s dark, I miss Mom most. Gogo covers me with her warm coat. It feels like Mom is holding me as I fall asleep. Oops! Cookie crumbs!"
         },
+        "guidance_9_a": {
+          "eng": "Ask: Where is the red coat now? What is the boy doing? Why do you think he is doing that? Do you think he might be missing his mom?"
+        },
         "text_10": {
           "eng": "Mom’s red coat is warm and smells like...paint, juice, mud, and cookie crumbs! Oops! We need to wash it!"
+        },
+        "guidance_10_a": {
+          "eng": "Say: Look, the red coat is hanging on the washing line. Ask: Why do you think they washed the coat? What else is hanging on the washing line? How many socks can you see?"
         },
         "text_11": {
           "eng": "The wind blows the red coat off the washing line...up into the air! It flies over the fence! It flies over the taxi! Oops! Who did the coat fall on?"
         },
+        "guidance_11_a": {
+          "eng": "Say: Look, the wind blew the red coat away. Ask: who do you think is under the coat? Why do you think so?"
+        },
         "text_12": {
           "eng": "I run and grab it! \"Found you, coat!\" The red coat smells like Mom again. \"Oh!\" \"Found you, Mom! You’re back!\""
+        },
+        "guidance_12_a": {
+          "eng": "Demonstrate the emotions from the story. Say in a happy voice: hooray! His mom is back! Ask: how do you think he is feeling now?"
         }
       },
       "description": "Mom needs to go away for work. I’ll miss her. Will it help if she leaves her red coat with me?",
+      "licence": "© Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "I love Mom’s coat! It’s red and long and warm. And it smells like Mom!",
       "text_6_left": "I drag the red coat outside – it’s my picnic blanket! It feels like Mom is with me.",
       "text_6_right": "Oops! Juice spill!",
@@ -705,13 +781,13 @@
       "guidance_4_a": "Talk about what the characters might be thinking or feeling. Ask: how does the boy feel? Why do you think he feels that way?",
       "guidance_5_a": "To help your child understand, explain what is happening. Say: Look, the mom has to go, but she is leaving her red coat behind for her son to comfort him.",
       "guidance_6_a": "Ask: Where is the boy? Where is his mom’s red coat? What is he doing?",
+      "text_7_left": "Oops! Paint!",
       "guidance_7_a": "Use descriptive words to talk about the pictures. Say: Look, he is wearing his mom’s red coat. He is holding a paint brush in one hand and a picture in the other hand.",
       "guidance_8_a": "Ask: Where is the red coat now? What animals can you see under the tree? Do they look the same, or are they different? Are they going in the same direction or in opposite directions?",
       "guidance_9_a": "Ask: Where is the red coat now? What is the boy doing? Why do you think he is doing that? Do you think he might be missing his mom?",
       "guidance_10_a": "Say: Look, the red coat is hanging on the washing line. Ask: Why do you think they washed the coat? What else is hanging on the washing line? How many socks can you see?",
       "guidance_11_a": "Say: Look, the wind blew the red coat away. Ask: who do you think is under the coat? Why do you think so?",
-      "guidance_12_a": "Demonstrate the emotions from the story. Say in a happy voice: hooray! His mom is back! Ask: how do you think he is feeling now?",
-      "text_7_left": "Oops! Paint!"
+      "guidance_12_a": "Demonstrate the emotions from the story. Say in a happy voice: hooray! His mom is back! Ask: how do you think he is feeling now?"
     },
     {
       "id": "amma_be_back",
@@ -725,7 +801,6 @@
       "level_id": "level_2",
       "author": "Prathiba Swaminathan",
       "illustrator": "Alankrita Amaya",
-      "licence": "© Pratham Books , 2018. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/when_will_amma_be_back/image_2.jpg",
       "image_2_asset": "images/books/when_will_amma_be_back/image_3.jpg",
       "image_3_asset": "images/books/when_will_amma_be_back/image_4.jpg",
@@ -741,7 +816,7 @@
       "image_13_asset": "images/books/when_will_amma_be_back/image_14.jpg",
       "image_14_asset": "images/books/when_will_amma_be_back/image_15.jpg",
       "other_credits": "This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Karthika Gopalakrishnan, Art Director: Kaveri Gopalakrishnan",
-      "images_attributions": "Cover page: Girl trying to read clock, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 2: A woman enters a girl's room, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 3: Girl tucked into bed, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 4: Girl refusing to eat food, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 5: Girl and her grandfather go vegetable shopping, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 6: Girl screaming in a kitchen, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 7: Girls and a bus conductor, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 8: Girl plays in a park, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 9: Girl feeding her dog, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 10: Man reads girl a story, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 11: Woman looks into a dark room , by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 12: Brinjal and breakfast, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 13: Girl smiling joyfully, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 14: Woman and girl hug, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 15: Girl and her daily activities, by Alankrita Amaya © Pratham Books, 2018. Some rights\nreserved. Released under CC BY 4.0 license. Page 16: The daily activities of a girl, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license.",
+      "images_attributions": "Cover page: Girl trying to read clock, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 2: A woman enters a girl's room, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 3: Girl tucked into bed, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 4: Girl refusing to eat food, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 5: Girl and her grandfather go vegetable shopping, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 6: Girl screaming in a kitchen, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 7: Girls and a bus conductor, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 8: Girl plays in a park, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 9: Girl feeding her dog, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 10: Man reads girl a story, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 11: Woman looks into a dark room, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 12: Brinjal and breakfast, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 13: Girl smiling joyfully, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 14: Woman and girl hug, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 15: Girl and her daily activities, by Alankrita Amaya © Pratham Books, 2018. Some rights\nreserved. Released under CC BY 4.0 license. Page 16: The daily activities of a girl, by Alankrita Amaya © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license.",
       "title": "When Will Amma Be Back?",
       "_translations": {
         "title": {
@@ -750,6 +825,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -803,6 +879,9 @@
         "description": {
           "eng": "Roja’s mother leaves for work early in the day. She promises to be back by bedtime. What will Roja do all day without Amma?"
         },
+        "licence": {
+          "eng": "© Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "Roja is sad. Amma is going to work. \"I will be back before bedtime, kannamma,\" says Amma."
         },
@@ -850,6 +929,7 @@
         }
       },
       "description": "Roja’s mother leaves for work early in the day. She promises to be back by bedtime. What will Roja do all day without Amma?",
+      "licence": "© Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "Roja is sad. Amma is going to work. \"I will be back before bedtime, kannamma,\" says Amma.",
       "text_7": "\"It’s time to go home, Roja,\" Appa calls out. \"Just one last time!\" shouts Roja. Tick tock! Tick tock! It is 5 o’clock in the evening.",
       "text_8": "\"Selvi, eat your dosai quickly! Only then will you become big and strong,\" says Roja. Tick tock! Tick tock! It is 7 o’clock at night.",
@@ -878,7 +958,6 @@
       "level_id": "level_1",
       "author": "Long Ravy",
       "illustrator": "Try Samphos",
-      "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/the_bee_and_the_elephant/image_2.jpg",
       "image_2_asset": "images/books/the_bee_and_the_elephant/image_3.jpg",
       "image_3_asset": "images/books/the_bee_and_the_elephant/image_4.jpg",
@@ -898,6 +977,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -930,6 +1010,9 @@
         "description": {
           "eng": "An elephant tries to help a little lost bee find his home. Is it the nest? The cave? Where does he live?"
         },
+        "licence": {
+          "eng": "© Room to Read, 2015. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "\"I am lost,\" said Little Bee. \"I cannot find my home!\" \"Can you please help me, Mr. Elephant?\""
         },
@@ -956,6 +1039,7 @@
         }
       },
       "description": "An elephant tries to help a little lost bee find his home. Is it the nest? The cave? Where does he live?",
+      "licence": "© Room to Read, 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "\"I am lost,\" said Little Bee. \"I cannot find my home!\" \"Can you please help me, Mr. Elephant?\"",
       "text_7": "\"Oh yes!\" said Little Bee happily. \"This is my home.\"",
       "text_8": "\"Thank you for helping me, Mr. Elephant.\"",
@@ -977,7 +1061,6 @@
       "level_id": "level_1",
       "author": "Philippa Namutebi Kabali-Kagwa",
       "illustrator": "Mary Marble",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/katiitis_song/image_2.jpg",
       "image_2_asset": "images/books/katiitis_song/image_3.jpg",
       "image_3_asset": "images/books/katiitis_song/image_4.jpg",
@@ -999,6 +1082,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -1043,6 +1127,9 @@
         "description": {
           "eng": "Every day, Katiiti’s mother calls her with a beautiful song. One day, a crafty gorilla tries to sing as sweetly as her mother."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "Katiiti lived in a village next to a forest."
         },
@@ -1081,6 +1168,7 @@
         }
       },
       "description": "Every day, Katiiti’s mother calls her with a beautiful song. One day, a crafty gorilla tries to sing as sweetly as her mother.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "Katiiti lived in a village next to a forest.",
       "text_7": "Gorilla ate lots of bananas to make his voice sweeter.",
       "text_8": "Gorilla sang sweetishly.",
@@ -1108,7 +1196,6 @@
       "level_id": "level_1",
       "author": "Elana Bregin",
       "illustrator": "Lindy Pelzl",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/beautiful_day/01.jpg",
       "image_2_asset": "images/books/beautiful_day/02.jpg",
       "image_3_asset": "images/books/beautiful_day/03.jpg",
@@ -1129,6 +1216,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -1179,6 +1267,9 @@
         "description": {
           "eng": "It’s a beautiful day for a picnic. Everyone wants to join in the fun."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "\"What a beautiful day,\" says Mom. \"Wake up Nicholas.\""
         },
@@ -1223,6 +1314,7 @@
         }
       },
       "description": "It’s a beautiful day for a picnic. Everyone wants to join in the fun.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "\"It’s a lovely day,\" says Dad. \"Let’s have a picnic by the river.\"",
       "text_2_right": "\"Can my friend Jacob come?\" asks Nicholas.",
       "text_3_left": "\"Don’t forget me. I love picnics!\" says Donkey. \"And me. I want to come too!\" says Dog.",
@@ -1251,7 +1343,6 @@
       ],
       "author": "Sindeka Mandoyi",
       "illustrator": "Phumle April",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/a_trip_to_the_tap/page4.jpg",
       "image_2_asset": "images/books/a_trip_to_the_tap/page5.jpg",
       "image_3_asset": "images/books/a_trip_to_the_tap/page6.jpg",
@@ -1272,6 +1363,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -1316,6 +1408,9 @@
         "description": {
           "eng": "Oluhle fetches water at the tap every day. She gets to carry her favourite pink bucket. But one day it gets lost …"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Oluhle wakes up early. She is excited to get water. “Come Mama, we have to be first today,” she calls."
         },
@@ -1354,6 +1449,7 @@
         }
       },
       "description": "Oluhle fetches water at the tap every day. She gets to carry her favourite pink bucket. But one day it gets lost …",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "On the way they meet Nathi and Unathi. They are going to the tap with their mother.",
       "text_3_left": "Oluhle and her friends play while the grown-ups get water. “Oluhle, your bucket is full,” says Mama.",
       "text_4_left": "At home, Oluhle takes a bath. Mama goes to work and Oluhle stays with Makhulu.",
@@ -1379,7 +1475,6 @@
       "level_id": "level_2",
       "author": "Tshepo Letsapa",
       "illustrator": "Alison de Villiers",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/fifi_and_teddy/page4.jpg",
       "image_2_asset": "images/books/fifi_and_teddy/page5.jpg",
       "image_3_asset": "images/books/fifi_and_teddy/page6.jpg",
@@ -1400,6 +1495,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -1435,6 +1531,9 @@
         "description": {
           "eng": "Fifi has a brown teddy bear that she loves very much. But where is Teddy?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "Fifi has loved Teddy since she was a baby."
         },
@@ -1464,6 +1563,7 @@
         }
       },
       "description": "Fifi has a brown teddy bear that she loves very much. But where is Teddy?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "Fifi has loved Teddy since she was a baby.",
       "text_8": "“What’s wrong, Fifi?” asks Mom.",
       "text_9": "Teddy is missing!",
@@ -1483,7 +1583,6 @@
       ],
       "author": "Tania Kliphuis",
       "illustrator": "Richard Bolland",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/how_do_you_want_your_eggs/page4.jpg",
       "image_2_asset": "images/books/how_do_you_want_your_eggs/page5.jpg",
       "image_3_asset": "images/books/how_do_you_want_your_eggs/page6.jpg",
@@ -1504,6 +1603,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_3_left": {
           "tz_sw": true
         },
@@ -1545,6 +1645,9 @@
         "description": {
           "eng": "Boiled, scrambled or fried? How does Luzuko want his eggs?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Good morning, Luzuko!"
         },
@@ -1580,6 +1683,7 @@
         }
       },
       "description": "Boiled, scrambled or fried? How does Luzuko want his eggs?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_3_left": "How do you want your eggs?",
       "text_4_left": "Do you want boiled eggs, Luzuko?",
       "text_5_left": "I like boiled eggs, but ...",
@@ -1604,7 +1708,6 @@
       "level_id": "level_3",
       "author": "Siphosethu Zantsi",
       "illustrator": "Elizabeth Sparg",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/lebo_gogo_tea_party/page4.jpg",
       "image_2_asset": "images/books/lebo_gogo_tea_party/page5.jpg",
       "image_3_asset": "images/books/lebo_gogo_tea_party/page6.jpg",
@@ -1625,6 +1728,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -1666,6 +1770,9 @@
         "description": {
           "eng": "Lebo is excited to have a day of adventure with Gogo. When Gogo hurts herself, she can’t do anything that Lebo wants to do. What can Gogo and Lebo do to have fun together?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Lebo is at Gogo’s farm. She is bored with chasing the animals. \"Now you chase me, Gogo!\" Lebo shouts as she races past. \"Slow down, Lebo,\" Gogo says, hurrying to catch up."
         },
@@ -1701,6 +1808,7 @@
         }
       },
       "description": "Lebo is excited to have a day of adventure with Gogo. When Gogo hurts herself, she can’t do anything that Lebo wants to do. What can Gogo and Lebo do to have fun together?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "Gogo trips over a rock while chasing Lebo. \"Ouch!\" she screams. Gogo has hurt her ankle.",
       "text_3_right": "She comes back from the doctor with a special boot and crutches. \"Gogo, come back to the city with us so that we can take care of you,\" says Lebo’s mom. \"I won’t leave my farm. I will manage on my own,\" Gogo replies, stubbornly.",
       "text_4_left": "\"Gogo, you must come. We will have so much fun!\" Lebo says, excitedly.",
@@ -1724,7 +1832,6 @@
       ],
       "author": "Mathapelo Mabaso",
       "illustrator": "Jess Jardim-Wedepohl",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/lesedis_sandbox/page4.jpg",
       "image_2_asset": "images/books/lesedis_sandbox/page5.jpg",
       "image_3_asset": "images/books/lesedis_sandbox/page6.jpg",
@@ -1745,6 +1852,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_right": {
           "tz_sw": true
         },
@@ -1763,6 +1871,19 @@
         "text_1_left": {
           "tz_sw": true
         },
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
         "text_11_right": {
           "tz_sw": true
         },
@@ -1780,53 +1901,100 @@
         },
         "text_9_right": {
           "tz_sw": true
-        }
+        },
+        "guidance_13_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?"
+        },
         "title": {
           "eng": "Lesedi’s Sandbox"
         },
         "description": {
           "eng": "Lesedi dreams of going to the beach. He wants to feel the sand between his toes and build a sandcastle. So his parents come up with a plan…"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "It’s the holidays and I’d love to go to the beach, but we have never been. I wonder what it feels like to play in the sea sand."
+        },
+        "guidance_1_a": {
+          "eng": "Describe what you see, or ask your child to tell you what they see. Ask: where do you think this boy wants to go?"
         },
         "text_2_right": {
           "eng": "Surprise! \"Look what we made you. A sandbox,\" exclaims Lesedi’s dad. Dad says he used some of his old tyres. Mom painted them with all my favourite colours: blue, red and yellow."
         },
+        "guidance_2_a": {
+          "eng": "Point to boy and ask: “How do you think he is feeling? What do you think he is going to do next?”"
+        },
         "text_3_left": {
           "eng": "I can’t wait to get inside. I climb into my sandbox and my feet feel so warm and squishy."
+        },
+        "guidance_3_a": {
+          "eng": "Mimic actions from the pictures or story. Pretend to put your feet in the sand and wiggle your toes."
         },
         "text_4_left": {
           "eng": "Look! I’m at the beach. That looks like a good spot to spread my blanket. I set up my umbrella, but the wind blows it away."
         },
+        "guidance_4_a": {
+          "eng": "Mimic the sound of the wind and the umbrella blowing away. Demonstrate surprise and ask your child how they would feel if that happened to them."
+        },
         "text_5_left": {
           "eng": "The ocean makes a roaring sound. I run on the beach, daring the waves to catch me as I make footprints in the sand."
+        },
+        "guidance_5_a": {
+          "eng": "Mimic the sound of the ocean or the movement of the waves. Point to the footprints in the sand and explain what this is."
         },
         "text_6_left": {
           "eng": "Using my bucket and spade, I dig for shells. They come in many shapes and sizes."
         },
+        "guidance_6_a": {
+          "eng": "Ask your child: How many shells can you see? What colours are they? Are they all the same shape? Which shells are big? Which shells are small?"
+        },
         "text_7_right": {
           "eng": "Let me build a sandcastle. Wow, that’s huge!"
+        },
+        "guidance_7_a": {
+          "eng": "Describe the picture to your child or ask them what they see. Ask: do you like to play in the sand? Why or why not?"
         },
         "text_8_left": {
           "eng": "It’s lunchtime! Maybe I should have a strawberry jam sandwich. Mmm, my favourite."
         },
+        "guidance_8_a": {
+          "eng": "Ask your child: where is he sitting? What is he eating?  What would you like to eat if you went to the beach?"
+        },
         "text_9_right": {
           "eng": "For dessert, Mom brings me some chocolate ice cream."
+        },
+        "guidance_9_a": {
+          "eng": "Ask your child: what is she holding in her hand? Who is she giving it to?"
         },
         "text_10_left": {
           "eng": "I lie on my blanket enjoying my ice cream and gaze at the sky turning pink."
         },
+        "guidance_10_a": {
+          "eng": "Use descriptive words and explanations to talk about the pictures. This helps your child learn new words. The big, round orange sun. The pink and blue sky with clouds. The boy relaxing on his blanket, enjoying his delicious ice cream."
+        },
         "text_11_right": {
           "eng": "Lesedi’s mom and dad watch him, their eyes beaming with pleasure. \"I’m so happy we could make his dream come true right here at home,\" Lesedi’s mom says."
         },
+        "guidance_11_a": {
+          "eng": "Talk about what the characters might be thinking or feeling. Ask: how does the boy feel? Why do you think he feels that way? Why are the parents smiling?"
+        },
         "text_12_left": {
           "eng": "Thank you, Mom and Dad. Today was the happiest day of my life!"
+        },
+        "guidance_12_a": {
+          "eng": "Ask your child: Is his clothes and hands dirty or clean? Why? What do you think he should do next?"
+        },
+        "guidance_13_a": {
+          "eng": "Ask your child: what did you think about the story? You could also pretend to have your own beach adventure with your child."
         }
       },
       "description": "Lesedi dreams of going to the beach. He wants to feel the sand between his toes and build a sandcastle. So his parents come up with a plan…",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_right": "Surprise! \"Look what we made you. A sandbox,\" exclaims Lesedi’s dad. Dad says he used some of his old tyres. Mom painted them with all my favourite colours: blue, red and yellow.",
       "text_3_left": "I can’t wait to get inside. I climb into my sandbox and my feet feel so warm and squishy.",
       "text_4_left": "Look! I’m at the beach. That looks like a good spot to spread my blanket. I set up my umbrella, but the wind blows it away.",
@@ -1851,8 +2019,8 @@
       "text_8_left": "It’s lunchtime! Maybe I should have a strawberry jam sandwich. Mmm, my favourite.",
       "text_10_left": "I lie on my blanket enjoying my ice cream and gaze at the sky turning pink.",
       "text_12_left": "Thank you, Mom and Dad. Today was the happiest day of my life!",
-      "guidance_13_a": "Ask your child: what did you think about the story? You could also pretend to have your own beach adventure with your child.",
-      "text_9_right": "For dessert, Mom brings me some chocolate ice cream."
+      "text_9_right": "For dessert, Mom brings me some chocolate ice cream.",
+      "guidance_13_a": "Ask your child: what did you think about the story? You could also pretend to have your own beach adventure with your child."
     },
     {
       "id": "little_shoots",
@@ -1868,7 +2036,6 @@
       ],
       "author": "Sope Martins",
       "illustrator": "Wiehan de Jager",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/little_shoots/page4.jpg",
       "image_2_asset": "images/books/little_shoots/page5.jpg",
       "image_3_asset": "images/books/little_shoots/page6.jpg",
@@ -1890,6 +2057,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -1917,22 +2085,45 @@
         "text_12": {
           "tz_sw": true
         },
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
         "text_8_left": {
           "tz_sw": true
         },
         "text_10_left": {
           "tz_sw": true
-        }
+        },
+        "guidance_13_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover. Ask your child: What do you see? What is the woman pointing to?"
+        },
         "title": {
           "eng": "Little Shoots"
         },
         "description": {
           "eng": "Layo can’t wait to grow. But just like the bamboo seeds he and grandma plant, it might take a little longer than he wants!"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "\"When will I grow?\" asks Layo."
+        },
+        "guidance_1_a": {
+          "eng": "Ask: what is the boy holding in his hand? What can you see in the photo?"
         },
         "text_2_left": {
           "eng": "\"I don’t know,\" replies Baba. \"Soon,\" says Mama."
@@ -1940,8 +2131,14 @@
         "text_2_right": {
           "eng": "\"When you are ready,\" says Grandma."
         },
+        "guidance_2_a": {
+          "eng": "Ask: how many people are sitting down? Who is standing? What is she carrying? Where is the cat? Can you see any other animals?"
+        },
         "text_3_right": {
           "eng": "Grandma takes Layo to the farm. \"Let us plant some seeds.\""
+        },
+        "guidance_3_a": {
+          "eng": "Ask: Where are they going? What are they looking at? How many orange animals can you see? Which birds are flying? Where is the mouse?"
         },
         "text_4_left": {
           "eng": "In one field they plant corn, and in another, melon."
@@ -1949,23 +2146,54 @@
         "text_4_right": {
           "eng": "\"What are these?\" asks Layo. \"Bamboo seeds,\" replies Grandma."
         },
+        "guidance_4_a": {
+          "eng": "Use the pictures to help your child practice counting. You can ask your child to count, or count out loud for your child. Ask: How many yellow seeds are there? How many black seeds? How many seeds does she have in her left hand? And how many seeds does she have in her right hand? How many seeds are there altogether?"
+        },
+        "guidance_5_a": {
+          "eng": "Ask questions to help your child understand what is happening. Ask: What is the boy looking at? What can you see outside the window?"
+        },
         "text_6_left": {
           "eng": "\"The corn and melon have grown well,\" says Grandma. \"What about the bamboo?\" asks Layo."
         },
         "text_6_right": {
           "eng": "\"They will grow when they are ready.\""
         },
+        "guidance_6_a": {
+          "eng": "Describe and explain the pictures. Say: Look, the seeds they planted have grown. Some of the seeds have grown into tall corn plants. Other seeds have grown into big, round watermelons. What other plants can you see?"
+        },
+        "guidance_7_a": {
+          "eng": "Ask: Where is the boy standing? What is growing next to him? What is he looking at?"
+        },
         "text_8_left": {
           "eng": "\"Everything grows in its own time,\" says Grandma."
+        },
+        "guidance_8_a": {
+          "eng": "Ask: what looks different in this picture? What has changed?"
+        },
+        "guidance_9_a": {
+          "eng": "Make links between the pictures and your child’s world. Ask: What colour are their curtains? What colour curtains do we have at home? What do you see on their table? What do we have on our table?"
         },
         "text_10_left": {
           "eng": "\"They have grown well,\" says Grandma."
         },
+        "guidance_10_a": {
+          "eng": "Ask: What are they looking at? How do you think they are feeling? Why?"
+        },
+        "guidance_11_a": {
+          "eng": "Describe and explain the pictures. Say: Look, the three boys from the photo are now older."
+        },
         "text_12": {
           "eng": "“You have grown well.”"
+        },
+        "guidance_12_a": {
+          "eng": "Ask: what looks different in this picture? What has changed?"
+        },
+        "guidance_13_a": {
+          "eng": "Reflect on the story with your child. Ask: What happened in this story? What was the story about? What did you think of the story?"
         }
       },
       "description": "Layo can’t wait to grow. But just like the bamboo seeds he and grandma plant, it might take a little longer than he wants!",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "\"I don’t know,\" replies Baba. \"Soon,\" says Mama.",
       "text_2_right": "\"When you are ready,\" says Grandma.",
       "text_3_right": "Grandma takes Layo to the farm. \"Let us plant some seeds.\"",
@@ -2003,7 +2231,6 @@
       "level_id": "level_2",
       "author": "Sue Boucher",
       "illustrator": "Hylton Warburton",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/look_out_luthando/page4.jpg",
       "image_2_asset": "images/books/look_out_luthando/page5.jpg",
       "image_3_asset": "images/books/look_out_luthando/page6.jpg",
@@ -2024,6 +2251,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -2089,6 +2317,9 @@
         "description": {
           "eng": "Luthando is very good at listening and very good at smelling, but he’s not so good at looking where he is going. He walks into puddles and bumps his head. What could be the problem?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "\"Listen!\" says Luthando. \"What do you hear?\" asks Sonto. \"Saturday.\" \"What does Saturday sound like?\" \"It’s quieter than Friday,\" says Luthando. \"Everyone’s still sleeping.\""
         },
@@ -2148,6 +2379,7 @@
         }
       },
       "description": "Luthando is very good at listening and very good at smelling, but he’s not so good at looking where he is going. He walks into puddles and bumps his head. What could be the problem?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "\"I must fix Gogo’s gate today,\" Daddy says.",
       "text_2_right": "\"An ice cream for anyone who helps me carry the shopping home,\" Mama says. \"We’ll help you, Mama,\" say the children.",
       "text_3_left": "\"Look out, Luthando!\" \"Hawu!\" \"You’re so funny,\" Sonto laughs.",
@@ -2180,7 +2412,6 @@
       "level_id": "level_2",
       "author": "Jen Thorpe",
       "illustrator": "Lara Berge",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/my_inside_weather/page4.jpg",
       "image_2_asset": "images/books/my_inside_weather/page5.jpg",
       "image_3_asset": "images/books/my_inside_weather/page6.jpg",
@@ -2201,6 +2432,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -2245,6 +2477,9 @@
         "description": {
           "eng": "Sometimes our feelings are hard to talk about, but everyone knows how to talk about the weather."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "It’s easy to talk about the weather outside, even if it changes all the time."
         },
@@ -2283,6 +2518,7 @@
         }
       },
       "description": "Sometimes our feelings are hard to talk about, but everyone knows how to talk about the weather.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "But it’s hard to talk about the weather inside me. Sometimes it feels like people don’t understand.",
       "text_3_left": "Do you feel like that too?",
       "text_4_left": "Some days my mind is full of sunshine and rainbows. I feel like I can do anything.",
@@ -2308,7 +2544,6 @@
       ],
       "author": "Refiloe Moahloli",
       "illustrator": "Subi Bosa",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/the_things_that_really_matter/page4.jpg",
       "image_2_asset": "images/books/the_things_that_really_matter/page5.jpg",
       "image_3_asset": "images/books/the_things_that_really_matter/page6.jpg",
@@ -2330,6 +2565,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_3_right": {
           "tz_sw": true
         },
@@ -2351,6 +2587,19 @@
         "text_2": {
           "tz_sw": true
         },
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
         "text_11_right": {
           "tz_sw": true
         },
@@ -2369,31 +2618,53 @@
         "text_9_right": {
           "tz_sw": true
         },
+        "guidance_13_a": {},
         "text_12_right": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Bring your child’s attention to the book’s cover. Ask: What are they doing? What do you think this story could be about?"
+        },
         "title": {
           "eng": "The Things That Really Matter"
         },
         "description": {
           "eng": "What are the most important things to take with you on a trip? Join Zuki, Tando, Mama and Papa on their eventful journey to find out."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_right": {
           "eng": "We are going on a trip. I ask Mama what to pack. She says, \"The things that really matter.\""
+        },
+        "guidance_1_a": {
+          "eng": "Describe what you see, or ask your child to tell you what they see. Ask: what are they doing? Where do you think they could be going?"
         },
         "text_2": {
           "eng": "We stop at the windmill for breakfast. The jungle gym is so much fun. I forget my toy."
         },
+        "guidance_2_a": {
+          "eng": "Discuss what the characters are doing. Ask: what are the children doing? Who is waving? Why are they waving?"
+        },
         "text_3_right": {
           "eng": "I am sad in the car, but Tando is happy. \"Hooray! Now you can play with me!\" he says."
+        },
+        "guidance_3_a": {
+          "eng": "Use descriptive words to talk about the pictures. Say: Look, they are wearing their seatbelts because they are in the car. Why do you think they are wearing seatbelts?"
         },
         "text_4_left": {
           "eng": "We stop at a farm to see some animals. Tando is searching so hard for a springbok, a monkey gets away with his headphones."
         },
+        "guidance_4_a": {
+          "eng": "Ask your child to count the animals, or count them for your child. Ask questions to help your child understand what is happening. Ask: what is the monkey doing? Does the boy know what is happening?"
+        },
         "text_5_right": {
           "eng": "He is sad in the car, but I am happy. \"Hooray! Now you can sing with me!\" I say."
+        },
+        "guidance_5_a": {
+          "eng": "Talk about what the characters might be thinking or feeling. Ask: how does the boy feel? Why do you think he feels that way?"
         },
         "text_6_left": {
           "eng": "We stop at a roaring waterfall. We are so excited, we are pushing and pulling."
@@ -2401,8 +2672,14 @@
         "text_6_right": {
           "eng": "Papa falls in the water, and so does his map."
         },
+        "guidance_6_a": {
+          "eng": "Ask: what are they looking at? Say: oh no! Someone fell over! You can mimic the actions, like taking a picture, or falling down."
+        },
         "text_7_right": {
           "eng": "He is sad in the car, but Mama is happy. \"Hooray! Now I can help you find our way!\" she says."
+        },
+        "guidance_7_a": {
+          "eng": "Ask: how does the father feel? Why do you think he feels that way? Why is he wet?"
         },
         "text_8_left": {
           "eng": "We stop at the roadside vendor to buy some mielies."
@@ -2410,20 +2687,39 @@
         "text_8_right": {
           "eng": "Mama bends over to pick the best ones, and her glasses fall and  break."
         },
+        "guidance_8_a": {
+          "eng": "Ask: Why did they get out of the car? What is the man in the hat selling? What happened to the women’s glasses? Why did that happen?"
+        },
         "text_9_right": {
           "eng": "Mama is sad in the car, but Papa is happy. \"Hooray! Now we can find our way together!\" Papa says."
+        },
+        "guidance_9_a": {
+          "eng": "Ask: how many people are in the car? How many are sitting at the front? And how many are sitting at the back?"
         },
         "text_10_left": {
           "eng": "We stop on an ancient hill to get a view of the valley. Papa is making silly jokes for us to smile for the picture, but..."
         },
+        "guidance_10_a": {
+          "eng": "To help your child understand, explain what is happening. Say: Look, there is smoke coming out of the car. Do you think there might be something wrong with the car?"
+        },
         "text_11_right": {
           "eng": "When we get back to the car, it won’t start. Everyone stops laughing. \"Don’t worry...\" says Mama. \"We can still have a good time. We are the things that really matter.\""
         },
+        "guidance_11_a": {
+          "eng": "Demonstrate the emotions from the story with your voice and face. Say: Look, they are all feeling sad. Why do you think they are feeling that way?"
+        },
         "text_12_right": {
           "eng": "And so, we do have a good time. By playing and singing and finding our way together, while enjoying the best mielies."
+        },
+        "guidance_12_a": {
+          "eng": "Ask: Where are they sitting? What are they doing? How do you think they are feeling now?"
+        },
+        "guidance_13_a": {
+          "eng": "Reflect on the story with your child. Ask: What did you think about the story? How would you feel if you were in the story? What would you have done?"
         }
       },
       "description": "What are the most important things to take with you on a trip? Join Zuki, Tando, Mama and Papa on their eventful journey to find out.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_3_right": "I am sad in the car, but Tando is happy. \"Hooray! Now you can play with me!\" he says.",
       "text_4_left": "We stop at a farm to see some animals. Tando is searching so hard for a springbok, a monkey gets away with his headphones.",
       "text_5_right": "He is sad in the car, but I am happy. \"Hooray! Now you can sing with me!\" I say.",
@@ -2449,8 +2745,8 @@
       "text_8_left": "We stop at the roadside vendor to buy some mielies.",
       "text_10_left": "We stop on an ancient hill to get a view of the valley. Papa is making silly jokes for us to smile for the picture, but...",
       "text_8_right": "Mama bends over to pick the best ones, and her glasses fall and  break.",
-      "guidance_13_a": "Reflect on the story with your child. Ask: What did you think about the story? How would you feel if you were in the story? What would you have done?",
       "text_9_right": "Mama is sad in the car, but Papa is happy. \"Hooray! Now we can find our way together!\" Papa says.",
+      "guidance_13_a": "Reflect on the story with your child. Ask: What did you think about the story? How would you feel if you were in the story? What would you have done?",
       "text_12_right": "And so, we do have a good time. By playing and singing and finding our way together, while enjoying the best mielies."
     },
     {
@@ -2466,7 +2762,6 @@
       "level_id": "level_1",
       "author": "Clea Mallinson",
       "illustrator": "Julie Smith-Belton",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/to_the_top/page4.jpg",
       "image_2_asset": "images/books/to_the_top/page5.jpg",
       "image_3_asset": "images/books/to_the_top/page6.jpg",
@@ -2487,17 +2782,78 @@
         },
         "description": {
           "tz_sw": true
-        }
+        },
+        "licence": {},
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
+        "guidance_13_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover. Ask your child: What do you see? Where do you think they might be going?"
+        },
         "title": {
           "eng": "To The Top!"
         },
         "description": {
           "eng": "Climb the mountain with us! Look out for many tiny creatures… and BIG views. If we help each other, we can get to the top!"
+        },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
+        "guidance_1_a": {
+          "eng": "Describe the pictures, or ask your child to tell you what they see. Where are they? Where are they going? Respond with interest and enthusiasm."
+        },
+        "guidance_2_a": {
+          "eng": "Describe and explain the pictures. “Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain."
+        },
+        "guidance_3_a": {
+          "eng": "Ask your child to point and name the animals. How many bees are flying? Where are the ants walking? Can we count them? Where is the frog hiding?"
+        },
+        "guidance_4_a": {
+          "eng": "Ask your child: What is the father pointing at? What animal does the rock look like?\nWhat is the girl doing?"
+        },
+        "guidance_5_a": {
+          "eng": "Ask your child: What are they doing? Why are they stopping? What can you see around them?"
+        },
+        "guidance_6_a": {
+          "eng": "Discuss what the characters are doing. \nWhy are they sitting down? What are they eating? What would you like to eat if you were there?"
+        },
+        "guidance_7_a": {
+          "eng": "Mimic the sound of the wind and the hat blowing away. Ask: What happened to her hat? Why did that happen?"
+        },
+        "guidance_8_a": {
+          "eng": "Ask: Who found the hat? How does the girl feel now that her hat has been found?"
+        },
+        "guidance_9_a": {
+          "eng": "Ask: What is the girl feeling? Why is she feeling that way? What can her father do to help?"
+        },
+        "guidance_10_a": {
+          "eng": "Ask your child: Why is she sitting on her father’s shoulders? How is she feeling now?"
+        },
+        "guidance_11_a": {
+          "eng": "Ask your child: Where is the frog sitting? What is the bird doing? Who is sitting at the top of the hill?"
+        },
+        "guidance_12_a": {
+          "eng": "Ask: why are they sitting down? What are they looking at? How would you feel after climbing such a big mountain?"
+        },
+        "guidance_13_a": {
+          "eng": "Act out events from the book at a later stage. Go for a walk with your child and see what animals and birds you can spot as you walk. Or, collect different hats around your house and make a game out of hiding them and trying to find them."
         }
       },
       "description": "Climb the mountain with us! Look out for many tiny creatures… and BIG views. If we help each other, we can get to the top!",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "guidance_cover": "Discuss the book’s cover. Ask your child: What do you see? Where do you think they might be going?",
       "guidance_1_a": "Describe the pictures, or ask your child to tell you what they see. Where are they? Where are they going? Respond with interest and enthusiasm.",
       "guidance_2_a": "Describe and explain the pictures. “Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain.",
@@ -2526,7 +2882,6 @@
       "level_id": "level_1",
       "author": "Mohale Mashigo",
       "illustrator": "Clyde Beech",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/where_is_lulu/page4.jpg",
       "image_2_asset": "images/books/where_is_lulu/page5.jpg",
       "image_3_asset": "images/books/where_is_lulu/page6.jpg",
@@ -2547,6 +2902,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -2588,6 +2944,9 @@
         "description": {
           "eng": "Where is Lulu and why is she hiding?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "\"Oh, no!\""
         },
@@ -2623,6 +2982,7 @@
         }
       },
       "description": "Where is Lulu and why is she hiding?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "\"Lulu! It’s time to go,\" calls Ma.",
       "text_5_left": "\"Lulu! It’s time to go. Where are you?\" calls Ma.",
       "text_6_left": "\"There you are!\" \"I don’t want to gooo!\"",
@@ -2647,7 +3007,6 @@
       ],
       "author": "Laurie Janey",
       "illustrator": "Amber Tak",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/amaizing_flower/page4.jpg",
       "image_2_asset": "images/books/amaizing_flower/page5.jpg",
       "image_3_asset": "images/books/amaizing_flower/page6.jpg",
@@ -2669,6 +3028,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_right": {
           "tz_sw": true
         },
@@ -2713,6 +3073,9 @@
         "description": {
           "eng": "Ouma has amazing flowers! Robyn wants to pick them all …"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Ouma has a window box full of amazing flowers. Robyn wants to pick them all!"
         },
@@ -2751,6 +3114,7 @@
         }
       },
       "description": "Ouma has amazing flowers! Robyn wants to pick them all …",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_right": "Please don’t pick the flowers, Robyn! Ouma loves to see them when she opens her curtains.",
       "text_3_left": "Butterflies dance around the petals. It’s so lovely to have these visitors.",
       "text_4_right": "The bees use the flowers to make delicious honey.",
@@ -2775,7 +3139,6 @@
       "level_id": "level_1",
       "author": "Edem Torkornoo",
       "illustrator": "Megan Andrews",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/babys_first_photo/page4.jpg",
       "image_2_asset": "images/books/babys_first_photo/page5.jpg",
       "image_3_asset": "images/books/babys_first_photo/page6.jpg",
@@ -2796,6 +3159,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -2814,9 +3178,22 @@
         "text_1_left": {
           "tz_sw": true
         },
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
         "text_7_left": {
           "tz_sw": true
         },
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
         "text_11_left": {
           "tz_sw": true
         },
@@ -2834,50 +3211,93 @@
         }
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover. Ask: What do you see? What do you think this story is about?"
+        },
         "title": {
           "eng": "Baby’s First Family Photo"
         },
         "description": {
           "eng": "Baby’s family is excited about their first family photo. What will Mama, Papa, Big Sister, Baby and Gogo wear?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Whose bright orange wrapper is this? It is Mama’s."
+        },
+        "guidance_1_a": {
+          "eng": "Ask your child questions about the pictures. Ask: What is she wearing on her head? What colour is it?"
         },
         "text_2_left": {
           "eng": "Whose blue shirt is this? It is Papa's."
         },
+        "guidance_2_a": {
+          "eng": "Describe the pictures to your child. Say: Look, he is wearing a shirt with blue patterns and a blue tie. His glasses are also blue."
+        },
         "text_3_left": {
           "eng": "Whose yellow head wrap is this? It is Gogo's."
+        },
+        "guidance_3_a": {
+          "eng": "Ask: Who can you see? What is she wearing? Why do you think she is wearing glasses? Do you know someone who wears glasses?"
         },
         "text_4_left": {
           "eng": "Whose pretty red dress is this? It is Big Sister’s."
         },
+        "guidance_4_a": {
+          "eng": "Describe the pictures to help your child learn words. Say: Look, she has tied her hair with big green and red bows. The patterns on the bows are the same pattern as her dress."
+        },
         "text_5_left": {
           "eng": "Whose green and yellow flowery dress is this? It is mine!"
+        },
+        "guidance_5_a": {
+          "eng": "Make links between the pictures and your child’s world. Ask: What is she wearing? What are you wearing today? What colours are your clothes today? And what colours are my clothes?"
         },
         "text_6_left": {
           "eng": "\"I love my orange wrapper.\" Mama twirls."
         },
+        "guidance_6_a": {
+          "eng": "Ask: What is she doing? Why do you think she is doing that?"
+        },
         "text_7_left": {
           "eng": "\"I love my blue shirt.\" Papa bows."
+        },
+        "guidance_7_a": {
+          "eng": "Ask: What is he doing? Let’s try to do the same move as him."
         },
         "text_8_left": {
           "eng": "\"I love my yellow head wrap.\" Gogo jiggles."
         },
+        "guidance_8_a": {
+          "eng": "Use the pictures to teach your child about different shapes. Say: How many circles or round shapes can you see? What colours are they? Look, her clothes are covered in a yellow diamond pattern."
+        },
         "text_9_left": {
           "eng": "\"I love my pretty red dress.\" Big Sister jumps up and down."
         },
+        "guidance_9_a": {
+          "eng": "Ask: What colours are on her dress? What colour shoes is she wearing? What is she doing?"
+        },
         "text_10_left": {
           "eng": "\"I love my green flowery dress.\" I clap my hands."
+        },
+        "guidance_10_a": {
+          "eng": "Mimic actions from the story, like clapping hands. Ask: why do you think she is clapping her hands? How is she feeling?"
         },
         "text_11_left": {
           "eng": "We are ready."
         },
         "text_11_right": {
           "eng": "SNAP!"
+        },
+        "guidance_11_a": {
+          "eng": "Ask: What are they going to do now? Why do you say that? How many people are there?"
+        },
+        "guidance_12_a": {
+          "eng": "Make links between the pictures and your child’s world. Do we have a family photo? Who is in it? Or, should we take a family photo later when we are all together? What do you want to do for our family photo?"
         }
       },
       "description": "Baby’s family is excited about their first family photo. What will Mama, Papa, Big Sister, Baby and Gogo wear?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "Whose blue shirt is this? It is Papa's.",
       "text_3_left": "Whose yellow head wrap is this? It is Gogo's.",
       "text_4_left": "Whose pretty red dress is this? It is Big Sister’s.",
@@ -2891,13 +3311,13 @@
       "guidance_4_a": "Describe the pictures to help your child learn words. Say: Look, she has tied her hair with big green and red bows. The patterns on the bows are the same pattern as her dress.",
       "guidance_5_a": "Make links between the pictures and your child’s world. Ask: What is she wearing? What are you wearing today? What colours are your clothes today? And what colours are my clothes?",
       "guidance_6_a": "Ask: What is she doing? Why do you think she is doing that?",
+      "text_7_left": "\"I love my blue shirt.\" Papa bows.",
       "guidance_7_a": "Ask: What is he doing? Let’s try to do the same move as him.",
       "guidance_8_a": "Use the pictures to teach your child about different shapes. Say: How many circles or round shapes can you see? What colours are they? Look, her clothes are covered in a yellow diamond pattern.",
       "guidance_9_a": "Ask: What colours are on her dress? What colour shoes is she wearing? What is she doing?",
       "guidance_10_a": "Mimic actions from the story, like clapping hands. Ask: why do you think she is clapping her hands? How is she feeling?",
       "guidance_11_a": "Ask: What are they going to do now? Why do you say that? How many people are there?",
       "guidance_12_a": "Make links between the pictures and your child’s world. Do we have a family photo? Who is in it? Or, should we take a family photo later when we are all together? What do you want to do for our family photo?",
-      "text_7_left": "\"I love my blue shirt.\" Papa bows.",
       "text_11_left": "We are ready.",
       "text_11_right": "SNAP!",
       "text_8_left": "\"I love my yellow head wrap.\" Gogo jiggles.",
@@ -2916,7 +3336,6 @@
       "level_id": "level_2",
       "author": "Edna Gicovi",
       "illustrator": "Ellen Heydenrych",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/brave_bora/page4.jpg",
       "image_2_asset": "images/books/brave_bora/page5.jpg",
       "image_3_asset": "images/books/brave_bora/page6.jpg",
@@ -2939,6 +3358,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_right": {
           "tz_sw": true
         },
@@ -2992,6 +3412,9 @@
         "description": {
           "eng": "Going to the doctor can be scary! Can Bora overcome his fears, with a little help from Baba and Jojo?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_right": {
           "eng": "Bora is sitting at the clinic with Baba. Jojo, his stuffed monkey, came too. Jojo is sleeping in Bora’s bag."
         },
@@ -3039,6 +3462,7 @@
         }
       },
       "description": "Going to the doctor can be scary! Can Bora overcome his fears, with a little help from Baba and Jojo?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_right": "\"I don’t like needles. They hurt!\" says Bora.",
       "text_3_right": "\"An injection helps make you healthy. It’s okay to be scared, Bora. Baba will be right here with you. And Jojo too.\"",
       "text_4_left": "\"Bora Baraka!\" a loud voice calls. \"Let’s go Bora, \" says Baba. \"It’s your turn.\"",
@@ -3068,7 +3492,6 @@
       "level_id": "level_2",
       "author": "Lauren Beukes",
       "illustrator": "Anja Venter",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/and_also/image_2.jpg",
       "image_2_asset": "images/books/and_also/image_3.jpg",
       "image_3_asset": "images/books/and_also/image_4.jpg",
@@ -3090,6 +3513,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -3152,6 +3576,9 @@
         "description": {
           "eng": "Thabo’s make-believe world has no room for his little sister, Keitu. But she has other ideas!"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "Thabo pretends that his bed is a raft on the sea!"
         },
@@ -3208,6 +3635,7 @@
         }
       },
       "description": "Thabo’s make-believe world has no room for his little sister, Keitu. But she has other ideas!",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "Thabo pretends that his bed is a raft on the sea!",
       "text_2_left": "His little sister Keitu says, \"Yes ! And also! There are sharks.\"",
       "text_2_right": "\"No!\" says Thabo.",
@@ -3392,7 +3820,6 @@
       "level_id": "level_1",
       "author": "Mulongo Bukheye and Ritah Katetemera",
       "illustrator": "Brian Wambi",
-      "licence": "© African Storybook Initiative , 2016. Some rights reserved. Released\nunder CC BY 4.0 license.",
       "image_1_asset": "images/books/beloved_daughter/image_2.jpg",
       "image_2_asset": "images/books/beloved_daughter/image_3.jpg",
       "image_3_asset": "images/books/beloved_daughter/image_4.jpg",
@@ -3413,6 +3840,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -3457,6 +3885,9 @@
         "description": {
           "eng": "Natabo has run away from her home! Do you know why?"
         },
+        "licence": {
+          "eng": "© African Storybook Initiative, 2016. Some rights reserved. Released\nunder CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "This is Natabo. She has six brothers."
         },
@@ -3495,6 +3926,7 @@
         }
       },
       "description": "Natabo has run away from her home! Do you know why?",
+      "licence": "© African Storybook Initiative, 2016. Some rights reserved. Released\nunder CC BY 4.0 license.",
       "text_1": "This is Natabo. She has six brothers.",
       "text_7": "Her brothers sing, \"Please come down.\"",
       "text_8": "Natabo makes fun of their song.",
@@ -3520,7 +3952,6 @@
       "level_id": "level_2",
       "author": "Mecelin Kakoro",
       "illustrator": "Mango Tree",
-      "licence": "© African Storybook Initiative , 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/big_blue_bus/image_2.jpg",
       "image_2_asset": "images/books/big_blue_bus/image_3.jpg",
       "image_3_asset": "images/books/big_blue_bus/image_4.jpg",
@@ -3543,6 +3974,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -3599,6 +4031,9 @@
         "description": {
           "eng": "Ebei and his mother are waiting for the big blue bus. Where is it?"
         },
+        "licence": {
+          "eng": "© African Storybook Initiative, 2015. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "There was only one bus in Ebei's village. It was big and blue. It was very noisy."
         },
@@ -3649,6 +4084,7 @@
         }
       },
       "description": "Ebei and his mother are waiting for the big blue bus. Where is it?",
+      "licence": "© African Storybook Initiative, 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "There was only one bus in Ebei's village. It was big and blue. It was very noisy.",
       "text_7": "Ebei was worried. \"We will not be able to go to town,\" he thought. \"I will not be able to get my uniform.\"",
       "text_8": "Some people gave up and went home. Ebei cried. He did not want to go. \"We will wait a bit longer,\" said his mother.",
@@ -3679,7 +4115,6 @@
       "level_id": "level_3",
       "author": "Ursula Nafula",
       "illustrator": "Vusi Malindi",
-      "licence": "© African Storybook Initiative , 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/decision/image_2.jpg",
       "image_2_asset": "images/books/decision/image_3.jpg",
       "image_3_asset": "images/books/decision/image_4.jpg",
@@ -3702,6 +4137,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -3758,6 +4194,9 @@
         "description": {
           "eng": "A village takes a decision together to change their lives for the better."
         },
+        "licence": {
+          "eng": "© African Storybook Initiative, 2015. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "My village had many problems. We made a long line to fetch water from one tap."
         },
@@ -3808,6 +4247,7 @@
         }
       },
       "description": "A village takes a decision together to change their lives for the better.",
+      "licence": "© African Storybook Initiative, 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "My village had many problems. We made a long line to fetch water from one tap.",
       "text_7": "When the wind blew, waste paper hung on trees and fences.",
       "text_8": "People were cut by broken glass that was thrown carelessly.",
@@ -3837,7 +4277,6 @@
       "level_id": "level_2",
       "author": "Mimi Werna",
       "illustrator": "Joe Werna",
-      "licence": "© African Storybook Initiative , 2019. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/emotions_come_go/image_2.jpg",
       "image_2_asset": "images/books/emotions_come_go/image_3.jpg",
       "image_3_asset": "images/books/emotions_come_go/image_4.jpg",
@@ -3860,6 +4299,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -3916,6 +4356,9 @@
         "description": {
           "eng": "Look out for the emotions you feel and why!"
         },
+        "licence": {
+          "eng": "© African Storybook Initiative, 2019. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "Ada is chuckling because she heard a funny story. She is smiling. What is Ada feeling?"
         },
@@ -3966,6 +4409,7 @@
         }
       },
       "description": "Look out for the emotions you feel and why!",
+      "licence": "© African Storybook Initiative, 2019. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "Ada is chuckling because she heard a funny story. She is smiling. What is Ada feeling?",
       "text_7": "Ayator is bursting with happiness. He is joyful. Emotions come and go.",
       "text_8": "Hadiza is bored. She needs to find something to do.",
@@ -3998,7 +4442,6 @@
       "level_id": "level_2",
       "author": "Rehema Egbert",
       "illustrator": "Godwin Chipenya",
-      "licence": "© Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/jasu_loves_football/image_2.jpg",
       "image_2_asset": "images/books/jasu_loves_football/image_3.jpg",
       "image_3_asset": "images/books/jasu_loves_football/image_4.jpg",
@@ -4021,6 +4464,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -4077,6 +4521,9 @@
         "description": {
           "eng": "Jasu loves football. She loves kicking the ball, hard! But she doesn't have her own ball. Jasu comes up with a plan."
         },
+        "licence": {
+          "eng": "© Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "Jasu liked to play football."
         },
@@ -4127,6 +4574,7 @@
         }
       },
       "description": "Jasu loves football. She loves kicking the ball, hard! But she doesn't have her own ball. Jasu comes up with a plan.",
+      "licence": "© Room to Read, 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "Jasu liked to play football.",
       "text_7": "Grandpa wasn’t happy. He told Jasu to be careful. Jasu apologized.",
       "text_8": "Jasu went to the market with her mother.",
@@ -4158,7 +4606,6 @@
       "level_id": "level_2",
       "author": "Jacqui L’Ange",
       "illustrator": "Megan Lotter",
-      "licence": ". © Book Dash , 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/shongololo_s_shoes/image_2.jpg",
       "image_2_asset": "images/books/shongololo_s_shoes/image_3.jpg",
       "image_3_asset": "images/books/shongololo_s_shoes/image_4.jpg",
@@ -4181,6 +4628,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -4213,50 +4661,110 @@
         },
         "text_6": {
           "tz_sw": true
-        }
+        },
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
+        "guidance_13_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover. Ask: What do you see? Where is the millipede shongololo sitting?"
+        },
         "title": {
           "eng": "Shongololo's Shoes"
         },
         "description": {
           "eng": "Shongololo has lost his shoes, and the other animals are NOT being very helpful. Will he ever find them?"
         },
+        "licence": {
+          "eng": ". © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "Where are all my shoes? I know I left them here!"
+        },
+        "guidance_1_a": {
+          "eng": "Use descriptive words and explanations to talk about the pictures. The long millipede has many tiny little feet. I think he is looking for his shoes. I see some yellow boots scattered across the floor. Do you think those are his shoes?"
         },
         "text_2": {
           "eng": "I haven’t seen your shoes. Go ask Snail!"
         },
+        "guidance_2_a": {
+          "eng": "Ask your child questions to help them think about what is happening. Ask: What is he holding in his hand? Who do you think that belongs to?"
+        },
         "text_3": {
           "eng": "No shoes here. Go ask Giraffe."
+        },
+        "guidance_3_a": {
+          "eng": "To help your child understand, explain what is happening. Say: Look, the snail is using one of the millipede’s shoes as a shell for his back. Ask: how do you think the shongololo feels about that?"
         },
         "text_4": {
           "eng": "I’m in a hurry – go ask Frog."
         },
+        "guidance_4_a": {
+          "eng": "Ask: What does the giraffe have on her head? What is she doing? Can you count all her spots?"
+        },
         "text_5": {
           "eng": "Shoes? How many? Go ask Flamingo."
+        },
+        "guidance_5_a": {
+          "eng": "Ask: Where is the frog sitting? What colours can you see in this picture?"
         },
         "text_6": {
           "eng": "Seen your shoes? No, not me."
         },
+        "guidance_6_a": {
+          "eng": "Mimic actions from the story. Say: Look, the flamingo is standing on one leg. Can you stand on one leg like flamingo?"
+        },
         "text_7": {
           "eng": "Will I ever find my shoes?"
+        },
+        "guidance_7_a": {
+          "eng": "Talk about what the characters might be thinking or feeling. Ask: how does he feel? Why do you think he feels that way?"
         },
         "text_8": {
           "eng": "Shoes, eh? You should ask the Monkeys."
         },
+        "guidance_8_a": {
+          "eng": "Ask: What is the fox using the shoe for? What do you think is in the shoe? Would you drink something out of a shoe?"
+        },
         "text_9": {
           "eng": "Hello hello? We’re busy. Go ask Owl, she knows everything!"
+        },
+        "guidance_9_a": {
+          "eng": "Use a lively, playful voice, with different voices for different characters. Pretend to be the monkeys talking to each other in funny voices."
         },
         "text_10": {
           "eng": "Hmm. I have an idea. Why don’t you ask Lion?"
         },
+        "guidance_10_a": {
+          "eng": "Connect what is happening in the book with your child’s experiences. Say: Look, the owl is reading a book, just like us. What are some of your favourite books or stories?"
+        },
         "text_11": {
           "eng": "These are yours? I’ll give them all back if you come to my party!"
+        },
+        "guidance_11_a": {
+          "eng": "Ask: what does the lion have in his hair? How many shoes can you see? Which of all the animals has the most shoes?"
+        },
+        "guidance_12_a": {
+          "eng": "Use the pictures to help your child practice counting. You can ask your child to count, or count out loud for your child. Say: how many animals are there? And how many flags? Can you count all of Shongololo's yellow shoes?"
+        },
+        "guidance_13_a": {
+          "eng": "Act out events from the book at a later stage. You can hide shoes around the house for your child to try and find. Think of funny or creative places to hide the shoes!"
         }
       },
       "description": "Shongololo has lost his shoes, and the other animals are NOT being very helpful. Will he ever find them?",
+      "licence": ". © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "Where are all my shoes? I know I left them here!",
       "text_7": "Will I ever find my shoes?",
       "text_8": "Shoes, eh? You should ask the Monkeys.",
@@ -4296,7 +4804,6 @@
       "level_id": "level_2",
       "author": "Rayhaanah Williams",
       "illustrator": "Clyde Beech",
-      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/whats_next/image_2.jpg",
       "image_2_asset": "images/books/whats_next/image_3.jpg",
       "image_3_asset": "images/books/whats_next/image_4.jpg",
@@ -4317,6 +4824,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -4364,6 +4872,9 @@
         "description": {
           "eng": "Once the school bell rings, the excitement begins. Grandpa picks Fatima up from school. What adventures will they have?"
         },
+        "licence": {
+          "eng": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "Fatima is always busy! She loves to run and play."
         },
@@ -4405,6 +4916,7 @@
         }
       },
       "description": "Once the school bell rings, the excitement begins. Grandpa picks Fatima up from school. What adventures will they have?",
+      "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
       "text_1": "Fatima is always busy! She loves to run and play.",
       "text_3_left": "\"I know!\" says Fatima. \"Let’s go to the park.\"",
       "text_3_right": "\"I can see the whole world from up here,\" Fatima shouts.",
@@ -4430,7 +4942,6 @@
       "level_id": "level_1",
       "author": "Sam Wilson",
       "illustrator": "Alex Latimer",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/shhhhh/image_2.jpg",
       "image_2_asset": "images/books/shhhhh/image_3.jpg",
       "image_3_asset": "images/books/shhhhh/image_4.jpg",
@@ -4452,6 +4963,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -4496,6 +5008,9 @@
         "description": {
           "eng": "Shh! Baby is asleep! Why is everyone making so much noise?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "Baby is sleeping. zzzzzzzzzzzz"
         },
@@ -4534,6 +5049,7 @@
         }
       },
       "description": "Shh! Baby is asleep! Why is everyone making so much noise?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "Baby is sleeping. zzzzzzzzzzzz",
       "text_7": "Brmmm Brmmm BRMMM! Shhhhh, truck! Baby is sleeping!",
       "text_8": "CLICKITY CLACK CLICKITY CLACK! Shhhhh, train! Baby is sleeping!",
@@ -4559,7 +5075,6 @@
       "level_id": "level_1",
       "author": "Sam Beckbessinger",
       "illustrator": "Amy Slatem",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/lost_toy/page4.jpg",
       "image_2_asset": "images/books/lost_toy/page5.jpg",
       "image_3_asset": "images/books/lost_toy/page6.jpg",
@@ -4581,7 +5096,8 @@
         },
         "description": {
           "tz_sw": true
-        }
+        },
+        "licence": {}
       },
       "_translatedFields": {
         "title": {
@@ -4589,9 +5105,13 @@
         },
         "description": {
           "eng": "A child has lost their favorite toy. They are so sad. Will some kind strangers help?"
+        },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
         }
       },
-      "description": "A child has lost their favorite toy. They are so sad. Will some kind strangers help?"
+      "description": "A child has lost their favorite toy. They are so sad. Will some kind strangers help?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
     },
     {
       "id": "what_at_the_park",
@@ -4606,7 +5126,6 @@
       "level_id": "level_2",
       "author": "David Mann",
       "illustrator": "Jess Jardim-Wedepohl",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/whats_at_the_park/page4.jpg",
       "image_2_asset": "images/books/whats_at_the_park/page5.jpg",
       "image_3_asset": "images/books/whats_at_the_park/page6.jpg",
@@ -4629,6 +5148,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -4673,6 +5193,9 @@
         "description": {
           "eng": "Zoey loves finding things in the park. One day, she gets a big surprise."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "Down the road from Zoey’s house, there is a big, green park."
         },
@@ -4711,6 +5234,7 @@
         }
       },
       "description": "Zoey loves finding things in the park. One day, she gets a big surprise.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "Down the road from Zoey’s house, there is a big, green park.",
       "text_3_left": "Granny needs glasses to see. But she can hear very well. Zoey is good at finding things. Even better than Granny!",
       "text_4_left": "She can find birds and bugs.",
@@ -4735,7 +5259,6 @@
       "level_id": "level_2",
       "author": "Refilwe Nsibande",
       "illustrator": "Josephine Versfeld",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/zibu_and_zizo/page4.jpg",
       "image_2_asset": "images/books/zibu_and_zizo/page5.jpg",
       "image_3_asset": "images/books/zibu_and_zizo/page6.jpg",
@@ -4758,6 +5281,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_4_left": {
           "tz_sw": true
         },
@@ -4802,6 +5326,9 @@
         "description": {
           "eng": "Zibu and Zizo are twin brothers. They are similar, but different. Being different is not bad, it’s great."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Zibu and Zizo are twin brothers. ‘They look the same,’ people always say."
         },
@@ -4840,6 +5367,7 @@
         }
       },
       "description": "Zibu and Zizo are twin brothers. They are similar, but different. Being different is not bad, it’s great.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_4_left": "Sometimes Zibu and Zizo say ... Hello!! ... at the same time.",
       "text_5_right": "Zibu likes soccer.",
       "text_6_left": "Zizo likes drawing pictures.",
@@ -4864,7 +5392,6 @@
       ],
       "author": "Xolile Sepuru",
       "illustrator": "Subi Bosa",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/yes_you_can/page4.jpg",
       "image_2_asset": "images/books/yes_you_can/page5.jpg",
       "image_3_asset": "images/books/yes_you_can/page6.jpg",
@@ -4887,6 +5414,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -4931,6 +5459,9 @@
         "description": {
           "eng": "Join Teacher Langa’s class as they share what they want to be when they grow up. Let’s see what they say!"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "“What do you want to be when you grow up?” asks Teacher Langa."
         },
@@ -4969,6 +5500,7 @@
         }
       },
       "description": "Join Teacher Langa’s class as they share what they want to be when they grow up. Let’s see what they say!",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "“What do you want to be when you grow up?” asks Teacher Langa.",
       "text_3_right": "I love helping my mom bake and cook at home.” Nandi says, “No! That’s a girl’s job. My mom does all the cooking at home.” “Yes he can, Nandi. You can be anything you want to be,” says Teacher Langa. The class chants, “Yes you can!”",
       "text_5_right": "“No you can’t, that’s dangerous!” yells Phathu. “Yes she can, Phathu, as long as she loves it,” replies Teacher Langa. The class chants, “Yes she can!”",
@@ -4994,7 +5526,6 @@
       "level_id": "level_2",
       "author": "Sanjana Kapur",
       "illustrator": "Debasmita Dasgupta",
-      "licence": "© Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/yellow_brown_earth/image_2.jpg",
       "image_2_asset": "images/books/yellow_brown_earth/image_3.jpg",
       "image_3_asset": "images/books/yellow_brown_earth/image_4.jpg",
@@ -5013,6 +5544,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -5069,6 +5601,9 @@
         "description": {
           "eng": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns."
         },
+        "licence": {
+          "eng": "© Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "Avi wakes up early. It is a good day. Avi is visiting Yellow Earth today. Yellow flowers, dried-up flowers, tiny flowers. Yellow flowers—"
         },
@@ -5119,6 +5654,7 @@
         }
       },
       "description": "Avi is an explorer. A cloud-watcher, a seed-sorter and a puddle-splasher. Travel to Avi’s favourite place — the Earth — in this book about noticing and recognising patterns.",
+      "licence": "© Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "Avi wakes up early. It is a good day. Avi is visiting Yellow Earth today. Yellow flowers, dried-up flowers, tiny flowers. Yellow flowers—",
       "text_2_right": "Avi keeps looking for treasures.",
       "text_4_right": "Big puddle, small puddle, no puddle. Big puddle, small puddle—",
@@ -5148,7 +5684,6 @@
       "level_id": "level_2",
       "author": "Roxana Bouwer",
       "illustrator": "Sarah Bouwer",
-      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/nita_upside_down/image_2.jpg",
       "image_2_asset": "images/books/nita_upside_down/image_3.jpg",
       "image_3_asset": "images/books/nita_upside_down/image_4.jpg",
@@ -5171,6 +5706,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -5218,6 +5754,9 @@
         "description": {
           "eng": "Nita’s hanging upside down. Can she turn the right way round?"
         },
+        "licence": {
+          "eng": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Nita’s hanging upside down, her long hair tickling at the ground. The trees, the grass, the everything is all the wrong way round."
         },
@@ -5259,6 +5798,7 @@
         }
       },
       "description": "Nita’s hanging upside down. Can she turn the right way round?",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "Her feet, they poke into the sky. Little Navi’s walking by. He says ‘I’ve seen you here before. You’re upside down again! What for?’",
       "text_3_left": "His feet swim lightly in the air. She tries to hide behind her hair. ‘It’s h-h-h-hard to t-t-talk’, she says to him. ‘I’m not the same. I don’t fit in.’",
       "text_4_left": "Navi takes her by the hand. He wants to help her understand. They climb to Navi’s look-out spot. From up here they can see a lot. They perch and have a quiet stare at children playing here and there.",
@@ -5284,7 +5824,6 @@
       "level_id": "level_4",
       "author": "Michele Fry",
       "illustrator": "Simóne van der Spuy",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/when_grow_up/image_2.jpg",
       "image_2_asset": "images/books/when_grow_up/image_3.jpg",
       "image_3_asset": "images/books/when_grow_up/image_4.jpg",
@@ -5307,6 +5846,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_7": {
           "tz_sw": true
         },
@@ -5351,6 +5891,9 @@
         "description": {
           "eng": "I don’t know what I want to be when I grow up. Can you help me choose?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_2": {
           "eng": "What do I want to be when I grow up?"
         },
@@ -5389,6 +5932,7 @@
         }
       },
       "description": "I don’t know what I want to be when I grow up. Can you help me choose?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_7": "When I grow up, I want to be a nurse and make sick people better.",
       "text_11": "When I grow up, I want to be a mechanic and fix cars and tractors.",
       "text_2": "What do I want to be when I grow up?",
@@ -5424,7 +5968,6 @@
       "level_id": "level_2",
       "author": "Crystal Warren",
       "illustrator": "Hayley Alonzo",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/whats_in_pot/page4.jpg",
       "image_2_asset": "images/books/whats_in_pot/page5.jpg",
       "image_3_asset": "images/books/whats_in_pot/page6.jpg",
@@ -5447,6 +5990,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -5503,6 +6047,9 @@
         "description": {
           "eng": "Sam can’t wait for supper. What’s in the pot? Wait and see."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "“What’s for supper?” asked Sam. “It’s a surprise”, said Mama, putting a big pot on the stove."
         },
@@ -5553,6 +6100,7 @@
         }
       },
       "description": "Sam can’t wait for supper. What’s in the pot? Wait and see.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "“What’s for supper?” asked Sam. “It’s a surprise”, said Mama, putting a big pot on the stove.",
       "text_2_right": "She added a jug of water. Sam was worried. “Are we having water for supper?” he wailed. “It’s a surprise. Wait and see.” replied Mama.",
       "text_3_left": "“You are still a bit short,” said Mama. “The pot might fall over. But you can help me by fetching things.”",
@@ -5581,7 +6129,6 @@
       ],
       "author": "Laura de Lange",
       "illustrator": "Nicolene Louw",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/tlotlegos_tea_party/page4.jpg",
       "image_2_asset": "images/books/tlotlegos_tea_party/page5.jpg",
       "image_3_asset": "images/books/tlotlegos_tea_party/page6.jpg",
@@ -5604,6 +6151,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -5651,6 +6199,9 @@
         "description": {
           "eng": "Tlotlego is hosting a tea party! But something strange keeps happening while he is setting the table."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "Tlotlego is hosting a tea party for the WHOLE family. “How many people are coming for tea, Koko?” “You, me, Mama, and Papa. And your little sister, Tshiamo.”"
         },
@@ -5692,6 +6243,7 @@
         }
       },
       "description": "Tlotlego is hosting a tea party! But something strange keeps happening while he is setting the table.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "Tlotlego is hosting a tea party for the WHOLE family. “How many people are coming for tea, Koko?” “You, me, Mama, and Papa. And your little sister, Tshiamo.”",
       "text_7": "Tlotlego goes to the stoep and places the biscuits on the plates.",
       "text_8": "Tlotlego is very confused. He knows he has been counting correctly. Before he had five biscuits, and now there are only four. HOW did the biscuits become less?",
@@ -5716,7 +6268,6 @@
       ],
       "author": "Kirsty Paxton",
       "illustrator": "Neeske Alexander",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/the_one_in_the_middle/page4.jpg",
       "image_2_asset": "images/books/the_one_in_the_middle/page5.jpg",
       "image_3_asset": "images/books/the_one_in_the_middle/page6.jpg",
@@ -5739,6 +6290,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_11": {
           "tz_sw": true
         },
@@ -5780,6 +6332,9 @@
         "description": {
           "eng": "Khanyiswa is not the first born. She’s not the last born. She’s the one in the MIDDLE!"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "I am the middle one. Not the first born. Not the last born. The one in the middle!"
         },
@@ -5815,6 +6370,7 @@
         }
       },
       "description": "Khanyiswa is not the first born. She’s not the last born. She’s the one in the MIDDLE!",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_11": "And that’s the best place for me.",
       "text_1_left": "I am the middle one. Not the first born. Not the last born. The one in the middle!",
       "text_2": "The one in the middle can be easy to forget.",
@@ -5838,7 +6394,6 @@
       "level_id": "level_1",
       "author": "Melissa Fagan",
       "illustrator": "Lauren Nel",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/the_best_thing_ever/page4.jpg",
       "image_2_asset": "images/books/the_best_thing_ever/page5.jpg",
       "image_3_asset": "images/books/the_best_thing_ever/page6.jpg",
@@ -5861,6 +6416,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_6_right": {
           "tz_sw": true
         },
@@ -5905,6 +6461,9 @@
         "description": {
           "eng": "Muzi loves to build with his toys. But when he leaves them behind to travel to uGogo’s house, he discovers something very special about the world. And he learns something new about himself."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_right": {
           "eng": "Muzi loves to build things. He dreams of building the best thing ever."
         },
@@ -5943,6 +6502,7 @@
         }
       },
       "description": "Muzi loves to build with his toys. But when he leaves them behind to travel to uGogo’s house, he discovers something very special about the world. And he learns something new about himself.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_6_right": "Muzi has a new idea for building the best thing ever.",
       "text_7": "On the road to uGogo’s, Muzi finds many things. Long things and short things. Round things and square things.",
       "text_8": "By the riverside, Muzi finds more things. Soft things and pointy things. Green things and brown things.",
@@ -5968,7 +6528,6 @@
       "level_id": "level_3",
       "author": "Sope Martins",
       "illustrator": "Ndumiso Nyoni",
-      "licence": "© Book Dash , 2019. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/tejus_shadow/page4.jpg",
       "image_2_asset": "images/books/tejus_shadow/page5.jpg",
       "image_3_asset": "images/books/tejus_shadow/page6.jpg",
@@ -5989,6 +6548,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -6042,6 +6602,9 @@
         "description": {
           "eng": "Teju is worried. Something keeps following him! What could it be?"
         },
+        "licence": {
+          "eng": "© Book Dash, 2019. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1": {
           "eng": "“What’s that?”"
         },
@@ -6089,6 +6652,7 @@
         }
       },
       "description": "Teju is worried. Something keeps following him! What could it be?",
+      "licence": "© Book Dash, 2019. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "“What’s that?”",
       "text_7": "“Well, there’s one way to make a shadow disappear...”",
       "text_8": "MAMA!",
@@ -6119,7 +6683,6 @@
       "level_id": "level_2",
       "author": "Sanjana Kapur",
       "illustrator": "Debasmita Dasgupta",
-      "licence": "© Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/paint_plant_day/image_2.jpg",
       "image_2_asset": "images/books/paint_plant_day/image_3.jpg",
       "image_3_asset": "images/books/paint_plant_day/image_4.jpg",
@@ -6139,6 +6702,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_7": {
           "tz_sw": true
         },
@@ -6180,6 +6744,9 @@
         "description": {
           "eng": "Avi enjoys plant day, music day and paint day, and being busy throughout the week. Join in as Avi potters about the house, in this book about noticing and recognising patterns."
         },
+        "licence": {
+          "eng": "© Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1_right": {
           "eng": "Avi stretches and jumps out of bed. Today is Plant Day."
         },
@@ -6215,6 +6782,7 @@
         }
       },
       "description": "Avi enjoys plant day, music day and paint day, and being busy throughout the week. Join in as Avi potters about the house, in this book about noticing and recognising patterns.",
+      "licence": "© Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license.",
       "text_7": "Avi lines up all the cushions and pillows on the floor. Cushion, cushion, pillow, bolster. Cushion, cushion— JUMP!",
       "text_8": "Music Day is Avi’s favourite. No one stops the loud sounds! Dham-dhoom- japh, dham- dhoom- japh. Avi hits the drums again. Dham—",
       "text_9": "It is Bird Day. Avi watches the birds with Mama and Papa. Brown bird, slow-walker, long legs. Brown bird—",
@@ -6238,7 +6806,6 @@
       "level_id": "level_1",
       "author": "Bridget Krone",
       "illustrator": "Megan Lotter",
-      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/my_little_garden/page4.jpg",
       "image_2_asset": "images/books/my_little_garden/page5.jpg",
       "image_3_asset": "images/books/my_little_garden/page6.jpg",
@@ -6260,7 +6827,8 @@
         },
         "description": {
           "tz_sw": true
-        }
+        },
+        "licence": {}
       },
       "_translatedFields": {
         "title": {
@@ -6268,9 +6836,13 @@
         },
         "description": {
           "eng": "A little boy and his dad find a plot full of litter. Can they turn it into something wonderful?"
+        },
+        "licence": {
+          "eng": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/)."
         }
       },
-      "description": "A little boy and his dad find a plot full of litter. Can they turn it into something wonderful?"
+      "description": "A little boy and his dad find a plot full of litter. Can they turn it into something wonderful?",
+      "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/)."
     },
     {
       "id": "mama_whats_for_lunch",
@@ -6284,7 +6856,6 @@
       "level_id": "level_2",
       "author": "Sally Partridge",
       "illustrator": "Heather Jenkins",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/mama_whats_for_lunch/page4.jpg",
       "image_2_asset": "images/books/mama_whats_for_lunch/page5.jpg",
       "image_3_asset": "images/books/mama_whats_for_lunch/page6.jpg",
@@ -6307,6 +6878,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_1": {
           "tz_sw": true
         },
@@ -6351,6 +6923,9 @@
         "description": {
           "eng": "Join Thabo and his sister Tumi for magical lunches with Mama!"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1": {
           "eng": "“Hurry,Thabo. Mama is making lunch,” calls Tumi."
         },
@@ -6389,6 +6964,7 @@
         }
       },
       "description": "Join Thabo and his sister Tumi for magical lunches with Mama!",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_1": "“Hurry,Thabo. Mama is making lunch,” calls Tumi.",
       "text_2_right": "“Where are you going, Thabo?”",
       "text_4_right": "On Monday, Mama shapes their food like little bugs that wriggle and crawl, making Tumi shriek in fright. “EEEE!” But they are yummy fruit and vegetables, and not very scary at all.",
@@ -6414,7 +6990,6 @@
       ],
       "author": "Sue Adams",
       "illustrator": "Lyn Leventhorpe",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/lets_go_on_a_litter_hunt/page4.jpg",
       "image_2_asset": "images/books/lets_go_on_a_litter_hunt/page5.jpg",
       "image_3_asset": "images/books/lets_go_on_a_litter_hunt/page6.jpg",
@@ -6437,6 +7012,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -6481,6 +7057,9 @@
         "description": {
           "eng": "The yard is a mess. How will the children clean up?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_left": {
           "eng": "Papa says, “This yard is a MESS. The wind blew the rubbish in.” Mama says, “Let’s go on a litter hunt. First look for tins.” Papa says, “Wear these gloves.” Yuck!"
         },
@@ -6519,6 +7098,7 @@
         }
       },
       "description": "The yard is a mess. How will the children clean up?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "We’re going on a tin hunt. We look up high and down low. We look under the bushes and against the fence.",
       "text_5_left": "We’re going on a plastic hunt. We look up high and down low. We look behind the chicken coop and in front of the house.",
       "text_7": "What must we do with all this plastic? Find a bin and put it in! Now look for paper.",
@@ -6542,7 +7122,6 @@
       "level_id": "level_1",
       "author": "Diane Awerbuck",
       "illustrator": "Alex Latimer",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/how_do_you_sleep/page4.jpg",
       "image_2_asset": "images/books/how_do_you_sleep/page5.jpg",
       "image_3_asset": "images/books/how_do_you_sleep/page6.jpg",
@@ -6565,6 +7144,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_7": {
           "tz_sw": true
         },
@@ -6606,6 +7186,9 @@
         "description": {
           "eng": "Can you sleep with one eye open? Can you sleep in a tree? Pula has a bed, but he wants to know how other creatures sleep."
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_2": {
           "eng": "How do you sleep, bird? I fly in my sleep"
         },
@@ -6641,6 +7224,7 @@
         }
       },
       "description": "Can you sleep with one eye open? Can you sleep in a tree? Pula has a bed, but he wants to know how other creatures sleep.",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_7": "How do you sleep, baby owl? I sleep on my face.",
       "text_8": "How do you sleep, otter? We sleep holding hands.",
       "text_9": "How do you sleep, walrus? I sleep on the land and under the water.",
@@ -6666,7 +7250,6 @@
       "level_id": "level_2",
       "author": "Matthew Kalil",
       "illustrator": "Sam van Riet",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/grandpa_farouks_garden/page4.jpg",
       "image_2_asset": "images/books/grandpa_farouks_garden/page5.jpg",
       "image_3_asset": "images/books/grandpa_farouks_garden/page6.jpg",
@@ -6689,6 +7272,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_2_left": {
           "tz_sw": true
         },
@@ -6733,6 +7317,9 @@
         "description": {
           "eng": "Amir loves Grandpa Farouk’s garden. But it’s dying. What can Amir do to help?"
         },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
         "text_1_right": {
           "eng": "Deep in the city, surrounded by houses and bricks and tar, you’ll find Grandpa Farouk’s garden."
         },
@@ -6771,6 +7358,7 @@
         }
       },
       "description": "Amir loves Grandpa Farouk’s garden. But it’s dying. What can Amir do to help?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "text_2_left": "Amir visits Grandpa once a week. He loves the leaves and flowers and trees.",
       "text_5_left": "“My garden is dying,” replied Grandpa. “Why?” asked Amir. “Look closely,” said Grandpa. “Some pests are eating the plants.”",
       "text_7": "For a whole week, Amir looked and searched and collected. He found one ladybird on the sports field.",
@@ -6795,7 +7383,6 @@
       "level_id": "level_1",
       "author": "Priyanka",
       "illustrator": "Ajanta Guhathakurta",
-      "licence": "© Room to Read , 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/the_colours/image_2.jpg",
       "image_2_asset": "images/books/the_colours/image_3.jpg",
       "image_3_asset": "images/books/the_colours/image_4.jpg",
@@ -6818,6 +7405,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_4_right": {
           "tz_sw": true
         },
@@ -6853,6 +7441,9 @@
         "description": {
           "eng": "A white bear likes colours a lot, and he falls in love with new ones all the time. Join him as he explores a world of rainbows."
         },
+        "licence": {
+          "eng": "© Room to Read, 2015. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_1_right": {
           "eng": "Bear likes colours."
         },
@@ -6882,6 +7473,7 @@
         }
       },
       "description": "A white bear likes colours a lot, and he falls in love with new ones all the time. Join him as he explores a world of rainbows.",
+      "licence": "© Room to Read, 2015. Some rights reserved. Released under CC BY 4.0 license.",
       "text_4_right": "Now, her ears are yellow.",
       "text_6_right": "Now, her tummy is brown.",
       "text_1_right": "Bear likes colours.",
@@ -6911,7 +7503,6 @@
       "level_id": "level_1",
       "author": "Veena Prasad",
       "illustrator": "Canato Jimo",
-      "licence": "© Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
       "image_1_asset": "images/books/circles_in_park/image_2.jpg",
       "image_2_asset": "images/books/circles_in_park/image_3.jpg",
       "image_3_asset": "images/books/circles_in_park/image_4.jpg",
@@ -6926,6 +7517,7 @@
         "description": {
           "tz_sw": true
         },
+        "licence": {},
         "text_6": {
           "tz_sw": true
         }
@@ -6937,11 +7529,15 @@
         "description": {
           "eng": "Golu and Tama go to the park to play. What do they see all around them? This wordless book introduces circles, semi-circles and quarter-circles."
         },
+        "licence": {
+          "eng": "© Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license."
+        },
         "text_6": {
           "eng": "Circle Semi-circle Quarter-cricle How many semi-circles make a circle? How many quarter-circles make a semi-circle?"
         }
       },
       "description": "Golu and Tama go to the park to play. What do they see all around them? This wordless book introduces circles, semi-circles and quarter-circles.",
+      "licence": "© Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license.",
       "text_6": "Circle Semi-circle Quarter-cricle How many semi-circles make a circle? How many quarter-circles make a semi-circle?"
     },
     {
@@ -6954,7 +7550,6 @@
       ],
       "author": "Marion Drew",
       "illustrator": "Ellen Heydenrych",
-      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "image_1_asset": "images/books/lefas_bath/page4.jpg",
       "image_2_asset": "images/books/lefas_bath/page5.jpg",
       "image_3_asset": "images/books/lefas_bath/page6.jpg",
@@ -6972,17 +7567,78 @@
       "title": "Lefa's Bath",
       "_translations": {
         "title": {},
-        "description": {}
+        "description": {},
+        "licence": {},
+        "guidance_cover": {},
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
+        "guidance_5_a": {},
+        "guidance_6_a": {},
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
+        "guidance_13_a": {}
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?"
+        },
         "title": {
           "eng": "Lefa's Bath"
         },
         "description": {
           "eng": "Lefa wants her bath, but where does all the water go?"
+        },
+        "licence": {
+          "eng": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)."
+        },
+        "guidance_1_a": {
+          "eng": "Ask your child: what is the girl doing? Why do you think she is doing that? What animals are those? How many are there?"
+        },
+        "guidance_2_a": {
+          "eng": "Mimic sounds and actions from the story, like the cows drinking the water."
+        },
+        "guidance_3_a": {
+          "eng": "Say: oh no! Where has all the water gone? How do you think the girl is feeling?"
+        },
+        "guidance_4_a": {
+          "eng": "Use descriptive words to talk about the pictures. Say: she is pouring water from her yellow bucket into the large orange bath."
+        },
+        "guidance_5_a": {
+          "eng": "Say: look! The ducks are splashing in the water! What do you think will happen next?"
+        },
+        "guidance_6_a": {
+          "eng": "Say: oh no! The bath has been emptied again! How did that happen? How is the girl feeling now?"
+        },
+        "guidance_7_a": {
+          "eng": "Ask: What is the girl doing now? What animal can we see coming closer?"
+        },
+        "guidance_8_a": {
+          "eng": "Ask your child: What is the pig doing? What is happening to the water? Can the girl see what is happening?"
+        },
+        "guidance_9_a": {
+          "eng": "Say: oh no! What happened to the bath now? How is the girl feeling?"
+        },
+        "guidance_10_a": {
+          "eng": "Use your voice and face to demonstrate emotions from the pictures. Say: look, she is crying? Why do you think she is feeling sad? How do you think the animals are feeling?"
+        },
+        "guidance_11_a": {
+          "eng": "Ask: what are the animals doing? Why are they doing that? Say: Can you count the buckets of water? Are they all the same colour? What colours can you see?"
+        },
+        "guidance_12_a": {
+          "eng": "Ask: How do you think the girl is feeling now? Why?"
+        },
+        "guidance_13_a": {
+          "eng": "Reflect on the story with your child. Ask: What did you think about the story? How would you feel if you were in the story? What would you have done?"
         }
       },
       "description": "Lefa wants her bath, but where does all the water go?",
+      "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "guidance_1_a": "Ask your child: what is the girl doing? Why do you think she is doing that? What animals are those? How many are there?",
       "guidance_2_a": "Mimic sounds and actions from the story, like the cows drinking the water.",
