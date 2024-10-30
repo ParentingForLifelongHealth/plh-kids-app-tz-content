@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "life skills",
+      "id": "life_skills",
       "title": "Life Skills",
       "_translations": {
         "title": {}
@@ -109,6 +109,18 @@
       "_translatedFields": {
         "title": {
           "eng": "Let's Play"
+        }
+      }
+    },
+    {
+      "id": "count",
+      "title": "Let's Count",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Let's Count"
         }
       }
     }

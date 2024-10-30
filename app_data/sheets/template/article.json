@@ -332,6 +332,7 @@
         "value": {}
       },
       "condition": "!!(@local.article_data.title)",
+      "exclude_from_translation": true,
       "_nested_name": "title",
       "_dynamicFields": {
         "value": [
@@ -359,6 +360,12 @@
       }
     },
     {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_17",
+      "_nested_name": "set_variable_17"
+    },
+    {
       "type": "text",
       "name": "text_1",
       "value": "@local.article_data.text_1",
@@ -366,6 +373,7 @@
         "value": {}
       },
       "condition": "!!(@local.article_data.text_1)",
+      "exclude_from_translation": true,
       "_nested_name": "text_1",
       "_dynamicFields": {
         "value": [
@@ -398,6 +406,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "speaker_image_asset",
       "_dynamicFields": {
@@ -466,6 +475,12 @@
           "parameter_list.speaker_image_asset"
         ]
       }
+    },
+    {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_21",
+      "_nested_name": "set_variable_21"
     },
     {
       "type": "image",
@@ -568,6 +583,7 @@
           "parameter_list": {
             "text_align": "left"
           },
+          "exclude_from_translation": true,
           "_nested_name": "dg_image_box.image_text",
           "_dynamicFields": {
             "value": [
@@ -611,6 +627,12 @@
           "condition"
         ]
       }
+    },
+    {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_25",
+      "_nested_name": "set_variable_25"
     },
     {
       "type": "text",

@@ -286,6 +286,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "click_template",
       "_dynamicFields": {
@@ -321,6 +322,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "in_progress_icon"
     },
@@ -330,6 +332,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "completed_icon"
     },
@@ -341,6 +344,7 @@
           "tz_sw": true
         }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "progress_units_name"
     },

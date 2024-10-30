@@ -11,17 +11,17 @@
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 35 |
+| display_group | 36 |
 | image | 30 |
 | items | 9 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 502 |
+| set_variable | 501 |
 | task_card | 3 |
 | task_progress_bar | 1 |
 | template | 417 |
-| text | 90 |
+| text | 91 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
@@ -56,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 60104 KB | 60.1 MB |
-| unused | 2910 KB | 2.9 MB |
+| total | 61901 KB | 61.9 MB |
+| unused | 1113 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -72,18 +72,9 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 80.4 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_09.mp3 | 254.9 |
-| audio/modules/create/create_01.mp3 | 165.5 |
-| audio/modules/create/create_02.mp3 | 336.2 |
 | audio/modules/create/create_03.mp3 | 190.2 |
-| audio/modules/play/play_01.mp3 | 155.3 |
-| audio/modules/play/play_02.mp3 | 189.1 |
-| audio/modules/play/play_03.mp3 | 268.2 |
-| audio/modules/play/play_04.mp3 | 202.7 |
-| audio/modules/play/play_05.mp3 | 206.8 |
-| audio/modules/play/play_06.mp3 | 159.8 |
 | contents.json | 5.9 |
 | images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png | 139.2 |
-| images/books/little_shoots/cover.png | 112.9 |
 | images/facilitator_face_man.svg | 7.4 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/faces/angry.svg | 1.1 |
@@ -157,7 +148,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/little_monkey_s_lost_bananas/image_7.jpg | 1 |
 | images/books/little_monkey_s_lost_bananas/image_8.jpg | 1 |
 | images/books/little_monkey_s_lost_bananas/image_9.jpg | 1 |
-| images/books/little_shoots/cover.jpg | 2 |
 | images/books/ma_hurry_up/image_1.jpg | 1 |
 | images/books/ma_hurry_up/image_10.jpg | 1 |
 | images/books/ma_hurry_up/image_11.jpg | 1 |
@@ -323,8 +313,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_9.jpg | 1 |
 | images/modules/build/build_title_image.svg | 2 |
 | images/modules/care/care_title_image.svg | 2 |
-| images/modules/create/create_01.mp3 | 3 |
-| images/modules/create/create_02.mp3 | 3 |
 | images/modules/explore/explore_title_image.svg | 2 |
 | images/modules/talk/talk_title_image.svg | 2 |
 </details>
@@ -344,6 +332,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/connect/connect_06.mp3 | 167.6 | 3 |
 | audio/modules/connect/connect_07.mp3 | 241.2 | 3 |
 | audio/modules/connect/connect_08.mp3 | 204.1 | 3 |
+| audio/modules/create/create_01.mp3 | 165.5 | 3 |
+| audio/modules/create/create_02.mp3 | 336.2 | 3 |
+| audio/modules/play/play_01.mp3 | 155.3 | 3 |
+| audio/modules/play/play_02.mp3 | 189.1 | 3 |
+| audio/modules/play/play_03.mp3 | 268.2 | 3 |
+| audio/modules/play/play_04.mp3 | 202.7 | 3 |
+| audio/modules/play/play_05.mp3 | 206.8 | 3 |
+| audio/modules/play/play_06.mp3 | 159.8 | 3 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
 | audio/relax/relax_10.mp3 | 404.9 | 2 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
@@ -725,6 +721,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/lets_go_on_a_litter_hunt/page7.jpg | 32.7 | 2 |
 | images/books/lets_go_on_a_litter_hunt/page8.jpg | 54.7 | 2 |
 | images/books/lets_go_on_a_litter_hunt/page9.jpg | 30.3 | 2 |
+| images/books/little_shoots/cover.png | 112.9 | 2 |
 | images/books/little_shoots/page10.jpg | 45.2 | 2 |
 | images/books/little_shoots/page11.jpg | 48.9 | 2 |
 | images/books/little_shoots/page12.jpg | 46.6 | 2 |
@@ -1307,7 +1304,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe | generated | 26 |
 | generator |  | 25 |
 | global |  | 2 |
-| template |  | 50 |
+| template |  | 51 |
 | template | generated | 422 |
 | template | legal_terms | 4 |
 </details>

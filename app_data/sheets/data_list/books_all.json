@@ -8,6 +8,10 @@
       "id": "who_took_my_shoe",
       "status": "released",
       "image_cover_asset": "images/books/my_shoe/my_shoe_cover.jpg",
+      "tag_list": [
+        "learn",
+        "animals"
+      ],
       "level_id": "level_2",
       "author": "Elana Bregin",
       "illustrator": "Nicki Blackbeard",
@@ -164,6 +168,11 @@
       "id": "a_very_important_tree",
       "status": "released",
       "image_cover_asset": "images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg",
+      "tag_list": [
+        "emotions",
+        "life_skills",
+        "nature"
+      ],
       "level_id": "level_1",
       "author": "Elana Bregin",
       "illustrator": "Liam Longland",
@@ -205,6 +214,11 @@
       "id": "an_unexpected_adventure",
       "status": "released",
       "image_cover_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg",
+      "tag_list": [
+        "adventure",
+        "learn",
+        "animals"
+      ],
       "level_id": "level_1",
       "author": "Carina Jooste",
       "illustrator": "Emma Bosman",
@@ -246,6 +260,11 @@
       "id": "no_go_sleep",
       "status": "released",
       "image_cover_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "tag_list": [
+        "family",
+        "emotions",
+        "adventure"
+      ],
       "level_id": "level_2",
       "author": "Sarah McGregor",
       "illustrator": "Subi Bosa",
@@ -412,6 +431,10 @@
       "id": "scared_tumi",
       "status": "released",
       "image_cover_asset": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
+      "tag_list": [
+        "emotions",
+        "family"
+      ],
       "level_id": "level_2",
       "author": "Mohale Mashigo",
       "illustrator": "Nyambura Kariuki",
@@ -539,6 +562,11 @@
       "status": "released",
       "image_cover_asset": "images/books/moms_red_coat/cover.png",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
+      "tag_list": [
+        "family",
+        "emotions",
+        "life_skills"
+      ],
       "level_id": "level_2",
       "author": "Chrissie Kritzinger",
       "illustrator": "Brad Cuzen",
@@ -690,6 +718,11 @@
       "id": "amma_be_back",
       "status": "released",
       "image_cover_asset": "images/books/when_will_amma_be_back/image_1.jpg",
+      "tag_list": [
+        "family",
+        "emotions",
+        "life_skills"
+      ],
       "level_id": "level_2",
       "author": "Prathiba Swaminathan",
       "illustrator": "Alankrita Amaya",
@@ -839,6 +872,10 @@
       "id": "bee_and_elephant",
       "status": "released",
       "image_cover_asset": "images/books/the_bee_and_the_elephant/image_1.jpg",
+      "tag_list": [
+        "animals",
+        "nature"
+      ],
       "level_id": "level_1",
       "author": "Long Ravy",
       "illustrator": "Try Samphos",
@@ -933,6 +970,12 @@
       "id": "reba_wants_ice_cream",
       "status": "draft",
       "image_cover_asset": "images/books/reba_wants_ice_cream/image_1.jpg",
+      "tag_list": [
+        "family",
+        "adventure",
+        "life_skills",
+        "count"
+      ],
       "level_id": "level_2",
       "author": "Sultana Zakia",
       "illustrator": "Dhiman Sarkar",
@@ -1076,6 +1119,12 @@
       "id": "ranis_first_day_at_school",
       "status": "draft",
       "image_cover_asset": "images/books/ranis_first_day_at_school/image_1.jpg",
+      "tag_list": [
+        "family",
+        "life_skills",
+        "emotions",
+        "learn"
+      ],
       "level_id": "level_1",
       "author": "Cheryl Rao",
       "illustrator": "Mayur Mistry",
@@ -1153,6 +1202,12 @@
       "id": "ma_hurry_up",
       "status": "draft",
       "image_cover_asset": "images/books/ma_hurry_up/image_1.jpg",
+      "tag_list": [
+        "family",
+        "life_skills",
+        "emotions",
+        "learn"
+      ],
       "level_id": "level_2",
       "author": "Rukmini Banerji",
       "illustrator": "Sheetal Thapa",
@@ -1277,6 +1332,11 @@
       "id": "katiitis_song",
       "status": "released",
       "image_cover_asset": "images/books/katiitis_song/image_1.jpg",
+      "tag_list": [
+        "nature",
+        "animals",
+        "family"
+      ],
       "level_id": "level_1",
       "author": "Philippa Namutebi Kabali-Kagwa",
       "illustrator": "Mary Marble",
@@ -1401,6 +1461,13 @@
       "id": "beautiful_day",
       "status": "released",
       "image_cover_asset": "images/books/beautiful_day/cover.jpg",
+      "tag_list": [
+        "adventure",
+        "family",
+        "friends",
+        "nature",
+        "animals"
+      ],
       "level_id": "level_1",
       "author": "Elana Bregin",
       "illustrator": "Lindy Pelzl",
@@ -1538,6 +1605,13 @@
       "id": "trip_to_tap",
       "status": "released",
       "image_cover_asset": "images/books/a_trip_to_the_tap/cover.jpg",
+      "tag_list": [
+        "family",
+        "learn",
+        "adventure",
+        "friends",
+        "life_skills"
+      ],
       "author": "Sindeka Mandoyi",
       "illustrator": "Phumle April",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1660,6 +1734,11 @@
       "id": "fifi_and_teddy",
       "status": "released",
       "image_cover_asset": "images/books/fifi_and_teddy/cover.jpg",
+      "tag_list": [
+        "emotions",
+        "family",
+        "life_skills"
+      ],
       "level_id": "level_2",
       "author": "Tshepo Letsapa",
       "illustrator": "Alison de Villiers",
@@ -1762,6 +1841,9 @@
       "id": "how_you_want_your_eggs",
       "status": "released",
       "image_cover_asset": "images/books/how_do_you_want_your_eggs/cover.jpg",
+      "tag_list": [
+        "family"
+      ],
       "author": "Tania Kliphuis",
       "illustrator": "Richard Bolland",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -1877,6 +1959,11 @@
       "id": "lebo_and_gogos_tea_party",
       "status": "released",
       "image_cover_asset": "images/books/lebo_gogo_tea_party/cover.jpg",
+      "tag_list": [
+        "emotions",
+        "family",
+        "life_skills"
+      ],
       "level_id": "level_3",
       "author": "Siphosethu Zantsi",
       "illustrator": "Elizabeth Sparg",
@@ -1994,6 +2081,11 @@
       "status": "released",
       "image_cover_asset": "images/books/lesedis_sandbox/cover.jpg",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
+      "tag_list": [
+        "play",
+        "family",
+        "adeventure"
+      ],
       "author": "Mathapelo Mabaso",
       "illustrator": "Jess Jardim-Wedepohl",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2128,8 +2220,16 @@
     {
       "id": "little_shoots",
       "status": "released",
-      "image_cover_asset": "images/books/little_shoots/cover.jpg",
+      "image_cover_asset": "images/books/little_shoots/cover.png",
       "guidance_cover": "Discuss the book’s cover. Ask your child: What do you see? What is the woman pointing to?",
+      "tag_list": [
+        "nature",
+        "animals",
+        "family",
+        "learn",
+        "life_skills",
+        "count"
+      ],
       "author": "Sope Martins",
       "illustrator": "Wiehan de Jager",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2259,6 +2359,10 @@
       "id": "look_out_luthando",
       "status": "released",
       "image_cover_asset": "images/books/look_out_luthando/cover.jpg",
+      "tag_list": [
+        "family",
+        "adventure"
+      ],
       "level_id": "level_2",
       "author": "Sue Boucher",
       "illustrator": "Hylton Warburton",
@@ -2431,6 +2535,11 @@
       "id": "my_inside_weather",
       "status": "released",
       "image_cover_asset": "images/books/my_inside_weather/cover.jpg",
+      "tag_list": [
+        "emotions",
+        "life_skills",
+        "nature"
+      ],
       "level_id": "level_2",
       "author": "Jen Thorpe",
       "illustrator": "Lara Berge",
@@ -2555,6 +2664,12 @@
       "status": "released",
       "image_cover_asset": "images/books/the_things_that_really_matter/cover.png",
       "guidance_cover": "Bring your child’s attention to the book’s cover. Ask: What are they doing? What do you think this story could be about?",
+      "tag_list": [
+        "family",
+        "emotions",
+        "adventure",
+        "animals"
+      ],
       "author": "Refiloe Moahloli",
       "illustrator": "Subi Bosa",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2706,6 +2821,12 @@
       "status": "released",
       "image_cover_asset": "images/books/to_the_top/cover.png",
       "guidance_cover": "Discuss the book’s cover. Ask your child: What do you see? Where do you think they might be going?",
+      "tag_list": [
+        "nature",
+        "animals",
+        "family",
+        "adventure"
+      ],
       "level_id": "level_1",
       "author": "Clea Mallinson",
       "illustrator": "Julie Smith-Belton",
@@ -2759,6 +2880,12 @@
       "id": "where_is_lulu",
       "status": "released",
       "image_cover_asset": "images/books/where_is_lulu/cover.jpg",
+      "tag_list": [
+        "play",
+        "learn",
+        "family",
+        "adventure"
+      ],
       "level_id": "level_1",
       "author": "Mohale Mashigo",
       "illustrator": "Clyde Beech",
@@ -2875,6 +3002,12 @@
       "id": "amaizing_flower",
       "status": "released",
       "image_cover_asset": "images/books/amaizing_flower/cover.jpg",
+      "tag_list": [
+        "nature",
+        "animals",
+        "family",
+        "learn"
+      ],
       "author": "Laurie Janey",
       "illustrator": "Amber Tak",
       "licence": "This work is licensed under a Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -2999,6 +3132,10 @@
       "status": "released",
       "image_cover_asset": "images/books/babys_first_photo/cover.png",
       "guidance_cover": "Discuss the book’s cover. Ask: What do you see? What do you think this story is about?",
+      "tag_list": [
+        "family",
+        "learn"
+      ],
       "level_id": "level_1",
       "author": "Edem Torkornoo",
       "illustrator": "Megan Andrews",
@@ -3134,6 +3271,11 @@
       "id": "brave_bora",
       "status": "released",
       "image_cover_asset": "images/books/brave_bora/cover.jpg",
+      "tag_list": [
+        "emotions",
+        "life_skills",
+        "family"
+      ],
       "level_id": "level_2",
       "author": "Edna Gicovi",
       "illustrator": "Ellen Heydenrych",
@@ -3281,6 +3423,11 @@
       "id": "and_also",
       "status": "released",
       "image_cover_asset": "images/books/and_also/image_1.jpg",
+      "tag_list": [
+        "family",
+        "adventure",
+        "play"
+      ],
       "level_id": "level_2",
       "author": "Lauren Beukes",
       "illustrator": "Anja Venter",
@@ -3447,6 +3594,11 @@
       "id": "angry_akku",
       "status": "released",
       "image_cover_asset": "images/books/angry_akku/image_1.jpg",
+      "tag_list": [
+        "emotions",
+        "life_skills",
+        "family"
+      ],
       "level_id": "level_2",
       "author": "Vinayak Varma",
       "illustrator": "Vinayak Varma",
@@ -3594,6 +3746,12 @@
       "id": "beloved_daughter",
       "status": "released",
       "image_cover_asset": "images/books/beloved_daughter/image_1.jpg",
+      "tag_list": [
+        "family",
+        "nature",
+        "life_skills",
+        "emotions"
+      ],
       "level_id": "level_1",
       "author": "Mulongo Bukheye and Ritah Katetemera",
       "illustrator": "Brian Wambi",
@@ -3717,6 +3875,11 @@
       "id": "big_blue_bus",
       "status": "released",
       "image_cover_asset": "images/books/big_blue_bus/image_1.jpg",
+      "tag_list": [
+        "family",
+        "emotions",
+        "adventure"
+      ],
       "level_id": "level_2",
       "author": "Mecelin Kakoro",
       "illustrator": "Mango Tree",
@@ -3872,6 +4035,10 @@
       "id": "decision",
       "status": "released",
       "image_cover_asset": "images/books/decision/image_1.jpg",
+      "tag_list": [
+        "life_skills",
+        "learn"
+      ],
       "level_id": "level_3",
       "author": "Ursula Nafula",
       "illustrator": "Vusi Malindi",
@@ -4027,6 +4194,9 @@
       "id": "emotions_come_go",
       "status": "released",
       "image_cover_asset": "images/books/emotions_come_go/image_1.jpg",
+      "tag_list": [
+        "emotions"
+      ],
       "level_id": "level_2",
       "author": "Mimi Werna",
       "illustrator": "Joe Werna",
@@ -4182,6 +4352,10 @@
       "id": "i_like_to_read",
       "status": "draft",
       "image_cover_asset": "images/books/i_like_to_read/image_1.jpg",
+      "tag_list": [
+        "family",
+        "learn"
+      ],
       "level_id": "level_1",
       "author": "Letta Machoga",
       "illustrator": "Wiehan de Jager",
@@ -4273,6 +4447,10 @@
       "id": "it_wasnt_me",
       "status": "draft",
       "image_cover_asset": "images/books/it_wasnt_me/image_1.jpg",
+      "tag_list": [
+        "animals",
+        "emotions"
+      ],
       "level_id": "level_1",
       "author": "Lesley Beake",
       "illustrator": "Gwendolene van der Merwe",
@@ -4394,6 +4572,12 @@
       "id": "jasu_loves_football",
       "status": "released",
       "image_cover_asset": "images/books/jasu_loves_football/image_1.jpg",
+      "tag_list": [
+        "family",
+        "friends",
+        "play",
+        "life_skills"
+      ],
       "level_id": "level_2",
       "author": "Rehema Egbert",
       "illustrator": "Godwin Chipenya",
@@ -4549,6 +4733,11 @@
       "id": "little_monkey_s_lost_bananas",
       "status": "draft",
       "image_cover_asset": "images/books/little_monkey_s_lost_bananas/image_1.jpg",
+      "tag_list": [
+        "animals",
+        "nature",
+        "emotions"
+      ],
       "level_id": "level_2",
       "author": "Long Leapsocheata",
       "illustrator": "Youm Kosal",
@@ -4680,6 +4869,11 @@
       "id": "mother_hen",
       "status": "draft",
       "image_cover_asset": "images/books/mother_hen/image_1.jpg",
+      "tag_list": [
+        "count",
+        "animals",
+        "nature"
+      ],
       "level_id": "level_2",
       "author": "Phuangthana Phetsavong",
       "illustrator": "Aphisith Souphavongtay",
@@ -4821,6 +5015,12 @@
       "id": "my_first_day_at_school",
       "status": "draft",
       "image_cover_asset": "images/books/my_first_day_at_school/image_1.jpg",
+      "tag_list": [
+        "learn",
+        "life_skills",
+        "friends",
+        "emotions"
+      ],
       "level_id": "level_3",
       "author": "Rehema Egbert",
       "illustrator": "Godwin Chipenya",
@@ -4984,6 +5184,12 @@
       "id": "nichchumani_helps_out",
       "status": "draft",
       "image_cover_asset": "images/books/nichchumani_helps_out/image_1.jpg",
+      "tag_list": [
+        "animals",
+        "nature",
+        "emotions",
+        "life_skills"
+      ],
       "level_id": "level_2",
       "author": "Egambaram Kumudini",
       "illustrator": "Pavithra Wanamali",
@@ -5083,6 +5289,11 @@
       "id": "no_smiles_today",
       "status": "draft",
       "image_cover_asset": "images/books/no_smiles_today/image_1.jpg",
+      "tag_list": [
+        "emotions",
+        "friends",
+        "learn"
+      ],
       "level_id": "level_2",
       "author": "Cheryl Rao",
       "illustrator": "Saurabh Pandey",
@@ -5158,6 +5369,11 @@
       "id": "pishi_and_me",
       "status": "draft",
       "image_cover_asset": "images/books/pishi_and_me/image_1.jpg",
+      "tag_list": [
+        "adventure",
+        "nature",
+        "animals"
+      ],
       "level_id": "level_2",
       "author": "Timira Gupta",
       "illustrator": "Rajiv Eipe",
@@ -5289,6 +5505,14 @@
       "id": "red_bean_plant",
       "status": "draft",
       "image_cover_asset": "images/books/red_bean_plant/image_1.jpg",
+      "tag_list": [
+        "nature",
+        "learn",
+        "family",
+        "life_skills",
+        "emotions",
+        "friends"
+      ],
       "level_id": "level_2",
       "author": "Nguyễn Thị Hồng Hạnh",
       "illustrator": "Phạm Hùng Vinh",
@@ -5470,6 +5694,11 @@
       "status": "released",
       "image_cover_asset": "images/books/shongololo_s_shoes/cover.png",
       "guidance_cover": "Discuss the book’s cover. Ask: What do you see? Where is the millipede shongololo sitting?",
+      "tag_list": [
+        "nature",
+        "animals",
+        "count"
+      ],
       "level_id": "level_2",
       "author": "Jacqui L’Ange",
       "illustrator": "Megan Lotter",
@@ -5601,6 +5830,10 @@
       "id": "under_my_bed",
       "status": "draft",
       "image_cover_asset": "images/books/under_my_bed/image_1.jpg",
+      "tag_list": [
+        "emotions",
+        "family"
+      ],
       "level_id": "level_2",
       "author": "Anupa Lal",
       "illustrator": "Suvidha Mistry",
@@ -5716,6 +5949,12 @@
       "id": "very_green_day",
       "status": "draft",
       "image_cover_asset": "images/books/very_green_day/image_1.jpg",
+      "tag_list": [
+        "nature",
+        "adventure",
+        "emotions",
+        "family"
+      ],
       "level_id": "level_2",
       "author": "Phạm Thu Thùy",
       "illustrator": "Phạm Thu Thùy",
@@ -5945,6 +6184,12 @@
       "id": "whats_next",
       "status": "released",
       "image_cover_asset": "images/books/whats_next/image_1.jpg",
+      "tag_list": [
+        "play",
+        "adventure",
+        "family",
+        "nature"
+      ],
       "level_id": "level_2",
       "author": "Rayhaanah Williams",
       "illustrator": "Clyde Beech",
@@ -6075,6 +6320,10 @@
       "id": "shhhhh",
       "status": "released",
       "image_cover_asset": "images/books/shhhhh/image_1.jpg",
+      "tag_list": [
+        "family",
+        "learn"
+      ],
       "level_id": "level_1",
       "author": "Sam Wilson",
       "illustrator": "Alex Latimer",
@@ -6199,6 +6448,11 @@
       "id": "lost_toy",
       "status": "released",
       "image_cover_asset": "images/books/lost_toy/cover.jpg",
+      "tag_list": [
+        "emotions",
+        "adventure",
+        "animals"
+      ],
       "level_id": "level_1",
       "author": "Sam Beckbessinger",
       "illustrator": "Amy Slatem",
@@ -6240,6 +6494,12 @@
       "id": "what_at_the_park",
       "status": "released",
       "image_cover_asset": "images/books/whats_at_the_park/cover.jpg",
+      "tag_list": [
+        "nature",
+        "learn",
+        "family",
+        "animals"
+      ],
       "level_id": "level_2",
       "author": "David Mann",
       "illustrator": "Jess Jardim-Wedepohl",
@@ -6365,6 +6625,10 @@
       "id": "zibu_and_zizo",
       "status": "released",
       "image_cover_asset": "images/books/zibu_and_zizo/cover.jpg",
+      "tag_list": [
+        "family",
+        "life_skills"
+      ],
       "level_id": "level_2",
       "author": "Refilwe Nsibande",
       "illustrator": "Josephine Versfeld",
@@ -6490,6 +6754,11 @@
       "id": "yes_you_can",
       "status": "released",
       "image_cover_asset": "images/books/yes_you_can/cover.jpg",
+      "tag_list": [
+        "life_skills",
+        "friends",
+        "learn"
+      ],
       "author": "Xolile Sepuru",
       "illustrator": "Subi Bosa",
       "licence": "Creative Commons Attribution 4.0 Licence (http://\ncreativecommons.org/licenses/by/4.0/).",
@@ -6614,6 +6883,11 @@
       "id": "yello_earth_brown_earth",
       "status": "released",
       "image_cover_asset": "images/books/yellow_brown_earth/image_1.jpg",
+      "tag_list": [
+        "nature",
+        "learn",
+        "adventure"
+      ],
       "level_id": "level_2",
       "author": "Sanjana Kapur",
       "illustrator": "Debasmita Dasgupta",
@@ -6763,6 +7037,11 @@
       "id": "nita_upside_down",
       "status": "released",
       "image_cover_asset": "images/books/nita_upside_down/image_1.jpg",
+      "tag_list": [
+        "life_skills",
+        "friends",
+        "learn"
+      ],
       "level_id": "level_2",
       "author": "Roxana Bouwer",
       "illustrator": "Sarah Bouwer",
@@ -6896,6 +7175,9 @@
       "id": "when_grow_up",
       "status": "released",
       "image_cover_asset": "images/books/when_grow_up/image_1.jpg",
+      "tag_list": [
+        "learn"
+      ],
       "level_id": "level_4",
       "author": "Michele Fry",
       "illustrator": "Simóne van der Spuy",
@@ -7031,6 +7313,11 @@
       "id": "whats_in_the_pot",
       "status": "released",
       "image_cover_asset": "images/books/whats_in_pot/cover.jpg",
+      "tag_list": [
+        "family",
+        "learn",
+        "life_skills"
+      ],
       "level_id": "level_2",
       "author": "Crystal Warren",
       "illustrator": "Hayley Alonzo",
@@ -7184,6 +7471,11 @@
       "id": "tlotlegos_tea_party",
       "status": "released",
       "image_cover_asset": "images/books/tlotlegos_tea_party/cover.jpg",
+      "tag_list": [
+        "count",
+        "family",
+        "learn"
+      ],
       "author": "Laura de Lange",
       "illustrator": "Nicolene Louw",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -7315,6 +7607,10 @@
       "id": "the_one_in_the_middle",
       "status": "released",
       "image_cover_asset": "images/books/the_one_in_the_middle/cover.jpg",
+      "tag_list": [
+        "play",
+        "family"
+      ],
       "author": "Kirsty Paxton",
       "illustrator": "Neeske Alexander",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -7432,6 +7728,10 @@
       "id": "the_best_thing_ever",
       "status": "released",
       "image_cover_asset": "images/books/the_best_thing_ever/cover.jpg",
+      "tag_list": [
+        "adventure",
+        "learn"
+      ],
       "level_id": "level_1",
       "author": "Melissa Fagan",
       "illustrator": "Lauren Nel",
@@ -7557,6 +7857,11 @@
       "id": "tejus_shadow",
       "status": "released",
       "image_cover_asset": "images/books/tejus_shadow/cover.jpg",
+      "tag_list": [
+        "emotions",
+        "family",
+        "learn"
+      ],
       "level_id": "level_3",
       "author": "Sope Martins",
       "illustrator": "Ndumiso Nyoni",
@@ -7702,6 +8007,12 @@
       "id": "paint_plant_day",
       "status": "released",
       "image_cover_asset": "images/books/paint_plant_day/image_1.jpg",
+      "tag_list": [
+        "family",
+        "learn",
+        "life_skills",
+        "nature"
+      ],
       "level_id": "level_2",
       "author": "Sanjana Kapur",
       "illustrator": "Debasmita Dasgupta",
@@ -7817,6 +8128,10 @@
       "id": "my_little_garden",
       "status": "released",
       "image_cover_asset": "images/books/my_little_garden/cover.jpg",
+      "tag_list": [
+        "nature",
+        "play"
+      ],
       "level_id": "level_1",
       "author": "Bridget Krone",
       "illustrator": "Megan Lotter",
@@ -7858,6 +8173,11 @@
       "id": "mama_whats_for_lunch",
       "status": "released",
       "image_cover_asset": "images/books/mama_whats_for_lunch/cover.jpg",
+      "tag_list": [
+        "family",
+        "learn",
+        "play"
+      ],
       "level_id": "level_2",
       "author": "Sally Partridge",
       "illustrator": "Heather Jenkins",
@@ -7983,6 +8303,12 @@
       "id": "lets_go_on_a_litter_hunt",
       "status": "released",
       "image_cover_asset": "images/books/lets_go_on_a_litter_hunt/cover.jpg",
+      "tag_list": [
+        "adventure",
+        "learn",
+        "family",
+        "life_skills"
+      ],
       "author": "Sue Adams",
       "illustrator": "Lyn Leventhorpe",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",
@@ -8107,6 +8433,9 @@
       "id": "how_do_you_sleep",
       "status": "released",
       "image_cover_asset": "images/books/how_do_you_sleep/cover.jpg",
+      "tag_list": [
+        "animals"
+      ],
       "level_id": "level_1",
       "author": "Diane Awerbuck",
       "illustrator": "Alex Latimer",
@@ -8225,6 +8554,12 @@
       "id": "grandpa_farouks_garden",
       "status": "released",
       "image_cover_asset": "images/books/grandpa_farouks_garden/cover.jpg",
+      "tag_list": [
+        "nature",
+        "family",
+        "learn",
+        "count"
+      ],
       "level_id": "level_2",
       "author": "Matthew Kalil",
       "illustrator": "Sam van Riet",
@@ -8350,6 +8685,10 @@
       "id": "colours",
       "status": "released",
       "image_cover_asset": "images/books/the_colours/image_1.jpg",
+      "tag_list": [
+        "animals",
+        "learn"
+      ],
       "level_id": "level_1",
       "author": "Priyanka",
       "illustrator": "Ajanta Guhathakurta",
@@ -8459,6 +8798,13 @@
       "id": "circles_in_park",
       "status": "released",
       "image_cover_asset": "images/books/circles_in_park/image_1.jpg",
+      "tag_list": [
+        "nature",
+        "friends",
+        "adventure",
+        "play",
+        "learn"
+      ],
       "level_id": "level_1",
       "author": "Veena Prasad",
       "illustrator": "Canato Jimo",
@@ -8500,6 +8846,10 @@
       "status": "released",
       "image_cover_asset": "images/books/lefas_bath/cover.png",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
+      "tag_list": [
+        "animals",
+        "emotions"
+      ],
       "author": "Marion Drew",
       "illustrator": "Ellen Heydenrych",
       "licence": "Creative Commons Attribution 4.0 Licence (http://creativecommons.org/licenses/by/4.0/).",

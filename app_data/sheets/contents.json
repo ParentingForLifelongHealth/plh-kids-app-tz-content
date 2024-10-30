@@ -2190,7 +2190,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/library/relax_activities.xlsx",
+      "_xlsxPath": "templates/relax_activities.xlsx",
       "_output_flows": [
         {
           "flow_name": "article_relax_1",
@@ -3401,22 +3401,22 @@
     "book_button": {
       "flow_type": "template",
       "flow_name": "book_button",
-      "_xlsxPath": "templates/library/library_page.xlsx"
+      "_xlsxPath": "books/library_page.xlsx"
     },
     "book_cover": {
       "flow_type": "template",
       "flow_name": "book_cover",
-      "_xlsxPath": "templates/library/picture_books.xlsx"
+      "_xlsxPath": "books/picture_books.xlsx"
     },
     "book_image": {
       "flow_type": "template",
       "flow_name": "book_image",
-      "_xlsxPath": "templates/library/picture_books.xlsx"
+      "_xlsxPath": "books/picture_books.xlsx"
     },
     "book_page": {
       "flow_type": "template",
       "flow_name": "book_page",
-      "_xlsxPath": "templates/library/picture_books.xlsx"
+      "_xlsxPath": "books/picture_books.xlsx"
     },
     "box_duo": {
       "flow_type": "template",
@@ -5650,7 +5650,7 @@
     "lib_books": {
       "flow_type": "template",
       "flow_name": "lib_books",
-      "_xlsxPath": "templates/library/library_page.xlsx"
+      "_xlsxPath": "books/library_page.xlsx"
     },
     "library": {
       "flow_type": "template",
@@ -5687,6 +5687,11 @@
       "flow_name": "nav_buttons",
       "_xlsxPath": "TZ app_navigation.xlsx"
     },
+    "nav_buttons_round": {
+      "flow_type": "template",
+      "flow_name": "nav_buttons_round",
+      "_xlsxPath": "TZ app_navigation.xlsx"
+    },
     "pair": {
       "flow_type": "template",
       "flow_name": "pair",
@@ -5695,7 +5700,7 @@
     "picture_books": {
       "flow_type": "template",
       "flow_name": "picture_books",
-      "_xlsxPath": "templates/library/picture_books.xlsx"
+      "_xlsxPath": "books/picture_books.xlsx"
     },
     "pop_up_text": {
       "flow_type": "template",
@@ -5715,12 +5720,12 @@
     "relax": {
       "flow_type": "template",
       "flow_name": "relax",
-      "_xlsxPath": "templates/library/relax_activities.xlsx"
+      "_xlsxPath": "templates/relax_activities.xlsx"
     },
     "relax_activities": {
       "flow_type": "template",
       "flow_name": "relax_activities",
-      "_xlsxPath": "templates/library/relax_activities.xlsx"
+      "_xlsxPath": "templates/relax_activities.xlsx"
     },
     "relax_animation": {
       "flow_type": "template",
@@ -5730,7 +5735,7 @@
     "relax_card": {
       "flow_type": "template",
       "flow_name": "relax_card",
-      "_xlsxPath": "templates/library/relax_activities.xlsx"
+      "_xlsxPath": "templates/relax_activities.xlsx"
     },
     "resource_centre": {
       "flow_type": "template",
