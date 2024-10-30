@@ -1194,7 +1194,7 @@
         {
           "type": "template",
           "name": "nav_buttons",
-          "value": "nav_buttons",
+          "value": "nav_buttons_round",
           "action_list": [
             {
               "trigger": "completed",
