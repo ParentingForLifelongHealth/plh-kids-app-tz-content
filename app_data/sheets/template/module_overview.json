@@ -215,8 +215,15 @@
       }
     },
     {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_11",
+      "_nested_name": "set_variable_11"
+    },
+    {
       "type": "items",
       "value": "@data.@local.category_data",
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "template",

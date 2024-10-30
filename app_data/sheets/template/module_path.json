@@ -11,6 +11,7 @@
           "tz_sw": true
         }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "modules_data_list_name"
     },
@@ -20,12 +21,14 @@
       "parameter_list": {
         "style": "column"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "progress_path",
           "parameter_list": {
             "variant": "basic"
           },
+          "exclude_from_translation": true,
           "rows": [
             {
               "type": "items",

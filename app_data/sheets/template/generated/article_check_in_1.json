@@ -27,6 +27,7 @@
           "_cleaned": "uncompleted | emit: uncompleted"
         }
       ],
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "data",
@@ -44,6 +45,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "article.article_id"
         },
@@ -84,6 +86,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "article.question_1.radio_button_grid_width"
             }

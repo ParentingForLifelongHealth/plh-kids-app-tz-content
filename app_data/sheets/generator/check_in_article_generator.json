@@ -33,6 +33,7 @@
           "_cleaned": "uncompleted | emit: uncompleted"
         }
       ],
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "data",
@@ -41,7 +42,8 @@
         },
         {
           "name": "article_id",
-          "value": "@gen.id"
+          "value": "@gen.id",
+          "exclude_from_translation": true
         },
         {
           "type": "nested_properties",
@@ -63,7 +65,8 @@
           "rows": [
             {
               "name": "radio_button_grid_width",
-              "value": "100%"
+              "value": "100%",
+              "exclude_from_translation": true
             }
           ]
         }

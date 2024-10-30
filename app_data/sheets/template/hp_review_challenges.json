@@ -454,7 +454,6 @@
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "text_other_challenge"
     },
@@ -479,6 +478,7 @@
         }
       ],
       "condition": "@local.number_of_challenges == 3",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
@@ -576,6 +576,7 @@
         }
       ],
       "condition": "@local.number_of_challenges == 4",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
@@ -690,6 +691,7 @@
         }
       ],
       "condition": "@local.number_of_challenges == 5",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
@@ -821,6 +823,7 @@
         }
       ],
       "condition": "@local.number_of_challenges == 6",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
@@ -969,6 +972,7 @@
         }
       ],
       "condition": "@local.number_of_challenges == 7",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
@@ -1095,6 +1099,7 @@
     },
     {
       "name": "combo_box",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "combo_box"
     },
