@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Act the story",
+      "value": "Act the Story",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
@@ -50,27 +48,14 @@
     },
     {
       "name": "text_2",
-      "value": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the @global.app_name library and let your child choose a book, read it together and then act out the story.",
+      "value": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the ParentApp library and let your child choose a book, read it together and then act out the story.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
-      "_nested_name": "text_2",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the @global.app_name library and let your child choose a book, read it together and then act out the story.",
-            "matchedExpression": "@global.app_name",
-            "type": "global",
-            "fieldName": "app_name"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.app_name": [
-          "value"
-        ]
-      }
+      "_nested_name": "text_2"
     },
     {
       "name": "title_1",

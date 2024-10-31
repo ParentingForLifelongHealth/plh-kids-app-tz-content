@@ -14,7 +14,7 @@
     },
     {
       "type": "button",
-      "count": 30
+      "count": 29
     },
     {
       "type": "carousel",
@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 501
+      "count": 503
     },
     {
       "type": "task_card",
@@ -70,11 +70,11 @@
     },
     {
       "type": "template",
-      "count": 417
+      "count": 392
     },
     {
       "type": "text",
-      "count": 91
+      "count": 73
     },
     {
       "type": "text_area",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 406
+      "count": 381
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 404
+      "count": 379
     },
     {
       "type": "feedback",
@@ -162,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "61901 KB",
-      "MB": "61.9 MB"
+      "KB": "61784 KB",
+      "MB": "61.8 MB"
     },
     {
       "assets": "unused",
-      "KB": "1113 KB",
-      "MB": "1.1 MB"
+      "KB": "1230 KB",
+      "MB": "1.2 MB"
     }
   ],
   "assets_unused": [
@@ -291,6 +291,10 @@
     {
       "path": "images/icons/thought_bubble.svg",
       "size_kb": 2.1
+    },
+    {
+      "path": "images/learning_through_play/music_dancing.svg",
+      "size_kb": 117.2
     },
     {
       "path": "images/logos/favicon.png",
@@ -1312,6 +1316,11 @@
     {
       "path": "images/books/very_green_day/image_9.jpg",
       "count": 1,
+      "missing": true
+    },
+    {
+      "path": "images/learning_through_play/music_dancing .svg",
+      "count": 2,
       "missing": true
     },
     {
@@ -5672,11 +5681,6 @@
       "size_kb": 149.5
     },
     {
-      "path": "images/learning_through_play/music_dancing.svg",
-      "count": 2,
-      "size_kb": 117.2
-    },
-    {
       "path": "images/learning_through_play/pattern_play_1.svg",
       "count": 2,
       "size_kb": 102.2
@@ -6148,7 +6152,7 @@
     },
     {
       "path": "images/relax/relax_man.svg",
-      "count": 28,
+      "count": 29,
       "size_kb": 27
     },
     {
@@ -6196,7 +6200,7 @@
     {
       "type": "generator",
       "subtype": null,
-      "total": 25
+      "total": 22
     },
     {
       "type": "global",
@@ -6211,7 +6215,7 @@
     {
       "type": "template",
       "subtype": "generated",
-      "total": 422
+      "total": 380
     },
     {
       "type": "template",

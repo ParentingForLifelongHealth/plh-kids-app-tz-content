@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "The things that make me happy",
+      "value": "The Things That Make Me Happy",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
@@ -29,32 +27,26 @@
     {
       "type": "text",
       "name": "intro_text",
-      "value": "Take a moment to think about something that brought you joy this week. Look for objects around you that can represent something that made you happy and discuss it.",
+      "value": "Think about something that brought you joy this week. Look for objects around your house that represent what made you happy and share it with your family.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "intro_text"
     },
     {
       "name": "text_1",
-      "value": "1. Ask each person to think about one (or more) things that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy.",
+      "value": "1. Ask each person to think about something that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "text_1"
     },
     {
       "name": "text_2",
-      "value": "* If they can’t find an object that works, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context.",
+      "value": "* If someone can’t find a suitable object, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "text_2"

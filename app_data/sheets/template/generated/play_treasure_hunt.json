@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Treasure hunt",
+      "value": "Treasure Hunt",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

@@ -300,7 +300,8 @@
           },
           "condition": "!!(@local.prepare_data.media_title)",
           "parameter_list": {
-            "title": "@local.media_title"
+            "title": "@local.media_title",
+            "transcript_text": "@local.prepare_data.media_transcript"
           },
           "exclude_from_translation": true,
           "_nested_name": "audio.media_asset",
@@ -329,6 +330,14 @@
                   "type": "local",
                   "fieldName": "media_title"
                 }
+              ],
+              "transcript_text": [
+                {
+                  "fullExpression": "@local.prepare_data.media_transcript",
+                  "matchedExpression": "@local.prepare_data.media_transcript",
+                  "type": "local",
+                  "fieldName": "prepare_data"
+                }
               ]
             }
           },
@@ -341,6 +350,9 @@
             ],
             "@local.media_title": [
               "parameter_list.title"
+            ],
+            "@local.prepare_data.media_transcript": [
+              "parameter_list.transcript_text"
             ]
           }
         },
@@ -352,6 +364,9 @@
             "value": {}
           },
           "condition": "!(@local.prepare_data.media_title)",
+          "parameter_list": {
+            "transcript_text": "@local.prepare_data.media_transcript"
+          },
           "exclude_from_translation": true,
           "_nested_name": "audio.media_asset",
           "_dynamicFields": {
@@ -370,7 +385,17 @@
                 "type": "local",
                 "fieldName": "prepare_data"
               }
-            ]
+            ],
+            "parameter_list": {
+              "transcript_text": [
+                {
+                  "fullExpression": "@local.prepare_data.media_transcript",
+                  "matchedExpression": "@local.prepare_data.media_transcript",
+                  "type": "local",
+                  "fieldName": "prepare_data"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@local.prepare_data.media_asset": [
@@ -378,6 +403,9 @@
             ],
             "@local.prepare_data.media_title": [
               "condition"
+            ],
+            "@local.prepare_data.media_transcript": [
+              "parameter_list.transcript_text"
             ]
           }
         }
@@ -400,102 +428,10 @@
       }
     },
     {
-      "name": "text_pop_up",
-      "value": "@local.prepare_data.media_transcript",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "text_pop_up",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.prepare_data.media_transcript",
-            "matchedExpression": "@local.prepare_data.media_transcript",
-            "type": "local",
-            "fieldName": "prepare_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.prepare_data.media_transcript": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "media_transcript",
-      "value": "Read the transcript",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      },
-      "action": "click | set_field: text_pop_up: @local.text_pop_up;\nclick | pop_up: text_pop_up",
-      "condition": "!!(@local.prepare_data.media_transcript)",
       "exclude_from_translation": false,
-      "_nested_name": "media_transcript",
-      "_dynamicFields": {
-        "action": [
-          {
-            "fullExpression": "click | set_field: text_pop_up: @local.text_pop_up;\nclick | pop_up: text_pop_up",
-            "matchedExpression": "@local.text_pop_up",
-            "type": "local",
-            "fieldName": "text_pop_up"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "!!(@local.prepare_data.media_transcript)",
-            "matchedExpression": "@local.prepare_data.media_transcript",
-            "type": "local",
-            "fieldName": "prepare_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.text_pop_up": [
-          "action"
-        ],
-        "@local.prepare_data.media_transcript": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "text",
-      "value": "@local.prepare_data.text",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "!!(@local.prepare_data.text)",
-      "_nested_name": "text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.prepare_data.text",
-            "matchedExpression": "@local.prepare_data.text",
-            "type": "local",
-            "fieldName": "prepare_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "!!(@local.prepare_data.text)",
-            "matchedExpression": "@local.prepare_data.text",
-            "type": "local",
-            "fieldName": "prepare_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.prepare_data.text": [
-          "value",
-          "condition"
-        ]
-      }
+      "type": "set_variable",
+      "name": "set_variable_15",
+      "_nested_name": "set_variable_15"
     }
   ],
   "_xlsxPath": "books/TZ prepare templates.xlsx"

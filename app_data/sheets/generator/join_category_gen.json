@@ -51,7 +51,12 @@
   "_xlsxPath": "modules/TZ categories template generators.xlsx",
   "_output_flows": [
     {
-      "flow_name": "category_join_relax_intro",
+      "flow_name": "category_join_relax_intro_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "category_join_relax_intro_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

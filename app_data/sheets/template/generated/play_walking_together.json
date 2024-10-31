@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Walking together",
+      "value": "Walking Together",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

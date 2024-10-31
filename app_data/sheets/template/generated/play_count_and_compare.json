@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Count and compare",
+      "value": "Count and Compare",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

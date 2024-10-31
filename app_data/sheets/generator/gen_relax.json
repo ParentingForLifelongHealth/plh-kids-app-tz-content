@@ -162,6 +162,11 @@
       "flow_name": "article_relax_24",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "article_relax_25",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }

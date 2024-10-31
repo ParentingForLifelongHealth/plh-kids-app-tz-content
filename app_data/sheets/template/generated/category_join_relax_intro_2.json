@@ -1,12 +1,12 @@
 {
-  "flow_name": "article_join_relax_intro",
+  "flow_name": "category_join_relax_intro_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "article",
-      "value": "article",
+      "name": "category",
+      "value": "category",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,13 +29,14 @@
       ],
       "rows": [
         {
-          "name": "article_id",
-          "value": "relax_intro",
+          "name": "category_id",
+          "value": "relax_intro_2",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "article.article_id"
+          "_nested_name": "category.category_id"
         },
         {
           "name": "module_id",
@@ -45,10 +46,10 @@
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "article.module_id"
+          "_nested_name": "category.module_id"
         }
       ],
-      "_nested_name": "article"
+      "_nested_name": "category"
     }
   ]
 }

@@ -5,9 +5,32 @@
   "status": "released",
   "rows": [
     {
-      "id": "relax_intro",
+      "id": "relax_intro_1",
       "category_id": "relax",
-      "attached_single_doc": "https://docs.google.com/document/d/14tosyClbj4_AdiiHF1ukwTYZ5h_5fftTy1u5j4GpaoE"
+      "attached_single_doc": "https://docs.google.com/document/d/14tosyClbj4_AdiiHF1ukwTYZ5h_5fftTy1u5j4GpaoE",
+      "text_1": "Being a parent is stressful!",
+      "_translations": {
+        "text_1": {},
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Being a parent is stressful!"
+        },
+        "text_1_facilitator": {
+          "eng": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children."
+        },
+        "text_2": {
+          "eng": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself."
+        }
+      },
+      "text_1_facilitator": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children.",
+      "text_2": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself."
+    },
+    {
+      "id": "relax_intro_2",
+      "category_id": "relax"
     },
     {
       "id": "welcome_1",

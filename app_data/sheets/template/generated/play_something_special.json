@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Something special",
+      "value": "Something Special",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Favourite play",
+      "value": "Favourite Play",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

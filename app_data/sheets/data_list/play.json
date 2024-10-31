@@ -7,56 +7,46 @@
     {
       "id": "happy_things",
       "image_asset": "images/learning_through_play/happy_things.svg",
-      "group_id_list": [
-        "chat_together"
+      "play_tag_list": [
+        "chat"
       ],
       "favourite_field": "ltp_activity_happy_things_favourite",
       "attached_single_doc": "https://docs.google.com/document/d/14PKBirF5ZormMBOB6TQ77bioryt7dMUrQAqIryvWA48",
-      "title": "The things that make me happy",
+      "title": "The Things That Make Me Happy",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "intro_text": {
-          "tz_sw": true
-        },
-        "resources_text": {
-          "tz_sw": true
-        },
-        "steps_text": {
-          "tz_sw": true
-        },
-        "tips_text": {
-          "tz_sw": true
-        }
+        "title": {},
+        "intro_text": {},
+        "resources_text": {},
+        "steps_text": {},
+        "tips_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "The things that make me happy"
+          "eng": "The Things That Make Me Happy"
         },
         "intro_text": {
-          "eng": "Take a moment to think about something that brought you joy this week. Look for objects around you that can represent something that made you happy and discuss it."
+          "eng": "Think about something that brought you joy this week. Look for objects around your house that represent what made you happy and share it with your family."
         },
         "resources_text": {
-          "eng": "A box, basket, container, bucket, bag and any other objects that are available around their environment."
+          "eng": "Box; basket; container; bucket; bag; other available objects"
         },
         "steps_text": {
-          "eng": "1. Ask each person to think about one (or more) things that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy."
+          "eng": "1. Ask each person to think about something that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy."
         },
         "tips_text": {
-          "eng": "* If they can’t find an object that works, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context."
+          "eng": "* If someone can’t find a suitable object, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context."
         }
       },
-      "intro_text": "Take a moment to think about something that brought you joy this week. Look for objects around you that can represent something that made you happy and discuss it.",
-      "resources_text": "A box, basket, container, bucket, bag and any other objects that are available around their environment.",
-      "steps_text": "1. Ask each person to think about one (or more) things that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy.",
-      "tips_text": "* If they can’t find an object that works, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context."
+      "intro_text": "Think about something that brought you joy this week. Look for objects around your house that represent what made you happy and share it with your family.",
+      "resources_text": "Box; basket; container; bucket; bag; other available objects",
+      "steps_text": "1. Ask each person to think about something that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy.",
+      "tips_text": "* If someone can’t find a suitable object, they can draw something on a piece of paper and place it in the box.  \n* For younger children, you might need to discuss some examples and ideas for objects before starting the game in a group context."
     },
     {
       "id": "gardening",
       "image_asset": "images/learning_through_play/gardening.svg",
-      "group_id_list": [
-        "everyday_activities"
+      "play_tag_list": [
+        "everyday"
       ],
       "favourite_field": "ltp_activity_gardening_favourite",
       "title": "Gardening",
@@ -95,16 +85,14 @@
     {
       "id": "something_special",
       "image_asset": "images/learning_through_play/something_special.svg",
-      "group_id_list": [
+      "play_tag_list": [
         "everyday",
-        "pretend_play"
+        "pretend"
       ],
       "favourite_field": "ltp_activity_something_special_favourite",
-      "title": "Something special",
+      "title": "Something Special",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -117,7 +105,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Something special"
+          "eng": "Something Special"
         },
         "intro_text": {
           "eng": "Small acts of kindness can have a big impact. This activity helps children to think about others and what they can do to bring joy to someone’s day."
@@ -136,15 +124,13 @@
     {
       "id": "what_makes_us_special",
       "image_asset": "images/learning_through_play/makes_us_special.svg",
-      "group_id_list": [
-        "chat_together"
+      "play_tag_list": [
+        "chat"
       ],
       "favourite_field": "ltp_activity_what_makes_us_special_favourite",
-      "title": "What makes us special",
+      "title": "What Makes Us Special",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -157,7 +143,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "What makes us special"
+          "eng": "What Makes Us Special"
         },
         "intro_text": {
           "eng": "All children have strengths that make them special and unique. Telling your child what you appreciate about them helps them feel valued and confident. This shows them to recognise strengths in others too."
@@ -176,15 +162,13 @@
     {
       "id": "pattern_play",
       "image_asset": "images/learning_through_play/pattern_play_1.svg",
-      "group_id_list": [
-        "learning_at_home"
+      "play_tag_list": [
+        "home"
       ],
       "favourite_field": "ltp_activity_pattern_play_favourite",
-      "title": "Pattern play",
+      "title": "Pattern Play",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -200,7 +184,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Pattern play"
+          "eng": "Pattern Play"
         },
         "intro_text": {
           "eng": "Create patterns with everyday objects around the house. This is a great way to develop your child’s learning skills while having fun together."
@@ -223,15 +207,13 @@
     {
       "id": "cooking_together",
       "image_asset": "images/learning_through_play/cooking_together.svg",
-      "group_id_list": [
-        "everyday_activities"
+      "play_tag_list": [
+        "everyday"
       ],
       "favourite_field": "ltp_activity_cooking_together_favourite",
-      "title": "Cooking together",
+      "title": "Cooking Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -244,7 +226,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Cooking together"
+          "eng": "Cooking Together"
         },
         "intro_text": {
           "eng": "Cooking together is a wonderful opportunity to talk and connect, while also teaching your child how to plan, use their hands and work together."
@@ -263,15 +245,13 @@
     {
       "id": "household_helpers",
       "image_asset": "images/learning_through_play/household_helpers.svg",
-      "group_id_list": [
-        "everyday_activities"
+      "play_tag_list": [
+        "everyday"
       ],
       "favourite_field": "ltp_activity_household_helpers_favourite",
-      "title": "Household helpers",
+      "title": "Household Helpers",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -284,7 +264,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Household helpers"
+          "eng": "Household Helpers"
         },
         "intro_text": {
           "eng": "Including your child in household chores provides an opportunity for bonding and teamwork – especially when you think of ways to make it fun."
@@ -302,17 +282,15 @@
     },
     {
       "id": "music_and_dancing",
-      "image_asset": "images/learning_through_play/music_dancing.svg",
-      "group_id_list": [
-        "everyday_activities",
-        "move_your_body"
+      "image_asset": "images/learning_through_play/music_dancing .svg",
+      "play_tag_list": [
+        "everyday",
+        "move"
       ],
       "favourite_field": "ltp_activity_music_and_dancing_favourite",
-      "title": "Music and dancing",
+      "title": "Music and Dancing",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -325,7 +303,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Music and dancing"
+          "eng": "Music and Dancing"
         },
         "intro_text": {
           "eng": "Dancing and music activities are a fun way to connect with your child and a great way to get exercise."
@@ -344,16 +322,14 @@
     {
       "id": "walking_together",
       "image_asset": "images/learning_through_play/walking_together.svg",
-      "group_id_list": [
-        "everyday_activities",
-        "move_your_body"
+      "play_tag_list": [
+        "everyday",
+        "move"
       ],
       "favourite_field": "ltp_activity_walking_together_favourite",
-      "title": "Walking together",
+      "title": "Walking Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -366,7 +342,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Walking together"
+          "eng": "Walking Together"
         },
         "intro_text": {
           "eng": "Walking around your community is an easy and fun way to spend quality time together."
@@ -384,15 +360,13 @@
     },
     {
       "id": "story",
-      "group_id_list": [
-        "chat_together"
+      "play_tag_list": [
+        "chat"
       ],
       "favourite_field": "ltp_activity_story_favourite",
-      "title": "Make up a story together",
+      "title": "Make Up a Story Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -405,7 +379,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Make up a story together"
+          "eng": "Make Up a Story Together"
         },
         "intro_text": {
           "eng": "Creating a story together with your child is a great way to develop their listening skills, practice turn-taking and encourage their imagination."
@@ -423,16 +397,14 @@
     },
     {
       "id": "simon_says",
-      "group_id_list": [
-        "move_your_body",
-        "learning_at_home"
+      "play_tag_list": [
+        "move",
+        "home"
       ],
       "favourite_field": "ltp_activity_simon_says_favourite",
-      "title": "Simon says",
+      "title": "Simon Says",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -445,7 +417,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Simon says"
+          "eng": "Simon Says"
         },
         "intro_text": {
           "eng": "This fun game helps your child to learn how to listen and follow instructions."
@@ -463,15 +435,13 @@
     },
     {
       "id": "when_I_grow_up",
-      "group_id_list": [
-        "chat_together"
+      "play_tag_list": [
+        "chat"
       ],
       "favourite_field": "ltp_activity_when_I_grow_up_favourite",
-      "title": "When I grow up",
+      "title": "When I Grow Up",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -484,7 +454,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "When I grow up"
+          "eng": "When I Grow Up"
         },
         "intro_text": {
           "eng": "A fun way to encourage your child to dream about their future, is to ask them what they want to be when they grow up."
@@ -502,15 +472,13 @@
     },
     {
       "id": "favourite_play",
-      "group_id_list": [
-        "learning_at_home"
+      "play_tag_list": [
+        "home"
       ],
       "favourite_field": "ltp_activity_favourite_play_favourite",
-      "title": "Favourite play",
+      "title": "Favourite Play",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -523,7 +491,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Favourite play"
+          "eng": "Favourite Play"
         },
         "intro_text": {
           "eng": "All adults were children once! Sharing the games or activities you loved as a child with your own child is a great way to connect and have fun together."
@@ -541,27 +509,27 @@
     },
     {
       "id": "act_the_story",
-      "group_id_list": [
-        "pretend_play",
-        "move_your_body"
+      "play_tag_list": [
+        "pretend",
+        "move"
       ],
       "favourite_field": "ltp_activity_act_the_story_favourite",
-      "title": "Act the story",
+      "title": "Act the Story",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
         "steps_text": {
           "tz_sw": true
         },
-        "tips_text": {}
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Act the story"
+          "eng": "Act the Story"
         },
         "intro_text": {
           "eng": "Children love playing pretend. Acting out a story together is a great way to help children learn to be creative and work towards a common goal."
@@ -570,25 +538,23 @@
           "eng": "1. Choose a story your child knows and decide who will play which character.\n2. Discuss together what you will need to recreate the story. Household objects can be things in the story, and different areas can be different places. \n3. Tell the story and act it out together. You can do silly voices and actions for each character, and move around your home and garden or outside space."
         },
         "tips_text": {
-          "eng": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the @global.app_name library and let your child choose a book, read it together and then act out the story."
+          "eng": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the ParentApp library and let your child choose a book, read it together and then act out the story."
         }
       },
       "intro_text": "Children love playing pretend. Acting out a story together is a great way to help children learn to be creative and work towards a common goal.",
       "steps_text": "1. Choose a story your child knows and decide who will play which character.\n2. Discuss together what you will need to recreate the story. Household objects can be things in the story, and different areas can be different places. \n3. Tell the story and act it out together. You can do silly voices and actions for each character, and move around your home and garden or outside space.",
-      "tips_text": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the @global.app_name library and let your child choose a book, read it together and then act out the story."
+      "tips_text": "* You can also make up new parts of the story, adding new characters or events.\n* You can introduce challenges that your characters need to overcome. This helps your child to learn problem-solving.\n* If you need inspiration, go to the ParentApp library and let your child choose a book, read it together and then act out the story."
     },
     {
       "id": "shadow_movie",
-      "group_id_list": [
-        "learning_at_home",
-        "pretend_play"
+      "play_tag_list": [
+        "home",
+        "pretend"
       ],
       "favourite_field": "ltp_activity_shadow_movie_favourite",
-      "title": "Shadow movie",
+      "title": "Shadow Movie",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -601,7 +567,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Shadow movie"
+          "eng": "Shadow Movie"
         },
         "intro_text": {
           "eng": "Play with the shadows of different objects against a wall to create your own movie or story."
@@ -619,16 +585,14 @@
     },
     {
       "id": "build_a_road",
-      "group_id_list": [
-        "pretend_play",
-        "learning_at_home"
+      "play_tag_list": [
+        "pretend",
+        "home"
       ],
       "favourite_field": "ltp_activity_build_a_road_favourite",
-      "title": "Build a road",
+      "title": "Build a Road",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -641,7 +605,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Build a road"
+          "eng": "Build a Road"
         },
         "intro_text": {
           "eng": "Build a road through your house or garden, using everyday objects in creative ways. This fun activity will develop motor, creative and problem-solving skills."
@@ -659,16 +623,14 @@
     },
     {
       "id": "animal_strengths",
-      "group_id_list": [
-        "pretend_play",
-        "move_your_body"
+      "play_tag_list": [
+        "pretend",
+        "move"
       ],
       "favourite_field": "ltp_activity_animal_strengths_favourite",
-      "title": "Animal strengths",
+      "title": "Animal Strengths",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -681,7 +643,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Animal strengths"
+          "eng": "Animal Strengths"
         },
         "intro_text": {
           "eng": "Let your imaginations run wild with this fun animal game. Let your child choose what animal they would like to pretend to be and join them in the fun."
@@ -699,15 +661,13 @@
     },
     {
       "id": "treasure_hunt",
-      "group_id_list": [
-        "learning_at_home"
+      "play_tag_list": [
+        "home"
       ],
       "favourite_field": "ltp_activity_treasure_hunt_favourite",
-      "title": "Treasure hunt",
+      "title": "Treasure Hunt",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -723,7 +683,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Treasure hunt"
+          "eng": "Treasure Hunt"
         },
         "intro_text": {
           "eng": "Set out on an adventure to find different objects or “treasures”. This is a great way to help your child learn as they explore their surroundings."
@@ -745,15 +705,13 @@
     },
     {
       "id": "search_with_senses",
-      "group_id_list": [
-        "learning_at_home"
+      "play_tag_list": [
+        "home"
       ],
       "favourite_field": "ltp_activity_search_with_senses_favourite",
-      "title": "Search with your senses",
+      "title": "Search With Your Senses",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -766,7 +724,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Search with your senses"
+          "eng": "Search With Your Senses"
         },
         "intro_text": {
           "eng": "Engage all your senses by identifying things around you that you and your child can touch, hear, see, taste and smell."
@@ -784,15 +742,13 @@
     },
     {
       "id": "count_and_compare",
-      "group_id_list": [
-        "learning_at_home"
+      "play_tag_list": [
+        "home"
       ],
       "favourite_field": "ltp_activity_count_and_compare_favourite",
-      "title": "Count and compare",
+      "title": "Count and Compare",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -808,7 +764,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Count and compare"
+          "eng": "Count and Compare"
         },
         "intro_text": {
           "eng": "There are lots of opportunities around your home or during everyday activities to count and compare objects. This is a great way to build your child’s numeracy skills, which helps them at school."
@@ -830,15 +786,13 @@
     },
     {
       "id": "mystery_box",
-      "group_id_list": [
-        "learning_at_home"
+      "play_tag_list": [
+        "home"
       ],
       "favourite_field": "ltp_activity_mystery_box_favourite",
-      "title": "Mystery box",
+      "title": "Mystery Box",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {
           "tz_sw": true
         },
@@ -854,7 +808,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Mystery box"
+          "eng": "Mystery Box"
         },
         "intro_text": {
           "eng": "Mystery Box is a fun game where you place an object inside a box, and let your child ask questions to figure out what the object is."

@@ -6,7 +6,7 @@
 | accordion | 22 |
 | animated_section | 2 |
 | audio | 1 |
-| button | 30 |
+| button | 29 |
 | carousel | 2 |
 | combo_box | 2 |
 | data_items | 1 |
@@ -17,11 +17,11 @@
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 501 |
+| set_variable | 503 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 417 |
-| text | 91 |
+| template | 392 |
+| text | 73 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
@@ -36,13 +36,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 406 |
+| emit: completed | 381 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 404 |
+| emit: uncompleted | 379 |
 | feedback | 7 |
 | go_to | 11 |
 | pop_up | 12 |
@@ -56,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 61901 KB | 61.9 MB |
-| unused | 1113 KB | 1.1 MB |
+| total | 61784 KB | 61.8 MB |
+| unused | 1230 KB | 1.2 MB |
 </details>
 
 <details open>
@@ -97,6 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_blue.svg | 1 |
 | images/icons/star_outline_white.svg | 1 |
 | images/icons/thought_bubble.svg | 2.1 |
+| images/learning_through_play/music_dancing.svg | 117.2 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | images/relax/relax_woman.svg | 14.8 |
@@ -311,6 +312,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_7.jpg | 1 |
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
+| images/learning_through_play/music_dancing .svg | 2 |
 | images/modules/build/build_title_image.svg | 2 |
 | images/modules/care/care_title_image.svg | 2 |
 | images/modules/explore/explore_title_image.svg | 2 |
@@ -1191,7 +1193,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/learning_through_play/happy_things.svg | 172.3 | 2 |
 | images/learning_through_play/household_helpers.svg | 334.6 | 2 |
 | images/learning_through_play/makes_us_special.svg | 149.5 | 2 |
-| images/learning_through_play/music_dancing.svg | 117.2 | 2 |
 | images/learning_through_play/pattern_play_1.svg | 102.2 | 2 |
 | images/learning_through_play/something_special.svg | 192.1 | 2 |
 | images/learning_through_play/walking_together.svg | 239.5 | 2 |
@@ -1286,7 +1287,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/using_books_5.svg | 107.6 | 3 |
 | images/modules/play/why_play_1.svg | 28.9 | 3 |
 | images/modules/play/why_play_2.svg | 136.9 | 3 |
-| images/relax/relax_man.svg | 27 | 28 |
+| images/relax/relax_man.svg | 27 | 29 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 </details>
 
@@ -1302,9 +1303,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 6 |
 | data_pipe | generated | 26 |
-| generator |  | 25 |
+| generator |  | 22 |
 | global |  | 2 |
 | template |  | 51 |
-| template | generated | 422 |
+| template | generated | 380 |
 | template | legal_terms | 4 |
 </details>
