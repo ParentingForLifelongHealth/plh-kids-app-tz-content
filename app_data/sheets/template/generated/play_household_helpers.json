@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Household helpers",
+      "value": "Household Helpers",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

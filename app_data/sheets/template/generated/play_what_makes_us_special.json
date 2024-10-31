@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "What makes us special",
+      "value": "What Makes Us Special",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

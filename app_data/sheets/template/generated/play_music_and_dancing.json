@@ -6,18 +6,16 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Music and dancing",
+      "value": "Music and Dancing",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
     {
       "type": "image",
       "name": "image_asset",
-      "value": "images/learning_through_play/music_dancing.svg",
+      "value": "images/learning_through_play/music_dancing .svg",
       "_translations": {
         "value": {}
       },

@@ -1,0 +1,22 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "relax_tags",
+  "data_list_name": "relax_tags",
+  "status": "released",
+  "rows": [
+    {
+      "id": "breathe",
+      "attached_single_doc": "https://docs.google.com/document/d/1MDFWDVQQTJup3SqAXtRZytcKHCcI59tnecKlaPZZwpE"
+    },
+    {
+      "id": "reflect"
+    },
+    {
+      "id": "notice"
+    },
+    {
+      "id": "move"
+    }
+  ],
+  "_xlsxPath": "modules/TZ relax.xlsx"
+}

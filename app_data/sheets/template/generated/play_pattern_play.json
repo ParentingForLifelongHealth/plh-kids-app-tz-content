@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Pattern play",
+      "value": "Pattern Play",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

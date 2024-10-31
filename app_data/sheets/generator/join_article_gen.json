@@ -49,7 +49,12 @@
   "_xlsxPath": "modules/TZ articles template generators.xlsx",
   "_output_flows": [
     {
-      "flow_name": "article_join_relax_intro",
+      "flow_name": "article_join_relax_intro_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_join_relax_intro_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

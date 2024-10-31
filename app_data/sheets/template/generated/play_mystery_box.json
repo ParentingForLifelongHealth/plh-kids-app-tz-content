@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Mystery box",
+      "value": "Mystery Box",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

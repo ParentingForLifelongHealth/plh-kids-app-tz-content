@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Build a road",
+      "value": "Build a Road",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },

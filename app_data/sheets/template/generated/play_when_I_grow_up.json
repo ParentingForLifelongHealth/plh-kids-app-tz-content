@@ -6,11 +6,9 @@
     {
       "type": "title",
       "name": "title",
-      "value": "When I grow up",
+      "value": "When I Grow Up",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
