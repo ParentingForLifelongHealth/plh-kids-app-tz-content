@@ -4,6 +4,30 @@
   "status": "released",
   "rows": [
     {
+      "name": "speaker_image_asset",
+      "value": "@global.facilitator_face_asset",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "speaker_image_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.facilitator_face_asset",
+            "matchedExpression": "@global.facilitator_face_asset",
+            "type": "global",
+            "fieldName": "facilitator_face_asset"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.facilitator_face_asset": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "article_id",
       "value": "intro_connect_child",
       "_translations": {
@@ -259,8 +283,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_14",
-      "_nested_name": "set_variable_14"
+      "name": "set_variable_15",
+      "_nested_name": "set_variable_15"
     },
     {
       "name": "text",
@@ -566,8 +590,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_25",
-      "_nested_name": "set_variable_25"
+      "name": "set_variable_26",
+      "_nested_name": "set_variable_26"
     },
     {
       "name": "option_no_2",
@@ -843,8 +867,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_33",
-      "_nested_name": "set_variable_33"
+      "name": "set_variable_34",
+      "_nested_name": "set_variable_34"
     },
     {
       "name": "option_no_3",
@@ -1120,8 +1144,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_41",
-      "_nested_name": "set_variable_41"
+      "name": "set_variable_42",
+      "_nested_name": "set_variable_42"
     },
     {
       "name": "option_no_4",
@@ -1397,8 +1421,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_49",
-      "_nested_name": "set_variable_49"
+      "name": "set_variable_50",
+      "_nested_name": "set_variable_50"
     },
     {
       "name": "option_no_5",
@@ -1674,8 +1698,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_57",
-      "_nested_name": "set_variable_57"
+      "name": "set_variable_58",
+      "_nested_name": "set_variable_58"
     },
     {
       "name": "option_no_6",
@@ -1951,8 +1975,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_65",
-      "_nested_name": "set_variable_65"
+      "name": "set_variable_66",
+      "_nested_name": "set_variable_66"
     },
     {
       "name": "answer_list_1",
@@ -2492,6 +2516,31 @@
           "exclude_from_translation": true,
           "rows": [
             {
+              "name": "speaker_image_asset",
+              "value": "@local.speaker_image_asset",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_feedback.option_1.speaker_image_asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.speaker_image_asset",
+                    "matchedExpression": "@local.speaker_image_asset",
+                    "type": "local",
+                    "fieldName": "speaker_image_asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.speaker_image_asset": [
+                  "value"
+                ]
+              }
+            },
+            {
               "name": "article_id",
               "value": "@local.article_id",
               "_translations": {
@@ -2623,6 +2672,31 @@
           "condition": "@local.selection_tool==\"option_2\"",
           "exclude_from_translation": true,
           "rows": [
+            {
+              "name": "speaker_image_asset",
+              "value": "@local.speaker_image_asset",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_feedback.option_2.speaker_image_asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.speaker_image_asset",
+                    "matchedExpression": "@local.speaker_image_asset",
+                    "type": "local",
+                    "fieldName": "speaker_image_asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.speaker_image_asset": [
+                  "value"
+                ]
+              }
+            },
             {
               "name": "article_id",
               "value": "@local.article_id",
@@ -2756,6 +2830,31 @@
           "exclude_from_translation": true,
           "rows": [
             {
+              "name": "speaker_image_asset",
+              "value": "@local.speaker_image_asset",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_feedback.option_3.speaker_image_asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.speaker_image_asset",
+                    "matchedExpression": "@local.speaker_image_asset",
+                    "type": "local",
+                    "fieldName": "speaker_image_asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.speaker_image_asset": [
+                  "value"
+                ]
+              }
+            },
+            {
               "name": "article_id",
               "value": "@local.article_id",
               "_translations": {
@@ -2887,6 +2986,31 @@
           "condition": "@local.selection_tool==\"option_4\"",
           "exclude_from_translation": true,
           "rows": [
+            {
+              "name": "speaker_image_asset",
+              "value": "@local.speaker_image_asset",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_feedback.option_4.speaker_image_asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.speaker_image_asset",
+                    "matchedExpression": "@local.speaker_image_asset",
+                    "type": "local",
+                    "fieldName": "speaker_image_asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.speaker_image_asset": [
+                  "value"
+                ]
+              }
+            },
             {
               "name": "article_id",
               "value": "@local.article_id",
@@ -3020,6 +3144,31 @@
           "exclude_from_translation": true,
           "rows": [
             {
+              "name": "speaker_image_asset",
+              "value": "@local.speaker_image_asset",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_feedback.option_5.speaker_image_asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.speaker_image_asset",
+                    "matchedExpression": "@local.speaker_image_asset",
+                    "type": "local",
+                    "fieldName": "speaker_image_asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.speaker_image_asset": [
+                  "value"
+                ]
+              }
+            },
+            {
               "name": "article_id",
               "value": "@local.article_id",
               "_translations": {
@@ -3151,6 +3300,31 @@
           "condition": "@local.selection_tool==\"option_6\"",
           "exclude_from_translation": true,
           "rows": [
+            {
+              "name": "speaker_image_asset",
+              "value": "@local.speaker_image_asset",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_feedback.option_6.speaker_image_asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.speaker_image_asset",
+                    "matchedExpression": "@local.speaker_image_asset",
+                    "type": "local",
+                    "fieldName": "speaker_image_asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.speaker_image_asset": [
+                  "value"
+                ]
+              }
+            },
             {
               "name": "article_id",
               "value": "@local.article_id",

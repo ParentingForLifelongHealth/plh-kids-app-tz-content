@@ -7,12 +7,12 @@
       "id": "join",
       "status": "released",
       "number": "1",
-      "facilitator": "male",
-      "check_in_id": "check_in_10",
+      "facilitator_gender": "man",
+      "check_in_id": "check_in_1",
       "relax_id": "relax_4",
       "relax_id_list": [
-        "relax_3",
-        "relax_new",
+        "relax_25",
+        "relax_9",
         "relax_4"
       ],
       "play_id_list": [
@@ -29,16 +29,12 @@
       "title": "JOIN",
       "_translations": {
         "title": {},
-        "description_short": {},
         "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "JOIN"
-        },
-        "description_short": {
-          "eng": "Join ParentApp for Kids"
         },
         "description": {
           "eng": "Welcome to the ParentApp for Kids community!"
@@ -47,7 +43,6 @@
           "eng": "Well done for finishing the JOIN module!"
         }
       },
-      "description_short": "Join ParentApp for Kids",
       "description": "Welcome to the ParentApp for Kids community!",
       "congratulation_text": "Well done for finishing the JOIN module!"
     },
@@ -55,12 +50,12 @@
       "id": "connect",
       "status": "released",
       "number": "2",
-      "facilitator": "female",
-      "check_in_id": "check_in_1",
+      "facilitator_gender": "woman",
+      "check_in_id": "check_in_10",
       "relax_id": "relax_10",
       "relax_id_list": [
-        "relax_2",
-        "relax_22",
+        "relax_16",
+        "relax_3",
         "relax_10"
       ],
       "play_id_list": [
@@ -77,16 +72,12 @@
       "title": "CONNECT",
       "_translations": {
         "title": {},
-        "description_short": {},
         "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "CONNECT"
-        },
-        "description_short": {
-          "eng": "Connect with your child"
         },
         "description": {
           "eng": "Making time to connect with your child helps build a strong and positive relationship."
@@ -95,7 +86,6 @@
           "eng": "Well done for finishing the CONNECT module!"
         }
       },
-      "description_short": "Connect with your child",
       "description": "Making time to connect with your child helps build a strong and positive relationship.",
       "congratulation_text": "Well done for finishing the CONNECT module!"
     },
@@ -103,13 +93,13 @@
       "id": "create",
       "status": "released",
       "number": "3",
-      "facilitator": "male",
+      "facilitator_gender": "man",
       "check_in_id": "check_in_8",
-      "relax_id": "relax_14",
+      "relax_id": "relax_17",
       "relax_id_list": [
-        "relax_21",
-        "relax_5",
-        "relax_14"
+        "relax_13",
+        "relax_14",
+        "relax_17"
       ],
       "play_id_list": [
         "household_helpers",
@@ -125,16 +115,12 @@
       "title": "CREATE",
       "_translations": {
         "title": {},
-        "description_short": {},
         "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "CREATE"
-        },
-        "description_short": {
-          "eng": "Create a positive environment"
         },
         "description": {
           "eng": "Create a positive and supportive environment for your child to learn in."
@@ -143,7 +129,6 @@
           "eng": "Well done for finishing the CREATE module!"
         }
       },
-      "description_short": "Create a positive environment",
       "description": "Create a positive and supportive environment for your child to learn in.",
       "congratulation_text": "Well done for finishing the CREATE module!"
     },
@@ -151,13 +136,13 @@
       "id": "play",
       "status": "released",
       "number": "4",
-      "facilitator": "female",
+      "facilitator_gender": "woman",
       "check_in_id": "check_in_13",
-      "relax_id": "relax_20",
+      "relax_id": "relax_21",
       "relax_id_list": [
         "relax_8",
-        "relax_13",
-        "relax_20"
+        "relax_20",
+        "relax_21"
       ],
       "play_id_list": [
         "favourite_play",
@@ -173,16 +158,12 @@
       "title": "PLAY",
       "_translations": {
         "title": {},
-        "description_short": {},
         "description": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "PLAY"
-        },
-        "description_short": {
-          "eng": "Playful interactions"
         },
         "description": {
           "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
@@ -191,7 +172,6 @@
           "eng": "Well done for finishing the PLAY module!"
         }
       },
-      "description_short": "Playful interactions",
       "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
       "congratulation_text": "Well done for finishing the PLAY module!"
     }

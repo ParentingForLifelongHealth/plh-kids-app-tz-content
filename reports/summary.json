@@ -70,7 +70,7 @@
     },
     {
       "type": "template",
-      "count": 392
+      "count": 376
     },
     {
       "type": "text",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 381
+      "count": 365
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 379
+      "count": 363
     },
     {
       "type": "feedback",
@@ -1452,7 +1452,7 @@
     },
     {
       "path": "audio/relax/relax_14.mp3",
-      "count": 2,
+      "count": 1,
       "size_kb": 256.9
     },
     {
@@ -1467,7 +1467,7 @@
     },
     {
       "path": "audio/relax/relax_17.mp3",
-      "count": 1,
+      "count": 2,
       "size_kb": 148
     },
     {
@@ -1487,12 +1487,12 @@
     },
     {
       "path": "audio/relax/relax_20.mp3",
-      "count": 2,
+      "count": 1,
       "size_kb": 539.8
     },
     {
       "path": "audio/relax/relax_21.mp3",
-      "count": 1,
+      "count": 2,
       "size_kb": 189.3
     },
     {
@@ -5642,7 +5642,7 @@
     },
     {
       "path": "images/icons/smile_eyes_up.svg",
-      "count": 22,
+      "count": 5,
       "size_kb": 1
     },
     {
@@ -6165,7 +6165,7 @@
     {
       "type": "data_list",
       "subtype": null,
-      "total": 25
+      "total": 27
     },
     {
       "type": "data_list",
@@ -6200,7 +6200,7 @@
     {
       "type": "generator",
       "subtype": null,
-      "total": 22
+      "total": 21
     },
     {
       "type": "global",
@@ -6215,7 +6215,7 @@
     {
       "type": "template",
       "subtype": "generated",
-      "total": 380
+      "total": 364
     },
     {
       "type": "template",

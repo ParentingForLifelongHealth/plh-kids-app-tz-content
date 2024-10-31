@@ -24,6 +24,31 @@
       "_nested_name": "module_id"
     },
     {
+      "name": "speaker_image_asset",
+      "value": "@global.facilitator_face_asset",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "speaker_image_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.facilitator_face_asset",
+            "matchedExpression": "@global.facilitator_face_asset",
+            "type": "global",
+            "fieldName": "facilitator_face_asset"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.facilitator_face_asset": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "articles",
       "value": "_articles",
       "_translations": {
@@ -362,8 +387,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_17",
-      "_nested_name": "set_variable_17"
+      "name": "set_variable_18",
+      "_nested_name": "set_variable_18"
     },
     {
       "type": "text",
@@ -397,31 +422,6 @@
         "@local.article_data.text_1": [
           "value",
           "condition"
-        ]
-      }
-    },
-    {
-      "name": "speaker_image_asset",
-      "value": "@global.facilitator_face_asset",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "speaker_image_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.facilitator_face_asset",
-            "matchedExpression": "@global.facilitator_face_asset",
-            "type": "global",
-            "fieldName": "facilitator_face_asset"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.facilitator_face_asset": [
-          "value"
         ]
       }
     },
@@ -943,6 +943,31 @@
       "exclude_from_translation": true,
       "rows": [
         {
+          "name": "speaker_image_asset",
+          "value": "@local.speaker_image_asset",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "question_1.speaker_image_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.speaker_image_asset",
+                "matchedExpression": "@local.speaker_image_asset",
+                "type": "local",
+                "fieldName": "speaker_image_asset"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.speaker_image_asset": [
+              "value"
+            ]
+          }
+        },
+        {
           "name": "article_id",
           "value": "@local.article_id",
           "_translations": {
@@ -1050,6 +1075,31 @@
       "exclude_from_translation": true,
       "rows": [
         {
+          "name": "speaker_image_asset",
+          "value": "@local.speaker_image_asset",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "question_2.speaker_image_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.speaker_image_asset",
+                "matchedExpression": "@local.speaker_image_asset",
+                "type": "local",
+                "fieldName": "speaker_image_asset"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.speaker_image_asset": [
+              "value"
+            ]
+          }
+        },
+        {
           "name": "article_id",
           "value": "@local.article_id",
           "_translations": {
@@ -1156,6 +1206,31 @@
       "condition": "!!(@local.article_data.quiz_3_question)",
       "exclude_from_translation": true,
       "rows": [
+        {
+          "name": "speaker_image_asset",
+          "value": "@local.speaker_image_asset",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "question_3.speaker_image_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.speaker_image_asset",
+                "matchedExpression": "@local.speaker_image_asset",
+                "type": "local",
+                "fieldName": "speaker_image_asset"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.speaker_image_asset": [
+              "value"
+            ]
+          }
+        },
         {
           "name": "article_id",
           "value": "@local.article_id",

@@ -44,6 +44,22 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_woman_asset",
+      "value": "images/facilitator_face_woman.svg",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_man_asset",
+      "value": "images/facilitator_face_man.svg",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_tz.xlsx"

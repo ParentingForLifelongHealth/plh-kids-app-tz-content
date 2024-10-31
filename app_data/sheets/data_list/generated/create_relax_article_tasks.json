@@ -4,11 +4,11 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_14",
-      "media_asset": "audio/relax/relax_14.mp3",
+      "id": "relax_17",
+      "media_asset": "audio/relax/relax_17.mp3",
       "media_type": "audio",
       "image_asset": "images/relax/relax_man.svg",
-      "title": "Ground & Gratitude",
+      "title": "Praise Yourself",
       "_translations": {
         "title": {},
         "transcript": {
@@ -17,13 +17,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Ground & Gratitude"
+          "eng": "Praise Yourself"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out."
+          "eng": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
         }
       },
-      "transcript": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+      "transcript": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
       "completed": false
     }
   ]
