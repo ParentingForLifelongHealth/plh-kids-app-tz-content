@@ -7,6 +7,18 @@
       "data_list_name": "about_this_app",
       "_xlsxPath": "deployment_data_tz.xlsx"
     },
+    "additional_content": {
+      "flow_type": "data_list",
+      "flow_name": "additional_content",
+      "data_list_name": "additional_content",
+      "_xlsxPath": "modules/TZ additional_content.xlsx"
+    },
+    "additional_content_tags": {
+      "flow_type": "data_list",
+      "flow_name": "additional_content_tags",
+      "data_list_name": "additional_content_tags",
+      "_xlsxPath": "modules/TZ additional_content.xlsx"
+    },
     "language": {
       "flow_type": "data_list",
       "flow_name": "language",
@@ -1353,99 +1365,6 @@
         }
       ]
     },
-    "check_in_article_generator": {
-      "flow_type": "generator",
-      "flow_name": "check_in_article_generator",
-      "parameter_list": {
-        "input_data_list": "check_in",
-        "output_flow_name": "article_@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "templates/modules/check_in article_generator.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "article_check_in_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_3",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_6",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_7",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_8",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_9",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_10",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_11",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_12",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_13",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_14",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_15",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_check_in_16",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
     "connect_article_gen": {
       "flow_type": "generator",
       "flow_name": "connect_article_gen",
@@ -2781,6 +2700,59 @@
         }
       ]
     },
+    "module_check_in_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "module_check_in_article_gen",
+      "parameter_list": {
+        "input_data_list": "modules",
+        "output_flow_name": "article_{@gen.id}_@gen.check_in_id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ check_in article_generator.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_join_check_in_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_connect_check_in_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_create_check_in_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_play_check_in_13",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_check_in_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_build_check_in_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_explore_check_in_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_care_check_in_12",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "play_article_gen": {
       "flow_type": "generator",
       "flow_name": "play_article_gen",
@@ -3149,6 +3121,11 @@
       "flow_name": "article",
       "_xlsxPath": "templates/modules/articles.xlsx"
     },
+    "article_with_facilitator": {
+      "flow_type": "template",
+      "flow_name": "article_with_facilitator",
+      "_xlsxPath": "modules/TZ articles template generators.xlsx"
+    },
     "book_button": {
       "flow_type": "template",
       "flow_name": "book_button",
@@ -3229,83 +3206,18 @@
       "flow_name": "footer",
       "_xlsxPath": "TZ app_navigation.xlsx"
     },
-    "article_check_in_1": {
-      "flow_name": "article_check_in_1",
+    "article_build_check_in_11": {
+      "flow_name": "article_build_check_in_11",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_check_in_10": {
-      "flow_name": "article_check_in_10",
+    "article_care_check_in_12": {
+      "flow_name": "article_care_check_in_12",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_check_in_11": {
-      "flow_name": "article_check_in_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_12": {
-      "flow_name": "article_check_in_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_13": {
-      "flow_name": "article_check_in_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_14": {
-      "flow_name": "article_check_in_14",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_15": {
-      "flow_name": "article_check_in_15",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_16": {
-      "flow_name": "article_check_in_16",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_2": {
-      "flow_name": "article_check_in_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_3": {
-      "flow_name": "article_check_in_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_4": {
-      "flow_name": "article_check_in_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_5": {
-      "flow_name": "article_check_in_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_6": {
-      "flow_name": "article_check_in_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_7": {
-      "flow_name": "article_check_in_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_8": {
-      "flow_name": "article_check_in_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_9": {
-      "flow_name": "article_check_in_9",
+    "article_connect_check_in_10": {
+      "flow_name": "article_connect_check_in_10",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3386,6 +3298,11 @@
     },
     "article_connect_why_connect_3": {
       "flow_name": "article_connect_why_connect_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_create_check_in_8": {
+      "flow_name": "article_create_check_in_8",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3494,6 +3411,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_explore_check_in_5": {
+      "flow_name": "article_explore_check_in_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_join_caring_child_1": {
       "flow_name": "article_join_caring_child_1",
       "flow_subtype": "generated",
@@ -3536,6 +3458,11 @@
     },
     "article_join_caring_you_4": {
       "flow_name": "article_join_caring_you_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_join_check_in_1": {
+      "flow_name": "article_join_check_in_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3616,6 +3543,11 @@
     },
     "article_join_welcome_3": {
       "flow_name": "article_join_welcome_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_play_check_in_13": {
+      "flow_name": "article_play_check_in_13",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3891,6 +3823,11 @@
     },
     "article_relax_9": {
       "flow_name": "article_relax_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_check_in_5": {
+      "flow_name": "article_talk_check_in_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

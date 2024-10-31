@@ -20,7 +20,7 @@
 | set_variable | 503 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 392 |
+| template | 376 |
 | text | 73 |
 | text_area | 2 |
 | text_box | 5 |
@@ -36,13 +36,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 381 |
+| emit: completed | 365 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 379 |
+| emit: uncompleted | 363 |
 | feedback | 7 |
 | go_to | 11 |
 | pop_up | 12 |
@@ -347,15 +347,15 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
 | audio/relax/relax_12.mp3 | 539.7 | 1 |
 | audio/relax/relax_13.mp3 | 398.4 | 1 |
-| audio/relax/relax_14.mp3 | 256.9 | 2 |
+| audio/relax/relax_14.mp3 | 256.9 | 1 |
 | audio/relax/relax_15.mp3 | 125 | 1 |
 | audio/relax/relax_16.mp3 | 274 | 1 |
-| audio/relax/relax_17.mp3 | 148 | 1 |
+| audio/relax/relax_17.mp3 | 148 | 2 |
 | audio/relax/relax_18.mp3 | 312.9 | 1 |
 | audio/relax/relax_19.mp3 | 454 | 1 |
 | audio/relax/relax_2.mp3 | 404.4 | 1 |
-| audio/relax/relax_20.mp3 | 539.8 | 2 |
-| audio/relax/relax_21.mp3 | 189.3 | 1 |
+| audio/relax/relax_20.mp3 | 539.8 | 1 |
+| audio/relax/relax_21.mp3 | 189.3 | 2 |
 | audio/relax/relax_22.mp3 | 109.8 | 1 |
 | audio/relax/relax_23.mp3 | 122.9 | 1 |
 | audio/relax/relax_24.mp3 | 121.3 | 1 |
@@ -1185,7 +1185,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/magnifying_glass.svg | 0.9 | 6 |
 | images/icons/parent_child_heart.svg | 3 | 8 |
 | images/icons/smile_eyes_down.svg | 0.9 | 6 |
-| images/icons/smile_eyes_up.svg | 1 | 22 |
+| images/icons/smile_eyes_up.svg | 1 | 5 |
 | images/icons/tick.svg | 0.3 | 2 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/learning_through_play/cooking_together.svg | 95.8 | 2 |
@@ -1296,16 +1296,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 25 |
+| data_list |  | 27 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 38 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 6 |
 | data_pipe | generated | 26 |
-| generator |  | 22 |
+| generator |  | 21 |
 | global |  | 2 |
 | template |  | 51 |
-| template | generated | 380 |
+| template | generated | 364 |
 | template | legal_terms | 4 |
 </details>

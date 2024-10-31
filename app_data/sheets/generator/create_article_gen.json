@@ -12,7 +12,7 @@
     {
       "type": "template",
       "name": "article",
-      "value": "article",
+      "value": "article_with_facilitator",
       "action_list": [
         {
           "trigger": "completed",

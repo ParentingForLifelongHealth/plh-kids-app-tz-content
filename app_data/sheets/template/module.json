@@ -1196,7 +1196,7 @@
                 "value": {}
               },
               "exclude_from_translation": true,
-              "condition": "@local.category_id == \"check_in\"",
+              "condition": false,
               "type": "set_variable",
               "_nested_name": "enable_dynamic_data_actions.only_for_active_index.template_name",
               "_dynamicFields": {
@@ -1207,22 +1207,11 @@
                     "type": "item",
                     "fieldName": "id"
                   }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "@local.category_id == \"check_in\"",
-                    "matchedExpression": "@local.category_id",
-                    "type": "local",
-                    "fieldName": "category_id"
-                  }
                 ]
               },
               "_dynamicDependencies": {
                 "@item.id": [
                   "value"
-                ],
-                "@local.category_id": [
-                  "condition"
                 ]
               }
             },
