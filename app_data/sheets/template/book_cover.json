@@ -540,14 +540,20 @@
       "action_list": [
         {
           "trigger": "click",
-          "action_id": "go_to",
+          "action_id": "pop_up",
           "args": [
             "book_page_@local.book_data.id"
           ],
-          "_raw": "click | go_to: book_page_@local.book_data.id",
-          "_cleaned": "click | go_to: book_page_@local.book_data.id"
+          "_raw": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
+          "_cleaned": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
+          "params": {
+            "fullscreen": true
+          }
         }
       ],
+      "parameter_list": {
+        "style": "navigation"
+      },
       "_nested_name": "button",
       "_dynamicFields": {
         "action_list": {
@@ -564,7 +570,7 @@
             },
             "_raw": [
               {
-                "fullExpression": "click | go_to: book_page_@local.book_data.id",
+                "fullExpression": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
                 "matchedExpression": "@local.book_data.id",
                 "type": "local",
                 "fieldName": "book_data"
@@ -572,7 +578,7 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | go_to: book_page_@local.book_data.id",
+                "fullExpression": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
                 "matchedExpression": "@local.book_data.id",
                 "type": "local",
                 "fieldName": "book_data"
