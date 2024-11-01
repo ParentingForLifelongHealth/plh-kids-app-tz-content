@@ -7,6 +7,9 @@
       "id": "relax_4",
       "media_asset": "audio/relax/relax_4.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Breathe to Three",
       "_translations": {
