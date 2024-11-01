@@ -42,6 +42,8 @@ config.app_data.output_path = "./app_data";
 // To reduce app size, exclude draft, youtube, video and uncompressed assets
 config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("draft") && !fileEntry.relativePath.includes("uncompressed")  && !fileEntry.relativePath.includes("youtube") && !fileEntry.relativePath.includes("video")
 
+config.web.favicon_asset = "images/logos/favicon.svg";
+
 config.app_config.APP_LANGUAGES.default = "gb_en";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids TZ";
 config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids TZ";
