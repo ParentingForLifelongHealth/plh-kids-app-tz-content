@@ -1,0 +1,24 @@
+{
+  "flow_type": "template",
+  "flow_name": "home_screen",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "module_path",
+      "value": "module_path",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "modules_data_list_name",
+          "value": "modules_released",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "module_path.modules_data_list_name"
+        }
+      ],
+      "_nested_name": "module_path"
+    }
+  ],
+  "_xlsxPath": "TZ app_navigation.xlsx"
+}

@@ -1,0 +1,438 @@
+{
+  "flow_type": "template",
+  "flow_name": "prepare",
+  "status": "released",
+  "rows": [
+    {
+      "name": "prepare_id",
+      "value": "id_1",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "prepare_id"
+    },
+    {
+      "name": "module_id",
+      "value": "connect",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "name": "prepare",
+      "value": "prepare",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "prepare"
+    },
+    {
+      "name": "data",
+      "value": "@local.prepare",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.prepare",
+            "matchedExpression": "@local.prepare",
+            "type": "local",
+            "fieldName": "prepare"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "concat_prepare_id",
+      "value": "@local.data.@local.prepare_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "concat_prepare_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data.@local.prepare_id",
+            "matchedExpression": "@local.data",
+            "type": "local",
+            "fieldName": "data"
+          },
+          {
+            "fullExpression": "@local.data.@local.prepare_id",
+            "matchedExpression": "@local.prepare_id",
+            "type": "local",
+            "fieldName": "prepare_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data": [
+          "value"
+        ],
+        "@local.prepare_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "prepare_data",
+      "value": "@data.@local.concat_prepare_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "prepare_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_prepare_id",
+            "matchedExpression": "@local.concat_prepare_id",
+            "type": "local",
+            "fieldName": "concat_prepare_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_prepare_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "join"
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@local.prepare_data.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.prepare_data.title)",
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.prepare_data.title",
+            "matchedExpression": "@local.prepare_data.title",
+            "type": "local",
+            "fieldName": "prepare_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.prepare_data.title)",
+            "matchedExpression": "@local.prepare_data.title",
+            "type": "local",
+            "fieldName": "prepare_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_data.title": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "media_title",
+      "value": "@local.prepare_data.media_title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.prepare_data.media_title)",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "media_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.prepare_data.media_title",
+            "matchedExpression": "@local.prepare_data.media_title",
+            "type": "local",
+            "fieldName": "prepare_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.prepare_data.media_title)",
+            "matchedExpression": "@local.prepare_data.media_title",
+            "type": "local",
+            "fieldName": "prepare_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_data.media_title": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "video",
+      "condition": "@local.prepare_data.media_type == \"video\"",
+      "parameter_list": {
+        "style": "column"
+      },
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "title",
+          "name": "print_media_title",
+          "value": "@local.media_title",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!(@local.prepare_data.media_title)",
+          "exclude_from_translation": true,
+          "_nested_name": "video.print_media_title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.media_title",
+                "matchedExpression": "@local.media_title",
+                "type": "local",
+                "fieldName": "media_title"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@local.prepare_data.media_title)",
+                "matchedExpression": "@local.prepare_data.media_title",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.media_title": [
+              "value"
+            ],
+            "@local.prepare_data.media_title": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "video",
+          "name": "media_asset",
+          "value": "@local.prepare_data.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "video.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.prepare_data.media_asset",
+                "matchedExpression": "@local.prepare_data.media_asset",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.prepare_data.media_asset": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "video",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.prepare_data.media_type == \"video\"",
+            "matchedExpression": "@local.prepare_data.media_type",
+            "type": "local",
+            "fieldName": "prepare_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_data.media_type": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "audio",
+      "condition": "@local.prepare_data.media_type == \"audio\"",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "audio",
+          "name": "media_asset",
+          "value": "@local.prepare_data.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!(@local.prepare_data.media_title)",
+          "parameter_list": {
+            "title": "@local.media_title",
+            "transcript_text": "@local.prepare_data.media_transcript"
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "audio.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.prepare_data.media_asset",
+                "matchedExpression": "@local.prepare_data.media_asset",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@local.prepare_data.media_title)",
+                "matchedExpression": "@local.prepare_data.media_title",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ],
+            "parameter_list": {
+              "title": [
+                {
+                  "fullExpression": "@local.media_title",
+                  "matchedExpression": "@local.media_title",
+                  "type": "local",
+                  "fieldName": "media_title"
+                }
+              ],
+              "transcript_text": [
+                {
+                  "fullExpression": "@local.prepare_data.media_transcript",
+                  "matchedExpression": "@local.prepare_data.media_transcript",
+                  "type": "local",
+                  "fieldName": "prepare_data"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.prepare_data.media_asset": [
+              "value"
+            ],
+            "@local.prepare_data.media_title": [
+              "condition"
+            ],
+            "@local.media_title": [
+              "parameter_list.title"
+            ],
+            "@local.prepare_data.media_transcript": [
+              "parameter_list.transcript_text"
+            ]
+          }
+        },
+        {
+          "type": "audio",
+          "name": "media_asset",
+          "value": "@local.prepare_data.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!(@local.prepare_data.media_title)",
+          "parameter_list": {
+            "transcript_text": "@local.prepare_data.media_transcript"
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "audio.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.prepare_data.media_asset",
+                "matchedExpression": "@local.prepare_data.media_asset",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!(@local.prepare_data.media_title)",
+                "matchedExpression": "@local.prepare_data.media_title",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ],
+            "parameter_list": {
+              "transcript_text": [
+                {
+                  "fullExpression": "@local.prepare_data.media_transcript",
+                  "matchedExpression": "@local.prepare_data.media_transcript",
+                  "type": "local",
+                  "fieldName": "prepare_data"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.prepare_data.media_asset": [
+              "value"
+            ],
+            "@local.prepare_data.media_title": [
+              "condition"
+            ],
+            "@local.prepare_data.media_transcript": [
+              "parameter_list.transcript_text"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "audio",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.prepare_data.media_type == \"audio\"",
+            "matchedExpression": "@local.prepare_data.media_type",
+            "type": "local",
+            "fieldName": "prepare_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_data.media_type": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "exclude_from_translation": false,
+      "type": "set_variable",
+      "name": "set_variable_15",
+      "_nested_name": "set_variable_15"
+    }
+  ],
+  "_xlsxPath": "books/TZ prepare templates.xlsx"
+}

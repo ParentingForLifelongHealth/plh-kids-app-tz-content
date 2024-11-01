@@ -1,0 +1,483 @@
+{
+  "flow_name": "play_power_play_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "the_power_of_play_1",
+      "category_id": "power_play",
+      "image_asset": "images/modules/play/power_of_play_1.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/play/play_04.mp3",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Did you know that you can use play to your advantage?"
+        },
+        "text_2": {
+          "eng": "Playful interactions can help your child cooperate and follow instructions."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!"
+        }
+      },
+      "text_2": "Playful interactions can help your child cooperate and follow instructions.",
+      "_translations": {
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {}
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!",
+      "text_1_facilitator": "Did you know that you can use play to your advantage?",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_2",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them.",
+      "_translations": {
+        "text_1": {},
+        "text_1_facilitator": {},
+        "image_text": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them."
+        },
+        "text_1_facilitator": {
+          "eng": "Playful interactions are a great way to do this. **Let’s take a look at an example:**"
+        },
+        "image_text": {
+          "eng": "I don't want to go to sleep!"
+        }
+      },
+      "text_1_facilitator": "Playful interactions are a great way to do this. **Let’s take a look at an example:**",
+      "image_text": "I don't want to go to sleep!",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_3",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page4.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\""
+        }
+      },
+      "image_text": "\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_4",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\""
+        }
+      },
+      "image_text": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_5",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"I want more supper. Another book! Just one more song?\" \n\n\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\""
+        }
+      },
+      "image_text": "\"I want more supper. Another book! Just one more song?\" \n\n\"Goodnight, Nandi.\"\n\n\"I don’t want to go to sleep!\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_6",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page7.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\""
+        }
+      },
+      "image_text": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_7",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page8.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\""
+        }
+      },
+      "image_text": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_8",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?\"\n\n\"Yes! Yes! Yes!\""
+        }
+      },
+      "image_text": "\"Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?\"\n\n\"Yes! Yes! Yes!\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_9",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!\""
+        }
+      },
+      "image_text": "\"I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_10",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!\""
+        }
+      },
+      "image_text": "\"I want a Nandi-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_11",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!\""
+        }
+      },
+      "image_text": "\"I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_12",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page13.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...\""
+        }
+      },
+      "image_text": "\"Look here, Nandi. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_13",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page14.jpg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "\"Goodnight, Nandi.\""
+        }
+      },
+      "image_text": "\"Goodnight, Nandi.\"",
+      "_translations": {
+        "image_text": {
+          "tz_sw": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_14",
+      "category_id": "power_play",
+      "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_15",
+      "category_id": "power_play",
+      "image_asset": "images/modules/play/question_time.svg",
+      "text_1": "Let’s think about what happened in this story:",
+      "_translations": {
+        "text_1": {},
+        "title": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Question time"
+        },
+        "text_1": {
+          "eng": "Let’s think about what happened in this story:"
+        },
+        "quiz_1_question": {
+          "eng": "How did the mother feel when Nandi didn’t want to go to sleep?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Frustrated"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Angry"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Tired"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep."
+        }
+      },
+      "title": "Question time",
+      "quiz_1_option_1_image_asset": "images/modules/play/frustrated_emoji.svg",
+      "quiz_1_option_2_image_asset": "images/modules/play/angry_emoji.svg",
+      "quiz_1_option_3_image_asset": "images/modules/play/tired_emoji.svg",
+      "quiz_1_question": "How did the mother feel when Nandi didn’t want to go to sleep?",
+      "quiz_1_option_1_text": "Frustrated",
+      "quiz_1_feedback_1": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
+      "quiz_1_option_2_text": "Angry",
+      "quiz_1_feedback_2": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
+      "quiz_1_option_3_text": "Tired",
+      "quiz_1_feedback_3": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_16",
+      "category_id": "power_play",
+      "_translatedFields": {
+        "title": {
+          "eng": "Question time:"
+        },
+        "quiz_1_question": {
+          "eng": "What did her mother do to help her fall asleep?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "She shouted at Nandi: “Just go to sleep!”"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "While we can understand why Nandi’s mother would feel like shouting, Nandi’s mom did something clever. She and Nandi created a fun story together that helped Nandi to fall asleep."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "She ignored Nandi and left her alone."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "While we can understand why Nandi’s mother would feel like ignoring her, Nandi’s mom went to go sit with her. She and Nandi created a fun story together that helped Nandi fall asleep."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "She helped Nandi to fall asleep by using a playful story."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That’s right. Nandi’s mom sat down with her, and together they created a fun story that helped Nandi to fall asleep."
+        },
+        "quiz_2_question": {
+          "eng": "How would Nandi have felt if her mother yelled at her instead of helping her to fall asleep?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Scared"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Awake"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep."
+        }
+      },
+      "title": "Question time:",
+      "_translations": {
+        "title": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
+      },
+      "quiz_1_question": "What did her mother do to help her fall asleep?",
+      "quiz_1_option_1_text": "She shouted at Nandi: “Just go to sleep!”",
+      "quiz_1_feedback_1": "While we can understand why Nandi’s mother would feel like shouting, Nandi’s mom did something clever. She and Nandi created a fun story together that helped Nandi to fall asleep.",
+      "quiz_1_option_2_text": "She ignored Nandi and left her alone.",
+      "quiz_1_feedback_2": "While we can understand why Nandi’s mother would feel like ignoring her, Nandi’s mom went to go sit with her. She and Nandi created a fun story together that helped Nandi fall asleep.",
+      "quiz_1_option_3_text": "She helped Nandi to fall asleep by using a playful story.",
+      "quiz_1_feedback_3": "That’s right. Nandi’s mom sat down with her, and together they created a fun story that helped Nandi to fall asleep.",
+      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/modules/play/scared_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/modules/play/awake_emoji.svg",
+      "quiz_2_question": "How would Nandi have felt if her mother yelled at her instead of helping her to fall asleep?",
+      "quiz_2_option_1_text": "Sad",
+      "quiz_2_feedback_1": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep.",
+      "quiz_2_option_2_text": "Scared",
+      "quiz_2_feedback_2": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep.",
+      "quiz_2_option_3_text": "Awake",
+      "quiz_2_feedback_3": "Yes, all of these are true. Nandi was struggling to sleep, and yelling would not have helped Nandi to fall asleep.",
+      "completed": false
+    },
+    {
+      "id": "the_power_of_play_17",
+      "category_id": "power_play",
+      "image_asset": "images/modules/play/play_module_ideas.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/play/play_05.mp3",
+      "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some more ideas for using play to help your child to cooperate with what you need them to do."
+        },
+        "media_title": {
+          "eng": "Listen for more ideas:"
+        },
+        "media_transcript": {
+          "eng": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed."
+        }
+      },
+      "media_title": "Listen for more ideas:",
+      "media_transcript": "Let’s say your child is busy playing an animal game but it’s time for dinner. You could say: can you hop to the table like a frog or fly there like an eagle? \n\nOr if your child’s toys are spread all over the house and you want them to pack it away, pretend a cardboard box or other object is a boat that fishes out all the toys and brings them to shore. \n\nOr, make up a silly song with silly instructions (put your pants on your head) to distract your child when they don’t want to get dressed.",
+      "completed": false
+    }
+  ]
+}

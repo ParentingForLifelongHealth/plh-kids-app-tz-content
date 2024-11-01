@@ -1,0 +1,235 @@
+{
+  "flow_type": "template",
+  "flow_name": "article_with_facilitator",
+  "status": "released",
+  "rows": [
+    {
+      "name": "module_id",
+      "value": "join",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "name": "article_id",
+      "value": "welcome_1",
+      "type": "set_variable",
+      "_nested_name": "article_id"
+    },
+    {
+      "name": "facgen_1",
+      "value": "facilitator_gender",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "facgen_1"
+    },
+    {
+      "name": "facgen_2",
+      "value": "modules.@local.module_id.@local.facgen_1",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "facgen_2",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "modules.@local.module_id.@local.facgen_1",
+            "matchedExpression": "@local.module_id",
+            "type": "local",
+            "fieldName": "module_id"
+          },
+          {
+            "fullExpression": "modules.@local.module_id.@local.facgen_1",
+            "matchedExpression": "@local.facgen_1",
+            "type": "local",
+            "fieldName": "facgen_1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "value"
+        ],
+        "@local.facgen_1": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "facilitator_gender",
+      "value": "@data.@local.facgen_2",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "facilitator_gender",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.facgen_2",
+            "matchedExpression": "@local.facgen_2",
+            "type": "local",
+            "fieldName": "facgen_2"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facgen_2": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "asset",
+      "value": "_asset",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "asset"
+    },
+    {
+      "name": "img_1",
+      "value": "facilitator_face_@local.facilitator_gender@local.asset",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "img_1",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "facilitator_face_@local.facilitator_gender@local.asset",
+            "matchedExpression": "@local.facilitator_gender",
+            "type": "local",
+            "fieldName": "facilitator_gender"
+          },
+          {
+            "fullExpression": "facilitator_face_@local.facilitator_gender@local.asset",
+            "matchedExpression": "@local.asset",
+            "type": "local",
+            "fieldName": "asset"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.facilitator_gender": [
+          "value"
+        ],
+        "@local.asset": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "speaker_image_asset",
+      "value": "@global.@local.img_1",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "speaker_image_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.@local.img_1",
+            "matchedExpression": "@local.img_1",
+            "type": "local",
+            "fieldName": "img_1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.img_1": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "template",
+      "name": "article",
+      "value": "article",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "@local.article_id",
+          "type": "set_variable",
+          "_nested_name": "article.article_id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.article_id",
+                "matchedExpression": "@local.article_id",
+                "type": "local",
+                "fieldName": "article_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.article_id": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "module_id",
+          "value": "@local.module_id",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article.module_id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.module_id",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.module_id": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "speaker_image_asset",
+          "value": "@local.speaker_image_asset",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article.speaker_image_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.speaker_image_asset",
+                "matchedExpression": "@local.speaker_image_asset",
+                "type": "local",
+                "fieldName": "speaker_image_asset"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.speaker_image_asset": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "article"
+    }
+  ],
+  "_xlsxPath": "modules/TZ articles template generators.xlsx"
+}

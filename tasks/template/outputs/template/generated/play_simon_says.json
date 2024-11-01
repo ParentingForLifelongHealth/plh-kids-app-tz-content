@@ -1,0 +1,181 @@
+{
+  "flow_name": "play_simon_says",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Simon Says",
+      "_nested_name": "title"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "@gen.image_asset",
+      "parameter_list": {
+        "style": "rounded_corners"
+      },
+      "_nested_name": "image_asset"
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "This fun game helps your child to learn how to listen and follow instructions.",
+      "_nested_name": "intro_text"
+    },
+    {
+      "name": "text_1",
+      "value": "1. Explain that you are going to give directions for the group to make a specific movement or sound. Everyone should only do as you say when you start your instruction with *“Simon says”*.\n2. If you say: *“Simon says touch your nose”* then all players must touch their nose. \n3. If you say *“Jump”* without saying *“Simon says”* first, then the players must not jump. If they jumped, then they must sit down and wait until the next round of the game. \n4. Keep giving instructions until there is only one person standing. That person can be Simon in the next round. \n5. The person playing Simon can give any kind of instructions – stretch to the sky, bark like a dog, jump three times on one leg, touch your left foot.",
+      "type": "set_variable",
+      "_nested_name": "text_1"
+    },
+    {
+      "name": "text_2",
+      "value": "* Play a practice round to make sure everyone understands the rules.\n* Make sure your instructions are achievable.\n* Give all players a turn to be the leader (the person who gives instructions).\n* Do not tease or criticise children for making mistakes – it is part of the game!",
+      "type": "set_variable",
+      "_nested_name": "text_2"
+    },
+    {
+      "name": "title_1",
+      "value": "Steps",
+      "type": "set_variable",
+      "_nested_name": "title_1"
+    },
+    {
+      "name": "title_2",
+      "value": "Tips",
+      "type": "set_variable",
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "first",
+          "value": "@local.title_1",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_1",
+              "value": "@local.text_1",
+              "_nested_name": "accordion.first.accordion_content_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_1",
+                    "matchedExpression": "@local.text_1",
+                    "type": "local",
+                    "fieldName": "text_1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_1": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.first",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_1",
+                "matchedExpression": "@local.title_1",
+                "type": "local",
+                "fieldName": "title_1"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_1": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "accordion_section",
+          "name": "second",
+          "value": "@local.title_2",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_2",
+              "value": "@local.text_2",
+              "_nested_name": "accordion.second.accordion_content_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_2",
+                    "matchedExpression": "@local.text_2",
+                    "type": "local",
+                    "fieldName": "text_2"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_2": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.second",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_2",
+                "matchedExpression": "@local.title_2",
+                "type": "local",
+                "fieldName": "title_2"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_2": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "is_standalone_task",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.is_standalone_task"
+        }
+      ],
+      "_nested_name": "nav_buttons"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "_content_version": "",
+  "_app_builder_version": "",
+  "name": "plh_kids_tz",
+  "api": {
+    "enabled": true,
+    "db_name": "plh_kids_tz",
+    "endpoint": "https://apps-server.idems.international/api"
+  },
+  "analytics": {
+    "enabled": true,
+    "provider": "matomo",
+    "siteId": 1,
+    "endpoint": "https://apps-server.idems.international/analytics"
+  },
+  "app_config": {
+    "APP_HEADER_DEFAULTS": {
+      "title": "ParentApp for Kids TZ",
+      "collapse": false,
+      "variant": "compact",
+      "colour": "none"
+    },
+    "APP_LANGUAGES": {
+      "default": "gb_en"
+    },
+    "APP_SIDEMENU_DEFAULTS": {
+      "title": "ParentApp for Kids TZ"
+    },
+    "APP_FOOTER_DEFAULTS": {
+      "templateName": "footer"
+    },
+    "APP_THEMES": {
+      "available": [
+        "default",
+        "professional"
+      ],
+      "defaultThemeName": "professional"
+    },
+    "APP_UPDATES": {
+      "enabled": true,
+      "completeUpdateTemplate": "app_update_complete"
+    },
+    "NOTIFICATION_DEFAULTS": {
+      "title": "New message from ParentApp for Kids TZ",
+      "text": "You have a new message from ParentApp for Kids TZ"
+    }
+  },
+  "firebase": {
+    "config": null,
+    "auth": {
+      "enabled": false
+    },
+    "crashlytics": {
+      "enabled": true
+    }
+  },
+  "supabase": {
+    "enabled": false
+  },
+  "web": {
+    "favicon_asset": "images/logos/favicon.png"
+  },
+  "google_drive": {
+    "sheets_folder_ids": [
+      "19wSspWYMbRc75een-kS0q0aq24--75u8",
+      "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo",
+      "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+      "1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+    ],
+    "assets_folder_ids": [
+      "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9",
+      "1kLl5t3o4A2ssC2iC-lT2bp4u8BZZneSE"
+    ]
+  },
+  "android": {
+    "app_id": "international.idems.plh_kids_tz",
+    "app_name": "PLH Kids TZ",
+    "splash_asset_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz\\app_data\\assets\\android\\splash.png",
+    "icon_asset_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz\\app_data\\assets\\android\\icon.png",
+    "icon_asset_foreground_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz\\app_data\\assets\\android\\icon-foreground.png",
+    "icon_asset_background_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz\\app_data\\assets\\android\\icon-background.png"
+  },
+  "local_drive": {
+    "assets_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\assets",
+    "sheets_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\sheets"
+  },
+  "app_data": {
+    "output_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz\\app_data",
+    "sheets_filter_function": "(flow)=>true",
+    "assets_filter_function": "(fileEntry)=>!fileEntry.relativePath.includes(\"draft\") && !fileEntry.relativePath.includes(\"uncompressed\") && !fileEntry.relativePath.includes(\"youtube\") && !fileEntry.relativePath.includes(\"video\")"
+  },
+  "ios": {
+    "app_id": "international.idems.plh_kids_tz",
+    "app_name": "PLH Kids TZ"
+  },
+  "translations": {
+    "filter_language_codes": null,
+    "source_strings_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\app_data\\translations_source\\source_strings",
+    "translated_strings_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz\\app_data\\translations_source\\translated_strings"
+  },
+  "workflows": {
+    "custom_ts_files": [],
+    "task_cache_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\tasks"
+  },
+  "_validated": true,
+  "_parent_config": {
+    "name": "plh_kids",
+    "_workspace_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids",
+    "git": {
+      "content_repo": "https://github.com/IDEMSInternational/plh-kids-app-content.git",
+      "content_tag_latest": "1.1.23"
+    }
+  },
+  "_version": 1,
+  "_workspace_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz",
+  "_config_ts_path": "C:\\Users\\Esmee\\Documents\\GitHub\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_tz\\config.ts",
+  "_config_version": 20240914,
+  "git": {
+    "content_repo": "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
+    "content_tag_latest": "1.1.93"
+  },
+  "error_logging": {
+    "dsn": "https://a371085a8bc146a3a45bb4e5d2d013ef@app.glitchtip.com/6036"
+  }
+}

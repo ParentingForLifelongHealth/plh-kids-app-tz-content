@@ -1,0 +1,19 @@
+{
+  "flow_name": "module_talk_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "images/modules/talk/talk_title_image.svg",
+      "_nested_name": "image"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Well done for finishing the TALK module!",
+      "_nested_name": "text"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "create_categories",
+  "data_list_name": "create_categories",
+  "status": "released",
+  "rows": [
+    {
+      "id": "why_create",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Why CREATE",
+      "_translatedFields": {
+        "title": {
+          "eng": "Why CREATE"
+        }
+      }
+    },
+    {
+      "id": "how_create",
+      "icon_asset": "images/modules/play/icon_light_bulb.svg",
+      "title": "How to CREATE",
+      "_translatedFields": {
+        "title": {
+          "eng": "How to CREATE"
+        }
+      }
+    },
+    {
+      "id": "power_create",
+      "icon_asset": "images/modules/play/icon_star.svg",
+      "title": "The power of CREATE",
+      "_translatedFields": {
+        "title": {
+          "eng": "The power of CREATE"
+        }
+      }
+    },
+    {
+      "id": "books_create",
+      "icon_asset": "images/modules/play/icon_book.svg",
+      "title": "Using books to CREATE",
+      "_translatedFields": {
+        "title": {
+          "eng": "Using books to CREATE"
+        }
+      }
+    },
+    {
+      "id": "practice",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Ready to practice?",
+      "_translatedFields": {
+        "title": {
+          "eng": "Ready to practice?"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "modules/TZ modules.xlsx"
+}

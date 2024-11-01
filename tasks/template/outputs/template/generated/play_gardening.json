@@ -1,0 +1,181 @@
+{
+  "flow_name": "play_gardening",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Gardening",
+      "_nested_name": "title"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "images/learning_through_play/gardening.svg",
+      "parameter_list": {
+        "style": "rounded_corners"
+      },
+      "_nested_name": "image_asset"
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "Gardening together is a fun way to spend quality time with your child and involve all their senses. It is also useful for them to learn how to grow food.",
+      "_nested_name": "intro_text"
+    },
+    {
+      "name": "text_1",
+      "value": "1. **Choose some plants:** Ask your child to help you choose some plants to grow in the garden. This will make them feel involved. You could choose plants you can eat, like vegetables or herbs, which you can grow and then cook together.\n2. **Get creative with containers:** You do not need lots of space to plant a garden. You can use old broken buckets, tin cans, or even plastic bottles as pots to plant in.\n3. **Plant the seeds:** Make planting a fun activity. Take turns making the holes, planting the seeds in the soil, and watering them. \n4. **Water and care for the plants:** Create a time table for watering and caring for the plants, and support your child to stay involved. \n5. **Watch the plants grow:** Discuss with your child the changes you see every week to see how much the plants have grown.",
+      "type": "set_variable",
+      "_nested_name": "text_1"
+    },
+    {
+      "name": "text_2",
+      "value": "* Let your child make some of the decisions, like where to dig the holes or which container to plant in.\n* Make gardening social by inviting friends or family to join the fun.",
+      "type": "set_variable",
+      "_nested_name": "text_2"
+    },
+    {
+      "name": "title_1",
+      "value": "Steps",
+      "type": "set_variable",
+      "_nested_name": "title_1"
+    },
+    {
+      "name": "title_2",
+      "value": "Tips",
+      "type": "set_variable",
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "first",
+          "value": "@local.title_1",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_1",
+              "value": "@local.text_1",
+              "_nested_name": "accordion.first.accordion_content_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_1",
+                    "matchedExpression": "@local.text_1",
+                    "type": "local",
+                    "fieldName": "text_1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_1": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.first",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_1",
+                "matchedExpression": "@local.title_1",
+                "type": "local",
+                "fieldName": "title_1"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_1": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "accordion_section",
+          "name": "second",
+          "value": "@local.title_2",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_2",
+              "value": "@local.text_2",
+              "_nested_name": "accordion.second.accordion_content_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_2",
+                    "matchedExpression": "@local.text_2",
+                    "type": "local",
+                    "fieldName": "text_2"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_2": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.second",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_2",
+                "matchedExpression": "@local.title_2",
+                "type": "local",
+                "fieldName": "title_2"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_2": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "is_standalone_task",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.is_standalone_task"
+        }
+      ],
+      "_nested_name": "nav_buttons"
+    }
+  ]
+}

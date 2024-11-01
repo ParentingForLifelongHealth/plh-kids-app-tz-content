@@ -1,0 +1,75 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "play_tags",
+  "data_list_name": "play_tags",
+  "status": "released",
+  "rows": [
+    {
+      "id": "everyday",
+      "attached_single_doc": "https://docs.google.com/document/d/1VWRi_cCZY6JEU619WkwdpZCTd4SJZhnAxxYMSnZD56I",
+      "title": "Everyday activities",
+      "_translatedFields": {
+        "title": {
+          "eng": "Everyday activities"
+        },
+        "text": {
+          "eng": "Have fun AND learn through everyday activities."
+        }
+      },
+      "text": "Have fun AND learn through everyday activities."
+    },
+    {
+      "id": "home",
+      "title": "Learning at home",
+      "_translatedFields": {
+        "title": {
+          "eng": "Learning at home"
+        },
+        "text": {
+          "eng": "Help grow your child’s skills for school and life."
+        }
+      },
+      "text": "Help grow your child’s skills for school and life."
+    },
+    {
+      "id": "pretend",
+      "title": "Pretend play",
+      "_translatedFields": {
+        "title": {
+          "eng": "Pretend play"
+        },
+        "text": {
+          "eng": "Encourage your child’s imagination and creativity."
+        }
+      },
+      "text": "Encourage your child’s imagination and creativity."
+    },
+    {
+      "id": "chat",
+      "title": "Chat together",
+      "_translatedFields": {
+        "title": {
+          "eng": "Chat together"
+        },
+        "text": {
+          "eng": "Talk with each other to get to know each other better."
+        }
+      },
+      "text": "Talk with each other to get to know each other better."
+    },
+    {
+      "id": "move",
+      "title": "Move your body",
+      "_translatedFields": {
+        "title": {
+          "eng": "Move your body"
+        },
+        "text": {
+          "eng": "Moving your body to relax and spend time together."
+        }
+      },
+      "text": "Moving your body to relax and spend time together."
+    }
+  ],
+  "_xlsxPath": "modules/TZ activities.xlsx"
+}

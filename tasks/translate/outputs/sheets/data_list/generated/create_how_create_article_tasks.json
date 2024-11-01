@@ -1,0 +1,149 @@
+{
+  "flow_name": "create_how_create_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "how_to_create_1",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_4.svg",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here’s how you can create a positive environment for your child:"
+        },
+        "text_2": {
+          "eng": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Let’s say you are visiting a friend, and your children are playing together. As they play, you notice that your child sometimes shares the toys and other times grabs the toy from her friend. Instead of saying: “stop grabbing that toy!” you could say: “give your friend a chance to play with the toy” \n\nIt is easier for children to follow instructions that tell them what they should do, rather than what they shouldn’t do."
+        }
+      },
+      "text_2": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something.",
+      "_translations": {
+        "text_2": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {},
+        "text_1_facilitator": {}
+      },
+      "media_type": "audio",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Let’s say you are visiting a friend, and your children are playing together. As they play, you notice that your child sometimes shares the toys and other times grabs the toy from her friend. Instead of saying: “stop grabbing that toy!” you could say: “give your friend a chance to play with the toy” \n\nIt is easier for children to follow instructions that tell them what they should do, rather than what they shouldn’t do.",
+      "text_1_facilitator": "Here’s how you can create a positive environment for your child:",
+      "completed": false
+    },
+    {
+      "id": "how_to_create_2",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_5.svg",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Need some convincing? Let’s do an exercise:"
+        },
+        "text_2": {
+          "eng": "DO NOT THINK ABOUT AN ELEPHANT.\n\nWhat are you thinking about?"
+        }
+      },
+      "text_2": "DO NOT THINK ABOUT AN ELEPHANT.\n\nWhat are you thinking about?",
+      "_translations": {
+        "text_2": {},
+        "text_1_facilitator": {}
+      },
+      "text_1_facilitator": "Need some convincing? Let’s do an exercise:",
+      "completed": false
+    },
+    {
+      "id": "how_to_create_3",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_6.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "You probably DID think about an elephant...\n\n‘Don’t do’ instructions make children think about that thing.\n\nSometimes they do not understand what we DID want from them.\n\nAlso they often don’t like being told not to do things (just like most of us)."
+        }
+      },
+      "text_2": "You probably DID think about an elephant...\n\n‘Don’t do’ instructions make children think about that thing.\n\nSometimes they do not understand what we DID want from them.\n\nAlso they often don’t like being told not to do things (just like most of us).",
+      "_translations": {
+        "text_2": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "how_to_create_4",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_7.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "NOW, THINK ABOUT A CHEETAH! \n\nWhat are you thinking about?"
+        }
+      },
+      "text_2": "NOW, THINK ABOUT A CHEETAH! \n\nWhat are you thinking about?",
+      "_translations": {
+        "text_2": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "how_to_create_5",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_8.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "That’s right - a cheetah! Positive, clear instructions help children focus on what they should be doing."
+        },
+        "media_title": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "Before, I used to raise my children the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my children. It took time to learn to say “please do this” instead of “don’t do this.” \n\nMy children and even my husband tell me that they love this way of doing things, because now they know what needs to be done."
+        }
+      },
+      "text_2": "That’s right - a cheetah! Positive, clear instructions help children focus on what they should be doing.",
+      "_translations": {
+        "text_2": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "media_type": "audio",
+      "media_title": "Let’s hear from a caregiver:",
+      "media_transcript": "Before, I used to raise my children the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my children. It took time to learn to say “please do this” instead of “don’t do this.” \n\nMy children and even my husband tell me that they love this way of doing things, because now they know what needs to be done.",
+      "completed": false
+    },
+    {
+      "id": "how_to_create_6",
+      "category_id": "how_create",
+      "image_asset": "images/modules/create/create_9.svg",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "**Use praise to encourage positive behaviour**\nIf we praise our children when they do something well, we will see them do more and more positive things!"
+        },
+        "section_1_text": {
+          "eng": "Sometimes it is hard to think of what to praise your child for! Here are some ideas from other parents:"
+        },
+        "section_1_button_text": {
+          "eng": "Ideas for praise:"
+        },
+        "section_1_extra_text": {
+          "eng": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
+        }
+      },
+      "text_2": "**Use praise to encourage positive behaviour**\nIf we praise our children when they do something well, we will see them do more and more positive things!",
+      "_translations": {
+        "text_2": {},
+        "section_1_text": {},
+        "section_1_button_text": {},
+        "section_1_extra_text": {}
+      },
+      "section_1_image_asset": "images/modules/create/create_10.svg",
+      "section_1_text": "Sometimes it is hard to think of what to praise your child for! Here are some ideas from other parents:",
+      "section_1_button_text": "Ideas for praise:",
+      "section_1_extra_text": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening",
+      "completed": false
+    }
+  ]
+}

@@ -30,11 +30,11 @@
     },
     {
       "type": "display_grid",
-      "count": 2
+      "count": 3
     },
     {
       "type": "display_group",
-      "count": 36
+      "count": 37
     },
     {
       "type": "image",
@@ -58,11 +58,11 @@
     },
     {
       "type": "set_variable",
-      "count": 503
+      "count": 543
     },
     {
       "type": "task_card",
-      "count": 3
+      "count": 5
     },
     {
       "type": "task_progress_bar",
@@ -70,11 +70,11 @@
     },
     {
       "type": "template",
-      "count": 376
+      "count": 386
     },
     {
       "type": "text",
-      "count": 73
+      "count": 74
     },
     {
       "type": "text_area",
@@ -94,7 +94,7 @@
     },
     {
       "type": "update_action_list",
-      "count": 1
+      "count": 2
     },
     {
       "type": "video",
@@ -108,11 +108,11 @@
     },
     {
       "type": "emit: completed",
-      "count": 365
+      "count": 374
     },
     {
       "type": "emit: force_reload",
-      "count": 3
+      "count": 4
     },
     {
       "type": "emit: force_reprocess",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 363
+      "count": 372
     },
     {
       "type": "feedback",
@@ -144,7 +144,7 @@
     },
     {
       "type": "pop_up",
-      "count": 12
+      "count": 14
     },
     {
       "type": "set_field",
@@ -162,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "61784 KB",
-      "MB": "61.8 MB"
+      "KB": "61914 KB",
+      "MB": "61.9 MB"
     },
     {
       "assets": "unused",
-      "KB": "1230 KB",
-      "MB": "1.2 MB"
+      "KB": "1106 KB",
+      "MB": "1.1 MB"
     }
   ],
   "assets_unused": [
@@ -205,11 +205,11 @@
       "size_kb": 139.2
     },
     {
-      "path": "images/facilitator_face_man.svg",
-      "size_kb": 7.4
+      "path": "images/icons/book_outline_blue.svg",
+      "size_kb": 0.7
     },
     {
-      "path": "images/icons/book_outline_blue.svg",
+      "path": "images/icons/book_white.svg",
       "size_kb": 0.7
     },
     {
@@ -291,10 +291,6 @@
     {
       "path": "images/icons/thought_bubble.svg",
       "size_kb": 2.1
-    },
-    {
-      "path": "images/learning_through_play/music_dancing.svg",
-      "size_kb": 117.2
     },
     {
       "path": "images/logos/favicon.png",
@@ -1316,11 +1312,6 @@
     {
       "path": "images/books/very_green_day/image_9.jpg",
       "count": 1,
-      "missing": true
-    },
-    {
-      "path": "images/learning_through_play/music_dancing .svg",
-      "count": 2,
       "missing": true
     },
     {
@@ -5526,8 +5517,13 @@
       "size_kb": 30.1
     },
     {
-      "path": "images/facilitator_face_woman.svg",
+      "path": "images/facilitator_face_man.svg",
       "count": 1,
+      "size_kb": 7.4
+    },
+    {
+      "path": "images/facilitator_face_woman.svg",
+      "count": 2,
       "size_kb": 17.5
     },
     {
@@ -5539,6 +5535,11 @@
       "path": "images/flags/tz.svg",
       "count": 2,
       "size_kb": 0.5
+    },
+    {
+      "path": "images/icons/book_blue.svg",
+      "count": 1,
+      "size_kb": 0.7
     },
     {
       "path": "images/icons/book_outline_white.svg",
@@ -5586,6 +5587,11 @@
       "size_kb": 1.5
     },
     {
+      "path": "images/icons/hands_hold_heart_blue.svg",
+      "count": 1,
+      "size_kb": 2.3
+    },
+    {
       "path": "images/icons/hands_hold_heart_white.svg",
       "count": 1,
       "size_kb": 3.4
@@ -5607,7 +5613,7 @@
     },
     {
       "path": "images/icons/in_progress.svg",
-      "count": 3,
+      "count": 5,
       "size_kb": 1.1
     },
     {
@@ -5636,18 +5642,28 @@
       "size_kb": 3
     },
     {
+      "path": "images/icons/picture_book_blue.svg",
+      "count": 1,
+      "size_kb": 1.8
+    },
+    {
       "path": "images/icons/smile_eyes_down.svg",
       "count": 6,
       "size_kb": 0.9
     },
     {
+      "path": "images/icons/smile_eyes_down_blue.svg",
+      "count": 1,
+      "size_kb": 0.9
+    },
+    {
       "path": "images/icons/smile_eyes_up.svg",
-      "count": 5,
+      "count": 14,
       "size_kb": 1
     },
     {
       "path": "images/icons/tick.svg",
-      "count": 2,
+      "count": 4,
       "size_kb": 0.3
     },
     {
@@ -5679,6 +5695,11 @@
       "path": "images/learning_through_play/makes_us_special.svg",
       "count": 2,
       "size_kb": 149.5
+    },
+    {
+      "path": "images/learning_through_play/music_dancing.svg",
+      "count": 2,
+      "size_kb": 117.2
     },
     {
       "path": "images/learning_through_play/pattern_play_1.svg",
@@ -6165,7 +6186,7 @@
     {
       "type": "data_list",
       "subtype": null,
-      "total": 27
+      "total": 28
     },
     {
       "type": "data_list",
@@ -6200,7 +6221,7 @@
     {
       "type": "generator",
       "subtype": null,
-      "total": 21
+      "total": 22
     },
     {
       "type": "global",
@@ -6210,12 +6231,12 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 51
+      "total": 55
     },
     {
       "type": "template",
       "subtype": "generated",
-      "total": 364
+      "total": 372
     },
     {
       "type": "template",

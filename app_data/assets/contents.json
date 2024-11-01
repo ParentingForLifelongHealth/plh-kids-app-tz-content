@@ -3769,11 +3769,19 @@
     "md5Checksum": "4cba6f3545595d585cf1c89394955c71",
     "size_kb": 0.5
   },
+  "images/icons/book_blue.svg": {
+    "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
+    "size_kb": 0.7
+  },
   "images/icons/book_outline_blue.svg": {
     "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
     "size_kb": 0.7
   },
   "images/icons/book_outline_white.svg": {
+    "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
+    "size_kb": 0.7
+  },
+  "images/icons/book_white.svg": {
     "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
     "size_kb": 0.7
   },
@@ -3841,6 +3849,10 @@
     "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
     "size_kb": 2.4
   },
+  "images/icons/hands_hold_heart_blue.svg": {
+    "md5Checksum": "5ecc4b49813c9e34fd4b1bbd320630e6",
+    "size_kb": 2.3
+  },
   "images/icons/hands_hold_heart_white.svg": {
     "md5Checksum": "aa503c521dd484ef221ec6093ca8269f",
     "size_kb": 3.4
@@ -3905,6 +3917,10 @@
     "md5Checksum": "398b07248ce7b5b59ef471466d089af4",
     "size_kb": 1.8
   },
+  "images/icons/picture_book_blue.svg": {
+    "md5Checksum": "398b07248ce7b5b59ef471466d089af4",
+    "size_kb": 1.8
+  },
   "images/icons/play.svg": {
     "md5Checksum": "5393d2113acd3a4b7d5f03795067a678",
     "size_kb": 0.5
@@ -3918,6 +3934,10 @@
     "size_kb": 0.8
   },
   "images/icons/smile_eyes_down.svg": {
+    "md5Checksum": "3e00c1fa0db9fabcfe65d6846e833c6e",
+    "size_kb": 0.9
+  },
+  "images/icons/smile_eyes_down_blue.svg": {
     "md5Checksum": "3e00c1fa0db9fabcfe65d6846e833c6e",
     "size_kb": 0.9
   },

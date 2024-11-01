@@ -1,0 +1,97 @@
+{
+  "flow_name": "join_caring_child_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "caring_child_1",
+      "category_id": "caring_child",
+      "text_1": "**ParentApp supports you to build a strong relationship with your child.**",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**ParentApp supports you to build a strong relationship with your child.**"
+        },
+        "text_2": {
+          "eng": "A strong and loving relationship with your child is one of the biggest investments you can make in their future."
+        },
+        "media_title": {
+          "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "I have three children, and I love them very much. I try my best to give them what they need, even when life is hard. I make sure that they are fed, washed, safe, and that they go to school. It’s also really important to me that my children respect others, that they behave properly, and keep our family name in good standing. \nThe way I was raised – we would get into real trouble if we didn’t behave the way our parents wanted us to. My parents would hit me and my siblings to get us to behave. It’s what I know, so I thought that this should be the way I raise my kids as well. \nI really want my children to respect me, but I also want them to feel that they can trust me with their concerns and feelings. Even though my parents hit me and I turned out fine, I think I would have benefited from a relationship with my parents that was more accepting, loving and understanding – where I felt less fear about being hit or beaten, or to tell them about my problems."
+        }
+      },
+      "text_2": "A strong and loving relationship with your child is one of the biggest investments you can make in their future.",
+      "image_asset": "images/modules/join/join_7.svg",
+      "media_title": "Let’s hear from a caregiver:",
+      "media_transcript": "I have three children, and I love them very much. I try my best to give them what they need, even when life is hard. I make sure that they are fed, washed, safe, and that they go to school. It’s also really important to me that my children respect others, that they behave properly, and keep our family name in good standing. \nThe way I was raised – we would get into real trouble if we didn’t behave the way our parents wanted us to. My parents would hit me and my siblings to get us to behave. It’s what I know, so I thought that this should be the way I raise my kids as well. \nI really want my children to respect me, but I also want them to feel that they can trust me with their concerns and feelings. Even though my parents hit me and I turned out fine, I think I would have benefited from a relationship with my parents that was more accepting, loving and understanding – where I felt less fear about being hit or beaten, or to tell them about my problems.",
+      "media_asset": "audio",
+      "completed": false
+    },
+    {
+      "id": "caring_child_2",
+      "category_id": "caring_child",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "What creates a strong and loving relationship between a caregiver and child?"
+        }
+      },
+      "text_2": "What creates a strong and loving relationship between a caregiver and child?",
+      "image_asset": "images/modules/join/join_8.svg",
+      "completed": false
+    },
+    {
+      "id": "caring_child_3",
+      "category_id": "caring_child",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Great question. In ParentApp for Kids, we use the image of a garden to think about what children need from their parents to grow and thrive."
+        },
+        "media_title": {
+          "eng": "Watch this video to learn more:"
+        }
+      },
+      "text_1_facilitator": "Great question. In ParentApp for Kids, we use the image of a garden to think about what children need from their parents to grow and thrive.",
+      "image_asset": "images/modules/join/join_9.svg",
+      "media_type": "video",
+      "media_title": "Watch this video to learn more:",
+      "completed": false
+    },
+    {
+      "id": "caring_child_4",
+      "category_id": "caring_child",
+      "text_1": "Each element in the ParentApp Garden represents a powerful parenting tool.",
+      "_translatedFields": {
+        "title": {
+          "eng": "**The ParentApp Garden**"
+        },
+        "text_1": {
+          "eng": "Each element in the ParentApp Garden represents a powerful parenting tool."
+        },
+        "text_2": {
+          "eng": "Every week we will focus on one of these parenting tools, and demonstrate how you can use it to support your child in positive ways."
+        }
+      },
+      "text_2": "Every week we will focus on one of these parenting tools, and demonstrate how you can use it to support your child in positive ways.",
+      "image_asset": "images/modules/join/join_10.gif",
+      "title": "**The ParentApp Garden**",
+      "completed": false
+    },
+    {
+      "id": "caring_child_5",
+      "category_id": "caring_child",
+      "text_1": "ParentApp also includes ideas for activities that you and your child can do together at home.",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "ParentApp also includes ideas for activities that you and your child can do together at home."
+        },
+        "text_2": {
+          "eng": "These activities were specifically designed to help children learn in positive ways while spending time with you."
+        }
+      },
+      "text_2": "These activities were specifically designed to help children learn in positive ways while spending time with you.",
+      "image_asset": "images/modules/join/join_11.svg",
+      "completed": false
+    }
+  ]
+}

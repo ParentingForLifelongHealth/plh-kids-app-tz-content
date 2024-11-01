@@ -1,0 +1,22 @@
+{
+  "flow_name": "play_practice_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "practice_1",
+      "category_id": "practice",
+      "image_asset": "images/modules/play/ready_to_practice.svg",
+      "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too.",
+      "_translations": {
+        "text_1": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too."
+        }
+      },
+      "completed": false
+    }
+  ]
+}

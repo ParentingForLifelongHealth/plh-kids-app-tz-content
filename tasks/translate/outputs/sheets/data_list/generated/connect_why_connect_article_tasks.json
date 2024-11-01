@@ -1,0 +1,100 @@
+{
+  "flow_name": "connect_why_connect_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "why_connect_1",
+      "category_id": "why_connect",
+      "image_asset": "images/modules/connect/connect_1.svg",
+      "media_type": "audio",
+      "media_asset": "audio/modules/connect/connect_01.mp3",
+      "attached_single_doc": "https://docs.google.com/document/d/1PAWPEQpGAcIjyAUbXC2O0uSkRawq1MxFgHf9Im9lqps",
+      "text_1": "This week, we are focusing on the topic of **CONNECTION**.",
+      "_translations": {
+        "text_1": {},
+        "text_2": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, we are focusing on the topic of **CONNECTION**."
+        },
+        "text_2": {
+          "eng": "Connecting with your child and spending quality time together makes a big difference to their development."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "Connection is the feeling you have with those special people in your life where you feel safe to be yourself and that they support you no matter what. It’s when you feel seen, understood and valued.\n\nChildren who have a strong connection with their caregivers are healthier, have better relationships, and find it easier to overcome challenges. The simple act of spending some one-on-one time with your child on a regular basis can make a big difference to their lives."
+        }
+      },
+      "text_2": "Connecting with your child and spending quality time together makes a big difference to their development.",
+      "media_title": "Listen to learn more:",
+      "media_transcript": "Connection is the feeling you have with those special people in your life where you feel safe to be yourself and that they support you no matter what. It’s when you feel seen, understood and valued.\n\nChildren who have a strong connection with their caregivers are healthier, have better relationships, and find it easier to overcome challenges. The simple act of spending some one-on-one time with your child on a regular basis can make a big difference to their lives.",
+      "completed": false
+    },
+    {
+      "id": "why_connect_2",
+      "category_id": "why_connect",
+      "image_asset": "images/modules/connect/connect_2.svg",
+      "text_1": "The ParentApp Garden",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_2": {
+          "eng": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **connecting with your child** forms a part of the garden image."
+        }
+      },
+      "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **connecting with your child** forms a part of the garden image.",
+      "completed": false
+    },
+    {
+      "id": "why_connect_3",
+      "category_id": "why_connect",
+      "image_asset": "images/modules/connect/connect_3.gif",
+      "media_type": "audio",
+      "media_asset": "audio/modules/connect/connect_02.mp3",
+      "text_1": "A plant that is firmly connected to the soil can grow strong roots and withstand storms. Children need strong connections with their caregivers to grow and thrive.",
+      "_translations": {
+        "text_1": {},
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {},
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The ParentApp Garden"
+        },
+        "text_1": {
+          "eng": "A plant that is firmly connected to the soil can grow strong roots and withstand storms. Children need strong connections with their caregivers to grow and thrive."
+        },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
+        "media_transcript": {
+          "eng": "When a plant is firmly connected to the soil, it grows strong and healthy roots. In the same way, a child who feels supported and close to their parents will have a safe foundation from which to grow and learn.\n\nWhen roots are strong, plants can survive storms and bad weather. When children have strong connections with their caregivers, they can overcome challenges and cope with difficulties."
+        }
+      },
+      "media_title": "Listen to learn more:",
+      "media_transcript": "When a plant is firmly connected to the soil, it grows strong and healthy roots. In the same way, a child who feels supported and close to their parents will have a safe foundation from which to grow and learn.\n\nWhen roots are strong, plants can survive storms and bad weather. When children have strong connections with their caregivers, they can overcome challenges and cope with difficulties.",
+      "title": "The ParentApp Garden",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "flow_name": "module_build_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "images/modules/build/build_title_image.svg",
+      "_nested_name": "image"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Well done for finishing the BUILD module!",
+      "_nested_name": "text"
+    }
+  ]
+}

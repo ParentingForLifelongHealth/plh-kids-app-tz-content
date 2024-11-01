@@ -1,0 +1,27 @@
+{
+  "flow_type": "template",
+  "flow_name": "picture_books",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Library",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "template",
+      "name": "library_books",
+      "value": "lib_books",
+      "exclude_from_translation": true,
+      "rows": [],
+      "_nested_name": "library_books"
+    }
+  ],
+  "_xlsxPath": "books/picture_books.xlsx"
+}

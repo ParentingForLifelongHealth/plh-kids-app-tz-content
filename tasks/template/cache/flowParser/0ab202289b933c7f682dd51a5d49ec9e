@@ -1,0 +1,1 @@
+{"flow_name":"module_explore_congrats","flow_subtype":"generated","flow_type":"template","rows":[{"type":"image","name":"image","value":"images/modules/explore/explore_title_image.svg","_nested_name":"image"},{"type":"text","name":"text","value":"Well done for finishing the EXPLORE module!","_nested_name":"text"}]}

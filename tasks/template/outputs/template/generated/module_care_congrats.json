@@ -1,0 +1,19 @@
+{
+  "flow_name": "module_care_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "images/modules/care/care_title_image.svg",
+      "_nested_name": "image"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Well done for finishing the CARE module!",
+      "_nested_name": "text"
+    }
+  ]
+}

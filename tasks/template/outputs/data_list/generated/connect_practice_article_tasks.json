@@ -1,0 +1,23 @@
+{
+  "flow_name": "connect_practice_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "practice_1",
+      "category_id": "practice",
+      "image_asset": "images/modules/connect/connect_14.svg",
+      "text_1": "Small actions, big results! Parents who practice at home get better results.",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Small actions, big results! Parents who practice at home get better results."
+        },
+        "text_2": {
+          "eng": "For your home practice:\n\n🤝 Make some time to spend with your child one-on-one.\n\n📖 Make book activities part of your routine, and use it as a time to connect. \n\n😌 Spending quality time with our children is important, but make sure you take some time for yourself too."
+        }
+      },
+      "text_2": "For your home practice:\n\n🤝 Make some time to spend with your child one-on-one.\n\n📖 Make book activities part of your routine, and use it as a time to connect. \n\n😌 Spending quality time with our children is important, but make sure you take some time for yourself too.",
+      "completed": false
+    }
+  ]
+}

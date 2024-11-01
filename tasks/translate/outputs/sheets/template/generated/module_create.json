@@ -1,0 +1,125 @@
+{
+  "flow_name": "module_create",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "name": "congrats",
+      "value": "_congrats",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "congrats"
+    },
+    {
+      "name": "congratulations_template",
+      "value": "module_create@local.congrats",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "congratulations_template",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "module_create@local.congrats",
+            "matchedExpression": "@local.congrats",
+            "type": "local",
+            "fieldName": "congrats"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.congrats": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "template",
+      "name": "module",
+      "value": "module",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "completed",
+          "action_id": "pop_up",
+          "args": [
+            "@local.congratulations_template"
+          ],
+          "_raw": "completed | pop_up: @local.congratulations_template",
+          "_cleaned": "completed | pop_up: @local.congratulations_template"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "module_id",
+          "value": "create",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module.module_id"
+        }
+      ],
+      "_nested_name": "module",
+      "_dynamicFields": {
+        "action_list": {
+          "1": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "@local.congratulations_template",
+                  "matchedExpression": "@local.congratulations_template",
+                  "type": "local",
+                  "fieldName": "congratulations_template"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "completed | pop_up: @local.congratulations_template",
+                "matchedExpression": "@local.congratulations_template",
+                "type": "local",
+                "fieldName": "congratulations_template"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "completed | pop_up: @local.congratulations_template",
+                "matchedExpression": "@local.congratulations_template",
+                "type": "local",
+                "fieldName": "congratulations_template"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.congratulations_template": [
+          "action_list.1.args.0",
+          "action_list.1._raw",
+          "action_list.1._cleaned"
+        ]
+      }
+    }
+  ]
+}

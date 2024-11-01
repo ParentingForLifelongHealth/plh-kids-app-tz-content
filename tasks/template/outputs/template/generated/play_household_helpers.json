@@ -1,0 +1,181 @@
+{
+  "flow_name": "play_household_helpers",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Household Helpers",
+      "_nested_name": "title"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "images/learning_through_play/household_helpers.svg",
+      "parameter_list": {
+        "style": "rounded_corners"
+      },
+      "_nested_name": "image_asset"
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "Including your child in household chores provides an opportunity for bonding and teamwork – especially when you think of ways to make it fun.",
+      "_nested_name": "intro_text"
+    },
+    {
+      "name": "text_1",
+      "value": "1. Identify a specific area in your home that needs cleaning and organising, such as a room, cupboard, or area on the floor.\n2. Talk to your child about what needs to be done to clean the space (Like sorting items into groups, or dusting a surface).\n3. Give specific tasks to each person and work together to complete them.\n4. As you clean and organise, take the opportunity to talk and connect with your child. Ask them about their interests and share stories from your own life.\n5. When you are finished, take a moment to appreciate the team effort and praise your child for their involvement.",
+      "type": "set_variable",
+      "_nested_name": "text_1"
+    },
+    {
+      "name": "text_2",
+      "value": "* Let your child come up with an idea for what they think should be cleaned\n* Take breaks and take your time. Remember to keep things fun.\n* If your child loses interest, think about how you can bring their attention back to the activity and make it fun. Is there a song you can sing together? Or can they show you how many shapes or colours they can find around you?",
+      "type": "set_variable",
+      "_nested_name": "text_2"
+    },
+    {
+      "name": "title_1",
+      "value": "Steps",
+      "type": "set_variable",
+      "_nested_name": "title_1"
+    },
+    {
+      "name": "title_2",
+      "value": "Tips",
+      "type": "set_variable",
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "first",
+          "value": "@local.title_1",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_1",
+              "value": "@local.text_1",
+              "_nested_name": "accordion.first.accordion_content_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_1",
+                    "matchedExpression": "@local.text_1",
+                    "type": "local",
+                    "fieldName": "text_1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_1": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.first",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_1",
+                "matchedExpression": "@local.title_1",
+                "type": "local",
+                "fieldName": "title_1"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_1": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "accordion_section",
+          "name": "second",
+          "value": "@local.title_2",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_2",
+              "value": "@local.text_2",
+              "_nested_name": "accordion.second.accordion_content_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_2",
+                    "matchedExpression": "@local.text_2",
+                    "type": "local",
+                    "fieldName": "text_2"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_2": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.second",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_2",
+                "matchedExpression": "@local.title_2",
+                "type": "local",
+                "fieldName": "title_2"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_2": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "is_standalone_task",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.is_standalone_task"
+        }
+      ],
+      "_nested_name": "nav_buttons"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "flow_name": "play_when_I_grow_up",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "When I Grow Up",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "@gen.image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "rounded_corners"
+      },
+      "_nested_name": "image_asset"
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "A fun way to encourage your child to dream about their future, is to ask them what they want to be when they grow up.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "intro_text"
+    },
+    {
+      "name": "text_1",
+      "value": "1. Start with a simple question: *“What would you like to do one day when you are an adult? Or, what is something you hope to achieve when you are older?”*\n2. Encourage your child to talk about what they want to be or do one day. Ask them why. Encourage them to tell you more about their dream. \n3. You can add role-play or dress-up activities, or invite your child to draw a picture. For example, if your child wants to own their own shop one day, encourage them to create a pretend shop at home, and encourage family members to visit their shop.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "text_1"
+    },
+    {
+      "name": "text_2",
+      "value": "* Remember that your child’s goals and dreams at this age do not have to be realistic. You can still show interest and encourage them to engage with the topic and idea. \n* Nowadays, boys and girls can be anything they want to be. Encourage your child regardless of what you think is acceptable for boys or girls.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "text_2"
+    },
+    {
+      "name": "title_1",
+      "value": "Steps",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "title_1"
+    },
+    {
+      "name": "title_2",
+      "value": "Tips",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "first",
+          "value": "@local.title_1",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_1",
+              "value": "@local.text_1",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "accordion.first.accordion_content_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_1",
+                    "matchedExpression": "@local.text_1",
+                    "type": "local",
+                    "fieldName": "text_1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_1": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.first",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_1",
+                "matchedExpression": "@local.title_1",
+                "type": "local",
+                "fieldName": "title_1"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_1": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "accordion_section",
+          "name": "second",
+          "value": "@local.title_2",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_2",
+              "value": "@local.text_2",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "accordion.second.accordion_content_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_2",
+                    "matchedExpression": "@local.text_2",
+                    "type": "local",
+                    "fieldName": "text_2"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_2": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.second",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_2",
+                "matchedExpression": "@local.title_2",
+                "type": "local",
+                "fieldName": "title_2"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_2": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "is_standalone_task",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.is_standalone_task"
+        }
+      ],
+      "_nested_name": "nav_buttons"
+    }
+  ]
+}

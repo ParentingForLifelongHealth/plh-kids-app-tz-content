@@ -1,0 +1,214 @@
+{
+  "flow_name": "play_mystery_box",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Mystery Box",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "@gen.image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "rounded_corners"
+      },
+      "_nested_name": "image_asset"
+    },
+    {
+      "type": "text",
+      "name": "intro_text",
+      "value": "Mystery Box is a fun game where you place an object inside a box, and let your child ask questions to figure out what the object is.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "_nested_name": "intro_text"
+    },
+    {
+      "name": "text_1",
+      "value": "1. Place any object inside the “Mystery Box”, without showing your child.\n2. Your child now asks you questions to try and guess what it is. You can only answer with “Yes” or “No”.\n3. Let your child ask as many questions as they need to guess what is in the box. If they are struggling, you can give them some hints or clues to help them. \n4. Swap roles with your child and let them choose an object to hide in the box and you try to guess what it is.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "text_1"
+    },
+    {
+      "name": "text_2",
+      "value": "* You can use different objects. You can also introduce themes, such as animals or fruits, to make the game more exciting. \n* You can allow your child to choose the objects or themes. This makes them feel more involved and part of the game.\n* Your child can close their eyes and touch the mystery item to guess what it is.",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "text_2"
+    },
+    {
+      "name": "title_1",
+      "value": "Steps",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "title_1"
+    },
+    {
+      "name": "title_2",
+      "value": "Tips",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "accordion",
+      "name": "accordion",
+      "rows": [
+        {
+          "type": "accordion_section",
+          "name": "first",
+          "value": "@local.title_1",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_1",
+              "value": "@local.text_1",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "accordion.first.accordion_content_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_1",
+                    "matchedExpression": "@local.text_1",
+                    "type": "local",
+                    "fieldName": "text_1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_1": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.first",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_1",
+                "matchedExpression": "@local.title_1",
+                "type": "local",
+                "fieldName": "title_1"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_1": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "accordion_section",
+          "name": "second",
+          "value": "@local.title_2",
+          "rows": [
+            {
+              "type": "text",
+              "name": "accordion_content_2",
+              "value": "@local.text_2",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "accordion.second.accordion_content_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.text_2",
+                    "matchedExpression": "@local.text_2",
+                    "type": "local",
+                    "fieldName": "text_2"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.text_2": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "accordion.second",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.title_2",
+                "matchedExpression": "@local.title_2",
+                "type": "local",
+                "fieldName": "title_2"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.title_2": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "accordion"
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "is_standalone_task",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.is_standalone_task"
+        }
+      ],
+      "_nested_name": "nav_buttons"
+    }
+  ]
+}
