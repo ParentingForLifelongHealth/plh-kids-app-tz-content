@@ -6,16 +6,72 @@
   "rows": [
     {
       "id": "breathe",
-      "attached_single_doc": "https://docs.google.com/document/d/1MDFWDVQQTJup3SqAXtRZytcKHCcI59tnecKlaPZZwpE"
+      "attached_single_doc": "https://docs.google.com/document/d/1MDFWDVQQTJup3SqAXtRZytcKHCcI59tnecKlaPZZwpE",
+      "title": "Breathe",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe"
+        },
+        "text": {
+          "eng": "Breathing activities help relax both your mind and body."
+        }
+      },
+      "text": "Breathing activities help relax both your mind and body."
     },
     {
-      "id": "reflect"
+      "id": "reflect",
+      "title": "Reflect",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reflect"
+        },
+        "text": {
+          "eng": "Take a moment to reflect and focus your thoughts on what really matters to you."
+        }
+      },
+      "text": "Take a moment to reflect and focus your thoughts on what really matters to you."
     },
     {
-      "id": "notice"
+      "id": "notice",
+      "title": "Notice",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Notice"
+        },
+        "text": {
+          "eng": "Notice and connect with what happens around you and inside you."
+        }
+      },
+      "text": "Notice and connect with what happens around you and inside you."
     },
     {
-      "id": "move"
+      "id": "move",
+      "title": "Move",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Move"
+        },
+        "text": {
+          "eng": "Move your body to relieve some stress."
+        }
+      },
+      "text": "Move your body to relieve some stress."
     }
   ],
   "_xlsxPath": "modules/TZ relax.xlsx"

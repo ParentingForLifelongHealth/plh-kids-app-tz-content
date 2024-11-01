@@ -7,6 +7,9 @@
       "id": "relax_10",
       "media_asset": "audio/relax/relax_10.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Feel the Ground",
       "_translations": {

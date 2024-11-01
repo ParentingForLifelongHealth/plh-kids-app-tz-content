@@ -7,6 +7,9 @@
       "id": "relax_21",
       "media_asset": "audio/relax/relax_21.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "List of Things",
       "_translations": {

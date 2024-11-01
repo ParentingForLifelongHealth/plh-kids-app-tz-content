@@ -4,14 +4,14 @@
   "status": "released",
   "rows": [
     {
-      "name": "card_style",
-      "value": "landscape",
+      "name": "card_variant",
+      "value": "circle",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "card_style"
+      "_nested_name": "card_variant"
     },
     {
       "name": "module_id",
@@ -381,14 +381,13 @@
         }
       ],
       "parameter_list": {
-        "variant": "circle",
+        "variant": "@local.card_variant",
         "task_group_id": "@local.module_id",
         "task_group_data": "@local.task_group_data",
         "completed_field": "@local.completed_field",
         "title": "@local.card_title",
         "subtitle": "@local.card_subtitle",
         "image": "@local.card_image",
-        "style": "@local.card_style",
         "in_progress_icon": "@local.in_progress_icon",
         "completed_icon": "@local.completed_icon",
         "highlighted_text": "@local.highlighted_text",
@@ -428,6 +427,14 @@
           }
         },
         "parameter_list": {
+          "variant": [
+            {
+              "fullExpression": "@local.card_variant",
+              "matchedExpression": "@local.card_variant",
+              "type": "local",
+              "fieldName": "card_variant"
+            }
+          ],
           "task_group_id": [
             {
               "fullExpression": "@local.module_id",
@@ -476,14 +483,6 @@
               "fieldName": "card_image"
             }
           ],
-          "style": [
-            {
-              "fullExpression": "@local.card_style",
-              "matchedExpression": "@local.card_style",
-              "type": "local",
-              "fieldName": "card_style"
-            }
-          ],
           "in_progress_icon": [
             {
               "fullExpression": "@local.in_progress_icon",
@@ -524,6 +523,9 @@
           "action_list.0._raw",
           "action_list.0._cleaned"
         ],
+        "@local.card_variant": [
+          "parameter_list.variant"
+        ],
         "@local.module_id": [
           "parameter_list.task_group_id"
         ],
@@ -541,9 +543,6 @@
         ],
         "@local.card_image": [
           "parameter_list.image"
-        ],
-        "@local.card_style": [
-          "parameter_list.style"
         ],
         "@local.in_progress_icon": [
           "parameter_list.in_progress_icon"

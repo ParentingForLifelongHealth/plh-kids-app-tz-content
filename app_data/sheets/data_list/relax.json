@@ -8,6 +8,9 @@
       "id": "relax_1",
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1h3wNodphmp0PCZueby4UdtvBke5O6EqzcJPHNC2v7uY",
       "title": "Quick Pause",
@@ -31,6 +34,9 @@
       "id": "relax_2",
       "media_asset": "audio/relax/relax_2.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Power of Three",
       "_translations": {
@@ -53,6 +59,9 @@
       "id": "relax_3",
       "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "One Thing Today",
       "_translations": {
@@ -75,6 +84,9 @@
       "id": "relax_4",
       "media_asset": "audio/relax/relax_4.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Breathe to Three",
       "_translations": {
@@ -97,6 +109,9 @@
       "id": "relax_5",
       "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "In and Out",
       "_translations": {
@@ -119,6 +134,9 @@
       "id": "relax_6",
       "media_asset": "audio/relax/relax_6.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Think About Today",
       "_translations": {
@@ -141,6 +159,9 @@
       "id": "relax_7",
       "media_asset": "audio/relax/relax_7.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Pause to Respond",
       "_translations": {
@@ -163,6 +184,9 @@
       "id": "relax_8",
       "media_asset": "audio/relax/relax_8.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Small Things",
       "_translations": {
@@ -185,6 +209,9 @@
       "id": "relax_9",
       "media_asset": "audio/relax/relax_9.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Body Scan",
       "_translations": {
@@ -207,6 +234,9 @@
       "id": "relax_10",
       "media_asset": "audio/relax/relax_10.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Feel the Ground",
       "_translations": {
@@ -229,6 +259,9 @@
       "id": "relax_11",
       "media_asset": "audio/relax/relax_11.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Counting Sounds",
       "_translations": {
@@ -251,6 +284,9 @@
       "id": "relax_12",
       "media_asset": "audio/relax/relax_12.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Feel your Feelings",
       "_translations": {
@@ -273,6 +309,9 @@
       "id": "relax_13",
       "media_asset": "audio/relax/relax_13.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "move"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Your Song",
       "_translations": {
@@ -295,6 +334,10 @@
       "id": "relax_14",
       "media_asset": "audio/relax/relax_14.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe",
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Ground & Gratitude",
       "_translations": {
@@ -317,6 +360,9 @@
       "id": "relax_15",
       "media_asset": "audio/relax/relax_15.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Notice How You Feel",
       "_translations": {
@@ -339,6 +385,9 @@
       "id": "relax_16",
       "media_asset": "audio/relax/relax_16.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Pause Power",
       "_translations": {
@@ -361,6 +410,9 @@
       "id": "relax_17",
       "media_asset": "audio/relax/relax_17.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Praise Yourself",
       "_translations": {
@@ -383,6 +435,9 @@
       "id": "relax_18",
       "media_asset": "audio/relax/relax_18.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "notice"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Taking Care of Yourself",
       "_translations": {
@@ -405,6 +460,9 @@
       "id": "relax_19",
       "media_asset": "audio/relax/relax_19.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "breathe"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Take a Pause",
       "_translations": {
@@ -427,6 +485,9 @@
       "id": "relax_20",
       "media_asset": "audio/relax/relax_20.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "move"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Physical Activity",
       "_translations": {
@@ -449,6 +510,9 @@
       "id": "relax_21",
       "media_asset": "audio/relax/relax_21.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "List of Things",
       "_translations": {
@@ -471,6 +535,9 @@
       "id": "relax_22",
       "media_asset": "audio/relax/relax_22.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Connect",
       "_translations": {
@@ -495,6 +562,9 @@
       "id": "relax_23",
       "media_asset": "audio/relax/relax_23.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Prevent Anger",
       "_translations": {
@@ -517,6 +587,9 @@
       "id": "relax_24",
       "media_asset": "audio/relax/relax_24.mp3",
       "media_type": "audio",
+      "relax_tag_list": [
+        "move"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "Angry? Take a Break",
       "_translations": {
@@ -539,6 +612,9 @@
       "id": "relax_25",
       "media_asset": "audio/relax/relax_25.mp4",
       "media_type": "audio",
+      "relax_tag_list": [
+        "reflect"
+      ],
       "image_asset": "images/relax/relax_man.svg",
       "title": "What’s in Your Cup?",
       "_translations": {
