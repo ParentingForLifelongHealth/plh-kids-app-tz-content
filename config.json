@@ -117,7 +117,7 @@
   "_config_version": 20240914,
   "git": {
     "content_repo": "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-    "content_tag_latest": "1.1.93"
+    "content_tag_latest": "1.1.94"
   },
   "error_logging": {
     "dsn": "https://a371085a8bc146a3a45bb4e5d2d013ef@app.glitchtip.com/6036"
