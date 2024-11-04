@@ -17,7 +17,7 @@
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 613 |
+| set_variable | 610 |
 | task_card | 7 |
 | task_progress_bar | 1 |
 | template | 499 |
@@ -26,7 +26,7 @@
 | text_box | 5 |
 | text_bubble | 4 |
 | title | 42 |
-| update_action_list | 3 |
+| update_action_list | 2 |
 | video | 1 |
 </details>
 
@@ -38,7 +38,7 @@
 | app_update | 1 |
 | emit: completed | 463 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 5 |
+| emit: force_reprocess | 6 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
@@ -46,7 +46,7 @@
 | feedback | 7 |
 | go_to | 12 |
 | pop_up | 15 |
-| screen_orientation | 1 |
+| screen_orientation | 111 |
 | set_field | 12 |
 | set_local | 7 |
 | user | 1 |
@@ -58,7 +58,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 61914 KB | 61.9 MB |
-| unused | 1111 KB | 1.1 MB |
+| unused | 1110 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -99,7 +99,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_white.svg | 1 |
 | images/icons/thought_bubble.svg | 2.1 |
 | images/logos/favicon.png | 6.3 |
-| images/logos/favicon.svg | 4.1 |
+| images/logos/favicon.svg | 3.6 |
 | images/logos/plh_white.png | 12.8 |
 | images/relax/relax_woman.svg | 14.8 |
 | lottie/bulging_circles.txt | 0.2 |

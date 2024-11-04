@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 613
+      "count": 610
     },
     {
       "type": "task_card",
@@ -94,7 +94,7 @@
     },
     {
       "type": "update_action_list",
-      "count": 3
+      "count": 2
     },
     {
       "type": "video",
@@ -116,7 +116,7 @@
     },
     {
       "type": "emit: force_reprocess",
-      "count": 5
+      "count": 6
     },
     {
       "type": "emit: force_restart",
@@ -148,7 +148,7 @@
     },
     {
       "type": "screen_orientation",
-      "count": 1
+      "count": 111
     },
     {
       "type": "set_field",
@@ -171,7 +171,7 @@
     },
     {
       "assets": "unused",
-      "KB": "1111 KB",
+      "KB": "1110 KB",
       "MB": "1.1 MB"
     }
   ],
@@ -302,7 +302,7 @@
     },
     {
       "path": "images/logos/favicon.svg",
-      "size_kb": 4.1
+      "size_kb": 3.6
     },
     {
       "path": "images/logos/plh_white.png",

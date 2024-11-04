@@ -42,15 +42,15 @@
       "id": "why_connect_2",
       "category_id": "why_connect",
       "image_asset": "images/modules/connect/connect_2.svg",
-      "text_1": "The ParentApp Garden",
+      "title": "The ParentApp Garden",
       "_translations": {
-        "text_1": {
+        "title": {
           "tz_sw": true
         },
         "text_2": {}
       },
       "_translatedFields": {
-        "text_1": {
+        "title": {
           "eng": "The ParentApp Garden"
         },
         "text_2": {
