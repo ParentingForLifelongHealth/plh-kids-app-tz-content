@@ -5,21 +5,23 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.1.97",
+  content_tag_latest: "1.1.98",
 };
 
 config.android = {
   app_id:'international.idems.plh_kids_tz',
-  app_name:'PLH Kids TZ',
+  app_name:'ParentApp for Kids TZ',
   splash_asset_path: "./app_data/assets/android/splash.png",
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+  zoom_enabled: true
 };
 
 config.ios = {
   app_id:'international.idems.plh_kids_tz',
-  app_name:'PLH Kids TZ',
+  app_name:'ParentApp for Kids TZ',
+  zoom_enabled: true
 };
 
 config.google_drive.sheets_folder_ids = [

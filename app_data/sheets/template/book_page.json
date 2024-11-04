@@ -14,16 +14,6 @@
       "_nested_name": "book_id"
     },
     {
-      "name": "module_id",
-      "value": "connect",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "module_id"
-    },
-    {
       "name": "book",
       "value": "books",
       "_translations": {
@@ -439,7 +429,7 @@
           "rows": [
             {
               "name": "page_template",
-              "value": "book_image",
+              "value": "book_image_landscape",
               "_translations": {
                 "value": {}
               },

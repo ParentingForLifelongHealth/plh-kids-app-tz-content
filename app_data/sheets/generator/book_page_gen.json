@@ -24,6 +24,15 @@
           "_cleaned": "completed | emit: completed"
         },
         {
+          "trigger": "completed",
+          "action_id": "screen_orientation",
+          "args": [
+            "portrait"
+          ],
+          "_raw": "completed | screen_orientation: portrait",
+          "_cleaned": "completed | screen_orientation: portrait"
+        },
+        {
           "trigger": "uncompleted",
           "action_id": "emit",
           "args": [
@@ -31,6 +40,15 @@
           ],
           "_raw": "uncompleted | emit: uncompleted",
           "_cleaned": "uncompleted | emit: uncompleted"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "screen_orientation",
+          "args": [
+            "portrait"
+          ],
+          "_raw": "uncompleted | screen_orientation: portrait",
+          "_cleaned": "uncompleted | screen_orientation: portrait"
         }
       ],
       "rows": [

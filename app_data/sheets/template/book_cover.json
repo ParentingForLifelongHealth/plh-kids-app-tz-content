@@ -549,6 +549,15 @@
           "params": {
             "fullscreen": true
           }
+        },
+        {
+          "trigger": "click",
+          "action_id": "screen_orientation",
+          "args": [
+            "landscape"
+          ],
+          "_raw": "click | screen_orientation: landscape",
+          "_cleaned": "click | screen_orientation: landscape"
         }
       ],
       "parameter_list": {
