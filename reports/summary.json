@@ -2,7 +2,7 @@
   "template_components": [
     {
       "type": "accordion",
-      "count": 22
+      "count": 23
     },
     {
       "type": "animated_section",
@@ -10,7 +10,7 @@
     },
     {
       "type": "audio",
-      "count": 1
+      "count": 3
     },
     {
       "type": "button",
@@ -34,15 +34,15 @@
     },
     {
       "type": "display_group",
-      "count": 37
+      "count": 40
     },
     {
       "type": "image",
-      "count": 30
+      "count": 31
     },
     {
       "type": "items",
-      "count": 10
+      "count": 11
     },
     {
       "type": "lottie_animation",
@@ -58,11 +58,11 @@
     },
     {
       "type": "set_variable",
-      "count": 547
+      "count": 613
     },
     {
       "type": "task_card",
-      "count": 5
+      "count": 7
     },
     {
       "type": "task_progress_bar",
@@ -70,11 +70,11 @@
     },
     {
       "type": "template",
-      "count": 417
+      "count": 499
     },
     {
       "type": "text",
-      "count": 77
+      "count": 85
     },
     {
       "type": "text_area",
@@ -86,7 +86,7 @@
     },
     {
       "type": "text_bubble",
-      "count": 2
+      "count": 4
     },
     {
       "type": "title",
@@ -94,7 +94,7 @@
     },
     {
       "type": "update_action_list",
-      "count": 2
+      "count": 3
     },
     {
       "type": "video",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 382
+      "count": 463
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 380
+      "count": 461
     },
     {
       "type": "feedback",
@@ -144,7 +144,11 @@
     },
     {
       "type": "pop_up",
-      "count": 13
+      "count": 15
+    },
+    {
+      "type": "screen_orientation",
+      "count": 1
     },
     {
       "type": "set_field",
@@ -5637,7 +5641,7 @@
     },
     {
       "path": "images/icons/magnifying_glass.svg",
-      "count": 6,
+      "count": 7,
       "size_kb": 0.9
     },
     {
@@ -5647,7 +5651,7 @@
     },
     {
       "path": "images/icons/picture_book_blue.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 1.8
     },
     {
@@ -6225,7 +6229,7 @@
     {
       "type": "generator",
       "subtype": null,
-      "total": 26
+      "total": 28
     },
     {
       "type": "global",
@@ -6235,12 +6239,12 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 55
+      "total": 57
     },
     {
       "type": "template",
       "subtype": "generated",
-      "total": 404
+      "total": 484
     },
     {
       "type": "template",

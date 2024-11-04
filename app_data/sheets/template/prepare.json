@@ -4,12 +4,20 @@
   "status": "released",
   "rows": [
     {
+      "name": "book_id",
+      "value": "who_took_my_shoe",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "book_id"
+    },
+    {
       "name": "prepare_id",
       "value": "id_1",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare_id"
     },
@@ -19,9 +27,17 @@
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_id"
+    },
+    {
+      "name": "book",
+      "value": "books",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "book"
     },
     {
       "name": "prepare",
@@ -29,19 +45,41 @@
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare"
     },
     {
       "name": "data",
+      "value": "@local.book",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.book",
+            "matchedExpression": "@local.book",
+            "type": "local",
+            "fieldName": "book"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.book": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "data_p",
       "value": "@local.prepare",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "data",
+      "_nested_name": "data_p",
       "_dynamicFields": {
         "value": [
           {
@@ -59,24 +97,56 @@
       }
     },
     {
-      "name": "concat_prepare_id",
-      "value": "@local.data.@local.prepare_id",
+      "name": "concat_book_id",
+      "value": "@local.data.@local.book_id",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "concat_prepare_id",
+      "_nested_name": "concat_book_id",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.data.@local.prepare_id",
+            "fullExpression": "@local.data.@local.book_id",
             "matchedExpression": "@local.data",
             "type": "local",
             "fieldName": "data"
           },
           {
-            "fullExpression": "@local.data.@local.prepare_id",
+            "fullExpression": "@local.data.@local.book_id",
+            "matchedExpression": "@local.book_id",
+            "type": "local",
+            "fieldName": "book_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.data": [
+          "value"
+        ],
+        "@local.book_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "concat_prepare_id",
+      "value": "@local.data_p.@local.prepare_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "concat_prepare_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data_p.@local.prepare_id",
+            "matchedExpression": "@local.data_p",
+            "type": "local",
+            "fieldName": "data_p"
+          },
+          {
+            "fullExpression": "@local.data_p.@local.prepare_id",
             "matchedExpression": "@local.prepare_id",
             "type": "local",
             "fieldName": "prepare_id"
@@ -84,7 +154,7 @@
         ]
       },
       "_dynamicDependencies": {
-        "@local.data": [
+        "@local.data_p": [
           "value"
         ],
         "@local.prepare_id": [
@@ -93,13 +163,37 @@
       }
     },
     {
+      "name": "book_data",
+      "value": "@data.@local.concat_book_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "book_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.concat_book_id",
+            "matchedExpression": "@local.concat_book_id",
+            "type": "local",
+            "fieldName": "concat_book_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.concat_book_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "title",
       "name": "prepare_data",
       "value": "@data.@local.concat_prepare_id",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
-      "type": "set_variable",
+      "condition": "!!(@data.@local.concat_prepare_id)",
       "_nested_name": "prepare_data",
       "_dynamicFields": {
         "value": [
@@ -109,11 +203,20 @@
             "type": "local",
             "fieldName": "concat_prepare_id"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@data.@local.concat_prepare_id)",
+            "matchedExpression": "@local.concat_prepare_id",
+            "type": "local",
+            "fieldName": "concat_prepare_id"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@local.concat_prepare_id": [
-          "value"
+          "value",
+          "condition"
         ]
       }
     },
@@ -123,43 +226,8 @@
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "join"
-    },
-    {
-      "type": "title",
-      "name": "title",
-      "value": "@local.prepare_data.title",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "!!(@local.prepare_data.title)",
-      "_nested_name": "title",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.prepare_data.title",
-            "matchedExpression": "@local.prepare_data.title",
-            "type": "local",
-            "fieldName": "prepare_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "!!(@local.prepare_data.title)",
-            "matchedExpression": "@local.prepare_data.title",
-            "type": "local",
-            "fieldName": "prepare_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.prepare_data.title": [
-          "value",
-          "condition"
-        ]
-      }
     },
     {
       "name": "media_title",
@@ -428,10 +496,12 @@
       }
     },
     {
-      "exclude_from_translation": false,
-      "type": "set_variable",
-      "name": "set_variable_15",
-      "_nested_name": "set_variable_15"
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action": "completed | emit: completed; uncompleted | emit: uncompleted;",
+      "rows": [],
+      "_nested_name": "nav_buttons"
     }
   ],
   "_xlsxPath": "books/TZ prepare templates.xlsx"

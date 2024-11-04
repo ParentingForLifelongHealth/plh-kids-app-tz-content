@@ -509,7 +509,7 @@
         },
         {
           "name": "target_template",
-          "value": "book_cover_@item.id",
+          "value": "book_landing_@item.id",
           "_translations": {
             "value": {}
           },
@@ -520,7 +520,7 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "book_cover_@item.id",
+                "fullExpression": "book_landing_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"

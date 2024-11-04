@@ -6,7 +6,30 @@
   "rows": [
     {
       "id": "id_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8"
+      "module_id": "module_id",
+      "book_id": "book_id",
+      "media_type": "video",
+      "media_asset": "media_asset",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "title::eng",
+      "_translations": {
+        "title": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "title::eng"
+        },
+        "media_title": {
+          "eng": "media_title::eng"
+        },
+        "media_transcript": {
+          "eng": "media_transcript::eng"
+        }
+      },
+      "media_title": "media_title::eng",
+      "media_transcript": "media_transcript::eng"
     },
     {
       "id": "id_2"

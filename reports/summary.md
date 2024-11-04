@@ -3,30 +3,30 @@
 
 | type | count |
 | --- | --- |
-| accordion | 22 |
+| accordion | 23 |
 | animated_section | 2 |
-| audio | 1 |
+| audio | 3 |
 | button | 29 |
 | carousel | 2 |
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 3 |
-| display_group | 37 |
-| image | 30 |
-| items | 10 |
+| display_group | 40 |
+| image | 31 |
+| items | 11 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 547 |
-| task_card | 5 |
+| set_variable | 613 |
+| task_card | 7 |
 | task_progress_bar | 1 |
-| template | 417 |
-| text | 77 |
+| template | 499 |
+| text | 85 |
 | text_area | 2 |
 | text_box | 5 |
-| text_bubble | 2 |
+| text_bubble | 4 |
 | title | 42 |
-| update_action_list | 2 |
+| update_action_list | 3 |
 | video | 1 |
 </details>
 
@@ -36,16 +36,17 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 382 |
+| emit: completed | 463 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 380 |
+| emit: uncompleted | 461 |
 | feedback | 7 |
 | go_to | 12 |
-| pop_up | 13 |
+| pop_up | 15 |
+| screen_orientation | 1 |
 | set_field | 12 |
 | set_local | 7 |
 | user | 1 |
@@ -1184,9 +1185,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/join_icons/caring_yourchild.svg | 4.4 | 2 |
 | images/icons/join_icons/caring_yourself.svg | 1.3 | 2 |
 | images/icons/join_icons/welcome.svg | 2.9 | 2 |
-| images/icons/magnifying_glass.svg | 0.9 | 6 |
+| images/icons/magnifying_glass.svg | 0.9 | 7 |
 | images/icons/parent_child_heart.svg | 3 | 8 |
-| images/icons/picture_book_blue.svg | 1.8 | 2 |
+| images/icons/picture_book_blue.svg | 1.8 | 3 |
 | images/icons/smile_eyes_down.svg | 0.9 | 6 |
 | images/icons/smile_eyes_down_blue.svg | 0.9 | 1 |
 | images/icons/smile_eyes_up.svg | 1 | 14 |
@@ -1308,9 +1309,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 6 |
 | data_pipe | generated | 26 |
-| generator |  | 26 |
+| generator |  | 28 |
 | global |  | 2 |
-| template |  | 55 |
-| template | generated | 404 |
+| template |  | 57 |
+| template | generated | 484 |
 | template | legal_terms | 4 |
 </details>

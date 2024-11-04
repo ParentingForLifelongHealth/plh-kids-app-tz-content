@@ -936,6 +936,77 @@
       }
     },
     {
+      "type": "display_group",
+      "name": "youtube",
+      "condition": "@local.article_data.media_type == \"youtube\"",
+      "rows": [
+        {
+          "name": "youtube",
+          "value": "youtube_@fields._app_language",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "youtube.youtube",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "youtube_@fields._app_language",
+                "matchedExpression": "@fields._app_language",
+                "type": "fields",
+                "fieldName": "_app_language"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields._app_language": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "youtube",
+          "name": "video_src",
+          "value": "@local.youtube",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "youtube.video_src",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.youtube",
+                "matchedExpression": "@local.youtube",
+                "type": "local",
+                "fieldName": "youtube"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.youtube": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "youtube",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.article_data.media_type == \"youtube\"",
+            "matchedExpression": "@local.article_data.media_type",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.article_data.media_type": [
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "template",
       "name": "question_1",
       "value": "question",
