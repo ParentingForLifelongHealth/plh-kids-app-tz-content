@@ -97,17 +97,6 @@
     {
       "type": "radio_button_grid",
       "name": "select_tag",
-      "action_list": [
-        {
-          "trigger": "changed",
-          "action_id": "emit",
-          "args": [
-            "force_reprocess"
-          ],
-          "_raw": "changed | emit:force_reprocess",
-          "_cleaned": "changed | emit:force_reprocess"
-        }
-      ],
       "parameter_list": {
         "answer_list": "@data.book_tags",
         "grid_width": "100%",
@@ -293,26 +282,30 @@
             },
             {
               "name": "has_selected_tag",
-              "value": "@calc.(@local.book_tag_list.includes(@local.select_tag))",
+              "type": "set_variable",
+              "_nested_name": "display_grid.books.has_selected_tag"
+            },
+            {
+              "name": "has_selected_tag",
+              "value": "@calc.(@local.book_tag_list.includes(\"nature\"))",
               "_translations": {
                 "value": {}
               },
-              "condition": false,
-              "parameter_list": {
-                "!!(@local.select_tag)": "true"
-              },
+              "condition": "!!(@local.select_tag)",
               "type": "set_variable",
               "_nested_name": "display_grid.books.has_selected_tag",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@calc.(@local.book_tag_list.includes(@local.select_tag))",
+                    "fullExpression": "@calc.(@local.book_tag_list.includes(\"nature\"))",
                     "matchedExpression": "@local.book_tag_list.includes",
                     "type": "local",
                     "fieldName": "book_tag_list"
-                  },
+                  }
+                ],
+                "condition": [
                   {
-                    "fullExpression": "@calc.(@local.book_tag_list.includes(@local.select_tag))",
+                    "fullExpression": "!!(@local.select_tag)",
                     "matchedExpression": "@local.select_tag",
                     "type": "local",
                     "fieldName": "select_tag"
@@ -324,7 +317,7 @@
                   "value"
                 ],
                 "@local.select_tag": [
-                  "value"
+                  "condition"
                 ]
               }
             },
@@ -335,7 +328,7 @@
               "_translations": {
                 "value": {}
               },
-              "condition": false,
+              "condition": "!!(@local.select_tag)",
               "_nested_name": "display_grid.books.debug_2_@item.id",
               "_dynamicFields": {
                 "name": [
@@ -354,6 +347,14 @@
                     "fieldName": "has_selected_tag"
                   }
                 ],
+                "condition": [
+                  {
+                    "fullExpression": "!!(@local.select_tag)",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  }
+                ],
                 "_nested_name": [
                   {
                     "fullExpression": "display_grid.books.debug_2_@item.id",
@@ -370,6 +371,9 @@
                 ],
                 "@local.has_selected_tag": [
                   "value"
+                ],
+                "@local.select_tag": [
+                  "condition"
                 ]
               }
             },
@@ -377,6 +381,7 @@
               "type": "template",
               "name": "book_button_@item.id",
               "value": "book_button",
+              "hidden": "!@local.has_selected_tag || !(@local.select_tag)",
               "rows": [
                 {
                   "name": "book_id",
@@ -424,6 +429,20 @@
                     "fieldName": "id"
                   }
                 ],
+                "hidden": [
+                  {
+                    "fullExpression": "!@local.has_selected_tag || !(@local.select_tag)",
+                    "matchedExpression": "!@local.has_selected_tag",
+                    "type": "local",
+                    "fieldName": "has_selected_tag"
+                  },
+                  {
+                    "fullExpression": "!@local.has_selected_tag || !(@local.select_tag)",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  }
+                ],
                 "_nested_name": [
                   {
                     "fullExpression": "display_grid.books.book_button_@item.id",
@@ -437,6 +456,12 @@
                 "@item.id": [
                   "name",
                   "_nested_name"
+                ],
+                "!@local.has_selected_tag": [
+                  "hidden"
+                ],
+                "@local.select_tag": [
+                  "hidden"
                 ]
               }
             }
