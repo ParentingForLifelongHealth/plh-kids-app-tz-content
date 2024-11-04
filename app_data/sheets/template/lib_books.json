@@ -4,15 +4,6 @@
   "status": "released",
   "rows": [
     {
-      "name": "join",
-      "value": "_",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "join"
-    },
-    {
       "type": "title",
       "name": "title",
       "value": "My Favourite Books",
@@ -21,6 +12,7 @@
           "tz_sw": true
         }
       },
+      "condition": false,
       "_nested_name": "title"
     },
     {
@@ -87,8 +79,8 @@
     {
       "condition": false,
       "type": "set_variable",
-      "name": "set_variable_6",
-      "_nested_name": "set_variable_6"
+      "name": "set_variable_5",
+      "_nested_name": "set_variable_5"
     },
     {
       "type": "title",
@@ -144,7 +136,7 @@
       "type": "display_grid",
       "name": "grid_1",
       "parameter_list": {
-        "item_width": "160px",
+        "item_width": "100px",
         "item_border": "none",
         "grid_width": "100%",
         "grid_gap": "16px"
@@ -299,13 +291,14 @@
               }
             },
             {
+              "name": "has_selected_tag",
               "value": "@calc.(@local.book_tag_list.includes(@local.select_tag))",
               "_translations": {
                 "value": {}
               },
+              "condition": "!!(@local.select_tag)",
               "type": "set_variable",
-              "name": "set_variable_6",
-              "_nested_name": "grid_1.books.set_variable_6",
+              "_nested_name": "grid_1.books.has_selected_tag",
               "_dynamicFields": {
                 "value": [
                   {
@@ -320,6 +313,14 @@
                     "type": "local",
                     "fieldName": "select_tag"
                   }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!(@local.select_tag)",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  }
                 ]
               },
               "_dynamicDependencies": {
@@ -327,6 +328,52 @@
                   "value"
                 ],
                 "@local.select_tag": [
+                  "value",
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "debug_2_@item.id",
+              "value": "has selected tag: @local.has_selected_tag",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "_nested_name": "grid_1.books.debug_2_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "debug_2_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "has selected tag: @local.has_selected_tag",
+                    "matchedExpression": "@local.has_selected_tag",
+                    "type": "local",
+                    "fieldName": "has_selected_tag"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "grid_1.books.debug_2_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@local.has_selected_tag": [
                   "value"
                 ]
               }
@@ -335,6 +382,7 @@
               "type": "template",
               "name": "book_button_@item.id",
               "value": "book_button",
+              "condition": false,
               "rows": [
                 {
                   "name": "book_id",
