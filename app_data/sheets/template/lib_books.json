@@ -111,7 +111,8 @@
       "parameter_list": {
         "answer_list": "@data.book_tags",
         "grid_width": "100%",
-        "grid_gap": "16px"
+        "grid_gap": "16px",
+        "item_width": "110px"
       },
       "_nested_name": "select_tag",
       "_dynamicFields": {
@@ -134,9 +135,9 @@
     },
     {
       "type": "display_grid",
-      "name": "grid_1",
+      "name": "display_grid",
       "parameter_list": {
-        "item_width": "100px",
+        "item_width": "160px",
         "item_border": "none",
         "grid_width": "100%",
         "grid_gap": "16px"
@@ -155,7 +156,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "grid_1.books.book_id",
+              "_nested_name": "display_grid.books.book_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -180,7 +181,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "grid_1.books.book_concat",
+              "_nested_name": "display_grid.books.book_concat",
               "_dynamicFields": {
                 "value": [
                   {
@@ -205,7 +206,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "grid_1.books.book_row",
+              "_nested_name": "display_grid.books.book_row",
               "_dynamicFields": {
                 "value": [
                   {
@@ -229,7 +230,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "grid_1.books.book_tag_list",
+              "_nested_name": "display_grid.books.book_tag_list",
               "_dynamicFields": {
                 "value": [
                   {
@@ -253,7 +254,7 @@
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "grid_1.books.debug_@item.id",
+              "_nested_name": "display_grid.books.debug_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -273,7 +274,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "grid_1.books.debug_@item.id",
+                    "fullExpression": "display_grid.books.debug_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -296,9 +297,12 @@
               "_translations": {
                 "value": {}
               },
-              "condition": "!!(@local.select_tag)",
+              "condition": false,
+              "parameter_list": {
+                "!!(@local.select_tag)": "true"
+              },
               "type": "set_variable",
-              "_nested_name": "grid_1.books.has_selected_tag",
+              "_nested_name": "display_grid.books.has_selected_tag",
               "_dynamicFields": {
                 "value": [
                   {
@@ -313,14 +317,6 @@
                     "type": "local",
                     "fieldName": "select_tag"
                   }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "!!(@local.select_tag)",
-                    "matchedExpression": "@local.select_tag",
-                    "type": "local",
-                    "fieldName": "select_tag"
-                  }
                 ]
               },
               "_dynamicDependencies": {
@@ -328,8 +324,7 @@
                   "value"
                 ],
                 "@local.select_tag": [
-                  "value",
-                  "condition"
+                  "value"
                 ]
               }
             },
@@ -341,7 +336,7 @@
                 "value": {}
               },
               "condition": false,
-              "_nested_name": "grid_1.books.debug_2_@item.id",
+              "_nested_name": "display_grid.books.debug_2_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -361,7 +356,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "grid_1.books.debug_2_@item.id",
+                    "fullExpression": "display_grid.books.debug_2_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -382,7 +377,6 @@
               "type": "template",
               "name": "book_button_@item.id",
               "value": "book_button",
-              "condition": false,
               "rows": [
                 {
                   "name": "book_id",
@@ -391,7 +385,7 @@
                     "value": {}
                   },
                   "type": "set_variable",
-                  "_nested_name": "grid_1.books.book_button_@item.id.book_id",
+                  "_nested_name": "display_grid.books.book_button_@item.id.book_id",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -403,7 +397,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "grid_1.books.book_button_@item.id.book_id",
+                        "fullExpression": "display_grid.books.book_button_@item.id.book_id",
                         "matchedExpression": "@item.id.book_id",
                         "type": "item",
                         "fieldName": "id"
@@ -420,7 +414,7 @@
                   }
                 }
               ],
-              "_nested_name": "grid_1.books.book_button_@item.id",
+              "_nested_name": "display_grid.books.book_button_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -432,7 +426,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "grid_1.books.book_button_@item.id",
+                    "fullExpression": "display_grid.books.book_button_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -447,7 +441,7 @@
               }
             }
           ],
-          "_nested_name": "grid_1.books",
+          "_nested_name": "display_grid.books",
           "_dynamicFields": {
             "value": [
               {
@@ -465,7 +459,7 @@
           }
         }
       ],
-      "_nested_name": "grid_1"
+      "_nested_name": "display_grid"
     }
   ],
   "_xlsxPath": "books/library_page.xlsx"
