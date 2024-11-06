@@ -565,229 +565,173 @@
     "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
     "size_kb": 5.9
   },
-  "images/Book covers/And_also.png": {
-    "md5Checksum": "48d44a9847deba1fc639efa7246bac58",
-    "size_kb": 174.1
-  },
-  "images/Book covers/Angry akku.png": {
-    "md5Checksum": "b778e72d3df1a586e0b1f85827d143f6",
-    "size_kb": 354.5
-  },
-  "images/Book covers/Cover_A very important tree.png": {
-    "md5Checksum": "726147a195348384a6ae54814d289e19",
-    "size_kb": 229.3
-  },
-  "images/Book covers/Cover_A_trip_to_the_tap.png": {
-    "md5Checksum": "40677faf7e2d58ef398f1635a1a5eddb",
-    "size_kb": 199.5
-  },
-  "images/Book covers/Cover_Amaizing Flower.png": {
-    "md5Checksum": "0547a3fc9f3b76ba828e313f4bbd92d2",
-    "size_kb": 203.6
-  },
-  "images/Book covers/Cover_Baby's first photo.png": {
-    "md5Checksum": "fb039506674bb6e946ac9016a365f517",
-    "size_kb": 153.3
-  },
-  "images/Book covers/Cover_Beloved daughter.png": {
-    "md5Checksum": "9638dd8a0bb3d18f2da4fb4897fb376a",
-    "size_kb": 303.5
-  },
-  "images/Book covers/Cover_Big Blue bus.png": {
-    "md5Checksum": "21403cf25851ed7b6ef5068a2c7f5578",
-    "size_kb": 249.2
-  },
-  "images/Book covers/Cover_Brave Bora.png": {
-    "md5Checksum": "d98ca04eb1e5915a347d148e2aed8300",
-    "size_kb": 200
-  },
-  "images/Book covers/Cover_Emotions come and go.png": {
+  "images/books/Book covers/Cover_Emotions come and go.png": {
     "md5Checksum": "75f7cc5d07638b53a9efddb665807979",
     "size_kb": 266.1
   },
-  "images/Book covers/Cover_Fifi and teddy.png": {
+  "images/books/Book covers/Cover_Fifi and teddy.png": {
     "md5Checksum": "6504c3d47609dfda33ae7a37a2a512d2",
     "size_kb": 163.4
   },
-  "images/Book covers/Cover_Grandpa Farouk's garden.png": {
+  "images/books/Book covers/Cover_Grandpa Farouk's garden.png": {
     "md5Checksum": "f26d7c2c7b86e916d5bc95ade799cf6f",
     "size_kb": 195.6
   },
-  "images/Book covers/Cover_I dont want to go to sleep.png": {
+  "images/books/Book covers/Cover_I dont want to go to sleep.png": {
     "md5Checksum": "5b7f598b09866b765ca8e1eba7e3d8cd",
     "size_kb": 101.5
   },
-  "images/Book covers/Cover_an unexpected adventure.png": {
-    "md5Checksum": "0df329ccdd050eb8d8ceec640d13bee3",
-    "size_kb": 178.5
-  },
-  "images/Book covers/Cover_circles in the park.png": {
-    "md5Checksum": "3a5adb2b71796ef1bc8e1137ab9e5ed6",
-    "size_kb": 137.8
-  },
-  "images/Book covers/Cover_decisions.png": {
-    "md5Checksum": "decfb6e04d4b341b6530757fd3aa0622",
-    "size_kb": 343.2
-  },
-  "images/Book covers/Cover_how do you sleep.png": {
+  "images/books/Book covers/Cover_how do you sleep.png": {
     "md5Checksum": "1954ac863167944e7153517bc859cb19",
     "size_kb": 182.5
   },
-  "images/Book covers/Cover_how do you want your eggs.png": {
+  "images/books/Book covers/Cover_how do you want your eggs.png": {
     "md5Checksum": "4a5d17e0b886d5f487c9f0603f2ed487",
     "size_kb": 137.2
   },
-  "images/Book covers/Cover_m y little garden.png": {
+  "images/books/Book covers/Cover_m y little garden.png": {
     "md5Checksum": "3aeb5afe492cf5bbc57cef477f3de88d",
     "size_kb": 126.5
   },
-  "images/Book covers/Cover_the best thing ever.png": {
+  "images/books/Book covers/Cover_the best thing ever.png": {
     "md5Checksum": "54e058b6bec708014403dc359837d3f4",
     "size_kb": 126.6
   },
-  "images/Book covers/Cover_tlotlegos tea party.png": {
+  "images/books/Book covers/Cover_tlotlegos tea party.png": {
     "md5Checksum": "795a2ed8c65aa21a6ed2ac591ffeb4c5",
     "size_kb": 139.7
   },
-  "images/Book covers/Cover_whats at the park.png": {
+  "images/books/Book covers/Cover_whats at the park.png": {
     "md5Checksum": "251e5881be07111253f32c469ac8ea1d",
     "size_kb": 139.1
   },
-  "images/Book covers/Lefas Bath.png": {
+  "images/books/Book covers/Lefas Bath.png": {
     "md5Checksum": "b0b12b43b13dfc2e6c842b88aef3020d",
     "size_kb": 99.6
   },
-  "images/Book covers/Lesedis_sandbox_round_cover.png": {
+  "images/books/Book covers/Lesedis_sandbox_round_cover.png": {
     "md5Checksum": "603a8b6c7a4488def9fe0602b1be30aa",
     "size_kb": 139.2
   },
-  "images/Book covers/Little shoots.png": {
+  "images/books/Book covers/Little shoots.png": {
     "md5Checksum": "5c269b4758c7927d4777c61fbf1953a8",
     "size_kb": 112.9
   },
-  "images/Book covers/Moms red coat.png": {
+  "images/books/Book covers/Moms red coat.png": {
     "md5Checksum": "ed19d022446baf78659caa487a4c5234",
     "size_kb": 65.8
   },
-  "images/Book covers/Shongololo_s_shoes cover.png": {
+  "images/books/Book covers/Shongololo_s_shoes cover.png": {
     "md5Checksum": "b42c62431f6723f781be63dd37c68b7f",
     "size_kb": 60.4
   },
-  "images/Book covers/The_things_that_really_matter_COVER.png": {
+  "images/books/Book covers/The_things_that_really_matter_COVER.png": {
     "md5Checksum": "3c79cbbd11ef99034d1d2fdc7f0b89a8",
     "size_kb": 114.7
   },
-  "images/Book covers/To_the_top_COVER.png": {
+  "images/books/Book covers/To_the_top_COVER.png": {
     "md5Checksum": "6fa5e6decdfec80b87e824b8dec7b8b6",
     "size_kb": 95.7
   },
-  "images/Book covers/beautiful day.png": {
-    "md5Checksum": "ba1e3801a606f281f69c5ed49508d92f",
-    "size_kb": 1812
-  },
-  "images/Book covers/cover_ zibu and zizo.png": {
-    "md5Checksum": "3b690f3b106c44358c056340c7d00d7d",
-    "size_kb": 175
-  },
-  "images/Book covers/cover_The one in the middle.png": {
+  "images/books/Book covers/cover_The one in the middle.png": {
     "md5Checksum": "f6cc754dc8412ef3b8c65dfcbca81697",
     "size_kb": 228.2
   },
-  "images/Book covers/cover_Yellow brown earth.png": {
+  "images/books/Book covers/cover_Yellow brown earth.png": {
     "md5Checksum": "77df6927a6f32bfd2022d0ab5e3a75bc",
     "size_kb": 244.1
   },
-  "images/Book covers/cover_jasu loves football.png": {
+  "images/books/Book covers/cover_jasu loves football.png": {
     "md5Checksum": "82beebc59c3ef4eae8c48d6d3b35be15",
     "size_kb": 243.5
   },
-  "images/Book covers/cover_katiitis song.png": {
+  "images/books/Book covers/cover_katiitis song.png": {
     "md5Checksum": "cb94927145a634983351c875265b2625",
     "size_kb": 332.5
   },
-  "images/Book covers/cover_lebo gogo tea party.png": {
+  "images/books/Book covers/cover_lebo gogo tea party.png": {
     "md5Checksum": "7317a12cc6002a941fb45a5a494766dd",
     "size_kb": 139.6
   },
-  "images/Book covers/cover_let's go on a little hunt.png": {
+  "images/books/Book covers/cover_let's go on a little hunt.png": {
     "md5Checksum": "110ed3aca0b0d1f220ad99545ae71d15",
     "size_kb": 180.3
   },
-  "images/Book covers/cover_look out luando.png": {
+  "images/books/Book covers/cover_look out luando.png": {
     "md5Checksum": "a08db2ea0d93b383ce93821d85d32ec2",
     "size_kb": 165.1
   },
-  "images/Book covers/cover_lost toy.png": {
+  "images/books/Book covers/cover_lost toy.png": {
     "md5Checksum": "bb5eb7deff9fd8047e14104ed911b093",
     "size_kb": 109.7
   },
-  "images/Book covers/cover_mamma wants for lunch.png": {
+  "images/books/Book covers/cover_mamma wants for lunch.png": {
     "md5Checksum": "0d3464444cfdcc4597999c10886b242d",
     "size_kb": 263.8
   },
-  "images/Book covers/cover_my inside weather.png": {
+  "images/books/Book covers/cover_my inside weather.png": {
     "md5Checksum": "9f33f1d20d2b6bce662e370d98f6ebea",
     "size_kb": 194.5
   },
-  "images/Book covers/cover_my shoe.png": {
+  "images/books/Book covers/cover_my shoe.png": {
     "md5Checksum": "fe20655af962925c0116a1b5c146dcf6",
     "size_kb": 80.7
   },
-  "images/Book covers/cover_nita upside down.png": {
+  "images/books/Book covers/cover_nita upside down.png": {
     "md5Checksum": "1a0ed4a77e0252c77b5c6f6fa3d55ac5",
     "size_kb": 227.5
   },
-  "images/Book covers/cover_paint plant day.png": {
+  "images/books/Book covers/cover_paint plant day.png": {
     "md5Checksum": "73494512a97384f1b72b7caf2ad6b4ed",
     "size_kb": 179.1
   },
-  "images/Book covers/cover_scared tumi.png": {
+  "images/books/Book covers/cover_scared tumi.png": {
     "md5Checksum": "e3f59b3d04a2e6b35fddf136b8899b10",
     "size_kb": 122.7
   },
-  "images/Book covers/cover_shhhhh.png": {
+  "images/books/Book covers/cover_shhhhh.png": {
     "md5Checksum": "f6b49f578fd12907838460b79884f03a",
     "size_kb": 123.1
   },
-  "images/Book covers/cover_tejus shadow.png": {
+  "images/books/Book covers/cover_tejus shadow.png": {
     "md5Checksum": "dd857046aa4cf3d37e1c85c11107119e",
     "size_kb": 210.9
   },
-  "images/Book covers/cover_the bee and the shadow.png": {
+  "images/books/Book covers/cover_the bee and the shadow.png": {
     "md5Checksum": "af3d62e1a9b0b248ec039becdfbd0713",
     "size_kb": 170
   },
-  "images/Book covers/cover_the colours.png": {
+  "images/books/Book covers/cover_the colours.png": {
     "md5Checksum": "8e82d072b92719ddca9b57664539420d",
     "size_kb": 172.3
   },
-  "images/Book covers/cover_what's next.png": {
+  "images/books/Book covers/cover_what's next.png": {
     "md5Checksum": "f452f8c222bd3a495aea83203ac7897a",
     "size_kb": 151.2
   },
-  "images/Book covers/cover_whats in pot.png": {
+  "images/books/Book covers/cover_whats in pot.png": {
     "md5Checksum": "efeadfc952bef42baf2333f34f403d7c",
     "size_kb": 51.7
   },
-  "images/Book covers/cover_when grow up.png": {
+  "images/books/Book covers/cover_when grow up.png": {
     "md5Checksum": "8ee178f839a528e5cacf1d199f245b03",
     "size_kb": 172.1
   },
-  "images/Book covers/cover_when will amma be back.png": {
+  "images/books/Book covers/cover_when will amma be back.png": {
     "md5Checksum": "be2d75bebc4ddb774af84c18d6b8df5f",
     "size_kb": 152.6
   },
-  "images/Book covers/cover_where is lulu.png": {
+  "images/books/Book covers/cover_where is lulu.png": {
     "md5Checksum": "21623513937696a352ffd5a9da174040",
     "size_kb": 123.6
   },
-  "images/Book covers/cover_yes you can.png": {
+  "images/books/Book covers/cover_yes you can.png": {
     "md5Checksum": "398eb3ca7cb650d5de34f2efaf61ab3e",
     "size_kb": 179
   },
-  "images/books/a_trip_to_the_tap/cover.jpg": {
-    "md5Checksum": "40503dd0bc61ee953e2d896f082cab42",
-    "size_kb": 30.9
+  "images/books/a_trip_to_the_tap/cover.png": {
+    "md5Checksum": "40677faf7e2d58ef398f1635a1a5eddb",
+    "size_kb": 199.5
   },
   "images/books/a_trip_to_the_tap/page10.jpg": {
     "md5Checksum": "3dae4410e3d0b157e40ef95a4dec4eef",
@@ -836,10 +780,6 @@
   "images/books/a_trip_to_the_tap/page9.jpg": {
     "md5Checksum": "7685510e0b713e9afd1c6ac98d064ce1",
     "size_kb": 17.1
-  },
-  "images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg": {
-    "md5Checksum": "5a552c1de84e670aa4300e1ac3f73eac",
-    "size_kb": 31
   },
   "images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page10.jpg": {
     "md5Checksum": "dbebdb7ee282500b9f5e02e4c770390a",
@@ -897,9 +837,13 @@
     "md5Checksum": "285f82cdddb84d1ab141ff1b27c45fed",
     "size_kb": 37.6
   },
-  "images/books/amaizing_flower/cover.jpg": {
-    "md5Checksum": "655a010bf5fdf2379afb076739d55600",
-    "size_kb": 33.5
+  "images/books/a_very_important_tree/cover.png": {
+    "md5Checksum": "726147a195348384a6ae54814d289e19",
+    "size_kb": 229.3
+  },
+  "images/books/amaizing_flower/cover.png": {
+    "md5Checksum": "0547a3fc9f3b76ba828e313f4bbd92d2",
+    "size_kb": 203.6
   },
   "images/books/amaizing_flower/page10.jpg": {
     "md5Checksum": "a03591b50e29334e76d64c26e28f5c3b",
@@ -952,10 +896,6 @@
   "images/books/amaizing_flower/page9.jpg": {
     "md5Checksum": "e2ce8b6ea30ac66a9141406343dff530",
     "size_kb": 21.2
-  },
-  "images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg": {
-    "md5Checksum": "aad963583801396266fb7e4f42ae03ee",
-    "size_kb": 30.4
   },
   "images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page10.jpg": {
     "md5Checksum": "63610f5c36b2a3e49568188f4dc4de52",
@@ -1013,9 +953,13 @@
     "md5Checksum": "a4288576fd3e62e30af6e689f2ccbb09",
     "size_kb": 33.9
   },
-  "images/books/and_also/image_1.jpg": {
-    "md5Checksum": "f27912f59f46197904594815e2f30043",
-    "size_kb": 30.2
+  "images/books/an_unexpected_adventure/cover.png": {
+    "md5Checksum": "0df329ccdd050eb8d8ceec640d13bee3",
+    "size_kb": 178.5
+  },
+  "images/books/and_also/cover.png": {
+    "md5Checksum": "48d44a9847deba1fc639efa7246bac58",
+    "size_kb": 174.1
   },
   "images/books/and_also/image_10.jpg": {
     "md5Checksum": "d9ad9cb4c1d4a039aa515bc1f040f0e4",
@@ -1069,9 +1013,9 @@
     "md5Checksum": "b29a2d9b5267f9ed70655888570d4eb8",
     "size_kb": 33.5
   },
-  "images/books/angry_akku/image_1.jpg": {
-    "md5Checksum": "e74da380dd44aebcf4d4602f683ced85",
-    "size_kb": 38.2
+  "images/books/angry_akku/cover.png": {
+    "md5Checksum": "b778e72d3df1a586e0b1f85827d143f6",
+    "size_kb": 354.5
   },
   "images/books/angry_akku/image_10.jpg": {
     "md5Checksum": "3e0c68cb20c8b9da8529acd14c7533ce",
@@ -1237,13 +1181,13 @@
     "md5Checksum": "e862553ada8ee2775254695a98e3cfcc",
     "size_kb": 70.4
   },
-  "images/books/beautiful_day/cover.jpg": {
-    "md5Checksum": "d405dd6a6d82bad702618cc4dea92f16",
-    "size_kb": 35.7
+  "images/books/beautiful_day/cover.png": {
+    "md5Checksum": "c099a6504593de7e139fff942596c667",
+    "size_kb": 781
   },
-  "images/books/beloved_daughter/image_1.jpg": {
-    "md5Checksum": "155703cd3bb800850449df8bf36ac953",
-    "size_kb": 62
+  "images/books/beloved_daughter/cover.png": {
+    "md5Checksum": "9638dd8a0bb3d18f2da4fb4897fb376a",
+    "size_kb": 303.5
   },
   "images/books/beloved_daughter/image_10.jpg": {
     "md5Checksum": "46b1f7857b233c0421cb741dc8df74af",
@@ -1293,9 +1237,9 @@
     "md5Checksum": "1f1d8d4c79f76d18ad1638a86e47c8f9",
     "size_kb": 31.3
   },
-  "images/books/big_blue_bus/image_1.jpg": {
-    "md5Checksum": "48017d0640979a42fa4a7206346a315f",
-    "size_kb": 21.6
+  "images/books/big_blue_bus/cover.png": {
+    "md5Checksum": "21403cf25851ed7b6ef5068a2c7f5578",
+    "size_kb": 249.2
   },
   "images/books/big_blue_bus/image_10.jpg": {
     "md5Checksum": "f613e8b9722cb1307dabee5172fb16fd",
@@ -1361,9 +1305,9 @@
     "md5Checksum": "769135fbd99993f8f64344ff77b03bcf",
     "size_kb": 23.2
   },
-  "images/books/brave_bora/cover.jpg": {
-    "md5Checksum": "663246078483d80d6d46c45a9950d991",
-    "size_kb": 28.7
+  "images/books/brave_bora/cover.png": {
+    "md5Checksum": "d98ca04eb1e5915a347d148e2aed8300",
+    "size_kb": 200
   },
   "images/books/brave_bora/page10.jpg": {
     "md5Checksum": "1d282d70f2147d217fb775de529b935f",
@@ -1421,9 +1365,9 @@
     "md5Checksum": "c1f27bc19a0e39b4df6f3e7352aa86dc",
     "size_kb": 32.9
   },
-  "images/books/circles_in_park/image_1.jpg": {
-    "md5Checksum": "fa00e4ce92f1550d1bfcc711328700ec",
-    "size_kb": 16.1
+  "images/books/circles_in_park/cover.png": {
+    "md5Checksum": "3a5adb2b71796ef1bc8e1137ab9e5ed6",
+    "size_kb": 137.8
   },
   "images/books/circles_in_park/image_2.jpg": {
     "md5Checksum": "d000a7634b05ba19ad535e07dc1c419f",
@@ -1449,9 +1393,9 @@
     "md5Checksum": "14d79b89583482820cc0b22e7825b0c0",
     "size_kb": 7.2
   },
-  "images/books/decision/image_1.jpg": {
-    "md5Checksum": "37f88b5c019e340a8749f064349e8862",
-    "size_kb": 29.5
+  "images/books/decision/cover.png": {
+    "md5Checksum": "decfb6e04d4b341b6530757fd3aa0622",
+    "size_kb": 343.2
   },
   "images/books/decision/image_10.jpg": {
     "md5Checksum": "29d3ae1e19bcdef4c80438fde2b926a2",
@@ -3913,9 +3857,9 @@
     "md5Checksum": "2fc2bb08be4003bd2f752efcbced38e1",
     "size_kb": 30.7
   },
-  "images/books/zibu_and_zizo/cover.jpg": {
-    "md5Checksum": "285baa539f802547ce25eb16010f9cc8",
-    "size_kb": 25.6
+  "images/books/zibu_and_zizo/cover.png": {
+    "md5Checksum": "3b690f3b106c44358c056340c7d00d7d",
+    "size_kb": 175
   },
   "images/books/zibu_and_zizo/page10.jpg": {
     "md5Checksum": "30e88a5e8e62c52f567e95f041bdccec",
@@ -4661,6 +4605,14 @@
     "md5Checksum": "6cea9ba6ba1ab27065490a9fa1a0a667",
     "size_kb": 22
   },
+  "images/relax/relax_17.svg": {
+    "md5Checksum": "36f6c55a26dd63395a9fa803a88ae426",
+    "size_kb": 28.9
+  },
+  "images/relax/relax_18.svg": {
+    "md5Checksum": "49d46f881d55d016db495bc5bf6db8c4",
+    "size_kb": 16.2
+  },
   "images/relax/relax_19.svg": {
     "md5Checksum": "31f362f35183c854fc9fff4995567716",
     "size_kb": 94.1
@@ -4676,6 +4628,10 @@
   "images/relax/relax_21.svg": {
     "md5Checksum": "39012832382bd464aa0767af25d01cec",
     "size_kb": 31.4
+  },
+  "images/relax/relax_22.svg": {
+    "md5Checksum": "7e4f4071a6f760f9bd2ffcb87069b9d4",
+    "size_kb": 174.4
   },
   "images/relax/relax_23.svg": {
     "md5Checksum": "d6324d5e73ae68acfee6fb6218622eab",
