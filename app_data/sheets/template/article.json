@@ -941,6 +941,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "youtube"
     },
@@ -950,6 +951,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "language",
       "_dynamicFields": {
@@ -974,6 +976,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "youtube_column",
       "_dynamicFields": {
@@ -1007,6 +1010,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "youtube_concat",
       "_dynamicFields": {
@@ -1029,6 +1033,7 @@
       "type": "display_group",
       "name": "youtube_1",
       "condition": "@local.article_data.media_type == \"youtube\"",
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "youtube",
@@ -1037,6 +1042,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "_nested_name": "youtube_1.youtube_2",
           "_dynamicFields": {
             "value": [

@@ -35,7 +35,7 @@
       ],
       "rows": [
         {
-          "name": "book_id",
+          "name": "prepare_id",
           "value": "@gen.id"
         }
       ]

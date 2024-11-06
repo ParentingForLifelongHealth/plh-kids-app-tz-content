@@ -9,7 +9,6 @@
       "text_1": "**ParentApp supports you to use stories and books to help your child learn.**",
       "_translations": {
         "text_1": {},
-        "text_2": {},
         "media_title": {},
         "media_transcript": {},
         "quiz_1_question": {},
@@ -18,7 +17,8 @@
         },
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {},
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1": {
@@ -49,7 +49,6 @@
           "eng": "That’s okay! We are excited to get you started on your book-sharing journey."
         }
       },
-      "text_2": "Sharing stories and looking at books together benefits children in many ways.",
       "image_asset": "images/modules/join/join_12.svg",
       "media_type": "video",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
@@ -61,6 +60,7 @@
       "quiz_1_feedback_1": "Great! We are excited to share some ideas with you that you and your child might enjoy.",
       "quiz_1_option_2_text": "Not really",
       "quiz_1_feedback_2": "That’s okay! We are excited to get you started on your book-sharing journey.",
+      "text_2": "Sharing stories and looking at books together benefits children in many ways.",
       "media_asset": "https://drive.google.com/file/d/1khiG2vfEChUVCR0nL0kSQfcx1nx4VRFq/view?usp=share_link",
       "completed": false
     },
@@ -72,11 +72,11 @@
           "eng": "At what age can I start sharing books with my child?"
         }
       },
+      "image_asset": "images/modules/join/join_13.svg",
       "text_2": "At what age can I start sharing books with my child?",
       "_translations": {
         "text_2": {}
       },
-      "image_asset": "images/modules/join/join_13.svg",
       "completed": false
     },
     {
@@ -110,11 +110,11 @@
           "eng": "How can I do book activities with my child if I struggle with reading myself?"
         }
       },
+      "image_asset": "images/modules/join/join_15.svg",
       "text_2": "How can I do book activities with my child if I struggle with reading myself?",
       "_translations": {
         "text_2": {}
       },
-      "image_asset": "images/modules/join/join_15.svg",
       "completed": false
     },
     {
@@ -179,11 +179,11 @@
           "eng": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?"
         }
       },
+      "image_asset": "images/modules/join/join_18.svg",
       "text_2": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?",
       "_translations": {
         "text_2": {}
       },
-      "image_asset": "images/modules/join/join_18.svg",
       "completed": false
     },
     {
@@ -192,8 +192,8 @@
       "text_1": "Great question. We know that in many cultures, including Africa, parents pass down values and life lessons to children through storytelling.",
       "_translations": {
         "text_1": {},
-        "text_2": {},
-        "media_transcript": {}
+        "media_transcript": {},
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1": {
@@ -206,9 +206,9 @@
           "eng": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!"
         }
       },
-      "text_2": "Let’s look at some of the ways that book activities build on this tradition:",
       "image_asset": "images/modules/join/join_19.svg",
       "media_transcript": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!",
+      "text_2": "Let’s look at some of the ways that book activities build on this tradition:",
       "completed": false
     },
     {
@@ -242,8 +242,8 @@
           "eng": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning."
         }
       },
-      "text_2": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning.",
       "image_asset": "images/modules/join/join_21.svg",
+      "text_2": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning.",
       "completed": false
     }
   ]

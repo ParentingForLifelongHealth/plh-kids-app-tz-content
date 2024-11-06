@@ -637,8 +637,26 @@
       "_nested_name": "accordion_27"
     },
     {
+      "name": "prepare_image",
+      "value": "images/icons/magnifying_glass.svg",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "prepare_image"
+    },
+    {
+      "name": "prepare_title",
+      "value": "Prepare",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "prepare_title"
+    },
+    {
       "type": "task_card",
-      "name": "tc_1",
+      "name": "task_card_1",
       "action_list": [
         {
           "trigger": "click",
@@ -650,37 +668,15 @@
           "_cleaned": "click |  go_to: prepare_@local.prepare_data.id"
         }
       ],
-      "rows": [
-        {
-          "type": "display_group",
-          "name": "dg_1",
-          "rows": [
-            {
-              "type": "image",
-              "value": "images/icons/magnifying_glass.svg",
-              "_translations": {
-                "value": {}
-              },
-              "style_list": [
-                "max-width: 60px"
-              ],
-              "name": "image_1",
-              "_nested_name": "tc_1.dg_1.image_1"
-            },
-            {
-              "type": "text",
-              "value": "Prepare",
-              "_translations": {
-                "value": {}
-              },
-              "name": "text_2",
-              "_nested_name": "tc_1.dg_1.text_2"
-            }
-          ],
-          "_nested_name": "tc_1.dg_1"
-        }
-      ],
-      "_nested_name": "tc_1",
+      "parameter_list": {
+        "title": "@local.prepare_title",
+        "image": "@local.prepare_image",
+        "variant": "button",
+        "in_progress_icon": "images/icons/in_progress.svg",
+        "completed_icon": "images/icons/tick.svg",
+        "show_progress_text": "FALSE"
+      },
+      "_nested_name": "task_card_1",
       "_dynamicFields": {
         "action_list": {
           "0": {
@@ -711,6 +707,24 @@
               }
             ]
           }
+        },
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@local.prepare_title",
+              "matchedExpression": "@local.prepare_title",
+              "type": "local",
+              "fieldName": "prepare_title"
+            }
+          ],
+          "image": [
+            {
+              "fullExpression": "@local.prepare_image",
+              "matchedExpression": "@local.prepare_image",
+              "type": "local",
+              "fieldName": "prepare_image"
+            }
+          ]
         }
       },
       "_dynamicDependencies": {
@@ -718,12 +732,39 @@
           "action_list.0.args.0",
           "action_list.0._raw",
           "action_list.0._cleaned"
+        ],
+        "@local.prepare_title": [
+          "parameter_list.title"
+        ],
+        "@local.prepare_image": [
+          "parameter_list.image"
         ]
       }
     },
     {
+      "name": "read_child_image",
+      "value": "images/icons/picture_book_blue.svg",
+      "_translations": {
+        "value": {}
+      },
+      "style_list": [
+        "max-width: 60px"
+      ],
+      "type": "set_variable",
+      "_nested_name": "read_child_image"
+    },
+    {
+      "name": "read_child_title",
+      "value": "Read with Child",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "read_child_title"
+    },
+    {
       "type": "task_card",
-      "name": "tc_2",
+      "name": "task_card_1",
       "action_list": [
         {
           "trigger": "click",
@@ -738,37 +779,15 @@
           }
         }
       ],
-      "rows": [
-        {
-          "type": "display_group",
-          "name": "dg_2",
-          "rows": [
-            {
-              "type": "image",
-              "value": "images/icons/picture_book_blue.svg",
-              "_translations": {
-                "value": {}
-              },
-              "style_list": [
-                "max-width: 60px"
-              ],
-              "name": "image_1",
-              "_nested_name": "tc_2.dg_2.image_1"
-            },
-            {
-              "type": "text",
-              "value": "Read with Child",
-              "_translations": {
-                "value": {}
-              },
-              "name": "text_2",
-              "_nested_name": "tc_2.dg_2.text_2"
-            }
-          ],
-          "_nested_name": "tc_2.dg_2"
-        }
-      ],
-      "_nested_name": "tc_2",
+      "parameter_list": {
+        "title": "@local.read_child_title",
+        "image": "@local.read_child_image",
+        "variant": "button",
+        "in_progress_icon": "images/icons/in_progress.svg",
+        "completed_icon": "images/icons/tick.svg",
+        "show_progress_text": "FALSE"
+      },
+      "_nested_name": "task_card_1",
       "_dynamicFields": {
         "action_list": {
           "0": {
@@ -799,6 +818,24 @@
               }
             ]
           }
+        },
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@local.read_child_title",
+              "matchedExpression": "@local.read_child_title",
+              "type": "local",
+              "fieldName": "read_child_title"
+            }
+          ],
+          "image": [
+            {
+              "fullExpression": "@local.read_child_image",
+              "matchedExpression": "@local.read_child_image",
+              "type": "local",
+              "fieldName": "read_child_image"
+            }
+          ]
         }
       },
       "_dynamicDependencies": {
@@ -806,42 +843,14 @@
           "action_list.0.args.0",
           "action_list.0._raw",
           "action_list.0._cleaned"
+        ],
+        "@local.read_child_title": [
+          "parameter_list.title"
+        ],
+        "@local.read_child_image": [
+          "parameter_list.image"
         ]
       }
-    },
-    {
-      "type": "template",
-      "name": "nav_buttons",
-      "value": "nav_buttons",
-      "action_list": [
-        {
-          "trigger": "completed",
-          "action_id": "emit",
-          "args": [
-            "completed"
-          ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
-        },
-        {
-          "trigger": "uncompleted",
-          "action_id": "emit",
-          "args": [
-            "uncompleted"
-          ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
-        }
-      ],
-      "rows": [
-        {
-          "name": "is_standalone_task",
-          "value": true,
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.is_standalone_task"
-        }
-      ],
-      "_nested_name": "nav_buttons"
     }
   ],
   "_xlsxPath": "books/picture_books.xlsx"

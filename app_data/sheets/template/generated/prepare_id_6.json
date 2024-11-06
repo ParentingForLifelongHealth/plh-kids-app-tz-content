@@ -29,13 +29,13 @@
       ],
       "rows": [
         {
-          "name": "book_id",
+          "name": "prepare_id",
           "value": "id_6",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "prepare.book_id"
+          "_nested_name": "prepare.prepare_id"
         }
       ],
       "_nested_name": "prepare"

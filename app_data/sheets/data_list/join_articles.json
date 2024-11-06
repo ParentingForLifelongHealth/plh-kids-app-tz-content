@@ -11,8 +11,7 @@
       "text_1": "Being a parent is stressful!",
       "_translations": {
         "text_1": {},
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1": {
@@ -20,17 +19,22 @@
         },
         "text_1_facilitator": {
           "eng": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children."
-        },
-        "text_2": {
-          "eng": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself."
         }
       },
-      "text_1_facilitator": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children.",
-      "text_2": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself."
+      "text_1_facilitator": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children."
     },
     {
       "id": "relax_intro_2",
-      "category_id": "relax"
+      "category_id": "relax",
+      "text_1_facilitator": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself."
+        }
+      }
     },
     {
       "id": "welcome_1",
@@ -87,6 +91,7 @@
     {
       "id": "welcome_2",
       "category_id": "welcome",
+      "image_asset": "New image",
       "text_1": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent.",
       "_translations": {
         "text_1": {}

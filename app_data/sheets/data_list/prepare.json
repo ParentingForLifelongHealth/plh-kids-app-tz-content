@@ -6,102 +6,403 @@
   "rows": [
     {
       "id": "id_1",
-      "module_id": "module_id",
-      "book_id": "book_id",
-      "media_type": "video",
-      "media_asset": "media_asset",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
-      "title": "title::eng",
+      "title": "Prepare",
       "_translations": {
-        "title": {},
-        "media_title": {},
-        "media_transcript": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "title::eng"
-        },
-        "media_title": {
-          "eng": "media_title::eng"
-        },
-        "media_transcript": {
-          "eng": "media_transcript::eng"
+          "eng": "Prepare"
         }
+      }
+    },
+    {
+      "id": "id_2",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
       },
-      "media_title": "media_title::eng",
-      "media_transcript": "media_transcript::eng"
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_2"
+      "id": "id_3",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_3"
+      "id": "id_4",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_4"
+      "id": "id_5",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_5"
+      "id": "id_6",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_6"
+      "id": "id_7",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_7"
+      "id": "id_8",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_8"
+      "id": "id_9",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_9"
+      "id": "id_10",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_10"
+      "id": "id_11",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_11"
+      "id": "id_12",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_12"
+      "id": "id_13",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_13"
+      "id": "id_14",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_14"
+      "id": "id_15",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_15"
+      "id": "id_16",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_16"
+      "id": "id_17",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_17"
+      "id": "id_18",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_18"
+      "id": "id_19",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_19"
+      "id": "id_20",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_20"
+      "id": "id_21",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_21"
+      "id": "id_22",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_22"
+      "id": "id_23",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_23"
+      "id": "id_24",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     },
     {
-      "id": "id_24"
-    },
-    {
-      "id": "id_25"
+      "id": "id_25",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=nKS7msjLQ1U",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0oOAGrStVGI",
+      "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8",
+      "title": "Prepare",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Prepare"
+        }
+      }
     }
   ],
   "_xlsxPath": "books/TZ prepare data.xlsx"
