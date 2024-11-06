@@ -360,6 +360,7 @@
     },
     {
       "id": "story",
+      "image_asset": "images/learning_through_play/story.svg",
       "play_tag_list": [
         "chat"
       ],
@@ -397,6 +398,7 @@
     },
     {
       "id": "simon_says",
+      "image_asset": "images/learning_through_play/simon_says.svg",
       "play_tag_list": [
         "move",
         "home"
@@ -435,6 +437,7 @@
     },
     {
       "id": "when_I_grow_up",
+      "image_asset": "images/learning_through_play/when_grow_up.svg",
       "play_tag_list": [
         "chat"
       ],
@@ -472,6 +475,7 @@
     },
     {
       "id": "favourite_play",
+      "image_asset": "images/learning_through_play/favorite_play.svg",
       "play_tag_list": [
         "home"
       ],
@@ -509,6 +513,7 @@
     },
     {
       "id": "act_the_story",
+      "image_asset": "images/learning_through_play/act_the_story.svg",
       "play_tag_list": [
         "pretend",
         "move"
@@ -585,6 +590,7 @@
     },
     {
       "id": "build_a_road",
+      "image_asset": "images/learning_through_play/build_a_road.svg",
       "play_tag_list": [
         "pretend",
         "home"
@@ -623,6 +629,7 @@
     },
     {
       "id": "animal_strengths",
+      "image_asset": "images/learning_through_play/animal_strengths.svg",
       "play_tag_list": [
         "pretend",
         "move"
@@ -661,6 +668,7 @@
     },
     {
       "id": "treasure_hunt",
+      "image_asset": "images/learning_through_play/treasure_hunt.svg",
       "play_tag_list": [
         "home"
       ],

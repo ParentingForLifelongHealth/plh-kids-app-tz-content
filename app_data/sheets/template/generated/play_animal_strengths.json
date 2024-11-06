@@ -15,7 +15,7 @@
     {
       "type": "image",
       "name": "image_asset",
-      "value": "@gen.image_asset",
+      "value": "images/learning_through_play/animal_strengths.svg",
       "_translations": {
         "value": {}
       },

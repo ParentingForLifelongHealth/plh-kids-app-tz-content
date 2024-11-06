@@ -936,55 +936,118 @@
       }
     },
     {
+      "name": "youtube_column",
+      "value": "@fields._app_language",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "youtube_column",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields._app_language",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "youtube",
       "condition": "@local.article_data.media_type == \"youtube\"",
       "rows": [
         {
-          "name": "youtube",
-          "value": "youtube_@fields._app_language",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "youtube.youtube",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "youtube_@fields._app_language",
-                "matchedExpression": "@fields._app_language",
-                "type": "fields",
-                "fieldName": "_app_language"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields._app_language": [
-              "value"
-            ]
-          }
-        },
-        {
           "type": "youtube",
-          "name": "video_src",
-          "value": "@local.youtube",
+          "name": "media_asset",
+          "value": "@local.article_data.youtube_@local.youtube_column",
           "_translations": {
             "value": {}
           },
-          "_nested_name": "youtube.video_src",
+          "action_list": [
+            {
+              "trigger": "changed",
+              "action_id": "emit",
+              "args": [
+                "set_language",
+                "@local.youtube_column"
+              ],
+              "_raw": "changed | emit: set_language: @local.youtube_column",
+              "_cleaned": "changed | emit: set_language: @local.youtube_column"
+            },
+            {
+              "trigger": "changed",
+              "action_id": "emit",
+              "args": [
+                "force_reload"
+              ],
+              "_raw": "changed | emit: force_reload",
+              "_cleaned": "changed | emit: force_reload"
+            }
+          ],
+          "_nested_name": "youtube.media_asset",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.youtube",
-                "matchedExpression": "@local.youtube",
+                "fullExpression": "@local.article_data.youtube_@local.youtube_column",
+                "matchedExpression": "@local.article_data.youtube_",
                 "type": "local",
-                "fieldName": "youtube"
+                "fieldName": "article_data"
+              },
+              {
+                "fullExpression": "@local.article_data.youtube_@local.youtube_column",
+                "matchedExpression": "@local.youtube_column",
+                "type": "local",
+                "fieldName": "youtube_column"
               }
-            ]
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.youtube_column",
+                      "matchedExpression": "@local.youtube_column",
+                      "type": "local",
+                      "fieldName": "youtube_column"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "changed | emit: set_language: @local.youtube_column",
+                    "matchedExpression": "@local.youtube_column",
+                    "type": "local",
+                    "fieldName": "youtube_column"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "changed | emit: set_language: @local.youtube_column",
+                    "matchedExpression": "@local.youtube_column",
+                    "type": "local",
+                    "fieldName": "youtube_column"
+                  }
+                ]
+              }
+            }
           },
           "_dynamicDependencies": {
-            "@local.youtube": [
+            "@local.article_data.youtube_": [
               "value"
+            ],
+            "@local.youtube_column": [
+              "value",
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
             ]
           }
         }

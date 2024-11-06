@@ -36,16 +36,6 @@
           },
           "type": "set_variable",
           "_nested_name": "book_landing.book_id"
-        },
-        {
-          "name": "module_id",
-          "value": "connect",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "book_landing.module_id"
         }
       ],
       "_nested_name": "book_landing"
