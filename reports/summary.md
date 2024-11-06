@@ -11,7 +11,7 @@
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 40 |
+| display_group | 41 |
 | image | 31 |
 | items | 11 |
 | lottie_animation | 2 |
@@ -36,13 +36,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 463 |
+| emit: completed | 464 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 461 |
+| emit: uncompleted | 462 |
 | feedback | 7 |
 | go_to | 12 |
 | pop_up | 15 |
@@ -57,8 +57,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 63773 KB | 63.8 MB |
-| unused | 12308 KB | 12.3 MB |
+| total | 66889 KB | 66.9 MB |
+| unused | 8125 KB | 8.1 MB |
 </details>
 
 <details open>
@@ -75,61 +75,47 @@ Assets that appear in app-data but do not have references within sheets
 | audio/modules/connect/connect_09.mp3 | 254.9 |
 | audio/modules/create/create_03.mp3 | 190.2 |
 | contents.json | 5.9 |
-| images/Book covers/And_also.png | 174.1 |
-| images/Book covers/Angry akku.png | 354.5 |
-| images/Book covers/Cover_A very important tree.png | 229.3 |
-| images/Book covers/Cover_A_trip_to_the_tap.png | 199.5 |
-| images/Book covers/Cover_Amaizing Flower.png | 203.6 |
-| images/Book covers/Cover_Baby's first photo.png | 153.3 |
-| images/Book covers/Cover_Beloved daughter.png | 303.5 |
-| images/Book covers/Cover_Big Blue bus.png | 249.2 |
-| images/Book covers/Cover_Brave Bora.png | 200 |
-| images/Book covers/Cover_Emotions come and go.png | 266.1 |
-| images/Book covers/Cover_Fifi and teddy.png | 163.4 |
-| images/Book covers/Cover_Grandpa Farouk's garden.png | 195.6 |
-| images/Book covers/Cover_I dont want to go to sleep.png | 101.5 |
-| images/Book covers/Cover_an unexpected adventure.png | 178.5 |
-| images/Book covers/Cover_circles in the park.png | 137.8 |
-| images/Book covers/Cover_decisions.png | 343.2 |
-| images/Book covers/Cover_how do you sleep.png | 182.5 |
-| images/Book covers/Cover_how do you want your eggs.png | 137.2 |
-| images/Book covers/Cover_m y little garden.png | 126.5 |
-| images/Book covers/Cover_the best thing ever.png | 126.6 |
-| images/Book covers/Cover_tlotlegos tea party.png | 139.7 |
-| images/Book covers/Cover_whats at the park.png | 139.1 |
-| images/Book covers/Lefas Bath.png | 99.6 |
-| images/Book covers/Lesedis_sandbox_round_cover.png | 139.2 |
-| images/Book covers/Little shoots.png | 112.9 |
-| images/Book covers/Moms red coat.png | 65.8 |
-| images/Book covers/Shongololo_s_shoes cover.png | 60.4 |
-| images/Book covers/The_things_that_really_matter_COVER.png | 114.7 |
-| images/Book covers/To_the_top_COVER.png | 95.7 |
-| images/Book covers/beautiful day.png | 1812 |
-| images/Book covers/cover_ zibu and zizo.png | 175 |
-| images/Book covers/cover_The one in the middle.png | 228.2 |
-| images/Book covers/cover_Yellow brown earth.png | 244.1 |
-| images/Book covers/cover_jasu loves football.png | 243.5 |
-| images/Book covers/cover_katiitis song.png | 332.5 |
-| images/Book covers/cover_lebo gogo tea party.png | 139.6 |
-| images/Book covers/cover_let's go on a little hunt.png | 180.3 |
-| images/Book covers/cover_look out luando.png | 165.1 |
-| images/Book covers/cover_lost toy.png | 109.7 |
-| images/Book covers/cover_mamma wants for lunch.png | 263.8 |
-| images/Book covers/cover_my inside weather.png | 194.5 |
-| images/Book covers/cover_my shoe.png | 80.7 |
-| images/Book covers/cover_nita upside down.png | 227.5 |
-| images/Book covers/cover_paint plant day.png | 179.1 |
-| images/Book covers/cover_scared tumi.png | 122.7 |
-| images/Book covers/cover_shhhhh.png | 123.1 |
-| images/Book covers/cover_tejus shadow.png | 210.9 |
-| images/Book covers/cover_the bee and the shadow.png | 170 |
-| images/Book covers/cover_the colours.png | 172.3 |
-| images/Book covers/cover_what's next.png | 151.2 |
-| images/Book covers/cover_whats in pot.png | 51.7 |
-| images/Book covers/cover_when grow up.png | 172.1 |
-| images/Book covers/cover_when will amma be back.png | 152.6 |
-| images/Book covers/cover_where is lulu.png | 123.6 |
-| images/Book covers/cover_yes you can.png | 179 |
+| images/books/Book covers/Cover_Emotions come and go.png | 266.1 |
+| images/books/Book covers/Cover_Fifi and teddy.png | 163.4 |
+| images/books/Book covers/Cover_Grandpa Farouk's garden.png | 195.6 |
+| images/books/Book covers/Cover_I dont want to go to sleep.png | 101.5 |
+| images/books/Book covers/Cover_how do you sleep.png | 182.5 |
+| images/books/Book covers/Cover_how do you want your eggs.png | 137.2 |
+| images/books/Book covers/Cover_m y little garden.png | 126.5 |
+| images/books/Book covers/Cover_the best thing ever.png | 126.6 |
+| images/books/Book covers/Cover_tlotlegos tea party.png | 139.7 |
+| images/books/Book covers/Cover_whats at the park.png | 139.1 |
+| images/books/Book covers/Lefas Bath.png | 99.6 |
+| images/books/Book covers/Lesedis_sandbox_round_cover.png | 139.2 |
+| images/books/Book covers/Little shoots.png | 112.9 |
+| images/books/Book covers/Moms red coat.png | 65.8 |
+| images/books/Book covers/Shongololo_s_shoes cover.png | 60.4 |
+| images/books/Book covers/The_things_that_really_matter_COVER.png | 114.7 |
+| images/books/Book covers/To_the_top_COVER.png | 95.7 |
+| images/books/Book covers/cover_The one in the middle.png | 228.2 |
+| images/books/Book covers/cover_Yellow brown earth.png | 244.1 |
+| images/books/Book covers/cover_jasu loves football.png | 243.5 |
+| images/books/Book covers/cover_katiitis song.png | 332.5 |
+| images/books/Book covers/cover_lebo gogo tea party.png | 139.6 |
+| images/books/Book covers/cover_let's go on a little hunt.png | 180.3 |
+| images/books/Book covers/cover_look out luando.png | 165.1 |
+| images/books/Book covers/cover_lost toy.png | 109.7 |
+| images/books/Book covers/cover_mamma wants for lunch.png | 263.8 |
+| images/books/Book covers/cover_my inside weather.png | 194.5 |
+| images/books/Book covers/cover_my shoe.png | 80.7 |
+| images/books/Book covers/cover_nita upside down.png | 227.5 |
+| images/books/Book covers/cover_paint plant day.png | 179.1 |
+| images/books/Book covers/cover_scared tumi.png | 122.7 |
+| images/books/Book covers/cover_shhhhh.png | 123.1 |
+| images/books/Book covers/cover_tejus shadow.png | 210.9 |
+| images/books/Book covers/cover_the bee and the shadow.png | 170 |
+| images/books/Book covers/cover_the colours.png | 172.3 |
+| images/books/Book covers/cover_what's next.png | 151.2 |
+| images/books/Book covers/cover_whats in pot.png | 51.7 |
+| images/books/Book covers/cover_when grow up.png | 172.1 |
+| images/books/Book covers/cover_when will amma be back.png | 152.6 |
+| images/books/Book covers/cover_where is lulu.png | 123.6 |
+| images/books/Book covers/cover_yes you can.png | 179 |
 | images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png | 139.2 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_white.svg | 0.7 |
@@ -156,6 +142,15 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/favicon.png | 6.3 |
 | images/logos/favicon.svg | 3.6 |
 | images/logos/plh_white.png | 12.8 |
+| images/relax/relax_15.svg | 26.6 |
+| images/relax/relax_17.svg | 28.9 |
+| images/relax/relax_18.svg | 16.2 |
+| images/relax/relax_20.svg | 71.5 |
+| images/relax/relax_21.svg | 31.4 |
+| images/relax/relax_22.svg | 174.4 |
+| images/relax/relax_23.svg | 26 |
+| images/relax/relax_24.svg | 145.5 |
+| images/relax/relax_25.svg | 10 |
 | images/relax/relax_woman.svg | 14.8 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
@@ -421,7 +416,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_7.mp3 | 285.3 | 1 |
 | audio/relax/relax_8.mp3 | 302 | 1 |
 | audio/relax/relax_9.mp3 | 576.6 | 1 |
-| images/books/a_trip_to_the_tap/cover.jpg | 30.9 | 2 |
+| images/books/a_trip_to_the_tap/cover.png | 199.5 | 2 |
 | images/books/a_trip_to_the_tap/page10.jpg | 16.9 | 2 |
 | images/books/a_trip_to_the_tap/page11.jpg | 19.2 | 2 |
 | images/books/a_trip_to_the_tap/page12.jpg | 17 | 2 |
@@ -434,7 +429,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/a_trip_to_the_tap/page7.jpg | 18.7 | 2 |
 | images/books/a_trip_to_the_tap/page8.jpg | 18 | 2 |
 | images/books/a_trip_to_the_tap/page9.jpg | 17.1 | 2 |
-| images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg | 31 | 2 |
 | images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page10.jpg | 33 | 2 |
 | images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page11.jpg | 34.7 | 2 |
 | images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page12.jpg | 34.5 | 2 |
@@ -449,7 +443,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page7.jpg | 36.6 | 2 |
 | images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page8.jpg | 36.4 | 2 |
 | images/books/a_very_important_tree/a-very-important-tree_interior_20211005_page9.jpg | 37.6 | 2 |
-| images/books/amaizing_flower/cover.jpg | 33.5 | 2 |
+| images/books/a_very_important_tree/cover.png | 229.3 | 2 |
+| images/books/amaizing_flower/cover.png | 203.6 | 2 |
 | images/books/amaizing_flower/page10.jpg | 21.8 | 2 |
 | images/books/amaizing_flower/page11.jpg | 22 | 2 |
 | images/books/amaizing_flower/page12.jpg | 23.2 | 2 |
@@ -463,7 +458,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/amaizing_flower/page7.jpg | 24 | 2 |
 | images/books/amaizing_flower/page8.jpg | 19.2 | 2 |
 | images/books/amaizing_flower/page9.jpg | 21.2 | 2 |
-| images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg | 30.4 | 2 |
 | images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page10.jpg | 27.1 | 2 |
 | images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page11.jpg | 15.5 | 2 |
 | images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page12.jpg | 19.7 | 2 |
@@ -478,7 +472,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page7.jpg | 23 | 2 |
 | images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page8.jpg | 30 | 2 |
 | images/books/an_unexpected_adventure/an_unexpected_adventure_interior_20211018_page9.jpg | 33.9 | 2 |
-| images/books/and_also/image_1.jpg | 30.2 | 2 |
+| images/books/an_unexpected_adventure/cover.png | 178.5 | 2 |
+| images/books/and_also/cover.png | 174.1 | 2 |
 | images/books/and_also/image_10.jpg | 43.1 | 2 |
 | images/books/and_also/image_11.jpg | 46.3 | 2 |
 | images/books/and_also/image_12.jpg | 45.5 | 2 |
@@ -492,7 +487,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/and_also/image_7.jpg | 39.7 | 2 |
 | images/books/and_also/image_8.jpg | 16.6 | 2 |
 | images/books/and_also/image_9.jpg | 33.5 | 2 |
-| images/books/angry_akku/image_1.jpg | 38.2 | 2 |
+| images/books/angry_akku/cover.png | 354.5 | 2 |
 | images/books/angry_akku/image_10.jpg | 20 | 2 |
 | images/books/angry_akku/image_11.jpg | 25.5 | 2 |
 | images/books/angry_akku/image_12.jpg | 19 | 2 |
@@ -534,8 +529,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/beautiful_day/10.jpg | 67.9 | 2 |
 | images/books/beautiful_day/11.jpg | 59 | 2 |
 | images/books/beautiful_day/12.jpg | 70.4 | 2 |
-| images/books/beautiful_day/cover.jpg | 35.7 | 2 |
-| images/books/beloved_daughter/image_1.jpg | 62 | 2 |
+| images/books/beautiful_day/cover.png | 781 | 2 |
+| images/books/beloved_daughter/cover.png | 303.5 | 2 |
 | images/books/beloved_daughter/image_10.jpg | 29.4 | 2 |
 | images/books/beloved_daughter/image_11.jpg | 35.3 | 2 |
 | images/books/beloved_daughter/image_12.jpg | 36.8 | 2 |
@@ -548,7 +543,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/beloved_daughter/image_7.jpg | 31 | 2 |
 | images/books/beloved_daughter/image_8.jpg | 28.9 | 2 |
 | images/books/beloved_daughter/image_9.jpg | 31.3 | 2 |
-| images/books/big_blue_bus/image_1.jpg | 21.6 | 2 |
+| images/books/big_blue_bus/cover.png | 249.2 | 2 |
 | images/books/big_blue_bus/image_10.jpg | 19.5 | 2 |
 | images/books/big_blue_bus/image_11.jpg | 26.8 | 2 |
 | images/books/big_blue_bus/image_12.jpg | 28.9 | 2 |
@@ -565,7 +560,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/big_blue_bus/image_7.jpg | 22.3 | 2 |
 | images/books/big_blue_bus/image_8.jpg | 9.1 | 2 |
 | images/books/big_blue_bus/image_9.jpg | 23.2 | 2 |
-| images/books/brave_bora/cover.jpg | 28.7 | 2 |
+| images/books/brave_bora/cover.png | 200 | 2 |
 | images/books/brave_bora/page10.jpg | 22.8 | 2 |
 | images/books/brave_bora/page11.jpg | 25.6 | 2 |
 | images/books/brave_bora/page12.jpg | 29.6 | 2 |
@@ -580,14 +575,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/brave_bora/page7.jpg | 26 | 4 |
 | images/books/brave_bora/page8.jpg | 22.3 | 2 |
 | images/books/brave_bora/page9.jpg | 32.9 | 2 |
-| images/books/circles_in_park/image_1.jpg | 16.1 | 2 |
+| images/books/circles_in_park/cover.png | 137.8 | 2 |
 | images/books/circles_in_park/image_2.jpg | 18.5 | 2 |
 | images/books/circles_in_park/image_3.jpg | 16.7 | 2 |
 | images/books/circles_in_park/image_4.jpg | 21 | 2 |
 | images/books/circles_in_park/image_5.jpg | 24.9 | 2 |
 | images/books/circles_in_park/image_6.jpg | 15.8 | 2 |
 | images/books/circles_in_park/image_7.jpg | 7.2 | 2 |
-| images/books/decision/image_1.jpg | 29.5 | 2 |
+| images/books/decision/cover.png | 343.2 | 2 |
 | images/books/decision/image_10.jpg | 29.2 | 2 |
 | images/books/decision/image_11.jpg | 29 | 2 |
 | images/books/decision/image_12.jpg | 32.6 | 2 |
@@ -1202,7 +1197,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/yes_you_can/page7.jpg | 30.2 | 2 |
 | images/books/yes_you_can/page8.jpg | 40.2 | 2 |
 | images/books/yes_you_can/page9.jpg | 30.7 | 2 |
-| images/books/zibu_and_zizo/cover.jpg | 25.6 | 2 |
+| images/books/zibu_and_zizo/cover.png | 175 | 2 |
 | images/books/zibu_and_zizo/page10.jpg | 35.1 | 2 |
 | images/books/zibu_and_zizo/page11.jpg | 23.3 | 2 |
 | images/books/zibu_and_zizo/page12.jpg | 27.8 | 2 |
@@ -1236,7 +1231,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/heart.svg | 0.6 | 2 |
 | images/icons/heart_filled.svg | 1.4 | 2 |
 | images/icons/house_white.svg | 0.6 | 1 |
-| images/icons/in_progress.svg | 1.1 | 3 |
+| images/icons/in_progress.svg | 1.1 | 5 |
 | images/icons/join_icons/caring_yourchild.svg | 4.4 | 2 |
 | images/icons/join_icons/caring_yourself.svg | 1.3 | 2 |
 | images/icons/join_icons/welcome.svg | 2.9 | 2 |
@@ -1246,7 +1241,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_down.svg | 0.9 | 6 |
 | images/icons/smile_eyes_down_blue.svg | 0.9 | 1 |
 | images/icons/smile_eyes_up.svg | 1 | 14 |
-| images/icons/tick.svg | 0.3 | 2 |
+| images/icons/tick.svg | 0.3 | 4 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/learning_through_play/act_the_story.svg | 84.2 | 2 |
 | images/learning_through_play/animal_strengths.svg | 135.4 | 2 |
