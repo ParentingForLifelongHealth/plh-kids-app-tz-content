@@ -10,14 +10,14 @@
 | carousel | 2 |
 | combo_box | 2 |
 | data_items | 1 |
-| display_grid | 3 |
+| display_grid | 2 |
 | display_group | 40 |
 | image | 31 |
 | items | 11 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 610 |
+| set_variable | 604 |
 | task_card | 7 |
 | task_progress_bar | 1 |
 | template | 499 |
@@ -38,7 +38,7 @@
 | app_update | 1 |
 | emit: completed | 463 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 6 |
+| emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
@@ -57,8 +57,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 61914 KB | 61.9 MB |
-| unused | 1110 KB | 1.1 MB |
+| total | 63773 KB | 63.8 MB |
+| unused | 12308 KB | 12.3 MB |
 </details>
 
 <details open>
@@ -75,6 +75,61 @@ Assets that appear in app-data but do not have references within sheets
 | audio/modules/connect/connect_09.mp3 | 254.9 |
 | audio/modules/create/create_03.mp3 | 190.2 |
 | contents.json | 5.9 |
+| images/Book covers/And_also.png | 174.1 |
+| images/Book covers/Angry akku.png | 354.5 |
+| images/Book covers/Cover_A very important tree.png | 229.3 |
+| images/Book covers/Cover_A_trip_to_the_tap.png | 199.5 |
+| images/Book covers/Cover_Amaizing Flower.png | 203.6 |
+| images/Book covers/Cover_Baby's first photo.png | 153.3 |
+| images/Book covers/Cover_Beloved daughter.png | 303.5 |
+| images/Book covers/Cover_Big Blue bus.png | 249.2 |
+| images/Book covers/Cover_Brave Bora.png | 200 |
+| images/Book covers/Cover_Emotions come and go.png | 266.1 |
+| images/Book covers/Cover_Fifi and teddy.png | 163.4 |
+| images/Book covers/Cover_Grandpa Farouk's garden.png | 195.6 |
+| images/Book covers/Cover_I dont want to go to sleep.png | 101.5 |
+| images/Book covers/Cover_an unexpected adventure.png | 178.5 |
+| images/Book covers/Cover_circles in the park.png | 137.8 |
+| images/Book covers/Cover_decisions.png | 343.2 |
+| images/Book covers/Cover_how do you sleep.png | 182.5 |
+| images/Book covers/Cover_how do you want your eggs.png | 137.2 |
+| images/Book covers/Cover_m y little garden.png | 126.5 |
+| images/Book covers/Cover_the best thing ever.png | 126.6 |
+| images/Book covers/Cover_tlotlegos tea party.png | 139.7 |
+| images/Book covers/Cover_whats at the park.png | 139.1 |
+| images/Book covers/Lefas Bath.png | 99.6 |
+| images/Book covers/Lesedis_sandbox_round_cover.png | 139.2 |
+| images/Book covers/Little shoots.png | 112.9 |
+| images/Book covers/Moms red coat.png | 65.8 |
+| images/Book covers/Shongololo_s_shoes cover.png | 60.4 |
+| images/Book covers/The_things_that_really_matter_COVER.png | 114.7 |
+| images/Book covers/To_the_top_COVER.png | 95.7 |
+| images/Book covers/beautiful day.png | 1812 |
+| images/Book covers/cover_ zibu and zizo.png | 175 |
+| images/Book covers/cover_The one in the middle.png | 228.2 |
+| images/Book covers/cover_Yellow brown earth.png | 244.1 |
+| images/Book covers/cover_jasu loves football.png | 243.5 |
+| images/Book covers/cover_katiitis song.png | 332.5 |
+| images/Book covers/cover_lebo gogo tea party.png | 139.6 |
+| images/Book covers/cover_let's go on a little hunt.png | 180.3 |
+| images/Book covers/cover_look out luando.png | 165.1 |
+| images/Book covers/cover_lost toy.png | 109.7 |
+| images/Book covers/cover_mamma wants for lunch.png | 263.8 |
+| images/Book covers/cover_my inside weather.png | 194.5 |
+| images/Book covers/cover_my shoe.png | 80.7 |
+| images/Book covers/cover_nita upside down.png | 227.5 |
+| images/Book covers/cover_paint plant day.png | 179.1 |
+| images/Book covers/cover_scared tumi.png | 122.7 |
+| images/Book covers/cover_shhhhh.png | 123.1 |
+| images/Book covers/cover_tejus shadow.png | 210.9 |
+| images/Book covers/cover_the bee and the shadow.png | 170 |
+| images/Book covers/cover_the colours.png | 172.3 |
+| images/Book covers/cover_what's next.png | 151.2 |
+| images/Book covers/cover_whats in pot.png | 51.7 |
+| images/Book covers/cover_when grow up.png | 172.1 |
+| images/Book covers/cover_when will amma be back.png | 152.6 |
+| images/Book covers/cover_where is lulu.png | 123.6 |
+| images/Book covers/cover_yes you can.png | 179 |
 | images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png | 139.2 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_white.svg | 0.7 |
@@ -1193,15 +1248,23 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_up.svg | 1 | 14 |
 | images/icons/tick.svg | 0.3 | 2 |
 | images/icons/tick_white.svg | 0.3 | 1 |
+| images/learning_through_play/act_the_story.svg | 84.2 | 2 |
+| images/learning_through_play/animal_strengths.svg | 135.4 | 2 |
+| images/learning_through_play/build_a_road.svg | 127.3 | 2 |
 | images/learning_through_play/cooking_together.svg | 95.8 | 2 |
+| images/learning_through_play/favorite_play.svg | 126.1 | 2 |
 | images/learning_through_play/gardening.svg | 125 | 2 |
 | images/learning_through_play/happy_things.svg | 172.3 | 2 |
 | images/learning_through_play/household_helpers.svg | 334.6 | 2 |
 | images/learning_through_play/makes_us_special.svg | 149.5 | 2 |
 | images/learning_through_play/music_dancing.svg | 117.2 | 2 |
 | images/learning_through_play/pattern_play_1.svg | 102.2 | 2 |
+| images/learning_through_play/simon_says.svg | 185 | 2 |
 | images/learning_through_play/something_special.svg | 192.1 | 2 |
+| images/learning_through_play/story.svg | 66.1 | 2 |
+| images/learning_through_play/treasure_hunt.svg | 138.9 | 2 |
 | images/learning_through_play/walking_together.svg | 239.5 | 2 |
+| images/learning_through_play/when_grow_up.svg | 152.6 | 2 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/lego_foundation.png | 54.4 | 1 |
@@ -1293,7 +1356,23 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/using_books_5.svg | 107.6 | 3 |
 | images/modules/play/why_play_1.svg | 28.9 | 3 |
 | images/modules/play/why_play_2.svg | 136.9 | 3 |
-| images/relax/relax_man.svg | 27 | 29 |
+| images/relax/relax_1.svg | 25.9 | 1 |
+| images/relax/relax_10.svg | 10.3 | 2 |
+| images/relax/relax_11.svg | 10.9 | 1 |
+| images/relax/relax_12.svg | 23.9 | 1 |
+| images/relax/relax_13.svg | 37.3 | 1 |
+| images/relax/relax_14.svg | 34.6 | 1 |
+| images/relax/relax_16.svg | 22 | 1 |
+| images/relax/relax_19.svg | 94.1 | 1 |
+| images/relax/relax_2.svg | 5.5 | 1 |
+| images/relax/relax_3.svg | 2.8 | 1 |
+| images/relax/relax_4.svg | 20.7 | 2 |
+| images/relax/relax_5.svg | 21.6 | 1 |
+| images/relax/relax_6.svg | 89.5 | 1 |
+| images/relax/relax_7.svg | 80.6 | 1 |
+| images/relax/relax_8.svg | 80 | 1 |
+| images/relax/relax_9.svg | 283.9 | 1 |
+| images/relax/relax_man.svg | 27 | 11 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 </details>
 
