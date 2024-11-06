@@ -4642,7 +4642,7 @@
     "size_kb": 10.9
   },
   "images/relax/relax_12.svg": {
-    "md5Checksum": "ebd21de00c6e1b1fea6a61f14e124302",
+    "md5Checksum": "824a34a336c1ffc04efab38a135d0253",
     "size_kb": 23.9
   },
   "images/relax/relax_13.svg": {
@@ -4652,6 +4652,10 @@
   "images/relax/relax_14.svg": {
     "md5Checksum": "dd33b572fa14ca0f96c374690a8ded72",
     "size_kb": 34.6
+  },
+  "images/relax/relax_15.svg": {
+    "md5Checksum": "28ac6a6023b95631043263b944e23937",
+    "size_kb": 26.6
   },
   "images/relax/relax_16.svg": {
     "md5Checksum": "6cea9ba6ba1ab27065490a9fa1a0a667",
@@ -4664,6 +4668,26 @@
   "images/relax/relax_2.svg": {
     "md5Checksum": "d90a56153c501dbdbfa5328e432de446",
     "size_kb": 5.5
+  },
+  "images/relax/relax_20.svg": {
+    "md5Checksum": "b3df30d7f69283a1b843175ac41a8211",
+    "size_kb": 71.5
+  },
+  "images/relax/relax_21.svg": {
+    "md5Checksum": "39012832382bd464aa0767af25d01cec",
+    "size_kb": 31.4
+  },
+  "images/relax/relax_23.svg": {
+    "md5Checksum": "d6324d5e73ae68acfee6fb6218622eab",
+    "size_kb": 26
+  },
+  "images/relax/relax_24.svg": {
+    "md5Checksum": "3b0de78576b3cfb86ef8dc8646631353",
+    "size_kb": 145.5
+  },
+  "images/relax/relax_25.svg": {
+    "md5Checksum": "f02ba6278c0aa516f6a49a3c03512518",
+    "size_kb": 10
   },
   "images/relax/relax_3.svg": {
     "md5Checksum": "58e9a9500f4f1d1c621df3af57701d10",

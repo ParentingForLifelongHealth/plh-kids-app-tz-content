@@ -37,11 +37,9 @@
     },
     {
       "name": "text_1",
-      "value": "1. Collect different objects that have different colours, shapes, textures or purposes. These can include bottle caps, leaves, rocks, beads, sticks, utensils. Make sure you have enough of each type so that you can create a pattern.\n2. Help your child to sort through all the objects to create categories, based on colour, shape, texture (soft or hard), or weight (light or heavy).\n3. Or, you could create a pattern for your child (2 sticks, 1 rock, 3 leaves, 2 sticks, 1 rock, 2 leaves), and ask them to recreate the same pattern.",
+      "value": "1. Collect different objects that have different colours, shapes, textures or purposes. These can include bottle caps, leaves, rocks, beads, sticks, utensils. Make sure you have enough of each type so that you can create a pattern.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "text_1"

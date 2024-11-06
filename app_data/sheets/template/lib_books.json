@@ -287,7 +287,7 @@
             },
             {
               "name": "has_selected_tag",
-              "value": "@calc.(@local.book_tag_list.includes(\"nature\"))",
+              "value": "@calc(@local.book_tag_list.includes(@local.select_tag))",
               "_translations": {
                 "value": {}
               },
@@ -297,10 +297,22 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@calc.(@local.book_tag_list.includes(\"nature\"))",
+                    "fullExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
                     "matchedExpression": "@local.book_tag_list.includes",
                     "type": "local",
                     "fieldName": "book_tag_list"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+                    "matchedExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+                    "type": "calc",
+                    "fieldName": "@local.book_tag_list.includes(@local.select_tag)"
                   }
                 ],
                 "condition": [
@@ -317,7 +329,11 @@
                   "value"
                 ],
                 "@local.select_tag": [
+                  "value",
                   "condition"
+                ],
+                "@calc(@local.book_tag_list.includes(@local.select_tag))": [
+                  "value"
                 ]
               }
             },

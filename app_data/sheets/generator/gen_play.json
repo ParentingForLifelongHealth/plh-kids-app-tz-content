@@ -29,7 +29,7 @@
     },
     {
       "name": "text_1",
-      "value": "@gen.steps_text"
+      "value": "@gen.step_1_text"
     },
     {
       "name": "text_2",
