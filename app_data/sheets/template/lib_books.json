@@ -4,129 +4,6 @@
   "status": "released",
   "rows": [
     {
-      "name": "book_id",
-      "value": "who_took_my_shoe",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "book_id"
-    },
-    {
-      "name": "module_id",
-      "value": "connect",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "module_id"
-    },
-    {
-      "name": "book",
-      "value": "books",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "book"
-    },
-    {
-      "name": "data",
-      "value": "@local.book",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "data",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.book",
-            "matchedExpression": "@local.book",
-            "type": "local",
-            "fieldName": "book"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.book": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "concat_book_id",
-      "value": "@local.data.@local.book_id",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "concat_book_id",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.data.@local.book_id",
-            "matchedExpression": "@local.data",
-            "type": "local",
-            "fieldName": "data"
-          },
-          {
-            "fullExpression": "@local.data.@local.book_id",
-            "matchedExpression": "@local.book_id",
-            "type": "local",
-            "fieldName": "book_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.data": [
-          "value"
-        ],
-        "@local.book_id": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "book_data",
-      "value": "@data.@local.concat_book_id",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "book_data",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@data.@local.concat_book_id",
-            "matchedExpression": "@local.concat_book_id",
-            "type": "local",
-            "fieldName": "concat_book_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.concat_book_id": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "join",
-      "value": "_",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "join"
-    },
-    {
       "type": "title",
       "name": "title",
       "value": "My Favourite Books",
@@ -202,8 +79,8 @@
     {
       "condition": false,
       "type": "set_variable",
-      "name": "set_variable_12",
-      "_nested_name": "set_variable_12"
+      "name": "set_variable_5",
+      "_nested_name": "set_variable_5"
     },
     {
       "type": "title",
@@ -218,74 +95,36 @@
       "_nested_name": "title"
     },
     {
-      "condition": false,
-      "hidden": "!@field.@item.favourite_field",
-      "type": "set_variable",
-      "name": "set_variable_14",
-      "_nested_name": "set_variable_14",
-      "_dynamicFields": {
-        "hidden": [
-          {
-            "fullExpression": "!@field.@item.favourite_field",
-            "matchedExpression": "@item.favourite_field",
-            "type": "item",
-            "fieldName": "favourite_field"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@item.favourite_field": [
-          "hidden"
-        ]
-      }
-    },
-    {
-      "name": "answer_list",
-      "condition": false,
-      "type": "set_variable",
-      "_nested_name": "answer_list"
-    },
-    {
-      "name": "radio_grid_1",
-      "value": "all_levels",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "radio_grid_1"
-    },
-    {
       "type": "radio_button_grid",
-      "name": "radio_grid_1",
-      "condition": false,
+      "name": "select_tag",
       "parameter_list": {
-        "answer_list": "@data.book_levels",
+        "answer_list": "@data.book_tags",
         "grid_width": "100%",
-        "grid_gap": "16px"
+        "grid_gap": "16px",
+        "item_width": "110px"
       },
-      "_nested_name": "radio_grid_1",
+      "_nested_name": "select_tag",
       "_dynamicFields": {
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.book_levels",
-              "matchedExpression": "@data.book_levels",
+              "fullExpression": "@data.book_tags",
+              "matchedExpression": "@data.book_tags",
               "type": "data",
-              "fieldName": "book_levels"
+              "fieldName": "book_tags"
             }
           ]
         }
       },
       "_dynamicDependencies": {
-        "@data.book_levels": [
+        "@data.book_tags": [
           "parameter_list.answer_list"
         ]
       }
     },
     {
       "type": "display_grid",
-      "name": "grid_1",
-      "condition": "!(@local.radio_grid_1 == \"all_levels\")",
+      "name": "display_grid",
       "parameter_list": {
         "item_width": "160px",
         "item_border": "none",
@@ -297,14 +136,258 @@
           "type": "items",
           "name": "books",
           "value": "@data.books",
-          "parameter_list": {
-            "filter": "@item.book_level == @local.radio_grid_1"
-          },
           "rows": [
+            {
+              "name": "book_id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "display_grid.books.book_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "book_concat",
+              "value": "books.@local.book_id",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "display_grid.books.book_concat",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "books.@local.book_id",
+                    "matchedExpression": "@local.book_id",
+                    "type": "local",
+                    "fieldName": "book_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "book_row",
+              "value": "@data.@local.book_concat",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "display_grid.books.book_row",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@data.@local.book_concat",
+                    "matchedExpression": "@local.book_concat",
+                    "type": "local",
+                    "fieldName": "book_concat"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_concat": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "book_tag_list",
+              "value": "@local.book_row.tag_list",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.books.book_tag_list",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.book_row.tag_list",
+                    "matchedExpression": "@local.book_row.tag_list",
+                    "type": "local",
+                    "fieldName": "book_row"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_row.tag_list": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "debug_@item.id",
+              "value": "tags array: @local.book_tag_list",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "_nested_name": "display_grid.books.debug_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "debug_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "tags array: @local.book_tag_list",
+                    "matchedExpression": "@local.book_tag_list",
+                    "type": "local",
+                    "fieldName": "book_tag_list"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "display_grid.books.debug_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@local.book_tag_list": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "has_selected_tag",
+              "type": "set_variable",
+              "_nested_name": "display_grid.books.has_selected_tag"
+            },
+            {
+              "name": "has_selected_tag",
+              "value": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!!(@local.select_tag)",
+              "type": "set_variable",
+              "_nested_name": "display_grid.books.has_selected_tag",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+                    "matchedExpression": "@local.book_tag_list.includes",
+                    "type": "local",
+                    "fieldName": "book_tag_list"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+                    "matchedExpression": "@calc(@local.book_tag_list.includes(@local.select_tag))",
+                    "type": "calc",
+                    "fieldName": "@local.book_tag_list.includes(@local.select_tag)"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!(@local.select_tag)",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_tag_list.includes": [
+                  "value"
+                ],
+                "@local.select_tag": [
+                  "value",
+                  "condition"
+                ],
+                "@calc(@local.book_tag_list.includes(@local.select_tag))": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "debug_2_@item.id",
+              "value": "has selected tag: @local.has_selected_tag",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "_nested_name": "display_grid.books.debug_2_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "debug_2_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "has selected tag: @local.has_selected_tag",
+                    "matchedExpression": "@local.has_selected_tag",
+                    "type": "local",
+                    "fieldName": "has_selected_tag"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "display_grid.books.debug_2_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@local.has_selected_tag": [
+                  "value"
+                ]
+              }
+            },
             {
               "type": "template",
               "name": "book_button_@item.id",
               "value": "book_button",
+              "hidden": "!@local.has_selected_tag && !(@local.select_tag)",
               "rows": [
                 {
                   "name": "book_id",
@@ -313,7 +396,7 @@
                     "value": {}
                   },
                   "type": "set_variable",
-                  "_nested_name": "grid_1.books.book_button_@item.id.book_id",
+                  "_nested_name": "display_grid.books.book_button_@item.id.book_id",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -325,7 +408,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "grid_1.books.book_button_@item.id.book_id",
+                        "fullExpression": "display_grid.books.book_button_@item.id.book_id",
                         "matchedExpression": "@item.id.book_id",
                         "type": "item",
                         "fieldName": "id"
@@ -342,7 +425,7 @@
                   }
                 }
               ],
-              "_nested_name": "grid_1.books.book_button_@item.id",
+              "_nested_name": "display_grid.books.book_button_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -352,9 +435,23 @@
                     "fieldName": "id"
                   }
                 ],
+                "hidden": [
+                  {
+                    "fullExpression": "!@local.has_selected_tag && !(@local.select_tag)",
+                    "matchedExpression": "!@local.has_selected_tag",
+                    "type": "local",
+                    "fieldName": "has_selected_tag"
+                  },
+                  {
+                    "fullExpression": "!@local.has_selected_tag && !(@local.select_tag)",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  }
+                ],
                 "_nested_name": [
                   {
-                    "fullExpression": "grid_1.books.book_button_@item.id",
+                    "fullExpression": "display_grid.books.book_button_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -365,152 +462,17 @@
                 "@item.id": [
                   "name",
                   "_nested_name"
-                ]
-              }
-            }
-          ],
-          "_nested_name": "grid_1.books",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@data.books",
-                "matchedExpression": "@data.books",
-                "type": "data",
-                "fieldName": "books"
-              }
-            ],
-            "parameter_list": {
-              "filter": [
-                {
-                  "fullExpression": "@item.book_level == @local.radio_grid_1",
-                  "matchedExpression": "@item.book_level",
-                  "type": "item",
-                  "fieldName": "book_level"
-                },
-                {
-                  "fullExpression": "@item.book_level == @local.radio_grid_1",
-                  "matchedExpression": "@local.radio_grid_1",
-                  "type": "local",
-                  "fieldName": "radio_grid_1"
-                }
-              ]
-            }
-          },
-          "_dynamicDependencies": {
-            "@data.books": [
-              "value"
-            ],
-            "@item.book_level": [
-              "parameter_list.filter"
-            ],
-            "@local.radio_grid_1": [
-              "parameter_list.filter"
-            ]
-          }
-        }
-      ],
-      "_nested_name": "grid_1",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "!(@local.radio_grid_1 == \"all_levels\")",
-            "matchedExpression": "@local.radio_grid_1",
-            "type": "local",
-            "fieldName": "radio_grid_1"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.radio_grid_1": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "type": "display_grid",
-      "name": "grid_all",
-      "condition": "@local.radio_grid_1 == \"all_levels\"",
-      "parameter_list": {
-        "item_width": "160px",
-        "item_border": "none",
-        "grid_width": "100%",
-        "grid_gap": "16px"
-      },
-      "rows": [
-        {
-          "type": "items",
-          "name": "books",
-          "value": "@data.books",
-          "rows": [
-            {
-              "type": "template",
-              "name": "book_button_@item.id",
-              "value": "book_button",
-              "rows": [
-                {
-                  "name": "book_id",
-                  "value": "@item.id",
-                  "_translations": {
-                    "value": {}
-                  },
-                  "type": "set_variable",
-                  "_nested_name": "grid_all.books.book_button_@item.id.book_id",
-                  "_dynamicFields": {
-                    "value": [
-                      {
-                        "fullExpression": "@item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "_nested_name": [
-                      {
-                        "fullExpression": "grid_all.books.book_button_@item.id.book_id",
-                        "matchedExpression": "@item.id.book_id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@item.id": [
-                      "value"
-                    ],
-                    "@item.id.book_id": [
-                      "_nested_name"
-                    ]
-                  }
-                }
-              ],
-              "_nested_name": "grid_all.books.book_button_@item.id",
-              "_dynamicFields": {
-                "name": [
-                  {
-                    "fullExpression": "book_button_@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
                 ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "grid_all.books.book_button_@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "name",
-                  "_nested_name"
+                "!@local.has_selected_tag": [
+                  "hidden"
+                ],
+                "@local.select_tag": [
+                  "hidden"
                 ]
               }
             }
           ],
-          "_nested_name": "grid_all.books",
+          "_nested_name": "display_grid.books",
           "_dynamicFields": {
             "value": [
               {
@@ -528,22 +490,7 @@
           }
         }
       ],
-      "_nested_name": "grid_all",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@local.radio_grid_1 == \"all_levels\"",
-            "matchedExpression": "@local.radio_grid_1",
-            "type": "local",
-            "fieldName": "radio_grid_1"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.radio_grid_1": [
-          "condition"
-        ]
-      }
+      "_nested_name": "display_grid"
     }
   ],
   "_xlsxPath": "books/library_page.xlsx"

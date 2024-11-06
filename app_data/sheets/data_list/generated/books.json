@@ -170,7 +170,7 @@
     {
       "id": "a_very_important_tree",
       "status": "released",
-      "image_cover_asset": "images/books/a_very_important_tree/a-very-important-tree_20211005_cover.jpg",
+      "image_cover_asset": "images/books/a_very_important_tree/cover.png",
       "tag_list": [
         "emotions",
         "life_skills",
@@ -220,7 +220,7 @@
     {
       "id": "an_unexpected_adventure",
       "status": "released",
-      "image_cover_asset": "images/books/an_unexpected_adventure/an_unexpected_adventure_20211018_cover.jpg",
+      "image_cover_asset": "images/books/an_unexpected_adventure/cover.png",
       "tag_list": [
         "adventure",
         "learn",
@@ -1185,7 +1185,7 @@
     {
       "id": "beautiful_day",
       "status": "released",
-      "image_cover_asset": "images/books/beautiful_day/cover.jpg",
+      "image_cover_asset": "images/books/beautiful_day/cover.png",
       "tag_list": [
         "adventure",
         "family",
@@ -1333,7 +1333,7 @@
     {
       "id": "trip_to_tap",
       "status": "released",
-      "image_cover_asset": "images/books/a_trip_to_the_tap/cover.jpg",
+      "image_cover_asset": "images/books/a_trip_to_the_tap/cover.png",
       "tag_list": [
         "family",
         "learn",
@@ -2998,7 +2998,7 @@
     {
       "id": "amaizing_flower",
       "status": "released",
-      "image_cover_asset": "images/books/amaizing_flower/cover.jpg",
+      "image_cover_asset": "images/books/amaizing_flower/cover.png",
       "tag_list": [
         "nature",
         "animals",
@@ -3327,7 +3327,7 @@
     {
       "id": "brave_bora",
       "status": "released",
-      "image_cover_asset": "images/books/brave_bora/cover.jpg",
+      "image_cover_asset": "images/books/brave_bora/cover.png",
       "tag_list": [
         "emotions",
         "life_skills",
@@ -3483,7 +3483,7 @@
     {
       "id": "and_also",
       "status": "released",
-      "image_cover_asset": "images/books/and_also/image_1.jpg",
+      "image_cover_asset": "images/books/and_also/cover.png",
       "tag_list": [
         "family",
         "adventure",
@@ -3658,7 +3658,7 @@
     {
       "id": "angry_akku",
       "status": "released",
-      "image_cover_asset": "images/books/angry_akku/image_1.jpg",
+      "image_cover_asset": "images/books/angry_akku/cover.png",
       "tag_list": [
         "emotions",
         "life_skills",
@@ -3810,7 +3810,7 @@
     {
       "id": "beloved_daughter",
       "status": "released",
-      "image_cover_asset": "images/books/beloved_daughter/image_1.jpg",
+      "image_cover_asset": "images/books/beloved_daughter/cover.png",
       "tag_list": [
         "family",
         "nature",
@@ -3943,7 +3943,7 @@
     {
       "id": "big_blue_bus",
       "status": "released",
-      "image_cover_asset": "images/books/big_blue_bus/image_1.jpg",
+      "image_cover_asset": "images/books/big_blue_bus/cover.png",
       "tag_list": [
         "family",
         "emotions",
@@ -4107,7 +4107,7 @@
     {
       "id": "decision",
       "status": "released",
-      "image_cover_asset": "images/books/decision/image_1.jpg",
+      "image_cover_asset": "images/books/decision/cover.png",
       "tag_list": [
         "life_skills",
         "learn"
@@ -4688,7 +4688,7 @@
           "eng": "Shongololo has lost his shoes, and the other animals are NOT being very helpful. Will he ever find them?"
         },
         "licence": {
-          "eng": ". © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license."
+          "eng": "© Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license."
         },
         "text_1": {
           "eng": "Where are all my shoes? I know I left them here!"
@@ -4764,7 +4764,7 @@
         }
       },
       "description": "Shongololo has lost his shoes, and the other animals are NOT being very helpful. Will he ever find them?",
-      "licence": ". © Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.",
+      "licence": "© Book Dash, 2016. Some rights reserved. Released under CC BY 4.0 license.",
       "text_1": "Where are all my shoes? I know I left them here!",
       "text_7": "Will I ever find my shoes?",
       "text_8": "Shoes, eh? You should ask the Monkeys.",
@@ -5251,7 +5251,7 @@
     {
       "id": "zibu_and_zizo",
       "status": "released",
-      "image_cover_asset": "images/books/zibu_and_zizo/cover.jpg",
+      "image_cover_asset": "images/books/zibu_and_zizo/cover.png",
       "tag_list": [
         "family",
         "life_skills"
@@ -7492,7 +7492,7 @@
     {
       "id": "circles_in_park",
       "status": "released",
-      "image_cover_asset": "images/books/circles_in_park/image_1.jpg",
+      "image_cover_asset": "images/books/circles_in_park/cover.png",
       "tag_list": [
         "nature",
         "friends",

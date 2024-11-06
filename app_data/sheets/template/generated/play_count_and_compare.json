@@ -22,7 +22,22 @@
       "parameter_list": {
         "style": "rounded_corners"
       },
-      "_nested_name": "image_asset"
+      "_nested_name": "image_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@gen.image_asset",
+            "matchedExpression": "@gen.image_asset",
+            "type": "gen",
+            "fieldName": "image_asset"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@gen.image_asset": [
+          "value"
+        ]
+      }
     },
     {
       "type": "text",

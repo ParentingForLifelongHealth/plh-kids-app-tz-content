@@ -37,11 +37,6 @@
         {
           "name": "book_id",
           "value": "@gen.id"
-        },
-        {
-          "name": "module_id",
-          "value": "connect",
-          "exclude_from_translation": true
         }
       ]
     }

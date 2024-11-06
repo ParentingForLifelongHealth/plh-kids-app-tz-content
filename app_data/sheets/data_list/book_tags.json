@@ -6,120 +6,130 @@
   "rows": [
     {
       "id": "animals",
-      "title": "Animals",
+      "name": "animals",
+      "text": "Animals",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Animals"
         }
       }
     },
     {
       "id": "nature",
-      "title": "Nature",
+      "name": "nature",
+      "text": "Nature",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Nature"
         }
       }
     },
     {
       "id": "emotions",
-      "title": "Emotions",
+      "name": "emotions",
+      "text": "Emotions",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Emotions"
         }
       }
     },
     {
       "id": "life_skills",
-      "title": "Life Skills",
+      "name": "life_skills",
+      "text": "Life Skills",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Life Skills"
         }
       }
     },
     {
       "id": "adventure",
-      "title": "Adventure",
+      "name": "adventure",
+      "text": "Adventure",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Adventure"
         }
       }
     },
     {
       "id": "learn",
-      "title": "Let's Learn",
+      "name": "learn",
+      "text": "Let's Learn",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Let's Learn"
         }
       }
     },
     {
       "id": "family",
-      "title": "Family",
+      "name": "family",
+      "text": "Family",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Family"
         }
       }
     },
     {
       "id": "friends",
-      "title": "Friends",
+      "name": "friends",
+      "text": "Friends",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Friends"
         }
       }
     },
     {
       "id": "play",
-      "title": "Let's Play",
+      "name": "play",
+      "text": "Let's Play",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Let's Play"
         }
       }
     },
     {
       "id": "count",
-      "title": "Let's Count",
+      "name": "count",
+      "text": "Let's Count",
       "_translations": {
-        "title": {}
+        "text": {}
       },
       "_translatedFields": {
-        "title": {
+        "text": {
           "eng": "Let's Count"
         }
       }

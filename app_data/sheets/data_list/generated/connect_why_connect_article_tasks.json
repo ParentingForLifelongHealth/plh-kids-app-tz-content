@@ -42,15 +42,8 @@
       "id": "why_connect_2",
       "category_id": "why_connect",
       "image_asset": "images/modules/connect/connect_2.svg",
-      "text_1": "The ParentApp Garden",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "text_2": {}
-      },
       "_translatedFields": {
-        "text_1": {
+        "title": {
           "eng": "The ParentApp Garden"
         },
         "text_2": {
@@ -58,6 +51,13 @@
         }
       },
       "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **connecting with your child** forms a part of the garden image.",
+      "_translations": {
+        "text_2": {},
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "title": "The ParentApp Garden",
       "completed": false
     },
     {

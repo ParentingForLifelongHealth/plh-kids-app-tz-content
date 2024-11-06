@@ -42,15 +42,8 @@
       "id": "why_connect_2",
       "category_id": "why_connect",
       "image_asset": "images/modules/connect/connect_2.svg",
-      "text_1": "The ParentApp Garden",
-      "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "text_2": {}
-      },
       "_translatedFields": {
-        "text_1": {
+        "title": {
           "eng": "The ParentApp Garden"
         },
         "text_2": {
@@ -58,6 +51,13 @@
         }
       },
       "text_2": "In @global.app_name, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **connecting with your child** forms a part of the garden image.",
+      "_translations": {
+        "text_2": {},
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "title": "The ParentApp Garden",
       "completed": false
     },
     {
@@ -256,22 +256,24 @@
       "id": "the_power_of_connection_3",
       "category_id": "power_connect",
       "image_asset": "images/modules/connect/connect_8.svg",
+      "_translatedFields": {
+        "image_text": {
+          "eng": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?"
+        }
+      },
+      "image_text": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
+      "_translations": {
+        "image_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "the_power_of_connection_4",
+      "category_id": "power_connect",
       "media_type": "audio",
       "media_asset": "audio/modules/connect/connect_06.mp3",
-      "text_1": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
-      "_translations": {
-        "text_1": {},
-        "text_2": {},
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {}
-      },
       "_translatedFields": {
-        "text_1": {
-          "eng": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?"
-        },
-        "text_2": {
+        "text_1_facilitator": {
           "eng": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy."
         },
         "media_title": {
@@ -281,14 +283,16 @@
           "eng": "Remember that what you experience, you can express. What you pour into your child’s cup is what will pour out. When your child experiences kindness and understanding, they learn how to do the same for other people. \n\nThis does not mean that you allow your child to do whatever they want without consequences. You can support your child to improve their behaviour while still showing them that your love for them does not change."
         }
       },
-      "text_2": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy.",
       "media_title": "Listen to learn more:",
+      "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {},
+        "text_1_facilitator": {}
+      },
       "media_transcript": "Remember that what you experience, you can express. What you pour into your child’s cup is what will pour out. When your child experiences kindness and understanding, they learn how to do the same for other people. \n\nThis does not mean that you allow your child to do whatever they want without consequences. You can support your child to improve their behaviour while still showing them that your love for them does not change.",
-      "completed": false
-    },
-    {
-      "id": "the_power_of_connection_4",
-      "category_id": "power_connect",
+      "text_1_facilitator": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy.",
       "completed": false
     },
     {
