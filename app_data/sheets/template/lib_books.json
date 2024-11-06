@@ -243,6 +243,7 @@
               "_translations": {
                 "value": {}
               },
+              "condition": false,
               "_nested_name": "display_grid.books.debug_@item.id",
               "_dynamicFields": {
                 "name": [
@@ -344,7 +345,7 @@
               "_translations": {
                 "value": {}
               },
-              "condition": "!!(@local.select_tag)",
+              "condition": false,
               "_nested_name": "display_grid.books.debug_2_@item.id",
               "_dynamicFields": {
                 "name": [
@@ -363,14 +364,6 @@
                     "fieldName": "has_selected_tag"
                   }
                 ],
-                "condition": [
-                  {
-                    "fullExpression": "!!(@local.select_tag)",
-                    "matchedExpression": "@local.select_tag",
-                    "type": "local",
-                    "fieldName": "select_tag"
-                  }
-                ],
                 "_nested_name": [
                   {
                     "fullExpression": "display_grid.books.debug_2_@item.id",
@@ -387,9 +380,6 @@
                 ],
                 "@local.has_selected_tag": [
                   "value"
-                ],
-                "@local.select_tag": [
-                  "condition"
                 ]
               }
             },
