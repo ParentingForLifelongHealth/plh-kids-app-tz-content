@@ -7,7 +7,7 @@
     {
       "id": "who_took_my_shoe",
       "status": "released",
-      "image_cover_asset": "images/books/my_shoe/my_shoe_cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_my_shoe.jpg",
       "tag_list": [
         "learn",
         "animals"
@@ -271,7 +271,7 @@
     {
       "id": "no_go_sleep",
       "status": "released",
-      "image_cover_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_dont_want_sleep.jpg",
       "tag_list": [
         "family",
         "emotions",
@@ -446,7 +446,7 @@
     {
       "id": "scared_tumi",
       "status": "released",
-      "image_cover_asset": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_scared_tumi.jpg",
       "tag_list": [
         "emotions",
         "family"
@@ -580,7 +580,7 @@
     {
       "id": "moms_red_coat",
       "status": "released",
-      "image_cover_asset": "images/books/moms_red_coat/cover.png",
+      "image_cover_asset": "images/books/book_covers/cover_moms_red_coat.jpg",
       "tag_list": [
         "family",
         "emotions",
@@ -793,7 +793,7 @@
     {
       "id": "amma_be_back",
       "status": "released",
-      "image_cover_asset": "images/books/when_will_amma_be_back/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_amma_be_back.jpg",
       "tag_list": [
         "family",
         "emotions",
@@ -951,7 +951,7 @@
     {
       "id": "bee_and_elephant",
       "status": "released",
-      "image_cover_asset": "images/books/the_bee_and_the_elephant/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_bee_and_elephant.jpg",
       "tag_list": [
         "animals",
         "nature"
@@ -1427,7 +1427,7 @@
     {
       "id": "katiitis_song",
       "status": "released",
-      "image_cover_asset": "images/books/katiitis_song/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_katiitis_song.jpg",
       "tag_list": [
         "nature",
         "animals",
@@ -1841,7 +1841,7 @@
     {
       "id": "fifi_and_teddy",
       "status": "released",
-      "image_cover_asset": "images/books/fifi_and_teddy/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_fifi_teddy.jpg",
       "tag_list": [
         "emotions",
         "family",
@@ -1952,7 +1952,7 @@
     {
       "id": "how_you_want_your_eggs",
       "status": "released",
-      "image_cover_asset": "images/books/how_do_you_want_your_eggs/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_how_want_eggs.jpg",
       "tag_list": [
         "family"
       ],
@@ -2074,7 +2074,7 @@
     {
       "id": "lebo_and_gogos_tea_party",
       "status": "released",
-      "image_cover_asset": "images/books/lebo_gogo_tea_party/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_lebo_gogo.jpg",
       "tag_list": [
         "emotions",
         "family",
@@ -2199,7 +2199,7 @@
     {
       "id": "lesedis_sandbox",
       "status": "released",
-      "image_cover_asset": "images/books/lesedis_sandbox/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_lesedis_sandbox.jpg",
       "tag_list": [
         "play",
         "family",
@@ -2400,7 +2400,7 @@
     {
       "id": "little_shoots",
       "status": "released",
-      "image_cover_asset": "images/books/little_shoots/cover.png",
+      "image_cover_asset": "images/books/book_covers/cover_little_shoots.jpg",
       "tag_list": [
         "nature",
         "animals",
@@ -2598,7 +2598,7 @@
     {
       "id": "look_out_luthando",
       "status": "released",
-      "image_cover_asset": "images/books/look_out_luthando/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_look_luando.jpg",
       "tag_list": [
         "family",
         "adventure"
@@ -2778,7 +2778,7 @@
     {
       "id": "my_inside_weather",
       "status": "released",
-      "image_cover_asset": "images/books/my_inside_weather/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_inside_weather.jpg",
       "tag_list": [
         "emotions",
         "life_skills",
@@ -2910,7 +2910,7 @@
     {
       "id": "things_that_matter",
       "status": "released",
-      "image_cover_asset": "images/books/the_things_that_really_matter/cover.png",
+      "image_cover_asset": "images/books/book_covers/cover_things_really_matter.jpg",
       "tag_list": [
         "family",
         "emotions",
@@ -3127,7 +3127,7 @@
     {
       "id": "to_the_top",
       "status": "released",
-      "image_cover_asset": "images/books/to_the_top/cover.png",
+      "image_cover_asset": "images/books/book_covers/cover_to_the_top.jpg",
       "tag_list": [
         "nature",
         "animals",
@@ -3247,7 +3247,7 @@
     {
       "id": "where_is_lulu",
       "status": "released",
-      "image_cover_asset": "images/books/where_is_lulu/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_where_is_lulu.jpg",
       "tag_list": [
         "play",
         "learn",
@@ -4645,7 +4645,7 @@
     {
       "id": "emotions_come_go",
       "status": "released",
-      "image_cover_asset": "images/books/emotions_come_go/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_emotions.jpg",
       "tag_list": [
         "emotions"
       ],
@@ -5031,7 +5031,7 @@
     {
       "id": "jasu_loves_football",
       "status": "released",
-      "image_cover_asset": "images/books/jasu_loves_football/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_jasu_football.jpg",
       "tag_list": [
         "family",
         "friends",
@@ -6184,7 +6184,7 @@
     {
       "id": "shongololo_s_shoes",
       "status": "released",
-      "image_cover_asset": "images/books/shongololo_s_shoes/cover.png",
+      "image_cover_asset": "images/books/book_covers/cover_shongololo_shoes.jpg",
       "tag_list": [
         "nature",
         "animals",
@@ -6743,7 +6743,7 @@
     {
       "id": "whats_next",
       "status": "released",
-      "image_cover_asset": "images/books/whats_next/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_what_next.jpg",
       "tag_list": [
         "play",
         "adventure",
@@ -6883,7 +6883,7 @@
     {
       "id": "shhhhh",
       "status": "released",
-      "image_cover_asset": "images/books/shhhhh/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_shhhhh.jpg",
       "tag_list": [
         "family",
         "learn"
@@ -7015,7 +7015,7 @@
     {
       "id": "lost_toy",
       "status": "released",
-      "image_cover_asset": "images/books/lost_toy/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_lost_toy.jpg",
       "tag_list": [
         "emotions",
         "adventure",
@@ -7065,7 +7065,7 @@
     {
       "id": "what_at_the_park",
       "status": "released",
-      "image_cover_asset": "images/books/whats_at_the_park/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_whats_park.jpg",
       "tag_list": [
         "nature",
         "learn",
@@ -7333,7 +7333,7 @@
     {
       "id": "yes_you_can",
       "status": "released",
-      "image_cover_asset": "images/books/yes_you_can/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_yes_you_can.jpg",
       "tag_list": [
         "life_skills",
         "friends",
@@ -7466,7 +7466,7 @@
     {
       "id": "yello_earth_brown_earth",
       "status": "released",
-      "image_cover_asset": "images/books/yellow_brown_earth/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_yellow_brown_earth.jpg",
       "tag_list": [
         "nature",
         "learn",
@@ -7624,7 +7624,7 @@
     {
       "id": "nita_upside_down",
       "status": "released",
-      "image_cover_asset": "images/books/nita_upside_down/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_nita_upside_down.jpg",
       "tag_list": [
         "life_skills",
         "friends",
@@ -7766,7 +7766,7 @@
     {
       "id": "when_grow_up",
       "status": "released",
-      "image_cover_asset": "images/books/when_grow_up/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_when_grow_up.jpg",
       "tag_list": [
         "learn"
       ],
@@ -7908,7 +7908,7 @@
     {
       "id": "whats_in_the_pot",
       "status": "released",
-      "image_cover_asset": "images/books/whats_in_pot/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_whats_in_pot.jpg",
       "tag_list": [
         "family",
         "learn",
@@ -8070,7 +8070,7 @@
     {
       "id": "tlotlegos_tea_party",
       "status": "released",
-      "image_cover_asset": "images/books/tlotlegos_tea_party/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_tlotlegos_tea_party.jpg",
       "tag_list": [
         "count",
         "family",
@@ -8210,7 +8210,7 @@
     {
       "id": "the_one_in_the_middle",
       "status": "released",
-      "image_cover_asset": "images/books/the_one_in_the_middle/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_the_one_middle.jpg",
       "tag_list": [
         "play",
         "family"
@@ -8335,7 +8335,7 @@
     {
       "id": "the_best_thing_ever",
       "status": "released",
-      "image_cover_asset": "images/books/the_best_thing_ever/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_best_thing_ever.jpg",
       "tag_list": [
         "adventure",
         "learn"
@@ -8468,7 +8468,7 @@
     {
       "id": "tejus_shadow",
       "status": "released",
-      "image_cover_asset": "images/books/tejus_shadow/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_tejus_shadow.jpg",
       "tag_list": [
         "emotions",
         "family",
@@ -8622,7 +8622,7 @@
     {
       "id": "paint_plant_day",
       "status": "released",
-      "image_cover_asset": "images/books/paint_plant_day/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_paint_plant_day.jpg",
       "tag_list": [
         "family",
         "learn",
@@ -8747,7 +8747,7 @@
     {
       "id": "my_little_garden",
       "status": "released",
-      "image_cover_asset": "images/books/my_little_garden/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_little_garden.jpg",
       "tag_list": [
         "nature",
         "play"
@@ -8796,7 +8796,7 @@
     {
       "id": "mama_whats_for_lunch",
       "status": "released",
-      "image_cover_asset": "images/books/mama_whats_for_lunch/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_mama_wants_lunch.jpg",
       "tag_list": [
         "family",
         "learn",
@@ -8930,7 +8930,7 @@
     {
       "id": "lets_go_on_a_litter_hunt",
       "status": "released",
-      "image_cover_asset": "images/books/lets_go_on_a_litter_hunt/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_let_go_hunt.jpg",
       "tag_list": [
         "adventure",
         "learn",
@@ -9064,7 +9064,7 @@
     {
       "id": "how_do_you_sleep",
       "status": "released",
-      "image_cover_asset": "images/books/how_do_you_sleep/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_how_sleep.jpg",
       "tag_list": [
         "animals"
       ],
@@ -9189,7 +9189,7 @@
     {
       "id": "grandpa_farouks_garden",
       "status": "released",
-      "image_cover_asset": "images/books/grandpa_farouks_garden/cover.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_grandpa_farouk.jpg",
       "tag_list": [
         "nature",
         "family",
@@ -9324,7 +9324,7 @@
     {
       "id": "colours",
       "status": "released",
-      "image_cover_asset": "images/books/the_colours/image_1.jpg",
+      "image_cover_asset": "images/books/book_covers/cover_the_colours.jpg",
       "tag_list": [
         "animals",
         "learn"
@@ -9492,7 +9492,7 @@
     {
       "id": "lefas_bath",
       "status": "released",
-      "image_cover_asset": "images/books/lefas_bath/cover.png",
+      "image_cover_asset": "images/books/book_covers/cover_lefas_bath.jpg",
       "tag_list": [
         "animals",
         "emotions"

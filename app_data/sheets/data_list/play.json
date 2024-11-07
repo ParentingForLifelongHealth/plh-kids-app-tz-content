@@ -162,6 +162,7 @@
     {
       "id": "pattern_play",
       "image_asset": "images/learning_through_play/pattern_play_1.svg",
+      "step_1_image_asset": "images/learning_through_play/pattern_play_1.svg",
       "play_tag_list": [
         "home"
       ],
