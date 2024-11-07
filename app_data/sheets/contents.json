@@ -6414,6 +6414,11 @@
       "flow_name": "picture_books",
       "_xlsxPath": "books/picture_books.xlsx"
     },
+    "play_activity": {
+      "flow_type": "template",
+      "flow_name": "play_activity",
+      "_xlsxPath": "modules/TZ activities template generators.xlsx"
+    },
     "pop_up_text": {
       "flow_type": "template",
       "flow_name": "pop_up_text",

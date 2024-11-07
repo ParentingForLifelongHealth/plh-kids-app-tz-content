@@ -162,7 +162,6 @@
     {
       "id": "pattern_play",
       "image_asset": "images/learning_through_play/pattern_play_1.svg",
-      "step_1_image_asset": "images/learning_through_play/pattern_play_1.svg",
       "play_tag_list": [
         "home"
       ],
@@ -575,9 +574,10 @@
         "resources_text": {
           "tz_sw": true
         },
-        "step_1_text": {
-          "tz_sw": true
-        }
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {},
+        "step_4_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -590,12 +590,24 @@
           "eng": "A toilet roll tube, a torch (one on a mobile phone is fine) and sticky tape for your projector. Everyday items, like paper, fabrics or cardboard, to create characters for your show."
         },
         "step_1_text": {
-          "eng": "1. Make the projector by joining the toilet roll to your torch using sticky tape. If you don’t have a toilet roll or a torch, you can use a normal lamp or candle, and place it where it will make a shadow against the wall.\n2. Work out where you want to see the shadows, like against a wall or on the floor. \n3. Decide what items you want to use to make the characters for your shadow movie. You can create your own characters out of paper or cardboard, use existing objects or toys, or even use your hands. \n4. Turn off the lights or close the curtains, shine the light on your characters and create a shadow story together."
+          "eng": "1. Make the projector by joining the toilet roll to your torch using sticky tape. If you don’t have a toilet roll or a torch, you can use a normal lamp or candle, and place it where it will make a shadow against the wall."
+        },
+        "step_2_text": {
+          "eng": "2. Work out where you want to see the shadows, like against a wall or on the floor."
+        },
+        "step_3_text": {
+          "eng": "3. Decide what items you want to use to make the characters for your shadow movie. You can create your own characters out of paper or cardboard, use existing objects or toys, or even use your hands."
+        },
+        "step_4_text": {
+          "eng": "4. Turn off the lights or close the curtains, shine the light on your characters and create a shadow story together."
         }
       },
       "intro_text": "Play with the shadows of different objects against a wall to create your own movie or story.",
       "resources_text": "A toilet roll tube, a torch (one on a mobile phone is fine) and sticky tape for your projector. Everyday items, like paper, fabrics or cardboard, to create characters for your show.",
-      "step_1_text": "1. Make the projector by joining the toilet roll to your torch using sticky tape. If you don’t have a toilet roll or a torch, you can use a normal lamp or candle, and place it where it will make a shadow against the wall.\n2. Work out where you want to see the shadows, like against a wall or on the floor. \n3. Decide what items you want to use to make the characters for your shadow movie. You can create your own characters out of paper or cardboard, use existing objects or toys, or even use your hands. \n4. Turn off the lights or close the curtains, shine the light on your characters and create a shadow story together."
+      "step_1_text": "1. Make the projector by joining the toilet roll to your torch using sticky tape. If you don’t have a toilet roll or a torch, you can use a normal lamp or candle, and place it where it will make a shadow against the wall.",
+      "step_2_text": "2. Work out where you want to see the shadows, like against a wall or on the floor.",
+      "step_3_text": "3. Decide what items you want to use to make the characters for your shadow movie. You can create your own characters out of paper or cardboard, use existing objects or toys, or even use your hands.",
+      "step_4_text": "4. Turn off the lights or close the curtains, shine the light on your characters and create a shadow story together."
     },
     {
       "id": "build_a_road",
