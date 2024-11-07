@@ -530,7 +530,8 @@
         "min_height: 40px"
       ],
       "parameter_list": {
-        "style": "white_box"
+        "variant": "box_white",
+        "style": "column"
       },
       "exclude_from_translation": true,
       "rows": [
