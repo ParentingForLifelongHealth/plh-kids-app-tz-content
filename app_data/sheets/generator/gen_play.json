@@ -32,7 +32,27 @@
       "value": "@gen.step_1_text"
     },
     {
+      "name": "image_1",
+      "value": "@gen.step_1_image_asset"
+    },
+    {
       "name": "text_2",
+      "value": "@gen.step_2_text"
+    },
+    {
+      "name": "image_2",
+      "value": "@gen.step_2_image_asset"
+    },
+    {
+      "name": "text_3",
+      "value": "@gen.step_3_text"
+    },
+    {
+      "name": "image_3",
+      "value": "@gen.step_3_image_asset"
+    },
+    {
+      "name": "tips_1",
       "value": "@gen.tips_text"
     },
     {
@@ -56,6 +76,31 @@
               "type": "text",
               "name": "accordion_content_1",
               "value": "@local.text_1"
+            },
+            {
+              "type": "image",
+              "name": "accordion_content_2",
+              "value": "@local.image_1"
+            },
+            {
+              "type": "text",
+              "name": "accordion_content_3",
+              "value": "@local.text_2"
+            },
+            {
+              "type": "image",
+              "name": "accordion_content_4",
+              "value": "@local.image_2"
+            },
+            {
+              "type": "text",
+              "name": "accordion_content_5",
+              "value": "@local.text_3"
+            },
+            {
+              "type": "image",
+              "name": "accordion_content_6",
+              "value": "@local.image_3"
             }
           ]
         },
@@ -67,7 +112,7 @@
             {
               "type": "text",
               "name": "accordion_content_2",
-              "value": "@local.text_2"
+              "value": "@local.tips_1"
             }
           ]
         }

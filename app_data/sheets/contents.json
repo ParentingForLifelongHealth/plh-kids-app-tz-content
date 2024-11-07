@@ -3820,6 +3820,11 @@
       "flow_name": "check_field_value",
       "_xlsxPath": "library_field_values.xlsx"
     },
+    "comic_bubble": {
+      "flow_type": "template",
+      "flow_name": "comic_bubble",
+      "_xlsxPath": "templates/modules/articles.xlsx"
+    },
     "enter_dev_mode": {
       "flow_type": "template",
       "flow_name": "enter_dev_mode",

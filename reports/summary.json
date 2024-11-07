@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 604
+      "count": 732
     },
     {
       "type": "task_card",
@@ -70,7 +70,7 @@
     },
     {
       "type": "template",
-      "count": 499
+      "count": 503
     },
     {
       "type": "text",
@@ -86,7 +86,7 @@
     },
     {
       "type": "text_bubble",
-      "count": 4
+      "count": 5
     },
     {
       "type": "title",
@@ -166,13 +166,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "66889 KB",
-      "MB": "66.9 MB"
+      "KB": "67384 KB",
+      "MB": "67.4 MB"
     },
     {
       "assets": "unused",
-      "KB": "8125 KB",
-      "MB": "8.1 MB"
+      "KB": "2561 KB",
+      "MB": "2.6 MB"
     }
   ],
   "assets_unused": [
@@ -205,172 +205,168 @@
       "size_kb": 5.9
     },
     {
-      "path": "images/books/Book covers/Cover_Emotions come and go.png",
-      "size_kb": 266.1
+      "path": "images/books/emotions_come_go/image_1.jpg",
+      "size_kb": 72.5
     },
     {
-      "path": "images/books/Book covers/Cover_Fifi and teddy.png",
-      "size_kb": 163.4
+      "path": "images/books/fifi_and_teddy/cover.jpg",
+      "size_kb": 20.2
     },
     {
-      "path": "images/books/Book covers/Cover_Grandpa Farouk's garden.png",
-      "size_kb": 195.6
+      "path": "images/books/grandpa_farouks_garden/cover.jpg",
+      "size_kb": 25.2
     },
     {
-      "path": "images/books/Book covers/Cover_I dont want to go to sleep.png",
-      "size_kb": 101.5
+      "path": "images/books/how_do_you_sleep/cover.jpg",
+      "size_kb": 29.9
     },
     {
-      "path": "images/books/Book covers/Cover_how do you sleep.png",
-      "size_kb": 182.5
+      "path": "images/books/how_do_you_want_your_eggs/cover.jpg",
+      "size_kb": 21.2
     },
     {
-      "path": "images/books/Book covers/Cover_how do you want your eggs.png",
-      "size_kb": 137.2
+      "path": "images/books/jasu_loves_football/image_1.jpg",
+      "size_kb": 20.1
     },
     {
-      "path": "images/books/Book covers/Cover_m y little garden.png",
-      "size_kb": 126.5
+      "path": "images/books/katiitis_song/image_1.jpg",
+      "size_kb": 66.4
     },
     {
-      "path": "images/books/Book covers/Cover_the best thing ever.png",
-      "size_kb": 126.6
+      "path": "images/books/lebo_gogo_tea_party/cover.jpg",
+      "size_kb": 20.3
     },
     {
-      "path": "images/books/Book covers/Cover_tlotlegos tea party.png",
-      "size_kb": 139.7
-    },
-    {
-      "path": "images/books/Book covers/Cover_whats at the park.png",
-      "size_kb": 139.1
-    },
-    {
-      "path": "images/books/Book covers/Lefas Bath.png",
+      "path": "images/books/lefas_bath/cover.png",
       "size_kb": 99.6
     },
     {
-      "path": "images/books/Book covers/Lesedis_sandbox_round_cover.png",
-      "size_kb": 139.2
-    },
-    {
-      "path": "images/books/Book covers/Little shoots.png",
-      "size_kb": 112.9
-    },
-    {
-      "path": "images/books/Book covers/Moms red coat.png",
-      "size_kb": 65.8
-    },
-    {
-      "path": "images/books/Book covers/Shongololo_s_shoes cover.png",
-      "size_kb": 60.4
-    },
-    {
-      "path": "images/books/Book covers/The_things_that_really_matter_COVER.png",
-      "size_kb": 114.7
-    },
-    {
-      "path": "images/books/Book covers/To_the_top_COVER.png",
-      "size_kb": 95.7
-    },
-    {
-      "path": "images/books/Book covers/cover_The one in the middle.png",
-      "size_kb": 228.2
-    },
-    {
-      "path": "images/books/Book covers/cover_Yellow brown earth.png",
-      "size_kb": 244.1
-    },
-    {
-      "path": "images/books/Book covers/cover_jasu loves football.png",
-      "size_kb": 243.5
-    },
-    {
-      "path": "images/books/Book covers/cover_katiitis song.png",
-      "size_kb": 332.5
-    },
-    {
-      "path": "images/books/Book covers/cover_lebo gogo tea party.png",
-      "size_kb": 139.6
-    },
-    {
-      "path": "images/books/Book covers/cover_let's go on a little hunt.png",
-      "size_kb": 180.3
-    },
-    {
-      "path": "images/books/Book covers/cover_look out luando.png",
-      "size_kb": 165.1
-    },
-    {
-      "path": "images/books/Book covers/cover_lost toy.png",
-      "size_kb": 109.7
-    },
-    {
-      "path": "images/books/Book covers/cover_mamma wants for lunch.png",
-      "size_kb": 263.8
-    },
-    {
-      "path": "images/books/Book covers/cover_my inside weather.png",
-      "size_kb": 194.5
-    },
-    {
-      "path": "images/books/Book covers/cover_my shoe.png",
-      "size_kb": 80.7
-    },
-    {
-      "path": "images/books/Book covers/cover_nita upside down.png",
-      "size_kb": 227.5
-    },
-    {
-      "path": "images/books/Book covers/cover_paint plant day.png",
-      "size_kb": 179.1
-    },
-    {
-      "path": "images/books/Book covers/cover_scared tumi.png",
-      "size_kb": 122.7
-    },
-    {
-      "path": "images/books/Book covers/cover_shhhhh.png",
-      "size_kb": 123.1
-    },
-    {
-      "path": "images/books/Book covers/cover_tejus shadow.png",
-      "size_kb": 210.9
-    },
-    {
-      "path": "images/books/Book covers/cover_the bee and the shadow.png",
-      "size_kb": 170
-    },
-    {
-      "path": "images/books/Book covers/cover_the colours.png",
-      "size_kb": 172.3
-    },
-    {
-      "path": "images/books/Book covers/cover_what's next.png",
-      "size_kb": 151.2
-    },
-    {
-      "path": "images/books/Book covers/cover_whats in pot.png",
-      "size_kb": 51.7
-    },
-    {
-      "path": "images/books/Book covers/cover_when grow up.png",
-      "size_kb": 172.1
-    },
-    {
-      "path": "images/books/Book covers/cover_when will amma be back.png",
-      "size_kb": 152.6
-    },
-    {
-      "path": "images/books/Book covers/cover_where is lulu.png",
-      "size_kb": 123.6
-    },
-    {
-      "path": "images/books/Book covers/cover_yes you can.png",
-      "size_kb": 179
+      "path": "images/books/lesedis_sandbox/cover.jpg",
+      "size_kb": 34
     },
     {
       "path": "images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png",
       "size_kb": 139.2
+    },
+    {
+      "path": "images/books/lets_go_on_a_litter_hunt/cover.jpg",
+      "size_kb": 24.6
+    },
+    {
+      "path": "images/books/little_shoots/cover.png",
+      "size_kb": 112.9
+    },
+    {
+      "path": "images/books/look_out_luthando/cover.jpg",
+      "size_kb": 24.7
+    },
+    {
+      "path": "images/books/lost_toy/cover.jpg",
+      "size_kb": 20.5
+    },
+    {
+      "path": "images/books/mama_whats_for_lunch/cover.jpg",
+      "size_kb": 50.9
+    },
+    {
+      "path": "images/books/moms_red_coat/cover.png",
+      "size_kb": 65.8
+    },
+    {
+      "path": "images/books/my_inside_weather/cover.jpg",
+      "size_kb": 22.4
+    },
+    {
+      "path": "images/books/my_little_garden/cover.jpg",
+      "size_kb": 24.2
+    },
+    {
+      "path": "images/books/my_shoe/my_shoe_cover.jpg",
+      "size_kb": 14.3
+    },
+    {
+      "path": "images/books/nita_upside_down/image_1.jpg",
+      "size_kb": 25.5
+    },
+    {
+      "path": "images/books/paint_plant_day/image_1.jpg",
+      "size_kb": 26.7
+    },
+    {
+      "path": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
+      "size_kb": 13.8
+    },
+    {
+      "path": "images/books/shhhhh/image_1.jpg",
+      "size_kb": 13
+    },
+    {
+      "path": "images/books/shongololo_s_shoes/cover.png",
+      "size_kb": 60.4
+    },
+    {
+      "path": "images/books/tejus_shadow/cover.jpg",
+      "size_kb": 29.8
+    },
+    {
+      "path": "images/books/the_bee_and_the_elephant/image_1.jpg",
+      "size_kb": 23.2
+    },
+    {
+      "path": "images/books/the_best_thing_ever/cover.jpg",
+      "size_kb": 15.7
+    },
+    {
+      "path": "images/books/the_colours/image_1.jpg",
+      "size_kb": 17.4
+    },
+    {
+      "path": "images/books/the_one_in_the_middle/cover.jpg",
+      "size_kb": 32.5
+    },
+    {
+      "path": "images/books/the_things_that_really_matter/cover.png",
+      "size_kb": 114.7
+    },
+    {
+      "path": "images/books/tlotlegos_tea_party/cover.jpg",
+      "size_kb": 23.2
+    },
+    {
+      "path": "images/books/to_the_top/cover.png",
+      "size_kb": 95.7
+    },
+    {
+      "path": "images/books/whats_at_the_park/cover.jpg",
+      "size_kb": 20.1
+    },
+    {
+      "path": "images/books/whats_in_pot/cover.jpg",
+      "size_kb": 8.5
+    },
+    {
+      "path": "images/books/whats_next/image_1.jpg",
+      "size_kb": 16.5
+    },
+    {
+      "path": "images/books/when_grow_up/image_1.jpg",
+      "size_kb": 21.5
+    },
+    {
+      "path": "images/books/when_will_amma_be_back/image_1.jpg",
+      "size_kb": 17.5
+    },
+    {
+      "path": "images/books/where_is_lulu/cover.jpg",
+      "size_kb": 21.4
+    },
+    {
+      "path": "images/books/yellow_brown_earth/image_1.jpg",
+      "size_kb": 31.5
+    },
+    {
+      "path": "images/books/yes_you_can/cover.jpg",
+      "size_kb": 25.4
     },
     {
       "path": "images/icons/book_outline_blue.svg",
@@ -473,40 +469,8 @@
       "size_kb": 12.8
     },
     {
-      "path": "images/relax/relax_15.svg",
-      "size_kb": 26.6
-    },
-    {
-      "path": "images/relax/relax_17.svg",
-      "size_kb": 28.9
-    },
-    {
-      "path": "images/relax/relax_18.svg",
-      "size_kb": 16.2
-    },
-    {
-      "path": "images/relax/relax_20.svg",
-      "size_kb": 71.5
-    },
-    {
-      "path": "images/relax/relax_21.svg",
-      "size_kb": 31.4
-    },
-    {
-      "path": "images/relax/relax_22.svg",
-      "size_kb": 174.4
-    },
-    {
-      "path": "images/relax/relax_23.svg",
-      "size_kb": 26
-    },
-    {
-      "path": "images/relax/relax_24.svg",
-      "size_kb": 145.5
-    },
-    {
-      "path": "images/relax/relax_25.svg",
-      "size_kb": 10
+      "path": "images/relax/relax_man.svg",
+      "size_kb": 27
     },
     {
       "path": "images/relax/relax_woman.svg",
@@ -2465,6 +2429,211 @@
       "size_kb": 23.2
     },
     {
+      "path": "images/books/book_covers/cover_amma_be_back.jpg",
+      "count": 2,
+      "size_kb": 37.9
+    },
+    {
+      "path": "images/books/book_covers/cover_bee_and_elephant.jpg",
+      "count": 2,
+      "size_kb": 39.8
+    },
+    {
+      "path": "images/books/book_covers/cover_best_thing_ever.jpg",
+      "count": 2,
+      "size_kb": 23.5
+    },
+    {
+      "path": "images/books/book_covers/cover_dont_want_sleep.jpg",
+      "count": 2,
+      "size_kb": 21.6
+    },
+    {
+      "path": "images/books/book_covers/cover_emotions.jpg",
+      "count": 2,
+      "size_kb": 54.4
+    },
+    {
+      "path": "images/books/book_covers/cover_fifi_teddy.jpg",
+      "count": 2,
+      "size_kb": 27.1
+    },
+    {
+      "path": "images/books/book_covers/cover_grandpa_farouk.jpg",
+      "count": 2,
+      "size_kb": 30.4
+    },
+    {
+      "path": "images/books/book_covers/cover_how_sleep.jpg",
+      "count": 2,
+      "size_kb": 32
+    },
+    {
+      "path": "images/books/book_covers/cover_how_want_eggs.jpg",
+      "count": 2,
+      "size_kb": 25.1
+    },
+    {
+      "path": "images/books/book_covers/cover_inside_weather.jpg",
+      "count": 2,
+      "size_kb": 36.7
+    },
+    {
+      "path": "images/books/book_covers/cover_jasu_football.jpg",
+      "count": 2,
+      "size_kb": 49.6
+    },
+    {
+      "path": "images/books/book_covers/cover_katiitis_song.jpg",
+      "count": 2,
+      "size_kb": 67
+    },
+    {
+      "path": "images/books/book_covers/cover_lebo_gogo.jpg",
+      "count": 2,
+      "size_kb": 23.9
+    },
+    {
+      "path": "images/books/book_covers/cover_lefas_bath.jpg",
+      "count": 2,
+      "size_kb": 45
+    },
+    {
+      "path": "images/books/book_covers/cover_lesedis_sandbox.jpg",
+      "count": 2,
+      "size_kb": 46.5
+    },
+    {
+      "path": "images/books/book_covers/cover_let_go_hunt.jpg",
+      "count": 2,
+      "size_kb": 27.2
+    },
+    {
+      "path": "images/books/book_covers/cover_little_garden.jpg",
+      "count": 2,
+      "size_kb": 24
+    },
+    {
+      "path": "images/books/book_covers/cover_little_shoots.jpg",
+      "count": 2,
+      "size_kb": 46.7
+    },
+    {
+      "path": "images/books/book_covers/cover_look_luando.jpg",
+      "count": 2,
+      "size_kb": 28.6
+    },
+    {
+      "path": "images/books/book_covers/cover_lost_toy.jpg",
+      "count": 2,
+      "size_kb": 24.8
+    },
+    {
+      "path": "images/books/book_covers/cover_mama_wants_lunch.jpg",
+      "count": 2,
+      "size_kb": 45.9
+    },
+    {
+      "path": "images/books/book_covers/cover_moms_red_coat.jpg",
+      "count": 2,
+      "size_kb": 32
+    },
+    {
+      "path": "images/books/book_covers/cover_my_shoe.jpg",
+      "count": 2,
+      "size_kb": 19
+    },
+    {
+      "path": "images/books/book_covers/cover_nita_upside_down.jpg",
+      "count": 2,
+      "size_kb": 50.3
+    },
+    {
+      "path": "images/books/book_covers/cover_paint_plant_day.jpg",
+      "count": 2,
+      "size_kb": 42.2
+    },
+    {
+      "path": "images/books/book_covers/cover_scared_tumi.jpg",
+      "count": 2,
+      "size_kb": 26.2
+    },
+    {
+      "path": "images/books/book_covers/cover_shhhhh.jpg",
+      "count": 2,
+      "size_kb": 28.1
+    },
+    {
+      "path": "images/books/book_covers/cover_shongololo_shoes.jpg",
+      "count": 2,
+      "size_kb": 27.3
+    },
+    {
+      "path": "images/books/book_covers/cover_tejus_shadow.jpg",
+      "count": 2,
+      "size_kb": 32.6
+    },
+    {
+      "path": "images/books/book_covers/cover_the_colours.jpg",
+      "count": 2,
+      "size_kb": 37.6
+    },
+    {
+      "path": "images/books/book_covers/cover_the_one_middle.jpg",
+      "count": 2,
+      "size_kb": 38
+    },
+    {
+      "path": "images/books/book_covers/cover_things_really_matter.jpg",
+      "count": 2,
+      "size_kb": 46.8
+    },
+    {
+      "path": "images/books/book_covers/cover_tlotlegos_tea_party.jpg",
+      "count": 2,
+      "size_kb": 26.8
+    },
+    {
+      "path": "images/books/book_covers/cover_to_the_top.jpg",
+      "count": 2,
+      "size_kb": 35.6
+    },
+    {
+      "path": "images/books/book_covers/cover_what_next.jpg",
+      "count": 2,
+      "size_kb": 37.8
+    },
+    {
+      "path": "images/books/book_covers/cover_whats_in_pot.jpg",
+      "count": 2,
+      "size_kb": 13.8
+    },
+    {
+      "path": "images/books/book_covers/cover_whats_park.jpg",
+      "count": 2,
+      "size_kb": 24.2
+    },
+    {
+      "path": "images/books/book_covers/cover_when_grow_up.jpg",
+      "count": 2,
+      "size_kb": 31.8
+    },
+    {
+      "path": "images/books/book_covers/cover_where_is_lulu.jpg",
+      "count": 2,
+      "size_kb": 28.5
+    },
+    {
+      "path": "images/books/book_covers/cover_yellow_brown_earth.jpg",
+      "count": 2,
+      "size_kb": 52.4
+    },
+    {
+      "path": "images/books/book_covers/cover_yes_you_can.jpg",
+      "count": 2,
+      "size_kb": 26.8
+    },
+    {
       "path": "images/books/brave_bora/cover.png",
       "count": 2,
       "size_kb": 200
@@ -2660,11 +2829,6 @@
       "size_kb": 30
     },
     {
-      "path": "images/books/emotions_come_go/image_1.jpg",
-      "count": 2,
-      "size_kb": 72.5
-    },
-    {
       "path": "images/books/emotions_come_go/image_10.jpg",
       "count": 2,
       "size_kb": 28.1
@@ -2745,11 +2909,6 @@
       "size_kb": 24.1
     },
     {
-      "path": "images/books/fifi_and_teddy/cover.jpg",
-      "count": 2,
-      "size_kb": 20.2
-    },
-    {
       "path": "images/books/fifi_and_teddy/page10.jpg",
       "count": 2,
       "size_kb": 25.4
@@ -2808,11 +2967,6 @@
       "path": "images/books/fifi_and_teddy/page9.jpg",
       "count": 2,
       "size_kb": 24.1
-    },
-    {
-      "path": "images/books/grandpa_farouks_garden/cover.jpg",
-      "count": 2,
-      "size_kb": 25.2
     },
     {
       "path": "images/books/grandpa_farouks_garden/page10.jpg",
@@ -2885,11 +3039,6 @@
       "size_kb": 25.5
     },
     {
-      "path": "images/books/how_do_you_sleep/cover.jpg",
-      "count": 2,
-      "size_kb": 29.9
-    },
-    {
       "path": "images/books/how_do_you_sleep/page10.jpg",
       "count": 2,
       "size_kb": 36.2
@@ -2960,11 +3109,6 @@
       "size_kb": 40.6
     },
     {
-      "path": "images/books/how_do_you_want_your_eggs/cover.jpg",
-      "count": 2,
-      "size_kb": 21.2
-    },
-    {
       "path": "images/books/how_do_you_want_your_eggs/page10.jpg",
       "count": 2,
       "size_kb": 19.3
@@ -3026,7 +3170,7 @@
     },
     {
       "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
-      "count": 5,
+      "count": 3,
       "size_kb": 14.5
     },
     {
@@ -3093,11 +3237,6 @@
       "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg",
       "count": 5,
       "size_kb": 31.6
-    },
-    {
-      "path": "images/books/jasu_loves_football/image_1.jpg",
-      "count": 2,
-      "size_kb": 20.1
     },
     {
       "path": "images/books/jasu_loves_football/image_10.jpg",
@@ -3180,11 +3319,6 @@
       "size_kb": 30.5
     },
     {
-      "path": "images/books/katiitis_song/image_1.jpg",
-      "count": 2,
-      "size_kb": 66.4
-    },
-    {
       "path": "images/books/katiitis_song/image_10.jpg",
       "count": 2,
       "size_kb": 7.9
@@ -3250,11 +3384,6 @@
       "size_kb": 11.5
     },
     {
-      "path": "images/books/lebo_gogo_tea_party/cover.jpg",
-      "count": 2,
-      "size_kb": 20.3
-    },
-    {
       "path": "images/books/lebo_gogo_tea_party/page10.jpg",
       "count": 2,
       "size_kb": 40.1
@@ -3313,11 +3442,6 @@
       "path": "images/books/lebo_gogo_tea_party/page9.jpg",
       "count": 2,
       "size_kb": 26.6
-    },
-    {
-      "path": "images/books/lefas_bath/cover.png",
-      "count": 2,
-      "size_kb": 99.6
     },
     {
       "path": "images/books/lefas_bath/page10.jpg",
@@ -3390,11 +3514,6 @@
       "size_kb": 60.1
     },
     {
-      "path": "images/books/lesedis_sandbox/cover.jpg",
-      "count": 2,
-      "size_kb": 34
-    },
-    {
       "path": "images/books/lesedis_sandbox/page10.jpg",
       "count": 2,
       "size_kb": 45.5
@@ -3453,11 +3572,6 @@
       "path": "images/books/lesedis_sandbox/page9.jpg",
       "count": 2,
       "size_kb": 44.9
-    },
-    {
-      "path": "images/books/lets_go_on_a_litter_hunt/cover.jpg",
-      "count": 2,
-      "size_kb": 24.6
     },
     {
       "path": "images/books/lets_go_on_a_litter_hunt/page10.jpg",
@@ -3530,11 +3644,6 @@
       "size_kb": 30.3
     },
     {
-      "path": "images/books/little_shoots/cover.png",
-      "count": 2,
-      "size_kb": 112.9
-    },
-    {
       "path": "images/books/little_shoots/page10.jpg",
       "count": 2,
       "size_kb": 45.2
@@ -3600,11 +3709,6 @@
       "size_kb": 40.5
     },
     {
-      "path": "images/books/look_out_luthando/cover.jpg",
-      "count": 2,
-      "size_kb": 24.7
-    },
-    {
       "path": "images/books/look_out_luthando/page10.jpg",
       "count": 2,
       "size_kb": 27.8
@@ -3663,11 +3767,6 @@
       "path": "images/books/look_out_luthando/page9.jpg",
       "count": 2,
       "size_kb": 38.6
-    },
-    {
-      "path": "images/books/lost_toy/cover.jpg",
-      "count": 2,
-      "size_kb": 20.5
     },
     {
       "path": "images/books/lost_toy/page10.jpg",
@@ -3740,11 +3839,6 @@
       "size_kb": 61.3
     },
     {
-      "path": "images/books/mama_whats_for_lunch/cover.jpg",
-      "count": 2,
-      "size_kb": 50.9
-    },
-    {
       "path": "images/books/mama_whats_for_lunch/page10.jpg",
       "count": 2,
       "size_kb": 23.9
@@ -3815,11 +3909,6 @@
       "size_kb": 23.8
     },
     {
-      "path": "images/books/moms_red_coat/cover.png",
-      "count": 2,
-      "size_kb": 65.8
-    },
-    {
       "path": "images/books/moms_red_coat/moms-red-coat_20221201_page10.jpg",
       "count": 2,
       "size_kb": 19
@@ -3880,11 +3969,6 @@
       "size_kb": 18.5
     },
     {
-      "path": "images/books/my_inside_weather/cover.jpg",
-      "count": 2,
-      "size_kb": 22.4
-    },
-    {
       "path": "images/books/my_inside_weather/page10.jpg",
       "count": 2,
       "size_kb": 22.8
@@ -3943,11 +4027,6 @@
       "path": "images/books/my_inside_weather/page9.jpg",
       "count": 2,
       "size_kb": 18.1
-    },
-    {
-      "path": "images/books/my_little_garden/cover.jpg",
-      "count": 2,
-      "size_kb": 24.2
     },
     {
       "path": "images/books/my_little_garden/page10.jpg",
@@ -4020,11 +4099,6 @@
       "size_kb": 30
     },
     {
-      "path": "images/books/my_shoe/my_shoe_cover.jpg",
-      "count": 2,
-      "size_kb": 14.3
-    },
-    {
       "path": "images/books/my_shoe/who-took-my-shoe_20221127_page10.jpg",
       "count": 2,
       "size_kb": 20.5
@@ -4093,11 +4167,6 @@
       "path": "images/books/my_shoe/who-took-my-shoe_20221127_page9.jpg",
       "count": 2,
       "size_kb": 14.9
-    },
-    {
-      "path": "images/books/nita_upside_down/image_1.jpg",
-      "count": 2,
-      "size_kb": 25.5
     },
     {
       "path": "images/books/nita_upside_down/image_10.jpg",
@@ -4175,11 +4244,6 @@
       "size_kb": 7.9
     },
     {
-      "path": "images/books/paint_plant_day/image_1.jpg",
-      "count": 2,
-      "size_kb": 26.7
-    },
-    {
       "path": "images/books/paint_plant_day/image_10.jpg",
       "count": 2,
       "size_kb": 19.9
@@ -4233,11 +4297,6 @@
       "path": "images/books/paint_plant_day/image_9.jpg",
       "count": 2,
       "size_kb": 12.5
-    },
-    {
-      "path": "images/books/scared_tumi/scared-tumi_20161230_cover.jpg",
-      "count": 2,
-      "size_kb": 13.8
     },
     {
       "path": "images/books/scared_tumi/scared-tumi_20161230_page10.jpg",
@@ -4305,11 +4364,6 @@
       "size_kb": 26.7
     },
     {
-      "path": "images/books/shhhhh/image_1.jpg",
-      "count": 2,
-      "size_kb": 13
-    },
-    {
       "path": "images/books/shhhhh/image_10.jpg",
       "count": 2,
       "size_kb": 18.1
@@ -4373,11 +4427,6 @@
       "path": "images/books/shhhhh/image_9.jpg",
       "count": 2,
       "size_kb": 22
-    },
-    {
-      "path": "images/books/shongololo_s_shoes/cover.png",
-      "count": 2,
-      "size_kb": 60.4
     },
     {
       "path": "images/books/shongololo_s_shoes/image_10.jpg",
@@ -4450,11 +4499,6 @@
       "size_kb": 29
     },
     {
-      "path": "images/books/tejus_shadow/cover.jpg",
-      "count": 2,
-      "size_kb": 29.8
-    },
-    {
       "path": "images/books/tejus_shadow/page10.jpg",
       "count": 2,
       "size_kb": 12.5
@@ -4520,11 +4564,6 @@
       "size_kb": 22.9
     },
     {
-      "path": "images/books/the_bee_and_the_elephant/image_1.jpg",
-      "count": 2,
-      "size_kb": 23.2
-    },
-    {
       "path": "images/books/the_bee_and_the_elephant/image_10.jpg",
       "count": 2,
       "size_kb": 7.2
@@ -4568,11 +4607,6 @@
       "path": "images/books/the_bee_and_the_elephant/image_9.jpg",
       "count": 2,
       "size_kb": 42.1
-    },
-    {
-      "path": "images/books/the_best_thing_ever/cover.jpg",
-      "count": 2,
-      "size_kb": 15.7
     },
     {
       "path": "images/books/the_best_thing_ever/page10.jpg",
@@ -4643,11 +4677,6 @@
       "path": "images/books/the_best_thing_ever/page9.jpg",
       "count": 2,
       "size_kb": 21.5
-    },
-    {
-      "path": "images/books/the_colours/image_1.jpg",
-      "count": 2,
-      "size_kb": 17.4
     },
     {
       "path": "images/books/the_colours/image_10.jpg",
@@ -4745,11 +4774,6 @@
       "size_kb": 20.4
     },
     {
-      "path": "images/books/the_one_in_the_middle/cover.jpg",
-      "count": 2,
-      "size_kb": 32.5
-    },
-    {
       "path": "images/books/the_one_in_the_middle/page10.jpg",
       "count": 2,
       "size_kb": 37.3
@@ -4820,11 +4844,6 @@
       "size_kb": 47.7
     },
     {
-      "path": "images/books/the_things_that_really_matter/cover.png",
-      "count": 2,
-      "size_kb": 114.7
-    },
-    {
       "path": "images/books/the_things_that_really_matter/page10.jpg",
       "count": 2,
       "size_kb": 21.5
@@ -4888,11 +4907,6 @@
       "path": "images/books/the_things_that_really_matter/page9.jpg",
       "count": 2,
       "size_kb": 39.6
-    },
-    {
-      "path": "images/books/tlotlegos_tea_party/cover.jpg",
-      "count": 2,
-      "size_kb": 23.2
     },
     {
       "path": "images/books/tlotlegos_tea_party/page10.jpg",
@@ -4965,11 +4979,6 @@
       "size_kb": 28.6
     },
     {
-      "path": "images/books/to_the_top/cover.png",
-      "count": 2,
-      "size_kb": 95.7
-    },
-    {
       "path": "images/books/to_the_top/page10.jpg",
       "count": 2,
       "size_kb": 32
@@ -5033,11 +5042,6 @@
       "path": "images/books/to_the_top/page9.jpg",
       "count": 2,
       "size_kb": 41.1
-    },
-    {
-      "path": "images/books/whats_at_the_park/cover.jpg",
-      "count": 2,
-      "size_kb": 20.1
     },
     {
       "path": "images/books/whats_at_the_park/page10.jpg",
@@ -5110,11 +5114,6 @@
       "size_kb": 15.4
     },
     {
-      "path": "images/books/whats_in_pot/cover.jpg",
-      "count": 2,
-      "size_kb": 8.5
-    },
-    {
       "path": "images/books/whats_in_pot/page10.jpg",
       "count": 2,
       "size_kb": 25.3
@@ -5185,11 +5184,6 @@
       "size_kb": 18.9
     },
     {
-      "path": "images/books/whats_next/image_1.jpg",
-      "count": 2,
-      "size_kb": 16.5
-    },
-    {
       "path": "images/books/whats_next/image_10.jpg",
       "count": 2,
       "size_kb": 18.9
@@ -5248,11 +5242,6 @@
       "path": "images/books/whats_next/image_9.jpg",
       "count": 2,
       "size_kb": 10.5
-    },
-    {
-      "path": "images/books/when_grow_up/image_1.jpg",
-      "count": 2,
-      "size_kb": 21.5
     },
     {
       "path": "images/books/when_grow_up/image_10.jpg",
@@ -5375,11 +5364,6 @@
       "size_kb": 15.9
     },
     {
-      "path": "images/books/when_will_amma_be_back/image_1.jpg",
-      "count": 2,
-      "size_kb": 17.5
-    },
-    {
       "path": "images/books/when_will_amma_be_back/image_10.jpg",
       "count": 2,
       "size_kb": 11.3
@@ -5455,11 +5439,6 @@
       "size_kb": 10.4
     },
     {
-      "path": "images/books/where_is_lulu/cover.jpg",
-      "count": 2,
-      "size_kb": 21.4
-    },
-    {
       "path": "images/books/where_is_lulu/page10.jpg",
       "count": 2,
       "size_kb": 15.3
@@ -5520,11 +5499,6 @@
       "size_kb": 23.2
     },
     {
-      "path": "images/books/yellow_brown_earth/image_1.jpg",
-      "count": 2,
-      "size_kb": 31.5
-    },
-    {
       "path": "images/books/yellow_brown_earth/image_10.jpg",
       "count": 2,
       "size_kb": 18.9
@@ -5573,11 +5547,6 @@
       "path": "images/books/yellow_brown_earth/image_9.jpg",
       "count": 2,
       "size_kb": 35.5
-    },
-    {
-      "path": "images/books/yes_you_can/cover.jpg",
-      "count": 2,
-      "size_kb": 25.4
     },
     {
       "path": "images/books/yes_you_can/page10.jpg",
@@ -5931,7 +5900,7 @@
     },
     {
       "path": "images/learning_through_play/pattern_play_1.svg",
-      "count": 2,
+      "count": 4,
       "size_kb": 102.2
     },
     {
@@ -6450,9 +6419,24 @@
       "size_kb": 34.6
     },
     {
+      "path": "images/relax/relax_15.svg",
+      "count": 1,
+      "size_kb": 26.6
+    },
+    {
       "path": "images/relax/relax_16.svg",
       "count": 1,
       "size_kb": 22
+    },
+    {
+      "path": "images/relax/relax_17.svg",
+      "count": 2,
+      "size_kb": 28.9
+    },
+    {
+      "path": "images/relax/relax_18.svg",
+      "count": 1,
+      "size_kb": 16.2
     },
     {
       "path": "images/relax/relax_19.svg",
@@ -6463,6 +6447,36 @@
       "path": "images/relax/relax_2.svg",
       "count": 1,
       "size_kb": 5.5
+    },
+    {
+      "path": "images/relax/relax_20.svg",
+      "count": 1,
+      "size_kb": 71.5
+    },
+    {
+      "path": "images/relax/relax_21.svg",
+      "count": 2,
+      "size_kb": 31.4
+    },
+    {
+      "path": "images/relax/relax_22.svg",
+      "count": 1,
+      "size_kb": 174.4
+    },
+    {
+      "path": "images/relax/relax_23.svg",
+      "count": 1,
+      "size_kb": 26
+    },
+    {
+      "path": "images/relax/relax_24.svg",
+      "count": 1,
+      "size_kb": 145.5
+    },
+    {
+      "path": "images/relax/relax_25.svg",
+      "count": 1,
+      "size_kb": 10
     },
     {
       "path": "images/relax/relax_3.svg",
@@ -6498,11 +6512,6 @@
       "path": "images/relax/relax_9.svg",
       "count": 1,
       "size_kb": 283.9
-    },
-    {
-      "path": "images/relax/relax_man.svg",
-      "count": 11,
-      "size_kb": 27
     },
     {
       "path": "lottie/bulging_circles.json",
@@ -6559,7 +6568,7 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 57
+      "total": 58
     },
     {
       "type": "template",
