@@ -24,6 +24,51 @@
       "_nested_name": "carousel_data_list_name"
     },
     {
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "join"
+    },
+    {
+      "name": "now",
+      "value": "@calc(timestamp())",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "now",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(timestamp())",
+            "matchedExpression": "@calc(timestamp())",
+            "type": "calc",
+            "fieldName": "timestamp()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(timestamp())": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "click_history",
+      "value": "_click_history",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "click_history"
+    },
+    {
       "type": "carousel",
       "parameter_list": {
         "centred_slides": "false"
@@ -45,7 +90,7 @@
               "condition": "@local.category_activity_id == \"play\"",
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "carousel_4.items_loop.go_to_template",
+              "_nested_name": "carousel_7.items_loop.go_to_template",
               "_dynamicFields": {
                 "value": [
                   {
@@ -82,7 +127,7 @@
               "condition": "@local.category_activity_id == \"relax\"",
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "carousel_4.items_loop.go_to_template",
+              "_nested_name": "carousel_7.items_loop.go_to_template",
               "_dynamicFields": {
                 "value": [
                   {
@@ -111,10 +156,137 @@
               }
             },
             {
+              "name": "click_history_field_name",
+              "value": "@local.carousel_data_list_name@local.join@item.id@local.click_history",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "carousel_7.items_loop.click_history_field_name",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.carousel_data_list_name@local.join@item.id@local.click_history",
+                    "matchedExpression": "@local.carousel_data_list_name",
+                    "type": "local",
+                    "fieldName": "carousel_data_list_name"
+                  },
+                  {
+                    "fullExpression": "@local.carousel_data_list_name@local.join@item.id@local.click_history",
+                    "matchedExpression": "@local.join",
+                    "type": "local",
+                    "fieldName": "join"
+                  },
+                  {
+                    "fullExpression": "@local.carousel_data_list_name@local.join@item.id@local.click_history",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "@local.carousel_data_list_name@local.join@item.id@local.click_history",
+                    "matchedExpression": "@local.click_history",
+                    "type": "local",
+                    "fieldName": "click_history"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.carousel_data_list_name": [
+                  "value"
+                ],
+                "@local.join": [
+                  "value"
+                ],
+                "@item.id": [
+                  "value"
+                ],
+                "@local.click_history": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "click_history_value",
+              "value": "@fields.@local.click_history_field_name ;  @local.now",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "!!(@fields.@local.click_history_field_name)": "true"
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "carousel_7.items_loop.click_history_value",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  },
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.click_history_field_name": [
+                  "value"
+                ],
+                "@local.now": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "click_history_value",
+              "value": "@local.now",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "!(@fields.@local.click_history_field_name)": "true"
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "carousel_7.items_loop.click_history_value",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.now": [
+                  "value"
+                ]
+              }
+            },
+            {
               "type": "button",
               "name": "button_name",
               "value": "@item.title",
               "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "set_field",
+                  "args": [
+                    "@local.click_history_field_name",
+                    "@local.click_history_value"
+                  ],
+                  "_raw": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                  "_cleaned": "click | set_field: @local.click_history_field_name: @local.click_history_value"
+                },
                 {
                   "trigger": "click",
                   "action_id": "go_to",
@@ -157,7 +329,7 @@
                   },
                   "condition": false,
                   "exclude_from_translation": true,
-                  "_nested_name": "carousel_4.items_loop.button_name.toggle_@item.id",
+                  "_nested_name": "carousel_7.items_loop.button_name.toggle_@item.id",
                   "_dynamicFields": {
                     "name": [
                       {
@@ -209,7 +381,7 @@
                     },
                     "_nested_name": [
                       {
-                        "fullExpression": "carousel_4.items_loop.button_name.toggle_@item.id",
+                        "fullExpression": "carousel_7.items_loop.button_name.toggle_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -233,7 +405,7 @@
                   }
                 }
               ],
-              "_nested_name": "carousel_4.items_loop.button_name",
+              "_nested_name": "carousel_7.items_loop.button_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -245,6 +417,54 @@
                 ],
                 "action_list": {
                   "0": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@local.click_history_field_name",
+                          "matchedExpression": "@local.click_history_field_name",
+                          "type": "local",
+                          "fieldName": "click_history_field_name"
+                        }
+                      ],
+                      "1": [
+                        {
+                          "fullExpression": "@local.click_history_value",
+                          "matchedExpression": "@local.click_history_value",
+                          "type": "local",
+                          "fieldName": "click_history_value"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_value",
+                        "type": "local",
+                        "fieldName": "click_history_value"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field: @local.click_history_field_name: @local.click_history_value",
+                        "matchedExpression": "@local.click_history_value",
+                        "type": "local",
+                        "fieldName": "click_history_value"
+                      }
+                    ]
+                  },
+                  "1": {
                     "args": {
                       "0": [
                         {
@@ -288,10 +508,20 @@
                 "@item.title": [
                   "value"
                 ],
-                "@local.go_to_template": [
+                "@local.click_history_field_name": [
                   "action_list.0.args.0",
                   "action_list.0._raw",
                   "action_list.0._cleaned"
+                ],
+                "@local.click_history_value": [
+                  "action_list.0.args.1",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ],
+                "@local.go_to_template": [
+                  "action_list.1.args.0",
+                  "action_list.1._raw",
+                  "action_list.1._cleaned"
                 ],
                 "@item.image_cover_asset": [
                   "parameter_list.image_asset"
@@ -301,11 +531,11 @@
             {
               "exclude_from_translation": true,
               "type": "set_variable",
-              "name": "set_variable_4",
-              "_nested_name": "carousel_4.items_loop.set_variable_4"
+              "name": "set_variable_7",
+              "_nested_name": "carousel_7.items_loop.set_variable_7"
             }
           ],
-          "_nested_name": "carousel_4.items_loop",
+          "_nested_name": "carousel_7.items_loop",
           "_dynamicFields": {
             "value": [
               {
@@ -323,8 +553,8 @@
           }
         }
       ],
-      "name": "carousel_4",
-      "_nested_name": "carousel_4"
+      "name": "carousel_7",
+      "_nested_name": "carousel_7"
     }
   ],
   "_xlsxPath": "TZ resource centre.xlsx"
