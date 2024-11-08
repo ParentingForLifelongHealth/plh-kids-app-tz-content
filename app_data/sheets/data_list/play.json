@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "happy_things",
+      "image_cover_asset": "images/learning_through_play/happy_things_circle.svg",
       "image_asset": "images/learning_through_play/happy_things.svg",
       "play_tag_list": [
         "chat"
@@ -44,6 +45,7 @@
     },
     {
       "id": "gardening",
+      "image_cover_asset": "images/learning_through_play/gardening_circle.svg",
       "image_asset": "images/learning_through_play/gardening.svg",
       "play_tag_list": [
         "everyday"
@@ -84,6 +86,7 @@
     },
     {
       "id": "something_special",
+      "image_cover_asset": "images/learning_through_play/something_special_circle.svg",
       "image_asset": "images/learning_through_play/something_special.svg",
       "play_tag_list": [
         "everyday",
@@ -123,6 +126,7 @@
     },
     {
       "id": "what_makes_us_special",
+      "image_cover_asset": "images/learning_through_play/makes_us_special_circle.svg",
       "image_asset": "images/learning_through_play/makes_us_special.svg",
       "play_tag_list": [
         "chat"
@@ -161,7 +165,11 @@
     },
     {
       "id": "pattern_play",
+      "image_cover_asset": "images/learning_through_play/pattern_play_circle.svg",
       "image_asset": "images/learning_through_play/pattern_play_1.svg",
+      "step_1_image_asset": "images/learning_through_play/pattern_play_1.svg",
+      "step_2_image_asset": "images/learning_through_play/pattern_play_2.svg",
+      "step_3_image_asset": "images/learning_through_play/pattern_play_3.svg",
       "play_tag_list": [
         "home"
       ],
@@ -214,6 +222,7 @@
     },
     {
       "id": "cooking_together",
+      "image_cover_asset": "images/learning_through_play/cooking_together_circle.svg",
       "image_asset": "images/learning_through_play/cooking_together.svg",
       "play_tag_list": [
         "everyday"
@@ -252,6 +261,7 @@
     },
     {
       "id": "household_helpers",
+      "image_cover_asset": "images/learning_through_play/household_helpers_circle.svg",
       "image_asset": "images/learning_through_play/household_helpers.svg",
       "play_tag_list": [
         "everyday"
@@ -290,6 +300,7 @@
     },
     {
       "id": "music_and_dancing",
+      "image_cover_asset": "images/learning_through_play/music_dancing_circle.svg",
       "image_asset": "images/learning_through_play/music_dancing.svg",
       "play_tag_list": [
         "everyday",
@@ -329,6 +340,7 @@
     },
     {
       "id": "walking_together",
+      "image_cover_asset": "images/learning_through_play/walking_together_circle.svg",
       "image_asset": "images/learning_through_play/walking_together.svg",
       "play_tag_list": [
         "everyday",
@@ -368,6 +380,7 @@
     },
     {
       "id": "story",
+      "image_cover_asset": "images/learning_through_play/story_circle.svg",
       "image_asset": "images/learning_through_play/story.svg",
       "play_tag_list": [
         "chat"
@@ -406,6 +419,7 @@
     },
     {
       "id": "simon_says",
+      "image_cover_asset": "images/learning_through_play/simon_says_circle.svg",
       "image_asset": "images/learning_through_play/simon_says.svg",
       "play_tag_list": [
         "move",
@@ -445,6 +459,7 @@
     },
     {
       "id": "when_I_grow_up",
+      "image_cover_asset": "images/learning_through_play/when_grow_up_circle.svg",
       "image_asset": "images/learning_through_play/when_grow_up.svg",
       "play_tag_list": [
         "chat"
@@ -483,6 +498,7 @@
     },
     {
       "id": "favourite_play",
+      "image_cover_asset": "images/learning_through_play/favorite_play_circle.svg",
       "image_asset": "images/learning_through_play/favorite_play.svg",
       "play_tag_list": [
         "home"
@@ -521,6 +537,7 @@
     },
     {
       "id": "act_the_story",
+      "image_cover_asset": "images/learning_through_play/act_the_story_circle.svg",
       "image_asset": "images/learning_through_play/act_the_story.svg",
       "play_tag_list": [
         "pretend",
@@ -560,6 +577,12 @@
     },
     {
       "id": "shadow_movie",
+      "image_cover_asset": "images/learning_through_play/shadow_movie_circle.svg",
+      "image_asset": "images/learning_through_play/shadow_movie_1.svg",
+      "step_1_image_asset": "images/learning_through_play/shadow_movie_1.svg",
+      "step_2_image_asset": "images/learning_through_play/shadow_movie_2.svg",
+      "step_3_image_asset": "images/learning_through_play/shadow_movie_3.svg",
+      "step_4_image_asset": "images/learning_through_play/shadow_movie_4.svg",
       "play_tag_list": [
         "home",
         "pretend"
@@ -611,6 +634,7 @@
     },
     {
       "id": "build_a_road",
+      "image_cover_asset": "images/learning_through_play/build_a_road_circle.svg",
       "image_asset": "images/learning_through_play/build_a_road.svg",
       "play_tag_list": [
         "pretend",
@@ -650,6 +674,7 @@
     },
     {
       "id": "animal_strengths",
+      "image_cover_asset": "images/learning_through_play/animal_strengths_circle.svg",
       "image_asset": "images/learning_through_play/animal_strengths.svg",
       "play_tag_list": [
         "pretend",
@@ -689,6 +714,7 @@
     },
     {
       "id": "treasure_hunt",
+      "image_cover_asset": "images/learning_through_play/treasure_hunt_circle.svg",
       "image_asset": "images/learning_through_play/treasure_hunt.svg",
       "play_tag_list": [
         "home"
@@ -734,6 +760,13 @@
     },
     {
       "id": "search_with_senses",
+      "image_cover_asset": "images/learning_through_play/senses_circle.svg",
+      "image_asset": "images/learning_through_play/senses_smell.svg",
+      "step_1_image_asset": "images/learning_through_play/senses_smell.svg",
+      "step_2_image_asset": "images/learning_through_play/senses_hear.svg",
+      "step_3_image_asset": "images/learning_through_play/senses_see.svg",
+      "step_4_image_asset": "images/learning_through_play/senses_touch.svg",
+      "step_5_image_asset": "images/learning_through_play/senses_taste.svg",
       "play_tag_list": [
         "home"
       ],
@@ -744,9 +777,11 @@
         "intro_text": {
           "tz_sw": true
         },
-        "step_1_text": {
-          "tz_sw": true
-        },
+        "step_1_text": {},
+        "step_2_text": {},
+        "step_3_text": {},
+        "step_4_text": {},
+        "step_5_text": {},
         "tips_text": {
           "tz_sw": true
         }
@@ -759,14 +794,30 @@
           "eng": "Engage all your senses by identifying things around you that you and your child can touch, hear, see, taste and smell."
         },
         "step_1_text": {
-          "eng": "Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells? \n2. **What can you hear?** What is making that sound? Where is it coming from?\n3. **What can you see?** What is near to you? What is far away? \n4. **What can you touch?** Discuss the different textures and how it feels to touch it. \n5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?"
+          "eng": "Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells?"
+        },
+        "step_2_text": {
+          "eng": "2. **What can you hear?** What is making that sound? Where is it coming from?"
+        },
+        "step_3_text": {
+          "eng": "3. **What can you see?** What is near to you? What is far away?"
+        },
+        "step_4_text": {
+          "eng": "4. **What can you touch?** Discuss the different textures and how it feels to touch it."
+        },
+        "step_5_text": {
+          "eng": "5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?"
         },
         "tips_text": {
           "eng": "* You can also play an “I Spy” version of the senses game, taking turns to identify something you can touch/smell/taste/hear/see, giving the letter or sound it starts with, and trying to guess what it is."
         }
       },
       "intro_text": "Engage all your senses by identifying things around you that you and your child can touch, hear, see, taste and smell.",
-      "step_1_text": "Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells? \n2. **What can you hear?** What is making that sound? Where is it coming from?\n3. **What can you see?** What is near to you? What is far away? \n4. **What can you touch?** Discuss the different textures and how it feels to touch it. \n5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?",
+      "step_1_text": "Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells?",
+      "step_2_text": "2. **What can you hear?** What is making that sound? Where is it coming from?",
+      "step_3_text": "3. **What can you see?** What is near to you? What is far away?",
+      "step_4_text": "4. **What can you touch?** Discuss the different textures and how it feels to touch it.",
+      "step_5_text": "5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?",
       "tips_text": "* You can also play an “I Spy” version of the senses game, taking turns to identify something you can touch/smell/taste/hear/see, giving the letter or sound it starts with, and trying to guess what it is."
     },
     {
@@ -815,6 +866,8 @@
     },
     {
       "id": "mystery_box",
+      "image_cover_asset": "images/learning_through_play/mystery_box_circle.svg",
+      "image_asset": "images/learning_through_play/mystery_box.svg",
       "play_tag_list": [
         "home"
       ],

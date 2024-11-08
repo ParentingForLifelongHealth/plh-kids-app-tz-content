@@ -14,16 +14,6 @@
       "_nested_name": "book_id"
     },
     {
-      "name": "module_id",
-      "value": "connect",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "module_id"
-    },
-    {
       "name": "book",
       "value": "books",
       "_translations": {
@@ -130,8 +120,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_9",
-      "_nested_name": "set_variable_9"
+      "name": "set_variable_8",
+      "_nested_name": "set_variable_8"
     },
     {
       "name": "guidance",
@@ -282,8 +272,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_17",
-      "_nested_name": "set_variable_17"
+      "name": "set_variable_16",
+      "_nested_name": "set_variable_16"
     },
     {
       "name": "text",
@@ -391,8 +381,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_22",
-      "_nested_name": "set_variable_22"
+      "name": "set_variable_21",
+      "_nested_name": "set_variable_21"
     },
     {
       "name": "right",
@@ -516,8 +506,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_27",
-      "_nested_name": "set_variable_27"
+      "name": "set_variable_26",
+      "_nested_name": "set_variable_26"
     },
     {
       "name": "left",
@@ -641,8 +631,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_32",
-      "_nested_name": "set_variable_32"
+      "name": "set_variable_31",
+      "_nested_name": "set_variable_31"
     },
     {
       "name": "a",
@@ -766,8 +756,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_37",
-      "_nested_name": "set_variable_37"
+      "name": "set_variable_36",
+      "_nested_name": "set_variable_36"
     },
     {
       "name": "audio",
@@ -1267,8 +1257,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_51",
-      "_nested_name": "set_variable_51"
+      "name": "set_variable_50",
+      "_nested_name": "set_variable_50"
     },
     {
       "type": "audio",

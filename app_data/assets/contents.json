@@ -1461,10 +1461,6 @@
     "md5Checksum": "e26dc17fddbde587e51c2b68286d4e51",
     "size_kb": 30
   },
-  "images/books/emotions_come_go/image_1.jpg": {
-    "md5Checksum": "7e71bb8a64073f7c152a73db1c9014a7",
-    "size_kb": 72.5
-  },
   "images/books/emotions_come_go/image_10.jpg": {
     "md5Checksum": "a10466add5e629ae66fe7cf65c4af692",
     "size_kb": 28.1
@@ -1529,10 +1525,6 @@
     "md5Checksum": "1e9fa9964685196312b235910e38e552",
     "size_kb": 24.1
   },
-  "images/books/fifi_and_teddy/cover.jpg": {
-    "md5Checksum": "50a2ab012d622274834f4b7d485e016e",
-    "size_kb": 20.2
-  },
   "images/books/fifi_and_teddy/page10.jpg": {
     "md5Checksum": "840c1fbe269078154d81ca3c82bd2afb",
     "size_kb": 25.4
@@ -1580,10 +1572,6 @@
   "images/books/fifi_and_teddy/page9.jpg": {
     "md5Checksum": "798a55a1062181446cdb06565beabc7e",
     "size_kb": 24.1
-  },
-  "images/books/grandpa_farouks_garden/cover.jpg": {
-    "md5Checksum": "d4d2765ea782afc23da25d0c321fb419",
-    "size_kb": 25.2
   },
   "images/books/grandpa_farouks_garden/page10.jpg": {
     "md5Checksum": "dca64acc67e60883e09b7f0ed55aa66e",
@@ -1641,10 +1629,6 @@
     "md5Checksum": "bd0049a4e76a4748e58707168a875aa2",
     "size_kb": 25.5
   },
-  "images/books/how_do_you_sleep/cover.jpg": {
-    "md5Checksum": "8df6272521c40c6f85dd24d6cdc2850b",
-    "size_kb": 29.9
-  },
   "images/books/how_do_you_sleep/page10.jpg": {
     "md5Checksum": "f9562a578707f854ee262f0ba478827a",
     "size_kb": 36.2
@@ -1700,10 +1684,6 @@
   "images/books/how_do_you_sleep/page9.jpg": {
     "md5Checksum": "38c26ea63352d51d0c22150b21f8e339",
     "size_kb": 40.6
-  },
-  "images/books/how_do_you_want_your_eggs/cover.jpg": {
-    "md5Checksum": "b7cf531e870c0d43639023ee3b6133be",
-    "size_kb": 21.2
   },
   "images/books/how_do_you_want_your_eggs/page10.jpg": {
     "md5Checksum": "bd5379371f227fb4ab59dd0a7c0534ef",
@@ -1809,10 +1789,6 @@
     "md5Checksum": "e6107e955c699f7ca92b1e15d20b3c3b",
     "size_kb": 31.6
   },
-  "images/books/jasu_loves_football/image_1.jpg": {
-    "md5Checksum": "4eb0081d9a921322c1c07bb0c25ab93e",
-    "size_kb": 20.1
-  },
   "images/books/jasu_loves_football/image_10.jpg": {
     "md5Checksum": "794b239c110ffb736e7f99bfd223a48c",
     "size_kb": 24.5
@@ -1877,10 +1853,6 @@
     "md5Checksum": "931082fbbb9656e0f2bf7eee5ef8f6bd",
     "size_kb": 30.5
   },
-  "images/books/katiitis_song/image_1.jpg": {
-    "md5Checksum": "8ffbcb718c40347795159be7333a0f1a",
-    "size_kb": 66.4
-  },
   "images/books/katiitis_song/image_10.jpg": {
     "md5Checksum": "808a4661581923dd5194915caec7005e",
     "size_kb": 7.9
@@ -1933,10 +1905,6 @@
     "md5Checksum": "3fc7e58b4eb8331b513f65568b7ebe50",
     "size_kb": 11.5
   },
-  "images/books/lebo_gogo_tea_party/cover.jpg": {
-    "md5Checksum": "c54bf66be0772139a9389dee91b74509",
-    "size_kb": 20.3
-  },
   "images/books/lebo_gogo_tea_party/page10.jpg": {
     "md5Checksum": "56bcabceb620540fbae21d019e2b0411",
     "size_kb": 40.1
@@ -1984,10 +1952,6 @@
   "images/books/lebo_gogo_tea_party/page9.jpg": {
     "md5Checksum": "f2b778e2807af057fe4a6eb7243a8ffb",
     "size_kb": 26.6
-  },
-  "images/books/lefas_bath/cover.png": {
-    "md5Checksum": "b0b12b43b13dfc2e6c842b88aef3020d",
-    "size_kb": 99.6
   },
   "images/books/lefas_bath/page10.jpg": {
     "md5Checksum": "e0e771b73510ddb6bf48ef9acd8e8491",
@@ -2045,14 +2009,6 @@
     "md5Checksum": "3843390e37ce385358379cfcc375445a",
     "size_kb": 60.1
   },
-  "images/books/lesedis_sandbox/cover.jpg": {
-    "md5Checksum": "9e10a30bf6a758b1336a9ac7bd98b777",
-    "size_kb": 34
-  },
-  "images/books/lesedis_sandbox/lesedis_sandbox_round_cover.png": {
-    "md5Checksum": "603a8b6c7a4488def9fe0602b1be30aa",
-    "size_kb": 139.2
-  },
   "images/books/lesedis_sandbox/page10.jpg": {
     "md5Checksum": "7d23b9869a39b97d8429fc1b75ace423",
     "size_kb": 45.5
@@ -2100,10 +2056,6 @@
   "images/books/lesedis_sandbox/page9.jpg": {
     "md5Checksum": "5720e46abc58c351a8c55347d3115137",
     "size_kb": 44.9
-  },
-  "images/books/lets_go_on_a_litter_hunt/cover.jpg": {
-    "md5Checksum": "cbe96725d73b3888a085ce45bf7d3596",
-    "size_kb": 24.6
   },
   "images/books/lets_go_on_a_litter_hunt/page10.jpg": {
     "md5Checksum": "c1e9d90b5478c34b2a2e4b387860835a",
@@ -2161,10 +2113,6 @@
     "md5Checksum": "2557240d5f1e61a05e3841e595989ed0",
     "size_kb": 30.3
   },
-  "images/books/little_shoots/cover.png": {
-    "md5Checksum": "5c269b4758c7927d4777c61fbf1953a8",
-    "size_kb": 112.9
-  },
   "images/books/little_shoots/page10.jpg": {
     "md5Checksum": "53f7d463847c81a0de98edf671ab2d7c",
     "size_kb": 45.2
@@ -2217,10 +2165,6 @@
     "md5Checksum": "dcf3ed7989944bc23d5ee8f2465e0e11",
     "size_kb": 40.5
   },
-  "images/books/look_out_luthando/cover.jpg": {
-    "md5Checksum": "7a5f2bd77214925cea963ef343838c55",
-    "size_kb": 24.7
-  },
   "images/books/look_out_luthando/page10.jpg": {
     "md5Checksum": "c77df34b13ed90dd92fbb94e0b5dbdb6",
     "size_kb": 27.8
@@ -2268,10 +2212,6 @@
   "images/books/look_out_luthando/page9.jpg": {
     "md5Checksum": "56aad24a45241e28612fcd442e87f371",
     "size_kb": 38.6
-  },
-  "images/books/lost_toy/cover.jpg": {
-    "md5Checksum": "62216d67041e90835a0fd4c0104313cc",
-    "size_kb": 20.5
   },
   "images/books/lost_toy/page10.jpg": {
     "md5Checksum": "ede88b968cfc0b0716c4ad36729f102d",
@@ -2329,10 +2269,6 @@
     "md5Checksum": "43cb4614357397f7a4368bf8daa85e2c",
     "size_kb": 61.3
   },
-  "images/books/mama_whats_for_lunch/cover.jpg": {
-    "md5Checksum": "fe2630477df2fda06e038b9c5af84a02",
-    "size_kb": 50.9
-  },
   "images/books/mama_whats_for_lunch/page10.jpg": {
     "md5Checksum": "9063141ca760c6ad8699cf584a7d5ed5",
     "size_kb": 23.9
@@ -2389,10 +2325,6 @@
     "md5Checksum": "53829080151d2128f662a84ed2e2fc3f",
     "size_kb": 23.8
   },
-  "images/books/moms_red_coat/cover.png": {
-    "md5Checksum": "ed19d022446baf78659caa487a4c5234",
-    "size_kb": 65.8
-  },
   "images/books/moms_red_coat/moms-red-coat_20221201_page10.jpg": {
     "md5Checksum": "f239304a647e8ae6b5228ba2fec47a07",
     "size_kb": 19
@@ -2441,10 +2373,6 @@
     "md5Checksum": "a2e800ef211880936fd5b61da84b60f8",
     "size_kb": 18.5
   },
-  "images/books/my_inside_weather/cover.jpg": {
-    "md5Checksum": "f1d5c257feb2a424932824eb49acc14e",
-    "size_kb": 22.4
-  },
   "images/books/my_inside_weather/page10.jpg": {
     "md5Checksum": "32d3749542b2f959a1ed3915856e262c",
     "size_kb": 22.8
@@ -2492,10 +2420,6 @@
   "images/books/my_inside_weather/page9.jpg": {
     "md5Checksum": "4ac1a05948e8e08f858e3ffaca8d8bef",
     "size_kb": 18.1
-  },
-  "images/books/my_little_garden/cover.jpg": {
-    "md5Checksum": "a7f01a2aebc2db988a474afad4d808e3",
-    "size_kb": 24.2
   },
   "images/books/my_little_garden/page10.jpg": {
     "md5Checksum": "7bf8a44a65a8c563b4752148ca38477d",
@@ -2553,10 +2477,6 @@
     "md5Checksum": "d5984ed992cadeda9877c18112624f0a",
     "size_kb": 30
   },
-  "images/books/my_shoe/my_shoe_cover.jpg": {
-    "md5Checksum": "62597de4668242d837344c5d5df87ed4",
-    "size_kb": 14.3
-  },
   "images/books/my_shoe/who-took-my-shoe_20221127_page10.jpg": {
     "md5Checksum": "0b834706c645fbbd8a3a9108e6ddcf67",
     "size_kb": 20.5
@@ -2612,10 +2532,6 @@
   "images/books/my_shoe/who-took-my-shoe_20221127_page9.jpg": {
     "md5Checksum": "a51a13a6a307ebe58a76a8760f89aefe",
     "size_kb": 14.9
-  },
-  "images/books/nita_upside_down/image_1.jpg": {
-    "md5Checksum": "3ac9fbd8ffc3bf2c6bd9694e42eefd1d",
-    "size_kb": 25.5
   },
   "images/books/nita_upside_down/image_10.jpg": {
     "md5Checksum": "81944ef41e13c3ae0c5aae6dabadc3b2",
@@ -2677,10 +2593,6 @@
     "md5Checksum": "f4343b9331ccda35d0f41b3eb18434c3",
     "size_kb": 7.9
   },
-  "images/books/paint_plant_day/image_1.jpg": {
-    "md5Checksum": "a7f78c5fa9640887e13608e0c0deac0b",
-    "size_kb": 26.7
-  },
   "images/books/paint_plant_day/image_10.jpg": {
     "md5Checksum": "4b7f75e684dd0f27b260ca2b269a12df",
     "size_kb": 19.9
@@ -2724,10 +2636,6 @@
   "images/books/paint_plant_day/image_9.jpg": {
     "md5Checksum": "0a86ef76b3bbf6d5f8b876e582ed2b23",
     "size_kb": 12.5
-  },
-  "images/books/scared_tumi/scared-tumi_20161230_cover.jpg": {
-    "md5Checksum": "bea261a5fa7da1cb9cb67ad423425ed1",
-    "size_kb": 13.8
   },
   "images/books/scared_tumi/scared-tumi_20161230_page10.jpg": {
     "md5Checksum": "a53e1b296693a249deaeb58a1f272788",
@@ -2781,10 +2689,6 @@
     "md5Checksum": "c97a10eed8e64b5b37cc0391083b4cac",
     "size_kb": 26.7
   },
-  "images/books/shhhhh/image_1.jpg": {
-    "md5Checksum": "e1682895b3242df79b4f4ec1c90a5e58",
-    "size_kb": 13
-  },
   "images/books/shhhhh/image_10.jpg": {
     "md5Checksum": "ec1432b5026b12c8e77394b96204fcca",
     "size_kb": 18.1
@@ -2836,10 +2740,6 @@
   "images/books/shhhhh/image_9.jpg": {
     "md5Checksum": "f6cbb0c8e16978def5e606e1d17d3375",
     "size_kb": 22
-  },
-  "images/books/shongololo_s_shoes/cover.png": {
-    "md5Checksum": "b42c62431f6723f781be63dd37c68b7f",
-    "size_kb": 60.4
   },
   "images/books/shongololo_s_shoes/image_10.jpg": {
     "md5Checksum": "15a1f1aebd4ae843bf95eaf8218eaca7",
@@ -2897,10 +2797,6 @@
     "md5Checksum": "f696947d28d9c98d4932a37af8e524a3",
     "size_kb": 29
   },
-  "images/books/tejus_shadow/cover.jpg": {
-    "md5Checksum": "8b03126d3dd665632e513e11dda7c411",
-    "size_kb": 29.8
-  },
   "images/books/tejus_shadow/page10.jpg": {
     "md5Checksum": "0d9771a941fa6878f2c1ce0978e5c8fa",
     "size_kb": 12.5
@@ -2953,10 +2849,6 @@
     "md5Checksum": "6f8a18de6a00610a11c81d276d8d3a99",
     "size_kb": 22.9
   },
-  "images/books/the_bee_and_the_elephant/image_1.jpg": {
-    "md5Checksum": "18212e0706f8f5af5043e196803dff6a",
-    "size_kb": 23.2
-  },
   "images/books/the_bee_and_the_elephant/image_10.jpg": {
     "md5Checksum": "d8fd7e07e45a6bedaaa5a32840c51c4e",
     "size_kb": 7.2
@@ -2992,10 +2884,6 @@
   "images/books/the_bee_and_the_elephant/image_9.jpg": {
     "md5Checksum": "44201ab50a1d079f771dc96f30f5958f",
     "size_kb": 42.1
-  },
-  "images/books/the_best_thing_ever/cover.jpg": {
-    "md5Checksum": "6e6cc97dfed3b6cc568c123fd0e29651",
-    "size_kb": 15.7
   },
   "images/books/the_best_thing_ever/page10.jpg": {
     "md5Checksum": "832e419ac742a1d1a2688374f53e33f4",
@@ -3052,10 +2940,6 @@
   "images/books/the_best_thing_ever/page9.jpg": {
     "md5Checksum": "c211249e87c97621af8f687c689a49dc",
     "size_kb": 21.5
-  },
-  "images/books/the_colours/image_1.jpg": {
-    "md5Checksum": "b488cc3720cadc8dd943202fcd1cf238",
-    "size_kb": 17.4
   },
   "images/books/the_colours/image_10.jpg": {
     "md5Checksum": "b27af0b234bdfb909835c4c842c4bde0",
@@ -3133,10 +3017,6 @@
     "md5Checksum": "fcdfaba5b3d0879b2bae16777ecb5054",
     "size_kb": 20.4
   },
-  "images/books/the_one_in_the_middle/cover.jpg": {
-    "md5Checksum": "910824bc71cc6ae9271faddcc03e3046",
-    "size_kb": 32.5
-  },
   "images/books/the_one_in_the_middle/page10.jpg": {
     "md5Checksum": "1e69a346234bc6cc6e10c848c7b7525e",
     "size_kb": 37.3
@@ -3193,10 +3073,6 @@
     "md5Checksum": "a1d32ccd8f668bdd6e802fe29d235db3",
     "size_kb": 47.7
   },
-  "images/books/the_things_that_really_matter/cover.png": {
-    "md5Checksum": "3c79cbbd11ef99034d1d2fdc7f0b89a8",
-    "size_kb": 114.7
-  },
   "images/books/the_things_that_really_matter/page10.jpg": {
     "md5Checksum": "39eeb55b8401d2ff7f11d17b05423e43",
     "size_kb": 21.5
@@ -3248,10 +3124,6 @@
   "images/books/the_things_that_really_matter/page9.jpg": {
     "md5Checksum": "11456817eca86579ce57fda73f90ded7",
     "size_kb": 39.6
-  },
-  "images/books/tlotlegos_tea_party/cover.jpg": {
-    "md5Checksum": "cb894531b17c5fb1a3a7626cbfb44ebc",
-    "size_kb": 23.2
   },
   "images/books/tlotlegos_tea_party/page10.jpg": {
     "md5Checksum": "c8a6fdbc398aefa0cf27b4d47169a257",
@@ -3309,10 +3181,6 @@
     "md5Checksum": "d2d79e9f4d1a406d6831500d41e83cd5",
     "size_kb": 28.6
   },
-  "images/books/to_the_top/cover.png": {
-    "md5Checksum": "6fa5e6decdfec80b87e824b8dec7b8b6",
-    "size_kb": 95.7
-  },
   "images/books/to_the_top/page10.jpg": {
     "md5Checksum": "7ad1c1c1082bbee3c6d22a52eb7d4d92",
     "size_kb": 32
@@ -3364,10 +3232,6 @@
   "images/books/to_the_top/page9.jpg": {
     "md5Checksum": "3c7dd32a39ccccad89c38cfecc714e7d",
     "size_kb": 41.1
-  },
-  "images/books/whats_at_the_park/cover.jpg": {
-    "md5Checksum": "efd61eeed61282915363d1fe9b806c0c",
-    "size_kb": 20.1
   },
   "images/books/whats_at_the_park/page10.jpg": {
     "md5Checksum": "ed7ae01f362af1e42782a9dde2912d7c",
@@ -3425,10 +3289,6 @@
     "md5Checksum": "1b0ac078e4b9694489984c79684c54a4",
     "size_kb": 15.4
   },
-  "images/books/whats_in_pot/cover.jpg": {
-    "md5Checksum": "78e93cb8762a00da1a1e221ef38954f8",
-    "size_kb": 8.5
-  },
   "images/books/whats_in_pot/page10.jpg": {
     "md5Checksum": "847ed46a20104f91e756d2bb960ef4e5",
     "size_kb": 25.3
@@ -3485,10 +3345,6 @@
     "md5Checksum": "5e5cbd20e9021b462e649901699c1134",
     "size_kb": 18.9
   },
-  "images/books/whats_next/image_1.jpg": {
-    "md5Checksum": "ba0bb5b4c19253d7c5d104e54e6f32fe",
-    "size_kb": 16.5
-  },
   "images/books/whats_next/image_10.jpg": {
     "md5Checksum": "4be45c597499db14e2f31f10fe694e30",
     "size_kb": 18.9
@@ -3536,10 +3392,6 @@
   "images/books/whats_next/image_9.jpg": {
     "md5Checksum": "2cdafb9eb5d7a897ca49feabb4f51c3f",
     "size_kb": 10.5
-  },
-  "images/books/when_grow_up/image_1.jpg": {
-    "md5Checksum": "2f350bb7d55103aa281d3bbde1bdfdac",
-    "size_kb": 21.5
   },
   "images/books/when_grow_up/image_10.jpg": {
     "md5Checksum": "89459a403e2604956420446b2cd83b60",
@@ -3637,10 +3489,6 @@
     "md5Checksum": "4870d395e58908db94feb3ea056adfa4",
     "size_kb": 15.9
   },
-  "images/books/when_will_amma_be_back/image_1.jpg": {
-    "md5Checksum": "73c205d120fb54d04901f879d2f194d2",
-    "size_kb": 17.5
-  },
   "images/books/when_will_amma_be_back/image_10.jpg": {
     "md5Checksum": "e4c87ec55980badec772d55abacd221f",
     "size_kb": 11.3
@@ -3701,10 +3549,6 @@
     "md5Checksum": "95249a774324138486c139b9221439f1",
     "size_kb": 10.4
   },
-  "images/books/where_is_lulu/cover.jpg": {
-    "md5Checksum": "f6f1f5ec0fea24c01231cac249d98db7",
-    "size_kb": 21.4
-  },
   "images/books/where_is_lulu/page10.jpg": {
     "md5Checksum": "b2f9664c61b9a36fca2d995a41ba6c96",
     "size_kb": 15.3
@@ -3753,10 +3597,6 @@
     "md5Checksum": "c78076edc419ae468ee973b615f62894",
     "size_kb": 23.2
   },
-  "images/books/yellow_brown_earth/image_1.jpg": {
-    "md5Checksum": "d1181ded1ace1947ac7543da9c5cea83",
-    "size_kb": 31.5
-  },
   "images/books/yellow_brown_earth/image_10.jpg": {
     "md5Checksum": "209ba8fe93b25ea7fbcb61691badff35",
     "size_kb": 18.9
@@ -3796,10 +3636,6 @@
   "images/books/yellow_brown_earth/image_9.jpg": {
     "md5Checksum": "cbdd3390d7c02525f9956101ebcf6a5f",
     "size_kb": 35.5
-  },
-  "images/books/yes_you_can/cover.jpg": {
-    "md5Checksum": "1bf6091cb25f7239fc63ca23e93063ba",
-    "size_kb": 25.4
   },
   "images/books/yes_you_can/page10.jpg": {
     "md5Checksum": "3ed4b5b9875ac9a1b717f70e4df9a535",
@@ -3981,6 +3817,10 @@
     "md5Checksum": "f9e913914cb1f406f1aab3665240f0a8",
     "size_kb": 1.4
   },
+  "images/icons/faces/loved.svg": {
+    "md5Checksum": "bd94581c5e33dd267998d88f28d6f7b0",
+    "size_kb": 3.8
+  },
   "images/icons/faces/neutral.svg": {
     "md5Checksum": "007a3aaa58f1c01005e9535ebf8d60dc",
     "size_kb": 0.5
@@ -4012,6 +3852,10 @@
   "images/icons/faces/tired.svg": {
     "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
     "size_kb": 2.4
+  },
+  "images/icons/faces/valued.svg": {
+    "md5Checksum": "3b1c3296268ba698d9582d3a60bc986e",
+    "size_kb": 3.4
   },
   "images/icons/hands_hold_heart_blue.svg": {
     "md5Checksum": "5ecc4b49813c9e34fd4b1bbd320630e6",
@@ -4133,69 +3977,205 @@
     "md5Checksum": "957fecfbab4bfeff7edfe8dc9b5f8e93",
     "size_kb": 84.2
   },
+  "images/learning_through_play/act_the_story_circle.svg": {
+    "md5Checksum": "3cad0acd935079fb4f76993361a26382",
+    "size_kb": 82.5
+  },
   "images/learning_through_play/animal_strengths.svg": {
     "md5Checksum": "0b8848cb7ff06bed8f94069b51caa429",
     "size_kb": 135.4
+  },
+  "images/learning_through_play/animal_strengths_circle.svg": {
+    "md5Checksum": "ce12863bf4427a80ff4925b429701d29",
+    "size_kb": 131.5
   },
   "images/learning_through_play/build_a_road.svg": {
     "md5Checksum": "01395e45ca51c9a577133dd4f18b5879",
     "size_kb": 127.3
   },
+  "images/learning_through_play/build_a_road_circle.svg": {
+    "md5Checksum": "11ba16ce09e95cbdb2e2b26468770d75",
+    "size_kb": 75.1
+  },
   "images/learning_through_play/cooking_together.svg": {
     "md5Checksum": "87f3d8f5d91d3650c5603d7084837750",
     "size_kb": 95.8
   },
+  "images/learning_through_play/cooking_together_circle.svg": {
+    "md5Checksum": "ef2d89e7cb3c8146beae13ecf17543c8",
+    "size_kb": 62.5
+  },
+  "images/learning_through_play/count_and_compare.svg": {
+    "md5Checksum": "618fd17645d70952cde8ef2bb6c72a72",
+    "size_kb": 190
+  },
+  "images/learning_through_play/count_and_compare_circle.svg": {
+    "md5Checksum": "cd4fc4af7d371a760abfe757c064e38f",
+    "size_kb": 103.2
+  },
   "images/learning_through_play/favorite_play.svg": {
-    "md5Checksum": "07dcc27bb4d9a170512146e220249675",
-    "size_kb": 126.1
+    "md5Checksum": "a75312842433301c235018cb55fb4745",
+    "size_kb": 127.1
+  },
+  "images/learning_through_play/favorite_play_circle.svg": {
+    "md5Checksum": "16c71274a91fc762b1a1734b86bab3e0",
+    "size_kb": 41.6
   },
   "images/learning_through_play/gardening.svg": {
     "md5Checksum": "a2971f2dd0a5e9d779bf8976bb664cf0",
     "size_kb": 125
   },
+  "images/learning_through_play/gardening_circle.svg": {
+    "md5Checksum": "2d5d14fa4d788cdac78d9496b314da47",
+    "size_kb": 93.3
+  },
   "images/learning_through_play/happy_things.svg": {
     "md5Checksum": "5e3948b910f452522e7b04f7f9ec32ee",
     "size_kb": 172.3
+  },
+  "images/learning_through_play/happy_things_circle.svg": {
+    "md5Checksum": "707c424cdd3a45d51f2b37af8b0c9dbb",
+    "size_kb": 209.2
   },
   "images/learning_through_play/household_helpers.svg": {
     "md5Checksum": "31c8154f44373a194fce1d312d67c679",
     "size_kb": 334.6
   },
+  "images/learning_through_play/household_helpers_circle.svg": {
+    "md5Checksum": "757cceacc2eb5b2aa2b29567ab3692bb",
+    "size_kb": 299.8
+  },
   "images/learning_through_play/makes_us_special.svg": {
     "md5Checksum": "003da17c503fce9341230075b49cbb60",
     "size_kb": 149.5
+  },
+  "images/learning_through_play/makes_us_special_circle.svg": {
+    "md5Checksum": "cf3a209bd647b147a2449986bce0eb6c",
+    "size_kb": 143.5
   },
   "images/learning_through_play/music_dancing.svg": {
     "md5Checksum": "41401d38dfb97fca39cf88a89ce4bcfb",
     "size_kb": 117.2
   },
+  "images/learning_through_play/music_dancing_circle.svg": {
+    "md5Checksum": "0a87d14e34508b89584d89b4fc400867",
+    "size_kb": 75.9
+  },
+  "images/learning_through_play/mystery_box.svg": {
+    "md5Checksum": "4712361670161c73f7e87f4e74bcb377",
+    "size_kb": 54.2
+  },
+  "images/learning_through_play/mystery_box_circle.svg": {
+    "md5Checksum": "0566008c292f2ef3524e50c11787143a",
+    "size_kb": 52.9
+  },
   "images/learning_through_play/pattern_play_1.svg": {
     "md5Checksum": "abb1362a8bf682d9ff3026a5c8873b16",
     "size_kb": 102.2
   },
+  "images/learning_through_play/pattern_play_2.svg": {
+    "md5Checksum": "7f77423dc839d02ef368792150e15712",
+    "size_kb": 84.3
+  },
+  "images/learning_through_play/pattern_play_3.svg": {
+    "md5Checksum": "11037cea554c735f0313f926bf65a5cf",
+    "size_kb": 70.8
+  },
+  "images/learning_through_play/pattern_play_circle.svg": {
+    "md5Checksum": "86c8f45548589ed30664505169436eae",
+    "size_kb": 131.2
+  },
+  "images/learning_through_play/senses_circle.svg": {
+    "md5Checksum": "78de10cec8ee8a8354a1a6e5a4b4414c",
+    "size_kb": 183.6
+  },
+  "images/learning_through_play/senses_hear.svg": {
+    "md5Checksum": "9f5458d99062b4557a49c9a872a17a24",
+    "size_kb": 187.5
+  },
+  "images/learning_through_play/senses_see.svg": {
+    "md5Checksum": "5b51fb7bdc664f23b0178d4b34dabd73",
+    "size_kb": 176.3
+  },
+  "images/learning_through_play/senses_smell.svg": {
+    "md5Checksum": "7a18a6b8297acc3df8f8398599937f98",
+    "size_kb": 178
+  },
+  "images/learning_through_play/senses_taste.svg": {
+    "md5Checksum": "49517ab84adece214bf15b71d927ef88",
+    "size_kb": 177.2
+  },
+  "images/learning_through_play/senses_touch.svg": {
+    "md5Checksum": "edcdd47182e07948f75781f514225078",
+    "size_kb": 185.6
+  },
+  "images/learning_through_play/shadow_movie_1.svg": {
+    "md5Checksum": "05862f13cb10baa6b0d53f941bdc70aa",
+    "size_kb": 3.3
+  },
+  "images/learning_through_play/shadow_movie_2.svg": {
+    "md5Checksum": "f885a1c8388ddc5ccf0ca3b51bfdc06b",
+    "size_kb": 5.6
+  },
+  "images/learning_through_play/shadow_movie_3.svg": {
+    "md5Checksum": "7ce6c7b952b44d75f56791893b3dc996",
+    "size_kb": 3.4
+  },
+  "images/learning_through_play/shadow_movie_4.svg": {
+    "md5Checksum": "eeec42c7198389f2c4fb7638a27effb5",
+    "size_kb": 14.7
+  },
+  "images/learning_through_play/shadow_movie_circle.svg": {
+    "md5Checksum": "e24bbee51f04a81bd1acea6d22c38a31",
+    "size_kb": 14.6
+  },
   "images/learning_through_play/simon_says.svg": {
-    "md5Checksum": "742cc7146eadf591f46313cf3c55f049",
-    "size_kb": 185
+    "md5Checksum": "fe9eaaba93f0834de3ef9c57fd80ae2e",
+    "size_kb": 217
+  },
+  "images/learning_through_play/simon_says_circle.svg": {
+    "md5Checksum": "5a5d7f29671c5bc1a0e8c8bb913bcc38",
+    "size_kb": 192.7
   },
   "images/learning_through_play/something_special.svg": {
     "md5Checksum": "44e5e8a4fa433570530396f2a97569ad",
     "size_kb": 192.1
   },
+  "images/learning_through_play/something_special_circle.svg": {
+    "md5Checksum": "15c08e60c0455595e4776a72a6d80a32",
+    "size_kb": 161.3
+  },
   "images/learning_through_play/story.svg": {
-    "md5Checksum": "6f7b465fc3771fa99cd4b652b35a6ceb",
+    "md5Checksum": "a6d36f5f9cce46c8b80642bcda8bc5ce",
     "size_kb": 66.1
+  },
+  "images/learning_through_play/story_circle.svg": {
+    "md5Checksum": "2771b4a843447929b8f2b47b93a62492",
+    "size_kb": 42.5
   },
   "images/learning_through_play/treasure_hunt.svg": {
     "md5Checksum": "3d9b43ffc73c41630cc7d4f5119c9576",
     "size_kb": 138.9
   },
+  "images/learning_through_play/treasure_hunt_circle.svg": {
+    "md5Checksum": "655bbf525de6edd8f677a0f13d123162",
+    "size_kb": 99.7
+  },
   "images/learning_through_play/walking_together.svg": {
     "md5Checksum": "a5a22a42aa2138e6e171281e9169d725",
     "size_kb": 239.5
   },
+  "images/learning_through_play/walking_together_circle.svg": {
+    "md5Checksum": "bcab71120b0a6e0ae12fd9b05b10d7be",
+    "size_kb": 287
+  },
   "images/learning_through_play/when_grow_up.svg": {
     "md5Checksum": "b81cba16da2be64b9e0820ccf1f320f9",
     "size_kb": 152.6
+  },
+  "images/learning_through_play/when_grow_up_circle.svg": {
+    "md5Checksum": "472939eb4407b907f08cceccd89c5097",
+    "size_kb": 97.9
   },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
@@ -4222,8 +4202,8 @@
     "size_kb": 12.8
   },
   "images/modules/connect/connect_1.svg": {
-    "md5Checksum": "8a1b8c50624bee25dace8482b865ed56",
-    "size_kb": 26.6
+    "md5Checksum": "a83bcc59e985372ed59d617fc72dfbdf",
+    "size_kb": 29
   },
   "images/modules/connect/connect_10.svg": {
     "md5Checksum": "acfdf1ed60045965e30b6058b9d9a936",
@@ -4242,8 +4222,8 @@
     "size_kb": 142.6
   },
   "images/modules/connect/connect_14.svg": {
-    "md5Checksum": "32779d92c6e9f43358a6f4834a2e09bf",
-    "size_kb": 31.9
+    "md5Checksum": "3dcbbbce471b669f3c091292af150c58",
+    "size_kb": 34.3
   },
   "images/modules/connect/connect_2.svg": {
     "md5Checksum": "3e5f8e26124c741d062651922e7a9ebd",
@@ -4266,8 +4246,8 @@
     "size_kb": 91.9
   },
   "images/modules/connect/connect_7.svg": {
-    "md5Checksum": "bd99571855d51617bc22f83e95302cd0",
-    "size_kb": 41.5
+    "md5Checksum": "03e8be725372059d3ba2d150001b0226",
+    "size_kb": 43.9
   },
   "images/modules/connect/connect_8.svg": {
     "md5Checksum": "73fa4fd958757188985a3712f97601e7",
