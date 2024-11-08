@@ -60,6 +60,7 @@
           "eng": "Sad"
         }
       },
+      "completed": false,
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
@@ -69,8 +70,7 @@
       "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "completed": false
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg"
     }
   ]
 }

@@ -60,6 +60,7 @@
           "eng": "Sad"
         }
       },
+      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_question": "How are you feeling today?",
@@ -69,8 +70,7 @@
       "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
-      "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "quiz_1_option_3_text": "Sad"
     }
   ]
 }
