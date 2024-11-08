@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 389
+      "count": 410
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 387
+      "count": 408
     },
     {
       "type": "feedback",
@@ -162,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "71494 KB",
-      "MB": "71.5 MB"
+      "KB": "72526 KB",
+      "MB": "72.5 MB"
     },
     {
       "assets": "unused",
-      "KB": "848 KB",
-      "MB": "0.8 MB"
+      "KB": "555 KB",
+      "MB": "0.6 MB"
     }
   ],
   "assets_unused": [
@@ -279,14 +279,6 @@
     {
       "path": "images/icons/thought_bubble.svg",
       "size_kb": 2.1
-    },
-    {
-      "path": "images/learning_through_play/count_and_compare.svg",
-      "size_kb": 190
-    },
-    {
-      "path": "images/learning_through_play/count_and_compare_circle.svg",
-      "size_kb": 103.2
     },
     {
       "path": "images/logos/favicon.png",
@@ -1330,6 +1322,11 @@
     {
       "path": "images/modules/care/care_title_image.svg",
       "count": 2,
+      "missing": true
+    },
+    {
+      "path": "images/modules/create/create_2.svg",
+      "count": 3,
       "missing": true
     },
     {
@@ -5745,6 +5742,16 @@
       "size_kb": 62.5
     },
     {
+      "path": "images/learning_through_play/count_and_compare.svg",
+      "count": 1,
+      "size_kb": 190
+    },
+    {
+      "path": "images/learning_through_play/count_and_compare_circle.svg",
+      "count": 1,
+      "size_kb": 103.2
+    },
+    {
       "path": "images/learning_through_play/favorite_play.svg",
       "count": 1,
       "size_kb": 127.1
@@ -6027,7 +6034,7 @@
     {
       "path": "images/modules/connect/connect_8.svg",
       "count": 3,
-      "size_kb": 34.1
+      "size_kb": 44.3
     },
     {
       "path": "images/modules/connect/connect_9.svg",
@@ -6037,7 +6044,7 @@
     {
       "path": "images/modules/connect/connect_title_image.svg",
       "count": 3,
-      "size_kb": 76.7
+      "size_kb": 77.1
     },
     {
       "path": "images/modules/connect/thumbs_down_brown.svg",
@@ -6052,12 +6059,12 @@
     {
       "path": "images/modules/create/create_1.svg",
       "count": 3,
-      "size_kb": 15.9
+      "size_kb": 18.3
     },
     {
       "path": "images/modules/create/create_10.svg",
       "count": 3,
-      "size_kb": 30.1
+      "size_kb": 32.5
     },
     {
       "path": "images/modules/create/create_11.svg",
@@ -6105,11 +6112,6 @@
       "size_kb": 197
     },
     {
-      "path": "images/modules/create/create_2.svg",
-      "count": 3,
-      "size_kb": 196
-    },
-    {
       "path": "images/modules/create/create_20.svg",
       "count": 3,
       "size_kb": 154.6
@@ -6117,7 +6119,7 @@
     {
       "path": "images/modules/create/create_21.svg",
       "count": 3,
-      "size_kb": 21.2
+      "size_kb": 23.6
     },
     {
       "path": "images/modules/create/create_3.gif",
@@ -6160,9 +6162,14 @@
       "size_kb": 83.8
     },
     {
+      "path": "images/modules/join/all_modules.svg",
+      "count": 3,
+      "size_kb": 769.8
+    },
+    {
       "path": "images/modules/join/join_1.svg",
       "count": 3,
-      "size_kb": 41.1
+      "size_kb": 43.2
     },
     {
       "path": "images/modules/join/join_10.gif",
@@ -6172,7 +6179,7 @@
     {
       "path": "images/modules/join/join_11.svg",
       "count": 3,
-      "size_kb": 27.4
+      "size_kb": 29.7
     },
     {
       "path": "images/modules/join/join_12.svg",
@@ -6182,17 +6189,17 @@
     {
       "path": "images/modules/join/join_13.svg",
       "count": 3,
-      "size_kb": 69.3
+      "size_kb": 70.7
     },
     {
       "path": "images/modules/join/join_14.svg",
       "count": 3,
-      "size_kb": 366.6
+      "size_kb": 365.5
     },
     {
       "path": "images/modules/join/join_15.svg",
       "count": 3,
-      "size_kb": 50.3
+      "size_kb": 52.5
     },
     {
       "path": "images/modules/join/join_16.svg",
@@ -6202,12 +6209,12 @@
     {
       "path": "images/modules/join/join_17.svg",
       "count": 3,
-      "size_kb": 8458.6
+      "size_kb": 8460.8
     },
     {
       "path": "images/modules/join/join_18.svg",
       "count": 3,
-      "size_kb": 75.9
+      "size_kb": 77.7
     },
     {
       "path": "images/modules/join/join_19.svg",
@@ -6217,22 +6224,22 @@
     {
       "path": "images/modules/join/join_2.svg",
       "count": 3,
-      "size_kb": 194.8
+      "size_kb": 193.5
     },
     {
       "path": "images/modules/join/join_20.svg",
       "count": 3,
-      "size_kb": 80.8
+      "size_kb": 82.5
     },
     {
       "path": "images/modules/join/join_21.svg",
       "count": 3,
-      "size_kb": 424.1
+      "size_kb": 404.1
     },
     {
       "path": "images/modules/join/join_22.svg",
       "count": 3,
-      "size_kb": 31.9
+      "size_kb": 34.3
     },
     {
       "path": "images/modules/join/join_3.svg",
@@ -6242,7 +6249,7 @@
     {
       "path": "images/modules/join/join_4.svg",
       "count": 3,
-      "size_kb": 42.3
+      "size_kb": 44.3
     },
     {
       "path": "images/modules/join/join_5.svg",
@@ -6252,7 +6259,7 @@
     {
       "path": "images/modules/join/join_6.svg",
       "count": 3,
-      "size_kb": 37.2
+      "size_kb": 39.5
     },
     {
       "path": "images/modules/join/join_7.svg",
@@ -6262,7 +6269,7 @@
     {
       "path": "images/modules/join/join_8.svg",
       "count": 3,
-      "size_kb": 41.1
+      "size_kb": 43.3
     },
     {
       "path": "images/modules/join/join_9.svg",
@@ -6272,7 +6279,17 @@
     {
       "path": "images/modules/join/join_title_image.svg",
       "count": 3,
-      "size_kb": 41.1
+      "size_kb": 36.4
+    },
+    {
+      "path": "images/modules/join/relax_1.svg",
+      "count": 2,
+      "size_kb": 128.8
+    },
+    {
+      "path": "images/modules/join/relax_2.svg",
+      "count": 2,
+      "size_kb": 20.7
     },
     {
       "path": "images/modules/play/angry_emoji.svg",
@@ -6327,7 +6344,7 @@
     {
       "path": "images/modules/play/play_module_ideas.svg",
       "count": 3,
-      "size_kb": 43.8
+      "size_kb": 43.9
     },
     {
       "path": "images/modules/play/play_title_image.svg",
@@ -6342,7 +6359,7 @@
     {
       "path": "images/modules/play/question_time.svg",
       "count": 3,
-      "size_kb": 68.6
+      "size_kb": 70.7
     },
     {
       "path": "images/modules/play/ready_to_practice.svg",
@@ -6392,7 +6409,7 @@
     {
       "path": "images/modules/play/why_play_1.svg",
       "count": 3,
-      "size_kb": 28.9
+      "size_kb": 29
     },
     {
       "path": "images/modules/play/why_play_2.svg",

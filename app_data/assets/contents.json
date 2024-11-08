@@ -4250,16 +4250,16 @@
     "size_kb": 43.9
   },
   "images/modules/connect/connect_8.svg": {
-    "md5Checksum": "73fa4fd958757188985a3712f97601e7",
-    "size_kb": 34.1
+    "md5Checksum": "8788393c5d06333869491dc39e1e9025",
+    "size_kb": 44.3
   },
   "images/modules/connect/connect_9.svg": {
     "md5Checksum": "e5b64411e5121cfb546aabe25c311b25",
     "size_kb": 32.3
   },
   "images/modules/connect/connect_title_image.svg": {
-    "md5Checksum": "31f79af06ae0bbbc694453fe1ce530fc",
-    "size_kb": 76.7
+    "md5Checksum": "4e85d8fa5dbc9793f9fb7d2d178e09d3",
+    "size_kb": 77.1
   },
   "images/modules/connect/thumbs_down_brown.svg": {
     "md5Checksum": "6272850a8bdeb61cc1f453a42ebdc7fb",
@@ -4270,12 +4270,12 @@
     "size_kb": 2
   },
   "images/modules/create/create_1.svg": {
-    "md5Checksum": "f3c3cee6b17c00b3e5befc59d415fe9b",
-    "size_kb": 15.9
+    "md5Checksum": "b5d6a150420b710c9e2eb0f59a8391a6",
+    "size_kb": 18.3
   },
   "images/modules/create/create_10.svg": {
-    "md5Checksum": "6d90195cf05187b85bb060f097ceaeb8",
-    "size_kb": 30.1
+    "md5Checksum": "de92c13886f26928281f23af16ad48be",
+    "size_kb": 32.5
   },
   "images/modules/create/create_11.svg": {
     "md5Checksum": "f05baecd7bb72ed00a6fcf6d0a993bd3",
@@ -4313,17 +4313,13 @@
     "md5Checksum": "f158b85ca4497f877eaf4508f51eaae9",
     "size_kb": 197
   },
-  "images/modules/create/create_2.svg": {
-    "md5Checksum": "0b8999c91950dd894e3862bec5244a78",
-    "size_kb": 196
-  },
   "images/modules/create/create_20.svg": {
     "md5Checksum": "681246231f053860386813c3ed43528b",
     "size_kb": 154.6
   },
   "images/modules/create/create_21.svg": {
-    "md5Checksum": "f40993407bdc0fdafb512c21c918dbd9",
-    "size_kb": 21.2
+    "md5Checksum": "c71472d20de5c98af39aca452b3da1ce",
+    "size_kb": 23.6
   },
   "images/modules/create/create_3.gif": {
     "md5Checksum": "d13c2f0ae3f60c1f72bd0464692cf6bc",
@@ -4357,97 +4353,109 @@
     "md5Checksum": "8a89c287e133ffcbb5d5f2dbad8b48a3",
     "size_kb": 83.8
   },
+  "images/modules/join/all_modules.svg": {
+    "md5Checksum": "e317abd5d1a1b0f27a9f7dc00885a6a2",
+    "size_kb": 769.8
+  },
   "images/modules/join/join_1.svg": {
-    "md5Checksum": "a7bd1ef718c77b2868f82dccb18e7d7b",
-    "size_kb": 41.1
+    "md5Checksum": "58330980b3331ea1ed6f3054cba39529",
+    "size_kb": 43.2
   },
   "images/modules/join/join_10.gif": {
     "md5Checksum": "3088065cbd2015959be7eb97c3a2f723",
     "size_kb": 940.7
   },
   "images/modules/join/join_11.svg": {
-    "md5Checksum": "231ecd5612907af26af6baee8d636af9",
-    "size_kb": 27.4
+    "md5Checksum": "e4225d65a8146ab0207aa0fc58477212",
+    "size_kb": 29.7
   },
   "images/modules/join/join_12.svg": {
     "md5Checksum": "e9bb82133e39340087966f98f57234d6",
     "size_kb": 486.4
   },
   "images/modules/join/join_13.svg": {
-    "md5Checksum": "b84159da80fbceda1580d440fa689645",
-    "size_kb": 69.3
+    "md5Checksum": "b33fc4915242f76d7d5bc583821a66d1",
+    "size_kb": 70.7
   },
   "images/modules/join/join_14.svg": {
-    "md5Checksum": "c67a138e270b8d84ada322a9f67eba98",
-    "size_kb": 366.6
+    "md5Checksum": "418beb255ece3f64a05cc01779632751",
+    "size_kb": 365.5
   },
   "images/modules/join/join_15.svg": {
-    "md5Checksum": "38b11f94891feea448743e009d73a94a",
-    "size_kb": 50.3
+    "md5Checksum": "e4cffef8423af20b8657a70b92409ade",
+    "size_kb": 52.5
   },
   "images/modules/join/join_16.svg": {
     "md5Checksum": "ed388817dde73c1e70a178a75f4b87db",
     "size_kb": 120
   },
   "images/modules/join/join_17.svg": {
-    "md5Checksum": "e9495fe6d2deef75acee3f936524bce6",
-    "size_kb": 8458.6
+    "md5Checksum": "b2d9e8c2ec9f29674e78496a872ecffb",
+    "size_kb": 8460.8
   },
   "images/modules/join/join_18.svg": {
-    "md5Checksum": "d335d9649800884e2689b585569218e9",
-    "size_kb": 75.9
+    "md5Checksum": "5490fa9d54a10fff18738d81e13f55b6",
+    "size_kb": 77.7
   },
   "images/modules/join/join_19.svg": {
-    "md5Checksum": "4fe79d9a1fed426a68da7b8864de407a",
+    "md5Checksum": "1d01ee497938349b2e94a4ba3287db9f",
     "size_kb": 213.1
   },
   "images/modules/join/join_2.svg": {
-    "md5Checksum": "d4f085eea57036aa166f6140574e80ee",
-    "size_kb": 194.8
+    "md5Checksum": "2148c7c47661ffa80eb201cb152eee29",
+    "size_kb": 193.5
   },
   "images/modules/join/join_20.svg": {
-    "md5Checksum": "1526b8cc50201ba811c7946fa9187293",
-    "size_kb": 80.8
+    "md5Checksum": "c75b01ab863f7c6723dc968521dc10e1",
+    "size_kb": 82.5
   },
   "images/modules/join/join_21.svg": {
-    "md5Checksum": "b43e2bd94721a38298054047ce0f986c",
-    "size_kb": 424.1
+    "md5Checksum": "ca347b459ac4412a27ea84329138ab6a",
+    "size_kb": 404.1
   },
   "images/modules/join/join_22.svg": {
-    "md5Checksum": "32779d92c6e9f43358a6f4834a2e09bf",
-    "size_kb": 31.9
+    "md5Checksum": "3dcbbbce471b669f3c091292af150c58",
+    "size_kb": 34.3
   },
   "images/modules/join/join_3.svg": {
     "md5Checksum": "f46c8634151e07f7bbb36775a2f787cd",
     "size_kb": 330.5
   },
   "images/modules/join/join_4.svg": {
-    "md5Checksum": "d5020d12ba0831ae53c15a1c0a41a4c0",
-    "size_kb": 42.3
+    "md5Checksum": "8788393c5d06333869491dc39e1e9025",
+    "size_kb": 44.3
   },
   "images/modules/join/join_5.svg": {
     "md5Checksum": "665e6005cdb1f9cc882ea77bc6004ecf",
     "size_kb": 13.2
   },
   "images/modules/join/join_6.svg": {
-    "md5Checksum": "0f7e6a55a7d7e34cba21b3cb50475edb",
-    "size_kb": 37.2
+    "md5Checksum": "a4f334754c823ad33c69b8398d07fb15",
+    "size_kb": 39.5
   },
   "images/modules/join/join_7.svg": {
     "md5Checksum": "03f894b7ceecbde7b12ad5f8d55317b9",
     "size_kb": 351.4
   },
   "images/modules/join/join_8.svg": {
-    "md5Checksum": "674d224b9afc8ad2210176283068a460",
-    "size_kb": 41.1
+    "md5Checksum": "2484ac64b1d0df73eeb8d4e70689e2b9",
+    "size_kb": 43.3
   },
   "images/modules/join/join_9.svg": {
     "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
     "size_kb": 286.7
   },
   "images/modules/join/join_title_image.svg": {
-    "md5Checksum": "a7bd1ef718c77b2868f82dccb18e7d7b",
-    "size_kb": 41.1
+    "md5Checksum": "07e62c2c75927fc4b65080f0a9be4f0d",
+    "size_kb": 36.4
+  },
+  "images/modules/join/relax_1.svg": {
+    "md5Checksum": "5cd84c4cb7b2bbee2c660b47384aa0ff",
+    "size_kb": 128.8
+  },
+  "images/modules/join/relax_2.svg": {
+    "md5Checksum": "434042a412653f58b63eb4ccbe1c9685",
+    "size_kb": 20.7
   },
   "images/modules/play/angry_emoji.svg": {
     "md5Checksum": "8a09518d837d6cc353005dbacc3124ef",
@@ -4494,8 +4502,8 @@
     "size_kb": 93.9
   },
   "images/modules/play/play_module_ideas.svg": {
-    "md5Checksum": "ba373e59cd9920979e72d7e86d7d41e8",
-    "size_kb": 43.8
+    "md5Checksum": "03e8be725372059d3ba2d150001b0226",
+    "size_kb": 43.9
   },
   "images/modules/play/play_title_image.svg": {
     "md5Checksum": "530f6f37af20bf1b5373d364572d164d",
@@ -4506,11 +4514,11 @@
     "size_kb": 81.2
   },
   "images/modules/play/question_time.svg": {
-    "md5Checksum": "6635d8d2b871a028eea17b8aeb523cc9",
-    "size_kb": 68.6
+    "md5Checksum": "b33fc4915242f76d7d5bc583821a66d1",
+    "size_kb": 70.7
   },
   "images/modules/play/ready_to_practice.svg": {
-    "md5Checksum": "d0afef26e67034b3fcc8b6a35deca945",
+    "md5Checksum": "3dcbbbce471b669f3c091292af150c58",
     "size_kb": 34.3
   },
   "images/modules/play/sad_emoji.svg": {
@@ -4546,8 +4554,8 @@
     "size_kb": 107.6
   },
   "images/modules/play/why_play_1.svg": {
-    "md5Checksum": "2cc2ec63d7efa2a2ef0579981d4f7d7d",
-    "size_kb": 28.9
+    "md5Checksum": "a83bcc59e985372ed59d617fc72dfbdf",
+    "size_kb": 29
   },
   "images/modules/play/why_play_2.svg": {
     "md5Checksum": "4e713c219b4d80ae7c55c879ae37987e",
