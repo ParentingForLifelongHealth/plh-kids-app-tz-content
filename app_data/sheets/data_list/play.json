@@ -822,6 +822,8 @@
     },
     {
       "id": "count_and_compare",
+      "image_cover_asset": "images/learning_through_play/count_and_compare_circle.svg",
+      "image_asset": "images/learning_through_play/count_and_compare.svg",
       "play_tag_list": [
         "home"
       ],
