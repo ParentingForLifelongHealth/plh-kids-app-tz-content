@@ -25,8 +25,8 @@
         }
       },
       "text_2": "**Make time to connect on a regular basis.**\n\nEven 10-15 minutes can make a big difference. See it as an opportunity to take a break and relax together.",
-      "text_1_facilitator": "Here’s how to get started:",
-      "completed": false
+      "completed": false,
+      "text_1_facilitator": "Here’s how to get started:"
     },
     {
       "id": "how_to_connect_2",
@@ -69,14 +69,14 @@
         "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
+      "completed": false,
       "quiz_1_question": "What might distract you during one-on-one time?",
       "quiz_1_option_1_text": "My to-do list",
       "quiz_1_feedback_1": "This is something that happens to all parents! It is normal to get distracted. \n\nIf you find yourself thinking about other things, that’s okay. Notice when this happens and bring your focus to your child.",
       "quiz_1_option_2_text": "Other children needing my attention",
       "quiz_1_feedback_2": "It can be really hard to focus on one child when you are also caring for other children.\n\nTry to set up tasks or activities for your other children before-hand. There might still be interruptions, and that’s also okay.",
       "quiz_1_option_3_text": "Incoming calls or messages",
-      "quiz_1_feedback_3": "We are all easily distracted by our phones. Putting your phone away or putting it on silent could help.",
-      "completed": false
+      "quiz_1_feedback_3": "We are all easily distracted by our phones. Putting your phone away or putting it on silent could help."
     },
     {
       "id": "how_to_connect_3",

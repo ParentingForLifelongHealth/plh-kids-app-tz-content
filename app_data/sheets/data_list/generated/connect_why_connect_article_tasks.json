@@ -57,8 +57,8 @@
           "tz_sw": true
         }
       },
-      "title": "The ParentApp Garden",
-      "completed": false
+      "completed": false,
+      "title": "The ParentApp Garden"
     },
     {
       "id": "why_connect_3",
@@ -93,8 +93,8 @@
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "When a plant is firmly connected to the soil, it grows strong and healthy roots. In the same way, a child who feels supported and close to their parents will have a safe foundation from which to grow and learn.\n\nWhen roots are strong, plants can survive storms and bad weather. When children have strong connections with their caregivers, they can overcome challenges and cope with difficulties.",
-      "title": "The ParentApp Garden",
-      "completed": false
+      "completed": false,
+      "title": "The ParentApp Garden"
     }
   ]
 }

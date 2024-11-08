@@ -791,6 +791,102 @@
         }
       },
       "completed": false
+    },
+    {
+      "id": "relax_21",
+      "category_id": "relax",
+      "media_type": "audio",
+      "media_asset": "audio/relax/relax_21.mp3",
+      "_translatedFields": {
+        "title": {
+          "eng": "List of Things"
+        },
+        "transcript": {
+          "eng": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
+        }
+      },
+      "title": "List of Things",
+      "_translations": {
+        "title": {},
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "relax_tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_21.svg",
+      "transcript": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!",
+      "completed": false
+    },
+    {
+      "id": "check_in_13",
+      "category_id": "check_in",
+      "attached_single_doc": "https://docs.google.com/document/d/1AUTWhsdOO6sBN5ffSyHEIiXseZ4TTlXLbnMLLOa2hXM",
+      "text_1": "Take a moment for yourself first.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment for yourself first."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "It is great to hear you are feeling positive today. You make a real difference for your family!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Life has its great and hard moments – that is okay. You are on the right track."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_feedback_1": "It is great to hear you are feeling positive today. You make a real difference for your family!",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_feedback_2": "Life has its great and hard moments – that is okay. You are on the right track.",
+      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_3": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!",
+      "completed": false
     }
   ]
 }

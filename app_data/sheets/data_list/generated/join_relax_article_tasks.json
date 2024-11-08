@@ -4,20 +4,44 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_4",
-      "media_asset": "audio/relax/relax_4.mp3",
-      "media_type": "audio",
-      "relax_tag_list": [
-        "breathe"
-      ],
-      "image_cover_asset": "images/relax/relax_4.svg",
-      "title": "Breathe to Three",
+      "id": "relax_intro_1",
+      "category_id": "relax",
+      "image_asset": "images/modules/join/relax_1.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/14tosyClbj4_AdiiHF1ukwTYZ5h_5fftTy1u5j4GpaoE",
+      "text_1": "Being a parent is stressful!",
       "_translations": {
-        "title": {},
-        "transcript": {
-          "tz_sw": true
+        "text_1": {},
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Being a parent is stressful!"
+        },
+        "text_1_facilitator": {
+          "eng": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children."
         }
       },
+      "text_1_facilitator": "When we feel stressed or overwhelmed, it can be difficult to look after ourselves, and our children.",
+      "completed": false
+    },
+    {
+      "id": "relax_intro_2",
+      "category_id": "relax",
+      "image_asset": "images/modules/join/relax_2.svg",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself."
+        }
+      },
+      "text_1_facilitator": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "relax_4",
+      "category_id": "relax",
       "_translatedFields": {
         "title": {
           "eng": "Breathe to Three"
@@ -26,8 +50,21 @@
           "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause."
         }
       },
-      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause.",
-      "completed": false
+      "completed": false,
+      "media_type": "audio",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "title": "Breathe to Three",
+      "_translations": {
+        "title": {},
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "relax_tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_4.svg",
+      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause."
     }
   ]
 }
