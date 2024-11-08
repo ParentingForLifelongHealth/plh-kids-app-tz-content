@@ -86,12 +86,12 @@
   "_xlsxPath": "modules/TZ check_in article_generator.xlsx",
   "_output_flows": [
     {
-      "flow_name": "article_join_check_in_1",
+      "flow_name": "article_join_check_in_10",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_connect_check_in_10",
+      "flow_name": "article_connect_check_in_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

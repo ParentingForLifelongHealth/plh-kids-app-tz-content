@@ -591,6 +591,102 @@
       },
       "text_2": "🤝 **Play activities for you and your child.** \nThese activities provide opportunities to bond while also supporting your child’s learning.\n\n📖 **Digital books to share with your child.** \nFind a comfortable place to sit and share one of the many books available in the app. \n\n😌 **Short but powerful relaxing activities.** \nBeing a parent can be so stressful. Take a moment for yourself to relax, breathe or reflect.",
       "completed": false
+    },
+    {
+      "id": "relax_4",
+      "category_id": "relax",
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe to Three"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause."
+        }
+      },
+      "media_type": "audio",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "title": "Breathe to Three",
+      "_translations": {
+        "title": {},
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "relax_tag_list": [
+        "breathe"
+      ],
+      "image_cover_asset": "images/relax/relax_4.svg",
+      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nWell done on taking a pause.",
+      "completed": false
+    },
+    {
+      "id": "check_in_10",
+      "category_id": "check_in",
+      "attached_single_doc": "https://docs.google.com/document/d/1AUTWhsdOO6sBN5ffSyHEIiXseZ4TTlXLbnMLLOa2hXM",
+      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
+      "_translations": {
+        "text_1": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "So good to hear you are feeling well today. You are incredible!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
     }
   ]
 }

@@ -30,11 +30,11 @@
         "media_transcript": {},
         "text_1_facilitator": {}
       },
+      "completed": false,
       "media_type": "audio",
       "media_title": "Listen to learn more:",
       "media_transcript": "Let’s say you are visiting a friend, and your children are playing together. As they play, you notice that your child sometimes shares the toys and other times grabs the toy from her friend. Instead of saying: “stop grabbing that toy!” you could say: “give your friend a chance to play with the toy” \n\nIt is easier for children to follow instructions that tell them what they should do, rather than what they shouldn’t do.",
-      "text_1_facilitator": "Here’s how you can create a positive environment for your child:",
-      "completed": false
+      "text_1_facilitator": "Here’s how you can create a positive environment for your child:"
     },
     {
       "id": "how_to_create_2",
@@ -53,8 +53,8 @@
         "text_2": {},
         "text_1_facilitator": {}
       },
-      "text_1_facilitator": "Need some convincing? Let’s do an exercise:",
-      "completed": false
+      "completed": false,
+      "text_1_facilitator": "Need some convincing? Let’s do an exercise:"
     },
     {
       "id": "how_to_create_3",
@@ -109,10 +109,10 @@
         },
         "media_transcript": {}
       },
+      "completed": false,
       "media_type": "audio",
       "media_title": "Let’s hear from a caregiver:",
-      "media_transcript": "Before, I used to raise my children the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my children. It took time to learn to say “please do this” instead of “don’t do this.” \n\nMy children and even my husband tell me that they love this way of doing things, because now they know what needs to be done.",
-      "completed": false
+      "media_transcript": "Before, I used to raise my children the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my children. It took time to learn to say “please do this” instead of “don’t do this.” \n\nMy children and even my husband tell me that they love this way of doing things, because now they know what needs to be done."
     },
     {
       "id": "how_to_create_6",
@@ -139,11 +139,11 @@
         "section_1_button_text": {},
         "section_1_extra_text": {}
       },
+      "completed": false,
       "section_1_image_asset": "images/modules/create/create_10.svg",
       "section_1_text": "Sometimes it is hard to think of what to praise your child for! Here are some ideas from other parents:",
       "section_1_button_text": "Ideas for praise:",
-      "section_1_extra_text": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening",
-      "completed": false
+      "section_1_extra_text": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
     }
   ]
 }

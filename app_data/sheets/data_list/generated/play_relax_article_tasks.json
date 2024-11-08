@@ -5,19 +5,9 @@
   "rows": [
     {
       "id": "relax_21",
-      "media_asset": "audio/relax/relax_21.mp3",
+      "category_id": "relax",
       "media_type": "audio",
-      "relax_tag_list": [
-        "reflect"
-      ],
-      "image_cover_asset": "images/relax/relax_21.svg",
-      "title": "List of Things",
-      "_translations": {
-        "title": {},
-        "transcript": {
-          "tz_sw": true
-        }
-      },
+      "media_asset": "audio/relax/relax_21.mp3",
       "_translatedFields": {
         "title": {
           "eng": "List of Things"
@@ -26,8 +16,19 @@
           "eng": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
         }
       },
-      "transcript": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!",
-      "completed": false
+      "completed": false,
+      "title": "List of Things",
+      "_translations": {
+        "title": {},
+        "transcript": {
+          "tz_sw": true
+        }
+      },
+      "relax_tag_list": [
+        "reflect"
+      ],
+      "image_cover_asset": "images/relax/relax_21.svg",
+      "transcript": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
     }
   ]
 }

@@ -20,7 +20,7 @@
 | set_variable | 556 |
 | task_card | 7 |
 | task_progress_bar | 1 |
-| template | 449 |
+| template | 357 |
 | text | 65 |
 | text_area | 2 |
 | text_box | 5 |
@@ -36,13 +36,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 410 |
+| emit: completed | 318 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 408 |
+| emit: uncompleted | 316 |
 | feedback | 7 |
 | go_to | 12 |
 | pop_up | 15 |
@@ -344,19 +344,19 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/play/play_05.mp3 | 206.8 | 3 |
 | audio/modules/play/play_06.mp3 | 159.8 | 3 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
-| audio/relax/relax_10.mp3 | 404.9 | 2 |
+| audio/relax/relax_10.mp3 | 404.9 | 3 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
 | audio/relax/relax_12.mp3 | 539.7 | 1 |
 | audio/relax/relax_13.mp3 | 398.4 | 1 |
 | audio/relax/relax_14.mp3 | 256.9 | 1 |
 | audio/relax/relax_15.mp3 | 125 | 1 |
 | audio/relax/relax_16.mp3 | 274 | 1 |
-| audio/relax/relax_17.mp3 | 148 | 2 |
+| audio/relax/relax_17.mp3 | 148 | 3 |
 | audio/relax/relax_18.mp3 | 312.9 | 1 |
 | audio/relax/relax_19.mp3 | 454 | 1 |
 | audio/relax/relax_2.mp3 | 404.4 | 1 |
 | audio/relax/relax_20.mp3 | 539.8 | 1 |
-| audio/relax/relax_21.mp3 | 189.3 | 2 |
+| audio/relax/relax_21.mp3 | 189.3 | 3 |
 | audio/relax/relax_22.mp3 | 109.8 | 1 |
 | audio/relax/relax_23.mp3 | 122.9 | 1 |
 | audio/relax/relax_24.mp3 | 121.3 | 1 |
@@ -1173,12 +1173,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/chevron_back_white.svg | 1.3 | 1 |
 | images/icons/chevron_forward_white.svg | 1.3 | 1 |
 | images/icons/faces/happy.svg | 1.4 | 5 |
-| images/icons/faces/happy_face_new.svg | 1.4 | 20 |
+| images/icons/faces/happy_face_new.svg | 1.4 | 23 |
 | images/icons/faces/loved.svg | 3.8 | 3 |
 | images/icons/faces/neutral.svg | 0.5 | 2 |
-| images/icons/faces/ok_face_new.svg | 0.5 | 20 |
+| images/icons/faces/ok_face_new.svg | 0.5 | 23 |
 | images/icons/faces/sad.svg | 1.5 | 2 |
-| images/icons/faces/sad_face_new.svg | 1.5 | 20 |
+| images/icons/faces/sad_face_new.svg | 1.5 | 23 |
 | images/icons/faces/valued.svg | 3.4 | 3 |
 | images/icons/hands_hold_heart_blue.svg | 2.3 | 1 |
 | images/icons/hands_hold_heart_white.svg | 3.4 | 1 |
@@ -1266,8 +1266,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/connect/connect_8.svg | 44.3 | 3 |
 | images/modules/connect/connect_9.svg | 32.3 | 3 |
 | images/modules/connect/connect_title_image.svg | 77.1 | 3 |
-| images/modules/connect/thumbs_down_brown.svg | 2 | 6 |
-| images/modules/connect/thumbs_up_brown.svg | 2 | 6 |
+| images/modules/connect/thumbs_down_brown.svg | 2 | 4 |
+| images/modules/connect/thumbs_up_brown.svg | 2 | 4 |
 | images/modules/create/create_1.svg | 18.3 | 3 |
 | images/modules/create/create_10.svg | 32.5 | 3 |
 | images/modules/create/create_11.svg | 71.3 | 3 |
@@ -1289,29 +1289,29 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/create/create_8.svg | 86.3 | 3 |
 | images/modules/create/create_9.svg | 169 | 3 |
 | images/modules/create/create_title_image.svg | 83.8 | 3 |
-| images/modules/join/all_modules.svg | 769.8 | 3 |
-| images/modules/join/join_1.svg | 43.2 | 3 |
-| images/modules/join/join_10.gif | 940.7 | 3 |
-| images/modules/join/join_11.svg | 29.7 | 3 |
-| images/modules/join/join_12.svg | 486.4 | 3 |
-| images/modules/join/join_13.svg | 70.7 | 3 |
-| images/modules/join/join_14.svg | 365.5 | 3 |
-| images/modules/join/join_15.svg | 52.5 | 3 |
-| images/modules/join/join_16.svg | 120 | 3 |
-| images/modules/join/join_17.svg | 8460.8 | 3 |
-| images/modules/join/join_18.svg | 77.7 | 3 |
-| images/modules/join/join_19.svg | 213.1 | 3 |
-| images/modules/join/join_2.svg | 193.5 | 3 |
-| images/modules/join/join_20.svg | 82.5 | 3 |
-| images/modules/join/join_21.svg | 404.1 | 3 |
-| images/modules/join/join_22.svg | 34.3 | 3 |
-| images/modules/join/join_3.svg | 330.5 | 3 |
-| images/modules/join/join_4.svg | 44.3 | 3 |
-| images/modules/join/join_5.svg | 13.2 | 3 |
-| images/modules/join/join_6.svg | 39.5 | 3 |
-| images/modules/join/join_7.svg | 351.4 | 3 |
-| images/modules/join/join_8.svg | 43.3 | 3 |
-| images/modules/join/join_9.svg | 286.7 | 3 |
+| images/modules/join/all_modules.svg | 769.8 | 2 |
+| images/modules/join/join_1.svg | 43.2 | 2 |
+| images/modules/join/join_10.gif | 940.7 | 2 |
+| images/modules/join/join_11.svg | 29.7 | 2 |
+| images/modules/join/join_12.svg | 486.4 | 2 |
+| images/modules/join/join_13.svg | 70.7 | 2 |
+| images/modules/join/join_14.svg | 365.5 | 2 |
+| images/modules/join/join_15.svg | 52.5 | 2 |
+| images/modules/join/join_16.svg | 120 | 2 |
+| images/modules/join/join_17.svg | 8460.8 | 2 |
+| images/modules/join/join_18.svg | 77.7 | 2 |
+| images/modules/join/join_19.svg | 213.1 | 2 |
+| images/modules/join/join_2.svg | 193.5 | 2 |
+| images/modules/join/join_20.svg | 82.5 | 2 |
+| images/modules/join/join_21.svg | 404.1 | 2 |
+| images/modules/join/join_22.svg | 34.3 | 2 |
+| images/modules/join/join_3.svg | 330.5 | 2 |
+| images/modules/join/join_4.svg | 44.3 | 2 |
+| images/modules/join/join_5.svg | 13.2 | 2 |
+| images/modules/join/join_6.svg | 39.5 | 2 |
+| images/modules/join/join_7.svg | 351.4 | 2 |
+| images/modules/join/join_8.svg | 43.3 | 2 |
+| images/modules/join/join_9.svg | 286.7 | 2 |
 | images/modules/join/join_title_image.svg | 36.4 | 3 |
 | images/modules/join/relax_1.svg | 128.8 | 2 |
 | images/modules/join/relax_2.svg | 20.7 | 2 |
@@ -1341,19 +1341,19 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/why_play_1.svg | 29 | 3 |
 | images/modules/play/why_play_2.svg | 136.9 | 3 |
 | images/relax/relax_1.svg | 25.9 | 1 |
-| images/relax/relax_10.svg | 10.3 | 2 |
+| images/relax/relax_10.svg | 10.3 | 3 |
 | images/relax/relax_11.svg | 10.9 | 1 |
 | images/relax/relax_12.svg | 23.9 | 1 |
 | images/relax/relax_13.svg | 37.3 | 1 |
 | images/relax/relax_14.svg | 34.6 | 1 |
 | images/relax/relax_15.svg | 26.6 | 1 |
 | images/relax/relax_16.svg | 22 | 1 |
-| images/relax/relax_17.svg | 28.9 | 2 |
+| images/relax/relax_17.svg | 28.9 | 3 |
 | images/relax/relax_18.svg | 16.2 | 1 |
 | images/relax/relax_19.svg | 94.1 | 1 |
 | images/relax/relax_2.svg | 5.5 | 1 |
 | images/relax/relax_20.svg | 71.5 | 1 |
-| images/relax/relax_21.svg | 31.4 | 2 |
+| images/relax/relax_21.svg | 31.4 | 3 |
 | images/relax/relax_22.svg | 174.4 | 1 |
 | images/relax/relax_23.svg | 26 | 1 |
 | images/relax/relax_24.svg | 145.5 | 1 |
@@ -1375,14 +1375,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | --- | --- | --- |
 | data_list |  | 28 |
 | data_list | app_config_language_list | 1 |
-| data_list | generated | 38 |
+| data_list | generated | 31 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
-| data_pipe |  | 6 |
-| data_pipe | generated | 26 |
-| generator |  | 27 |
+| data_pipe |  | 2 |
+| data_pipe | generated | 23 |
+| generator |  | 22 |
 | global |  | 2 |
 | template |  | 59 |
-| template | generated | 429 |
+| template | generated | 337 |
 | template | legal_terms | 4 |
 </details>
