@@ -329,6 +329,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "now",
       "_dynamicFields": {
@@ -353,14 +354,9 @@
       "_translations": {
         "value": {}
       },
-      "type": "set_variable",
-      "_nested_name": "click_history"
-    },
-    {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_18",
-      "_nested_name": "set_variable_18"
+      "_nested_name": "click_history"
     },
     {
       "type": "items",
@@ -616,7 +612,7 @@
         },
         {
           "name": "click_history_field_name",
-          "value": "hp_@local.module_id@local.join@local.home_practice_type@local.join@local.item.id@local.click_history",
+          "value": "hp_@local.module_id@local.join@local.home_practice_type@local.join@item.id@local.click_history",
           "_translations": {
             "value": {}
           },
@@ -626,37 +622,37 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@local.item.id@local.click_history",
+                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@item.id@local.click_history",
                 "matchedExpression": "@local.module_id",
                 "type": "local",
                 "fieldName": "module_id"
               },
               {
-                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@local.item.id@local.click_history",
+                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@item.id@local.click_history",
                 "matchedExpression": "@local.join",
                 "type": "local",
                 "fieldName": "join"
               },
               {
-                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@local.item.id@local.click_history",
+                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@item.id@local.click_history",
                 "matchedExpression": "@local.home_practice_type",
                 "type": "local",
                 "fieldName": "home_practice_type"
               },
               {
-                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@local.item.id@local.click_history",
+                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@item.id@local.click_history",
                 "matchedExpression": "@local.join",
                 "type": "local",
                 "fieldName": "join"
               },
               {
-                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@local.item.id@local.click_history",
-                "matchedExpression": "@local.item.id",
-                "type": "local",
-                "fieldName": "item"
+                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@item.id@local.click_history",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
               },
               {
-                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@local.item.id@local.click_history",
+                "fullExpression": "hp_@local.module_id@local.join@local.home_practice_type@local.join@item.id@local.click_history",
                 "matchedExpression": "@local.click_history",
                 "type": "local",
                 "fieldName": "click_history"
@@ -674,7 +670,7 @@
             "@local.home_practice_type": [
               "value"
             ],
-            "@local.item.id": [
+            "@item.id": [
               "value"
             ],
             "@local.click_history": [

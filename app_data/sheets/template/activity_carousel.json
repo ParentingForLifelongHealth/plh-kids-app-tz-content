@@ -213,9 +213,7 @@
               "_translations": {
                 "value": {}
               },
-              "parameter_list": {
-                "!!(@fields.@local.click_history_field_name)": "true"
-              },
+              "condition": "!!(@fields.@local.click_history_field_name)",
               "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "carousel_7.items_loop.click_history_value",
@@ -233,11 +231,20 @@
                     "type": "local",
                     "fieldName": "now"
                   }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
                 ]
               },
               "_dynamicDependencies": {
                 "@local.click_history_field_name": [
-                  "value"
+                  "value",
+                  "condition"
                 ],
                 "@local.now": [
                   "value"
@@ -250,9 +257,7 @@
               "_translations": {
                 "value": {}
               },
-              "parameter_list": {
-                "!(@fields.@local.click_history_field_name)": "true"
-              },
+              "condition": "!(@fields.@local.click_history_field_name)",
               "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "carousel_7.items_loop.click_history_value",
@@ -264,11 +269,22 @@
                     "type": "local",
                     "fieldName": "now"
                   }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
                 ]
               },
               "_dynamicDependencies": {
                 "@local.now": [
                   "value"
+                ],
+                "@local.click_history_field_name": [
+                  "condition"
                 ]
               }
             },
