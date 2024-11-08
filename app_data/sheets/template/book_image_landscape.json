@@ -957,8 +957,7 @@
           },
           "style_list": [
             "flex: 1",
-            "margin: 0 25px -25px",
-            "height: 370px"
+            "margin: 0 25px -25px"
           ],
           "exclude_from_translation": true,
           "_nested_name": "buttons_and_image.image_asset",
