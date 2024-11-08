@@ -376,6 +376,7 @@
               "parameter_list": {
                 "task_group_data": "@local.task_group"
               },
+              "condition": false,
               "exclude_from_translation": true,
               "name": "task_progress_bar_3",
               "_nested_name": "module_card.dg_column.task_progress_bar_3",

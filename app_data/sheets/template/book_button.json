@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "book_id"
     },
@@ -18,6 +19,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "book_concat",
       "_dynamicFields": {
@@ -42,6 +44,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "book_data",
       "_dynamicFields": {
@@ -66,6 +69,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "now",
       "_dynamicFields": {
@@ -90,6 +94,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "click_history"
     },
@@ -99,6 +104,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "click_history_field_name",
       "_dynamicFields": {
@@ -177,6 +183,7 @@
         "value": {}
       },
       "condition": "!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "click_history_value",
       "_dynamicFields": {
@@ -212,6 +219,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "toggle_history"
     },
@@ -221,6 +229,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "toggle_history_field_name",
       "_dynamicFields": {
@@ -299,6 +308,7 @@
         "value": {}
       },
       "condition": "!(@fields.@local.toggle_history_field_name)",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "toggle_history_value",
       "_dynamicFields": {
@@ -335,15 +345,6 @@
       "action_list": [
         {
           "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "book_cover_@local.book_data.id"
-          ],
-          "_raw": "click | go_to: book_cover_@local.book_data.id",
-          "_cleaned": "click | go_to: book_cover_@local.book_data.id"
-        },
-        {
-          "trigger": "click",
           "action_id": "set_field",
           "args": [
             "@local.click_history_field_name",
@@ -351,12 +352,22 @@
           ],
           "_raw": "click | set_field: @local.click_history_field_name: @local.click_history_value",
           "_cleaned": "click | set_field: @local.click_history_field_name: @local.click_history_value"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "book_cover_@local.book_data.id"
+          ],
+          "_raw": "click | go_to: book_cover_@local.book_data.id",
+          "_cleaned": "click | go_to: book_cover_@local.book_data.id"
         }
       ],
       "parameter_list": {
         "variant": "card-portrait",
         "image_asset": "@local.book_data.image_cover_asset"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "toggle_bar",
@@ -393,6 +404,7 @@
             "icon_true_asset": "images/icons/heart_filled.svg",
             "icon_false_asset": "images/icons/heart.svg"
           },
+          "exclude_from_translation": true,
           "_nested_name": "button_@local.book_data.id.toggle_bar_@local.book_data.id",
           "_dynamicFields": {
             "name": [
@@ -554,34 +566,6 @@
             "args": {
               "0": [
                 {
-                  "fullExpression": "book_cover_@local.book_data.id",
-                  "matchedExpression": "@local.book_data.id",
-                  "type": "local",
-                  "fieldName": "book_data"
-                }
-              ]
-            },
-            "_raw": [
-              {
-                "fullExpression": "click | go_to: book_cover_@local.book_data.id",
-                "matchedExpression": "@local.book_data.id",
-                "type": "local",
-                "fieldName": "book_data"
-              }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "click | go_to: book_cover_@local.book_data.id",
-                "matchedExpression": "@local.book_data.id",
-                "type": "local",
-                "fieldName": "book_data"
-              }
-            ]
-          },
-          "1": {
-            "args": {
-              "0": [
-                {
                   "fullExpression": "@local.click_history_field_name",
                   "matchedExpression": "@local.click_history_field_name",
                   "type": "local",
@@ -625,6 +609,34 @@
                 "fieldName": "click_history_value"
               }
             ]
+          },
+          "1": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "book_cover_@local.book_data.id",
+                  "matchedExpression": "@local.book_data.id",
+                  "type": "local",
+                  "fieldName": "book_data"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | go_to: book_cover_@local.book_data.id",
+                "matchedExpression": "@local.book_data.id",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | go_to: book_cover_@local.book_data.id",
+                "matchedExpression": "@local.book_data.id",
+                "type": "local",
+                "fieldName": "book_data"
+              }
+            ]
           }
         },
         "parameter_list": {
@@ -649,23 +661,23 @@
       "_dynamicDependencies": {
         "@local.book_data.id": [
           "name",
-          "action_list.0.args.0",
-          "action_list.0._raw",
-          "action_list.0._cleaned",
+          "action_list.1.args.0",
+          "action_list.1._raw",
+          "action_list.1._cleaned",
           "_nested_name"
         ],
         "@local.book_data.title": [
           "value"
         ],
         "@local.click_history_field_name": [
-          "action_list.1.args.0",
-          "action_list.1._raw",
-          "action_list.1._cleaned"
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
         ],
         "@local.click_history_value": [
-          "action_list.1.args.1",
-          "action_list.1._raw",
-          "action_list.1._cleaned"
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
         ],
         "@local.book_data.image_cover_asset": [
           "parameter_list.image_asset"

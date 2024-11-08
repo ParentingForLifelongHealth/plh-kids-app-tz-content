@@ -20,8 +20,8 @@
           "eng": "Here are some ideas for how you can use book activities to connect."
         }
       },
-      "text_1_facilitator": "Here are some ideas for how you can use book activities to connect.",
-      "completed": false
+      "completed": false,
+      "text_1_facilitator": "Here are some ideas for how you can use book activities to connect."
     },
     {
       "id": "using_books_2",
@@ -84,6 +84,7 @@
       },
       "media_title": "Watch this video to learn more:",
       "media_transcript": "By reading together every day, your child will learn to love books and enjoy reading. The more time children spend looking at books, the more they learn. So, make reading part of your daily routine.\n\nEven in a busy day, find some time to look at books and read with your child. Even 10 minutes a day can make the world of difference.\n\nFind a time that works best for your family. This might be first thing in the morning or towards the end of the day when you want your child to come inside. Reading before bedtime can also help children fall asleep easier.",
+      "completed": false,
       "quiz_1_question": "What time do you think will work for your family?",
       "quiz_1_option_1_text": "Morning",
       "quiz_1_feedback_1": "A book activity in the morning can be a great way to connect with your child and help start their day on the right note.",
@@ -92,8 +93,7 @@
       "quiz_1_option_3_text": "Evening",
       "quiz_1_feedback_3": "Book activities before bedtime is a great way to help children settle down and fall asleep easier.",
       "quiz_1_option_4_text": "Weekends",
-      "quiz_1_feedback_4": "It can be really hard to find time during the busy week for book activities. Weekends are a great time to catch up with children and connect.",
-      "completed": false
+      "quiz_1_feedback_4": "It can be really hard to find time during the busy week for book activities. Weekends are a great time to catch up with children and connect."
     },
     {
       "id": "using_books_3",

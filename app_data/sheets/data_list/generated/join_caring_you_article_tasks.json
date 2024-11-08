@@ -20,8 +20,8 @@
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "text_2": "We often don’t look after ourselves enough. But this is so important, especially as a parent! \n\nReducing our stress and treating ourselves well helps us AND our children.",
-      "completed": false
+      "completed": false,
+      "text_2": "We often don’t look after ourselves enough. But this is so important, especially as a parent! \n\nReducing our stress and treating ourselves well helps us AND our children."
     },
     {
       "id": "caring_you_2",
@@ -32,11 +32,11 @@
           "eng": "Why is my wellbeing important to my child?"
         }
       },
+      "completed": false,
       "text_2": "Why is my wellbeing important to my child?",
       "_translations": {
         "text_2": {}
-      },
-      "completed": false
+      }
     },
     {
       "id": "caring_you_3",
@@ -62,11 +62,11 @@
         "section_1_button_text": {},
         "section_1_extra_text": {}
       },
+      "completed": false,
       "section_1_image_asset": "images/modules/join/join_5.svg",
       "section_1_title": "Remember that you cannot pour from an empty cup.",
       "section_1_button_text": "Learn more:",
-      "section_1_extra_text": "If your own cup is empty, you won’t have anything to pour into your child’s cup. Take care of yourself, so you can take care of your child.",
-      "completed": false
+      "section_1_extra_text": "If your own cup is empty, you won’t have anything to pour into your child’s cup. Take care of yourself, so you can take care of your child."
     },
     {
       "id": "caring_you_4",

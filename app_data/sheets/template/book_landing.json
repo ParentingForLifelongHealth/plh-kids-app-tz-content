@@ -768,6 +768,16 @@
       "action_list": [
         {
           "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_book_id",
+            "@local.book_data.id"
+          ],
+          "_raw": "click | set_field: current_book_id: @local.book_data.id",
+          "_cleaned": "click | set_field: current_book_id: @local.book_data.id"
+        },
+        {
+          "trigger": "click",
           "action_id": "pop_up",
           "args": [
             "book_page"
@@ -777,16 +787,6 @@
           "params": {
             "fullscreen": true
           }
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "current_book_id",
-            "@local.book_data.id"
-          ],
-          "_raw": "click | set_field: current_book_id: @local.book_data.id",
-          "_cleaned": "click | set_field: current_book_id: @local.book_data.id"
         }
       ],
       "parameter_list": {
@@ -800,7 +800,7 @@
       "_nested_name": "task_card_1",
       "_dynamicFields": {
         "action_list": {
-          "1": {
+          "0": {
             "args": {
               "1": [
                 {
@@ -850,9 +850,9 @@
       },
       "_dynamicDependencies": {
         "@local.book_data.id": [
-          "action_list.1.args.1",
-          "action_list.1._raw",
-          "action_list.1._cleaned"
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
         ],
         "@local.read_child_title": [
           "parameter_list.title"
