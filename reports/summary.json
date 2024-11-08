@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 556
+      "count": 560
     },
     {
       "type": "task_card",
@@ -70,7 +70,7 @@
     },
     {
       "type": "template",
-      "count": 357
+      "count": 365
     },
     {
       "type": "text",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 318
+      "count": 326
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 316
+      "count": 324
     },
     {
       "type": "feedback",
@@ -1523,7 +1523,7 @@
     },
     {
       "path": "audio/relax/relax_4.mp3",
-      "count": 2,
+      "count": 3,
       "size_kb": 347.9
     },
     {
@@ -5583,7 +5583,7 @@
     },
     {
       "path": "images/icons/faces/happy_face_new.svg",
-      "count": 23,
+      "count": 24,
       "size_kb": 1.4
     },
     {
@@ -5598,7 +5598,7 @@
     },
     {
       "path": "images/icons/faces/ok_face_new.svg",
-      "count": 23,
+      "count": 24,
       "size_kb": 0.5
     },
     {
@@ -5608,7 +5608,7 @@
     },
     {
       "path": "images/icons/faces/sad_face_new.svg",
-      "count": 23,
+      "count": 24,
       "size_kb": 1.5
     },
     {
@@ -6048,12 +6048,12 @@
     },
     {
       "path": "images/modules/connect/thumbs_down_brown.svg",
-      "count": 4,
+      "count": 6,
       "size_kb": 2
     },
     {
       "path": "images/modules/connect/thumbs_up_brown.svg",
-      "count": 4,
+      "count": 6,
       "size_kb": 2
     },
     {
@@ -6163,117 +6163,117 @@
     },
     {
       "path": "images/modules/join/all_modules.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 769.8
     },
     {
       "path": "images/modules/join/join_1.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 43.2
     },
     {
       "path": "images/modules/join/join_10.gif",
-      "count": 2,
+      "count": 3,
       "size_kb": 940.7
     },
     {
       "path": "images/modules/join/join_11.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 29.7
     },
     {
       "path": "images/modules/join/join_12.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 486.4
     },
     {
       "path": "images/modules/join/join_13.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 70.7
     },
     {
       "path": "images/modules/join/join_14.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 365.5
     },
     {
       "path": "images/modules/join/join_15.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 52.5
     },
     {
       "path": "images/modules/join/join_16.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 120
     },
     {
       "path": "images/modules/join/join_17.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 8460.8
     },
     {
       "path": "images/modules/join/join_18.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 77.7
     },
     {
       "path": "images/modules/join/join_19.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 213.1
     },
     {
       "path": "images/modules/join/join_2.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 193.5
     },
     {
       "path": "images/modules/join/join_20.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 82.5
     },
     {
       "path": "images/modules/join/join_21.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 404.1
     },
     {
       "path": "images/modules/join/join_22.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 34.3
     },
     {
       "path": "images/modules/join/join_3.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 330.5
     },
     {
       "path": "images/modules/join/join_4.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 44.3
     },
     {
       "path": "images/modules/join/join_5.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 13.2
     },
     {
       "path": "images/modules/join/join_6.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 39.5
     },
     {
       "path": "images/modules/join/join_7.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 351.4
     },
     {
       "path": "images/modules/join/join_8.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 43.3
     },
     {
       "path": "images/modules/join/join_9.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 286.7
     },
     {
@@ -6283,12 +6283,12 @@
     },
     {
       "path": "images/modules/join/relax_1.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 128.8
     },
     {
       "path": "images/modules/join/relax_2.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 20.7
     },
     {
@@ -6513,7 +6513,7 @@
     },
     {
       "path": "images/relax/relax_4.svg",
-      "count": 2,
+      "count": 3,
       "size_kb": 20.7
     },
     {
@@ -6561,7 +6561,7 @@
     {
       "type": "data_list",
       "subtype": "generated",
-      "total": 31
+      "total": 38
     },
     {
       "type": "data_list",
@@ -6581,12 +6581,12 @@
     {
       "type": "data_pipe",
       "subtype": "generated",
-      "total": 23
+      "total": 28
     },
     {
       "type": "generator",
       "subtype": null,
-      "total": 22
+      "total": 24
     },
     {
       "type": "global",
@@ -6601,7 +6601,7 @@
     {
       "type": "template",
       "subtype": "generated",
-      "total": 337
+      "total": 345
     },
     {
       "type": "template",
