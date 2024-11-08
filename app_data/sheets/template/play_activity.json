@@ -671,6 +671,77 @@
                       "condition"
                     ]
                   }
+                },
+                {
+                  "type": "text",
+                  "name": "accordion_content_9",
+                  "value": "@local.text_5",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "condition": "!!(@local.text_5)",
+                  "_nested_name": "accordion.first.dg.accordion_content_9",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.text_5",
+                        "matchedExpression": "@local.text_5",
+                        "type": "local",
+                        "fieldName": "text_5"
+                      }
+                    ],
+                    "condition": [
+                      {
+                        "fullExpression": "!!(@local.text_5)",
+                        "matchedExpression": "@local.text_5",
+                        "type": "local",
+                        "fieldName": "text_5"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.text_5": [
+                      "value",
+                      "condition"
+                    ]
+                  }
+                },
+                {
+                  "type": "image",
+                  "name": "accordion_content_10",
+                  "value": "@local.image_5",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "condition": "!!(@local.image_5)",
+                  "parameter_list": {
+                    "style": "rounded_corners"
+                  },
+                  "_nested_name": "accordion.first.dg.accordion_content_10",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.image_5",
+                        "matchedExpression": "@local.image_5",
+                        "type": "local",
+                        "fieldName": "image_5"
+                      }
+                    ],
+                    "condition": [
+                      {
+                        "fullExpression": "!!(@local.image_5)",
+                        "matchedExpression": "@local.image_5",
+                        "type": "local",
+                        "fieldName": "image_5"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.image_5": [
+                      "value",
+                      "condition"
+                    ]
+                  }
                 }
               ],
               "_nested_name": "accordion.first.dg"

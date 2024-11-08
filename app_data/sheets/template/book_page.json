@@ -2,16 +2,34 @@
   "flow_type": "template",
   "flow_name": "book_page",
   "status": "released",
+  "parameter_list": {
+    "orientation": "landscape"
+  },
   "rows": [
     {
       "name": "book_id",
-      "value": "who_took_my_shoe",
+      "value": "@fields.current_book_id",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "book_id"
+      "_nested_name": "book_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.current_book_id",
+            "matchedExpression": "@fields.current_book_id",
+            "type": "fields",
+            "fieldName": "current_book_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.current_book_id": [
+          "value"
+        ]
+      }
     },
     {
       "name": "book",

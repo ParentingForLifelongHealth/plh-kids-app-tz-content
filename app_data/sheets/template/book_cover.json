@@ -542,22 +542,23 @@
           "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "book_page_@local.book_data.id"
+            "book_page"
           ],
-          "_raw": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
-          "_cleaned": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
+          "_raw": "click | pop_up: book_page | fullscreen: true",
+          "_cleaned": "click | pop_up: book_page | fullscreen: true",
           "params": {
             "fullscreen": true
           }
         },
         {
           "trigger": "click",
-          "action_id": "screen_orientation",
+          "action_id": "set_field",
           "args": [
-            "landscape"
+            "current_book_id",
+            "@local.book_data.id"
           ],
-          "_raw": "click | screen_orientation: landscape",
-          "_cleaned": "click | screen_orientation: landscape"
+          "_raw": "click | set_field: current_book_id: @local.book_data.id",
+          "_cleaned": "click | set_field: current_book_id: @local.book_data.id"
         }
       ],
       "parameter_list": {
@@ -566,11 +567,11 @@
       "_nested_name": "button",
       "_dynamicFields": {
         "action_list": {
-          "0": {
+          "1": {
             "args": {
-              "0": [
+              "1": [
                 {
-                  "fullExpression": "book_page_@local.book_data.id",
+                  "fullExpression": "@local.book_data.id",
                   "matchedExpression": "@local.book_data.id",
                   "type": "local",
                   "fieldName": "book_data"
@@ -579,7 +580,7 @@
             },
             "_raw": [
               {
-                "fullExpression": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
+                "fullExpression": "click | set_field: current_book_id: @local.book_data.id",
                 "matchedExpression": "@local.book_data.id",
                 "type": "local",
                 "fieldName": "book_data"
@@ -587,7 +588,7 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | pop_up: book_page_@local.book_data.id | fullscreen: true",
+                "fullExpression": "click | set_field: current_book_id: @local.book_data.id",
                 "matchedExpression": "@local.book_data.id",
                 "type": "local",
                 "fieldName": "book_data"
@@ -598,9 +599,9 @@
       },
       "_dynamicDependencies": {
         "@local.book_data.id": [
-          "action_list.0.args.0",
-          "action_list.0._raw",
-          "action_list.0._cleaned"
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned"
         ]
       }
     }

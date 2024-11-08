@@ -447,36 +447,10 @@
         },
         {
           "name": "card_image",
-          "value": "@local.this_row.image_asset",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "items_loop.card_image",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.this_row.image_asset",
-                "matchedExpression": "@local.this_row.image_asset",
-                "type": "local",
-                "fieldName": "this_row"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.this_row.image_asset": [
-              "value"
-            ]
-          }
-        },
-        {
-          "name": "card_image",
           "value": "@local.this_row.image_cover_asset",
           "_translations": {
             "value": {}
           },
-          "condition": "@local.home_practice_type == \"books\"",
           "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items_loop.card_image",
@@ -488,22 +462,11 @@
                 "type": "local",
                 "fieldName": "this_row"
               }
-            ],
-            "condition": [
-              {
-                "fullExpression": "@local.home_practice_type == \"books\"",
-                "matchedExpression": "@local.home_practice_type",
-                "type": "local",
-                "fieldName": "home_practice_type"
-              }
             ]
           },
           "_dynamicDependencies": {
             "@local.this_row.image_cover_asset": [
               "value"
-            ],
-            "@local.home_practice_type": [
-              "condition"
             ]
           }
         },

@@ -127,7 +127,7 @@
               ],
               "parameter_list": {
                 "variant": "card-portrait",
-                "image_asset": "@item.image_asset"
+                "image_asset": "@item.image_cover_asset"
               },
               "exclude_from_translation": true,
               "rows": [
@@ -276,10 +276,10 @@
                 "parameter_list": {
                   "image_asset": [
                     {
-                      "fullExpression": "@item.image_asset",
-                      "matchedExpression": "@item.image_asset",
+                      "fullExpression": "@item.image_cover_asset",
+                      "matchedExpression": "@item.image_cover_asset",
                       "type": "item",
-                      "fieldName": "image_asset"
+                      "fieldName": "image_cover_asset"
                     }
                   ]
                 }
@@ -293,7 +293,7 @@
                   "action_list.0._raw",
                   "action_list.0._cleaned"
                 ],
-                "@item.image_asset": [
+                "@item.image_cover_asset": [
                   "parameter_list.image_asset"
                 ]
               }

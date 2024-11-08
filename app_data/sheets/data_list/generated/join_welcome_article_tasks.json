@@ -6,6 +6,7 @@
     {
       "id": "welcome_1",
       "category_id": "welcome",
+      "image_asset": "images/modules/join/join_1.svg",
       "text_1": "Well done for starting your ParentApp journey, it’s good to have you here.",
       "_translations": {
         "text_1": {},
@@ -43,7 +44,6 @@
           "eng": "We understand! Let’s first take a look at what you can expect from ParentApp."
         }
       },
-      "image_asset": "images/modules/join/join_1.svg",
       "media_type": "audio",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
@@ -59,6 +59,7 @@
     {
       "id": "welcome_2",
       "category_id": "welcome",
+      "image_asset": "images/modules/join/all_modules.svg",
       "text_1": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent.",
       "_translations": {
         "text_1": {}
@@ -68,12 +69,12 @@
           "eng": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent."
         }
       },
-      "image_asset": "New image",
       "completed": false
     },
     {
       "id": "welcome_3",
       "category_id": "welcome",
+      "image_asset": "images/modules/join/join_2.svg",
       "text_1": "Every ParentApp module will support you to:\n1. build a strong relationship with your child\n2. use books and stories to boost your child’s learning\n3. take care of yourself",
       "_translations": {
         "text_1": {},
@@ -93,7 +94,6 @@
           "eng": "One of the main goals of ParentApp for Kids is to help you build a strong and loving relationship with your child. Strong relationships with parents set children up for success in life. That’s why ParentApp offers tried and tested parenting tools to support you in your role as a parent.  \n\nWe know how important your child is to you, and that you want the very best for them. That’s why ParentApp has a digital library with books and guidance for how to use them to help your child learn. \n\nLastly: because we know how important YOU are to your children, ParentApp supports you to take care of yourself too."
         }
       },
-      "image_asset": "images/modules/join/join_2.svg",
       "media_type": "audio",
       "media_title": "Listen to learn more:",
       "media_transcript": "One of the main goals of ParentApp for Kids is to help you build a strong and loving relationship with your child. Strong relationships with parents set children up for success in life. That’s why ParentApp offers tried and tested parenting tools to support you in your role as a parent.  \n\nWe know how important your child is to you, and that you want the very best for them. That’s why ParentApp has a digital library with books and guidance for how to use them to help your child learn. \n\nLastly: because we know how important YOU are to your children, ParentApp supports you to take care of yourself too.",

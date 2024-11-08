@@ -232,8 +232,11 @@
         "title": {
           "eng": "**Question time:**"
         },
-        "quiz_1_question": {
+        "text_2": {
           "eng": "Think about the last time someone thanked you, or said you did something great."
+        },
+        "quiz_1_question": {
+          "eng": "How did it make you feel?"
         },
         "quiz_1_option_1_text": {
           "eng": "Happy"
@@ -275,8 +278,9 @@
           "eng": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right."
         }
       },
-      "title": "**Question time:**",
+      "text_2": "Think about the last time someone thanked you, or said you did something great.",
       "_translations": {
+        "text_2": {},
         "title": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {
@@ -301,11 +305,14 @@
         },
         "quiz_2_feedback_3": {}
       },
-      "quiz_1_option_1_image_asset": "images/modules/play/happy_emoji.svg",
+      "title": "**Question time:**",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/loved.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/valued.svg",
       "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
       "quiz_2_option_2_image_asset": "images/modules/play/angry_emoji.svg",
       "quiz_2_option_3_image_asset": "images/modules/play/tired_emoji.svg",
-      "quiz_1_question": "Think about the last time someone thanked you, or said you did something great.",
+      "quiz_1_question": "How did it make you feel?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_feedback_1": "Parents usually do not get thanked or praised enough.",
       "quiz_1_option_2_text": "Loved",
@@ -520,7 +527,7 @@
         }
       },
       "media_type": "audio",
-      "media_asset": "audio/modules/create/create_03.mp2",
+      "media_asset": "audio/modules/create/create_03.mp3",
       "media_title": "Listen to learn more:",
       "media_transcript": "Using positive responses such as “great”, “well done”, “that’s right”, “yes, tell me more”, “let’s try”, “how about” or “let’s see” during book activities will encourage your child to feel confident to interact with the book and with you. \nWhen you speak in a positive and enthusiastic way, your child will feel excited and will be eager to learn from the book and the story.",
       "completed": false

@@ -6,6 +6,7 @@
     {
       "id": "get_started_1",
       "category_id": "get_started",
+      "image_asset": "images/modules/join/join_22.svg",
       "text_1": "To get you started on your ParentApp journey, we’ve prepared some home activities for you:",
       "_translations": {
         "text_1": {},
@@ -19,7 +20,6 @@
           "eng": "🤝 **Play activities for you and your child.** \nThese activities provide opportunities to bond while also supporting your child’s learning.\n\n📖 **Digital books to share with your child.** \nFind a comfortable place to sit and share one of the many books available in the app. \n\n😌 **Short but powerful relaxing activities.** \nBeing a parent can be so stressful. Take a moment for yourself to relax, breathe or reflect."
         }
       },
-      "image_asset": "images/modules/join/join_22.svg",
       "text_2": "🤝 **Play activities for you and your child.** \nThese activities provide opportunities to bond while also supporting your child’s learning.\n\n📖 **Digital books to share with your child.** \nFind a comfortable place to sit and share one of the many books available in the app. \n\n😌 **Short but powerful relaxing activities.** \nBeing a parent can be so stressful. Take a moment for yourself to relax, breathe or reflect.",
       "completed": false
     }

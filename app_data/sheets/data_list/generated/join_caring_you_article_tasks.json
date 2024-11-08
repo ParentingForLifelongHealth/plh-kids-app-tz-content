@@ -6,6 +6,7 @@
     {
       "id": "caring_you_1",
       "category_id": "caring_you",
+      "image_asset": "images/modules/join/join_3.svg",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**ParentApp supports you to take care of yourself.**"
@@ -19,19 +20,18 @@
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "image_asset": "images/modules/join/join_3.svg",
       "text_2": "We often don’t look after ourselves enough. But this is so important, especially as a parent! \n\nReducing our stress and treating ourselves well helps us AND our children.",
       "completed": false
     },
     {
       "id": "caring_you_2",
       "category_id": "caring_you",
+      "image_asset": "images/modules/join/join_4.svg",
       "_translatedFields": {
         "text_2": {
           "eng": "Why is my wellbeing important to my child?"
         }
       },
-      "image_asset": "images/modules/join/join_4.svg",
       "text_2": "Why is my wellbeing important to my child?",
       "_translations": {
         "text_2": {}
@@ -71,6 +71,7 @@
     {
       "id": "caring_you_4",
       "category_id": "caring_you",
+      "image_asset": "images/modules/join/join_6.svg",
       "text_1": "Every week, ParentApp will support you to take a pause, relax, and look after yourself.",
       "_translations": {
         "text_1": {}
@@ -80,7 +81,6 @@
           "eng": "Every week, ParentApp will support you to take a pause, relax, and look after yourself."
         }
       },
-      "image_asset": "images/modules/join/join_6.svg",
       "completed": false
     }
   ]
