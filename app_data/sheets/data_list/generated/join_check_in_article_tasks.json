@@ -4,10 +4,10 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "check_in_1",
+      "id": "check_in_10",
       "category_id": "check_in",
       "attached_single_doc": "https://docs.google.com/document/d/1AUTWhsdOO6sBN5ffSyHEIiXseZ4TTlXLbnMLLOa2hXM",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
       "_translations": {
         "text_1": {
           "tz_sw": true
@@ -36,16 +36,16 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "So good to hear you are feeling well today. You are incredible!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -60,17 +60,17 @@
           "eng": "Sad"
         }
       },
-      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
       "quiz_1_option_2_text": "Okay",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_option_3_text": "Sad"
+      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
     }
   ]
 }
