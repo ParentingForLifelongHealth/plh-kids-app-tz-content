@@ -50,8 +50,8 @@
           "eng": "That’s okay! We are excited to get you started on your book-sharing journey."
         }
       },
-      "completed": false,
       "media_type": "video",
+      "media_asset": "https://drive.google.com/file/d/1khiG2vfEChUVCR0nL0kSQfcx1nx4VRFq/view?usp=share_link",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "media_title": "Watch this video to learn more:",
@@ -62,7 +62,7 @@
       "quiz_1_option_2_text": "Not really",
       "quiz_1_feedback_2": "That’s okay! We are excited to get you started on your book-sharing journey.",
       "text_2": "Sharing stories and looking at books together benefits children in many ways.",
-      "media_asset": "https://drive.google.com/file/d/1khiG2vfEChUVCR0nL0kSQfcx1nx4VRFq/view?usp=share_link"
+      "completed": false
     },
     {
       "id": "learn_books_2",
@@ -73,11 +73,11 @@
           "eng": "At what age can I start sharing books with my child?"
         }
       },
-      "completed": false,
       "text_2": "At what age can I start sharing books with my child?",
       "_translations": {
         "text_2": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "learn_books_3",
@@ -88,7 +88,8 @@
         "text_1": {},
         "media_title": {
           "tz_sw": true
-        }
+        },
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1": {
@@ -96,11 +97,16 @@
         },
         "media_title": {
           "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n\nI was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n\nWith my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n\nWith my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child."
         }
       },
-      "completed": false,
       "media_type": "audio",
-      "media_title": "Let’s hear from a caregiver:"
+      "media_asset": "audio/modules/join/learn_book_3.mp3",
+      "media_title": "Let’s hear from a caregiver:",
+      "media_transcript": "Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n\nI was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n\nWith my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n\nWith my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child.",
+      "completed": false
     },
     {
       "id": "learn_books_4",
@@ -111,11 +117,11 @@
           "eng": "How can I do book activities with my child if I struggle with reading myself?"
         }
       },
-      "completed": false,
       "text_2": "How can I do book activities with my child if I struggle with reading myself?",
       "_translations": {
         "text_2": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "learn_books_5",
@@ -138,11 +144,11 @@
         "media_title": {},
         "media_transcript": {}
       },
-      "completed": false,
       "media_type": "video",
+      "media_asset": "https://drive.google.com/file/d/1-rz_jvPgTxJnsugCL2UHWqpXveQvZEoV/view?usp=share_link",
       "media_title": "Watch to learn more:",
       "media_transcript": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.\n\nSo, find a few minutes a day, every day, to read with your child. It’s one of the greatest gifts you can give them.",
-      "media_asset": "https://drive.google.com/file/d/1-rz_jvPgTxJnsugCL2UHWqpXveQvZEoV/view?usp=share_link"
+      "completed": false
     },
     {
       "id": "learn_books_6",
@@ -165,11 +171,11 @@
           "eng": "Book activities are a great way to have fun together with your child. Let’s take a look at how you can share this book with your child in a playful and engaging way. \n\nThis book is all about the joy of playing. Join Lesedi as his imagination takes him all the way to the beach for an adventure! \n\nDescribe the pictures to your child and ask them questions about the story. Point to the sandbox and ask your chid: “What is this for?” Point to boy in the picture and ask: “How do you think he is feeling? What do you think he is going to do next?”\n\nMimic actions from the pictures or story. Together with your child, pretend to put your feet in the sand and wiggle your toes. Talk about what the sand would feel like? \n\nMimic the sound of the wind swooping in and blowing the umbrella away. Demonstrate surprise and ask your child how they would feel if that happened to them. \n\nRemember, book activities do not have to be serious. The goal is to make it a playful experience. We hope you enjoy the book and have fun together!"
         }
       },
-      "completed": false,
       "media_type": "video",
+      "media_asset": "https://drive.google.com/file/d/1uBZ8nDhlY26--nNJwbca4sfnBJ0IHJgM/view?usp=share_link",
       "media_title": "Watch to learn more:",
       "media_transcript": "Book activities are a great way to have fun together with your child. Let’s take a look at how you can share this book with your child in a playful and engaging way. \n\nThis book is all about the joy of playing. Join Lesedi as his imagination takes him all the way to the beach for an adventure! \n\nDescribe the pictures to your child and ask them questions about the story. Point to the sandbox and ask your chid: “What is this for?” Point to boy in the picture and ask: “How do you think he is feeling? What do you think he is going to do next?”\n\nMimic actions from the pictures or story. Together with your child, pretend to put your feet in the sand and wiggle your toes. Talk about what the sand would feel like? \n\nMimic the sound of the wind swooping in and blowing the umbrella away. Demonstrate surprise and ask your child how they would feel if that happened to them. \n\nRemember, book activities do not have to be serious. The goal is to make it a playful experience. We hope you enjoy the book and have fun together!",
-      "media_asset": "https://drive.google.com/file/d/1uBZ8nDhlY26--nNJwbca4sfnBJ0IHJgM/view?usp=share_link"
+      "completed": false
     },
     {
       "id": "learn_books_7",
@@ -180,11 +186,11 @@
           "eng": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?"
         }
       },
-      "completed": false,
       "text_2": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?",
       "_translations": {
         "text_2": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "learn_books_8",
@@ -207,9 +213,10 @@
           "eng": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!"
         }
       },
-      "completed": false,
+      "media_asset": "audio/modules/join/learn_book_8.mp3",
       "media_transcript": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!",
-      "text_2": "Let’s look at some of the ways that book activities build on this tradition:"
+      "text_2": "Let’s look at some of the ways that book activities build on this tradition:",
+      "completed": false
     },
     {
       "id": "learn_books_9",
@@ -243,8 +250,8 @@
           "eng": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning."
         }
       },
-      "completed": false,
-      "text_2": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning."
+      "text_2": "The good news is that ParentApp has a library full of digital books that you can share with your child using your phone. We also provide guidance for how to use these books in different ways to support your child’s learning.",
+      "completed": false
     }
   ]
 }

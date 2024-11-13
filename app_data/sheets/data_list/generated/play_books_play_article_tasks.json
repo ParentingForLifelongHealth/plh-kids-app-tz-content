@@ -12,11 +12,11 @@
           "eng": "Book activities can be playful too! Here are some ways that you can make book activities fun."
         }
       },
-      "completed": false,
       "text_1_facilitator": "Book activities can be playful too! Here are some ways that you can make book activities fun.",
       "_translations": {
         "text_1_facilitator": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "using_books_2",
@@ -68,8 +68,8 @@
           "eng": "This is a great way to keep children engaged and helps them understand what is happening in the story."
         }
       },
-      "completed": false,
-      "text_1_facilitator": "This is a great way to keep children engaged and helps them understand what is happening in the story."
+      "text_1_facilitator": "This is a great way to keep children engaged and helps them understand what is happening in the story.",
+      "completed": false
     },
     {
       "id": "using_books_4",

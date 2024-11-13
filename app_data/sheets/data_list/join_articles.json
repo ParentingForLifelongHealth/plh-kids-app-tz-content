@@ -43,6 +43,7 @@
       "category_id": "welcome",
       "image_asset": "images/modules/join/join_1.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/join/welcome_1.mp3",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1": "Well done for starting your ParentApp journey, it’s good to have you here.",
@@ -109,6 +110,7 @@
       "category_id": "welcome",
       "image_asset": "images/modules/join/join_2.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/join/welcome_2.mp3",
       "text_1": "Every ParentApp module will support you to:\n1. build a strong relationship with your child\n2. use books and stories to boost your child’s learning\n3. take care of yourself",
       "_translations": {
         "text_1": {},
@@ -211,7 +213,7 @@
       "id": "caring_child_1",
       "category_id": "caring_child",
       "image_asset": "images/modules/join/join_7.svg",
-      "media_asset": "audio",
+      "media_asset": "audio/modules/join/care_1.mp3",
       "text_1": "**ParentApp supports you to build a strong relationship with your child.**",
       "_translations": {
         "text_1": {},
@@ -395,12 +397,14 @@
       "category_id": "learn_books",
       "image_asset": "images/modules/join/join_14.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/join/learn_book_3.mp3",
       "text_1": "It is never too early to start! Children of all ages – even young babies – benefit from book activities.",
       "_translations": {
         "text_1": {},
         "media_title": {
           "tz_sw": true
-        }
+        },
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1": {
@@ -408,9 +412,13 @@
         },
         "media_title": {
           "eng": "Let’s hear from a caregiver:"
+        },
+        "media_transcript": {
+          "eng": "Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n\nI was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n\nWith my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n\nWith my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child."
         }
       },
-      "media_title": "Let’s hear from a caregiver:"
+      "media_title": "Let’s hear from a caregiver:",
+      "media_transcript": "Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n\nI was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n\nWith my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n\nWith my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child."
     },
     {
       "id": "learn_books_4",
@@ -496,6 +504,7 @@
       "id": "learn_books_8",
       "category_id": "learn_books",
       "image_asset": "images/modules/join/join_19.svg",
+      "media_asset": "audio/modules/join/learn_book_8.mp3",
       "text_1": "Great question. We know that in many cultures, including Africa, parents pass down values and life lessons to children through storytelling.",
       "_translations": {
         "text_1": {},

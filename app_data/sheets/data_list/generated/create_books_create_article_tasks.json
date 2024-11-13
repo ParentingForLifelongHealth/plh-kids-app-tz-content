@@ -20,8 +20,8 @@
           "eng": "Here are some ideas for how you can create positive interactions during book activities:"
         }
       },
-      "completed": false,
-      "text_1_facilitator": "Here are some ideas for how you can create positive interactions during book activities:"
+      "text_1_facilitator": "Here are some ideas for how you can create positive interactions during book activities:",
+      "completed": false
     },
     {
       "id": "using_books_2",
@@ -46,11 +46,11 @@
           "eng": "Using positive responses such as “great”, “well done”, “that’s right”, “yes, tell me more”, “let’s try”, “how about” or “let’s see” during book activities will encourage your child to feel confident to interact with the book and with you. \nWhen you speak in a positive and enthusiastic way, your child will feel excited and will be eager to learn from the book and the story."
         }
       },
-      "completed": false,
       "media_type": "audio",
       "media_asset": "audio/modules/create/create_03.mp3",
       "media_title": "Listen to learn more:",
-      "media_transcript": "Using positive responses such as “great”, “well done”, “that’s right”, “yes, tell me more”, “let’s try”, “how about” or “let’s see” during book activities will encourage your child to feel confident to interact with the book and with you. \nWhen you speak in a positive and enthusiastic way, your child will feel excited and will be eager to learn from the book and the story."
+      "media_transcript": "Using positive responses such as “great”, “well done”, “that’s right”, “yes, tell me more”, “let’s try”, “how about” or “let’s see” during book activities will encourage your child to feel confident to interact with the book and with you. \nWhen you speak in a positive and enthusiastic way, your child will feel excited and will be eager to learn from the book and the story.",
+      "completed": false
     },
     {
       "id": "using_books_3",
@@ -79,12 +79,12 @@
           "eng": "Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right. \nSo, if your child makes a mistake, avoid being critical or negative. You don’t have to be hard on your child, or make fun of them when they don’t know something.\nWhen your child points to a picture and calls it the wrong name – for example pointing to a tomato and calling it an apple, all you need to do is respond with the correct word. Instead of saying “no, that is wrong! How can you say that’s an apple?!” just respond by saying “that’s a tomato” This will help them learn the correct word, without making them feel discouraged to try again."
         }
       },
-      "completed": false,
       "media_type": "audio",
       "media_asset": "audio/modules/create/create_02.mp3",
       "media_title": "Listen to learn more:",
       "media_transcript": "Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right. \nSo, if your child makes a mistake, avoid being critical or negative. You don’t have to be hard on your child, or make fun of them when they don’t know something.\nWhen your child points to a picture and calls it the wrong name – for example pointing to a tomato and calling it an apple, all you need to do is respond with the correct word. Instead of saying “no, that is wrong! How can you say that’s an apple?!” just respond by saying “that’s a tomato” This will help them learn the correct word, without making them feel discouraged to try again.",
-      "text_1_facilitator": "Being critical will discourage your child from speaking or engaging in the activity."
+      "text_1_facilitator": "Being critical will discourage your child from speaking or engaging in the activity.",
+      "completed": false
     },
     {
       "id": "using_books_4",
@@ -103,8 +103,8 @@
           "eng": "Kindness and praise help children feel safe and confident, which helps them learn."
         }
       },
-      "completed": false,
-      "text_1_facilitator": "Kindness and praise help children feel safe and confident, which helps them learn."
+      "text_1_facilitator": "Kindness and praise help children feel safe and confident, which helps them learn.",
+      "completed": false
     }
   ]
 }

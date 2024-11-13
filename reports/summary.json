@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 560
+      "count": 562
     },
     {
       "type": "task_card",
@@ -162,13 +162,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "72526 KB",
-      "MB": "72.5 MB"
+      "KB": "77358 KB",
+      "MB": "77.4 MB"
     },
     {
       "assets": "unused",
-      "KB": "555 KB",
-      "MB": "0.6 MB"
+      "KB": "1063 KB",
+      "MB": "1.1 MB"
     }
   ],
   "assets_unused": [
@@ -187,6 +187,14 @@
     {
       "path": "android/splash.png",
       "size_kb": 156.5
+    },
+    {
+      "path": "audio/modules/create/power_create_2.mp3",
+      "size_kb": 266.6
+    },
+    {
+      "path": "audio/modules/create/power_create_4.mp3",
+      "size_kb": 241.2
     },
     {
       "path": "contents.json",
@@ -1344,32 +1352,32 @@
     {
       "path": "audio/modules/connect/connect_01.mp3",
       "count": 3,
-      "size_kb": 171.8
+      "size_kb": 314.5
     },
     {
       "path": "audio/modules/connect/connect_02.mp3",
       "count": 3,
-      "size_kb": 187.2
+      "size_kb": 208.1
     },
     {
       "path": "audio/modules/connect/connect_03.mp3",
       "count": 3,
-      "size_kb": 128.3
+      "size_kb": 249
     },
     {
       "path": "audio/modules/connect/connect_04.mp3",
       "count": 3,
-      "size_kb": 477.8
+      "size_kb": 507.1
     },
     {
       "path": "audio/modules/connect/connect_05.mp3",
       "count": 3,
-      "size_kb": 143.1
+      "size_kb": 293.8
     },
     {
       "path": "audio/modules/connect/connect_06.mp3",
       "count": 3,
-      "size_kb": 167.6
+      "size_kb": 280.8
     },
     {
       "path": "audio/modules/connect/connect_07.mp3",
@@ -1384,7 +1392,7 @@
     {
       "path": "audio/modules/connect/connect_09.mp3",
       "count": 3,
-      "size_kb": 254.9
+      "size_kb": 381.9
     },
     {
       "path": "audio/modules/create/create_01.mp3",
@@ -1402,6 +1410,56 @@
       "size_kb": 190.2
     },
     {
+      "path": "audio/modules/create/how_create_1.mp3",
+      "count": 3,
+      "size_kb": 281
+    },
+    {
+      "path": "audio/modules/create/how_create_5.mp3",
+      "count": 3,
+      "size_kb": 263.3
+    },
+    {
+      "path": "audio/modules/create/power_create_3.mp3",
+      "count": 3,
+      "size_kb": 216.2
+    },
+    {
+      "path": "audio/modules/create/power_create_5.mp3",
+      "count": 3,
+      "size_kb": 369.3
+    },
+    {
+      "path": "audio/modules/create/power_create_6.mp3",
+      "count": 3,
+      "size_kb": 272.9
+    },
+    {
+      "path": "audio/modules/join/care_1.mp3",
+      "count": 3,
+      "size_kb": 653.9
+    },
+    {
+      "path": "audio/modules/join/learn_book_3.mp3",
+      "count": 3,
+      "size_kb": 444.9
+    },
+    {
+      "path": "audio/modules/join/learn_book_8.mp3",
+      "count": 3,
+      "size_kb": 554.8
+    },
+    {
+      "path": "audio/modules/join/welcome_1.mp3",
+      "count": 3,
+      "size_kb": 385.5
+    },
+    {
+      "path": "audio/modules/join/welcome_2.mp3",
+      "count": 3,
+      "size_kb": 371.2
+    },
+    {
       "path": "audio/modules/play/play_01.mp3",
       "count": 3,
       "size_kb": 155.3
@@ -1409,7 +1467,7 @@
     {
       "path": "audio/modules/play/play_02.mp3",
       "count": 3,
-      "size_kb": 189.1
+      "size_kb": 239.6
     },
     {
       "path": "audio/modules/play/play_03.mp3",
@@ -1430,6 +1488,11 @@
       "path": "audio/modules/play/play_06.mp3",
       "count": 3,
       "size_kb": 159.8
+    },
+    {
+      "path": "audio/modules/play/play_07.mp3",
+      "count": 3,
+      "size_kb": 260.9
     },
     {
       "path": "audio/relax/relax_1.mp3",
@@ -3014,7 +3077,7 @@
     {
       "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
       "count": 3,
-      "size_kb": 14.5
+      "size_kb": 18
     },
     {
       "path": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg",
@@ -5873,7 +5936,7 @@
     },
     {
       "path": "images/learning_through_play/shadow_movie_1.svg",
-      "count": 2,
+      "count": 1,
       "size_kb": 3.3
     },
     {
@@ -5888,7 +5951,7 @@
     },
     {
       "path": "images/learning_through_play/shadow_movie_4.svg",
-      "count": 1,
+      "count": 2,
       "size_kb": 14.7
     },
     {
