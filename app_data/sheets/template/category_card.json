@@ -587,6 +587,16 @@
         },
         {
           "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_active_index",
+            "0"
+          ],
+          "_raw": "click | set_field: current_active_index: 0",
+          "_cleaned": "click | set_field: current_active_index: 0"
+        },
+        {
+          "trigger": "click",
           "action_id": "go_to",
           "args": [
             "@local.target_template"
@@ -647,7 +657,7 @@
               }
             ]
           },
-          "1": {
+          "2": {
             "args": {
               "0": [
                 {
@@ -729,9 +739,9 @@
           "_nested_name"
         ],
         "@local.target_template": [
-          "action_list.1.args.0",
-          "action_list.1._raw",
-          "action_list.1._cleaned"
+          "action_list.2.args.0",
+          "action_list.2._raw",
+          "action_list.2._cleaned"
         ],
         "@local.articles_data": [
           "parameter_list.task_group_data"

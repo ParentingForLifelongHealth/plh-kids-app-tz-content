@@ -5,13 +5,28 @@
   "rows": [
     {
       "name": "active_index",
-      "value": "+0",
+      "value": "@fields.current_active_index",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "active_index"
+      "_nested_name": "active_index",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.current_active_index",
+            "matchedExpression": "@fields.current_active_index",
+            "type": "fields",
+            "fieldName": "current_active_index"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.current_active_index": [
+          "value"
+        ]
+      }
     },
     {
       "type": "text",
@@ -349,50 +364,6 @@
       },
       "_dynamicDependencies": {
         "@local.concat_category_id": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "completed_field",
-      "value": "@local.module_id@local.join@local.category_id",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": false,
-      "type": "set_variable",
-      "_nested_name": "completed_field",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.module_id@local.join@local.category_id",
-            "matchedExpression": "@local.module_id",
-            "type": "local",
-            "fieldName": "module_id"
-          },
-          {
-            "fullExpression": "@local.module_id@local.join@local.category_id",
-            "matchedExpression": "@local.join",
-            "type": "local",
-            "fieldName": "join"
-          },
-          {
-            "fullExpression": "@local.module_id@local.join@local.category_id",
-            "matchedExpression": "@local.category_id",
-            "type": "local",
-            "fieldName": "category_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.module_id": [
-          "value"
-        ],
-        "@local.join": [
-          "value"
-        ],
-        "@local.category_id": [
           "value"
         ]
       }
@@ -757,7 +728,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": false,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "articles_data_list_name",
       "_dynamicFields": {
@@ -791,7 +762,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": false,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "articles_data",
       "_dynamicFields": {
@@ -817,6 +788,7 @@
         "value": {}
       },
       "exclude_from_translation": true,
+      "condition": false,
       "type": "set_variable",
       "_nested_name": "category_articles_data_list_name",
       "_dynamicFields": {
@@ -869,6 +841,7 @@
         "value": {}
       },
       "exclude_from_translation": true,
+      "condition": false,
       "type": "set_variable",
       "_nested_name": "category_articles_data",
       "_dynamicFields": {
@@ -949,36 +922,88 @@
       }
     },
     {
-      "name": "category_articles_length",
-      "value": "@calc((Object.keys(@local.category_articles_data)).length)",
-      "_translations": {
-        "value": {}
+      "type": "items",
+      "name": "find_category_articles_length",
+      "value": "@local.articles_data",
+      "parameter_list": {
+        "filter": "@item.category_id == @local.category_id"
       },
       "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "category_articles_length",
+      "rows": [
+        {
+          "name": "category_articles_length",
+          "value": "+@item._index + 1",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "condition": "@item._last",
+          "type": "set_variable",
+          "_nested_name": "find_category_articles_length.category_articles_length",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "+@item._index + 1",
+                "matchedExpression": "@item._index",
+                "type": "item",
+                "fieldName": "_index"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@item._last",
+                "matchedExpression": "@item._last",
+                "type": "item",
+                "fieldName": "_last"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item._index": [
+              "value"
+            ],
+            "@item._last": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "find_category_articles_length",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@calc((Object.keys(@local.category_articles_data)).length)",
-            "matchedExpression": "@local.category_articles_data",
+            "fullExpression": "@local.articles_data",
+            "matchedExpression": "@local.articles_data",
             "type": "local",
-            "fieldName": "category_articles_data"
-          },
-          {
-            "fullExpression": "@calc((Object.keys(@local.category_articles_data)).length)",
-            "matchedExpression": "@calc((Object.keys(@local.category_articles_data)).length)",
-            "type": "calc",
-            "fieldName": "(Object.keys(@local.category_articles_data)).length"
+            "fieldName": "articles_data"
           }
-        ]
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.category_id == @local.category_id",
+              "matchedExpression": "@item.category_id",
+              "type": "item",
+              "fieldName": "category_id"
+            },
+            {
+              "fullExpression": "@item.category_id == @local.category_id",
+              "matchedExpression": "@local.category_id",
+              "type": "local",
+              "fieldName": "category_id"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
-        "@local.category_articles_data": [
+        "@local.articles_data": [
           "value"
         ],
-        "@calc((Object.keys(@local.category_articles_data)).length)": [
-          "value"
+        "@item.category_id": [
+          "parameter_list.filter"
+        ],
+        "@local.category_id": [
+          "parameter_list.filter"
         ]
       }
     },
@@ -1009,11 +1034,122 @@
       }
     },
     {
+      "type": "items",
+      "name": "find_previous_category_articles_length",
+      "value": "@local.articles_data",
+      "parameter_list": {
+        "filter": "@item.category_id == @local.previous_category"
+      },
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "previous_category_articles_length",
+          "value": "+@item._index + 1",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "condition": "@item._last",
+          "type": "set_variable",
+          "_nested_name": "find_previous_category_articles_length.previous_category_articles_length",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "+@item._index + 1",
+                "matchedExpression": "@item._index",
+                "type": "item",
+                "fieldName": "_index"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@item._last",
+                "matchedExpression": "@item._last",
+                "type": "item",
+                "fieldName": "_last"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item._index": [
+              "value"
+            ],
+            "@item._last": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "find_previous_category_articles_length",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.articles_data",
+            "matchedExpression": "@local.articles_data",
+            "type": "local",
+            "fieldName": "articles_data"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.category_id == @local.previous_category",
+              "matchedExpression": "@item.category_id",
+              "type": "item",
+              "fieldName": "category_id"
+            },
+            {
+              "fullExpression": "@item.category_id == @local.previous_category",
+              "matchedExpression": "@local.previous_category",
+              "type": "local",
+              "fieldName": "previous_category"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.articles_data": [
+          "value"
+        ],
+        "@item.category_id": [
+          "parameter_list.filter"
+        ],
+        "@local.previous_category": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_prev_art_length",
+      "value": "Previous category articles length: @local.previous_category_articles_length",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "condition": false,
+      "_nested_name": "debug_prev_art_length",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Previous category articles length: @local.previous_category_articles_length",
+            "matchedExpression": "@local.previous_category_articles_length",
+            "type": "local",
+            "fieldName": "previous_category_articles_length"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.previous_category_articles_length": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "task_progress_bar",
       "name": "task_progress_bar",
       "parameter_list": {
-        "task_group_data": "@local.categories_data_list_name",
-        "completed_field": "completed"
+        "task_group_data": "@local.articles_data_list_name"
       },
       "exclude_from_translation": true,
       "_nested_name": "task_progress_bar",
@@ -1021,16 +1157,16 @@
         "parameter_list": {
           "task_group_data": [
             {
-              "fullExpression": "@local.categories_data_list_name",
-              "matchedExpression": "@local.categories_data_list_name",
+              "fullExpression": "@local.articles_data_list_name",
+              "matchedExpression": "@local.articles_data_list_name",
               "type": "local",
-              "fieldName": "categories_data_list_name"
+              "fieldName": "articles_data_list_name"
             }
           ]
         }
       },
       "_dynamicDependencies": {
-        "@local.categories_data_list_name": [
+        "@local.articles_data_list_name": [
           "parameter_list.task_group_data"
         ]
       }
@@ -1097,9 +1233,46 @@
     {
       "type": "data_items",
       "name": "enable_dynamic_data_actions",
-      "value": "@local.category_articles_data_list_name",
+      "value": "@local.articles_data_list_name",
+      "parameter_list": {
+        "filter": "@item.category_id == @local.category_id"
+      },
       "exclude_from_translation": true,
       "rows": [
+        {
+          "type": "text",
+          "name": "debug_loop",
+          "value": "@item.id at index @item._index",
+          "_translations": {
+            "value": {}
+          },
+          "condition": false,
+          "_nested_name": "enable_dynamic_data_actions.debug_loop",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.id at index @item._index",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              },
+              {
+                "fullExpression": "@item.id at index @item._index",
+                "matchedExpression": "@item._index",
+                "type": "item",
+                "fieldName": "_index"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value"
+            ],
+            "@item._index": [
+              "value"
+            ]
+          }
+        },
         {
           "type": "display_group",
           "name": "only_for_active_index",
@@ -1147,58 +1320,6 @@
                 "@local.join": [
                   "value"
                 ],
-                "@item.id": [
-                  "value"
-                ]
-              }
-            },
-            {
-              "name": "template_name",
-              "value": "@item.id",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "condition": false,
-              "type": "set_variable",
-              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.template_name",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "value"
-                ]
-              }
-            },
-            {
-              "name": "template_name",
-              "value": "@item.id",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "condition": false,
-              "type": "set_variable",
-              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.template_name",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
                 "@item.id": [
                   "value"
                 ]
@@ -1273,32 +1394,50 @@
                       "args": [
                         "evaluate"
                       ],
-                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
-                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                       "params": {
-                        "data_list_name": "modules",
+                        "data_list_name": "module_tasks",
                         "row_id": "@local.module_id"
                       }
                     },
                     {
                       "trigger": "completed",
-                      "action_id": "set_local",
+                      "action_id": "set_field",
                       "args": [
-                        "active_index",
+                        "current_active_index",
                         "@item._index  + 1"
                       ],
-                      "_raw": "completed | set_local: active_index: @item._index  + 1",
-                      "_cleaned": "completed | set_local: active_index: @item._index  + 1"
+                      "_raw": "completed | set_field: current_active_index: @item._index  + 1",
+                      "_cleaned": "completed | set_field: current_active_index: @item._index  + 1"
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "emit",
+                      "args": [
+                        "force_reload"
+                      ],
+                      "_raw": "completed | emit: force_reload",
+                      "_cleaned": "completed | emit: force_reload"
                     },
                     {
                       "trigger": "uncompleted",
-                      "action_id": "set_local",
+                      "action_id": "set_field",
                       "args": [
-                        "active_index",
+                        "current_active_index",
                         "@item._index  - 1"
                       ],
-                      "_raw": "uncompleted | set_local: active_index: @item._index  - 1",
-                      "_cleaned": "uncompleted | set_local: active_index: @item._index  - 1"
+                      "_raw": "uncompleted | set_field: current_active_index: @item._index  - 1",
+                      "_cleaned": "uncompleted | set_field: current_active_index: @item._index  - 1"
+                    },
+                    {
+                      "trigger": "uncompleted",
+                      "action_id": "emit",
+                      "args": [
+                        "force_reload"
+                      ],
+                      "_raw": "uncompleted | emit: force_reload",
+                      "_cleaned": "uncompleted | emit: force_reload"
                     }
                   ],
                   "exclude_from_translation": true,
@@ -1366,7 +1505,7 @@
                       "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -1374,7 +1513,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -1404,7 +1543,7 @@
                         },
                         "_raw": [
                           {
-                            "fullExpression": "completed | set_local: active_index: @item._index  + 1",
+                            "fullExpression": "completed | set_field: current_active_index: @item._index  + 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -1412,14 +1551,14 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | set_local: active_index: @item._index  + 1",
+                            "fullExpression": "completed | set_field: current_active_index: @item._index  + 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
                           }
                         ]
                       },
-                      "4": {
+                      "5": {
                         "args": {
                           "1": [
                             {
@@ -1432,7 +1571,7 @@
                         },
                         "_raw": [
                           {
-                            "fullExpression": "uncompleted | set_local: active_index: @item._index  - 1",
+                            "fullExpression": "uncompleted | set_field: current_active_index: @item._index  - 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -1440,7 +1579,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "uncompleted | set_local: active_index: @item._index  - 1",
+                            "fullExpression": "uncompleted | set_field: current_active_index: @item._index  - 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -1486,9 +1625,9 @@
                       "action_list.3.args.1",
                       "action_list.3._raw",
                       "action_list.3._cleaned",
-                      "action_list.4.args.1",
-                      "action_list.4._raw",
-                      "action_list.4._cleaned"
+                      "action_list.5.args.1",
+                      "action_list.5._raw",
+                      "action_list.5._cleaned"
                     ],
                     "!@item._last": [
                       "condition"
@@ -1541,13 +1680,22 @@
                     },
                     {
                       "trigger": "completed",
-                      "action_id": "set_local",
+                      "action_id": "set_field",
                       "args": [
-                        "active_index",
+                        "current_active_index",
                         "@item._index  + 1"
                       ],
-                      "_raw": "completed | set_local: active_index: @item._index  + 1",
-                      "_cleaned": "completed | set_local: active_index: @item._index  + 1"
+                      "_raw": "completed | set_field: current_active_index: @item._index  + 1",
+                      "_cleaned": "completed | set_field: current_active_index: @item._index  + 1"
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "emit",
+                      "args": [
+                        "force_reload"
+                      ],
+                      "_raw": "completed | emit: force_reload",
+                      "_cleaned": "completed | emit: force_reload"
                     },
                     {
                       "trigger": "uncompleted",
@@ -1558,6 +1706,16 @@
                       ],
                       "_raw": "uncompleted | set_field: current_category: @local.previous_category",
                       "_cleaned": "uncompleted | set_field: current_category: @local.previous_category"
+                    },
+                    {
+                      "trigger": "uncompleted",
+                      "action_id": "set_field",
+                      "args": [
+                        "current_active_index",
+                        "+@local.previous_category_articles_length - 1"
+                      ],
+                      "_raw": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                      "_cleaned": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1"
                     },
                     {
                       "trigger": "uncompleted",
@@ -1672,7 +1830,7 @@
                         },
                         "_raw": [
                           {
-                            "fullExpression": "completed | set_local: active_index: @item._index  + 1",
+                            "fullExpression": "completed | set_field: current_active_index: @item._index  + 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -1680,14 +1838,14 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | set_local: active_index: @item._index  + 1",
+                            "fullExpression": "completed | set_field: current_active_index: @item._index  + 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
                           }
                         ]
                       },
-                      "4": {
+                      "5": {
                         "args": {
                           "1": [
                             {
@@ -1712,6 +1870,34 @@
                             "matchedExpression": "@local.previous_category",
                             "type": "local",
                             "fieldName": "previous_category"
+                          }
+                        ]
+                      },
+                      "6": {
+                        "args": {
+                          "1": [
+                            {
+                              "fullExpression": "+@local.previous_category_articles_length - 1",
+                              "matchedExpression": "@local.previous_category_articles_length",
+                              "type": "local",
+                              "fieldName": "previous_category_articles_length"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                            "matchedExpression": "@local.previous_category_articles_length",
+                            "type": "local",
+                            "fieldName": "previous_category_articles_length"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                            "matchedExpression": "@local.previous_category_articles_length",
+                            "type": "local",
+                            "fieldName": "previous_category_articles_length"
                           }
                         ]
                       }
@@ -1756,9 +1942,14 @@
                       "action_list.3._cleaned"
                     ],
                     "@local.previous_category": [
-                      "action_list.4.args.1",
-                      "action_list.4._raw",
-                      "action_list.4._cleaned"
+                      "action_list.5.args.1",
+                      "action_list.5._raw",
+                      "action_list.5._cleaned"
+                    ],
+                    "@local.previous_category_articles_length": [
+                      "action_list.6.args.1",
+                      "action_list.6._raw",
+                      "action_list.6._cleaned"
                     ],
                     "@item._first": [
                       "condition"
@@ -1802,10 +1993,10 @@
                       "args": [
                         "evaluate"
                       ],
-                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
-                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                       "params": {
-                        "data_list_name": "modules",
+                        "data_list_name": "module_tasks",
                         "row_id": "@local.module_id"
                       }
                     },
@@ -1821,6 +2012,16 @@
                     },
                     {
                       "trigger": "completed",
+                      "action_id": "set_field",
+                      "args": [
+                        "current_active_index",
+                        "0"
+                      ],
+                      "_raw": "completed | set_field: current_active_index: 0",
+                      "_cleaned": "completed | set_field: current_active_index: 0"
+                    },
+                    {
+                      "trigger": "completed",
                       "action_id": "emit",
                       "args": [
                         "force_reload"
@@ -1830,13 +2031,22 @@
                     },
                     {
                       "trigger": "uncompleted",
-                      "action_id": "set_local",
+                      "action_id": "set_field",
                       "args": [
-                        "active_index",
+                        "current_active_index",
                         "@item._index  - 1"
                       ],
-                      "_raw": "uncompleted | set_local: active_index: @item._index  - 1",
-                      "_cleaned": "uncompleted | set_local: active_index: @item._index  - 1"
+                      "_raw": "uncompleted | set_field: current_active_index: @item._index  - 1",
+                      "_cleaned": "uncompleted | set_field: current_active_index: @item._index  - 1"
+                    },
+                    {
+                      "trigger": "uncompleted",
+                      "action_id": "emit",
+                      "args": [
+                        "force_reload"
+                      ],
+                      "_raw": "uncompleted | emit: force_reload",
+                      "_cleaned": "uncompleted | emit: force_reload"
                     }
                   ],
                   "exclude_from_translation": true,
@@ -1904,7 +2114,7 @@
                       "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -1912,7 +2122,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -1957,7 +2167,7 @@
                           }
                         ]
                       },
-                      "5": {
+                      "6": {
                         "args": {
                           "1": [
                             {
@@ -1970,7 +2180,7 @@
                         },
                         "_raw": [
                           {
-                            "fullExpression": "uncompleted | set_local: active_index: @item._index  - 1",
+                            "fullExpression": "uncompleted | set_field: current_active_index: @item._index  - 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -1978,7 +2188,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "uncompleted | set_local: active_index: @item._index  - 1",
+                            "fullExpression": "uncompleted | set_field: current_active_index: @item._index  - 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -2026,9 +2236,9 @@
                       "action_list.3._cleaned"
                     ],
                     "@item._index": [
-                      "action_list.5.args.1",
-                      "action_list.5._raw",
-                      "action_list.5._cleaned"
+                      "action_list.6.args.1",
+                      "action_list.6._raw",
+                      "action_list.6._cleaned"
                     ],
                     "@item._last": [
                       "condition"
@@ -2072,22 +2282,31 @@
                       "args": [
                         "evaluate"
                       ],
-                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
-                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                       "params": {
-                        "data_list_name": "modules",
+                        "data_list_name": "module_tasks",
                         "row_id": "@local.module_id"
                       }
                     },
                     {
                       "trigger": "completed",
-                      "action_id": "set_local",
+                      "action_id": "set_field",
                       "args": [
-                        "active_index",
+                        "current_active_index",
                         "@item._index  + 1"
                       ],
-                      "_raw": "completed | set_local: active_index: @item._index  + 1",
-                      "_cleaned": "completed | set_local: active_index: @item._index  + 1"
+                      "_raw": "completed | set_field: current_active_index: @item._index  + 1",
+                      "_cleaned": "completed | set_field: current_active_index: @item._index  + 1"
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "emit",
+                      "args": [
+                        "force_reload"
+                      ],
+                      "_raw": "completed | emit: force_reload",
+                      "_cleaned": "completed | emit: force_reload"
                     },
                     {
                       "trigger": "uncompleted",
@@ -2164,7 +2383,7 @@
                       "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -2172,7 +2391,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -2202,7 +2421,7 @@
                         },
                         "_raw": [
                           {
-                            "fullExpression": "completed | set_local: active_index: @item._index  + 1",
+                            "fullExpression": "completed | set_field: current_active_index: @item._index  + 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -2210,7 +2429,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | set_local: active_index: @item._index  + 1",
+                            "fullExpression": "completed | set_field: current_active_index: @item._index  + 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -2299,10 +2518,10 @@
                       "args": [
                         "evaluate"
                       ],
-                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
-                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                       "params": {
-                        "data_list_name": "modules",
+                        "data_list_name": "module_tasks",
                         "row_id": "@local.module_id"
                       }
                     },
@@ -2317,13 +2536,22 @@
                     },
                     {
                       "trigger": "uncompleted",
-                      "action_id": "set_local",
+                      "action_id": "set_field",
                       "args": [
-                        "active_index",
+                        "current_active_index",
                         "@item._index  - 1"
                       ],
-                      "_raw": "uncompleted | set_local: active_index: @item._index  - 1",
-                      "_cleaned": "uncompleted | set_local: active_index: @item._index  - 1"
+                      "_raw": "uncompleted | set_field: current_active_index: @item._index  - 1",
+                      "_cleaned": "uncompleted | set_field: current_active_index: @item._index  - 1"
+                    },
+                    {
+                      "trigger": "uncompleted",
+                      "action_id": "emit",
+                      "args": [
+                        "force_reload"
+                      ],
+                      "_raw": "uncompleted | emit: force_reload",
+                      "_cleaned": "uncompleted | emit: force_reload"
                     }
                   ],
                   "exclude_from_translation": true,
@@ -2391,7 +2619,7 @@
                       "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -2399,7 +2627,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -2429,7 +2657,7 @@
                         },
                         "_raw": [
                           {
-                            "fullExpression": "uncompleted | set_local: active_index: @item._index  - 1",
+                            "fullExpression": "uncompleted | set_field: current_active_index: @item._index  - 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -2437,7 +2665,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "uncompleted | set_local: active_index: @item._index  - 1",
+                            "fullExpression": "uncompleted | set_field: current_active_index: @item._index  - 1",
                             "matchedExpression": "@item._index",
                             "type": "item",
                             "fieldName": "_index"
@@ -2553,10 +2781,10 @@
                       "args": [
                         "evaluate"
                       ],
-                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
-                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                       "params": {
-                        "data_list_name": "modules",
+                        "data_list_name": "module_tasks",
                         "row_id": "@local.module_id"
                       }
                     },
@@ -2569,6 +2797,16 @@
                       ],
                       "_raw": "completed | set_field: current_category: @local.next_category",
                       "_cleaned": "completed | set_field: current_category: @local.next_category"
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "set_field",
+                      "args": [
+                        "current_active_index",
+                        "0"
+                      ],
+                      "_raw": "completed | set_field: current_active_index: 0",
+                      "_cleaned": "completed | set_field: current_active_index: 0"
                     },
                     {
                       "trigger": "completed",
@@ -2588,6 +2826,16 @@
                       ],
                       "_raw": "uncompleted | set_field: current_category: @local.previous_category",
                       "_cleaned": "uncompleted | set_field: current_category: @local.previous_category"
+                    },
+                    {
+                      "trigger": "uncompleted",
+                      "action_id": "set_field",
+                      "args": [
+                        "current_active_index",
+                        "+@local.previous_category_articles_length - 1"
+                      ],
+                      "_raw": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                      "_cleaned": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1"
                     },
                     {
                       "trigger": "uncompleted",
@@ -2664,7 +2912,7 @@
                       "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -2672,7 +2920,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -2717,7 +2965,7 @@
                           }
                         ]
                       },
-                      "5": {
+                      "6": {
                         "args": {
                           "1": [
                             {
@@ -2742,6 +2990,34 @@
                             "matchedExpression": "@local.previous_category",
                             "type": "local",
                             "fieldName": "previous_category"
+                          }
+                        ]
+                      },
+                      "7": {
+                        "args": {
+                          "1": [
+                            {
+                              "fullExpression": "+@local.previous_category_articles_length - 1",
+                              "matchedExpression": "@local.previous_category_articles_length",
+                              "type": "local",
+                              "fieldName": "previous_category_articles_length"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                            "matchedExpression": "@local.previous_category_articles_length",
+                            "type": "local",
+                            "fieldName": "previous_category_articles_length"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                            "matchedExpression": "@local.previous_category_articles_length",
+                            "type": "local",
+                            "fieldName": "previous_category_articles_length"
                           }
                         ]
                       }
@@ -2786,9 +3062,14 @@
                       "action_list.3._cleaned"
                     ],
                     "@local.previous_category": [
-                      "action_list.5.args.1",
-                      "action_list.5._raw",
-                      "action_list.5._cleaned"
+                      "action_list.6.args.1",
+                      "action_list.6._raw",
+                      "action_list.6._cleaned"
+                    ],
+                    "@local.previous_category_articles_length": [
+                      "action_list.7.args.1",
+                      "action_list.7._raw",
+                      "action_list.7._cleaned"
                     ],
                     "!@local.is_first_category": [
                       "condition"
@@ -2832,10 +3113,10 @@
                       "args": [
                         "evaluate"
                       ],
-                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
-                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                       "params": {
-                        "data_list_name": "modules",
+                        "data_list_name": "module_tasks",
                         "row_id": "@local.module_id"
                       }
                     },
@@ -2848,6 +3129,16 @@
                       ],
                       "_raw": "completed | set_field: current_category: @local.next_category",
                       "_cleaned": "completed | set_field: current_category: @local.next_category"
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "set_field",
+                      "args": [
+                        "current_active_index",
+                        "0"
+                      ],
+                      "_raw": "completed | set_field: current_active_index: 0",
+                      "_cleaned": "completed | set_field: current_active_index: 0"
                     },
                     {
                       "trigger": "completed",
@@ -2933,7 +3224,7 @@
                       "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -2941,7 +3232,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -3042,15 +3333,6 @@
                     },
                     {
                       "trigger": "completed",
-                      "action_id": "emit",
-                      "args": [
-                        "completed"
-                      ],
-                      "_raw": "completed | emit: completed",
-                      "_cleaned": "completed | emit: completed"
-                    },
-                    {
-                      "trigger": "completed",
                       "action_id": "task",
                       "args": [
                         "evaluate"
@@ -3068,12 +3350,21 @@
                       "args": [
                         "evaluate"
                       ],
-                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
-                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                       "params": {
-                        "data_list_name": "modules",
+                        "data_list_name": "module_tasks",
                         "row_id": "@local.module_id"
                       }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "emit",
+                      "args": [
+                        "completed"
+                      ],
+                      "_raw": "completed | emit: completed",
+                      "_cleaned": "completed | emit: completed"
                     },
                     {
                       "trigger": "uncompleted",
@@ -3084,6 +3375,16 @@
                       ],
                       "_raw": "uncompleted | set_field: current_category: @local.previous_category",
                       "_cleaned": "uncompleted | set_field: current_category: @local.previous_category"
+                    },
+                    {
+                      "trigger": "uncompleted",
+                      "action_id": "set_field",
+                      "args": [
+                        "current_active_index",
+                        "+@local.previous_category_articles_length - 1"
+                      ],
+                      "_raw": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                      "_cleaned": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1"
                     },
                     {
                       "trigger": "uncompleted",
@@ -3109,7 +3410,7 @@
                       }
                     ],
                     "action_list": {
-                      "2": {
+                      "1": {
                         "_raw": [
                           {
                             "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
@@ -3157,10 +3458,10 @@
                           ]
                         }
                       },
-                      "3": {
+                      "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -3168,7 +3469,7 @@
                         ],
                         "_cleaned": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
@@ -3212,6 +3513,34 @@
                             "fieldName": "previous_category"
                           }
                         ]
+                      },
+                      "5": {
+                        "args": {
+                          "1": [
+                            {
+                              "fullExpression": "+@local.previous_category_articles_length - 1",
+                              "matchedExpression": "@local.previous_category_articles_length",
+                              "type": "local",
+                              "fieldName": "previous_category_articles_length"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                            "matchedExpression": "@local.previous_category_articles_length",
+                            "type": "local",
+                            "fieldName": "previous_category_articles_length"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "uncompleted | set_field: current_active_index: +@local.previous_category_articles_length - 1",
+                            "matchedExpression": "@local.previous_category_articles_length",
+                            "type": "local",
+                            "fieldName": "previous_category_articles_length"
+                          }
+                        ]
                       }
                     },
                     "condition": [
@@ -3228,24 +3557,29 @@
                       "value"
                     ],
                     "@local.categories_data_list_name": [
-                      "action_list.2._raw",
-                      "action_list.2._cleaned",
-                      "action_list.2.params.data_list_name"
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.data_list_name"
                     ],
                     "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
                       "action_list.2._raw",
                       "action_list.2._cleaned",
                       "action_list.2.params.row_id"
-                    ],
-                    "@local.module_id": [
-                      "action_list.3._raw",
-                      "action_list.3._cleaned",
-                      "action_list.3.params.row_id"
                     ],
                     "@local.previous_category": [
                       "action_list.4.args.1",
                       "action_list.4._raw",
                       "action_list.4._cleaned"
+                    ],
+                    "@local.previous_category_articles_length": [
+                      "action_list.5.args.1",
+                      "action_list.5._raw",
+                      "action_list.5._cleaned"
                     ],
                     "@local.is_last_category": [
                       "condition"
@@ -3302,16 +3636,38 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.category_articles_data_list_name",
-            "matchedExpression": "@local.category_articles_data_list_name",
+            "fullExpression": "@local.articles_data_list_name",
+            "matchedExpression": "@local.articles_data_list_name",
             "type": "local",
-            "fieldName": "category_articles_data_list_name"
+            "fieldName": "articles_data_list_name"
           }
-        ]
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.category_id == @local.category_id",
+              "matchedExpression": "@item.category_id",
+              "type": "item",
+              "fieldName": "category_id"
+            },
+            {
+              "fullExpression": "@item.category_id == @local.category_id",
+              "matchedExpression": "@local.category_id",
+              "type": "local",
+              "fieldName": "category_id"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
-        "@local.category_articles_data_list_name": [
+        "@local.articles_data_list_name": [
           "value"
+        ],
+        "@item.category_id": [
+          "parameter_list.filter"
+        ],
+        "@local.category_id": [
+          "parameter_list.filter"
         ]
       }
     }
