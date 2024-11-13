@@ -330,6 +330,54 @@
       }
     },
     {
+      "name": "text_5",
+      "value": "@local.play_row.step_5_text",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "text_5",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.play_row.step_5_text",
+            "matchedExpression": "@local.play_row.step_5_text",
+            "type": "local",
+            "fieldName": "play_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.play_row.step_5_text": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "image_5",
+      "value": "@local.play_row.step_5_image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "image_5",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.play_row.step_5_image_asset",
+            "matchedExpression": "@local.play_row.step_5_image_asset",
+            "type": "local",
+            "fieldName": "play_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.play_row.step_5_image_asset": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "tips_1",
       "value": "@local.play_row.tips_text",
       "_translations": {

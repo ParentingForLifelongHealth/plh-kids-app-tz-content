@@ -23,8 +23,8 @@
           "tz_sw": true
         }
       },
-      "completed": false,
-      "text_1_facilitator": "Let’s hear from a caregiver:"
+      "text_1_facilitator": "Let’s hear from a caregiver:",
+      "completed": false
     },
     {
       "id": "the_power_of_connection_2",
@@ -64,11 +64,11 @@
           "eng": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?"
         }
       },
-      "completed": false,
       "image_text": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
       "_translations": {
         "image_text": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "the_power_of_connection_4",
@@ -95,8 +95,8 @@
         "text_1_facilitator": {}
       },
       "media_transcript": "Remember that what you experience, you can express. What you pour into your child’s cup is what will pour out. When your child experiences kindness and understanding, they learn how to do the same for other people. \n\nThis does not mean that you allow your child to do whatever they want without consequences. You can support your child to improve their behaviour while still showing them that your love for them does not change.",
-      "completed": false,
-      "text_1_facilitator": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy."
+      "text_1_facilitator": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy.",
+      "completed": false
     }
   ]
 }

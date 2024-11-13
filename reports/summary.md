@@ -17,7 +17,7 @@
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 560 |
+| set_variable | 562 |
 | task_card | 7 |
 | task_progress_bar | 1 |
 | template | 365 |
@@ -56,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 72526 KB | 72.5 MB |
-| unused | 555 KB | 0.6 MB |
+| total | 77358 KB | 77.4 MB |
+| unused | 1063 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -71,6 +71,8 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 73.7 |
 | android/icon.png | 80.4 |
 | android/splash.png | 156.5 |
+| audio/modules/create/power_create_2.mp3 | 266.6 |
+| audio/modules/create/power_create_4.mp3 | 241.2 |
 | contents.json | 5.9 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_white.svg | 0.7 |
@@ -325,24 +327,35 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
-| audio/modules/connect/connect_01.mp3 | 171.8 | 3 |
-| audio/modules/connect/connect_02.mp3 | 187.2 | 3 |
-| audio/modules/connect/connect_03.mp3 | 128.3 | 3 |
-| audio/modules/connect/connect_04.mp3 | 477.8 | 3 |
-| audio/modules/connect/connect_05.mp3 | 143.1 | 3 |
-| audio/modules/connect/connect_06.mp3 | 167.6 | 3 |
+| audio/modules/connect/connect_01.mp3 | 314.5 | 3 |
+| audio/modules/connect/connect_02.mp3 | 208.1 | 3 |
+| audio/modules/connect/connect_03.mp3 | 249 | 3 |
+| audio/modules/connect/connect_04.mp3 | 507.1 | 3 |
+| audio/modules/connect/connect_05.mp3 | 293.8 | 3 |
+| audio/modules/connect/connect_06.mp3 | 280.8 | 3 |
 | audio/modules/connect/connect_07.mp3 | 241.2 | 3 |
 | audio/modules/connect/connect_08.mp3 | 204.1 | 3 |
-| audio/modules/connect/connect_09.mp3 | 254.9 | 3 |
+| audio/modules/connect/connect_09.mp3 | 381.9 | 3 |
 | audio/modules/create/create_01.mp3 | 165.5 | 3 |
 | audio/modules/create/create_02.mp3 | 336.2 | 3 |
 | audio/modules/create/create_03.mp3 | 190.2 | 3 |
+| audio/modules/create/how_create_1.mp3 | 281 | 3 |
+| audio/modules/create/how_create_5.mp3 | 263.3 | 3 |
+| audio/modules/create/power_create_3.mp3 | 216.2 | 3 |
+| audio/modules/create/power_create_5.mp3 | 369.3 | 3 |
+| audio/modules/create/power_create_6.mp3 | 272.9 | 3 |
+| audio/modules/join/care_1.mp3 | 653.9 | 3 |
+| audio/modules/join/learn_book_3.mp3 | 444.9 | 3 |
+| audio/modules/join/learn_book_8.mp3 | 554.8 | 3 |
+| audio/modules/join/welcome_1.mp3 | 385.5 | 3 |
+| audio/modules/join/welcome_2.mp3 | 371.2 | 3 |
 | audio/modules/play/play_01.mp3 | 155.3 | 3 |
-| audio/modules/play/play_02.mp3 | 189.1 | 3 |
+| audio/modules/play/play_02.mp3 | 239.6 | 3 |
 | audio/modules/play/play_03.mp3 | 268.2 | 3 |
 | audio/modules/play/play_04.mp3 | 202.7 | 3 |
 | audio/modules/play/play_05.mp3 | 206.8 | 3 |
 | audio/modules/play/play_06.mp3 | 159.8 | 3 |
+| audio/modules/play/play_07.mp3 | 260.9 | 3 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
 | audio/relax/relax_10.mp3 | 404.9 | 3 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
@@ -659,7 +672,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/how_do_you_want_your_eggs/page7.jpg | 20.4 | 2 |
 | images/books/how_do_you_want_your_eggs/page8.jpg | 18.6 | 2 |
 | images/books/how_do_you_want_your_eggs/page9.jpg | 19.3 | 2 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg | 14.5 | 3 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg | 18 | 3 |
 | images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg | 25.3 | 5 |
 | images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg | 29.4 | 5 |
 | images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg | 34.3 | 5 |
@@ -1231,10 +1244,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/learning_through_play/senses_smell.svg | 178 | 2 |
 | images/learning_through_play/senses_taste.svg | 177.2 | 1 |
 | images/learning_through_play/senses_touch.svg | 185.6 | 1 |
-| images/learning_through_play/shadow_movie_1.svg | 3.3 | 2 |
+| images/learning_through_play/shadow_movie_1.svg | 3.3 | 1 |
 | images/learning_through_play/shadow_movie_2.svg | 5.6 | 1 |
 | images/learning_through_play/shadow_movie_3.svg | 3.4 | 1 |
-| images/learning_through_play/shadow_movie_4.svg | 14.7 | 1 |
+| images/learning_through_play/shadow_movie_4.svg | 14.7 | 2 |
 | images/learning_through_play/shadow_movie_circle.svg | 14.6 | 1 |
 | images/learning_through_play/simon_says.svg | 217 | 1 |
 | images/learning_through_play/simon_says_circle.svg | 192.7 | 1 |

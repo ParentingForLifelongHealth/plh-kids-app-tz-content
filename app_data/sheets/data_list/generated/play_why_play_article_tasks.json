@@ -59,8 +59,8 @@
           "tz_sw": true
         }
       },
-      "completed": false,
-      "title": "The ParentApp Garden"
+      "title": "The ParentApp Garden",
+      "completed": false
     },
     {
       "id": "why_play_3",
@@ -99,8 +99,8 @@
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "Fertiliser or “plant food” boosts the quality of the soil around the plant and the plant’s growth. When you sprinkle playfulness throughout your interactions with your child, it will make a big difference to their development. It doesn’t have to be a lot at once, but doing it regularly can improve your relationship while also helping your child learn important skills.",
-      "completed": false,
-      "title": "The ParentApp Garden"
+      "title": "The ParentApp Garden",
+      "completed": false
     }
   ]
 }

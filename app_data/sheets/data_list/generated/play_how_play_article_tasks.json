@@ -25,13 +25,14 @@
         }
       },
       "text_2": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
-      "completed": false,
-      "text_1_facilitator": "Here are some ideas for supporting your child through play:"
+      "text_1_facilitator": "Here are some ideas for supporting your child through play:",
+      "completed": false
     },
     {
       "id": "how_to_play_2",
       "category_id": "how_play",
       "image_asset": "images/modules/play/how_to_play_2.svg",
+      "media_asset": "audio/modules/play/play_07.mp3",
       "_translatedFields": {
         "text_2": {
           "eng": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development."
@@ -92,8 +93,8 @@
         }
       },
       "media_transcript": "When I first heard that playing with my child was important, I was not interested in trying it. My father never used to play with me when I was a child. I didn’t think it was something that parents do. But one day, I saw my child playing outside and I decided to take a closer look. I was actually amazed at what my child had built with just rocks, sticks and some cardboard boxes. I told my child I thought that it looked really great. Together we created animals using cardboard pieces and some sticks. It was quite fun to build something together, and to see how much my child enjoyed it.\n\nI really like that ParentApp has suggestions for different activities that I can do with my child. It makes it easier for me to decide what to do when my child and I are together.",
-      "completed": false,
-      "text_1_facilitator": "Let’s hear from a caregiver:"
+      "text_1_facilitator": "Let’s hear from a caregiver:",
+      "completed": false
     }
   ]
 }

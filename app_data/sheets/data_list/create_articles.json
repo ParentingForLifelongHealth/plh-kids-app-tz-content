@@ -85,6 +85,7 @@
       "category_id": "how_create",
       "image_asset": "images/modules/create/create_4.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/create/how_create_1.mp3",
       "text_1_facilitator": "Here’s how you can create a positive environment for your child:",
       "_translations": {
         "text_1_facilitator": {},
@@ -164,6 +165,7 @@
       "category_id": "how_create",
       "image_asset": "images/modules/create/create_8.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/create/how_create_5.mp3",
       "text_2": "That’s right - a cheetah! Positive, clear instructions help children focus on what they should be doing.",
       "_translations": {
         "text_2": {},
@@ -324,6 +326,7 @@
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_12.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_2.mp2",
       "text_1_facilitator": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:",
       "_translations": {
         "text_1_facilitator": {},
@@ -354,6 +357,7 @@
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_13.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_3.mp3",
       "image_text": "Catch!",
       "_translations": {
         "image_text": {},
@@ -379,6 +383,7 @@
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_14.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_4.mp2",
       "image_text": "Neema, Robert - it’s time to put the ball away and come inside now.",
       "_translations": {
         "image_text": {},
@@ -404,6 +409,7 @@
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_15.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_5.mp3",
       "image_text": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story.",
       "_translations": {
         "image_text": {},
@@ -429,6 +435,7 @@
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_16.svg",
       "media_type": "audio",
+      "media_asset": "audio/modules/create/power_create_6.mp3",
       "image_text": "Thank you for washing up so nicely. Let’s sit down and read a story together.",
       "_translations": {
         "image_text": {},
