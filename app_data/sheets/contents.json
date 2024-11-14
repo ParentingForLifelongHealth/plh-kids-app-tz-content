@@ -250,6 +250,12 @@
       "flow_name": "resource_categories",
       "data_list_name": "resource_categories",
       "_xlsxPath": "TZ resource centre.xlsx"
+    },
+    "resource_categories_2": {
+      "flow_type": "data_list",
+      "flow_name": "resource_categories_2",
+      "data_list_name": "resource_categories_2",
+      "_xlsxPath": "TZ resource centre.xlsx"
     }
   },
   "data_pipe": {
@@ -2428,6 +2434,11 @@
       "flow_name": "activity_carousel",
       "_xlsxPath": "TZ resource centre.xlsx"
     },
+    "activity_carousel_2": {
+      "flow_type": "template",
+      "flow_name": "activity_carousel_2",
+      "_xlsxPath": "TZ resource centre.xlsx"
+    },
     "app_about": {
       "flow_type": "template",
       "flow_name": "app_about",
@@ -4448,6 +4459,11 @@
     "resource_centre": {
       "flow_type": "template",
       "flow_name": "resource_centre",
+      "_xlsxPath": "TZ resource centre.xlsx"
+    },
+    "resource_centre_2": {
+      "flow_type": "template",
+      "flow_name": "resource_centre_2",
       "_xlsxPath": "TZ resource centre.xlsx"
     },
     "section": {

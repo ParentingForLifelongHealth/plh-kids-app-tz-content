@@ -1,0 +1,57 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "resource_categories_2",
+  "status": "released",
+  "data_list_name": "resource_categories_2",
+  "rows": [
+    {
+      "id": "support",
+      "name": "support_contacts",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "support_contacts"
+        }
+      }
+    },
+    {
+      "id": "additional_resources",
+      "name": "additional_resources",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "additional_resources"
+        }
+      }
+    },
+    {
+      "id": "relax",
+      "name": "relax",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "relax"
+        }
+      }
+    },
+    {
+      "id": "play",
+      "name": "play",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "play"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "TZ resource centre.xlsx"
+}
