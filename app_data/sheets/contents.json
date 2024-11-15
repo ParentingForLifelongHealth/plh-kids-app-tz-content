@@ -121,6 +121,16 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
+    "join_check_in": {
+      "flow_name": "join_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "join_general_relax": {
+      "flow_name": "join_general_relax",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "module_tasks": {
       "flow_name": "module_tasks",
       "flow_subtype": "generated",
@@ -128,6 +138,11 @@
     },
     "modules_released": {
       "flow_name": "modules_released",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    "modules_released_not_join": {
+      "flow_name": "modules_released_not_join",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -319,18 +334,6 @@
         }
       ]
     },
-    "prep_join_articles": {
-      "flow_name": "prep_join_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "join_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
     "prep_join_categories": {
       "flow_name": "prep_join_categories",
       "flow_subtype": "generated",
@@ -367,6 +370,29 @@
         }
       ]
     },
+    "prep_join_articles": {
+      "flow_type": "data_pipe",
+      "flow_name": "prep_join_articles",
+      "comment": "Necessary since join has a few extra relax articles",
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "join_general_relax",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "join_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "join_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
     "prep_modules": {
       "flow_type": "data_pipe",
       "flow_name": "prep_modules",
@@ -374,6 +400,11 @@
       "_output_flows": [
         {
           "flow_name": "modules_released",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "modules_released_not_join",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         },
@@ -1666,7 +1697,7 @@
       "flow_type": "generator",
       "flow_name": "gen_prep_articles",
       "parameter_list": {
-        "input_data_list": "modules_released",
+        "input_data_list": "modules_released_not_join",
         "output_flow_name": "prep_{@gen.id}_articles",
         "output_flow_type": "data_pipe",
         "output_flow_subtype": "generated"
@@ -1674,11 +1705,6 @@
       "comment": "could be a global sheet, same as KW",
       "_xlsxPath": "modules/TZ modules data pipes.xlsx",
       "_output_flows": [
-        {
-          "flow_name": "prep_join_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
         {
           "flow_name": "prep_connect_articles",
           "flow_subtype": "generated",
@@ -2432,11 +2458,6 @@
     "activity_carousel": {
       "flow_type": "template",
       "flow_name": "activity_carousel",
-      "_xlsxPath": "TZ resource centre.xlsx"
-    },
-    "activity_carousel_2": {
-      "flow_type": "template",
-      "flow_name": "activity_carousel_2",
       "_xlsxPath": "TZ resource centre.xlsx"
     },
     "app_about": {
@@ -4445,6 +4466,11 @@
       "flow_type": "template",
       "flow_name": "relax_activities",
       "_xlsxPath": "templates/relax_activities.xlsx"
+    },
+    "relax_activity": {
+      "flow_type": "template",
+      "flow_name": "relax_activity",
+      "_xlsxPath": "TZ resource centre.xlsx"
     },
     "relax_animation": {
       "flow_type": "template",

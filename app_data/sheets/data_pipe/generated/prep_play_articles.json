@@ -34,9 +34,9 @@
     {
       "operation": "concat",
       "args_list": [
-        "play_articles",
         "play_relax",
-        "play_check_in"
+        "play_check_in",
+        "play_articles"
       ],
       "input_source": false
     },

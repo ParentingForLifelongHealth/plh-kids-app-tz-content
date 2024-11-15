@@ -1,53 +1,8 @@
 {
-  "flow_name": "module_tasks",
+  "flow_name": "modules_released_not_join",
   "flow_subtype": "generated",
   "flow_type": "data_list",
   "rows": [
-    {
-      "id": "join",
-      "status": "released",
-      "number": "1",
-      "facilitator_gender": "man",
-      "check_in_id": "check_in_10",
-      "relax_id": "relax_4",
-      "relax_id_list": [
-        "relax_25",
-        "relax_9",
-        "relax_4"
-      ],
-      "play_id_list": [
-        "happy_things",
-        "gardening",
-        "something_special"
-      ],
-      "books_id_list": [
-        "little_shoots",
-        "things_that_matter"
-      ],
-      "image_asset": "images/modules/join/join_title_image.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "JOIN",
-      "_translations": {
-        "title": {},
-        "description": {},
-        "congratulation_text": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "JOIN"
-        },
-        "description": {
-          "eng": "Welcome to the ParentApp for Kids community!"
-        },
-        "congratulation_text": {
-          "eng": "Well done for finishing the JOIN module!"
-        }
-      },
-      "description": "Welcome to the ParentApp for Kids community!",
-      "congratulation_text": "Well done for finishing the JOIN module!",
-      "completed": false,
-      "task_child": "join_article_tasks"
-    },
     {
       "id": "connect",
       "status": "released",
@@ -89,9 +44,7 @@
         }
       },
       "description": "Making time to connect with your child helps build a strong and positive relationship.",
-      "congratulation_text": "Well done for finishing the CONNECT module!",
-      "completed": false,
-      "task_child": "connect_article_tasks"
+      "congratulation_text": "Well done for finishing the CONNECT module!"
     },
     {
       "id": "create",
@@ -134,9 +87,7 @@
         }
       },
       "description": "Create a positive and supportive environment for your child to learn in.",
-      "congratulation_text": "Well done for finishing the CREATE module!",
-      "completed": false,
-      "task_child": "create_article_tasks"
+      "congratulation_text": "Well done for finishing the CREATE module!"
     },
     {
       "id": "play",
@@ -179,9 +130,7 @@
         }
       },
       "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
-      "congratulation_text": "Well done for finishing the PLAY module!",
-      "completed": false,
-      "task_child": "play_article_tasks"
+      "congratulation_text": "Well done for finishing the PLAY module!"
     }
   ]
 }

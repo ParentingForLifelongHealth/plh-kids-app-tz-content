@@ -12,10 +12,18 @@
       "output_target": "modules_released"
     },
     {
+      "operation": "filter",
+      "args_list": [
+        "id != \"join\""
+      ],
+      "input_source": "modules_released",
+      "output_target": "modules_released_not_join"
+    },
+    {
       "operation": "append_columns",
       "args_list": [
         "completed: FALSE",
-        "task_child: {@row.id}_category_tasks"
+        "task_child: {@row.id}_article_tasks"
       ],
       "input_source": "modules_released",
       "output_target": "module_tasks"
@@ -25,6 +33,11 @@
   "_output_flows": [
     {
       "flow_name": "modules_released",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "modules_released_not_join",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },

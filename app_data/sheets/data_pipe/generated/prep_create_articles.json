@@ -34,9 +34,9 @@
     {
       "operation": "concat",
       "args_list": [
-        "create_articles",
         "create_relax",
-        "create_check_in"
+        "create_check_in",
+        "create_articles"
       ],
       "input_source": false
     },

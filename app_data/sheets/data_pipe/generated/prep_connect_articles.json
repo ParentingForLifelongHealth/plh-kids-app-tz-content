@@ -34,9 +34,9 @@
     {
       "operation": "concat",
       "args_list": [
-        "connect_articles",
         "connect_relax",
-        "connect_check_in"
+        "connect_check_in",
+        "connect_articles"
       ],
       "input_source": false
     },
