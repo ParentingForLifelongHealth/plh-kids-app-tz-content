@@ -16,9 +16,7 @@
         "title": {
           "eng": "Relax"
         }
-      },
-      "completed": false,
-      "task_child": "create_relax_article_tasks"
+      }
     },
     {
       "id": "check_in",
@@ -33,9 +31,7 @@
         "title": {
           "eng": "Check-in"
         }
-      },
-      "completed": false,
-      "task_child": "create_check_in_article_tasks"
+      }
     },
     {
       "id": "why_create",
@@ -48,9 +44,7 @@
         "title": {
           "eng": "Why CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_why_create_article_tasks"
+      }
     },
     {
       "id": "how_create",
@@ -63,9 +57,7 @@
         "title": {
           "eng": "How to CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_how_create_article_tasks"
+      }
     },
     {
       "id": "power_create",
@@ -78,9 +70,7 @@
         "title": {
           "eng": "The power of CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_power_create_article_tasks"
+      }
     },
     {
       "id": "books_create",
@@ -93,9 +83,7 @@
         "title": {
           "eng": "Using books to CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_books_create_article_tasks"
+      }
     },
     {
       "id": "practice",
@@ -110,9 +98,7 @@
         "title": {
           "eng": "Ready to practice?"
         }
-      },
-      "completed": false,
-      "task_child": "create_practice_article_tasks"
+      }
     }
   ]
 }

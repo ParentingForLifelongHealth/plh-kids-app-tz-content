@@ -3939,8 +3939,8 @@
     "size_kb": 0.5
   },
   "images/icons/book_blue.svg": {
-    "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
-    "size_kb": 0.7
+    "md5Checksum": "d7260189e7cc10027b213666923daedf",
+    "size_kb": 1.1
   },
   "images/icons/book_outline_blue.svg": {
     "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
@@ -4027,8 +4027,8 @@
     "size_kb": 3.4
   },
   "images/icons/hands_hold_heart_blue.svg": {
-    "md5Checksum": "5ecc4b49813c9e34fd4b1bbd320630e6",
-    "size_kb": 2.3
+    "md5Checksum": "d75f67199c7189fde4be4409642dc822",
+    "size_kb": 2.9
   },
   "images/icons/hands_hold_heart_white.svg": {
     "md5Checksum": "aa503c521dd484ef221ec6093ca8269f",
@@ -4110,13 +4110,21 @@
     "md5Checksum": "49e1d1e478068a24949d87d09c9ba07b",
     "size_kb": 0.8
   },
+  "images/icons/resource_library_blue.svg": {
+    "md5Checksum": "4941c2736f95632c6d77b8a5a9ae19fd",
+    "size_kb": 4.1
+  },
+  "images/icons/resource_library_white.svg": {
+    "md5Checksum": "bb5ef05827150059d811e212c87ecc93",
+    "size_kb": 4.1
+  },
   "images/icons/smile_eyes_down.svg": {
     "md5Checksum": "3e00c1fa0db9fabcfe65d6846e833c6e",
     "size_kb": 0.9
   },
   "images/icons/smile_eyes_down_blue.svg": {
-    "md5Checksum": "3e00c1fa0db9fabcfe65d6846e833c6e",
-    "size_kb": 0.9
+    "md5Checksum": "7380acff6bfc4996f7e354dc26529f46",
+    "size_kb": 1.4
   },
   "images/icons/smile_eyes_up.svg": {
     "md5Checksum": "0fc25de0fd953eb65f9cb4a519aee45f",
@@ -4431,12 +4439,12 @@
     "size_kb": 77.1
   },
   "images/modules/connect/thumbs_down_brown.svg": {
-    "md5Checksum": "6272850a8bdeb61cc1f453a42ebdc7fb",
-    "size_kb": 2
+    "md5Checksum": "0a3f1e3ca4c070685c5bf9e6e6391769",
+    "size_kb": 2.2
   },
   "images/modules/connect/thumbs_up_brown.svg": {
-    "md5Checksum": "fb7fc409c76aa276e041d3d228253570",
-    "size_kb": 2
+    "md5Checksum": "aad02f623503da481a2546d851dd97dc",
+    "size_kb": 2.2
   },
   "images/modules/create/create_1.svg": {
     "md5Checksum": "b5d6a150420b710c9e2eb0f59a8391a6",
@@ -4481,6 +4489,10 @@
   "images/modules/create/create_19.svg": {
     "md5Checksum": "f158b85ca4497f877eaf4508f51eaae9",
     "size_kb": 197
+  },
+  "images/modules/create/create_2.svg": {
+    "md5Checksum": "0b8999c91950dd894e3862bec5244a78",
+    "size_kb": 196
   },
   "images/modules/create/create_20.svg": {
     "md5Checksum": "681246231f053860386813c3ed43528b",
@@ -4627,20 +4639,20 @@
     "size_kb": 20.7
   },
   "images/modules/play/angry_emoji.svg": {
-    "md5Checksum": "8a09518d837d6cc353005dbacc3124ef",
-    "size_kb": 1.4
+    "md5Checksum": "b41a005db3a07117309da2a2e40f655e",
+    "size_kb": 2.8
   },
   "images/modules/play/awake_emoji.svg": {
-    "md5Checksum": "0c8bcdeca9597284966565e897737eaf",
-    "size_kb": 1.9
+    "md5Checksum": "726c96e0e2da270bdfdce79374cad329",
+    "size_kb": 1.7
   },
   "images/modules/play/frustrated_emoji.svg": {
-    "md5Checksum": "7fccb4604b3e34e5b61e670efe924ef6",
-    "size_kb": 1.8
+    "md5Checksum": "1b4cb0bd041179650e541b5b2232e708",
+    "size_kb": 1.7
   },
   "images/modules/play/happy_emoji.svg": {
-    "md5Checksum": "8d38f0370062db39bc81fd98636ee33e",
-    "size_kb": 2.2
+    "md5Checksum": "25056eb6a5ea158c22141893ed57337d",
+    "size_kb": 1.8
   },
   "images/modules/play/how_to_play_1.svg": {
     "md5Checksum": "66b8cefb207d22e4b39de3a38be283bb",
@@ -4691,16 +4703,16 @@
     "size_kb": 34.3
   },
   "images/modules/play/sad_emoji.svg": {
-    "md5Checksum": "39f6f76bf848e6049f845b2bcfab1d12",
-    "size_kb": 1.7
+    "md5Checksum": "15e811437ae26d0ffe5655465380ee32",
+    "size_kb": 1.5
   },
   "images/modules/play/scared_emoji.svg": {
-    "md5Checksum": "ab07039d6b9048382dafb90d5597d3b3",
-    "size_kb": 1.9
+    "md5Checksum": "3953316a69f0c6eee3f2433b1e3b9e86",
+    "size_kb": 1.8
   },
   "images/modules/play/tired_emoji.svg": {
-    "md5Checksum": "3394dcfb58addab7eca23c15891924d2",
-    "size_kb": 1.5
+    "md5Checksum": "a92e1cf41750d1a513ea64835bf0ce17",
+    "size_kb": 1.3
   },
   "images/modules/play/using_books_1.svg": {
     "md5Checksum": "c4c85224fdca4e4b30e05351e16beb26",

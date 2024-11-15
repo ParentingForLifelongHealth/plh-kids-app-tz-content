@@ -16,7 +16,7 @@
       "args_list": [
         "category_id: relax"
       ],
-      "output_target": "join_general_relax"
+      "output_target": "join_general_relax | local_only;"
     },
     {
       "operation": "filter",
@@ -46,7 +46,7 @@
       "args_list": [
         "category_id: check_in"
       ],
-      "output_target": "join_check_in"
+      "output_target": "join_check_in | local_only;"
     },
     {
       "operation": "concat",
@@ -68,16 +68,6 @@
   ],
   "_xlsxPath": "modules/TZ modules data pipes.xlsx",
   "_output_flows": [
-    {
-      "flow_name": "join_general_relax",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    {
-      "flow_name": "join_check_in",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     {
       "flow_name": "join_article_tasks",
       "flow_subtype": "generated",

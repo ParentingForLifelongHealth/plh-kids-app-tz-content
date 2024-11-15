@@ -293,7 +293,6 @@
       "type": "template",
       "name": "header",
       "value": "header",
-      "condition": false,
       "exclude_from_translation": true,
       "rows": [
         {

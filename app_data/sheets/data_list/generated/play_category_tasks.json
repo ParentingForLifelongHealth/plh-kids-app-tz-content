@@ -16,9 +16,7 @@
         "title": {
           "eng": "Relax"
         }
-      },
-      "completed": false,
-      "task_child": "play_relax_article_tasks"
+      }
     },
     {
       "id": "check_in",
@@ -33,9 +31,7 @@
         "title": {
           "eng": "Check-in"
         }
-      },
-      "completed": false,
-      "task_child": "play_check_in_article_tasks"
+      }
     },
     {
       "id": "why_play",
@@ -50,9 +46,7 @@
         "title": {
           "eng": "Why PLAY"
         }
-      },
-      "completed": false,
-      "task_child": "play_why_play_article_tasks"
+      }
     },
     {
       "id": "how_play",
@@ -67,9 +61,7 @@
         "title": {
           "eng": "How to PLAY"
         }
-      },
-      "completed": false,
-      "task_child": "play_how_play_article_tasks"
+      }
     },
     {
       "id": "power_play",
@@ -84,9 +76,7 @@
         "title": {
           "eng": "The power of PLAY"
         }
-      },
-      "completed": false,
-      "task_child": "play_power_play_article_tasks"
+      }
     },
     {
       "id": "books_play",
@@ -101,9 +91,7 @@
         "title": {
           "eng": "Using books to PLAY"
         }
-      },
-      "completed": false,
-      "task_child": "play_books_play_article_tasks"
+      }
     },
     {
       "id": "practice",
@@ -118,9 +106,7 @@
         "title": {
           "eng": "Ready to practice?"
         }
-      },
-      "completed": false,
-      "task_child": "play_practice_article_tasks"
+      }
     }
   ]
 }

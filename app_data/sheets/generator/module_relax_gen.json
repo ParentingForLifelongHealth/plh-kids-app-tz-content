@@ -11,6 +11,21 @@
   "rows": [
     {
       "type": "template",
+      "name": "header",
+      "value": "header",
+      "rows": [
+        {
+          "name": "title",
+          "value": "@data.common_categories.relax.title"
+        },
+        {
+          "name": "icon_asset",
+          "value": "@data.common_categories.relax.icon_asset"
+        }
+      ]
+    },
+    {
+      "type": "template",
       "name": "relax",
       "value": "relax",
       "action_list": [

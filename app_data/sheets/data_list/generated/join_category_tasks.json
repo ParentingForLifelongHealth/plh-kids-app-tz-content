@@ -16,9 +16,7 @@
         "title": {
           "eng": "Relax"
         }
-      },
-      "completed": false,
-      "task_child": "join_relax_article_tasks"
+      }
     },
     {
       "id": "check_in",
@@ -33,9 +31,7 @@
         "title": {
           "eng": "Check-in"
         }
-      },
-      "completed": false,
-      "task_child": "join_check_in_article_tasks"
+      }
     },
     {
       "id": "welcome",
@@ -48,9 +44,7 @@
         "title": {
           "eng": "Welcome!"
         }
-      },
-      "completed": false,
-      "task_child": "join_welcome_article_tasks"
+      }
     },
     {
       "id": "caring_you",
@@ -63,9 +57,7 @@
         "title": {
           "eng": "Caring for yourself"
         }
-      },
-      "completed": false,
-      "task_child": "join_caring_you_article_tasks"
+      }
     },
     {
       "id": "caring_child",
@@ -78,9 +70,7 @@
         "title": {
           "eng": "Caring for your child"
         }
-      },
-      "completed": false,
-      "task_child": "join_caring_child_article_tasks"
+      }
     },
     {
       "id": "learn_books",
@@ -93,9 +83,7 @@
         "title": {
           "eng": "Learning through books"
         }
-      },
-      "completed": false,
-      "task_child": "join_learn_books_article_tasks"
+      }
     },
     {
       "id": "get_started",
@@ -108,9 +96,7 @@
         "title": {
           "eng": "Ready to get started?"
         }
-      },
-      "completed": false,
-      "task_child": "join_get_started_article_tasks"
+      }
     }
   ]
 }

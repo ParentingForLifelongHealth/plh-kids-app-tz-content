@@ -121,16 +121,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "join_check_in": {
-      "flow_name": "join_check_in",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "join_general_relax": {
-      "flow_name": "join_general_relax",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "module_tasks": {
       "flow_name": "module_tasks",
       "flow_subtype": "generated",
@@ -376,16 +366,6 @@
       "comment": "Necessary since join has a few extra relax articles",
       "_xlsxPath": "modules/TZ modules data pipes.xlsx",
       "_output_flows": [
-        {
-          "flow_name": "join_general_relax",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
-        {
-          "flow_name": "join_check_in",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        },
         {
           "flow_name": "join_article_tasks",
           "flow_subtype": "generated",

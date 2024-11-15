@@ -16,9 +16,7 @@
         "title": {
           "eng": "Relax"
         }
-      },
-      "completed": false,
-      "task_child": "connect_relax_article_tasks"
+      }
     },
     {
       "id": "check_in",
@@ -33,9 +31,7 @@
         "title": {
           "eng": "Check-in"
         }
-      },
-      "completed": false,
-      "task_child": "connect_check_in_article_tasks"
+      }
     },
     {
       "id": "why_connect",
@@ -48,9 +44,7 @@
         "title": {
           "eng": "Why CONNECT"
         }
-      },
-      "completed": false,
-      "task_child": "connect_why_connect_article_tasks"
+      }
     },
     {
       "id": "how_connect",
@@ -63,9 +57,7 @@
         "title": {
           "eng": "How to CONNECT"
         }
-      },
-      "completed": false,
-      "task_child": "connect_how_connect_article_tasks"
+      }
     },
     {
       "id": "power_connect",
@@ -78,9 +70,7 @@
         "title": {
           "eng": "The power of CONNECTION"
         }
-      },
-      "completed": false,
-      "task_child": "connect_power_connect_article_tasks"
+      }
     },
     {
       "id": "books_connect",
@@ -93,9 +83,7 @@
         "title": {
           "eng": "Using books to CONNECT"
         }
-      },
-      "completed": false,
-      "task_child": "connect_books_connect_article_tasks"
+      }
     },
     {
       "id": "practice",
@@ -110,9 +98,7 @@
         "title": {
           "eng": "Ready to practice?"
         }
-      },
-      "completed": false,
-      "task_child": "connect_practice_article_tasks"
+      }
     }
   ]
 }
