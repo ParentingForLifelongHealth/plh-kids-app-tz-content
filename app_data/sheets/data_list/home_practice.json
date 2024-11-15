@@ -9,7 +9,9 @@
       "icon_asset": "images/icons/book_blue.svg",
       "title": "Read",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

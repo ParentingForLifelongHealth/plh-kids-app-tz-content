@@ -22,7 +22,9 @@
       "id": "play",
       "name": "Learning Through Play",
       "_translations": {
-        "name": {}
+        "name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "name": {

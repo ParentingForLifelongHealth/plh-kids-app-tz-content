@@ -7,7 +7,9 @@
       "type": "title",
       "value": "Resource Centre",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "name": "title_2",
       "_nested_name": "title_2"

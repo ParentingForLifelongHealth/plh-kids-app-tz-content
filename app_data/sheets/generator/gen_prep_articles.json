@@ -3,7 +3,7 @@
   "flow_name": "gen_prep_articles",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "modules_released",
+    "input_data_list": "modules_released_not_join",
     "output_flow_name": "prep_{@gen.id}_articles",
     "output_flow_type": "data_pipe",
     "output_flow_subtype": "generated"
@@ -41,9 +41,9 @@
     {
       "operation": "concat",
       "args_list": [
-        "{@gen.id}_articles",
         "{@gen.id}_relax",
-        "{@gen.id}_check_in"
+        "{@gen.id}_check_in",
+        "{@gen.id}_articles"
       ],
       "input_source": false
     },
@@ -57,11 +57,6 @@
   ],
   "_xlsxPath": "modules/TZ modules data pipes.xlsx",
   "_output_flows": [
-    {
-      "flow_name": "prep_join_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
     {
       "flow_name": "prep_connect_articles",
       "flow_subtype": "generated",

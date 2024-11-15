@@ -10,14 +10,6 @@
   },
   "rows": [
     {
-      "name": "congrats",
-      "value": "_congrats"
-    },
-    {
-      "name": "congratulations_template",
-      "value": "module_@gen.id@local.congrats"
-    },
-    {
       "type": "template",
       "name": "module",
       "value": "module",
@@ -30,15 +22,6 @@
           ],
           "_raw": "completed | emit: completed",
           "_cleaned": "completed | emit: completed"
-        },
-        {
-          "trigger": "completed",
-          "action_id": "pop_up",
-          "args": [
-            "@local.congratulations_template"
-          ],
-          "_raw": "completed | pop_up: @local.congratulations_template",
-          "_cleaned": "completed | pop_up: @local.congratulations_template"
         },
         {
           "trigger": "uncompleted",
@@ -58,7 +41,7 @@
       ]
     }
   ],
-  "_xlsxPath": "modules/TZ module_navigation.xlsx",
+  "_xlsxPath": "templates/modules/module_navigation.xlsx",
   "_output_flows": [
     {
       "flow_name": "module_join",

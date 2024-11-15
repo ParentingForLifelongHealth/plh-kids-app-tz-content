@@ -16,9 +16,7 @@
         "title": {
           "eng": "Relax"
         }
-      },
-      "completed": false,
-      "task_child": "create_relax_article_tasks"
+      }
     },
     {
       "id": "check_in",
@@ -33,69 +31,67 @@
         "title": {
           "eng": "Check-in"
         }
-      },
-      "completed": false,
-      "task_child": "create_check_in_article_tasks"
+      }
     },
     {
       "id": "why_create",
       "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Why CREATE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Why CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_why_create_article_tasks"
+      }
     },
     {
       "id": "how_create",
       "icon_asset": "images/modules/play/icon_light_bulb.svg",
       "title": "How to CREATE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "How to CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_how_create_article_tasks"
+      }
     },
     {
       "id": "power_create",
       "icon_asset": "images/modules/play/icon_star.svg",
       "title": "The power of CREATE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "The power of CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_power_create_article_tasks"
+      }
     },
     {
       "id": "books_create",
       "icon_asset": "images/modules/play/icon_book.svg",
       "title": "Using books to CREATE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "Using books to CREATE"
         }
-      },
-      "completed": false,
-      "task_child": "create_books_create_article_tasks"
+      }
     },
     {
       "id": "practice",
@@ -110,9 +106,7 @@
         "title": {
           "eng": "Ready to practice?"
         }
-      },
-      "completed": false,
-      "task_child": "create_practice_article_tasks"
+      }
     }
   ]
 }

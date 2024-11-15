@@ -95,7 +95,9 @@
       "name": "module",
       "value": "Module",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "module"
@@ -362,38 +364,71 @@
               "_nested_name": "module_card.dg_column.dg"
             },
             {
-              "name": "task_group",
-              "value": "comp_task_progress_bar_data",
+              "name": "articles",
+              "value": "_article_tasks",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "module_card.dg_column.task_group"
+              "_nested_name": "module_card.dg_column.articles"
+            },
+            {
+              "name": "articles_data_list_name",
+              "value": "@local.module_id@local.articles",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "module_card.dg_column.articles_data_list_name",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.module_id@local.articles",
+                    "matchedExpression": "@local.module_id",
+                    "type": "local",
+                    "fieldName": "module_id"
+                  },
+                  {
+                    "fullExpression": "@local.module_id@local.articles",
+                    "matchedExpression": "@local.articles",
+                    "type": "local",
+                    "fieldName": "articles"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.module_id": [
+                  "value"
+                ],
+                "@local.articles": [
+                  "value"
+                ]
+              }
             },
             {
               "type": "task_progress_bar",
+              "name": "task_progress_bar",
               "parameter_list": {
-                "task_group_data": "@local.task_group"
+                "task_group_data": "@local.articles_data_list_name"
               },
-              "condition": false,
               "exclude_from_translation": true,
-              "name": "task_progress_bar_3",
-              "_nested_name": "module_card.dg_column.task_progress_bar_3",
+              "_nested_name": "module_card.dg_column.task_progress_bar",
               "_dynamicFields": {
                 "parameter_list": {
                   "task_group_data": [
                     {
-                      "fullExpression": "@local.task_group",
-                      "matchedExpression": "@local.task_group",
+                      "fullExpression": "@local.articles_data_list_name",
+                      "matchedExpression": "@local.articles_data_list_name",
                       "type": "local",
-                      "fieldName": "task_group"
+                      "fieldName": "articles_data_list_name"
                     }
                   ]
                 }
               },
               "_dynamicDependencies": {
-                "@local.task_group": [
+                "@local.articles_data_list_name": [
                   "parameter_list.task_group_data"
                 ]
               }
@@ -447,7 +482,9 @@
       "name": "title_hp",
       "value": "Home Activities",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "title_hp"

@@ -96,43 +96,8 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "connect_books_connect_article_tasks": {
-      "flow_name": "connect_books_connect_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "connect_category_tasks": {
       "flow_name": "connect_category_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "connect_check_in_article_tasks": {
-      "flow_name": "connect_check_in_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "connect_how_connect_article_tasks": {
-      "flow_name": "connect_how_connect_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "connect_power_connect_article_tasks": {
-      "flow_name": "connect_power_connect_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "connect_practice_article_tasks": {
-      "flow_name": "connect_practice_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "connect_relax_article_tasks": {
-      "flow_name": "connect_relax_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "connect_why_connect_article_tasks": {
-      "flow_name": "connect_why_connect_article_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -141,43 +106,8 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "create_books_create_article_tasks": {
-      "flow_name": "create_books_create_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "create_category_tasks": {
       "flow_name": "create_category_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "create_check_in_article_tasks": {
-      "flow_name": "create_check_in_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "create_how_create_article_tasks": {
-      "flow_name": "create_how_create_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "create_power_create_article_tasks": {
-      "flow_name": "create_power_create_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "create_practice_article_tasks": {
-      "flow_name": "create_practice_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "create_relax_article_tasks": {
-      "flow_name": "create_relax_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "create_why_create_article_tasks": {
-      "flow_name": "create_why_create_article_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -186,43 +116,13 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "join_caring_child_article_tasks": {
-      "flow_name": "join_caring_child_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "join_caring_you_article_tasks": {
-      "flow_name": "join_caring_you_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "join_category_tasks": {
       "flow_name": "join_category_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "join_check_in_article_tasks": {
-      "flow_name": "join_check_in_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "join_get_started_article_tasks": {
-      "flow_name": "join_get_started_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "join_learn_books_article_tasks": {
-      "flow_name": "join_learn_books_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "join_relax_article_tasks": {
-      "flow_name": "join_relax_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "join_welcome_article_tasks": {
-      "flow_name": "join_welcome_article_tasks",
+    "module_tasks": {
+      "flow_name": "module_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -231,48 +131,18 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
+    "modules_released_not_join": {
+      "flow_name": "modules_released_not_join",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "play_article_tasks": {
       "flow_name": "play_article_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "play_books_play_article_tasks": {
-      "flow_name": "play_books_play_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "play_category_tasks": {
       "flow_name": "play_category_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "play_check_in_article_tasks": {
-      "flow_name": "play_check_in_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "play_how_play_article_tasks": {
-      "flow_name": "play_how_play_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "play_power_play_article_tasks": {
-      "flow_name": "play_power_play_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "play_practice_article_tasks": {
-      "flow_name": "play_practice_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "play_relax_article_tasks": {
-      "flow_name": "play_relax_article_tasks",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "play_why_play_article_tasks": {
-      "flow_name": "play_why_play_article_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -385,6 +255,12 @@
       "flow_name": "resource_categories",
       "data_list_name": "resource_categories",
       "_xlsxPath": "TZ resource centre.xlsx"
+    },
+    "resource_categories_2": {
+      "flow_type": "data_list",
+      "flow_name": "resource_categories_2",
+      "data_list_name": "resource_categories_2",
+      "_xlsxPath": "TZ resource centre.xlsx"
     }
   },
   "data_pipe": {
@@ -395,18 +271,6 @@
       "_output_flows": [
         {
           "flow_name": "books",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "exclude_draft_modules": {
-      "flow_type": "data_pipe",
-      "flow_name": "exclude_draft_modules",
-      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "modules_released",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         }
@@ -460,18 +324,6 @@
         }
       ]
     },
-    "prep_join_articles": {
-      "flow_name": "prep_join_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "join_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
     "prep_join_categories": {
       "flow_name": "prep_join_categories",
       "flow_subtype": "generated",
@@ -508,241 +360,36 @@
         }
       ]
     },
-    "prep_split_books_connect_articles": {
-      "flow_name": "prep_split_books_connect_articles",
-      "flow_subtype": "generated",
+    "prep_join_articles": {
       "flow_type": "data_pipe",
+      "flow_name": "prep_join_articles",
+      "comment": "Necessary since join has a few extra relax articles",
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
       "_output_flows": [
         {
-          "flow_name": "connect_books_connect_article_tasks",
+          "flow_name": "join_article_tasks",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         }
       ]
     },
-    "prep_split_books_create_articles": {
-      "flow_name": "prep_split_books_create_articles",
-      "flow_subtype": "generated",
+    "prep_modules": {
       "flow_type": "data_pipe",
+      "flow_name": "prep_modules",
+      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
       "_output_flows": [
         {
-          "flow_name": "create_books_create_article_tasks",
+          "flow_name": "modules_released",
           "flow_subtype": "generated",
           "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_books_play_articles": {
-      "flow_name": "prep_split_books_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
+        },
         {
-          "flow_name": "play_books_play_article_tasks",
+          "flow_name": "modules_released_not_join",
           "flow_subtype": "generated",
           "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_caring_child_articles": {
-      "flow_name": "prep_split_caring_child_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
+        },
         {
-          "flow_name": "join_caring_child_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_caring_you_articles": {
-      "flow_name": "prep_split_caring_you_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "join_caring_you_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_check_in_articles": {
-      "flow_name": "prep_split_check_in_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "play_check_in_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_get_started_articles": {
-      "flow_name": "prep_split_get_started_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "join_get_started_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_how_connect_articles": {
-      "flow_name": "prep_split_how_connect_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "connect_how_connect_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_how_create_articles": {
-      "flow_name": "prep_split_how_create_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "create_how_create_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_how_play_articles": {
-      "flow_name": "prep_split_how_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "play_how_play_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_learn_books_articles": {
-      "flow_name": "prep_split_learn_books_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "join_learn_books_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_power_connect_articles": {
-      "flow_name": "prep_split_power_connect_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "connect_power_connect_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_power_create_articles": {
-      "flow_name": "prep_split_power_create_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "create_power_create_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_power_play_articles": {
-      "flow_name": "prep_split_power_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "play_power_play_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_practice_articles": {
-      "flow_name": "prep_split_practice_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "play_practice_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_relax_articles": {
-      "flow_name": "prep_split_relax_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "play_relax_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_welcome_articles": {
-      "flow_name": "prep_split_welcome_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "join_welcome_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_why_connect_articles": {
-      "flow_name": "prep_split_why_connect_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "connect_why_connect_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_why_create_articles": {
-      "flow_name": "prep_split_why_create_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "create_why_create_article_tasks",
-          "flow_subtype": "generated",
-          "flow_type": "data_list"
-        }
-      ]
-    },
-    "prep_split_why_play_articles": {
-      "flow_name": "prep_split_why_play_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe",
-      "_output_flows": [
-        {
-          "flow_name": "play_why_play_article_tasks",
+          "flow_name": "module_tasks",
           "flow_subtype": "generated",
           "flow_type": "data_list"
         }
@@ -1537,6 +1184,102 @@
         }
       ]
     },
+    "gen_connect_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_connect_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "connect_category_tasks",
+        "output_flow_name": "module_connect_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_connect_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_why_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_how_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_power_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_books_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_practice",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_create_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_create_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "create_category_tasks",
+        "output_flow_name": "module_create_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_create_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_why_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_how_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_power_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_books_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_practice",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_hp_options_play": {
       "flow_type": "generator",
       "flow_name": "gen_hp_options_play",
@@ -1546,7 +1289,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx",
       "_output_flows": [
         {
           "flow_name": "hp_join_play",
@@ -1599,7 +1342,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx",
       "_output_flows": [
         {
           "flow_name": "hp_join_books",
@@ -1652,7 +1395,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx",
       "_output_flows": [
         {
           "flow_name": "hp_join_relax",
@@ -1696,6 +1439,54 @@
         }
       ]
     },
+    "gen_join_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_join_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "join_category_tasks",
+        "output_flow_name": "module_join_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_join_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_welcome",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_caring_you",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_caring_child",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_learn_books",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_get_started",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_module": {
       "flow_type": "generator",
       "flow_name": "gen_module",
@@ -1705,7 +1496,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "templates/modules/module_navigation.xlsx",
       "_output_flows": [
         {
           "flow_name": "module_join",
@@ -1753,7 +1544,7 @@
       "flow_type": "generator",
       "flow_name": "gen_module_congrats",
       "parameter_list": {
-        "input_data_list": "modules",
+        "input_data_list": "modules_released",
         "output_flow_name": "module_{@gen.id}_congrats",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
@@ -1779,26 +1570,6 @@
           "flow_name": "module_play_congrats",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "module_talk_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_build_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_explore_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_care_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -1806,7 +1577,7 @@
       "flow_type": "generator",
       "flow_name": "gen_module_landing",
       "parameter_list": {
-        "input_data_list": "modules",
+        "input_data_list": "modules_released",
         "output_flow_name": "module_landing_@gen.id",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
@@ -1830,26 +1601,6 @@
         },
         {
           "flow_name": "module_landing_play",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_talk",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_build",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_explore",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_care",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2026,11 +1777,59 @@
         }
       ]
     },
+    "gen_play_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_play_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "play_category_tasks",
+        "output_flow_name": "module_play_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_play_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_why_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_how_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_power_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_books_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_practice",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_prep_articles": {
       "flow_type": "generator",
       "flow_name": "gen_prep_articles",
       "parameter_list": {
-        "input_data_list": "modules_released",
+        "input_data_list": "modules_released_not_join",
         "output_flow_name": "prep_{@gen.id}_articles",
         "output_flow_type": "data_pipe",
         "output_flow_subtype": "generated"
@@ -2038,11 +1837,6 @@
       "comment": "could be a global sheet, same as KW",
       "_xlsxPath": "modules/TZ modules data pipes.xlsx",
       "_output_flows": [
-        {
-          "flow_name": "prep_join_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
         {
           "flow_name": "prep_connect_articles",
           "flow_subtype": "generated",
@@ -2367,198 +2161,6 @@
           "flow_name": "article_relax_25",
           "flow_subtype": "generated",
           "flow_type": "template"
-        }
-      ]
-    },
-    "gen_split_connect_articles": {
-      "flow_type": "generator",
-      "flow_name": "gen_split_connect_articles",
-      "parameter_list": {
-        "input_data_list": "connect_category_tasks",
-        "output_flow_name": "prep_split_{@gen.id}_articles",
-        "output_flow_type": "data_pipe",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "prep_split_relax_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_check_in_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_why_connect_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_how_connect_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_power_connect_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_books_connect_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_practice_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        }
-      ]
-    },
-    "gen_split_create_articles": {
-      "flow_type": "generator",
-      "flow_name": "gen_split_create_articles",
-      "parameter_list": {
-        "input_data_list": "create_category_tasks",
-        "output_flow_name": "prep_split_{@gen.id}_articles",
-        "output_flow_type": "data_pipe",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "prep_split_relax_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_check_in_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_why_create_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_how_create_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_power_create_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_books_create_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_practice_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        }
-      ]
-    },
-    "gen_split_join_articles": {
-      "flow_type": "generator",
-      "flow_name": "gen_split_join_articles",
-      "parameter_list": {
-        "input_data_list": "join_category_tasks",
-        "output_flow_name": "prep_split_{@gen.id}_articles",
-        "output_flow_type": "data_pipe",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "prep_split_relax_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_check_in_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_welcome_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_caring_you_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_caring_child_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_learn_books_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_get_started_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        }
-      ]
-    },
-    "gen_split_play_articles": {
-      "flow_type": "generator",
-      "flow_name": "gen_split_play_articles",
-      "parameter_list": {
-        "input_data_list": "play_category_tasks",
-        "output_flow_name": "prep_split_{@gen.id}_articles",
-        "output_flow_type": "data_pipe",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "modules/TZ modules data pipes.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "prep_split_relax_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_check_in_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_why_play_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_how_play_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_power_play_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_books_play_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_split_practice_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
         }
       ]
     },
@@ -4453,18 +4055,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_build_congrats": {
-      "flow_name": "module_build_congrats",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_care": {
       "flow_name": "module_care",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_care_congrats": {
-      "flow_name": "module_care_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4478,6 +4070,41 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "module_connect_start_at_books_connect": {
+      "flow_name": "module_connect_start_at_books_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_check_in": {
+      "flow_name": "module_connect_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_how_connect": {
+      "flow_name": "module_connect_start_at_how_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_power_connect": {
+      "flow_name": "module_connect_start_at_power_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_practice": {
+      "flow_name": "module_connect_start_at_practice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_relax": {
+      "flow_name": "module_connect_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_why_connect": {
+      "flow_name": "module_connect_start_at_why_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "module_create": {
       "flow_name": "module_create",
       "flow_subtype": "generated",
@@ -4488,13 +4115,43 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_explore": {
-      "flow_name": "module_explore",
+    "module_create_start_at_books_create": {
+      "flow_name": "module_create_start_at_books_create",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_explore_congrats": {
-      "flow_name": "module_explore_congrats",
+    "module_create_start_at_check_in": {
+      "flow_name": "module_create_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_how_create": {
+      "flow_name": "module_create_start_at_how_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_power_create": {
+      "flow_name": "module_create_start_at_power_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_practice": {
+      "flow_name": "module_create_start_at_practice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_relax": {
+      "flow_name": "module_create_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_why_create": {
+      "flow_name": "module_create_start_at_why_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_explore": {
+      "flow_name": "module_explore",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4508,13 +4165,38 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_build": {
-      "flow_name": "module_landing_build",
+    "module_join_start_at_caring_child": {
+      "flow_name": "module_join_start_at_caring_child",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_care": {
-      "flow_name": "module_landing_care",
+    "module_join_start_at_caring_you": {
+      "flow_name": "module_join_start_at_caring_you",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_check_in": {
+      "flow_name": "module_join_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_get_started": {
+      "flow_name": "module_join_start_at_get_started",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_learn_books": {
+      "flow_name": "module_join_start_at_learn_books",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_relax": {
+      "flow_name": "module_join_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_welcome": {
+      "flow_name": "module_join_start_at_welcome",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4528,11 +4210,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_explore": {
-      "flow_name": "module_landing_explore",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_landing_join": {
       "flow_name": "module_landing_join",
       "flow_subtype": "generated",
@@ -4540,11 +4217,6 @@
     },
     "module_landing_play": {
       "flow_name": "module_landing_play",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_talk": {
-      "flow_name": "module_landing_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4598,13 +4270,43 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_talk": {
-      "flow_name": "module_talk",
+    "module_play_start_at_books_play": {
+      "flow_name": "module_play_start_at_books_play",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_talk_congrats": {
-      "flow_name": "module_talk_congrats",
+    "module_play_start_at_check_in": {
+      "flow_name": "module_play_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_how_play": {
+      "flow_name": "module_play_start_at_how_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_power_play": {
+      "flow_name": "module_play_start_at_power_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_practice": {
+      "flow_name": "module_play_start_at_practice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_relax": {
+      "flow_name": "module_play_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_why_play": {
+      "flow_name": "module_play_start_at_why_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_talk": {
+      "flow_name": "module_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4846,12 +4548,12 @@
     "home_practice_card": {
       "flow_type": "template",
       "flow_name": "home_practice_card",
-      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx"
     },
     "home_practice_options": {
       "flow_type": "template",
       "flow_name": "home_practice_options",
-      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx"
     },
     "home_screen": {
       "flow_type": "template",
@@ -4947,6 +4649,11 @@
       "flow_name": "module_path",
       "_xlsxPath": "modules/TZ module_navigation.xlsx"
     },
+    "module_start_at_cat": {
+      "flow_type": "template",
+      "flow_name": "module_start_at_cat",
+      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+    },
     "nav_buttons": {
       "flow_type": "template",
       "flow_name": "nav_buttons",
@@ -4997,6 +4704,11 @@
       "flow_name": "relax_activities",
       "_xlsxPath": "templates/relax_activities.xlsx"
     },
+    "relax_activity": {
+      "flow_type": "template",
+      "flow_name": "relax_activity",
+      "_xlsxPath": "TZ resource centre.xlsx"
+    },
     "relax_animation": {
       "flow_type": "template",
       "flow_name": "relax_animation",
@@ -5010,6 +4722,11 @@
     "resource_centre": {
       "flow_type": "template",
       "flow_name": "resource_centre",
+      "_xlsxPath": "TZ resource centre.xlsx"
+    },
+    "resource_centre_2": {
+      "flow_type": "template",
+      "flow_name": "resource_centre_2",
       "_xlsxPath": "TZ resource centre.xlsx"
     },
     "section": {

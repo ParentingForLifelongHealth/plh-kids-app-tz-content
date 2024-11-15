@@ -9,7 +9,9 @@
       "icon_asset": "images/icons/join_icons/welcome.svg",
       "title": "Welcome!",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -22,7 +24,9 @@
       "icon_asset": "images/icons/join_icons/caring_yourself.svg",
       "title": "Caring for yourself",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,7 +39,9 @@
       "icon_asset": "images/icons/join_icons/caring_yourchild.svg",
       "title": "Caring for your child",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -48,7 +54,9 @@
       "icon_asset": "images/modules/play/icon_book.svg",
       "title": "Learning through books",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -61,7 +69,9 @@
       "icon_asset": "images/icons/parent_child_heart.svg",
       "title": "Ready to get started?",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

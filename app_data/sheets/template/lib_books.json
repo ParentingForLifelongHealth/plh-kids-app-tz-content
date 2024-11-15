@@ -241,7 +241,9 @@
               "name": "debug_@item.id",
               "value": "tags array: @local.book_tag_list",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "condition": false,
               "_nested_name": "display_grid.books.debug_@item.id",
@@ -343,7 +345,9 @@
               "name": "debug_2_@item.id",
               "value": "has selected tag: @local.has_selected_tag",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "condition": false,
               "_nested_name": "display_grid.books.debug_2_@item.id",

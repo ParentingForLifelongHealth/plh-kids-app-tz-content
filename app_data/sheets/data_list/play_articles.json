@@ -13,8 +13,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1avfUWB8LAWLsVRTzyP8biVTWOMZZMFJ1BPiMG2P3YJQ",
       "text_1": "Creating time and space for children to play is as important as eating and sleeping!",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -49,7 +53,9 @@
         "title": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -106,9 +112,15 @@
       "image_asset": "images/modules/play/how_to_play_1.svg",
       "text_1": "There is no right or wrong way to play. The important thing is to have fun together.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -131,8 +143,12 @@
       "media_asset": "audio/modules/play/play_07.mp3",
       "text_2": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development.",
       "_translations": {
-        "text_2": {},
-        "media_transcript": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -150,7 +166,9 @@
       "image_asset": "images/modules/play/how_to_play_3.svg",
       "text_2": "**Keep it joyful and fun!**\nBeing playful does not mean that your child won’t respect you or take you seriously: play actually helps to strengthen your relationship with your child. And when relationships are strong, dealing with stress and challenges become easier.",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -197,7 +215,9 @@
       "media_asset": "audio/modules/play/play_04.mp3",
       "text_1_facilitator": "Did you know that you can use play to your advantage?",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -232,9 +252,15 @@
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
       "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "image_text": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -443,7 +469,9 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -512,7 +540,9 @@
       "quiz_2_option_3_image_asset": "images/modules/play/awake_emoji.svg",
       "title": "Question time:",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -626,7 +656,9 @@
       "media_asset": "audio/modules/play/play_05.mp3",
       "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -654,7 +686,9 @@
       "image_asset": "images/modules/play/using_books_1.svg",
       "text_1_facilitator": "Book activities can be playful too! Here are some ways that you can make book activities fun.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -670,11 +704,15 @@
       "media_asset": "audio/modules/play/play_06.mp3",
       "text_1": "Use a lively, playful voice, with different voices for different characters.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -735,7 +773,9 @@
       "image_asset": "images/modules/play/using_books_5.svg",
       "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, playful voice to bring the story to life\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
@@ -756,7 +796,9 @@
       "image_asset": "images/modules/play/ready_to_practice.svg",
       "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

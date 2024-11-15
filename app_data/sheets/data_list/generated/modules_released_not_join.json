@@ -1,0 +1,154 @@
+{
+  "flow_name": "modules_released_not_join",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "connect",
+      "status": "released",
+      "number": "2",
+      "facilitator_gender": "woman",
+      "check_in_id": "check_in_1",
+      "relax_id": "relax_10",
+      "relax_id_list": [
+        "relax_16",
+        "relax_3",
+        "relax_10"
+      ],
+      "play_id_list": [
+        "what_makes_us_special",
+        "pattern_play",
+        "cooking_together"
+      ],
+      "books_id_list": [
+        "to_the_top",
+        "moms_red_coat"
+      ],
+      "image_asset": "images/modules/connect/connect_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "CONNECT",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "CONNECT"
+        },
+        "description": {
+          "eng": "Making time to connect with your child helps build a strong and positive relationship."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the CONNECT module!"
+        }
+      },
+      "description": "Making time to connect with your child helps build a strong and positive relationship.",
+      "congratulation_text": "Well done for finishing the CONNECT module!"
+    },
+    {
+      "id": "create",
+      "status": "released",
+      "number": "3",
+      "facilitator_gender": "man",
+      "check_in_id": "check_in_8",
+      "relax_id": "relax_17",
+      "relax_id_list": [
+        "relax_13",
+        "relax_14",
+        "relax_17"
+      ],
+      "play_id_list": [
+        "household_helpers",
+        "music_and_dancing",
+        "walking_together"
+      ],
+      "books_id_list": [
+        "babys_first_photo",
+        "shongololo_s_shoes"
+      ],
+      "image_asset": "images/modules/create/create_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "CREATE",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "CREATE"
+        },
+        "description": {
+          "eng": "Create a positive and supportive environment for your child to learn in."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the CREATE module!"
+        }
+      },
+      "description": "Create a positive and supportive environment for your child to learn in.",
+      "congratulation_text": "Well done for finishing the CREATE module!"
+    },
+    {
+      "id": "play",
+      "status": "released",
+      "number": "4",
+      "facilitator_gender": "woman",
+      "check_in_id": "check_in_13",
+      "relax_id": "relax_21",
+      "relax_id_list": [
+        "relax_8",
+        "relax_20",
+        "relax_21"
+      ],
+      "play_id_list": [
+        "favourite_play",
+        "act_the_story",
+        "shadow_movie"
+      ],
+      "books_id_list": [
+        "lesedis_sandbox",
+        "lefas_bath"
+      ],
+      "image_asset": "images/modules/play/play_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "PLAY",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "PLAY"
+        },
+        "description": {
+          "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the PLAY module!"
+        }
+      },
+      "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
+      "congratulation_text": "Well done for finishing the PLAY module!"
+    }
+  ]
+}

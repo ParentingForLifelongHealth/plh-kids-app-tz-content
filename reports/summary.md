@@ -11,21 +11,21 @@
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 41 |
+| display_group | 42 |
 | image | 11 |
-| items | 11 |
+| items | 16 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 562 |
+| set_variable | 563 |
 | task_card | 7 |
 | task_progress_bar | 1 |
-| template | 365 |
-| text | 65 |
+| template | 372 |
+| text | 67 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 5 |
-| title | 22 |
+| title | 23 |
 | update_action_list | 2 |
 | video | 1 |
 </details>
@@ -56,8 +56,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 77358 KB | 77.4 MB |
-| unused | 1063 KB | 1.1 MB |
+| total | 77823 KB | 77.8 MB |
+| unused | 804 KB | 0.8 MB |
 </details>
 
 <details open>
@@ -71,7 +71,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 73.7 |
 | android/icon.png | 80.4 |
 | android/splash.png | 156.5 |
-| audio/modules/create/power_create_2.mp3 | 266.6 |
 | audio/modules/create/power_create_4.mp3 | 241.2 |
 | contents.json | 5.9 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -93,13 +92,15 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/play.svg | 0.5 |
 | images/icons/play_white.svg | 0.5 |
 | images/icons/question_mark_blue.svg | 0.8 |
+| images/icons/resource_library_blue.svg | 4.1 |
+| images/icons/resource_library_white.svg | 4.1 |
 | images/icons/star_outline_blue.svg | 1 |
 | images/icons/star_outline_white.svg | 1 |
 | images/icons/thought_bubble.svg | 2.1 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/favicon.svg | 3.6 |
 | images/logos/plh_white.png | 12.8 |
-| images/modules/play/happy_emoji.svg | 2.2 |
+| images/modules/play/happy_emoji.svg | 1.8 |
 | images/relax/relax_man.svg | 27 |
 | images/relax/relax_woman.svg | 14.8 |
 | lottie/bulging_circles.txt | 0.2 |
@@ -315,7 +316,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_9.jpg | 1 |
 | images/modules/build/build_title_image.svg | 2 |
 | images/modules/care/care_title_image.svg | 2 |
-| images/modules/create/create_2.svg | 3 |
 | images/modules/explore/explore_title_image.svg | 2 |
 | images/modules/talk/talk_title_image.svg | 2 |
 </details>
@@ -327,54 +327,55 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
-| audio/modules/connect/connect_01.mp3 | 314.5 | 3 |
-| audio/modules/connect/connect_02.mp3 | 208.1 | 3 |
-| audio/modules/connect/connect_03.mp3 | 249 | 3 |
-| audio/modules/connect/connect_04.mp3 | 507.1 | 3 |
-| audio/modules/connect/connect_05.mp3 | 293.8 | 3 |
-| audio/modules/connect/connect_06.mp3 | 280.8 | 3 |
-| audio/modules/connect/connect_07.mp3 | 241.2 | 3 |
-| audio/modules/connect/connect_08.mp3 | 204.1 | 3 |
-| audio/modules/connect/connect_09.mp3 | 381.9 | 3 |
-| audio/modules/create/create_01.mp3 | 165.5 | 3 |
-| audio/modules/create/create_02.mp3 | 336.2 | 3 |
-| audio/modules/create/create_03.mp3 | 190.2 | 3 |
-| audio/modules/create/how_create_1.mp3 | 281 | 3 |
-| audio/modules/create/how_create_5.mp3 | 263.3 | 3 |
-| audio/modules/create/power_create_3.mp3 | 216.2 | 3 |
-| audio/modules/create/power_create_5.mp3 | 369.3 | 3 |
-| audio/modules/create/power_create_6.mp3 | 272.9 | 3 |
-| audio/modules/join/care_1.mp3 | 653.9 | 3 |
-| audio/modules/join/learn_book_3.mp3 | 444.9 | 3 |
-| audio/modules/join/learn_book_8.mp3 | 554.8 | 3 |
-| audio/modules/join/welcome_1.mp3 | 385.5 | 3 |
-| audio/modules/join/welcome_2.mp3 | 371.2 | 3 |
-| audio/modules/play/play_01.mp3 | 155.3 | 3 |
-| audio/modules/play/play_02.mp3 | 239.6 | 3 |
-| audio/modules/play/play_03.mp3 | 268.2 | 3 |
-| audio/modules/play/play_04.mp3 | 202.7 | 3 |
-| audio/modules/play/play_05.mp3 | 206.8 | 3 |
-| audio/modules/play/play_06.mp3 | 159.8 | 3 |
-| audio/modules/play/play_07.mp3 | 260.9 | 3 |
+| audio/modules/connect/connect_01.mp3 | 314.5 | 2 |
+| audio/modules/connect/connect_02.mp3 | 208.1 | 2 |
+| audio/modules/connect/connect_03.mp3 | 249 | 2 |
+| audio/modules/connect/connect_04.mp3 | 507.1 | 2 |
+| audio/modules/connect/connect_05.mp3 | 293.8 | 2 |
+| audio/modules/connect/connect_06.mp3 | 280.8 | 2 |
+| audio/modules/connect/connect_07.mp3 | 241.2 | 2 |
+| audio/modules/connect/connect_08.mp3 | 204.1 | 2 |
+| audio/modules/connect/connect_09.mp3 | 381.9 | 2 |
+| audio/modules/create/create_01.mp3 | 165.5 | 2 |
+| audio/modules/create/create_02.mp3 | 336.2 | 2 |
+| audio/modules/create/create_03.mp3 | 190.2 | 2 |
+| audio/modules/create/how_create_1.mp3 | 281 | 2 |
+| audio/modules/create/how_create_5.mp3 | 263.3 | 2 |
+| audio/modules/create/power_create_2.mp3 | 266.6 | 2 |
+| audio/modules/create/power_create_3.mp3 | 216.2 | 2 |
+| audio/modules/create/power_create_5.mp3 | 369.3 | 2 |
+| audio/modules/create/power_create_6.mp3 | 272.9 | 2 |
+| audio/modules/join/care_1.mp3 | 653.9 | 2 |
+| audio/modules/join/learn_book_3.mp3 | 444.9 | 2 |
+| audio/modules/join/learn_book_8.mp3 | 554.8 | 2 |
+| audio/modules/join/welcome_1.mp3 | 385.5 | 2 |
+| audio/modules/join/welcome_2.mp3 | 371.2 | 2 |
+| audio/modules/play/play_01.mp3 | 155.3 | 2 |
+| audio/modules/play/play_02.mp3 | 239.6 | 2 |
+| audio/modules/play/play_03.mp3 | 268.2 | 2 |
+| audio/modules/play/play_04.mp3 | 202.7 | 2 |
+| audio/modules/play/play_05.mp3 | 206.8 | 2 |
+| audio/modules/play/play_06.mp3 | 159.8 | 2 |
+| audio/modules/play/play_07.mp3 | 260.9 | 2 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
-| audio/relax/relax_10.mp3 | 404.9 | 3 |
+| audio/relax/relax_10.mp3 | 404.9 | 2 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
 | audio/relax/relax_12.mp3 | 539.7 | 1 |
 | audio/relax/relax_13.mp3 | 398.4 | 1 |
 | audio/relax/relax_14.mp3 | 256.9 | 1 |
 | audio/relax/relax_15.mp3 | 125 | 1 |
 | audio/relax/relax_16.mp3 | 274 | 1 |
-| audio/relax/relax_17.mp3 | 148 | 3 |
+| audio/relax/relax_17.mp3 | 148 | 2 |
 | audio/relax/relax_18.mp3 | 312.9 | 1 |
 | audio/relax/relax_19.mp3 | 454 | 1 |
 | audio/relax/relax_2.mp3 | 404.4 | 1 |
 | audio/relax/relax_20.mp3 | 539.8 | 1 |
-| audio/relax/relax_21.mp3 | 189.3 | 3 |
+| audio/relax/relax_21.mp3 | 189.3 | 2 |
 | audio/relax/relax_22.mp3 | 109.8 | 1 |
 | audio/relax/relax_23.mp3 | 122.9 | 1 |
 | audio/relax/relax_24.mp3 | 121.3 | 1 |
 | audio/relax/relax_3.mp3 | 152.5 | 1 |
-| audio/relax/relax_4.mp3 | 347.9 | 3 |
+| audio/relax/relax_4.mp3 | 347.9 | 2 |
 | audio/relax/relax_5.mp3 | 195.7 | 1 |
 | audio/relax/relax_6.mp3 | 280.7 | 1 |
 | audio/relax/relax_7.mp3 | 285.3 | 1 |
@@ -672,20 +673,20 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/how_do_you_want_your_eggs/page7.jpg | 20.4 | 2 |
 | images/books/how_do_you_want_your_eggs/page8.jpg | 18.6 | 2 |
 | images/books/how_do_you_want_your_eggs/page9.jpg | 19.3 | 2 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg | 18 | 3 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg | 25.3 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg | 29.4 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg | 34.3 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page13.jpg | 16 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page14.jpg | 11.7 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg | 17.3 | 5 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg | 18 | 2 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page10.jpg | 25.3 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page11.jpg | 29.4 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page12.jpg | 34.3 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page13.jpg | 16 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page14.jpg | 11.7 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page15.jpg | 17.3 | 4 |
 | images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page17.jpg | 5.8 | 2 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page4.jpg | 15.9 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg | 18.5 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg | 21.1 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page7.jpg | 17.9 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page8.jpg | 11.8 | 5 |
-| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg | 31.6 | 5 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page4.jpg | 15.9 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page5.jpg | 18.5 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page6.jpg | 21.1 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page7.jpg | 17.9 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page8.jpg | 11.8 | 4 |
+| images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_page9.jpg | 31.6 | 4 |
 | images/books/jasu_loves_football/image_10.jpg | 24.5 | 2 |
 | images/books/jasu_loves_football/image_11.jpg | 34.3 | 2 |
 | images/books/jasu_loves_football/image_12.jpg | 40.4 | 2 |
@@ -1181,24 +1182,24 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/facilitator_face_woman.svg | 17.5 | 2 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/tz.svg | 0.5 | 2 |
-| images/icons/book_blue.svg | 0.7 | 1 |
+| images/icons/book_blue.svg | 1.1 | 1 |
 | images/icons/book_outline_white.svg | 0.7 | 1 |
 | images/icons/chevron_back_white.svg | 1.3 | 1 |
 | images/icons/chevron_forward_white.svg | 1.3 | 1 |
-| images/icons/faces/happy.svg | 1.4 | 5 |
-| images/icons/faces/happy_face_new.svg | 1.4 | 24 |
-| images/icons/faces/loved.svg | 3.8 | 3 |
+| images/icons/faces/happy.svg | 1.4 | 4 |
+| images/icons/faces/happy_face_new.svg | 1.4 | 20 |
+| images/icons/faces/loved.svg | 3.8 | 2 |
 | images/icons/faces/neutral.svg | 0.5 | 2 |
-| images/icons/faces/ok_face_new.svg | 0.5 | 24 |
+| images/icons/faces/ok_face_new.svg | 0.5 | 20 |
 | images/icons/faces/sad.svg | 1.5 | 2 |
-| images/icons/faces/sad_face_new.svg | 1.5 | 24 |
-| images/icons/faces/valued.svg | 3.4 | 3 |
-| images/icons/hands_hold_heart_blue.svg | 2.3 | 1 |
+| images/icons/faces/sad_face_new.svg | 1.5 | 20 |
+| images/icons/faces/valued.svg | 3.4 | 2 |
+| images/icons/hands_hold_heart_blue.svg | 2.9 | 1 |
 | images/icons/hands_hold_heart_white.svg | 3.4 | 1 |
-| images/icons/heart.svg | 0.6 | 2 |
-| images/icons/heart_filled.svg | 1.4 | 2 |
+| images/icons/heart.svg | 0.6 | 3 |
+| images/icons/heart_filled.svg | 1.4 | 3 |
 | images/icons/house_white.svg | 0.6 | 1 |
-| images/icons/in_progress.svg | 1.1 | 5 |
+| images/icons/in_progress.svg | 1.1 | 4 |
 | images/icons/join_icons/caring_yourchild.svg | 4.4 | 2 |
 | images/icons/join_icons/caring_yourself.svg | 1.3 | 2 |
 | images/icons/join_icons/welcome.svg | 2.9 | 2 |
@@ -1206,9 +1207,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/parent_child_heart.svg | 3 | 8 |
 | images/icons/picture_book_blue.svg | 1.8 | 3 |
 | images/icons/smile_eyes_down.svg | 0.9 | 6 |
-| images/icons/smile_eyes_down_blue.svg | 0.9 | 1 |
+| images/icons/smile_eyes_down_blue.svg | 1.4 | 1 |
 | images/icons/smile_eyes_up.svg | 1 | 14 |
-| images/icons/tick.svg | 0.3 | 4 |
+| images/icons/tick.svg | 0.3 | 3 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/learning_through_play/act_the_story.svg | 84.2 | 1 |
 | images/learning_through_play/act_the_story_circle.svg | 82.5 | 1 |
@@ -1264,115 +1265,116 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/lego_foundation.png | 54.4 | 1 |
-| images/modules/connect/connect_1.svg | 29 | 3 |
-| images/modules/connect/connect_10.svg | 289.6 | 3 |
-| images/modules/connect/connect_11.svg | 8452.7 | 3 |
-| images/modules/connect/connect_12.svg | 187.7 | 3 |
-| images/modules/connect/connect_13.svg | 142.6 | 3 |
-| images/modules/connect/connect_14.svg | 34.3 | 3 |
-| images/modules/connect/connect_2.svg | 192.2 | 3 |
-| images/modules/connect/connect_3.gif | 77.9 | 3 |
-| images/modules/connect/connect_4.svg | 494.2 | 3 |
-| images/modules/connect/connect_5.svg | 129 | 3 |
-| images/modules/connect/connect_6.svg | 91.9 | 3 |
-| images/modules/connect/connect_7.svg | 43.9 | 3 |
-| images/modules/connect/connect_8.svg | 44.3 | 3 |
-| images/modules/connect/connect_9.svg | 32.3 | 3 |
-| images/modules/connect/connect_title_image.svg | 77.1 | 3 |
-| images/modules/connect/thumbs_down_brown.svg | 2 | 6 |
-| images/modules/connect/thumbs_up_brown.svg | 2 | 6 |
-| images/modules/create/create_1.svg | 18.3 | 3 |
-| images/modules/create/create_10.svg | 32.5 | 3 |
-| images/modules/create/create_11.svg | 71.3 | 3 |
-| images/modules/create/create_12.svg | 167 | 3 |
-| images/modules/create/create_13.svg | 104.1 | 3 |
-| images/modules/create/create_14.svg | 169.1 | 3 |
-| images/modules/create/create_15.svg | 142.5 | 3 |
-| images/modules/create/create_16.svg | 161.6 | 3 |
-| images/modules/create/create_17.svg | 40.1 | 3 |
-| images/modules/create/create_18.svg | 107.3 | 3 |
-| images/modules/create/create_19.svg | 197 | 3 |
-| images/modules/create/create_20.svg | 154.6 | 3 |
-| images/modules/create/create_21.svg | 23.6 | 3 |
-| images/modules/create/create_3.gif | 411.6 | 6 |
-| images/modules/create/create_4.svg | 184.6 | 3 |
-| images/modules/create/create_5.svg | 56.8 | 3 |
-| images/modules/create/create_6.svg | 79.1 | 3 |
-| images/modules/create/create_7.svg | 56.8 | 3 |
-| images/modules/create/create_8.svg | 86.3 | 3 |
-| images/modules/create/create_9.svg | 169 | 3 |
-| images/modules/create/create_title_image.svg | 83.8 | 3 |
-| images/modules/join/all_modules.svg | 769.8 | 3 |
-| images/modules/join/join_1.svg | 43.2 | 3 |
-| images/modules/join/join_10.gif | 940.7 | 3 |
-| images/modules/join/join_11.svg | 29.7 | 3 |
-| images/modules/join/join_12.svg | 486.4 | 3 |
-| images/modules/join/join_13.svg | 70.7 | 3 |
-| images/modules/join/join_14.svg | 365.5 | 3 |
-| images/modules/join/join_15.svg | 52.5 | 3 |
-| images/modules/join/join_16.svg | 120 | 3 |
-| images/modules/join/join_17.svg | 8460.8 | 3 |
-| images/modules/join/join_18.svg | 77.7 | 3 |
-| images/modules/join/join_19.svg | 213.1 | 3 |
-| images/modules/join/join_2.svg | 193.5 | 3 |
-| images/modules/join/join_20.svg | 82.5 | 3 |
-| images/modules/join/join_21.svg | 404.1 | 3 |
-| images/modules/join/join_22.svg | 34.3 | 3 |
-| images/modules/join/join_3.svg | 330.5 | 3 |
-| images/modules/join/join_4.svg | 44.3 | 3 |
-| images/modules/join/join_5.svg | 13.2 | 3 |
-| images/modules/join/join_6.svg | 39.5 | 3 |
-| images/modules/join/join_7.svg | 351.4 | 3 |
-| images/modules/join/join_8.svg | 43.3 | 3 |
-| images/modules/join/join_9.svg | 286.7 | 3 |
-| images/modules/join/join_title_image.svg | 36.4 | 3 |
-| images/modules/join/relax_1.svg | 128.8 | 3 |
-| images/modules/join/relax_2.svg | 20.7 | 3 |
-| images/modules/play/angry_emoji.svg | 1.4 | 6 |
-| images/modules/play/awake_emoji.svg | 1.9 | 3 |
-| images/modules/play/frustrated_emoji.svg | 1.8 | 3 |
-| images/modules/play/how_to_play_1.svg | 95.5 | 3 |
-| images/modules/play/how_to_play_2.svg | 105.5 | 3 |
-| images/modules/play/how_to_play_3.svg | 102.7 | 3 |
+| images/modules/connect/connect_1.svg | 29 | 2 |
+| images/modules/connect/connect_10.svg | 289.6 | 2 |
+| images/modules/connect/connect_11.svg | 8452.7 | 2 |
+| images/modules/connect/connect_12.svg | 187.7 | 2 |
+| images/modules/connect/connect_13.svg | 142.6 | 2 |
+| images/modules/connect/connect_14.svg | 34.3 | 2 |
+| images/modules/connect/connect_2.svg | 192.2 | 2 |
+| images/modules/connect/connect_3.gif | 77.9 | 2 |
+| images/modules/connect/connect_4.svg | 494.2 | 2 |
+| images/modules/connect/connect_5.svg | 129 | 2 |
+| images/modules/connect/connect_6.svg | 91.9 | 2 |
+| images/modules/connect/connect_7.svg | 43.9 | 2 |
+| images/modules/connect/connect_8.svg | 44.3 | 2 |
+| images/modules/connect/connect_9.svg | 32.3 | 2 |
+| images/modules/connect/connect_title_image.svg | 77.1 | 5 |
+| images/modules/connect/thumbs_down_brown.svg | 2.2 | 4 |
+| images/modules/connect/thumbs_up_brown.svg | 2.2 | 4 |
+| images/modules/create/create_1.svg | 18.3 | 2 |
+| images/modules/create/create_10.svg | 32.5 | 2 |
+| images/modules/create/create_11.svg | 71.3 | 2 |
+| images/modules/create/create_12.svg | 167 | 2 |
+| images/modules/create/create_13.svg | 104.1 | 2 |
+| images/modules/create/create_14.svg | 169.1 | 2 |
+| images/modules/create/create_15.svg | 142.5 | 2 |
+| images/modules/create/create_16.svg | 161.6 | 2 |
+| images/modules/create/create_17.svg | 40.1 | 2 |
+| images/modules/create/create_18.svg | 107.3 | 2 |
+| images/modules/create/create_19.svg | 197 | 2 |
+| images/modules/create/create_2.svg | 196 | 2 |
+| images/modules/create/create_20.svg | 154.6 | 2 |
+| images/modules/create/create_21.svg | 23.6 | 2 |
+| images/modules/create/create_3.gif | 411.6 | 4 |
+| images/modules/create/create_4.svg | 184.6 | 2 |
+| images/modules/create/create_5.svg | 56.8 | 2 |
+| images/modules/create/create_6.svg | 79.1 | 2 |
+| images/modules/create/create_7.svg | 56.8 | 2 |
+| images/modules/create/create_8.svg | 86.3 | 2 |
+| images/modules/create/create_9.svg | 169 | 2 |
+| images/modules/create/create_title_image.svg | 83.8 | 5 |
+| images/modules/join/all_modules.svg | 769.8 | 2 |
+| images/modules/join/join_1.svg | 43.2 | 2 |
+| images/modules/join/join_10.gif | 940.7 | 2 |
+| images/modules/join/join_11.svg | 29.7 | 2 |
+| images/modules/join/join_12.svg | 486.4 | 2 |
+| images/modules/join/join_13.svg | 70.7 | 2 |
+| images/modules/join/join_14.svg | 365.5 | 2 |
+| images/modules/join/join_15.svg | 52.5 | 2 |
+| images/modules/join/join_16.svg | 120 | 2 |
+| images/modules/join/join_17.svg | 8460.8 | 2 |
+| images/modules/join/join_18.svg | 77.7 | 2 |
+| images/modules/join/join_19.svg | 213.1 | 2 |
+| images/modules/join/join_2.svg | 193.5 | 2 |
+| images/modules/join/join_20.svg | 82.5 | 2 |
+| images/modules/join/join_21.svg | 404.1 | 2 |
+| images/modules/join/join_22.svg | 34.3 | 2 |
+| images/modules/join/join_3.svg | 330.5 | 2 |
+| images/modules/join/join_4.svg | 44.3 | 2 |
+| images/modules/join/join_5.svg | 13.2 | 2 |
+| images/modules/join/join_6.svg | 39.5 | 2 |
+| images/modules/join/join_7.svg | 351.4 | 2 |
+| images/modules/join/join_8.svg | 43.3 | 2 |
+| images/modules/join/join_9.svg | 286.7 | 2 |
+| images/modules/join/join_title_image.svg | 36.4 | 4 |
+| images/modules/join/relax_1.svg | 128.8 | 2 |
+| images/modules/join/relax_2.svg | 20.7 | 2 |
+| images/modules/play/angry_emoji.svg | 2.8 | 4 |
+| images/modules/play/awake_emoji.svg | 1.7 | 2 |
+| images/modules/play/frustrated_emoji.svg | 1.7 | 2 |
+| images/modules/play/how_to_play_1.svg | 95.5 | 2 |
+| images/modules/play/how_to_play_2.svg | 105.5 | 2 |
+| images/modules/play/how_to_play_3.svg | 102.7 | 2 |
 | images/modules/play/icon_book.svg | 1.1 | 8 |
 | images/modules/play/icon_light_bulb.svg | 3.5 | 6 |
 | images/modules/play/icon_star.svg | 1.3 | 6 |
-| images/modules/play/new_fertiliser.gif | 93.9 | 3 |
-| images/modules/play/play_module_ideas.svg | 43.9 | 3 |
-| images/modules/play/play_title_image.svg | 77.7 | 3 |
-| images/modules/play/power_of_play_1.svg | 81.2 | 3 |
-| images/modules/play/question_time.svg | 70.7 | 3 |
-| images/modules/play/ready_to_practice.svg | 34.3 | 3 |
-| images/modules/play/sad_emoji.svg | 1.7 | 6 |
-| images/modules/play/scared_emoji.svg | 1.9 | 3 |
-| images/modules/play/tired_emoji.svg | 1.5 | 6 |
-| images/modules/play/using_books_1.svg | 34.6 | 3 |
-| images/modules/play/using_books_2.svg | 106.2 | 3 |
-| images/modules/play/using_books_3.svg | 161.6 | 3 |
-| images/modules/play/using_books_4.svg | 111.5 | 3 |
-| images/modules/play/using_books_5.svg | 107.6 | 3 |
-| images/modules/play/why_play_1.svg | 29 | 3 |
-| images/modules/play/why_play_2.svg | 136.9 | 3 |
+| images/modules/play/new_fertiliser.gif | 93.9 | 2 |
+| images/modules/play/play_module_ideas.svg | 43.9 | 2 |
+| images/modules/play/play_title_image.svg | 77.7 | 5 |
+| images/modules/play/power_of_play_1.svg | 81.2 | 2 |
+| images/modules/play/question_time.svg | 70.7 | 2 |
+| images/modules/play/ready_to_practice.svg | 34.3 | 2 |
+| images/modules/play/sad_emoji.svg | 1.5 | 4 |
+| images/modules/play/scared_emoji.svg | 1.8 | 2 |
+| images/modules/play/tired_emoji.svg | 1.3 | 4 |
+| images/modules/play/using_books_1.svg | 34.6 | 2 |
+| images/modules/play/using_books_2.svg | 106.2 | 2 |
+| images/modules/play/using_books_3.svg | 161.6 | 2 |
+| images/modules/play/using_books_4.svg | 111.5 | 2 |
+| images/modules/play/using_books_5.svg | 107.6 | 2 |
+| images/modules/play/why_play_1.svg | 29 | 2 |
+| images/modules/play/why_play_2.svg | 136.9 | 2 |
 | images/relax/relax_1.svg | 25.9 | 1 |
-| images/relax/relax_10.svg | 10.3 | 3 |
+| images/relax/relax_10.svg | 10.3 | 2 |
 | images/relax/relax_11.svg | 10.9 | 1 |
 | images/relax/relax_12.svg | 23.9 | 1 |
 | images/relax/relax_13.svg | 37.3 | 1 |
 | images/relax/relax_14.svg | 34.6 | 1 |
 | images/relax/relax_15.svg | 26.6 | 1 |
 | images/relax/relax_16.svg | 22 | 1 |
-| images/relax/relax_17.svg | 28.9 | 3 |
+| images/relax/relax_17.svg | 28.9 | 2 |
 | images/relax/relax_18.svg | 16.2 | 1 |
 | images/relax/relax_19.svg | 94.1 | 1 |
 | images/relax/relax_2.svg | 5.5 | 1 |
 | images/relax/relax_20.svg | 71.5 | 1 |
-| images/relax/relax_21.svg | 31.4 | 3 |
+| images/relax/relax_21.svg | 31.4 | 2 |
 | images/relax/relax_22.svg | 174.4 | 1 |
 | images/relax/relax_23.svg | 26 | 1 |
 | images/relax/relax_24.svg | 145.5 | 1 |
 | images/relax/relax_25.svg | 10 | 1 |
 | images/relax/relax_3.svg | 2.8 | 1 |
-| images/relax/relax_4.svg | 20.7 | 3 |
+| images/relax/relax_4.svg | 20.7 | 2 |
 | images/relax/relax_5.svg | 21.6 | 1 |
 | images/relax/relax_6.svg | 89.5 | 1 |
 | images/relax/relax_7.svg | 80.6 | 1 |
@@ -1386,16 +1388,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 28 |
+| data_list |  | 29 |
 | data_list | app_config_language_list | 1 |
-| data_list | generated | 38 |
+| data_list | generated | 12 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
-| data_pipe |  | 2 |
-| data_pipe | generated | 28 |
-| generator |  | 24 |
+| data_pipe |  | 3 |
+| data_pipe | generated | 7 |
+| generator |  | 20 |
 | global |  | 2 |
-| template |  | 59 |
+| template |  | 61 |
 | template | generated | 345 |
 | template | legal_terms | 4 |
 </details>

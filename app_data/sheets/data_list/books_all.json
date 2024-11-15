@@ -40,7 +40,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -202,7 +204,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {}
+        "licence": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -252,7 +256,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {}
+        "licence": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -301,7 +307,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -477,7 +485,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -605,68 +615,96 @@
       "images_attributions": "Cover page: Mother and child holding a red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 2: Child hugging mother in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 3: Child and mother hugging, sleeping, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 4: Adult in red coat excited, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 5: Mom kneeling next to child, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 6: Child hugging mother as she leaves, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 7: Child lying on red coat with food, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 8: Child painting in red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 9: Child and adult gardening, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 10: Child sleeping with dirty red coat, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 11: Washed clothes on line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 12: Red coat falling on lady coming out of car, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 13: Mother patting child on head, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 14: Clothes on drying line, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license. Page 15: Dirty red coat hanging, by Brad Cuzen © Book Dash, 2022. Some rights reserved. Released under CC BY 4.0 license.",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "_translations": {
-        "guidance_cover": {},
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
-        "guidance_1_a": {},
+        "guidance_1_a": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
-        "guidance_2_a": {},
+        "guidance_2_a": {
+          "tz_sw": true
+        },
         "text_3": {
           "tz_sw": true
         },
-        "guidance_3_a": {},
+        "guidance_3_a": {
+          "tz_sw": true
+        },
         "text_4": {
           "tz_sw": true
         },
-        "guidance_4_a": {},
+        "guidance_4_a": {
+          "tz_sw": true
+        },
         "text_5": {
           "tz_sw": true
         },
-        "guidance_5_a": {},
+        "guidance_5_a": {
+          "tz_sw": true
+        },
         "text_6_left": {
           "tz_sw": true
         },
         "text_6_right": {
           "tz_sw": true
         },
-        "guidance_6_a": {},
+        "guidance_6_a": {
+          "tz_sw": true
+        },
         "text_7": {
           "tz_sw": true
         },
         "text_7_left": {
           "tz_sw": true
         },
-        "guidance_7_a": {},
+        "guidance_7_a": {
+          "tz_sw": true
+        },
         "text_8": {
           "tz_sw": true
         },
-        "guidance_8_a": {},
+        "guidance_8_a": {
+          "tz_sw": true
+        },
         "text_9": {
           "tz_sw": true
         },
-        "guidance_9_a": {},
+        "guidance_9_a": {
+          "tz_sw": true
+        },
         "text_10": {
           "tz_sw": true
         },
-        "guidance_10_a": {},
+        "guidance_10_a": {
+          "tz_sw": true
+        },
         "text_11": {
           "tz_sw": true
         },
-        "guidance_11_a": {},
+        "guidance_11_a": {
+          "tz_sw": true
+        },
         "text_12": {
           "tz_sw": true
         },
-        "guidance_12_a": {}
+        "guidance_12_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {
@@ -827,7 +865,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -978,7 +1018,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -1089,7 +1131,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -1232,7 +1276,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -1324,7 +1370,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -1457,7 +1505,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -1591,7 +1641,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -1738,7 +1790,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -1870,7 +1924,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -1978,7 +2034,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -2103,7 +2161,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -2221,63 +2281,93 @@
       "image_12_asset": "images/books/lesedis_sandbox/page15.jpg",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "_translations": {
-        "guidance_cover": {},
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
-        "guidance_1_a": {},
+        "guidance_1_a": {
+          "tz_sw": true
+        },
         "text_2_right": {
           "tz_sw": true
         },
-        "guidance_2_a": {},
+        "guidance_2_a": {
+          "tz_sw": true
+        },
         "text_3_left": {
           "tz_sw": true
         },
-        "guidance_3_a": {},
+        "guidance_3_a": {
+          "tz_sw": true
+        },
         "text_4_left": {
           "tz_sw": true
         },
-        "guidance_4_a": {},
+        "guidance_4_a": {
+          "tz_sw": true
+        },
         "text_5_left": {
           "tz_sw": true
         },
-        "guidance_5_a": {},
+        "guidance_5_a": {
+          "tz_sw": true
+        },
         "text_6_left": {
           "tz_sw": true
         },
-        "guidance_6_a": {},
+        "guidance_6_a": {
+          "tz_sw": true
+        },
         "text_7_right": {
           "tz_sw": true
         },
-        "guidance_7_a": {},
+        "guidance_7_a": {
+          "tz_sw": true
+        },
         "text_8_left": {
           "tz_sw": true
         },
-        "guidance_8_a": {},
+        "guidance_8_a": {
+          "tz_sw": true
+        },
         "text_9_right": {
           "tz_sw": true
         },
-        "guidance_9_a": {},
+        "guidance_9_a": {
+          "tz_sw": true
+        },
         "text_10_left": {
           "tz_sw": true
         },
-        "guidance_10_a": {},
+        "guidance_10_a": {
+          "tz_sw": true
+        },
         "text_11_right": {
           "tz_sw": true
         },
-        "guidance_11_a": {},
+        "guidance_11_a": {
+          "tz_sw": true
+        },
         "text_12_left": {
           "tz_sw": true
         },
-        "guidance_12_a": {},
-        "guidance_13_a": {}
+        "guidance_12_a": {
+          "tz_sw": true
+        },
+        "guidance_13_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {
@@ -2426,60 +2516,90 @@
       "image_13_asset": "images/books/little_shoots/page17.jpg",
       "guidance_cover": "Discuss the book’s cover. Ask your child: What do you see? What is the woman pointing to?",
       "_translations": {
-        "guidance_cover": {},
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
-        "guidance_1_a": {},
+        "guidance_1_a": {
+          "tz_sw": true
+        },
         "text_2_left": {
           "tz_sw": true
         },
         "text_2_right": {
           "tz_sw": true
         },
-        "guidance_2_a": {},
+        "guidance_2_a": {
+          "tz_sw": true
+        },
         "text_3_right": {
           "tz_sw": true
         },
-        "guidance_3_a": {},
+        "guidance_3_a": {
+          "tz_sw": true
+        },
         "text_4_left": {
           "tz_sw": true
         },
         "text_4_right": {
           "tz_sw": true
         },
-        "guidance_4_a": {},
-        "guidance_5_a": {},
+        "guidance_4_a": {
+          "tz_sw": true
+        },
+        "guidance_5_a": {
+          "tz_sw": true
+        },
         "text_6_left": {
           "tz_sw": true
         },
         "text_6_right": {
           "tz_sw": true
         },
-        "guidance_6_a": {},
-        "guidance_7_a": {},
+        "guidance_6_a": {
+          "tz_sw": true
+        },
+        "guidance_7_a": {
+          "tz_sw": true
+        },
         "text_8_left": {
           "tz_sw": true
         },
-        "guidance_8_a": {},
-        "guidance_9_a": {},
+        "guidance_8_a": {
+          "tz_sw": true
+        },
+        "guidance_9_a": {
+          "tz_sw": true
+        },
         "text_10_left": {
           "tz_sw": true
         },
-        "guidance_10_a": {},
-        "guidance_11_a": {},
+        "guidance_10_a": {
+          "tz_sw": true
+        },
+        "guidance_11_a": {
+          "tz_sw": true
+        },
         "text_12": {
           "tz_sw": true
         },
-        "guidance_12_a": {},
-        "guidance_13_a": {}
+        "guidance_12_a": {
+          "tz_sw": true
+        },
+        "guidance_13_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {
@@ -2626,7 +2746,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -2807,7 +2929,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -2934,69 +3058,99 @@
       "image_13_asset": "images/books/the_things_that_really_matter/page16.jpg",
       "guidance_cover": "Bring your child’s attention to the book’s cover. Ask: What are they doing? What do you think this story could be about?",
       "_translations": {
-        "guidance_cover": {},
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_right": {
           "tz_sw": true
         },
-        "guidance_1_a": {},
+        "guidance_1_a": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
-        "guidance_2_a": {},
+        "guidance_2_a": {
+          "tz_sw": true
+        },
         "text_3_right": {
           "tz_sw": true
         },
-        "guidance_3_a": {},
+        "guidance_3_a": {
+          "tz_sw": true
+        },
         "text_4_left": {
           "tz_sw": true
         },
-        "guidance_4_a": {},
+        "guidance_4_a": {
+          "tz_sw": true
+        },
         "text_5_right": {
           "tz_sw": true
         },
-        "guidance_5_a": {},
+        "guidance_5_a": {
+          "tz_sw": true
+        },
         "text_6_left": {
           "tz_sw": true
         },
         "text_6_right": {
           "tz_sw": true
         },
-        "guidance_6_a": {},
+        "guidance_6_a": {
+          "tz_sw": true
+        },
         "text_7_right": {
           "tz_sw": true
         },
-        "guidance_7_a": {},
+        "guidance_7_a": {
+          "tz_sw": true
+        },
         "text_8_left": {
           "tz_sw": true
         },
         "text_8_right": {
           "tz_sw": true
         },
-        "guidance_8_a": {},
+        "guidance_8_a": {
+          "tz_sw": true
+        },
         "text_9_right": {
           "tz_sw": true
         },
-        "guidance_9_a": {},
+        "guidance_9_a": {
+          "tz_sw": true
+        },
         "text_10_left": {
           "tz_sw": true
         },
-        "guidance_10_a": {},
+        "guidance_10_a": {
+          "tz_sw": true
+        },
         "text_11_right": {
           "tz_sw": true
         },
-        "guidance_11_a": {},
+        "guidance_11_a": {
+          "tz_sw": true
+        },
         "text_12_right": {
           "tz_sw": true
         },
-        "guidance_12_a": {},
-        "guidance_13_a": {}
+        "guidance_12_a": {
+          "tz_sw": true
+        },
+        "guidance_13_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {
@@ -3152,27 +3306,57 @@
       "image_13_asset": "images/books/to_the_top/page17.jpg",
       "guidance_cover": "Discuss the book’s cover. Ask your child: What do you see? Where do you think they might be going?",
       "_translations": {
-        "guidance_cover": {},
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
         "description": {
           "tz_sw": true
         },
-        "licence": {},
-        "guidance_1_a": {},
-        "guidance_2_a": {},
-        "guidance_3_a": {},
-        "guidance_4_a": {},
-        "guidance_5_a": {},
-        "guidance_6_a": {},
-        "guidance_7_a": {},
-        "guidance_8_a": {},
-        "guidance_9_a": {},
-        "guidance_10_a": {},
-        "guidance_11_a": {},
-        "guidance_12_a": {},
-        "guidance_13_a": {}
+        "licence": {
+          "tz_sw": true
+        },
+        "guidance_1_a": {
+          "tz_sw": true
+        },
+        "guidance_2_a": {
+          "tz_sw": true
+        },
+        "guidance_3_a": {
+          "tz_sw": true
+        },
+        "guidance_4_a": {
+          "tz_sw": true
+        },
+        "guidance_5_a": {
+          "tz_sw": true
+        },
+        "guidance_6_a": {
+          "tz_sw": true
+        },
+        "guidance_7_a": {
+          "tz_sw": true
+        },
+        "guidance_8_a": {
+          "tz_sw": true
+        },
+        "guidance_9_a": {
+          "tz_sw": true
+        },
+        "guidance_10_a": {
+          "tz_sw": true
+        },
+        "guidance_11_a": {
+          "tz_sw": true
+        },
+        "guidance_12_a": {
+          "tz_sw": true
+        },
+        "guidance_13_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {
@@ -3277,7 +3461,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -3403,7 +3589,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -3528,62 +3716,90 @@
       "image_12_asset": "images/books/babys_first_photo/page15.jpg",
       "guidance_cover": "Discuss the book’s cover. Ask: What do you see? What do you think this story is about?",
       "_translations": {
-        "guidance_cover": {},
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
-        "guidance_1_a": {},
+        "guidance_1_a": {
+          "tz_sw": true
+        },
         "text_2_left": {
           "tz_sw": true
         },
-        "guidance_2_a": {},
+        "guidance_2_a": {
+          "tz_sw": true
+        },
         "text_3_left": {
           "tz_sw": true
         },
-        "guidance_3_a": {},
+        "guidance_3_a": {
+          "tz_sw": true
+        },
         "text_4_left": {
           "tz_sw": true
         },
-        "guidance_4_a": {},
+        "guidance_4_a": {
+          "tz_sw": true
+        },
         "text_5_left": {
           "tz_sw": true
         },
-        "guidance_5_a": {},
+        "guidance_5_a": {
+          "tz_sw": true
+        },
         "text_6_left": {
           "tz_sw": true
         },
-        "guidance_6_a": {},
+        "guidance_6_a": {
+          "tz_sw": true
+        },
         "text_7_left": {
           "tz_sw": true
         },
-        "guidance_7_a": {},
+        "guidance_7_a": {
+          "tz_sw": true
+        },
         "text_8_left": {
           "tz_sw": true
         },
-        "guidance_8_a": {},
+        "guidance_8_a": {
+          "tz_sw": true
+        },
         "text_9_left": {
           "tz_sw": true
         },
-        "guidance_9_a": {},
+        "guidance_9_a": {
+          "tz_sw": true
+        },
         "text_10_left": {
           "tz_sw": true
         },
-        "guidance_10_a": {},
+        "guidance_10_a": {
+          "tz_sw": true
+        },
         "text_11_left": {
           "tz_sw": true
         },
         "text_11_right": {
           "tz_sw": true
         },
-        "guidance_11_a": {},
-        "guidance_12_a": {}
+        "guidance_11_a": {
+          "tz_sw": true
+        },
+        "guidance_12_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {
@@ -3734,7 +3950,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_right": {
           "tz_sw": true
         },
@@ -3888,7 +4106,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -4215,7 +4435,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -4351,7 +4573,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -4514,7 +4738,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -4676,7 +4902,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -4831,7 +5059,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -4932,7 +5162,9 @@
         "title": {
           "tz_sw": true
         },
-        "description": {},
+        "description": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -5065,7 +5297,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -5226,7 +5460,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -5369,7 +5605,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -5521,7 +5759,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -5686,7 +5926,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -5791,7 +6033,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -5882,7 +6126,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -6032,7 +6278,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -6209,60 +6457,90 @@
       "image_14_asset": "images/books/shongololo_s_shoes/image_15.jpg",
       "guidance_cover": "Discuss the book’s cover. Ask: What do you see? Where is the millipede shongololo sitting?",
       "_translations": {
-        "guidance_cover": {},
+        "guidance_cover": {
+          "tz_sw": true
+        },
         "title": {
           "tz_sw": true
         },
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
-        "guidance_1_a": {},
+        "guidance_1_a": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
-        "guidance_2_a": {},
+        "guidance_2_a": {
+          "tz_sw": true
+        },
         "text_3": {
           "tz_sw": true
         },
-        "guidance_3_a": {},
+        "guidance_3_a": {
+          "tz_sw": true
+        },
         "text_4": {
           "tz_sw": true
         },
-        "guidance_4_a": {},
+        "guidance_4_a": {
+          "tz_sw": true
+        },
         "text_5": {
           "tz_sw": true
         },
-        "guidance_5_a": {},
+        "guidance_5_a": {
+          "tz_sw": true
+        },
         "text_6": {
           "tz_sw": true
         },
-        "guidance_6_a": {},
+        "guidance_6_a": {
+          "tz_sw": true
+        },
         "text_7": {
           "tz_sw": true
         },
-        "guidance_7_a": {},
+        "guidance_7_a": {
+          "tz_sw": true
+        },
         "text_8": {
           "tz_sw": true
         },
-        "guidance_8_a": {},
+        "guidance_8_a": {
+          "tz_sw": true
+        },
         "text_9": {
           "tz_sw": true
         },
-        "guidance_9_a": {},
+        "guidance_9_a": {
+          "tz_sw": true
+        },
         "text_10": {
           "tz_sw": true
         },
-        "guidance_10_a": {},
+        "guidance_10_a": {
+          "tz_sw": true
+        },
         "text_11": {
           "tz_sw": true
         },
-        "guidance_11_a": {},
-        "guidance_12_a": {},
-        "guidance_13_a": {}
+        "guidance_11_a": {
+          "tz_sw": true
+        },
+        "guidance_12_a": {
+          "tz_sw": true
+        },
+        "guidance_13_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {
@@ -6408,7 +6686,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -6549,7 +6829,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -6773,7 +7055,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -6912,7 +7196,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -7046,7 +7332,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {}
+        "licence": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -7097,7 +7385,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -7230,7 +7520,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -7363,7 +7655,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -7493,7 +7787,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -7656,7 +7952,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -7805,7 +8103,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -7939,7 +8239,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -8100,7 +8402,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -8239,7 +8543,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -8365,7 +8671,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_right": {
           "tz_sw": true
         },
@@ -8498,7 +8806,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -8651,7 +8961,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_right": {
           "tz_sw": true
         },
@@ -8777,7 +9089,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {}
+        "licence": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -8827,7 +9141,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -8961,7 +9277,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_left": {
           "tz_sw": true
         },
@@ -9093,7 +9411,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -9221,7 +9541,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_right": {
           "tz_sw": true
         },
@@ -9359,7 +9681,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_1_right": {
           "tz_sw": true
         },
@@ -9466,7 +9790,9 @@
         "description": {
           "tz_sw": true
         },
-        "licence": {},
+        "licence": {
+          "tz_sw": true
+        },
         "text_6": {
           "tz_sw": true
         }
@@ -9515,23 +9841,57 @@
       "image_14_asset": "images/books/lefas_bath/page17.jpg",
       "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
       "_translations": {
-        "guidance_cover": {},
-        "title": {},
-        "description": {},
-        "licence": {},
-        "guidance_1_a": {},
-        "guidance_2_a": {},
-        "guidance_3_a": {},
-        "guidance_4_a": {},
-        "guidance_5_a": {},
-        "guidance_6_a": {},
-        "guidance_7_a": {},
-        "guidance_8_a": {},
-        "guidance_9_a": {},
-        "guidance_10_a": {},
-        "guidance_11_a": {},
-        "guidance_12_a": {},
-        "guidance_13_a": {}
+        "guidance_cover": {
+          "tz_sw": true
+        },
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "licence": {
+          "tz_sw": true
+        },
+        "guidance_1_a": {
+          "tz_sw": true
+        },
+        "guidance_2_a": {
+          "tz_sw": true
+        },
+        "guidance_3_a": {
+          "tz_sw": true
+        },
+        "guidance_4_a": {
+          "tz_sw": true
+        },
+        "guidance_5_a": {
+          "tz_sw": true
+        },
+        "guidance_6_a": {
+          "tz_sw": true
+        },
+        "guidance_7_a": {
+          "tz_sw": true
+        },
+        "guidance_8_a": {
+          "tz_sw": true
+        },
+        "guidance_9_a": {
+          "tz_sw": true
+        },
+        "guidance_10_a": {
+          "tz_sw": true
+        },
+        "guidance_11_a": {
+          "tz_sw": true
+        },
+        "guidance_12_a": {
+          "tz_sw": true
+        },
+        "guidance_13_a": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "guidance_cover": {

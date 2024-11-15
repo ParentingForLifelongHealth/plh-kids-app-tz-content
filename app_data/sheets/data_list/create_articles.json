@@ -11,8 +11,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/11NzUX6GN9mp_PgZ1oAq942uQC3vdqUOU_0JjjIOa-LE",
       "text_1": "This week, we want to talk about the environment you **CREATE** for your child.",
       "_translations": {
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -33,7 +37,9 @@
         "title": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -56,11 +62,15 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -88,12 +98,18 @@
       "media_asset": "audio/modules/create/how_create_1.mp3",
       "text_1_facilitator": "Here’s how you can create a positive environment for your child:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -119,8 +135,12 @@
       "image_asset": "images/modules/create/create_5.svg",
       "text_1_facilitator": "Need some convincing? Let’s do an exercise:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -138,7 +158,9 @@
       "image_asset": "images/modules/create/create_6.svg",
       "text_2": "You probably DID think about an elephant...\n\n‘Don’t do’ instructions make children think about that thing.\n\nSometimes they do not understand what we DID want from them.\n\nAlso they often don’t like being told not to do things (just like most of us).",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -152,7 +174,9 @@
       "image_asset": "images/modules/create/create_7.svg",
       "text_2": "NOW, THINK ABOUT A CHEETAH! \n\nWhat are you thinking about?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -168,11 +192,15 @@
       "media_asset": "audio/modules/create/how_create_5.mp3",
       "text_2": "That’s right - a cheetah! Positive, clear instructions help children focus on what they should be doing.",
       "_translations": {
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -195,10 +223,18 @@
       "section_1_image_asset": "images/modules/create/create_10.svg",
       "text_2": "**Use praise to encourage positive behaviour**\nIf we praise our children when they do something well, we will see them do more and more positive things!",
       "_translations": {
-        "text_2": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -230,30 +266,54 @@
       "quiz_2_option_3_image_asset": "images/modules/play/tired_emoji.svg",
       "title": "**Question time:**",
       "_translations": {
-        "title": {},
-        "text_2": {},
-        "quiz_1_question": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_2_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {},
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_2_option_3_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_3": {}
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -326,13 +386,21 @@
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_12.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/create/power_create_2.mp2",
+      "media_asset": "audio/modules/create/power_create_2.mp3",
       "text_1_facilitator": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:",
       "_translations": {
-        "text_1_facilitator": {},
-        "image_text": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -360,9 +428,15 @@
       "media_asset": "audio/modules/create/power_create_3.mp3",
       "image_text": "Catch!",
       "_translations": {
-        "image_text": {},
-        "media_title": {},
-        "media_transcript": {}
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "image_text": {
@@ -386,9 +460,15 @@
       "media_asset": "audio/modules/create/power_create_4.mp2",
       "image_text": "Neema, Robert - it’s time to put the ball away and come inside now.",
       "_translations": {
-        "image_text": {},
-        "media_title": {},
-        "media_transcript": {}
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "image_text": {
@@ -412,9 +492,15 @@
       "media_asset": "audio/modules/create/power_create_5.mp3",
       "image_text": "Thank you for coming inside when I asked you to. Please go wash your hands and then I will tell you a story.",
       "_translations": {
-        "image_text": {},
-        "media_title": {},
-        "media_transcript": {}
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "image_text": {
@@ -438,9 +524,15 @@
       "media_asset": "audio/modules/create/power_create_6.mp3",
       "image_text": "Thank you for washing up so nicely. Let’s sit down and read a story together.",
       "_translations": {
-        "image_text": {},
-        "media_title": {},
-        "media_transcript": {}
+        "image_text": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "image_text": {
@@ -462,8 +554,12 @@
       "image_asset": "images/modules/create/create_3.gif",
       "text_1_facilitator": "Remember that what gets light will grow!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -481,8 +577,12 @@
       "image_asset": "images/modules/create/create_17.svg",
       "text_1": "Book activities are a great opportunity to give your child positive attention.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -502,11 +602,15 @@
       "media_asset": "audio/modules/create/create_03.mp3",
       "text_1": "As you go through the book together, respond to what your child is saying in a positive and enthusiastic way.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -530,12 +634,18 @@
       "media_asset": "audio/modules/create/create_02.mp3",
       "text_1": "Avoid being critical or negative.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -561,8 +671,12 @@
       "image_asset": "images/modules/create/create_20.svg",
       "text_1": "Three easy ways to use book activities to create positive interactions:\n1. Respond in a positive way to what your child is saying\n2. Avoid being critical or negative\n3. Praise your child’s efforts.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -580,7 +694,9 @@
       "image_asset": "images/modules/create/create_21.svg",
       "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Find opportunities to give your child positive attention every day.\n📖 Share books with your child in a fun and positive way.\n😌 Remember to praise yourself too for your hard work as a parent.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

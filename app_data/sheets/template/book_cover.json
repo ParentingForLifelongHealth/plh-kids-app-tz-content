@@ -251,7 +251,9 @@
       "name": "author",
       "value": "Author",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "author"
@@ -260,7 +262,9 @@
       "name": "illustrator",
       "value": "Illustrator",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "illustrator"
