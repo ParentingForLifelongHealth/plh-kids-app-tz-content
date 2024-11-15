@@ -15,7 +15,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1h3wNodphmp0PCZueby4UdtvBke5O6EqzcJPHNC2v7uY",
       "title": "Quick Pause",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -40,7 +42,9 @@
       "image_cover_asset": "images/relax/relax_2.svg",
       "title": "Power of Three",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -65,7 +69,9 @@
       "image_cover_asset": "images/relax/relax_3.svg",
       "title": "One Thing Today",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -90,7 +96,9 @@
       "image_cover_asset": "images/relax/relax_4.svg",
       "title": "Breathe to Three",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -115,7 +123,9 @@
       "image_cover_asset": "images/relax/relax_5.svg",
       "title": "In and Out",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -140,7 +150,9 @@
       "image_cover_asset": "images/relax/relax_6.svg",
       "title": "Think About Today",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -165,7 +177,9 @@
       "image_cover_asset": "images/relax/relax_7.svg",
       "title": "Pause to Respond",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -190,7 +204,9 @@
       "image_cover_asset": "images/relax/relax_8.svg",
       "title": "Small Things",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -215,7 +231,9 @@
       "image_cover_asset": "images/relax/relax_9.svg",
       "title": "Body Scan",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -240,7 +258,9 @@
       "image_cover_asset": "images/relax/relax_10.svg",
       "title": "Feel the Ground",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -265,7 +285,9 @@
       "image_cover_asset": "images/relax/relax_11.svg",
       "title": "Counting Sounds",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -290,7 +312,9 @@
       "image_cover_asset": "images/relax/relax_12.svg",
       "title": "Feel your Feelings",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -315,7 +339,9 @@
       "image_cover_asset": "images/relax/relax_13.svg",
       "title": "Your Song",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -341,7 +367,9 @@
       "image_cover_asset": "images/relax/relax_14.svg",
       "title": "Ground & Gratitude",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -366,7 +394,9 @@
       "image_cover_asset": "images/relax/relax_15.svg",
       "title": "Notice How You Feel",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -391,7 +421,9 @@
       "image_cover_asset": "images/relax/relax_16.svg",
       "title": "Pause Power",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -416,7 +448,9 @@
       "image_cover_asset": "images/relax/relax_17.svg",
       "title": "Praise Yourself",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -441,7 +475,9 @@
       "image_cover_asset": "images/relax/relax_18.svg",
       "title": "Taking Care of Yourself",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -466,7 +502,9 @@
       "image_cover_asset": "images/relax/relax_19.svg",
       "title": "Take a Pause",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -491,7 +529,9 @@
       "image_cover_asset": "images/relax/relax_20.svg",
       "title": "Physical Activity",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -516,7 +556,9 @@
       "image_cover_asset": "images/relax/relax_21.svg",
       "title": "List of Things",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -568,7 +610,9 @@
       "image_cover_asset": "images/relax/relax_23.svg",
       "title": "Prevent Anger",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -593,7 +637,9 @@
       "image_cover_asset": "images/relax/relax_24.svg",
       "title": "Angry? Take a Break",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -618,8 +664,12 @@
       "image_cover_asset": "images/relax/relax_25.svg",
       "title": "What’s in Your Cup?",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

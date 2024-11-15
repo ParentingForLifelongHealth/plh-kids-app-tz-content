@@ -405,7 +405,9 @@
       "name": "title_1",
       "value": "Steps",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "title_1"
@@ -414,7 +416,9 @@
       "name": "title_2",
       "value": "Tips",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "title_2"

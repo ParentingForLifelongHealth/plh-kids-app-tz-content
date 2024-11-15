@@ -190,7 +190,9 @@
       "name": "debug_active_page",
       "value": "Local active page: @local.active_page",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": false,
       "_nested_name": "debug_active_page",
@@ -410,7 +412,9 @@
       "name": "debug_last_page",
       "value": "Last page: @local.last_page",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": false,
       "_nested_name": "debug_last_page",

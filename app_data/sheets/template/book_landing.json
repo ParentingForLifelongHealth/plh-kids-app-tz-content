@@ -26,7 +26,9 @@
       "name": "module_id",
       "value": "connect",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "module_id"
@@ -45,7 +47,9 @@
       "name": "prepare",
       "value": "prepare",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "prepare"
@@ -359,7 +363,9 @@
       "name": "author",
       "value": "Author",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "author"
@@ -368,7 +374,9 @@
       "name": "illustrator",
       "value": "Illustrator",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "illustrator"
@@ -649,7 +657,9 @@
       "name": "prepare_title",
       "value": "Prepare",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "prepare_title"
@@ -757,7 +767,9 @@
       "name": "read_child_title",
       "value": "Read with Child",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "read_child_title"

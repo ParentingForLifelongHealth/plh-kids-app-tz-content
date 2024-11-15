@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Import user",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "title"
     },
@@ -16,7 +18,9 @@
       "name": "user_id_name",
       "value": "User ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "user_id_name"
@@ -26,7 +30,9 @@
       "name": "text_instruction",
       "value": "Paste the @local.user_id_name to import their account data.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "text_instruction",
       "_dynamicFields": {
@@ -55,7 +61,9 @@
       "name": "button_import",
       "value": "Import data",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {

@@ -95,7 +95,9 @@
       "name": "module",
       "value": "Module",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "module"
@@ -480,7 +482,9 @@
       "name": "title_hp",
       "value": "Home Activities",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "title_hp"

@@ -13,7 +13,9 @@
       "image_cover_asset": "images/relax/relax_21.svg",
       "title": "List of Things",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -121,8 +123,12 @@
       "category_id": "why_play",
       "text_1": "Creating time and space for children to play is as important as eating and sleeping!",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -143,7 +149,9 @@
         "title": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -214,9 +222,15 @@
       "category_id": "how_play",
       "text_1": "There is no right or wrong way to play. The important thing is to have fun together.",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/play/how_to_play_1.svg",
       "text_2": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
@@ -238,8 +252,12 @@
       "image_asset": "images/modules/play/how_to_play_2.svg",
       "text_2": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development.",
       "_translations": {
-        "text_2": {},
-        "media_transcript": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "Connecting with your child in a playful way every day helps your child to feel close to you, and it helps them to grow and learn. Joining your child in play does not mean taking over what they are doing or telling them what to do differently. It means being part of the activity in a way that your child will enjoy.",
       "completed": false
@@ -255,7 +273,9 @@
       "image_asset": "images/modules/play/how_to_play_3.svg",
       "text_2": "**Keep it joyful and fun!**\nBeing playful does not mean that your child won’t respect you or take you seriously: play actually helps to strengthen your relationship with your child. And when relationships are strong, dealing with stress and challenges become easier.",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -322,7 +342,9 @@
         "media_transcript": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "media_title": "Listen to learn more:",
       "media_transcript": "Sometimes children don’t want to cooperate or listen, which is very frustrating for parents. Our first reaction might be to yell, scream or threaten our child so that they will listen or do as we say. This may seem like a good idea in the moment, but it doesn’t help us or our children long term.  \nBecause children love to play games, be silly and have fun, you can use this to help your child cooperate and complete tasks. They won’t even realise they are doing as they are told!",
@@ -345,9 +367,15 @@
       "category_id": "power_play",
       "text_1": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "image_text": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/books/i_dont_want_to_go_to_sleep/i-dont-want-to-go-to-sleep_en_20181206_cover.jpg",
       "text_1_facilitator": "Playful interactions are a great way to do this. **Let’s take a look at an example:**",
@@ -554,7 +582,9 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
@@ -625,7 +655,9 @@
       "id": "the_power_of_play_16",
       "title": "Question time:",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
@@ -754,7 +786,9 @@
       "category_id": "power_play",
       "text_1": "Here are some more ideas for using play to help your child to cooperate with what you need them to do.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -778,7 +812,9 @@
       "image_asset": "images/modules/play/using_books_1.svg",
       "text_1_facilitator": "Book activities can be playful too! Here are some ways that you can make book activities fun.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -800,11 +836,15 @@
       "category_id": "books_play",
       "text_1": "Use a lively, playful voice, with different voices for different characters.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/play/using_books_2.svg",
       "media_title": "Listen to this example:",
@@ -865,7 +905,9 @@
       "category_id": "books_play",
       "text_1": "Three easy ways to make book activities fun:\n\n1. Use a lively, playful voice to bring the story to life\n2. Mimic different actions from the story\n3. Mimic different sounds from the story",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         }
@@ -884,7 +926,9 @@
       "category_id": "practice",
       "text_1": "Small actions, big results! Parents who practise at home get better results.\n\nFor your home practice:\n🤝 Make some time to interact with your child in playful ways.\n📖 Use books and stories to have fun together.\n😌 Remember to make time for yourself to have fun and relax too.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/play/ready_to_practice.svg",
       "completed": false

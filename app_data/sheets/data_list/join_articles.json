@@ -11,8 +11,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/14tosyClbj4_AdiiHF1ukwTYZ5h_5fftTy1u5j4GpaoE",
       "text_1": "Being a parent is stressful!",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -30,7 +34,9 @@
       "image_asset": "images/modules/join/relax_2.svg",
       "text_1_facilitator": "That’s why every ParentApp module starts with a “Relax” activity to help you slow down and take a moment for yourself.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -48,14 +54,30 @@
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1": "Well done for starting your ParentApp journey, it’s good to have you here.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -97,7 +119,9 @@
       "image_asset": "images/modules/join/all_modules.svg",
       "text_1": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -113,11 +137,15 @@
       "media_asset": "audio/modules/join/welcome_2.mp3",
       "text_1": "Every ParentApp module will support you to:\n1. build a strong relationship with your child\n2. use books and stories to boost your child’s learning\n3. take care of yourself",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -139,8 +167,12 @@
       "image_asset": "images/modules/join/join_3.svg",
       "text_1_facilitator": "**ParentApp supports you to take care of yourself.**",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -158,7 +190,9 @@
       "image_asset": "images/modules/join/join_4.svg",
       "text_2": "Why is my wellbeing important to my child?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -172,10 +206,18 @@
       "section_1_image_asset": "images/modules/join/join_5.svg",
       "text_1_facilitator": "Great question. Caring for others starts with caring for yourself.",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -201,7 +243,9 @@
       "image_asset": "images/modules/join/join_6.svg",
       "text_1": "Every week, ParentApp will support you to take a pause, relax, and look after yourself.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -216,12 +260,18 @@
       "media_asset": "audio/modules/join/care_1.mp3",
       "text_1": "**ParentApp supports you to build a strong relationship with your child.**",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -247,7 +297,9 @@
       "image_asset": "images/modules/join/join_8.svg",
       "text_2": "What creates a strong and loving relationship between a caregiver and child?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -262,8 +314,12 @@
       "media_type": "video",
       "text_1_facilitator": "Great question. In ParentApp for Kids, we use the image of a garden to think about what children need from their parents to grow and thrive.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -281,9 +337,15 @@
       "image_asset": "images/modules/join/join_10.gif",
       "title": "**The ParentApp Garden**",
       "_translations": {
-        "title": {},
-        "text_1": {},
-        "text_2": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -305,8 +367,12 @@
       "image_asset": "images/modules/join/join_11.svg",
       "text_1": "ParentApp also includes ideas for activities that you and your child can do together at home.",
       "_translations": {
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -328,17 +394,33 @@
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1": "**ParentApp supports you to use stories and books to help your child learn.**",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
-        "media_title": {},
-        "media_transcript": {},
-        "quiz_1_question": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -384,7 +466,9 @@
       "image_asset": "images/modules/join/join_13.svg",
       "text_2": "At what age can I start sharing books with my child?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -400,7 +484,9 @@
       "media_asset": "audio/modules/join/learn_book_3.mp3",
       "text_1": "It is never too early to start! Children of all ages – even young babies – benefit from book activities.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -426,7 +512,9 @@
       "image_asset": "images/modules/join/join_15.svg",
       "text_2": "How can I do book activities with my child if I struggle with reading myself?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -442,9 +530,15 @@
       "media_asset": "https://drive.google.com/file/d/1-rz_jvPgTxJnsugCL2UHWqpXveQvZEoV/view?usp=share_link",
       "text_1_facilitator": "This is a concern for many parents and caregivers. The good news is that you don’t need to read the book’s text when doing book activities.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -468,9 +562,15 @@
       "media_asset": "https://drive.google.com/file/d/1uBZ8nDhlY26--nNJwbca4sfnBJ0IHJgM/view?usp=share_link",
       "text_1": "ParentApp provides many practical and fun activities that you can do without needing to read the book’s text.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -492,7 +592,9 @@
       "image_asset": "images/modules/join/join_18.svg",
       "text_2": "Sharing books with young children isn’t something that we normally do in our homes or community. How does this fit in with our traditional practices?",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -507,9 +609,15 @@
       "media_asset": "audio/modules/join/learn_book_8.mp3",
       "text_1": "Great question. We know that in many cultures, including Africa, parents pass down values and life lessons to children through storytelling.",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -531,7 +639,9 @@
       "image_asset": "images/modules/join/join_20.svg",
       "text_1": "How can I do book activities if we don’t have any picture books at home?",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -545,8 +655,12 @@
       "image_asset": "images/modules/join/join_21.svg",
       "text_1": "We know that many families across the world struggle to access picture books for their children, or have only one or two books at home.",
       "_translations": {
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -564,8 +678,12 @@
       "image_asset": "images/modules/join/join_22.svg",
       "text_1": "To get you started on your ParentApp journey, we’ve prepared some home activities for you:",
       "_translations": {
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

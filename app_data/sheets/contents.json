@@ -1352,7 +1352,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "templates/modules/module_navigation.xlsx",
       "_output_flows": [
         {
           "flow_name": "module_join",
@@ -4395,6 +4395,11 @@
     "module_path": {
       "flow_type": "template",
       "flow_name": "module_path",
+      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+    },
+    "module_start_at_cat": {
+      "flow_type": "template",
+      "flow_name": "module_start_at_cat",
       "_xlsxPath": "modules/TZ module_navigation.xlsx"
     },
     "nav_buttons": {

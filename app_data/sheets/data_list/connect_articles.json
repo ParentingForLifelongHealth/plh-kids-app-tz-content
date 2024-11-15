@@ -13,12 +13,18 @@
       "attached_single_doc": "https://docs.google.com/document/d/1PAWPEQpGAcIjyAUbXC2O0uSkRawq1MxFgHf9Im9lqps",
       "text_1": "This week, we are focusing on the topic of **CONNECTION**.",
       "_translations": {
-        "text_1": {},
-        "text_2": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -47,7 +53,9 @@
         "title": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,11 +78,15 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -100,9 +112,15 @@
       "image_asset": "images/modules/connect/connect_4.svg",
       "text_1": "Connecting with your child is when you focus on them and show interest in what they are doing or saying.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -124,14 +142,30 @@
       "image_asset": "images/modules/connect/connect_5.svg",
       "text_2": "During one-on-one time, **give your child your full attention.** \n\nTo help you focus on your child during one-on-one time, try to minimise distractions.",
       "_translations": {
-        "text_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -175,11 +209,15 @@
       "media_asset": "audio/modules/connect/connect_03.mp3",
       "text_2": "During one-on-one time, **be responsive and enthusiastic.**\n\nRespond to what your child is doing and saying with enthusiasm and encouragement.",
       "_translations": {
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -205,7 +243,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -225,11 +265,15 @@
       "media_asset": "audio/modules/connect/connect_05.mp3",
       "text_1": "Did you know: connecting with your child can help reduce negative behaviours.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -251,7 +295,9 @@
       "image_asset": "images/modules/connect/connect_8.svg",
       "image_text": "Won’t connecting with my child when they are being difficult seem like I am rewarding them for bad behaviour?",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "image_text": {
@@ -266,11 +312,15 @@
       "media_asset": "audio/modules/connect/connect_06.mp3",
       "text_1_facilitator": "Good question! Connecting with your child does not mean that you give your child everything they want to keep them happy.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -292,8 +342,12 @@
       "image_asset": "images/modules/connect/connect_9.svg",
       "text_1": "Sharing a book with your child is a great way to connect and spend quality time together.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -313,18 +367,42 @@
       "media_asset": "audio/modules/connect/connect_07.mp3",
       "text_1": "Make book and story activities part of your daily routine.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -384,9 +462,15 @@
       "media_asset": "audio/modules/connect/connect_08.mp3",
       "text_1": "As you go through the book, give your child your full attention. Notice and respond to what your child is interested in.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -410,11 +494,15 @@
       "media_asset": "audio/modules/connect/connect_09.mp3",
       "text_1": "Don’t force your child if they are not interested. Rather try again another time.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -436,7 +524,9 @@
       "image_asset": "images/modules/connect/connect_13.svg",
       "text_1": "Three easy ways to use book activities to connect:\n1. Give your child your full attention as you go through the book together.\n\n2. Notice what your child is interested in and talk about that.\n\n3. Don’t force your child if they are not interested. Rather try again another time.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -450,8 +540,12 @@
       "image_asset": "images/modules/connect/connect_14.svg",
       "text_1": "Small actions, big results! Parents who practice at home get better results.",
       "_translations": {
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

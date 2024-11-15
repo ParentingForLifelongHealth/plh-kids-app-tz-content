@@ -133,7 +133,9 @@
           "name": "click_history_value",
           "value": "@fields.@local.click_history_field_name ;  @local.now",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "parameter_list": {
             "!!(@fields.@local.click_history_field_name)": "true"
@@ -631,7 +633,7 @@
               "type": "items",
               "name": "items_loop",
               "value": "@data.@local.carousel_data_list_name",
-              "condition": "@local.category_activity_id == @local.relax_tag_list",
+              "condition": "@local.has_selected_tag",
               "exclude_from_translation": true,
               "rows": [
                 {
@@ -764,7 +766,9 @@
                   "name": "click_history_value",
                   "value": "@fields.@local.click_history_field_name ;  @local.now",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "condition": "!!(@fields.@local.click_history_field_name)",
                   "exclude_from_translation": true,
@@ -1116,16 +1120,10 @@
                 ],
                 "condition": [
                   {
-                    "fullExpression": "@local.category_activity_id == @local.relax_tag_list",
-                    "matchedExpression": "@local.category_activity_id",
+                    "fullExpression": "@local.has_selected_tag",
+                    "matchedExpression": "@local.has_selected_tag",
                     "type": "local",
-                    "fieldName": "category_activity_id"
-                  },
-                  {
-                    "fullExpression": "@local.category_activity_id == @local.relax_tag_list",
-                    "matchedExpression": "@local.relax_tag_list",
-                    "type": "local",
-                    "fieldName": "relax_tag_list"
+                    "fieldName": "has_selected_tag"
                   }
                 ]
               },
@@ -1133,10 +1131,7 @@
                 "@local.carousel_data_list_name": [
                   "value"
                 ],
-                "@local.category_activity_id": [
-                  "condition"
-                ],
-                "@local.relax_tag_list": [
+                "@local.has_selected_tag": [
                   "condition"
                 ]
               }

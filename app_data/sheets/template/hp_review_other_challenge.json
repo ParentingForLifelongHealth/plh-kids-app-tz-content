@@ -201,7 +201,9 @@
       "name": "reply",
       "value": "Thank you for sharing your challenge! We will use this feedback to make @global.app_name better.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "hidden": "!@local.text_box",
       "_nested_name": "reply",

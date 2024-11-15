@@ -174,7 +174,9 @@
           "name": "button_import_user",
           "value": "Import user",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {

@@ -477,7 +477,9 @@
       "name": "variant",
       "value": "primary",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.character_data.role == \"caregiver\"",
       "type": "set_variable",
@@ -502,7 +504,9 @@
       "name": "variant",
       "value": "secondary",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.character_data.role == \"child\"",
       "type": "set_variable",
@@ -527,7 +531,9 @@
       "name": "variant",
       "value": "gray",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.character_data.role == \"facilitator\"",
       "type": "set_variable",

@@ -15,11 +15,21 @@
       "attached_single_doc": "https://docs.google.com/document/d/14PKBirF5ZormMBOB6TQ77bioryt7dMUrQAqIryvWA48",
       "title": "The Things That Make Me Happy",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "step_1_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -95,7 +105,9 @@
       "favourite_field": "ltp_activity_something_special_favourite",
       "title": "Something Special",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -134,7 +146,9 @@
       "favourite_field": "ltp_activity_what_makes_us_special_favourite",
       "title": "What Makes Us Special",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -176,16 +190,24 @@
       "favourite_field": "ltp_activity_pattern_play_favourite",
       "title": "Pattern Play",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
         "resources_text": {
           "tz_sw": true
         },
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {},
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
         "tips_text": {
           "tz_sw": true
         }
@@ -230,7 +252,9 @@
       "favourite_field": "ltp_activity_cooking_together_favourite",
       "title": "Cooking Together",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -269,7 +293,9 @@
       "favourite_field": "ltp_activity_household_helpers_favourite",
       "title": "Household Helpers",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -309,7 +335,9 @@
       "favourite_field": "ltp_activity_music_and_dancing_favourite",
       "title": "Music and Dancing",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -349,7 +377,9 @@
       "favourite_field": "ltp_activity_walking_together_favourite",
       "title": "Walking Together",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -388,7 +418,9 @@
       "favourite_field": "ltp_activity_story_favourite",
       "title": "Make Up a Story Together",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -428,7 +460,9 @@
       "favourite_field": "ltp_activity_simon_says_favourite",
       "title": "Simon Says",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -467,7 +501,9 @@
       "favourite_field": "ltp_activity_when_I_grow_up_favourite",
       "title": "When I Grow Up",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -506,7 +542,9 @@
       "favourite_field": "ltp_activity_favourite_play_favourite",
       "title": "Favourite Play",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -546,7 +584,9 @@
       "favourite_field": "ltp_activity_act_the_story_favourite",
       "title": "Act the Story",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -590,17 +630,27 @@
       "favourite_field": "ltp_activity_shadow_movie_favourite",
       "title": "Shadow Movie",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
         "resources_text": {
           "tz_sw": true
         },
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {},
-        "step_4_text": {}
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -643,7 +693,9 @@
       "favourite_field": "ltp_activity_build_a_road_favourite",
       "title": "Build a Road",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -683,7 +735,9 @@
       "favourite_field": "ltp_activity_animal_strengths_favourite",
       "title": "Animal Strengths",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -722,7 +776,9 @@
       "favourite_field": "ltp_activity_treasure_hunt_favourite",
       "title": "Treasure Hunt",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -773,7 +829,9 @@
       "favourite_field": "ltp_activity_search_with_senses_favourite",
       "title": "Search With Your Senses",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -830,7 +888,9 @@
       "favourite_field": "ltp_activity_count_and_compare_favourite",
       "title": "Count and Compare",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -876,7 +936,9 @@
       "favourite_field": "ltp_activity_mystery_box_favourite",
       "title": "Mystery Box",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },

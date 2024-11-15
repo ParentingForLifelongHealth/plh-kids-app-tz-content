@@ -9,8 +9,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1MDFWDVQQTJup3SqAXtRZytcKHCcI59tnecKlaPZZwpE",
       "title": "Breathe",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -26,8 +30,12 @@
       "id": "reflect",
       "title": "Reflect",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -43,8 +51,12 @@
       "id": "notice",
       "title": "Notice",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -60,8 +72,12 @@
       "id": "move",
       "title": "Move",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -28,9 +28,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "JOIN",
       "_translations": {
-        "title": {},
-        "description": {},
-        "congratulation_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -73,9 +79,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "CONNECT",
       "_translations": {
-        "title": {},
-        "description": {},
-        "congratulation_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -118,9 +130,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "CREATE",
       "_translations": {
-        "title": {},
-        "description": {},
-        "congratulation_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -163,9 +181,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "PLAY",
       "_translations": {
-        "title": {},
-        "description": {},
-        "congratulation_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
