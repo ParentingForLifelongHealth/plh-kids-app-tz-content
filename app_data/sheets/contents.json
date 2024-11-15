@@ -1193,7 +1193,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx",
       "_output_flows": [
         {
           "flow_name": "hp_join_play",
@@ -1246,7 +1246,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx",
       "_output_flows": [
         {
           "flow_name": "hp_join_books",
@@ -1299,7 +1299,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx",
       "_output_flows": [
         {
           "flow_name": "hp_join_relax",
@@ -4296,12 +4296,12 @@
     "home_practice_card": {
       "flow_type": "template",
       "flow_name": "home_practice_card",
-      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx"
     },
     "home_practice_options": {
       "flow_type": "template",
       "flow_name": "home_practice_options",
-      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+      "_xlsxPath": "modules/TZ home_practice templates.xlsx"
     },
     "home_screen": {
       "flow_type": "template",

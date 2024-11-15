@@ -55,6 +55,7 @@
               "_cleaned": "click | go_to:/user"
             }
           ],
+          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_dynamic_data"
         },
         {
