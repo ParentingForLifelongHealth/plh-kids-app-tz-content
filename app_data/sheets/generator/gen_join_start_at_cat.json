@@ -1,18 +1,18 @@
 {
   "flow_type": "generator",
-  "flow_name": "gen_module_landing",
+  "flow_name": "gen_join_start_at_cat",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "modules_released",
-    "output_flow_name": "module_landing_@gen.id",
+    "input_data_list": "join_category_tasks",
+    "output_flow_name": "module_join_start_at_{@gen.id}",
     "output_flow_type": "template",
     "output_flow_subtype": "generated"
   },
   "rows": [
     {
       "type": "template",
-      "name": "module_landing",
-      "value": "module_landing",
+      "name": "module_start_at_cat",
+      "value": "module_start_at_cat",
       "action_list": [
         {
           "trigger": "completed",
@@ -36,6 +36,10 @@
       "rows": [
         {
           "name": "module_id",
+          "value": "join"
+        },
+        {
+          "name": "category_id",
           "value": "@gen.id"
         }
       ]
@@ -44,22 +48,37 @@
   "_xlsxPath": "modules/TZ module_navigation.xlsx",
   "_output_flows": [
     {
-      "flow_name": "module_landing_join",
+      "flow_name": "module_join_start_at_relax",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_landing_connect",
+      "flow_name": "module_join_start_at_check_in",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_landing_create",
+      "flow_name": "module_join_start_at_welcome",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_landing_play",
+      "flow_name": "module_join_start_at_caring_you",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_join_start_at_caring_child",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_join_start_at_learn_books",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_join_start_at_get_started",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

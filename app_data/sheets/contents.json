@@ -1184,6 +1184,102 @@
         }
       ]
     },
+    "gen_connect_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_connect_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "connect_category_tasks",
+        "output_flow_name": "module_connect_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_connect_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_why_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_how_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_power_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_books_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_practice",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_create_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_create_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "create_category_tasks",
+        "output_flow_name": "module_create_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_create_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_why_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_how_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_power_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_books_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_practice",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_hp_options_play": {
       "flow_type": "generator",
       "flow_name": "gen_hp_options_play",
@@ -1343,6 +1439,54 @@
         }
       ]
     },
+    "gen_join_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_join_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "join_category_tasks",
+        "output_flow_name": "module_join_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_join_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_welcome",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_caring_you",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_caring_child",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_learn_books",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_join_start_at_get_started",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_module": {
       "flow_type": "generator",
       "flow_name": "gen_module",
@@ -1400,7 +1544,7 @@
       "flow_type": "generator",
       "flow_name": "gen_module_congrats",
       "parameter_list": {
-        "input_data_list": "modules",
+        "input_data_list": "modules_released",
         "output_flow_name": "module_{@gen.id}_congrats",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
@@ -1426,26 +1570,6 @@
           "flow_name": "module_play_congrats",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "module_talk_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_build_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_explore_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_care_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -1453,7 +1577,7 @@
       "flow_type": "generator",
       "flow_name": "gen_module_landing",
       "parameter_list": {
-        "input_data_list": "modules",
+        "input_data_list": "modules_released",
         "output_flow_name": "module_landing_@gen.id",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
@@ -1477,26 +1601,6 @@
         },
         {
           "flow_name": "module_landing_play",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_talk",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_build",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_explore",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_care",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -1668,6 +1772,54 @@
         },
         {
           "flow_name": "play_mystery_box",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_play_start_at_cat": {
+      "flow_type": "generator",
+      "flow_name": "gen_play_start_at_cat",
+      "parameter_list": {
+        "input_data_list": "play_category_tasks",
+        "output_flow_name": "module_play_start_at_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_play_start_at_relax",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_check_in",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_why_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_how_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_power_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_books_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_practice",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3903,18 +4055,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_build_congrats": {
-      "flow_name": "module_build_congrats",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_care": {
       "flow_name": "module_care",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_care_congrats": {
-      "flow_name": "module_care_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3928,6 +4070,41 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "module_connect_start_at_books_connect": {
+      "flow_name": "module_connect_start_at_books_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_check_in": {
+      "flow_name": "module_connect_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_how_connect": {
+      "flow_name": "module_connect_start_at_how_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_power_connect": {
+      "flow_name": "module_connect_start_at_power_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_practice": {
+      "flow_name": "module_connect_start_at_practice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_relax": {
+      "flow_name": "module_connect_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_connect_start_at_why_connect": {
+      "flow_name": "module_connect_start_at_why_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "module_create": {
       "flow_name": "module_create",
       "flow_subtype": "generated",
@@ -3938,13 +4115,43 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_explore": {
-      "flow_name": "module_explore",
+    "module_create_start_at_books_create": {
+      "flow_name": "module_create_start_at_books_create",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_explore_congrats": {
-      "flow_name": "module_explore_congrats",
+    "module_create_start_at_check_in": {
+      "flow_name": "module_create_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_how_create": {
+      "flow_name": "module_create_start_at_how_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_power_create": {
+      "flow_name": "module_create_start_at_power_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_practice": {
+      "flow_name": "module_create_start_at_practice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_relax": {
+      "flow_name": "module_create_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_why_create": {
+      "flow_name": "module_create_start_at_why_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_explore": {
+      "flow_name": "module_explore",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3958,13 +4165,38 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_build": {
-      "flow_name": "module_landing_build",
+    "module_join_start_at_caring_child": {
+      "flow_name": "module_join_start_at_caring_child",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_care": {
-      "flow_name": "module_landing_care",
+    "module_join_start_at_caring_you": {
+      "flow_name": "module_join_start_at_caring_you",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_check_in": {
+      "flow_name": "module_join_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_get_started": {
+      "flow_name": "module_join_start_at_get_started",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_learn_books": {
+      "flow_name": "module_join_start_at_learn_books",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_relax": {
+      "flow_name": "module_join_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_welcome": {
+      "flow_name": "module_join_start_at_welcome",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3978,11 +4210,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_explore": {
-      "flow_name": "module_landing_explore",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_landing_join": {
       "flow_name": "module_landing_join",
       "flow_subtype": "generated",
@@ -3990,11 +4217,6 @@
     },
     "module_landing_play": {
       "flow_name": "module_landing_play",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_talk": {
-      "flow_name": "module_landing_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4048,13 +4270,43 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_talk": {
-      "flow_name": "module_talk",
+    "module_play_start_at_books_play": {
+      "flow_name": "module_play_start_at_books_play",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_talk_congrats": {
-      "flow_name": "module_talk_congrats",
+    "module_play_start_at_check_in": {
+      "flow_name": "module_play_start_at_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_how_play": {
+      "flow_name": "module_play_start_at_how_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_power_play": {
+      "flow_name": "module_play_start_at_power_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_practice": {
+      "flow_name": "module_play_start_at_practice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_relax": {
+      "flow_name": "module_play_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_why_play": {
+      "flow_name": "module_play_start_at_why_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_talk": {
+      "flow_name": "module_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

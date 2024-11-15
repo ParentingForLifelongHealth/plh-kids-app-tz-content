@@ -1,12 +1,12 @@
 {
-  "flow_name": "module_landing_build",
+  "flow_name": "module_create_start_at_relax",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "module_landing",
-      "value": "module_landing",
+      "name": "module_start_at_cat",
+      "value": "module_start_at_cat",
       "action_list": [
         {
           "trigger": "completed",
@@ -30,15 +30,24 @@
       "rows": [
         {
           "name": "module_id",
-          "value": "build",
+          "value": "create",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "module_landing.module_id"
+          "_nested_name": "module_start_at_cat.module_id"
+        },
+        {
+          "name": "category_id",
+          "value": "relax",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module_start_at_cat.category_id"
         }
       ],
-      "_nested_name": "module_landing"
+      "_nested_name": "module_start_at_cat"
     }
   ]
 }
