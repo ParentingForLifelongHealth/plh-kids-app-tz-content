@@ -206,12 +206,12 @@
     },
     {
       "type": "set_field",
-      "name": "app_launches",
+      "name": "app_launch_history",
       "value": "@local.app_launches_including_last",
       "_translations": {
         "value": {}
       },
-      "_nested_name": "app_launches",
+      "_nested_name": "app_launch_history",
       "_dynamicFields": {
         "value": [
           {
