@@ -36,6 +36,30 @@
       "rows": [
         {
           "type": "set_field",
+          "name": "first_launch_ts",
+          "value": "@local.now",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "is_first_launch.first_launch_ts",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.now",
+                "matchedExpression": "@local.now",
+                "type": "local",
+                "fieldName": "now"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.now": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "set_field",
           "name": "first_launch_app_version",
           "value": "@fields._app_version",
           "_translations": {
