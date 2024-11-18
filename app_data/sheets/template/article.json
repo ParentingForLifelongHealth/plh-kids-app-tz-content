@@ -1293,6 +1293,16 @@
       }
     },
     {
+      "name": "default_language",
+      "value": "gb_en",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "default_language"
+    },
+    {
       "name": "youtube_column",
       "value": "@local.youtube@local.language",
       "_translations": {
@@ -1352,20 +1362,80 @@
       }
     },
     {
+      "name": "youtube_column_missing",
+      "value": "@local.youtube@local.default_language",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "youtube_column_missing",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.youtube@local.default_language",
+            "matchedExpression": "@local.youtube",
+            "type": "local",
+            "fieldName": "youtube"
+          },
+          {
+            "fullExpression": "@local.youtube@local.default_language",
+            "matchedExpression": "@local.default_language",
+            "type": "local",
+            "fieldName": "default_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube": [
+          "value"
+        ],
+        "@local.default_language": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "youtube_concat_missing",
+      "value": "article_data.@local.youtube_column_missing",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "youtube_concat_missing",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "article_data.@local.youtube_column_missing",
+            "matchedExpression": "@local.youtube_column_missing",
+            "type": "local",
+            "fieldName": "youtube_column_missing"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.youtube_column_missing": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
-      "name": "youtube_1",
+      "name": "youtube_dg",
       "condition": "@local.article_data.media_type == \"youtube\"",
       "exclude_from_translation": true,
       "rows": [
         {
           "type": "youtube",
-          "name": "youtube_2",
+          "name": "youtube_lang",
           "value": "@local.@local.youtube_concat",
           "_translations": {
             "value": {}
           },
+          "condition": "!!(@local.@local.youtube_concat)",
           "exclude_from_translation": true,
-          "_nested_name": "youtube_1.youtube_2",
+          "_nested_name": "youtube_dg.youtube_lang",
           "_dynamicFields": {
             "value": [
               {
@@ -1374,16 +1444,62 @@
                 "type": "local",
                 "fieldName": "youtube_concat"
               }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@local.@local.youtube_concat)",
+                "matchedExpression": "@local.youtube_concat",
+                "type": "local",
+                "fieldName": "youtube_concat"
+              }
             ]
           },
           "_dynamicDependencies": {
             "@local.youtube_concat": [
+              "value",
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "youtube",
+          "name": "youtube_lang_missing",
+          "value": "@local.@local.youtube_concat_missing",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!(@local.@local.youtube_concat)",
+          "exclude_from_translation": true,
+          "_nested_name": "youtube_dg.youtube_lang_missing",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.@local.youtube_concat_missing",
+                "matchedExpression": "@local.youtube_concat_missing",
+                "type": "local",
+                "fieldName": "youtube_concat_missing"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!(@local.@local.youtube_concat)",
+                "matchedExpression": "@local.youtube_concat",
+                "type": "local",
+                "fieldName": "youtube_concat"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.youtube_concat_missing": [
               "value"
+            ],
+            "@local.youtube_concat": [
+              "condition"
             ]
           }
         }
       ],
-      "_nested_name": "youtube_1",
+      "_nested_name": "youtube_dg",
       "_dynamicFields": {
         "condition": [
           {
