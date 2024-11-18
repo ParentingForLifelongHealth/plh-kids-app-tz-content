@@ -392,6 +392,7 @@
           "eng": "I have three children, and I love them very much. I try my best to give them what they need, even when life is hard. I make sure that they are fed, washed, safe, and that they go to school. It’s also really important to me that my children respect others, that they behave properly, and keep our family name in good standing. \nThe way I was raised – we would get into real trouble if we didn’t behave the way our parents wanted us to. My parents would hit me and my siblings to get us to behave. It’s what I know, so I thought that this should be the way I raise my kids as well. \nI really want my children to respect me, but I also want them to feel that they can trust me with their concerns and feelings. Even though my parents hit me and I turned out fine, I think I would have benefited from a relationship with my parents that was more accepting, loving and understanding – where I felt less fear about being hit or beaten, or to tell them about my problems."
         }
       },
+      "media_type": "audio",
       "media_asset": "audio/modules/join/care_1.mp3",
       "media_title": "Let’s hear from a caregiver:",
       "media_transcript": "I have three children, and I love them very much. I try my best to give them what they need, even when life is hard. I make sure that they are fed, washed, safe, and that they go to school. It’s also really important to me that my children respect others, that they behave properly, and keep our family name in good standing. \nThe way I was raised – we would get into real trouble if we didn’t behave the way our parents wanted us to. My parents would hit me and my siblings to get us to behave. It’s what I know, so I thought that this should be the way I raise my kids as well. \nI really want my children to respect me, but I also want them to feel that they can trust me with their concerns and feelings. Even though my parents hit me and I turned out fine, I think I would have benefited from a relationship with my parents that was more accepting, loving and understanding – where I felt less fear about being hit or beaten, or to tell them about my problems.",
@@ -558,8 +559,7 @@
           "eng": "That’s okay! We are excited to get you started on your book-sharing journey."
         }
       },
-      "media_type": "video",
-      "media_asset": "https://drive.google.com/file/d/1khiG2vfEChUVCR0nL0kSQfcx1nx4VRFq/view?usp=share_link",
+      "media_type": "youtube",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "media_title": "Watch this video to learn more:",
@@ -570,6 +570,7 @@
       "quiz_1_option_2_text": "Not really",
       "quiz_1_feedback_2": "That’s okay! We are excited to get you started on your book-sharing journey.",
       "text_2": "Sharing stories and looking at books together benefits children in many ways.",
+      "youtube_gb_en": "https://drive.google.com/file/d/1khiG2vfEChUVCR0nL0kSQfcx1nx4VRFq/view?usp=share_link",
       "completed": false
     },
     {
@@ -664,10 +665,10 @@
           "tz_sw": true
         }
       },
-      "media_type": "video",
-      "media_asset": "https://drive.google.com/file/d/1-rz_jvPgTxJnsugCL2UHWqpXveQvZEoV/view?usp=share_link",
+      "media_type": "youtube",
       "media_title": "Watch to learn more:",
       "media_transcript": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.\n\nSo, find a few minutes a day, every day, to read with your child. It’s one of the greatest gifts you can give them.",
+      "youtube_gb_en": "https://drive.google.com/file/d/1-rz_jvPgTxJnsugCL2UHWqpXveQvZEoV/view?usp=share_link",
       "completed": false
     },
     {
@@ -697,10 +698,10 @@
           "eng": "Book activities are a great way to have fun together with your child. Let’s take a look at how you can share this book with your child in a playful and engaging way. \n\nThis book is all about the joy of playing. Join Lesedi as his imagination takes him all the way to the beach for an adventure! \n\nDescribe the pictures to your child and ask them questions about the story. Point to the sandbox and ask your chid: “What is this for?” Point to boy in the picture and ask: “How do you think he is feeling? What do you think he is going to do next?”\n\nMimic actions from the pictures or story. Together with your child, pretend to put your feet in the sand and wiggle your toes. Talk about what the sand would feel like? \n\nMimic the sound of the wind swooping in and blowing the umbrella away. Demonstrate surprise and ask your child how they would feel if that happened to them. \n\nRemember, book activities do not have to be serious. The goal is to make it a playful experience. We hope you enjoy the book and have fun together!"
         }
       },
-      "media_type": "video",
-      "media_asset": "https://drive.google.com/file/d/1uBZ8nDhlY26--nNJwbca4sfnBJ0IHJgM/view?usp=share_link",
+      "media_type": "youtube",
       "media_title": "Watch to learn more:",
       "media_transcript": "Book activities are a great way to have fun together with your child. Let’s take a look at how you can share this book with your child in a playful and engaging way. \n\nThis book is all about the joy of playing. Join Lesedi as his imagination takes him all the way to the beach for an adventure! \n\nDescribe the pictures to your child and ask them questions about the story. Point to the sandbox and ask your chid: “What is this for?” Point to boy in the picture and ask: “How do you think he is feeling? What do you think he is going to do next?”\n\nMimic actions from the pictures or story. Together with your child, pretend to put your feet in the sand and wiggle your toes. Talk about what the sand would feel like? \n\nMimic the sound of the wind swooping in and blowing the umbrella away. Demonstrate surprise and ask your child how they would feel if that happened to them. \n\nRemember, book activities do not have to be serious. The goal is to make it a playful experience. We hope you enjoy the book and have fun together!",
+      "youtube_gb_en": "https://drive.google.com/file/d/1uBZ8nDhlY26--nNJwbca4sfnBJ0IHJgM/view?usp=share_link",
       "completed": false
     },
     {
@@ -747,6 +748,7 @@
           "eng": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!"
         }
       },
+      "media_type": "audio",
       "media_asset": "audio/modules/join/learn_book_8.mp3",
       "media_transcript": "Take a moment to think about some of the traditional stories that you were told as a child, and that you tell your child:\n\nWhen do you tell stories? How do you tell the story? During the story, what do you do to keep children engaged? After the story, what do you discuss? \n\nOral storytelling and book activities have many things in common: \nYou use your voice to make the story interesting, with different voices for different characters.\nYou describe the characters and events in detail so that children understand what is happening and why. \nYou connect and interact with your listeners. \nAfter the story, you ask or answer questions and discuss what can be learned from this story. \n\nThe skills you use during oral storytelling works just as well for book activities. Oral storytelling is a great way to connect with children and help them learn, and book activities do the same!",
       "text_2": "Let’s look at some of the ways that book activities build on this tradition:",

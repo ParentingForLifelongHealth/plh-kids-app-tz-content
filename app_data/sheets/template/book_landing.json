@@ -19,6 +19,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare_id"
     },
@@ -26,10 +27,9 @@
       "name": "module_id",
       "value": "connect",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "module_id"
     },
@@ -47,10 +47,9 @@
       "name": "prepare",
       "value": "prepare",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare"
     },
@@ -85,6 +84,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "data_p",
       "_dynamicFields": {
@@ -143,6 +143,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "concat_prepare_id",
       "_dynamicFields": {
@@ -201,6 +202,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "prepare_data",
       "_dynamicFields": {

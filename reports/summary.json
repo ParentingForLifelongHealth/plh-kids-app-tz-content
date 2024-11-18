@@ -38,11 +38,11 @@
     },
     {
       "type": "image",
-      "count": 11
+      "count": 7
     },
     {
       "type": "items",
-      "count": 16
+      "count": 14
     },
     {
       "type": "lottie_animation",
@@ -58,7 +58,7 @@
     },
     {
       "type": "set_variable",
-      "count": 563
+      "count": 546
     },
     {
       "type": "task_card",
@@ -70,11 +70,11 @@
     },
     {
       "type": "template",
-      "count": 372
+      "count": 397
     },
     {
       "type": "text",
-      "count": 67
+      "count": 52
     },
     {
       "type": "text_area",
@@ -108,7 +108,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 326
+      "count": 351
     },
     {
       "type": "emit: force_reload",
@@ -132,7 +132,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 324
+      "count": 349
     },
     {
       "type": "feedback",
@@ -144,11 +144,11 @@
     },
     {
       "type": "pop_up",
-      "count": 15
+      "count": 7
     },
     {
       "type": "set_field",
-      "count": 14
+      "count": 13
     },
     {
       "type": "set_local",
@@ -1328,22 +1328,22 @@
     },
     {
       "path": "images/modules/build/build_title_image.svg",
-      "count": 2,
+      "count": 1,
       "missing": true
     },
     {
       "path": "images/modules/care/care_title_image.svg",
-      "count": 2,
+      "count": 1,
       "missing": true
     },
     {
       "path": "images/modules/explore/explore_title_image.svg",
-      "count": 2,
+      "count": 1,
       "missing": true
     },
     {
       "path": "images/modules/talk/talk_title_image.svg",
-      "count": 2,
+      "count": 1,
       "missing": true
     }
   ],
@@ -6658,7 +6658,7 @@
     {
       "type": "generator",
       "subtype": null,
-      "total": 20
+      "total": 24
     },
     {
       "type": "global",
@@ -6668,12 +6668,12 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 61
+      "total": 62
     },
     {
       "type": "template",
       "subtype": "generated",
-      "total": 345
+      "total": 365
     },
     {
       "type": "template",

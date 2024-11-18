@@ -32,9 +32,7 @@
           "name": "module_id",
           "value": "connect",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "module_landing.module_id"
