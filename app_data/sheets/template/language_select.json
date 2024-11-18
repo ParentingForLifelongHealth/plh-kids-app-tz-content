@@ -149,15 +149,6 @@
       "action_list": [
         {
           "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "completed"
-          ],
-          "_raw": "click | emit: completed",
-          "_cleaned": "click | emit: completed"
-        },
-        {
-          "trigger": "click",
           "action_id": "set_field",
           "args": [
             "language_selected",
@@ -165,6 +156,15 @@
           ],
           "_raw": "click | set_field: language_selected: TRUE",
           "_cleaned": "click | set_field: language_selected: TRUE"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "force_restart"
+          ],
+          "_raw": "click | emit: force_restart",
+          "_cleaned": "click | emit: force_restart"
         }
       ],
       "parameter_list": {

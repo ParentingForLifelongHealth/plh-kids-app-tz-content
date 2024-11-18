@@ -11,13 +11,14 @@
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 42 |
+| display_group | 43 |
 | image | 7 |
 | items | 14 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 549 |
+| set_field | 1 |
+| set_variable | 552 |
 | task_card | 7 |
 | task_progress_bar | 1 |
 | template | 397 |
@@ -36,10 +37,10 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 351 |
+| emit: completed | 350 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 5 |
-| emit: force_restart | 2 |
+| emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
 | emit: uncompleted | 349 |
@@ -1397,7 +1398,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe | generated | 7 |
 | generator |  | 24 |
 | global |  | 2 |
-| template |  | 62 |
+| template |  | 63 |
 | template | generated | 365 |
 | template | legal_terms | 4 |
 </details>
