@@ -16,9 +16,7 @@
           "name": "module_id",
           "value": "connect",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "home_practice_options.module_id"

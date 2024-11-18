@@ -15,6 +15,15 @@
       "_nested_name": "title_2"
     },
     {
+      "name": "activity",
+      "value": "_activity",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "activity"
+    },
+    {
       "type": "items",
       "name": "items_loop",
       "value": "@data.resource_categories",
@@ -28,10 +37,10 @@
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "@item.id_activity"
+                "@item.id@local.activity"
               ],
-              "_raw": "click |  go_to: @item.id_activity",
-              "_cleaned": "click |  go_to: @item.id_activity"
+              "_raw": "click |  go_to: @item.id@local.activity",
+              "_cleaned": "click |  go_to: @item.id@local.activity"
             }
           ],
           "parameter_list": {
@@ -46,27 +55,45 @@
                 "args": {
                   "0": [
                     {
-                      "fullExpression": "@item.id_activity",
-                      "matchedExpression": "@item.id_activity",
+                      "fullExpression": "@item.id@local.activity",
+                      "matchedExpression": "@item.id",
                       "type": "item",
-                      "fieldName": "id_activity"
+                      "fieldName": "id"
+                    },
+                    {
+                      "fullExpression": "@item.id@local.activity",
+                      "matchedExpression": "@local.activity",
+                      "type": "local",
+                      "fieldName": "activity"
                     }
                   ]
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click |  go_to: @item.id_activity",
-                    "matchedExpression": "@item.id_activity",
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@item.id",
                     "type": "item",
-                    "fieldName": "id_activity"
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@local.activity",
+                    "type": "local",
+                    "fieldName": "activity"
                   }
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click |  go_to: @item.id_activity",
-                    "matchedExpression": "@item.id_activity",
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@item.id",
                     "type": "item",
-                    "fieldName": "id_activity"
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "click |  go_to: @item.id@local.activity",
+                    "matchedExpression": "@local.activity",
+                    "type": "local",
+                    "fieldName": "activity"
                   }
                 ]
               }
@@ -91,7 +118,12 @@
             }
           },
           "_dynamicDependencies": {
-            "@item.id_activity": [
+            "@item.id": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@local.activity": [
               "action_list.0.args.0",
               "action_list.0._raw",
               "action_list.0._cleaned"

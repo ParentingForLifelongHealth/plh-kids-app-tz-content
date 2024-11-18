@@ -12,16 +12,16 @@
 | data_items | 1 |
 | display_grid | 2 |
 | display_group | 42 |
-| image | 11 |
-| items | 16 |
+| image | 7 |
+| items | 14 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 563 |
+| set_variable | 546 |
 | task_card | 7 |
 | task_progress_bar | 1 |
-| template | 372 |
-| text | 67 |
+| template | 397 |
+| text | 52 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 5 |
@@ -36,17 +36,17 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 326 |
+| emit: completed | 351 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 324 |
+| emit: uncompleted | 349 |
 | feedback | 7 |
 | go_to | 12 |
-| pop_up | 15 |
-| set_field | 14 |
+| pop_up | 7 |
+| set_field | 13 |
 | set_local | 7 |
 | user | 1 |
 </details>
@@ -314,10 +314,10 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_7.jpg | 1 |
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
-| images/modules/build/build_title_image.svg | 2 |
-| images/modules/care/care_title_image.svg | 2 |
-| images/modules/explore/explore_title_image.svg | 2 |
-| images/modules/talk/talk_title_image.svg | 2 |
+| images/modules/build/build_title_image.svg | 1 |
+| images/modules/care/care_title_image.svg | 1 |
+| images/modules/explore/explore_title_image.svg | 1 |
+| images/modules/talk/talk_title_image.svg | 1 |
 </details>
 
 <details >
@@ -1395,9 +1395,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 3 |
 | data_pipe | generated | 7 |
-| generator |  | 20 |
+| generator |  | 24 |
 | global |  | 2 |
-| template |  | 61 |
-| template | generated | 345 |
+| template |  | 62 |
+| template | generated | 365 |
 | template | legal_terms | 4 |
 </details>
