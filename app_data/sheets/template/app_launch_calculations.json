@@ -131,7 +131,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": "!(@fields.app_launches)",
+      "condition": "!(@fields.app_launch_history)",
       "type": "set_variable",
       "_nested_name": "app_launches_including_last",
       "_dynamicFields": {
@@ -145,10 +145,10 @@
         ],
         "condition": [
           {
-            "fullExpression": "!(@fields.app_launches)",
-            "matchedExpression": "@fields.app_launches",
+            "fullExpression": "!(@fields.app_launch_history)",
+            "matchedExpression": "@fields.app_launch_history",
             "type": "fields",
-            "fieldName": "app_launches"
+            "fieldName": "app_launch_history"
           }
         ]
       },
@@ -156,30 +156,30 @@
         "@local.now": [
           "value"
         ],
-        "@fields.app_launches": [
+        "@fields.app_launch_history": [
           "condition"
         ]
       }
     },
     {
       "name": "app_launches_including_last",
-      "value": "@fields.app_launches; @local.now",
+      "value": "@fields.app_launch_history; @local.now",
       "_translations": {
         "value": {}
       },
-      "condition": "!!(@fields.app_launches)",
+      "condition": "!!(@fields.app_launch_history)",
       "type": "set_variable",
       "_nested_name": "app_launches_including_last",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields.app_launches; @local.now",
-            "matchedExpression": "@fields.app_launches",
+            "fullExpression": "@fields.app_launch_history; @local.now",
+            "matchedExpression": "@fields.app_launch_history",
             "type": "fields",
-            "fieldName": "app_launches"
+            "fieldName": "app_launch_history"
           },
           {
-            "fullExpression": "@fields.app_launches; @local.now",
+            "fullExpression": "@fields.app_launch_history; @local.now",
             "matchedExpression": "@local.now",
             "type": "local",
             "fieldName": "now"
@@ -187,15 +187,15 @@
         ],
         "condition": [
           {
-            "fullExpression": "!!(@fields.app_launches)",
-            "matchedExpression": "@fields.app_launches",
+            "fullExpression": "!!(@fields.app_launch_history)",
+            "matchedExpression": "@fields.app_launch_history",
             "type": "fields",
-            "fieldName": "app_launches"
+            "fieldName": "app_launch_history"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@fields.app_launches": [
+        "@fields.app_launch_history": [
           "value",
           "condition"
         ],
