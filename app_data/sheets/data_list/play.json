@@ -835,11 +835,21 @@
         "intro_text": {
           "tz_sw": true
         },
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {},
-        "step_4_text": {},
-        "step_5_text": {},
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        },
+        "step_5_text": {
+          "tz_sw": true
+        },
         "tips_text": {
           "tz_sw": true
         }

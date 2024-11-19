@@ -58,7 +58,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 77823 KB | 77.8 MB |
-| unused | 804 KB | 0.8 MB |
+| unused | 884 KB | 0.9 MB |
 </details>
 
 <details open>
@@ -69,8 +69,8 @@ Assets that appear in app-data but do not have references within sheets
 | path | size_kb |
 | --- | --- |
 | android/icon-background.png | 3.9 |
-| android/icon-foreground.png | 73.7 |
-| android/icon.png | 80.4 |
+| android/icon-foreground.png | 114 |
+| android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
 | audio/modules/create/power_create_4.mp3 | 241.2 |
 | contents.json | 5.9 |

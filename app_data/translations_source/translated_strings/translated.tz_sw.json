@@ -277,7 +277,7 @@
   },
   {
     "SourceText": "Last updated: @global.deployment_terms_text",
-    "text": "**ilisasishwa mara ya mwisho: @global.deployment_terms_text",
+    "text": "Ilisasishwa mara ya mwisho: @global.deployment_terms_text",
     "type": "template",
     "note": "The string @global.deployment_terms_text should not be translated."
   },
@@ -493,7 +493,7 @@
   },
   {
     "SourceText": "\"Ma, I am getting late.\" I pick up my water bottle and school bag. I wear my chappals. \"Come on let us go. Ma, hurry up.\"",
-    "text": "''Mama, Ninachelewa.''Nikachukua chupa ayangu ya maji na begi la ashule. Nikavaa sandozi. ''Twende. Mama, harakisha,''",
+    "text": "''Mama, Ninachelewa.'' Nikachukua chupa ayangu ya maji na begi la ashule. Nikavaa sandozi. ''Twende. Mama, harakisha.''",
     "type": "data_list",
     "note": ""
   },
@@ -511,7 +511,7 @@
   },
   {
     "SourceText": "\"I am almost done. I only have to fill water.\" She always has something to do. \"Ma, please, please, hurry up.\"",
-    "text": "''Nakaribia kumaliza. Natakiwa kujaza maji tu,''Kila mara anakuwa na kitu cha kufanya.'' Samahani mama, harakisha.''",
+    "text": "''Nakaribia kumaliza. Natakiwa kujaza maji tu.'' Kila mara anakuwa na kitu cha kufanya. ''Samahani mama, harakisha.''",
     "type": "data_list",
     "note": ""
   },
@@ -523,13 +523,13 @@
   },
   {
     "SourceText": "Finally we are out of the house. Mother locks the door. She says, \"Why are you so impatient, my Raja?\" I like it when she calls me \"my Raja’. Now my mother is walking with me. I like that!!",
-    "text": "Mwisho tumetoka nje ya nyumba. Mama anaangalia. Anasema, \" Kwanini wewe sio mvumilivu Raja wangu?\" \"Napenda anaponiita Raja wangu\". Sasa mama yangu anatembea na mimi. Hivyo ndivyo ninavyopenda!!",
+    "text": "Mwisho tumetoka nje ya nyumba. Mama anaangalia. Anasema, \"Kwanini wewe sio mvumilivu Raja wangu?\" \"Napenda anaponiita Raja wangu\". Sasa mama yangu anatembea na mimi. Hivyo ndivyo ninavyopenda!!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "I Like to Read",
-    "text": "Napenda kusoma",
+    "text": "Napenda Kusoma",
     "type": "data_list",
     "note": ""
   },
@@ -679,7 +679,7 @@
   },
   {
     "SourceText": "Little Monkey was hungry! \"I have searched everywhere! Inside and outside... but my bananas are gone!\"",
-    "text": "Ngedere mdogo alikuwa na njaa! ''Nimetafuta kila mahali ndani na nje.... lakini ndizi zangu hazipo!''",
+    "text": "Ngedere mdogo alikuwa na njaa! ''Nimetafuta kila mahali ndani na nje... lakini ndizi zangu hazipo!''",
     "type": "data_list",
     "note": ""
   },
@@ -697,7 +697,7 @@
   },
   {
     "SourceText": "Little Monkey looked sadly out from his balcony. \"Ah! Wait...\"he said. \"Those are banana peels! 1...2...3...4... so many!\"",
-    "text": "Aliendelea kuzitafuta, anaangalia juu ya meza na chini ya kitanda, ''lakini siwezi kuzipata! Siwezi kuzipata ndizi zangu!\"\"",
+    "text": "Aliendelea kuzitafuta, anaangalia juu ya meza na chini ya kitanda, ''lakini siwezi kuzipata! Siwezi kuzipata ndizi zangu!\"",
     "type": "data_list",
     "note": ""
   },
@@ -715,19 +715,19 @@
   },
   {
     "SourceText": "The rabbit came over to the base of Little Monkey's tree. \"You sound very hungry,\" Rabbit said. \"Here - take a bunch of my bananas.\" Little Monkey was happy. \"Thank you! Thank you, Rabbit! But...\"",
-    "text": "Sungura alienda kwenye shina la mti wa Ngedere mdogo, Unasikia njaa sana,'' Sungura alisema. ''Chukua hapa kichane cha ndizi zangu,'' Ngedere mdogo alifurahi.''Asante! Asante, Sungura! ila....''",
+    "text": "Sungura alienda kwenye shina la mti wa Ngedere mdogo. \"Unasikia njaa sana,'' Sungura alisema. ''Chukua hapa kichane cha ndizi zangu.'' Ngedere mdogo alifurahi. ''Asante! Asante, Sungura! Ila...''",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "\"Who... Who...Who took MY bananas?\"",
-    "text": "''Nani....Nani....Nani amechukua ndizi zangu?''",
+    "text": "''Nani... Nani... Nani amechukua ndizi zangu?''",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Suddenly, Little Monkey remembered. \"Oh... Now I recall! I was very hungry last night. I ate all the bananas!\"",
-    "text": "Ghafla, Ngedere mdogo alikumbuka,''Oh... Sasa nakumbuka! nilikuwa na njaa jana usiku. Nikala ndizi zote!''",
+    "text": "Ghafla, Ngedere mdogo alikumbuka. ''Oh... Sasa nakumbuka! nilikuwa na njaa jana usiku. Nikala ndizi zote!''",
     "type": "data_list",
     "note": ""
   },
@@ -1465,7 +1465,7 @@
   },
   {
     "SourceText": "Ah! Greeny has an idea. She will write messages for Dad on her leaves.",
-    "text": "Ah! Pendo ana wazo.. Ataandika ujumbe kwaajili ya Baba yake kwenye majani yake.",
+    "text": "Ah! Pendo ana wazo. Ataandika ujumbe kwaajili ya Baba yake kwenye majani yake.",
     "type": "data_list",
     "note": ""
   },
@@ -1957,7 +1957,7 @@
   },
   {
     "SourceText": "1. Ask each person to think about something that made them happy this week – it can be an activity they enjoyed, a person they interacted with, something they learned. \n2. Place a box or container in the middle of the room, and invite each person to find objects around the house that can represent what made them happy. For example – a spoon could represent something they enjoyed eating. A ball could represent a fun activity they enjoyed. A pencil or book could represent something they learned. \n3. Ask them to place their objects in the box. Once everyone has added their objects, give each person a turn to show their object to the group, share why they chose it and why this represents something that made them happy.",
-    "text": "1. Mwambie kila mtu afikirie kuhusu kitu fulani ambacho kiliwafanya wawe na furaha wiki hii.- inaweza kuwa shughuli waliyoifurahia, mtu waliyechangamana naye, kitu fulani walichojifunza.\n2. Weka boksi au chombo katikati ya chumba, na karibisha kila mtu atafute kitu kwenye mazingira ya nyumba ambacho kinaweza kuwakilisha kile kilichowafanya wawe na furaha, Kwa mfano - kijiko kinaweza kuwakilisha kitu walichofurahia kula. Mpira unaweza kuwakilisha shughuli waliyoifurahia. Penseli au kitabu vinaweza kuwakilisha kitu fulani walichojifunza.\n3. Waambie waweke vitu vyao kwenye boksi. Mara kila mmoja atapokuwa ameweka vitu vyao, mpe kila mtu zamu kuonesha kundi vitu vyao, washirikishe kwanini walichagua hiyo na kwanini inawakilisha kitu fulani kilichowafurahisha.",
+    "text": "1. Mwambie kila mtu afikirie kuhusu kitu fulani ambacho kiliwafanya wawe na furaha wiki hii – inaweza kuwa shughuli waliyoifurahia, mtu waliyechangamana naye, kitu fulani walichojifunza.\n2. Weka boksi au chombo katikati ya chumba, na karibisha kila mtu atafute kitu kwenye mazingira ya nyumba ambacho kinaweza kuwakilisha kile kilichowafanya wawe na furaha, Kwa mfano – kijiko kinaweza kuwakilisha kitu walichofurahia kula. Mpira unaweza kuwakilisha shughuli waliyoifurahia. Penseli au kitabu vinaweza kuwakilisha kitu fulani walichojifunza.\n3. Waambie waweke vitu vyao kwenye boksi. Mara kila mmoja atapokuwa ameweka vitu vyao, mpe kila mtu zamu kuonesha kundi vitu vyao, washirikishe kwanini walichagua hiyo na kwanini inawakilisha kitu fulani kilichowafurahisha.",
     "type": "data_list",
     "note": ""
   },
@@ -2414,6 +2414,36 @@
   {
     "SourceText": "Engage all your senses by identifying things around you that you and your child can touch, hear, see, taste and smell.",
     "text": "Shirikisha hisia zako kwa kutambua vitu vilivyopo maeneo yenu ambayo wewe na mtoto wako mnaweza kugusa, kuvisikia. kuvionja/kujaribu na kuvinusa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells?",
+    "text": "Chukua zamu ili kutambua ni nini katika mazingira yako ambacho unaweza kugusa, kuona, au kunusa. Kwa pamoja, jadili gundua.\n1. **Unaweza kunusa nini?** Unafikiri inatoka wapi? Unamaoni gani kuhusu jinsi inavyonukia?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "2. **What can you hear?** What is making that sound? Where is it coming from?",
+    "text": "2. **Unaweza kusikia nini?** Ni nini kinachotoa sauti hiyo? Inatoka wapi?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "3. **What can you see?** What is near to you? What is far away?",
+    "text": "3. **Unaona nini?** Nini kipo karibu? Nini kipo mbali?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "4. **What can you touch?** Discuss the different textures and how it feels to touch it.",
+    "text": "4. **Unaweza kugusa nini?** Jadili miundo tofauti na unaiskiaje ukiishika.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?",
+    "text": "5. **Unaweza kuonja nini?** Au, unaona nini karibu yako ambacho unaweza kukionja? Unafikiri kitakuwa na radha gani?",
     "type": "data_list",
     "note": ""
   },
@@ -4543,7 +4573,7 @@
   },
   {
     "SourceText": "Use descriptive words to talk about the pictures. Say: Look, they are wearing their seatbelts because they are in the car. Why do you think they are wearing seatbelts?",
-    "text": "Umia maelezo ya maneno kuzungumza kuhusu picha. Sema: Tazama, amefunga mkanda sababu wako ndani ya gari.. Unafikiri kwanini wamejifunga mikanda?",
+    "text": "Umia maelezo ya maneno kuzungumza kuhusu picha. Sema: Tazama, amefunga mkanda sababu wako ndani ya gari. Unafikiri kwanini wamejifunga mikanda?",
     "type": "data_list",
     "note": ""
   },
@@ -7267,7 +7297,7 @@
   },
   {
     "SourceText": "Later that night in Teju’s bedroom, the light goes off...  ...and then on. And off... ...and on. Teju can’t sleep.",
-    "text": "Baadae usiku ule chumbani kwa Teju, mwanga ulizimika... na ikawaka tena. Na ikazima... ... na ikawaka. Teju anashindwa kulala.",
+    "text": "Baadae usiku ule chumbani kwa Teju, mwanga ulizimika... ...na ikawaka tena. Na ikazima... ...na ikawaka. Teju anashindwa kulala.",
     "type": "data_list",
     "note": ""
   },
@@ -8017,7 +8047,7 @@
   },
   {
     "SourceText": "**Make time to connect on a regular basis.**\n\nEven 10-15 minutes can make a big difference. See it as an opportunity to take a break and relax together.",
-    "text": "*Tenga muda wa kuungana na mtoto wako mara kwa mara**\n\nhata dakika 10 mpaka 15 zinaweza kuleta tofauti kubwa. Ona hii kama fursa ya kupata mapumziko mafupi na kutulia kwa furaha pamoja.",
+    "text": "**Tenga muda wa kuungana na mtoto wako mara kwa mara.**\n\nHata dakika 10 mpaka 15 zinaweza kuleta tofauti kubwa. Ona hii kama fursa ya kupata mapumziko mafupi na kutulia kwa furaha pamoja.",
     "type": "data_list",
     "note": ""
   },
@@ -8305,7 +8335,7 @@
   },
   {
     "SourceText": "This week, we want to talk about the environment you **CREATE** for your child.",
-    "text": "Wiki hii, tunataka kuzungumza kuhusu mazingira **UNAYOTENGENEZA ** kwaajili ya mtoto wako.",
+    "text": "Wiki hii, tunataka kuzungumza kuhusu mazingira **UNAYOTENGENEZA** kwaajili ya mtoto wako.",
     "type": "data_list",
     "note": ""
   },
@@ -8341,7 +8371,7 @@
   },
   {
     "SourceText": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something.",
-    "text": "** Toa maelekezo mazuri**\n\nMaelekezo mazuri na chanya ni mazuri zaidi kuliko maelekezo mabaya.. Kuwaambia watoto nini TUNATAKA wao wafanye vizuri badala ya kuwaambia waache kufanya kitu fulani. ",
+    "text": "**Toa maelekezo mazuri**\n\nMaelekezo mazuri na chanya ni mazuri zaidi kuliko maelekezo mabaya. Kuwaambia watoto nini TUNATAKA wao wafanye vizuri badala ya kuwaambia waache kufanya kitu fulani.",
     "type": "data_list",
     "note": ""
   },
@@ -8365,7 +8395,7 @@
   },
   {
     "SourceText": "You probably DID think about an elephant...\n\n‘Don’t do’ instructions make children think about that thing.\n\nSometimes they do not understand what we DID want from them.\n\nAlso they often don’t like being told not to do things (just like most of us).",
-    "text": "Labda ulifikiria kuhusu Tembo…\n\nUsifanye kwa vitendo maelekezo uliyoyatoa, wafanye watoto wafikirie kuhusu kile kitu.\n\nWakati mwingine hawaelewi tulitaka nini kutoka kwao.\n\nPia mara nyingi hawapendi kuambiwa wasifanye vitu ( ni kama ilivyo kwa wengi wetu).",
+    "text": "Labda ulifikiria kuhusu Tembo…\n\nUsifanye kwa vitendo maelekezo uliyoyatoa, hufanye watoto wafikirie kuhusu kile kitu.\n\nWakati mwingine hawaelewi tulitaka nini kutoka kwao.\n\nPia mara nyingi hawapendi kuambiwa wasifanye vitu (ni kama ilivyo kwa wengi wetu).",
     "type": "data_list",
     "note": ""
   },
@@ -8389,7 +8419,7 @@
   },
   {
     "SourceText": "**Use praise to encourage positive behaviour**\nIf we praise our children when they do something well, we will see them do more and more positive things!",
-    "text": "** Tumia sifa kuhimiza tabia nzuri**\n\nKama tunasifia watoto wetu wanapofanya vizuri, tutawaona wakifanya vitu vyenye tija zaidi na zaidi!",
+    "text": "**Tumia sifa kuhimiza tabia nzuri**\nKama tunasifia watoto wetu wanapofanya vizuri, tutawaona wakifanya vitu vyenye tija zaidi na zaidi!",
     "type": "data_list",
     "note": ""
   },
@@ -8413,7 +8443,7 @@
   },
   {
     "SourceText": "**Question time:**",
-    "text": "** Muda wa maswali**",
+    "text": "**Muda wa maswali:**",
     "type": "data_list",
     "note": ""
   },
@@ -8593,7 +8623,7 @@
   },
   {
     "SourceText": "Book activities do not have to be serious. It is about sharing the book in a way that you and your child will enjoy, not about being strict or being right. \nSo, if your child makes a mistake, avoid being critical or negative. You don’t have to be hard on your child, or make fun of them when they don’t know something.\nWhen your child points to a picture and calls it the wrong name – for example pointing to a tomato and calling it an apple, all you need to do is respond with the correct word. Instead of saying “no, that is wrong! How can you say that’s an apple?!” just respond by saying “that’s a tomato” This will help them learn the correct word, without making them feel discouraged to try again.",
-    "text": "Shughuli za kitabu hazihitaji kuwa makini. Inahusu tu kushirikishana kitabu kwa jinsi ambayo wewe na mtoto wako mtafurahia, haihusiani na kuwa mkali au kuwa sahihi. Hivyo, kama mtoto wako anafanya makosa, epuka kuwa mkosoaji au kuwa tofauti naye. Hutakiwa kuwa mgumu kwa mtoto wako. Au kuwafanyia mzaha pale wanapokuwa hawajui kitu fulani.\nMtoto wako anapoonesha picha na kuiita jina ambalo si sahihi - kwa mfano kuonesha nyanya na kuiita ni tofaa/epo, unachohitaji kufanya ni kuitikia kwa neno sahihi. Badala ya kusema “” hapana, hiyo si sawa! Unawezaje kusema hilo ni tofaa/epo?!” itikia kwa kusema “ hiyo ni nyanya” Hii itawasaidia kujifunza neno sahihi, bila kuwafanya wajisikie kuvunjika moyo kujaribu tena.",
+    "text": "Shughuli za kitabu hazihitaji kuwa makini. Inahusu tu kushirikishana kitabu kwa jinsi ambayo wewe na mtoto wako mtafurahia, haihusiani na kuwa mkali au kuwa sahihi. Hivyo, kama mtoto wako anafanya makosa, epuka kuwa mkosoaji au kuwa tofauti naye. Hutakiwa kuwa mgumu kwa mtoto wako. Au kuwafanyia mzaha pale wanapokuwa hawajui kitu fulani.\nMtoto wako anapoonesha picha na kuiita jina ambalo si sahihi - kwa mfano kuonesha nyanya na kuiita ni tofaa/epo, unachohitaji kufanya ni kuitikia kwa neno sahihi. Badala ya kusema \"hapana, hiyo si sawa! Unawezaje kusema hilo ni tofaa/epo?!\" itikia kwa kusema \"hiyo ni nyanya\" Hii itawasaidia kujifunza neno sahihi, bila kuwafanya wajisikie kuvunjika moyo kujaribu tena.",
     "type": "data_list",
     "note": ""
   },
@@ -8755,7 +8785,7 @@
   },
   {
     "SourceText": "**ParentApp supports you to take care of yourself.**",
-    "text": "** Programu ya wazazi inakusaidia wewe kujijali**",
+    "text": "**Programu ya wazazi inakusaidia wewe kujijali.**",
     "type": "data_list",
     "note": ""
   },
@@ -8803,7 +8833,7 @@
   },
   {
     "SourceText": "**ParentApp supports you to build a strong relationship with your child.**",
-    "text": "** Programu ya wazazi inakusaidia kujenga uhusiano imara na mtoto wako**",
+    "text": "**Programu ya wazazi inakusaidia kujenga uhusiano imara na mtoto wako.**",
     "type": "data_list",
     "note": ""
   },
@@ -8815,7 +8845,7 @@
   },
   {
     "SourceText": "I have three children, and I love them very much. I try my best to give them what they need, even when life is hard. I make sure that they are fed, washed, safe, and that they go to school. It’s also really important to me that my children respect others, that they behave properly, and keep our family name in good standing. \nThe way I was raised – we would get into real trouble if we didn’t behave the way our parents wanted us to. My parents would hit me and my siblings to get us to behave. It’s what I know, so I thought that this should be the way I raise my kids as well. \nI really want my children to respect me, but I also want them to feel that they can trust me with their concerns and feelings. Even though my parents hit me and I turned out fine, I think I would have benefited from a relationship with my parents that was more accepting, loving and understanding – where I felt less fear about being hit or beaten, or to tell them about my problems.",
-    "text": "Nina watoto watatu, na ninawapenda sana. Ninajaribu kwa kiwango cha juu ninavyoweza kuwapa wanachohitaji, hata pale ambapo maisha ni magumu. Nina hakikisha wanakula, wanakuwa wasafi, salama, na pia wanaenda shule. Pia ni muhimu sana kwangu watoto wangu wawaheshimu wengine, kwamba wawe na tabia njema, na kutunza jina la familia yetu liendelee kubaki na heshima. Jinsi nilivyokuzwa, tungejikuta kwenye matatizo sana kama tusingekuwa na tabia ambayo wazazi wetu walitaka tuwe nayo. Wazazi wangu wangetupiga mimi na ndugu zangu ili tuwe na tabia njema. Hiki ndicho ninachokijua, hivyo nilidhani kwamba jinsi hii inatakiwa iwe ndivyo ninavyowalea watoto wangu pia. Ninahitaji sana watoto wangu waniheshimu, lakini pia nataka waniamini wanapokuwa na mahitaji yao na hisia. Ingawa wazazi wangu walinipiga na nikawa vizuri, nafikiri ningefaidika na uhusiano na wazazi wangu ule ambao unanipokea zaidi, wenye upendo na unaonielewa -- pale nilipokuwa sihofii kuumizwa, au kupigwa, au kuwaambia kuhusu matatizo yangu.",
+    "text": "Nina watoto watatu, na ninawapenda sana. Ninajaribu kwa kiwango cha juu ninavyoweza kuwapa wanachohitaji, hata pale ambapo maisha ni magumu. Nina hakikisha wanakula, wanakuwa wasafi, salama, na pia wanaenda shule. Pia ni muhimu sana kwangu watoto wangu wawaheshimu wengine, kwamba wawe na tabia njema, na kutunza jina la familia yetu liendelee kubaki na heshima. \nJinsi nilivyokuzwa – tungejikuta kwenye matatizo sana kama tusingekuwa na tabia ambayo wazazi wetu walitaka tuwe nayo. Wazazi wangu wangetupiga mimi na ndugu zangu ili tuwe na tabia njema. Hiki ndicho ninachokijua, hivyo nilidhani kwamba jinsi hii inatakiwa iwe ndivyo ninavyowalea watoto wangu pia. \nNinahitaji sana watoto wangu waniheshimu, lakini pia nataka waniamini wanapokuwa na mahitaji yao na hisia. Ingawa wazazi wangu walinipiga na nikawa vizuri, nafikiri ningefaidika na uhusiano na wazazi wangu ule ambao unanipokea zaidi, wenye upendo na unaonielewa – pale nilipokuwa sihofii kuumizwa, au kupigwa, au kuwaambia kuhusu matatizo yangu.",
     "type": "data_list",
     "note": ""
   },
@@ -8863,7 +8893,7 @@
   },
   {
     "SourceText": "**ParentApp supports you to use stories and books to help your child learn.**",
-    "text": "**Programu ya wazazi inakusaidia kutumia hadithi na vitabu kumsaidia mtoto wako kujifunza **",
+    "text": "**Programu ya wazazi inakusaidia kutumia hadithi na vitabu kumsaidia mtoto wako kujifunza.**",
     "type": "data_list",
     "note": ""
   },
@@ -8923,7 +8953,13 @@
   },
   {
     "SourceText": "It is never too early to start! Children of all ages – even young babies – benefit from book activities.",
-    "text": "Hakuna muda maalum kwamba ni mapema sana! Watoto wa umri wote _ hata watoto wachanga _ hunufaika na shughuli za kitabu.",
+    "text": "Hakuna muda maalum kwamba ni mapema sana! Watoto wa umri wote – hata watoto wachanga – hunufaika na shughuli za kitabu.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n\nI was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n\nWith my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n\nWith my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child.",
+    "text": "Kabla sijajiunga na programu ya wazazi, nilifikiri kwamba watoto walihitaji vitabu  pale tu wanapoanza shule ya msingi. Nilishangazwa sana kujifunza kwamba ukianza shughuli za kitabu mapema, ndivyo itakavyokuwa rahisi  kwa watoto kujifunza kusoma pale wanapokuwa wamekua.\n\nHata nilishangazwa zaidi kusikia kwamba aunaweza kuanza shughuli za kitabu pale wanapokuwa watoto wachanga – hata kabla ya kuanza kuongea. Hivyo, sasa ninafanya shughuli tofauti za vitabu  na mtoto wangu mwenye umri wa miaka 4 na mtoto wangu mwenye umri wa miaka 7.\n\nNakaa na mtoto wangu, kwenye miguu yangu na ninazungumza kuhusu picha katika sauti ile ile ambayo ninaongea naye ninapomlisha au ninapomuogesha. Anafurahia sana – anatengeneza sauti mbalimbali na akipiga mikono yake.\n\nNa mtoto wangu  wa miaka 4, naelezea picha na ninamuuliza maswali kuhusu hadithi. Ninafanya hii na mtoto wangu mwenye umri wa  miaka 7 pia, na tayari ameanza kutambua baadhi ya herufi na maneno ya kitabuni. Watoto wangu wanafurahia sana hizi shughuli. Natamani ningejua kuhusu hii nilipokuwa na mtoto wangu wa kwanza.",
     "type": "data_list",
     "note": ""
   },
@@ -8935,13 +8971,13 @@
   },
   {
     "SourceText": "This is a concern for many parents and caregivers. The good news is that you don’t need to read the book’s text when doing book activities.",
-    "text": "Hii inawagusa wazazi wengi na walezi.. habari nzuri ni kwamba, hauhitaji kusoma maandishi ya kitabu wakati unafanya shughuli za kitabu.",
+    "text": "Hii inawagusa wazazi wengi na walezi. Habari nzuri ni kwamba, hauhitaji kusoma maandishi ya kitabu wakati unafanya shughuli za kitabu.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "As a caregiver, your involvement in reading activities is important at every age – whether children are very young, or whether children already know how to read.\n\nEvery caregiver can help their child with reading – even those who are busy or who cannot read themselves.\n\nYou can use the pictures to introduce new words and ideas to your child.\n\nYou and your child can create your own story around the pictures.\n\nYou can ask your child questions about the story, characters, and events. \n\nThis creates important opportunities for conversation, thinking, and learning.\n\nWhen families read together, children learn to enjoy reading.\n\nStrong reading foundations help set children up for success in school, and later in life.\n\nSo, find a few minutes a day, every day, to read with your child. It’s one of the greatest gifts you can give them.",
-    "text": "Kama mlezi, ushiriki wako katika ashughuli za kusoma ni muhimu katika kila umri -iwe watoto ni wachanga sana au ikiwa tayari wanajua kusoma.\nKila mlezi anaweza kumsaidia mtoto wake kwa kusoma _hata wale walio na shughuli nyingi au wasiojua kusoma \nUnaweza kutumia picha kutambulisha maneno na mawazo mapya kwa mtoto wako.\nWewe na mtoto wako mnaweza kutengeneza hadithi yenu wenyewe kupitia picha.\nUnaweza kumuuliza mtoto wako maswali kuhusu hadithi, wahusika, na matukio.\nHii inatengeneza fursa muhimu za mazungumzo, kufikiria na kujifunza.\nFamilia zinaaposoma pamoja, watoto hujifunza kufurahia kusoma.\nMsingi thabiti wa kusoma husaidia watoto kuwa na mafanikio shuleni na kwenye maisha yao hapo baadae.\nKwahiyo tenga dakika chache kwa siku, kila siku kusoma na mtoto wako. Ni moja ya zawadi kubwa unayoweza kuwapa.",
+    "text": "Kama mlezi, ushiriki wako katika ashughuli za kusoma ni muhimu katika kila umri – iwe watoto ni wachanga sana au ikiwa tayari wanajua kusoma.\n\nKila mlezi anaweza kumsaidia mtoto wake kwa kusoma – hata wale walio na shughuli nyingi au wasiojua kusoma.\n\nUnaweza kutumia picha kutambulisha maneno na mawazo mapya kwa mtoto wako.\n\nWewe na mtoto wako mnaweza kutengeneza hadithi yenu wenyewe kupitia picha.\n\nUnaweza kumuuliza mtoto wako maswali kuhusu hadithi, wahusika, na matukio.\n\nHii inatengeneza fursa muhimu za mazungumzo, kufikiria na kujifunza.\n\nFamilia zinaaposoma pamoja, watoto hujifunza kufurahia kusoma.\n\nMsingi thabiti wa kusoma husaidia watoto kuwa na mafanikio shuleni na kwenye maisha yao hapo baadae.\n\nKwahiyo tenga dakika chache kwa siku, kila siku kusoma na mtoto wako. Ni moja ya zawadi kubwa unayoweza kuwapa.",
     "type": "data_list",
     "note": ""
   },
@@ -9013,13 +9049,13 @@
   },
   {
     "SourceText": "🤝 **Play activities for you and your child.** \nThese activities provide opportunities to bond while also supporting your child’s learning.\n\n📖 **Digital books to share with your child.** \nFind a comfortable place to sit and share one of the many books available in the app. \n\n😌 **Short but powerful relaxing activities.** \nBeing a parent can be so stressful. Take a moment for yourself to relax, breathe or reflect.",
-    "text": "🤝** shughuli za mchezo kwaajili yako na mtoto wako**\nShughuli hizi zinatoa fursa kuungana wakati huo pia inasaidia kujifunza kwa mtoto wako.\n\n\n📖 ** Vitabu vya kidijitali vya kushirikishana na mtoto wako**\nTafuta mahali pazuri kukaa na kushirikishana kitabu kimoja kati ya vingi vinavyopatikana kwenye programu.",
+    "text": "🤝 **Shughuli za mchezo kwaajili yako na mtoto wako.**\nShughuli hizi zinatoa fursa kuungana wakati huo pia inasaidia kujifunza kwa mtoto wako.\n\n📖 **Vitabu vya kidijitali vya kushirikishana na mtoto wako.**\nTafuta mahali pazuri kukaa na kushirikishana kitabu kimoja kati ya vingi vinavyopatikana kwenye programu.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Welcome!",
-    "text": "Karubu!",
+    "text": "Karibu!",
     "type": "data_list",
     "note": ""
   },
@@ -9229,7 +9265,7 @@
   },
   {
     "SourceText": "**Create space and time for children to play.**\n\nChildren enjoy playing in the presence of their parents. Create space for them to play around you. Give your child praise and encouragement as they play.",
-    "text": "**Tengeneza nafasi na muda wa watoto kucheza.**\n\nWatoto hufurahia kucheza mbele ya wazazi wao, Watengenezee nafasi ya kucheza karibu yako.. Msifie mtoto wako na mtie moyo wanapocheza.",
+    "text": "**Tengeneza nafasi na muda wa watoto kucheza.**\n\nWatoto hufurahia kucheza mbele ya wazazi wao. Watengenezee nafasi ya kucheza karibu yako. Msifie mtoto wako na mtie moyo wanapocheza.",
     "type": "data_list",
     "note": ""
   },
@@ -9289,7 +9325,7 @@
   },
   {
     "SourceText": "It is normal to feel frustrated when our children don’t cooperate. But sometimes it can be more effective to work *with* your child than *against* them.",
-    "text": "Ni kawaida kujiskia kuchanganyikiwa pale watoto wetu wanapokuwa hawatoi ushirikiano. Lakini wakati mwingine inaweza kuwa na mtokeo zaidi kufanya kazi *na* mtoto wako kuliko kufanya kazi *dhidi yao.*",
+    "text": "Ni kawaida kujiskia kuchanganyikiwa pale watoto wetu wanapokuwa hawatoi ushirikiano. Lakini wakati mwingine inaweza kuwa na mtokeo zaidi kufanya kazi *na* mtoto wako kuliko kufanya kazi *dhidi* yao.",
     "type": "data_list",
     "note": ""
   },
@@ -9313,7 +9349,7 @@
   },
   {
     "SourceText": "\"That’s enough now. Goodnight, Nandi.\"\n\n\"I ... don’t ... want ... to ... go ... to ... sleep.\"",
-    "text": "'' Hii inatosha sasa. Usiku mwema Nandi.''\n'' Sitaki... kwe... nda... kulala.''",
+    "text": "''Hii inatosha sasa. Usiku mwema Nandi.''\n''Sitaki... kwe... nda... kulala.''",
     "type": "data_list",
     "note": ""
   },
@@ -9325,13 +9361,13 @@
   },
   {
     "SourceText": "\"MAMA! ...I need a glass of water. Please? Please.\" \n\n\"It’s time to go to sleep now. Goodnight, Nandi.\"\n\n\"I DON’T WANT TO GO TO SLEEP!\"",
-    "text": "''SITAKI KWENDA KULALA!''",
+    "text": "\"MAMA!... Tafadhali nahitaji bilauri ya maji? Tafadhali.\" \n\n\"Ni muda wa kwenda kulala sasa. Usiku mwema, Nandi\"\n\n''SITAKI KWENDA KULALA!''",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Mama sighs: \"What about an adventure? Do you want an adventure?\"\n\n\"...yes...\"",
-    "text": "Mama anavuta pumzi: Vipi kuhusu matembezi? unataka kutembea kuona mazingira?\n\n''.....ndio....''",
+    "text": "Mama anavuta pumzi: \"Vipi kuhusu matembezi? Unataka kutembea kuona mazingira?\"\n\n''...ndio...''",
     "type": "data_list",
     "note": ""
   },
@@ -9685,7 +9721,7 @@
   },
   {
     "SourceText": "Illustrator",
-    "text": "Mtunzi",
+    "text": "Mchoraji",
     "type": "template",
     "note": ""
   },
@@ -9928,6 +9964,12 @@
     "text": "@fields.@local.click_history_field_name ;  @local.now",
     "type": "template",
     "note": "The following strings should not be translated:\n@local.click_history_field_name\n@local.now"
+  },
+  {
+    "SourceText": "Give me an activity",
+    "text": "Nipatie shughuli",
+    "type": "template",
+    "note": ""
   },
   {
     "SourceText": "Resource Centre",
