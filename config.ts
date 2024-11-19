@@ -47,11 +47,11 @@ config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.
 config.web.favicon_asset = "images/logos/favicon.svg";
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids TZ";
-config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids TZ";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids Tanzania";
+config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids Tanzania";
 config.app_config.APP_HEADER_DEFAULTS.collapse = false;
-config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Kids TZ";
-config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Kids TZ";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Kids Tanzania";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Kids Tanzania";
 
 config.error_logging = { dsn: "https://a371085a8bc146a3a45bb4e5d2d013ef@app.glitchtip.com/6036"};
 
