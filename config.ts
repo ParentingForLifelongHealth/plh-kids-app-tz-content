@@ -5,12 +5,12 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.2.5",
+  content_tag_latest: "1.2.6",
 };
 
 config.android = {
   app_id:'international.idems.plh_kids_tz',
-  app_name:'ParentApp for Kids TZ',
+  app_name:'ParentApp for Kids Tanzania',
   splash_asset_path: "./app_data/assets/android/splash.png",
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
@@ -20,7 +20,7 @@ config.android = {
 
 config.ios = {
   app_id:'international.idems.plh_kids_tz',
-  app_name:'ParentApp for Kids TZ',
+  app_name:'ParentApp for Kids Tanzania',
   zoom_enabled: true
 };
 
@@ -47,11 +47,11 @@ config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.
 config.web.favicon_asset = "images/logos/favicon.svg";
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids TZ";
-config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids TZ";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids Tanzania";
+config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids Tanzania";
 config.app_config.APP_HEADER_DEFAULTS.collapse = false;
-config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Kids TZ";
-config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Kids TZ";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Kids Tanzania";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Kids Tanzania";
 
 config.error_logging = { dsn: "https://a371085a8bc146a3a45bb4e5d2d013ef@app.glitchtip.com/6036"};
 
