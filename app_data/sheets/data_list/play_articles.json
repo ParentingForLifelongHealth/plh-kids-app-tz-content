@@ -146,6 +146,9 @@
         "text_2": {
           "tz_sw": true
         },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
@@ -154,10 +157,14 @@
         "text_2": {
           "eng": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development."
         },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
         "media_transcript": {
           "eng": "Connecting with your child in a playful way every day helps your child to feel close to you, and it helps them to grow and learn. Joining your child in play does not mean taking over what they are doing or telling them what to do differently. It means being part of the activity in a way that your child will enjoy."
         }
       },
+      "media_title": "Listen to learn more:",
       "media_transcript": "Connecting with your child in a playful way every day helps your child to feel close to you, and it helps them to grow and learn. Joining your child in play does not mean taking over what they are doing or telling them what to do differently. It means being part of the activity in a way that your child will enjoy."
     },
     {

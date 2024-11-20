@@ -57,8 +57,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 77823 KB | 77.8 MB |
-| unused | 884 KB | 0.9 MB |
+| total | 77361 KB | 77.4 MB |
+| unused | 1125 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -72,6 +72,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 114 |
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
+| audio/modules/connect/connect_07.mp3 | 241.2 |
 | audio/modules/create/power_create_4.mp3 | 241.2 |
 | contents.json | 5.9 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -334,7 +335,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/connect/connect_04.mp3 | 507.1 | 2 |
 | audio/modules/connect/connect_05.mp3 | 293.8 | 2 |
 | audio/modules/connect/connect_06.mp3 | 280.8 | 2 |
-| audio/modules/connect/connect_07.mp3 | 241.2 | 2 |
 | audio/modules/connect/connect_08.mp3 | 204.1 | 2 |
 | audio/modules/connect/connect_09.mp3 | 381.9 | 2 |
 | audio/modules/create/create_01.mp3 | 165.5 | 2 |
@@ -346,7 +346,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/create/power_create_3.mp3 | 216.2 | 2 |
 | audio/modules/create/power_create_5.mp3 | 369.3 | 2 |
 | audio/modules/create/power_create_6.mp3 | 272.9 | 2 |
-| audio/modules/join/care_1.mp3 | 653.9 | 2 |
+| audio/modules/join/care_1.m4a | 432.9 | 2 |
 | audio/modules/join/learn_book_3.mp3 | 444.9 | 2 |
 | audio/modules/join/learn_book_8.mp3 | 554.8 | 2 |
 | audio/modules/join/welcome_1.mp3 | 385.5 | 2 |

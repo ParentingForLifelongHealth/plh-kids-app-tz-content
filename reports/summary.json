@@ -166,13 +166,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "77823 KB",
-      "MB": "77.8 MB"
+      "KB": "77361 KB",
+      "MB": "77.4 MB"
     },
     {
       "assets": "unused",
-      "KB": "884 KB",
-      "MB": "0.9 MB"
+      "KB": "1125 KB",
+      "MB": "1.1 MB"
     }
   ],
   "assets_unused": [
@@ -191,6 +191,10 @@
     {
       "path": "android/splash.png",
       "size_kb": 156.5
+    },
+    {
+      "path": "audio/modules/connect/connect_07.mp3",
+      "size_kb": 241.2
     },
     {
       "path": "audio/modules/create/power_create_4.mp3",
@@ -1383,11 +1387,6 @@
       "size_kb": 280.8
     },
     {
-      "path": "audio/modules/connect/connect_07.mp3",
-      "count": 2,
-      "size_kb": 241.2
-    },
-    {
       "path": "audio/modules/connect/connect_08.mp3",
       "count": 2,
       "size_kb": 204.1
@@ -1443,9 +1442,9 @@
       "size_kb": 272.9
     },
     {
-      "path": "audio/modules/join/care_1.mp3",
+      "path": "audio/modules/join/care_1.m4a",
       "count": 2,
-      "size_kb": 653.9
+      "size_kb": 432.9
     },
     {
       "path": "audio/modules/join/learn_book_3.mp3",
