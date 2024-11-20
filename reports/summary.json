@@ -2,7 +2,7 @@
   "template_components": [
     {
       "type": "accordion",
-      "count": 3
+      "count": 2
     },
     {
       "type": "animated_section",
@@ -34,15 +34,15 @@
     },
     {
       "type": "display_group",
-      "count": 43
+      "count": 44
     },
     {
       "type": "image",
-      "count": 7
+      "count": 6
     },
     {
       "type": "items",
-      "count": 14
+      "count": 15
     },
     {
       "type": "lottie_animation",
@@ -62,7 +62,7 @@
     },
     {
       "type": "set_variable",
-      "count": 552
+      "count": 541
     },
     {
       "type": "task_card",
@@ -74,11 +74,11 @@
     },
     {
       "type": "template",
-      "count": 397
+      "count": 396
     },
     {
       "type": "text",
-      "count": 52
+      "count": 51
     },
     {
       "type": "text_area",
@@ -94,7 +94,7 @@
     },
     {
       "type": "title",
-      "count": 23
+      "count": 22
     },
     {
       "type": "update_action_list",
@@ -112,7 +112,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 350
+      "count": 349
     },
     {
       "type": "emit: force_reload",
@@ -136,7 +136,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 349
+      "count": 348
     },
     {
       "type": "feedback",
@@ -5698,12 +5698,12 @@
     },
     {
       "path": "images/icons/heart.svg",
-      "count": 3,
+      "count": 4,
       "size_kb": 0.6
     },
     {
       "path": "images/icons/heart_filled.svg",
-      "count": 3,
+      "count": 4,
       "size_kb": 1.4
     },
     {

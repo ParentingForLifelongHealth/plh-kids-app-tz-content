@@ -3,7 +3,7 @@
 
 | type | count |
 | --- | --- |
-| accordion | 3 |
+| accordion | 2 |
 | animated_section | 2 |
 | audio | 3 |
 | button | 29 |
@@ -11,22 +11,22 @@
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 43 |
-| image | 7 |
-| items | 14 |
+| display_group | 44 |
+| image | 6 |
+| items | 15 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
 | set_field | 1 |
-| set_variable | 552 |
+| set_variable | 541 |
 | task_card | 7 |
 | task_progress_bar | 1 |
-| template | 397 |
-| text | 52 |
+| template | 396 |
+| text | 51 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 5 |
-| title | 23 |
+| title | 22 |
 | update_action_list | 2 |
 | video | 1 |
 </details>
@@ -37,13 +37,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 350 |
+| emit: completed | 349 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 349 |
+| emit: uncompleted | 348 |
 | feedback | 7 |
 | go_to | 12 |
 | pop_up | 7 |
@@ -1197,8 +1197,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/valued.svg | 3.4 | 2 |
 | images/icons/hands_hold_heart_blue.svg | 2.9 | 1 |
 | images/icons/hands_hold_heart_white.svg | 3.4 | 1 |
-| images/icons/heart.svg | 0.6 | 3 |
-| images/icons/heart_filled.svg | 1.4 | 3 |
+| images/icons/heart.svg | 0.6 | 4 |
+| images/icons/heart_filled.svg | 1.4 | 4 |
 | images/icons/house_white.svg | 0.6 | 1 |
 | images/icons/in_progress.svg | 1.1 | 4 |
 | images/icons/join_icons/caring_yourchild.svg | 4.4 | 2 |

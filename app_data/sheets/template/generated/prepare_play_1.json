@@ -1,5 +1,5 @@
 {
-  "flow_name": "prepare_id_1",
+  "flow_name": "prepare_play_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "prepare_id",
-          "value": "id_1",
+          "value": "play_1",
           "_translations": {
             "value": {}
           },
