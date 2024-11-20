@@ -344,13 +344,19 @@
         "text_1_facilitator": {
           "eng": "Let’s hear from a caregiver:"
         },
+        "media_title": {
+          "eng": "Listen to learn more:"
+        },
         "media_transcript": {
           "eng": "When I first heard I had to spend one-on-one time with my child, it was hard for me. I’m always doing things for my child, why do I need to get involved if they are playing happily by themselves? I did not want to spoil my child so that he thinks we have to do everything together. \n\nBut after thinking about how good I feel when someone makes an effort to spend time with me and to listen to me, I thought that this might be really good for my child as well. So I decided to try it. \n\nI sat down next to my child and suggested that we draw a picture together. I asked her what she would like to draw. She suggested we draw our house and garden. I asked her what she would like me to draw, and she said I can draw the tree outside our house, while she draws the house. It was actually really relaxing to sit and do something together. We had a nice discussion about some of our favourite things about our home and what we enjoy doing together as a family."
         }
       },
       "category_id": "power_connect",
-      "media_transcript": "When I first heard I had to spend one-on-one time with my child, it was hard for me. I’m always doing things for my child, why do I need to get involved if they are playing happily by themselves? I did not want to spoil my child so that he thinks we have to do everything together. \n\nBut after thinking about how good I feel when someone makes an effort to spend time with me and to listen to me, I thought that this might be really good for my child as well. So I decided to try it. \n\nI sat down next to my child and suggested that we draw a picture together. I asked her what she would like to draw. She suggested we draw our house and garden. I asked her what she would like me to draw, and she said I can draw the tree outside our house, while she draws the house. It was actually really relaxing to sit and do something together. We had a nice discussion about some of our favourite things about our home and what we enjoy doing together as a family.",
+      "media_title": "Listen to learn more:",
       "_translations": {
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
@@ -358,6 +364,7 @@
           "tz_sw": true
         }
       },
+      "media_transcript": "When I first heard I had to spend one-on-one time with my child, it was hard for me. I’m always doing things for my child, why do I need to get involved if they are playing happily by themselves? I did not want to spoil my child so that he thinks we have to do everything together. \n\nBut after thinking about how good I feel when someone makes an effort to spend time with me and to listen to me, I thought that this might be really good for my child as well. So I decided to try it. \n\nI sat down next to my child and suggested that we draw a picture together. I asked her what she would like to draw. She suggested we draw our house and garden. I asked her what she would like me to draw, and she said I can draw the tree outside our house, while she draws the house. It was actually really relaxing to sit and do something together. We had a nice discussion about some of our favourite things about our home and what we enjoy doing together as a family.",
       "text_1_facilitator": "Let’s hear from a caregiver:",
       "completed": false
     },
@@ -469,14 +476,13 @@
     },
     {
       "id": "using_books_2",
-      "media_asset": "audio/modules/connect/connect_07.mp3",
-      "media_type": "audio",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1": {
           "eng": "Make book and story activities part of your daily routine."
         },
         "media_title": {
-          "eng": "Listen for an example:"
+          "eng": "Watch this video to learn more:"
         },
         "media_transcript": {
           "eng": "By reading together every day, your child will learn to love books and enjoy reading. The more time children spend looking at books, the more they learn. So, make reading part of your daily routine.\n\nEven in a busy day, find some time to look at books and read with your child. Even 10 minutes a day can make the world of difference.\n\nFind a time that works best for your family. This might be first thing in the morning or towards the end of the day when you want your child to come inside. Reading before bedtime can also help children fall asleep easier."
@@ -557,8 +563,9 @@
       "quiz_1_option_2_text": "Afternoon",
       "quiz_1_option_3_text": "Evening",
       "image_asset": "images/modules/connect/connect_10.svg",
-      "media_title": "Listen for an example:",
+      "media_title": "Watch this video to learn more:",
       "media_transcript": "By reading together every day, your child will learn to love books and enjoy reading. The more time children spend looking at books, the more they learn. So, make reading part of your daily routine.\n\nEven in a busy day, find some time to look at books and read with your child. Even 10 minutes a day can make the world of difference.\n\nFind a time that works best for your family. This might be first thing in the morning or towards the end of the day when you want your child to come inside. Reading before bedtime can also help children fall asleep easier.",
+      "youtube_gb_en": "https://youtu.be/j13hQKKL0ww",
       "quiz_1_option_4_text": "Weekends",
       "quiz_1_feedback_4": "It can be really hard to find time during the busy week for book activities. Weekends are a great time to catch up with children and connect.",
       "completed": false

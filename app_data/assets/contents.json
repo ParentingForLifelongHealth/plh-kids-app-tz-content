@@ -262,18 +262,18 @@
     },
     "size_kb": 272.9
   },
-  "audio/modules/join/care_1.mp3": {
-    "md5Checksum": "1f54a0d6c0f793f8b37118a1ddb54bb7",
+  "audio/modules/join/care_1.m4a": {
+    "md5Checksum": "25ea5ffd1486a651759ee7ba7f1b2282",
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/modules/join/tz_sw/care_1.mp3",
-          "md5Checksum": "3cd3d74790153c4cf33711e6a26f8881",
-          "size_kb": 626
+          "filePath": "audio/modules/join/tz_sw/care_1.m4a",
+          "md5Checksum": "27c744d619f7a07db17156eb2eaa3595",
+          "size_kb": 497.4
         }
       }
     },
-    "size_kb": 653.9
+    "size_kb": 432.9
   },
   "audio/modules/join/learn_book_3.mp3": {
     "md5Checksum": "63b18e9dbfef47fe3aaefeba5e4b267a",
