@@ -9,16 +9,16 @@
 | button | 29 |
 | carousel | 2 |
 | combo_box | 2 |
-| data_items | 1 |
+| data_items | 2 |
 | display_grid | 2 |
 | display_group | 43 |
 | image | 7 |
-| items | 14 |
+| items | 16 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
 | set_field | 1 |
-| set_variable | 552 |
+| set_variable | 561 |
 | task_card | 7 |
 | task_progress_bar | 1 |
 | template | 397 |
@@ -1396,9 +1396,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 3 |
 | data_pipe | generated | 7 |
-| generator |  | 24 |
+| generator |  | 25 |
 | global |  | 2 |
-| template |  | 63 |
-| template | generated | 365 |
+| template |  | 64 |
+| template | generated | 366 |
 | template | legal_terms | 4 |
 </details>
