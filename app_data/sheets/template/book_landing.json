@@ -14,26 +14,6 @@
       "_nested_name": "book_id"
     },
     {
-      "name": "prepare_id",
-      "value": "join_1",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "prepare_id"
-    },
-    {
-      "name": "module_id",
-      "value": "connect",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "module_id"
-    },
-    {
       "name": "book",
       "value": "books",
       "_translations": {
@@ -100,6 +80,105 @@
       "_dynamicDependencies": {
         "@local.prepare": [
           "value"
+        ]
+      }
+    },
+    {
+      "type": "items",
+      "name": "find_prepare_id",
+      "value": "@data.@local.data_p",
+      "parameter_list": {
+        "filter": "@item.book_id == @local.book_id"
+      },
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "prepare_id",
+          "value": "@item.id",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_prepare_id.prepare_id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "module_id",
+          "value": "@item.module_id",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_prepare_id.module_id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.module_id",
+                "matchedExpression": "@item.module_id",
+                "type": "item",
+                "fieldName": "module_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.module_id": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "find_prepare_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.@local.data_p",
+            "matchedExpression": "@local.data_p",
+            "type": "local",
+            "fieldName": "data_p"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.book_id == @local.book_id",
+              "matchedExpression": "@item.book_id",
+              "type": "item",
+              "fieldName": "book_id"
+            },
+            {
+              "fullExpression": "@item.book_id == @local.book_id",
+              "matchedExpression": "@local.book_id",
+              "type": "local",
+              "fieldName": "book_id"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.data_p": [
+          "value"
+        ],
+        "@item.book_id": [
+          "parameter_list.filter"
+        ],
+        "@local.book_id": [
+          "parameter_list.filter"
         ]
       }
     },
