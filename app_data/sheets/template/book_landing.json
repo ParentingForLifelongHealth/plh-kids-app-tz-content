@@ -15,7 +15,7 @@
     },
     {
       "name": "prepare_id",
-      "value": "id_1",
+      "value": "join_1",
       "_translations": {
         "value": {}
       },
@@ -672,6 +672,16 @@
       "action_list": [
         {
           "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_prepare_id",
+            "@local.prepare_data.id"
+          ],
+          "_raw": "click | set_field: current_prepare_id: @local.prepare_data.id",
+          "_cleaned": "click | set_field: current_prepare_id: @local.prepare_data.id"
+        },
+        {
+          "trigger": "click",
           "action_id": "go_to",
           "args": [
             "prepare_@local.prepare_data.id"
@@ -692,6 +702,34 @@
       "_dynamicFields": {
         "action_list": {
           "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.prepare_data.id",
+                  "matchedExpression": "@local.prepare_data.id",
+                  "type": "local",
+                  "fieldName": "prepare_data"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: current_prepare_id: @local.prepare_data.id",
+                "matchedExpression": "@local.prepare_data.id",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: current_prepare_id: @local.prepare_data.id",
+                "matchedExpression": "@local.prepare_data.id",
+                "type": "local",
+                "fieldName": "prepare_data"
+              }
+            ]
+          },
+          "1": {
             "args": {
               "0": [
                 {
@@ -741,9 +779,12 @@
       },
       "_dynamicDependencies": {
         "@local.prepare_data.id": [
-          "action_list.0.args.0",
+          "action_list.0.args.1",
           "action_list.0._raw",
-          "action_list.0._cleaned"
+          "action_list.0._cleaned",
+          "action_list.1.args.0",
+          "action_list.1._raw",
+          "action_list.1._cleaned"
         ],
         "@local.prepare_title": [
           "parameter_list.title"
