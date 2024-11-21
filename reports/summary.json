@@ -26,7 +26,7 @@
     },
     {
       "type": "data_items",
-      "count": 1
+      "count": 2
     },
     {
       "type": "display_grid",
@@ -42,7 +42,7 @@
     },
     {
       "type": "items",
-      "count": 14
+      "count": 16
     },
     {
       "type": "lottie_animation",
@@ -62,7 +62,7 @@
     },
     {
       "type": "set_variable",
-      "count": 552
+      "count": 561
     },
     {
       "type": "task_card",
@@ -6661,7 +6661,7 @@
     {
       "type": "generator",
       "subtype": null,
-      "total": 24
+      "total": 25
     },
     {
       "type": "global",
@@ -6671,12 +6671,12 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 63
+      "total": 64
     },
     {
       "type": "template",
       "subtype": "generated",
-      "total": 365
+      "total": 366
     },
     {
       "type": "template",

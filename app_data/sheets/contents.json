@@ -1659,6 +1659,39 @@
         }
       ]
     },
+    "gen_module_start_at_uncompleted": {
+      "flow_type": "generator",
+      "flow_name": "gen_module_start_at_uncompleted",
+      "parameter_list": {
+        "input_data_list": "modules_released",
+        "output_flow_name": "module_{@gen.id}_start_at_uncompleted_with_congrats",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_join_start_at_uncompleted_with_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_connect_start_at_uncompleted_with_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_create_start_at_uncompleted_with_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_play_start_at_uncompleted_with_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_play": {
       "flow_type": "generator",
       "flow_name": "gen_play",
@@ -4106,6 +4139,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "module_connect_start_at_uncompleted_with_congrats": {
+      "flow_name": "module_connect_start_at_uncompleted_with_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "module_connect_start_at_why_connect": {
       "flow_name": "module_connect_start_at_why_connect",
       "flow_subtype": "generated",
@@ -4148,6 +4186,11 @@
     },
     "module_create_start_at_relax": {
       "flow_name": "module_create_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_create_start_at_uncompleted_with_congrats": {
+      "flow_name": "module_create_start_at_uncompleted_with_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4198,6 +4241,11 @@
     },
     "module_join_start_at_relax": {
       "flow_name": "module_join_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_join_start_at_uncompleted_with_congrats": {
+      "flow_name": "module_join_start_at_uncompleted_with_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4303,6 +4351,11 @@
     },
     "module_play_start_at_relax": {
       "flow_name": "module_play_start_at_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_play_start_at_uncompleted_with_congrats": {
+      "flow_name": "module_play_start_at_uncompleted_with_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -4659,6 +4712,11 @@
       "flow_type": "template",
       "flow_name": "module_start_at_cat",
       "_xlsxPath": "modules/TZ module_navigation.xlsx"
+    },
+    "module_start_at_id": {
+      "flow_type": "template",
+      "flow_name": "module_start_at_id",
+      "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
     "nav_buttons": {
       "flow_type": "template",
