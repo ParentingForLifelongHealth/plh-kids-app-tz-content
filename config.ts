@@ -5,7 +5,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.2.11",
+  content_tag_latest: "1.2.12",
 };
 
 config.android = {
@@ -20,7 +20,7 @@ config.android = {
 
 config.ios = {
   app_id:'international.idems.plh_kids_tz',
-  app_name:'ParentApp for Kids Tanzania',
+  app_name:'ParentApp Tanzania',
   zoom_enabled: true
 };
 

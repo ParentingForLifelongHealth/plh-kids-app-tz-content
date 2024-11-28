@@ -207,5 +207,10 @@
       "completed": false,
       "task_child": "play_article_tasks"
     }
-  ]
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }

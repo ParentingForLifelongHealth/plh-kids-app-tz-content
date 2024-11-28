@@ -135,5 +135,13 @@
       "name": "Reem"
     }
   ],
-  "_xlsxPath": "TZ characters.xlsx"
+  "_xlsxPath": "TZ characters.xlsx",
+  "_metadata": {
+    "family_no": {
+      "type": "number"
+    },
+    "age": {
+      "type": "number"
+    }
+  }
 }
