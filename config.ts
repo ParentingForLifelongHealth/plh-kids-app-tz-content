@@ -20,7 +20,7 @@ config.android = {
 
 config.ios = {
   app_id:'international.idems.plh_kids_tz',
-  app_name:'ParentApp for Kids Tanzania',
+  app_name:'ParentApp Tanzania',
   zoom_enabled: true
 };
 
