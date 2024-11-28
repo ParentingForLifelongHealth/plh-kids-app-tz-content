@@ -240,6 +240,7 @@
     {
       "id": "how_to_play_2",
       "media_asset": "audio/modules/play/play_07.mp3",
+      "media_type": "audio",
       "_translatedFields": {
         "text_2": {
           "eng": "**Join your child in their play from time to time.** \nLook for opportunities to sit down and engage in a positive way with what your child is doing. Even 10 minutes will boost your child’s development."
@@ -940,5 +941,10 @@
       "image_asset": "images/modules/play/ready_to_practice.svg",
       "completed": false
     }
-  ]
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }

@@ -48,7 +48,15 @@
       "flow_type": "data_list",
       "flow_name": "characters",
       "data_list_name": "characters",
-      "_xlsxPath": "TZ characters.xlsx"
+      "_xlsxPath": "TZ characters.xlsx",
+      "_metadata": {
+        "family_no": {
+          "type": "number"
+        },
+        "age": {
+          "type": "number"
+        }
+      }
     },
     "check_in": {
       "flow_type": "data_list",
@@ -94,7 +102,12 @@
     "connect_article_tasks": {
       "flow_name": "connect_article_tasks",
       "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "flow_type": "data_list",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        }
+      }
     },
     "connect_category_tasks": {
       "flow_name": "connect_category_tasks",
@@ -104,7 +117,12 @@
     "create_article_tasks": {
       "flow_name": "create_article_tasks",
       "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "flow_type": "data_list",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        }
+      }
     },
     "create_category_tasks": {
       "flow_name": "create_category_tasks",
@@ -114,7 +132,12 @@
     "join_article_tasks": {
       "flow_name": "join_article_tasks",
       "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "flow_type": "data_list",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        }
+      }
     },
     "join_category_tasks": {
       "flow_name": "join_category_tasks",
@@ -124,7 +147,12 @@
     "module_tasks": {
       "flow_name": "module_tasks",
       "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "flow_type": "data_list",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        }
+      }
     },
     "modules_released": {
       "flow_name": "modules_released",
@@ -139,7 +167,12 @@
     "play_article_tasks": {
       "flow_name": "play_article_tasks",
       "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "flow_type": "data_list",
+      "_metadata": {
+        "completed": {
+          "type": "boolean"
+        }
+      }
     },
     "play_category_tasks": {
       "flow_name": "play_category_tasks",
@@ -188,7 +221,12 @@
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
-      "_xlsxPath": "app_launch.xlsx"
+      "_xlsxPath": "templates/kids app_launch.xlsx",
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
     },
     "modules": {
       "flow_type": "data_list",
@@ -261,6 +299,18 @@
       "flow_name": "resource_categories_2",
       "data_list_name": "resource_categories_2",
       "_xlsxPath": "TZ resource centre.xlsx"
+    },
+    "user_gender": {
+      "flow_type": "data_list",
+      "flow_name": "user_gender",
+      "data_list_name": "user_gender",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
+    },
+    "user_type": {
+      "flow_type": "data_list",
+      "flow_name": "user_type",
+      "data_list_name": "user_type",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
     }
   },
   "data_pipe": {
@@ -2617,6 +2667,11 @@
       "override_target": "deployment_global",
       "override_condition": "@fields._deployment_name == \"plh_kids_tz\"",
       "_xlsxPath": "deployment_data_tz.xlsx"
+    },
+    "user_data_global": {
+      "flow_type": "global",
+      "flow_name": "user_data_global",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
     }
   },
   "template": {
@@ -4706,7 +4761,7 @@
     "module_path": {
       "flow_type": "template",
       "flow_name": "module_path",
-      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+      "_xlsxPath": "templates/modules/module_navigation.xlsx"
     },
     "module_start_at_cat": {
       "flow_type": "template",
@@ -4802,6 +4857,11 @@
       "flow_type": "template",
       "flow_name": "text_pop_up",
       "_xlsxPath": "books/TZ prepare templates.xlsx"
+    },
+    "user_data": {
+      "flow_type": "template",
+      "flow_name": "user_data",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
     },
     "user_id": {
       "flow_type": "template",

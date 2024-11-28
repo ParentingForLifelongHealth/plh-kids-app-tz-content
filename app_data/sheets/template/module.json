@@ -660,6 +660,15 @@
                       "_cleaned": "completed | emit: completed"
                     },
                     {
+                      "trigger": "completed",
+                      "action_id": "emit",
+                      "args": [
+                        "server_sync"
+                      ],
+                      "_raw": "completed | emit: server_sync",
+                      "_cleaned": "completed | emit: server_sync"
+                    },
+                    {
                       "trigger": "uncompleted",
                       "action_id": "set_local",
                       "args": [
@@ -712,7 +721,7 @@
                           ]
                         }
                       },
-                      "3": {
+                      "4": {
                         "args": {
                           "1": [
                             {
@@ -760,9 +769,9 @@
                       "action_list.1.params.row_id"
                     ],
                     "@item._index": [
-                      "action_list.3.args.1",
-                      "action_list.3._raw",
-                      "action_list.3._cleaned"
+                      "action_list.4.args.1",
+                      "action_list.4._raw",
+                      "action_list.4._cleaned"
                     ],
                     "@item._last": [
                       "condition"

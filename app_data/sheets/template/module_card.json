@@ -34,18 +34,18 @@
       "_nested_name": "join"
     },
     {
-      "name": "categories",
-      "value": "_category_tasks",
+      "name": "articles",
+      "value": "_article_tasks",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "categories"
+      "_nested_name": "articles"
     },
     {
       "name": "task_group_data",
-      "value": "@local.module_id@local.categories",
+      "value": "@local.module_id@local.articles",
       "_translations": {
         "value": {}
       },
@@ -55,16 +55,16 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.module_id@local.categories",
+            "fullExpression": "@local.module_id@local.articles",
             "matchedExpression": "@local.module_id",
             "type": "local",
             "fieldName": "module_id"
           },
           {
-            "fullExpression": "@local.module_id@local.categories",
-            "matchedExpression": "@local.categories",
+            "fullExpression": "@local.module_id@local.articles",
+            "matchedExpression": "@local.articles",
             "type": "local",
-            "fieldName": "categories"
+            "fieldName": "articles"
           }
         ]
       },
@@ -72,7 +72,7 @@
         "@local.module_id": [
           "value"
         ],
-        "@local.categories": [
+        "@local.articles": [
           "value"
         ]
       }
@@ -86,40 +86,6 @@
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "completed"
-    },
-    {
-      "name": "completed_field",
-      "value": "task_@local.module_id@local.completed",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "completed_field",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "task_@local.module_id@local.completed",
-            "matchedExpression": "@local.module_id",
-            "type": "local",
-            "fieldName": "module_id"
-          },
-          {
-            "fullExpression": "task_@local.module_id@local.completed",
-            "matchedExpression": "@local.completed",
-            "type": "local",
-            "fieldName": "completed"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.module_id": [
-          "value"
-        ],
-        "@local.completed": [
-          "value"
-        ]
-      }
     },
     {
       "name": "ww_id",
@@ -197,65 +163,6 @@
       }
     },
     {
-      "name": "card_subtitle",
-      "value": "@local.module_data.description",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "!!@local.module_data.description",
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "card_subtitle",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.module_data.description",
-            "matchedExpression": "@local.module_data.description",
-            "type": "local",
-            "fieldName": "module_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "!!@local.module_data.description",
-            "matchedExpression": "!@local.module_data.description",
-            "type": "local",
-            "fieldName": "module_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.module_data.description": [
-          "value"
-        ],
-        "!@local.module_data.description": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "card_subtitle",
-      "condition": "!@local.module_data.description",
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "card_subtitle",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "!@local.module_data.description",
-            "matchedExpression": "!@local.module_data.description",
-            "type": "local",
-            "fieldName": "module_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "!@local.module_data.description": [
-          "condition"
-        ]
-      }
-    },
-    {
       "name": "card_image",
       "value": "@local.module_data.image_asset",
       "_translations": {
@@ -282,7 +189,7 @@
     },
     {
       "name": "click_template",
-      "value": "module_overview_@local.module_id",
+      "value": "module_landing_@local.module_id",
       "_translations": {
         "value": {}
       },
@@ -292,7 +199,7 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "module_overview_@local.module_id",
+            "fullExpression": "module_landing_@local.module_id",
             "matchedExpression": "@local.module_id",
             "type": "local",
             "fieldName": "module_id"
@@ -304,17 +211,6 @@
           "value"
         ]
       }
-    },
-    {
-      "name": "highlighted_text",
-      "value": "Active",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      },
-      "type": "set_variable",
-      "_nested_name": "highlighted_text"
     },
     {
       "name": "in_progress_icon",
@@ -358,37 +254,16 @@
           ],
           "_raw": "click | go_to: @local.click_template",
           "_cleaned": "click | go_to: @local.click_template"
-        },
-        {
-          "trigger": "completed",
-          "action_id": "emit",
-          "args": [
-            "force_reload"
-          ],
-          "_raw": "completed | emit: force_reload",
-          "_cleaned": "completed | emit: force_reload"
-        },
-        {
-          "trigger": "completed",
-          "action_id": "emit",
-          "args": [
-            "server_sync"
-          ],
-          "_raw": "completed | emit: server_sync",
-          "_cleaned": "completed | emit: server_sync"
         }
       ],
       "parameter_list": {
         "variant": "@local.card_variant",
         "task_group_id": "@local.module_id",
         "task_group_data": "@local.task_group_data",
-        "completed_field": "@local.completed_field",
         "title": "@local.card_title",
-        "subtitle": "@local.card_subtitle",
         "image": "@local.card_image",
         "in_progress_icon": "@local.in_progress_icon",
         "completed_icon": "@local.completed_icon",
-        "highlighted_text": "@local.highlighted_text",
         "progress_units_name": "@local.progress_units_name"
       },
       "exclude_from_translation": true,
@@ -449,28 +324,12 @@
               "fieldName": "task_group_data"
             }
           ],
-          "completed_field": [
-            {
-              "fullExpression": "@local.completed_field",
-              "matchedExpression": "@local.completed_field",
-              "type": "local",
-              "fieldName": "completed_field"
-            }
-          ],
           "title": [
             {
               "fullExpression": "@local.card_title",
               "matchedExpression": "@local.card_title",
               "type": "local",
               "fieldName": "card_title"
-            }
-          ],
-          "subtitle": [
-            {
-              "fullExpression": "@local.card_subtitle",
-              "matchedExpression": "@local.card_subtitle",
-              "type": "local",
-              "fieldName": "card_subtitle"
             }
           ],
           "image": [
@@ -495,14 +354,6 @@
               "matchedExpression": "@local.completed_icon",
               "type": "local",
               "fieldName": "completed_icon"
-            }
-          ],
-          "highlighted_text": [
-            {
-              "fullExpression": "@local.highlighted_text",
-              "matchedExpression": "@local.highlighted_text",
-              "type": "local",
-              "fieldName": "highlighted_text"
             }
           ],
           "progress_units_name": [
@@ -530,14 +381,8 @@
         "@local.task_group_data": [
           "parameter_list.task_group_data"
         ],
-        "@local.completed_field": [
-          "parameter_list.completed_field"
-        ],
         "@local.card_title": [
           "parameter_list.title"
-        ],
-        "@local.card_subtitle": [
-          "parameter_list.subtitle"
         ],
         "@local.card_image": [
           "parameter_list.image"
@@ -547,9 +392,6 @@
         ],
         "@local.completed_icon": [
           "parameter_list.completed_icon"
-        ],
-        "@local.highlighted_text": [
-          "parameter_list.highlighted_text"
         ],
         "@local.progress_units_name": [
           "parameter_list.progress_units_name"

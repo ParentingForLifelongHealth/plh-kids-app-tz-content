@@ -3,32 +3,42 @@
 
 | type | count |
 | --- | --- |
-| accordion | 3 |
+| accordion | 4 |
+| accordion_section | 5 |
 | animated_section | 2 |
-| audio | 3 |
-| button | 29 |
-| carousel | 2 |
-| combo_box | 2 |
-| data_items | 2 |
-| display_grid | 2 |
-| display_group | 43 |
-| image | 7 |
-| items | 16 |
+| audio | 6 |
+| button | 46 |
+| carousel | 3 |
+| combo_box | 4 |
+| data_items | 9 |
+| debug_toggle | 1 |
+| display_grid | 3 |
+| display_group | 59 |
+| image | 24 |
+| items | 24 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
-| radio_button_grid | 4 |
-| set_field | 1 |
-| set_variable | 561 |
-| task_card | 7 |
-| task_progress_bar | 1 |
-| template | 397 |
-| text | 52 |
+| nested_properties | 27 |
+| progress_path | 1 |
+| qr_code | 1 |
+| radio_button_grid | 5 |
+| round_button | 4 |
+| select_text | 1 |
+| set_field | 6 |
+| set_variable | 1341 |
+| simple_checkbox | 1 |
+| task_card | 9 |
+| task_progress_bar | 2 |
+| template | 422 |
+| text | 106 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 5 |
-| title | 23 |
+| title | 35 |
+| toggle_bar | 3 |
 | update_action_list | 2 |
-| video | 1 |
+| video | 3 |
+| youtube | 3 |
 </details>
 
 <details >
@@ -37,18 +47,21 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 350 |
+| emit: completed | 362 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 5 |
+| emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 349 |
-| feedback | 7 |
-| go_to | 12 |
-| pop_up | 7 |
-| set_field | 14 |
-| set_local | 7 |
+| emit: uncompleted | 360 |
+| feedback | 13 |
+| go_to | 21 |
+| pop_up | 11 |
+| reset_app | 1 |
+| set_field | 26 |
+| set_item | 3 |
+| set_local | 19 |
+| task | 3 |
 | user | 1 |
 </details>
 
@@ -1389,7 +1402,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 29 |
+| data_list |  | 31 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 12 |
 | data_list | legal_terms | 2 |
@@ -1397,8 +1410,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 3 |
 | data_pipe | generated | 7 |
 | generator |  | 25 |
-| global |  | 2 |
-| template |  | 64 |
-| template | generated | 366 |
+| global |  | 3 |
+| template |  | 65 |
+| template | generated | 369 |
 | template | legal_terms | 4 |
 </details>

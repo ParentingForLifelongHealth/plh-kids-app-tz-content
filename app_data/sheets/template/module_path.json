@@ -5,7 +5,7 @@
   "rows": [
     {
       "name": "modules_data_list_name",
-      "value": "modules",
+      "value": "module_tasks",
       "_translations": {
         "value": {}
       },
@@ -74,41 +74,6 @@
                           "_nested_name"
                         ]
                       }
-                    },
-                    {
-                      "name": "click_template",
-                      "value": "module_landing_@item.id",
-                      "_translations": {
-                        "value": {}
-                      },
-                      "type": "set_variable",
-                      "_nested_name": "dg_all_modules.progress_path_1.items_1.module_card_@item.id.click_template",
-                      "_dynamicFields": {
-                        "value": [
-                          {
-                            "fullExpression": "module_landing_@item.id",
-                            "matchedExpression": "@item.id",
-                            "type": "item",
-                            "fieldName": "id"
-                          }
-                        ],
-                        "_nested_name": [
-                          {
-                            "fullExpression": "dg_all_modules.progress_path_1.items_1.module_card_@item.id.click_template",
-                            "matchedExpression": "@item.id.click_template",
-                            "type": "item",
-                            "fieldName": "id"
-                          }
-                        ]
-                      },
-                      "_dynamicDependencies": {
-                        "@item.id": [
-                          "value"
-                        ],
-                        "@item.id.click_template": [
-                          "_nested_name"
-                        ]
-                      }
                     }
                   ],
                   "_nested_name": "dg_all_modules.progress_path_1.items_1.module_card_@item.id",
@@ -164,5 +129,5 @@
       "_nested_name": "dg_all_modules"
     }
   ],
-  "_xlsxPath": "modules/TZ module_navigation.xlsx"
+  "_xlsxPath": "templates/modules/module_navigation.xlsx"
 }

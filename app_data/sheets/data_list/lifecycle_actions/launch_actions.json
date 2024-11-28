@@ -71,8 +71,31 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_update_prompt",
+      "id": "app_start_user_data",
       "priority": 4,
+      "condition_list": [
+        "!@fields.user_data_completed && @fields.user_mode"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "user_data"
+          ],
+          "_raw": "pop_up: user_data | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: user_data | fullscreen: true, showCloseButton: false",
+          "params": {
+            "fullscreen": true,
+            "showCloseButton": false
+          }
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_update_prompt",
+      "priority": 5,
       "action_list": [
         {
           "trigger": "click",
@@ -86,5 +109,10 @@
       ]
     }
   ],
-  "_xlsxPath": "app_launch.xlsx"
+  "_xlsxPath": "templates/kids app_launch.xlsx",
+  "_metadata": {
+    "priority": {
+      "type": "number"
+    }
+  }
 }
