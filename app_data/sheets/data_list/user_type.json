@@ -7,22 +7,54 @@
     {
       "id": "caregiver",
       "name": "caregiver",
-      "text": "Parent or caregiver"
+      "text": "Parent or caregiver",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Parent or caregiver"
+        }
+      }
     },
     {
       "id": "facilitator",
       "name": "facilitator",
-      "text": "Facilitator"
+      "text": "Facilitator",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Facilitator"
+        }
+      }
     },
     {
       "id": "tester",
       "name": "tester",
-      "text": "System tester"
+      "text": "System tester",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "System tester"
+        }
+      }
     },
     {
       "id": "other",
       "name": "other",
-      "text": "None of the above"
+      "text": "None of the above",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "None of the above"
+        }
+      }
     }
   ],
   "_xlsxPath": "templates/kids app_launch.xlsx"

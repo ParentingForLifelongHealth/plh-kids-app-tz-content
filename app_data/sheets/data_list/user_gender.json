@@ -7,17 +7,41 @@
     {
       "id": "woman",
       "name": "woman",
-      "text": "Woman"
+      "text": "Woman",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Woman"
+        }
+      }
     },
     {
       "id": "man",
       "name": "man",
-      "text": "Man"
+      "text": "Man",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Man"
+        }
+      }
     },
     {
       "id": "opt_out",
       "name": "opt_out",
-      "text": "Prefer not to say"
+      "text": "Prefer not to say",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Prefer not to say"
+        }
+      }
     }
   ],
   "_xlsxPath": "templates/kids app_launch.xlsx"
