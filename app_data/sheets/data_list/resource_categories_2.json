@@ -6,51 +6,19 @@
   "rows": [
     {
       "id": "support",
-      "name": "support_contacts",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "support_contacts"
-        }
-      }
+      "name": "support_contacts"
     },
     {
       "id": "additional_resources",
-      "name": "additional_resources",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "additional_resources"
-        }
-      }
+      "name": "additional_resources"
     },
     {
       "id": "relax",
-      "name": "relax",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "relax"
-        }
-      }
+      "name": "relax"
     },
     {
       "id": "play",
-      "name": "play",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "play"
-        }
-      }
+      "name": "play"
     }
   ],
   "_xlsxPath": "TZ resource centre.xlsx"

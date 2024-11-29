@@ -2574,6 +2574,54 @@
     "note": ""
   },
   {
+    "SourceText": "Ideas for book activities",
+    "text": "Mawazo ya shughuli za kitabu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "More ideas for book activities",
+    "text": "Mawazo zaidi ya shughuli za kitabu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Being responsive during book activities",
+    "text": "Kuwa msikivu wakati wa shughuli za kitabu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Using books to build your child's vocabulary",
+    "text": "Kutumia kitabu kujenga misamiati kwa mtoto wako",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating positive experiences",
+    "text": "Kutoa majibu chanya",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Bringing the book’s story to life",
+    "text": "Kuifanya hadithi za vitabu kuwa hai",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Using books in playful ways",
+    "text": "Kutumia vitabu kwa njia ya kucheza",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Using books to talk about feelings",
+    "text": "Kutumia vitabu kuzungumza juu ya hisia",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Prepare",
     "text": "Andaa",
     "type": "data_list",
@@ -2882,6 +2930,48 @@
   {
     "SourceText": "Learning Through Play",
     "text": "Kujifunza kupitia kucheza",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Woman",
+    "text": "Mwanamke",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Man",
+    "text": "Mwanaume",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "Ningependa nisiseme",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent or caregiver",
+    "text": "Mzazi au mlezi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator",
+    "text": "Mwezeshaji",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "System tester",
+    "text": "Mjaribu wa mfumo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "None of the above",
+    "text": "Hakuna kati ya zilizo hapo juu",
     "type": "data_list",
     "note": ""
   },
@@ -9678,6 +9768,24 @@
     "note": ""
   },
   {
+    "SourceText": "Welcome to @global.app_name",
+    "text": "Karibu kwenye @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Please select your gender",
+    "text": "Tafadhali chagua jinsia yako",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "I am a...",
+    "text": "Mimi ni...",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Developer mode",
     "text": "Mtengenezaji wa programu",
     "type": "template",
@@ -9876,12 +9984,6 @@
     "note": ""
   },
   {
-    "SourceText": "Continue",
-    "text": "Endelea",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "My Favourite Books",
     "text": "Vitabu ninavyovipenda",
     "type": "template",
@@ -9904,12 +10006,6 @@
     "text": "amechagua lebo:@local.has_ selected_tag",
     "type": "template",
     "note": "The string @local.has_selected_tag should not be translated."
-  },
-  {
-    "SourceText": "Active",
-    "text": "Inaendelea",
-    "type": "template",
-    "note": ""
   },
   {
     "SourceText": "Module",
@@ -9974,6 +10070,12 @@
   {
     "SourceText": "Resource Centre",
     "text": "Kituo cha Rasilimali",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Endelea",
     "type": "template",
     "note": ""
   },
