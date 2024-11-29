@@ -5,7 +5,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.2.14",
+  content_tag_latest: "1.2.15",
 };
 
 config.android = {
@@ -46,7 +46,7 @@ config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.
 
 config.web.favicon_asset = "images/logos/favicon.svg";
 
-config.app_config.APP_LANGUAGES.default = "gb_en";
+config.app_config.APP_LANGUAGES.default = "tz_sw";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids Tanzania";
 config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids Tanzania";
 config.app_config.APP_HEADER_DEFAULTS.collapse = false;
