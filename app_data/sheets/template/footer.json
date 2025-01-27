@@ -7,15 +7,15 @@
       "name": "button_list",
       "value": [
         {
-          "image": "images/icons/house_white.svg",
+          "image": "images/icons/house_blue.svg",
           "target_template": "home_screen"
         },
         {
-          "image": "images/icons/book_outline_white.svg",
+          "image": "images/icons/book_blue.svg",
           "target_template": "picture_books"
         },
         {
-          "image": "images/icons/hands_hold_heart_white.svg",
+          "image": "images/icons/hands_hold_heart_blue.svg",
           "target_template": "resource_centre"
         }
       ],
