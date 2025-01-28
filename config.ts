@@ -5,7 +5,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_tz", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-tz-content.git",
-  content_tag_latest: "1.2.17",
+  content_tag_latest: "1.2.18",
 };
 
 config.android = {
@@ -50,8 +50,11 @@ config.app_config.APP_LANGUAGES.default = "tz_sw";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids Tanzania";
 config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids Tanzania";
 config.app_config.APP_HEADER_DEFAULTS.collapse = false;
+config.app_config.APP_FOOTER_DEFAULTS.background = "none";
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Kids Tanzania";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Kids Tanzania";
+config.app_config.APP_THEMES.available = ["professional", "plh_kids_tz"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_kids_tz";
 
 config.error_logging = { dsn: "https://a371085a8bc146a3a45bb4e5d2d013ef@app.glitchtip.com/6036"};
 
