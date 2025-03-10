@@ -133,16 +133,85 @@
       }
     },
     {
-      "type": "lottie_animation",
-      "name": "lottie_circles",
+      "name": "lottie_asset",
       "value": "lottie/bulging_circles.json",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!@local.row_data.lottie_asset",
+      "type": "set_variable",
+      "_nested_name": "lottie_asset",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.row_data.lottie_asset",
+            "matchedExpression": "!@local.row_data.lottie_asset",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.row_data.lottie_asset": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "lottie_asset",
+      "value": "@local.row_data.lottie_asset",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!@local.row_data.lottie_asset",
+      "type": "set_variable",
+      "_nested_name": "lottie_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.lottie_asset",
+            "matchedExpression": "@local.row_data.lottie_asset",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!@local.row_data.lottie_asset",
+            "matchedExpression": "!@local.row_data.lottie_asset",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.lottie_asset": [
+          "value"
+        ],
+        "!@local.row_data.lottie_asset": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "lottie_animation",
+      "name": "lottie_display",
+      "value": "@local.lottie_asset",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "condition": "@local.row_data.media_type == \"audio\"",
-      "_nested_name": "lottie_circles",
+      "_nested_name": "lottie_display",
       "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.lottie_asset",
+            "matchedExpression": "@local.lottie_asset",
+            "type": "local",
+            "fieldName": "lottie_asset"
+          }
+        ],
         "condition": [
           {
             "fullExpression": "@local.row_data.media_type == \"audio\"",
@@ -153,6 +222,9 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.lottie_asset": [
+          "value"
+        ],
         "@local.row_data.media_type": [
           "condition"
         ]
@@ -287,8 +359,24 @@
         {
           "name": "is_standalone_task",
           "value": true,
+          "condition": "@fields._deployment_name == \"plh_kids_tz\"",
           "type": "set_variable",
-          "_nested_name": "nav_buttons.is_standalone_task"
+          "_nested_name": "nav_buttons.is_standalone_task",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@fields._deployment_name == \"plh_kids_tz\"",
+                "matchedExpression": "@fields._deployment_name",
+                "type": "fields",
+                "fieldName": "_deployment_name"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields._deployment_name": [
+              "condition"
+            ]
+          }
         }
       ],
       "_nested_name": "nav_buttons"

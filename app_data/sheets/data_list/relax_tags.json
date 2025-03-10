@@ -14,6 +14,9 @@
         },
         "text": {
           "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -21,10 +24,14 @@
           "eng": "Breathe"
         },
         "text": {
+          "eng": "Breathe"
+        },
+        "description": {
           "eng": "Breathing activities help relax both your mind and body."
         }
       },
-      "text": "Breathing activities help relax both your mind and body."
+      "text": "Breathe",
+      "description": "Breathing activities help relax both your mind and body."
     },
     {
       "id": "reflect",
@@ -35,6 +42,9 @@
         },
         "text": {
           "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -42,10 +52,14 @@
           "eng": "Reflect"
         },
         "text": {
+          "eng": "Reflect"
+        },
+        "description": {
           "eng": "Take a moment to reflect and focus your thoughts on what really matters to you."
         }
       },
-      "text": "Take a moment to reflect and focus your thoughts on what really matters to you."
+      "text": "Reflect",
+      "description": "Take a moment to reflect and focus your thoughts on what really matters to you."
     },
     {
       "id": "notice",
@@ -56,6 +70,9 @@
         },
         "text": {
           "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -63,10 +80,14 @@
           "eng": "Notice"
         },
         "text": {
+          "eng": "Notice"
+        },
+        "description": {
           "eng": "Notice and connect with what happens around you and inside you."
         }
       },
-      "text": "Notice and connect with what happens around you and inside you."
+      "text": "Notice",
+      "description": "Notice and connect with what happens around you and inside you."
     },
     {
       "id": "move",
@@ -77,6 +98,9 @@
         },
         "text": {
           "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -84,10 +108,14 @@
           "eng": "Move"
         },
         "text": {
+          "eng": "Move"
+        },
+        "description": {
           "eng": "Move your body to relieve some stress."
         }
       },
-      "text": "Move your body to relieve some stress."
+      "text": "Move",
+      "description": "Move your body to relieve some stress."
     }
   ],
   "_xlsxPath": "modules/TZ relax.xlsx"

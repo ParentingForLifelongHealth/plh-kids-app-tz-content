@@ -731,8 +731,8 @@
     "size_kb": 576.6
   },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
+    "md5Checksum": "df9c81f319411188b557a9430db42686",
+    "size_kb": 6.1
   },
   "images/books/a_trip_to_the_tap/cover.png": {
     "md5Checksum": "40677faf7e2d58ef398f1635a1a5eddb",
@@ -4870,6 +4870,14 @@
     "md5Checksum": "200b95ad608f709e82f1cb4c2b80ba01",
     "size_kb": 14.8
   },
+  "lottie/blue_dots.json": {
+    "md5Checksum": "b3786e45c415c9f00e47bccf824f90bc",
+    "size_kb": 14.7
+  },
+  "lottie/breathing_heart.json": {
+    "md5Checksum": "28aa0b5c65bf540fe91c2f7da7863955",
+    "size_kb": 46.7
+  },
   "lottie/bulging_circles.json": {
     "md5Checksum": "e4a21bd55b999a816ee59d5b244c145b",
     "size_kb": 11.8
@@ -4881,5 +4889,17 @@
   "lottie/cascading_stars.json": {
     "md5Checksum": "131145b165cd19613a9e277a514eec2f",
     "size_kb": 140.5
+  },
+  "lottie/looping_rings.json": {
+    "md5Checksum": "82ec657f79d258e9301bf17a9a575043",
+    "size_kb": 10.4
+  },
+  "lottie/soothing_waves.json": {
+    "md5Checksum": "18ba038728f17dcde1b7d5a0cb2c4f93",
+    "size_kb": 7.6
+  },
+  "lottie/square_flow.json": {
+    "md5Checksum": "99af0f0b04114998ba20a2c2c7b7e7d6",
+    "size_kb": 5.9
   }
 }

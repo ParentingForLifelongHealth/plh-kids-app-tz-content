@@ -48,15 +48,7 @@
       "flow_type": "data_list",
       "flow_name": "characters",
       "data_list_name": "characters",
-      "_xlsxPath": "TZ characters.xlsx",
-      "_metadata": {
-        "family_no": {
-          "type": "number"
-        },
-        "age": {
-          "type": "number"
-        }
-      }
+      "_xlsxPath": "TZ characters.xlsx"
     },
     "check_in": {
       "flow_type": "data_list",
@@ -2668,6 +2660,12 @@
       "override_condition": "@fields._deployment_name == \"plh_kids_tz\"",
       "_xlsxPath": "deployment_data_tz.xlsx"
     },
+    "legal_terms_global": {
+      "flow_type": "global",
+      "flow_subtype": "legal_terms",
+      "flow_name": "legal_terms_global",
+      "_xlsxPath": "app_legal_terms.xlsx"
+    },
     "user_data_global": {
       "flow_type": "global",
       "flow_name": "user_data_global",
@@ -2743,16 +2741,6 @@
         "orientation": "landscape"
       },
       "_xlsxPath": "books/picture_books.xlsx"
-    },
-    "box_duo": {
-      "flow_type": "template",
-      "flow_name": "box_duo",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
-    },
-    "box_hp_review": {
-      "flow_type": "template",
-      "flow_name": "box_hp_review",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
     },
     "category_card": {
       "flow_type": "template",
@@ -4674,19 +4662,24 @@
       "flow_name": "home_screen",
       "_xlsxPath": "TZ app_navigation.xlsx"
     },
+    "home_screen_2": {
+      "flow_type": "template",
+      "flow_name": "home_screen_2",
+      "_xlsxPath": "TZ app_navigation.xlsx"
+    },
+    "home_screen_header": {
+      "flow_type": "template",
+      "flow_name": "home_screen_header",
+      "_xlsxPath": "TZ app_navigation.xlsx"
+    },
+    "hp_challenges": {
+      "flow_type": "template",
+      "flow_name": "hp_challenges",
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
+    },
     "hp_review": {
       "flow_type": "template",
       "flow_name": "hp_review",
-      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
-    },
-    "hp_review_challenges": {
-      "flow_type": "template",
-      "flow_name": "hp_review_challenges",
-      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
-    },
-    "hp_review_other_challenge": {
-      "flow_type": "template",
-      "flow_name": "hp_review_other_challenge",
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
     "import_user_data": {
@@ -4732,6 +4725,11 @@
       "flow_type": "template",
       "flow_name": "library",
       "_xlsxPath": "templates/app_navigation.xlsx"
+    },
+    "login": {
+      "flow_type": "template",
+      "flow_name": "login",
+      "_xlsxPath": "app_menu.xlsx"
     },
     "media_transcript": {
       "flow_type": "template",
@@ -4783,11 +4781,6 @@
       "flow_name": "nav_buttons_round",
       "_xlsxPath": "TZ app_navigation.xlsx"
     },
-    "pair": {
-      "flow_type": "template",
-      "flow_name": "pair",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
-    },
     "picture_books": {
       "flow_type": "template",
       "flow_name": "picture_books",
@@ -4813,6 +4806,11 @@
       "flow_name": "question",
       "_xlsxPath": "templates/modules/articles.xlsx"
     },
+    "question_archived": {
+      "flow_type": "template",
+      "flow_name": "question_archived",
+      "_xlsxPath": "templates/modules/articles.xlsx"
+    },
     "relax": {
       "flow_type": "template",
       "flow_name": "relax",
@@ -4832,6 +4830,11 @@
       "flow_type": "template",
       "flow_name": "relax_animation",
       "_xlsxPath": "templates/app_navigation.xlsx"
+    },
+    "relax_button": {
+      "flow_type": "template",
+      "flow_name": "relax_button",
+      "_xlsxPath": "TZ resource centre.xlsx"
     },
     "relax_card": {
       "flow_type": "template",
@@ -4867,11 +4870,6 @@
       "flow_type": "template",
       "flow_name": "user_id",
       "_xlsxPath": "app_menu.xlsx"
-    },
-    "workshop_activity": {
-      "flow_type": "template",
-      "flow_name": "workshop_activity",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
     }
   },
   "tour": {}

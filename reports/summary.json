@@ -10,28 +10,24 @@
         "count": 5
       },
       {
-        "type": "animated_section",
-        "count": 2
-      },
-      {
         "type": "audio",
-        "count": 6
+        "count": 5
       },
       {
         "type": "button",
-        "count": 46
+        "count": 51
       },
       {
         "type": "carousel",
-        "count": 3
+        "count": 2
       },
       {
         "type": "combo_box",
-        "count": 4
+        "count": 6
       },
       {
         "type": "data_items",
-        "count": 9
+        "count": 19
       },
       {
         "type": "debug_toggle",
@@ -39,19 +35,23 @@
       },
       {
         "type": "display_grid",
-        "count": 3
+        "count": 4
       },
       {
         "type": "display_group",
-        "count": 59
+        "count": 58
+      },
+      {
+        "type": "google_sign_in_button",
+        "count": 1
       },
       {
         "type": "image",
-        "count": 24
+        "count": 26
       },
       {
         "type": "items",
-        "count": 24
+        "count": 23
       },
       {
         "type": "lottie_animation",
@@ -63,7 +63,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 27
+        "count": 37
       },
       {
         "type": "progress_path",
@@ -75,11 +75,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 5
+        "count": 9
       },
       {
         "type": "round_button",
-        "count": 4
+        "count": 5
       },
       {
         "type": "select_text",
@@ -87,11 +87,11 @@
       },
       {
         "type": "set_field",
-        "count": 6
+        "count": 4
       },
       {
         "type": "set_variable",
-        "count": 1341
+        "count": 1507
       },
       {
         "type": "simple_checkbox",
@@ -107,11 +107,11 @@
       },
       {
         "type": "template",
-        "count": 422
+        "count": 439
       },
       {
         "type": "text",
-        "count": 106
+        "count": 95
       },
       {
         "type": "text_area",
@@ -119,15 +119,15 @@
       },
       {
         "type": "text_box",
-        "count": 5
+        "count": 4
       },
       {
         "type": "text_bubble",
-        "count": 5
+        "count": 4
       },
       {
         "type": "title",
-        "count": 35
+        "count": 38
       },
       {
         "type": "toggle_bar",
@@ -154,24 +154,28 @@
         "count": 1
       },
       {
+        "type": "auth",
+        "count": 1
+      },
+      {
         "type": "emit: completed",
         "count": 362
       },
       {
         "type": "emit: force_reload",
-        "count": 4
-      },
-      {
-        "type": "emit: force_reprocess",
-        "count": 7
-      },
-      {
-        "type": "emit: force_restart",
         "count": 3
       },
       {
+        "type": "emit: force_reprocess",
+        "count": 9
+      },
+      {
+        "type": "emit: force_restart",
+        "count": 4
+      },
+      {
         "type": "emit: server_sync",
-        "count": 2
+        "count": 3
       },
       {
         "type": "emit: set_language",
@@ -179,7 +183,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 360
+        "count": 358
       },
       {
         "type": "feedback",
@@ -187,27 +191,35 @@
       },
       {
         "type": "go_to",
-        "count": 21
+        "count": 22
+      },
+      {
+        "type": "nav_stack",
+        "count": 1
       },
       {
         "type": "pop_up",
-        "count": 11
+        "count": 10
       },
       {
         "type": "reset_app",
         "count": 1
       },
       {
+        "type": "set_data",
+        "count": 1
+      },
+      {
         "type": "set_field",
-        "count": 26
+        "count": 25
       },
       {
         "type": "set_item",
-        "count": 3
+        "count": 12
       },
       {
         "type": "set_local",
-        "count": 19
+        "count": 16
       },
       {
         "type": "task",
@@ -215,7 +227,7 @@
       },
       {
         "type": "user",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -223,12 +235,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "77361 KB",
+        "KB": "77446 KB",
         "MB": "77.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "1125 KB",
+        "KB": "1145 KB",
         "MB": "1.1 MB"
       }
     ]
@@ -261,15 +273,27 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
       },
       {
         "path": "images/icons/book_outline_blue.svg",
         "size_kb": 0.7
       },
       {
+        "path": "images/icons/book_outline_white.svg",
+        "size_kb": 0.7
+      },
+      {
         "path": "images/icons/book_white.svg",
         "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/book_yellow.svg",
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/icons/cancel.svg",
+        "size_kb": 1.7
       },
       {
         "path": "images/icons/faces/angry.svg",
@@ -288,6 +312,14 @@
         "size_kb": 1.3
       },
       {
+        "path": "images/icons/faces/neutral.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/faces/sad.svg",
+        "size_kb": 1.5
+      },
+      {
         "path": "images/icons/faces/sadder.svg",
         "size_kb": 1.1
       },
@@ -302,6 +334,22 @@
       {
         "path": "images/icons/faces/tired.svg",
         "size_kb": 2.4
+      },
+      {
+        "path": "images/icons/hands_hold_heart_white.svg",
+        "size_kb": 3.4
+      },
+      {
+        "path": "images/icons/hands_hold_heart_yellow.svg",
+        "size_kb": 7.6
+      },
+      {
+        "path": "images/icons/house_white.svg",
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/house_yellow.svg",
+        "size_kb": 2
       },
       {
         "path": "images/icons/in_progress_white.svg",
@@ -1392,6 +1440,11 @@
       },
       {
         "path": "images/books/very_green_day/image_9.jpg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/locked.png",
         "count": 1,
         "missing": true
       },
@@ -5671,12 +5724,12 @@
       },
       {
         "path": "images/facilitator_face_man.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 7.4
       },
       {
         "path": "images/facilitator_face_woman.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 17.5
       },
       {
@@ -5691,13 +5744,8 @@
       },
       {
         "path": "images/icons/book_blue.svg",
-        "count": 1,
-        "size_kb": 1.1
-      },
-      {
-        "path": "images/icons/book_outline_white.svg",
-        "count": 1,
-        "size_kb": 0.7
+        "count": 2,
+        "size_kb": 0.8
       },
       {
         "path": "images/icons/chevron_back_white.svg",
@@ -5711,7 +5759,7 @@
       },
       {
         "path": "images/icons/faces/happy.svg",
-        "count": 4,
+        "count": 2,
         "size_kb": 1.4
       },
       {
@@ -5725,19 +5773,9 @@
         "size_kb": 3.8
       },
       {
-        "path": "images/icons/faces/neutral.svg",
-        "count": 2,
-        "size_kb": 0.5
-      },
-      {
         "path": "images/icons/faces/ok_face_new.svg",
         "count": 20,
         "size_kb": 0.5
-      },
-      {
-        "path": "images/icons/faces/sad.svg",
-        "count": 2,
-        "size_kb": 1.5
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
@@ -5751,13 +5789,8 @@
       },
       {
         "path": "images/icons/hands_hold_heart_blue.svg",
-        "count": 1,
-        "size_kb": 2.9
-      },
-      {
-        "path": "images/icons/hands_hold_heart_white.svg",
-        "count": 1,
-        "size_kb": 3.4
+        "count": 2,
+        "size_kb": 6.5
       },
       {
         "path": "images/icons/heart.svg",
@@ -5770,9 +5803,9 @@
         "size_kb": 1.4
       },
       {
-        "path": "images/icons/house_white.svg",
+        "path": "images/icons/house_blue.svg",
         "count": 1,
-        "size_kb": 0.6
+        "size_kb": 3
       },
       {
         "path": "images/icons/in_progress.svg",
@@ -5911,7 +5944,7 @@
       },
       {
         "path": "images/learning_through_play/happy_things_circle.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 209.2
       },
       {
@@ -6556,7 +6589,7 @@
       },
       {
         "path": "images/relax/relax_1.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 25.9
       },
       {
@@ -6680,9 +6713,34 @@
         "size_kb": 283.9
       },
       {
+        "path": "lottie/blue_dots.json",
+        "count": 6,
+        "size_kb": 14.7
+      },
+      {
+        "path": "lottie/breathing_heart.json",
+        "count": 4,
+        "size_kb": 46.7
+      },
+      {
         "path": "lottie/bulging_circles.json",
-        "count": 2,
+        "count": 6,
         "size_kb": 11.8
+      },
+      {
+        "path": "lottie/looping_rings.json",
+        "count": 4,
+        "size_kb": 10.4
+      },
+      {
+        "path": "lottie/soothing_waves.json",
+        "count": 5,
+        "size_kb": 7.6
+      },
+      {
+        "path": "lottie/square_flow.json",
+        "count": 6,
+        "size_kb": 5.9
       }
     ]
   },
@@ -6732,6 +6790,11 @@
         "type": "global",
         "subtype": null,
         "total": 3
+      },
+      {
+        "type": "global",
+        "subtype": "legal_terms",
+        "total": 1
       },
       {
         "type": "template",

@@ -92,6 +92,19 @@
           },
           "type": "set_variable",
           "_nested_name": "relax.id"
+        },
+        {
+          "type": "nested_properties",
+          "name": "nav_buttons",
+          "rows": [
+            {
+              "name": "is_standalone_task",
+              "value": false,
+              "type": "set_variable",
+              "_nested_name": "relax.nav_buttons.is_standalone_task"
+            }
+          ],
+          "_nested_name": "relax.nav_buttons"
         }
       ],
       "_nested_name": "relax"

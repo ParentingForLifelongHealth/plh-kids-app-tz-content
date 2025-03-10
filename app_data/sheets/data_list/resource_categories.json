@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "relax",
+      "image_asset": "images/relax/relax_1.svg",
       "name": "Relax",
       "_translations": {
         "name": {
@@ -20,6 +21,7 @@
     },
     {
       "id": "play",
+      "image_asset": "images/learning_through_play/happy_things_circle.svg",
       "name": "Learning Through Play",
       "_translations": {
         "name": {

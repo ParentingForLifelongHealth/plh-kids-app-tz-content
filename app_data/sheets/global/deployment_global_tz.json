@@ -60,6 +60,14 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "section_variant",
+      "value": "box_secondary",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_tz.xlsx"

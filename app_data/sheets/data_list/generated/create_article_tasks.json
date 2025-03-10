@@ -5,9 +5,10 @@
   "rows": [
     {
       "id": "relax_17",
+      "lottie_asset": "lottie/blue_dots.json",
       "media_asset": "audio/relax/relax_17.mp3",
       "media_type": "audio",
-      "relax_tag_list": [
+      "tag_list": [
         "reflect"
       ],
       "image_cover_asset": "images/relax/relax_17.svg",
