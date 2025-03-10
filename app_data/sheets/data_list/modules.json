@@ -8,7 +8,7 @@
       "id": "join",
       "status": "released",
       "number": "1",
-      "facilitator_gender": "man",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_10",
       "relax_id": "relax_4",
       "relax_id_list": [
@@ -57,7 +57,7 @@
       "id": "connect",
       "status": "released",
       "number": "2",
-      "facilitator_gender": "woman",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_1",
       "relax_id": "relax_10",
       "relax_id_list": [
@@ -106,7 +106,7 @@
       "id": "create",
       "status": "released",
       "number": "3",
-      "facilitator_gender": "man",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_8",
       "relax_id": "relax_17",
       "relax_id_list": [
@@ -155,7 +155,7 @@
       "id": "play",
       "status": "released",
       "number": "4",
-      "facilitator_gender": "woman",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_13",
       "relax_id": "relax_21",
       "relax_id_list": [
@@ -203,7 +203,7 @@
     {
       "id": "talk",
       "number": "5",
-      "facilitator_gender": "man",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_5",
       "relax_id": "relax_2",
       "relax_id_list": [
@@ -252,7 +252,7 @@
     {
       "id": "build",
       "number": "6",
-      "facilitator_gender": "female",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_11",
       "relax_id": "relax_7",
       "relax_id_list": [
@@ -301,7 +301,7 @@
     {
       "id": "explore",
       "number": "7",
-      "facilitator_gender": "man",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_5",
       "relax_id": "relax_11",
       "relax_id_list": [
@@ -350,7 +350,7 @@
     {
       "id": "care",
       "number": "8",
-      "facilitator_gender": "woman",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_12",
       "relax_id": "relax_18",
       "relax_id_list": [

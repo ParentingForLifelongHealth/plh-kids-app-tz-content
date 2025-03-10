@@ -7,7 +7,7 @@
       "id": "connect",
       "status": "released",
       "number": "2",
-      "facilitator_gender": "woman",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_1",
       "relax_id": "relax_10",
       "relax_id_list": [
@@ -56,7 +56,7 @@
       "id": "create",
       "status": "released",
       "number": "3",
-      "facilitator_gender": "man",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_8",
       "relax_id": "relax_17",
       "relax_id_list": [
@@ -105,7 +105,7 @@
       "id": "play",
       "status": "released",
       "number": "4",
-      "facilitator_gender": "woman",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_13",
       "relax_id": "relax_21",
       "relax_id_list": [

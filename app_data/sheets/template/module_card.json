@@ -243,6 +243,21 @@
       "_nested_name": "progress_units_name"
     },
     {
+      "name": "locked",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "locked"
+    },
+    {
+      "name": "locked_image_asset",
+      "value": "images/icons/locked.png",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "locked_image_asset"
+    },
+    {
       "type": "task_card",
       "name": "task_card",
       "action_list": [
@@ -264,7 +279,9 @@
         "image": "@local.card_image",
         "in_progress_icon": "@local.in_progress_icon",
         "completed_icon": "@local.completed_icon",
-        "progress_units_name": "@local.progress_units_name"
+        "progress_units_name": "@local.progress_units_name",
+        "locked": "@local.locked",
+        "locked_image_asset": "@local.locked_image_asset"
       },
       "exclude_from_translation": true,
       "_nested_name": "task_card",
@@ -363,6 +380,22 @@
               "type": "local",
               "fieldName": "progress_units_name"
             }
+          ],
+          "locked": [
+            {
+              "fullExpression": "@local.locked",
+              "matchedExpression": "@local.locked",
+              "type": "local",
+              "fieldName": "locked"
+            }
+          ],
+          "locked_image_asset": [
+            {
+              "fullExpression": "@local.locked_image_asset",
+              "matchedExpression": "@local.locked_image_asset",
+              "type": "local",
+              "fieldName": "locked_image_asset"
+            }
           ]
         }
       },
@@ -395,6 +428,12 @@
         ],
         "@local.progress_units_name": [
           "parameter_list.progress_units_name"
+        ],
+        "@local.locked": [
+          "parameter_list.locked"
+        ],
+        "@local.locked_image_asset": [
+          "parameter_list.locked_image_asset"
         ]
       }
     }

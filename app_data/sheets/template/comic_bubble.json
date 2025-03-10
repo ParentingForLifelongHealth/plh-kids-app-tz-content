@@ -32,7 +32,7 @@
     },
     {
       "name": "articles",
-      "value": "_articles",
+      "value": "_article_tasks",
       "_translations": {
         "value": {}
       },
@@ -482,6 +482,7 @@
         }
       },
       "condition": "@local.character_data.role == \"caregiver\"",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "variant",
       "_dynamicFields": {
@@ -509,6 +510,7 @@
         }
       },
       "condition": "@local.character_data.role == \"child\"",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "variant",
       "_dynamicFields": {
@@ -536,6 +538,7 @@
         }
       },
       "condition": "@local.character_data.role == \"facilitator\"",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "variant",
       "_dynamicFields": {

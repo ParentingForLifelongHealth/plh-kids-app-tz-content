@@ -5,7 +5,7 @@
   "rows": [
     {
       "name": "module_id",
-      "value": "connect",
+      "value": "instructions",
       "_translations": {
         "value": {}
       },
@@ -109,7 +109,7 @@
     },
     {
       "name": "article_id",
-      "value": "why_connect_3",
+      "value": "explore_1",
       "_translations": {
         "value": {}
       },

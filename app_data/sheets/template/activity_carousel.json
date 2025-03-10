@@ -71,7 +71,8 @@
     {
       "type": "carousel",
       "parameter_list": {
-        "centred_slides": "false"
+        "centred_slides": "false",
+        "space_between": "8"
       },
       "exclude_from_translation": true,
       "rows": [

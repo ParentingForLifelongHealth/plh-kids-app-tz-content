@@ -62,8 +62,11 @@
           "args": [
             "app_menu_terms"
           ],
-          "_raw": "click | pop_up: app_menu_terms",
-          "_cleaned": "click | pop_up: app_menu_terms"
+          "_raw": "click | pop_up: app_menu_terms | fullscreen: true",
+          "_cleaned": "click | pop_up: app_menu_terms | fullscreen: true",
+          "params": {
+            "fullscreen": true
+          }
         }
       ],
       "_nested_name": "button_1",
@@ -97,8 +100,11 @@
           "args": [
             "app_menu_privacy_policy"
           ],
-          "_raw": "click | pop_up: app_menu_privacy_policy",
-          "_cleaned": "click | pop_up: app_menu_privacy_policy"
+          "_raw": "click | pop_up: app_menu_privacy_policy | fullscreen: true",
+          "_cleaned": "click | pop_up: app_menu_privacy_policy | fullscreen: true",
+          "params": {
+            "fullscreen": true
+          }
         }
       ],
       "_nested_name": "button_2",

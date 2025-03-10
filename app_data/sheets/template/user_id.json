@@ -4,6 +4,12 @@
   "status": "released",
   "rows": [
     {
+      "name": "show_title",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_title"
+    },
+    {
       "name": "user_id",
       "value": "@calc(this.app_user_id)",
       "_translations": {
@@ -95,6 +101,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": "!!(@local.show_title)",
       "_nested_name": "title",
       "_dynamicFields": {
         "value": [
@@ -104,11 +111,22 @@
             "type": "global",
             "fieldName": "user_id_text"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.show_title)",
+            "matchedExpression": "@local.show_title",
+            "type": "local",
+            "fieldName": "show_title"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@global.user_id_text": [
           "value"
+        ],
+        "@local.show_title": [
+          "condition"
         ]
       }
     },

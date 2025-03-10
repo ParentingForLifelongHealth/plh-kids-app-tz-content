@@ -135,7 +135,6 @@
           ],
           "parameter_list": {
             "style": "navigation",
-            "text_align": "centre",
             "icon": "images/icons/chevron_back_white.svg"
           },
           "style_list": [
@@ -179,8 +178,7 @@
           ],
           "parameter_list": {
             "style": "navigation",
-            "text_align": "centre",
-            "icon": "@local.completed_icon"
+            "icon_secondary_asset": "@local.completed_icon"
           },
           "style_list": [
             "flex: 1"
@@ -196,7 +194,7 @@
               }
             ],
             "parameter_list": {
-              "icon": [
+              "icon_secondary_asset": [
                 {
                   "fullExpression": "@local.completed_icon",
                   "matchedExpression": "@local.completed_icon",
@@ -211,7 +209,7 @@
               "value"
             ],
             "@local.completed_icon": [
-              "parameter_list.icon"
+              "parameter_list.icon_secondary_asset"
             ]
           }
         }

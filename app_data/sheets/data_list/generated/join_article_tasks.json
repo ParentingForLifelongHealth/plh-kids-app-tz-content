@@ -67,7 +67,8 @@
           "tz_sw": true
         }
       },
-      "relax_tag_list": [
+      "lottie_asset": "lottie/square_flow.json",
+      "tag_list": [
         "breathe"
       ],
       "image_cover_asset": "images/relax/relax_4.svg",

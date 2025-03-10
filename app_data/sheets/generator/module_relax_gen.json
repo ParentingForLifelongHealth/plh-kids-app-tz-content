@@ -52,6 +52,16 @@
         {
           "name": "id",
           "value": "@gen.relax_id"
+        },
+        {
+          "type": "nested_properties",
+          "name": "nav_buttons",
+          "rows": [
+            {
+              "name": "is_standalone_task",
+              "value": false
+            }
+          ]
         }
       ]
     }
