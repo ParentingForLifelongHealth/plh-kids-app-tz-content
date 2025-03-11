@@ -4662,11 +4662,6 @@
       "flow_name": "home_screen",
       "_xlsxPath": "TZ app_navigation.xlsx"
     },
-    "home_screen_2": {
-      "flow_type": "template",
-      "flow_name": "home_screen_2",
-      "_xlsxPath": "TZ app_navigation.xlsx"
-    },
     "home_screen_header": {
       "flow_type": "template",
       "flow_name": "home_screen_header",

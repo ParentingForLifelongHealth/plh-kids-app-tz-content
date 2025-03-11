@@ -25,11 +25,11 @@
 | round_button | 5 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1507 |
+| set_variable | 1506 |
 | simple_checkbox | 1 |
 | task_card | 9 |
 | task_progress_bar | 2 |
-| template | 439 |
+| template | 438 |
 | text | 95 |
 | text_area | 2 |
 | text_box | 4 |
@@ -1426,7 +1426,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 25 |
 | global |  | 3 |
 | global | legal_terms | 1 |
-| template |  | 65 |
+| template |  | 64 |
 | template | generated | 369 |
 | template | legal_terms | 4 |
 </details>
