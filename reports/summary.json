@@ -91,7 +91,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1507
+        "count": 1506
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "template",
-        "count": 439
+        "count": 438
       },
       {
         "type": "text",
@@ -6799,7 +6799,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 65
+        "total": 64
       },
       {
         "type": "template",
