@@ -23,7 +23,7 @@
           },
           "exclude_from_translation": true,
           "style_list": [
-            "margin-bottom: 12px"
+            "margin-block: 12px"
           ],
           "rows": [
             {
