@@ -6,7 +6,7 @@
 | accordion | 4 |
 | accordion_section | 5 |
 | audio | 5 |
-| button | 51 |
+| button | 50 |
 | carousel | 2 |
 | combo_box | 6 |
 | data_items | 19 |
@@ -22,7 +22,7 @@
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 5 |
+| round_button | 7 |
 | select_text | 1 |
 | set_field | 4 |
 | set_variable | 1506 |
@@ -48,7 +48,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 362 |
+| emit: completed | 363 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 4 |
@@ -73,8 +73,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 77446 KB | 77.4 MB |
-| unused | 1145 KB | 1.1 MB |
+| total | 77443 KB | 77.4 MB |
+| unused | 1148 KB | 1.1 MB |
 </details>
 
 <details open>
@@ -96,6 +96,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/book_white.svg | 0.7 |
 | images/icons/book_yellow.svg | 1.9 |
 | images/icons/cancel.svg | 1.7 |
+| images/icons/chevron_back_white.svg | 1.3 |
+| images/icons/chevron_forward_white.svg | 1.3 |
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
 | images/icons/faces/happier.svg | 0.6 |
@@ -1210,8 +1212,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/tz.svg | 0.5 | 2 |
 | images/icons/book_blue.svg | 0.8 | 2 |
-| images/icons/chevron_back_white.svg | 1.3 | 1 |
-| images/icons/chevron_forward_white.svg | 1.3 | 1 |
 | images/icons/faces/happy.svg | 1.4 | 2 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 20 |
 | images/icons/faces/loved.svg | 3.8 | 2 |
