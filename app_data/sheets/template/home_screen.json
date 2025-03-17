@@ -523,7 +523,7 @@
       "condition": "@fields.display_modules_as_list",
       "exclude_from_translation": true,
       "style_list": [
-        "padding: 0 24px"
+        "margin-top: -12px"
       ],
       "rows": [],
       "_nested_name": "module_list",
