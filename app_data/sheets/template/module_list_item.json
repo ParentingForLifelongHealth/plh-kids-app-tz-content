@@ -119,20 +119,13 @@
     },
     {
       "name": "locked_image_asset",
-      "value": "images/icons/locked.png",
+      "value": "images/icons/temporarily_disabled.svg",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "locked_image_asset"
-    },
-    {
-      "name": "is_locked",
-      "value": false,
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "is_locked"
     },
     {
       "name": "module_title",
@@ -185,11 +178,33 @@
       }
     },
     {
+      "name": "is_locked",
+      "value": false,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "is_locked"
+    },
+    {
       "name": "is_highlighted",
       "value": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "is_highlighted"
+    },
+    {
+      "name": "is_completed",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "is_completed"
+    },
+    {
+      "name": "variant",
+      "value": "default",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "variant"
     },
     {
       "type": "plh_module_list_item",
@@ -214,7 +229,9 @@
         "nav_image_asset": "@local.nav_image_asset",
         "locked_image_asset": "@local.locked_image_asset",
         "is_locked": "@local.is_locked",
-        "highlighted": "@local.is_highlighted"
+        "highlighted": "@local.is_highlighted",
+        "completed": "@local.is_completed",
+        "variant": "@local.variant"
       },
       "exclude_from_translation": true,
       "_nested_name": "plh_module_list_item",
@@ -297,6 +314,22 @@
               "type": "local",
               "fieldName": "is_highlighted"
             }
+          ],
+          "completed": [
+            {
+              "fullExpression": "@local.is_completed",
+              "matchedExpression": "@local.is_completed",
+              "type": "local",
+              "fieldName": "is_completed"
+            }
+          ],
+          "variant": [
+            {
+              "fullExpression": "@local.variant",
+              "matchedExpression": "@local.variant",
+              "type": "local",
+              "fieldName": "variant"
+            }
           ]
         }
       },
@@ -323,6 +356,12 @@
         ],
         "@local.is_highlighted": [
           "parameter_list.highlighted"
+        ],
+        "@local.is_completed": [
+          "parameter_list.completed"
+        ],
+        "@local.variant": [
+          "parameter_list.variant"
         ]
       }
     }
