@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "resource_centre",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_HEADER_DEFAULTS": {
+        "hidden": true
+      }
+    }
+  },
   "rows": [
     {
       "type": "title",

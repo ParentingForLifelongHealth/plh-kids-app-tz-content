@@ -731,8 +731,8 @@
     "size_kb": 576.6
   },
   "contents.json": {
-    "md5Checksum": "df9c81f319411188b557a9430db42686",
-    "size_kb": 6.1
+    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
+    "size_kb": 5.9
   },
   "images/books/a_trip_to_the_tap/cover.png": {
     "md5Checksum": "40677faf7e2d58ef398f1635a1a5eddb",
@@ -3969,6 +3969,10 @@
   "images/icons/chevron_forward_white.svg": {
     "md5Checksum": "72e4d75307c33a2e9ce252f1549e43e7",
     "size_kb": 1.3
+  },
+  "images/icons/expand_circle_right.png": {
+    "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
+    "size_kb": 0.9
   },
   "images/icons/faces/angry.svg": {
     "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",

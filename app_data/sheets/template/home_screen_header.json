@@ -94,6 +94,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "click_template",
       "_dynamicFields": {
@@ -114,12 +115,32 @@
     },
     {
       "name": "title_prefix",
-      "value": "This week let's focus on",
+      "value": "This week",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
       "_nested_name": "title_prefix"
+    },
+    {
+      "name": "start",
+      "value": "Start",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "start"
+    },
+    {
+      "name": "continue",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "continue"
     },
     {
       "type": "title",
@@ -219,7 +240,7 @@
             {
               "type": "button",
               "name": "button_start",
-              "value": "Start",
+              "value": "**@local.start**",
               "_translations": {
                 "value": {}
               },
@@ -235,11 +256,21 @@
                 }
               ],
               "parameter_list": {
-                "style": "navigation"
+                "style": "navigation",
+                "text_align": "center"
               },
               "hidden": "@item.completed",
+              "exclude_from_translation": true,
               "_nested_name": "dg_module_not_completed.loop_inner.button_start",
               "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "**@local.start**",
+                    "matchedExpression": "@local.start",
+                    "type": "local",
+                    "fieldName": "start"
+                  }
+                ],
                 "action_list": {
                   "0": {
                     "args": {
@@ -280,6 +311,9 @@
                 ]
               },
               "_dynamicDependencies": {
+                "@local.start": [
+                  "value"
+                ],
                 "@local.click_template": [
                   "action_list.0.args.0",
                   "action_list.0._raw",
@@ -293,11 +327,9 @@
             {
               "type": "button",
               "name": "button_continue",
-              "value": "Continue",
+              "value": "**@local.continue**",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "action_list": [
                 {
@@ -311,11 +343,21 @@
                 }
               ],
               "parameter_list": {
-                "style": "navigation"
+                "style": "navigation",
+                "text_align": "center"
               },
               "hidden": "!@item.completed",
+              "exclude_from_translation": true,
               "_nested_name": "dg_module_not_completed.loop_inner.button_continue",
               "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "**@local.continue**",
+                    "matchedExpression": "@local.continue",
+                    "type": "local",
+                    "fieldName": "continue"
+                  }
+                ],
                 "action_list": {
                   "0": {
                     "args": {
@@ -356,6 +398,9 @@
                 ]
               },
               "_dynamicDependencies": {
+                "@local.continue": [
+                  "value"
+                ],
                 "@local.click_template": [
                   "action_list.0.args.0",
                   "action_list.0._raw",
