@@ -6,36 +6,38 @@
 | accordion | 4 |
 | accordion_section | 5 |
 | audio | 5 |
+| begin_display_group | 1 |
 | button | 50 |
 | carousel | 2 |
 | combo_box | 6 |
-| data_items | 19 |
+| data_items | 22 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 58 |
+| display_group | 60 |
 | google_sign_in_button | 1 |
 | image | 26 |
 | items | 23 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | nested_properties | 37 |
+| plh_module_list_item | 1 |
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 7 |
+| round_button | 8 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1506 |
+| set_variable | 1529 |
 | simple_checkbox | 1 |
 | task_card | 9 |
 | task_progress_bar | 2 |
-| template | 438 |
-| text | 95 |
+| template | 440 |
+| text | 96 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 4 |
 | title | 38 |
-| toggle_bar | 3 |
+| toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
 | youtube | 3 |
@@ -56,14 +58,15 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 358 |
 | feedback | 13 |
-| go_to | 22 |
+| go_to | 23 |
+| nav | 1 |
 | nav_stack | 1 |
 | pop_up | 10 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 25 |
+| set_field | 26 |
 | set_item | 12 |
-| set_local | 16 |
+| set_local | 18 |
 | task | 3 |
 | user | 2 |
 </details>
@@ -73,7 +76,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 77443 KB | 77.4 MB |
+| total | 77444 KB | 77.4 MB |
 | unused | 1148 KB | 1.1 MB |
 </details>
 
@@ -90,7 +93,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
 | audio/modules/create/power_create_4.mp3 | 241.2 |
-| contents.json | 6.1 |
+| contents.json | 5.9 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
 | images/icons/book_white.svg | 0.7 |
@@ -343,7 +346,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_7.jpg | 1 |
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
-| images/icons/locked.png | 1 |
+| images/icons/locked.png | 2 |
 | images/modules/build/build_title_image.svg | 1 |
 | images/modules/care/care_title_image.svg | 1 |
 | images/modules/explore/explore_title_image.svg | 1 |
@@ -1212,6 +1215,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/tz.svg | 0.5 | 2 |
 | images/icons/book_blue.svg | 0.8 | 2 |
+| images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/faces/happy.svg | 1.4 | 2 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 20 |
 | images/icons/faces/loved.svg | 3.8 | 2 |
@@ -1426,7 +1430,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 25 |
 | global |  | 3 |
 | global | legal_terms | 1 |
-| template |  | 64 |
+| template |  | 67 |
 | template | generated | 369 |
 | template | legal_terms | 4 |
 </details>

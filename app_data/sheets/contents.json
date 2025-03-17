@@ -2683,6 +2683,11 @@
       "flow_name": "app_about",
       "_xlsxPath": "app_menu.xlsx"
     },
+    "app_header": {
+      "flow_type": "template",
+      "flow_name": "app_header",
+      "_xlsxPath": "TZ app_navigation.xlsx"
+    },
     "app_launch_calculations": {
       "flow_type": "template",
       "flow_name": "app_launch_calculations",
@@ -4660,6 +4665,13 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
+      "parameter_list": {
+        "app_config": {
+          "APP_HEADER_DEFAULTS": {
+            "hidden": true
+          }
+        }
+      },
       "_xlsxPath": "TZ app_navigation.xlsx"
     },
     "home_screen_header": {
@@ -4746,6 +4758,16 @@
       "flow_name": "module_landing",
       "_xlsxPath": "modules/TZ module_navigation.xlsx"
     },
+    "module_list": {
+      "flow_type": "template",
+      "flow_name": "module_list",
+      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+    },
+    "module_list_item": {
+      "flow_type": "template",
+      "flow_name": "module_list_item",
+      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+    },
     "module_overview": {
       "flow_type": "template",
       "flow_name": "module_overview",
@@ -4779,6 +4801,13 @@
     "picture_books": {
       "flow_type": "template",
       "flow_name": "picture_books",
+      "parameter_list": {
+        "app_config": {
+          "APP_HEADER_DEFAULTS": {
+            "hidden": true
+          }
+        }
+      },
       "_xlsxPath": "books/picture_books.xlsx"
     },
     "play_activity": {
@@ -4839,6 +4868,13 @@
     "resource_centre": {
       "flow_type": "template",
       "flow_name": "resource_centre",
+      "parameter_list": {
+        "app_config": {
+          "APP_HEADER_DEFAULTS": {
+            "hidden": true
+          }
+        }
+      },
       "_xlsxPath": "TZ resource centre.xlsx"
     },
     "resource_centre_2": {

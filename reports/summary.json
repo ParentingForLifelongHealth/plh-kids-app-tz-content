@@ -14,6 +14,10 @@
         "count": 5
       },
       {
+        "type": "begin_display_group",
+        "count": 1
+      },
+      {
         "type": "button",
         "count": 50
       },
@@ -27,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 19
+        "count": 22
       },
       {
         "type": "debug_toggle",
@@ -39,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 58
+        "count": 60
       },
       {
         "type": "google_sign_in_button",
@@ -66,6 +70,10 @@
         "count": 37
       },
       {
+        "type": "plh_module_list_item",
+        "count": 1
+      },
+      {
         "type": "progress_path",
         "count": 1
       },
@@ -79,7 +87,7 @@
       },
       {
         "type": "round_button",
-        "count": 7
+        "count": 8
       },
       {
         "type": "select_text",
@@ -91,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1506
+        "count": 1529
       },
       {
         "type": "simple_checkbox",
@@ -107,11 +115,11 @@
       },
       {
         "type": "template",
-        "count": 438
+        "count": 440
       },
       {
         "type": "text",
-        "count": 95
+        "count": 96
       },
       {
         "type": "text_area",
@@ -131,7 +139,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 3
+        "count": 4
       },
       {
         "type": "update_action_list",
@@ -191,7 +199,11 @@
       },
       {
         "type": "go_to",
-        "count": 22
+        "count": 23
+      },
+      {
+        "type": "nav",
+        "count": 1
       },
       {
         "type": "nav_stack",
@@ -211,7 +223,7 @@
       },
       {
         "type": "set_field",
-        "count": 25
+        "count": 26
       },
       {
         "type": "set_item",
@@ -219,7 +231,7 @@
       },
       {
         "type": "set_local",
-        "count": 16
+        "count": 18
       },
       {
         "type": "task",
@@ -235,7 +247,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "77443 KB",
+        "KB": "77444 KB",
         "MB": "77.4 MB"
       },
       {
@@ -273,7 +285,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 6.1
+        "size_kb": 5.9
       },
       {
         "path": "images/icons/book_outline_blue.svg",
@@ -1453,7 +1465,7 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 1,
+        "count": 2,
         "missing": true
       },
       {
@@ -5756,6 +5768,11 @@
         "size_kb": 0.8
       },
       {
+        "path": "images/icons/expand_circle_right.png",
+        "count": 1,
+        "size_kb": 0.9
+      },
+      {
         "path": "images/icons/faces/happy.svg",
         "count": 2,
         "size_kb": 1.4
@@ -6797,7 +6814,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 64
+        "total": 67
       },
       {
         "type": "template",
