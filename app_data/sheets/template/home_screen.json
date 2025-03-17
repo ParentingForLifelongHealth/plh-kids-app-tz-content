@@ -484,19 +484,43 @@
     {
       "type": "template",
       "name": "module_path",
-      "value": "module_path",
+      "value": "module_list",
       "condition": "!@fields.display_modules_as_list",
       "exclude_from_translation": true,
       "rows": [
         {
-          "name": "modules_data_list_name",
-          "value": "modules_released",
+          "name": "current_module_number",
+          "value": "@local.module_number",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "module_path.modules_data_list_name"
+          "_nested_name": "module_path.current_module_number",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.module_number",
+                "matchedExpression": "@local.module_number",
+                "type": "local",
+                "fieldName": "module_number"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.module_number": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "variant",
+          "value": "circle",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module_path.variant"
         }
       ],
       "_nested_name": "module_path",
@@ -522,10 +546,41 @@
       "value": "module_list",
       "condition": "@fields.display_modules_as_list",
       "exclude_from_translation": true,
-      "style_list": [
-        "margin-top: -12px"
+      "rows": [
+        {
+          "name": "current_module_number",
+          "value": "@local.module_number",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module_list.current_module_number",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.module_number",
+                "matchedExpression": "@local.module_number",
+                "type": "local",
+                "fieldName": "module_number"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.module_number": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "variant",
+          "value": "default",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module_list.variant"
+        }
       ],
-      "rows": [],
       "_nested_name": "module_list",
       "_dynamicFields": {
         "condition": [
