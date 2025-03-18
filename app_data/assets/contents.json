@@ -3970,6 +3970,10 @@
     "md5Checksum": "72e4d75307c33a2e9ce252f1549e43e7",
     "size_kb": 1.3
   },
+  "images/icons/cogwheel_blue.svg": {
+    "md5Checksum": "50724365d0e0e742e5e054f7d3286251",
+    "size_kb": 5.1
+  },
   "images/icons/expand_circle_right.png": {
     "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
     "size_kb": 0.9
@@ -4078,6 +4082,10 @@
     "md5Checksum": "f7bdd991a067c30d0cb140d5b77745bb",
     "size_kb": 1.1
   },
+  "images/icons/jigsaw_blue.svg": {
+    "md5Checksum": "3e4e1d02aa5aaa2860cfa724aefe057c",
+    "size_kb": 5.9
+  },
   "images/icons/join_icons/caring_yourchild.svg": {
     "md5Checksum": "63369e95c95dcc9365fe1b091c82cd7d",
     "size_kb": 4.4
@@ -4089,6 +4097,30 @@
   "images/icons/join_icons/welcome.svg": {
     "md5Checksum": "f717b60f62c5bc6a82fd429d1809e97c",
     "size_kb": 2.9
+  },
+  "images/icons/kw/document.svg": {
+    "md5Checksum": "da7bbdc1985249219cfb178f5d1ea514",
+    "size_kb": 7.3
+  },
+  "images/icons/kw/feather.svg": {
+    "md5Checksum": "cf69cc2e8ba1f0aa7d15366c4d8df711",
+    "size_kb": 3.5
+  },
+  "images/icons/kw/key.svg": {
+    "md5Checksum": "8027fa87b3cb79a6e9e524f13c9e5b26",
+    "size_kb": 5.5
+  },
+  "images/icons/kw/magnify_glass.svg": {
+    "md5Checksum": "632b4994884de81721e0ec7d8de41fa4",
+    "size_kb": 1.9
+  },
+  "images/icons/kw/profile_card.svg": {
+    "md5Checksum": "1ebe1597828d18a8a3a331a050d1bfd6",
+    "size_kb": 7.4
+  },
+  "images/icons/kw/world.svg": {
+    "md5Checksum": "8063b977998a73ce347c65c8a5ae2ded",
+    "size_kb": 6.2
   },
   "images/icons/magnifying_glass.svg": {
     "md5Checksum": "4aa37ded543f172aa02486aaf484c4f9",
@@ -4163,8 +4195,8 @@
     "size_kb": 1
   },
   "images/icons/temporarily_disabled.svg": {
-    "md5Checksum": "7138e91fb739032209c9f3bee6d5ae1f",
-    "size_kb": 1.2
+    "md5Checksum": "aed99a7b3cb6dbe8846f2a61e1f179e4",
+    "size_kb": 4.4
   },
   "images/icons/thought_bubble.svg": {
     "md5Checksum": "860f0a38023afb4e888fe885f4f02f9a",

@@ -7,16 +7,16 @@
 | accordion_section | 5 |
 | audio | 5 |
 | begin_display_group | 1 |
-| button | 50 |
+| button | 51 |
 | carousel | 2 |
 | combo_box | 6 |
-| data_items | 22 |
+| data_items | 20 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 60 |
+| display_group | 63 |
 | google_sign_in_button | 1 |
 | image | 26 |
-| items | 23 |
+| items | 22 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | nested_properties | 37 |
@@ -24,21 +24,21 @@
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 8 |
+| round_button | 9 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1531 |
+| set_variable | 1561 |
 | simple_checkbox | 1 |
 | task_card | 9 |
 | task_progress_bar | 2 |
-| template | 440 |
-| text | 96 |
+| template | 453 |
+| text | 98 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 4 |
-| title | 38 |
+| title | 43 |
 | toggle_bar | 4 |
-| update_action_list | 2 |
+| update_action_list | 3 |
 | video | 3 |
 | youtube | 3 |
 </details>
@@ -50,18 +50,18 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 363 |
-| emit: force_reload | 3 |
+| emit: completed | 370 |
+| emit: force_reload | 4 |
 | emit: force_reprocess | 9 |
 | emit: force_restart | 4 |
 | emit: server_sync | 3 |
 | emit: set_language | 1 |
-| emit: uncompleted | 358 |
+| emit: uncompleted | 372 |
 | feedback | 13 |
-| go_to | 23 |
+| go_to | 19 |
 | nav | 1 |
 | nav_stack | 1 |
-| pop_up | 10 |
+| pop_up | 16 |
 | reset_app | 1 |
 | set_data | 1 |
 | set_field | 26 |
@@ -76,7 +76,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 77444 KB | 77.4 MB |
+| total | 77491 KB | 77.5 MB |
 | unused | 1148 KB | 1.1 MB |
 </details>
 
@@ -346,7 +346,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_7.jpg | 1 |
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
-| images/icons/locked.png | 2 |
+| images/icons/locked.png | 1 |
 | images/modules/build/build_title_image.svg | 1 |
 | images/modules/care/care_title_image.svg | 1 |
 | images/modules/explore/explore_title_image.svg | 1 |
@@ -1214,7 +1214,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/facilitator_face_woman.svg | 17.5 | 3 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/tz.svg | 0.5 | 2 |
-| images/icons/book_blue.svg | 0.8 | 2 |
+| images/icons/book_blue.svg | 0.8 | 3 |
+| images/icons/cogwheel_blue.svg | 5.1 | 2 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/faces/happy.svg | 1.4 | 2 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 20 |
@@ -1222,20 +1223,28 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/ok_face_new.svg | 0.5 | 20 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 20 |
 | images/icons/faces/valued.svg | 3.4 | 2 |
-| images/icons/hands_hold_heart_blue.svg | 6.5 | 2 |
+| images/icons/hands_hold_heart_blue.svg | 6.5 | 1 |
 | images/icons/heart.svg | 0.6 | 3 |
 | images/icons/heart_filled.svg | 1.4 | 3 |
-| images/icons/house_blue.svg | 3 | 1 |
+| images/icons/house_blue.svg | 3 | 2 |
 | images/icons/in_progress.svg | 1.1 | 4 |
+| images/icons/jigsaw_blue.svg | 5.9 | 2 |
 | images/icons/join_icons/caring_yourchild.svg | 4.4 | 2 |
 | images/icons/join_icons/caring_yourself.svg | 1.3 | 2 |
 | images/icons/join_icons/welcome.svg | 2.9 | 2 |
+| images/icons/kw/document.svg | 7.3 | 1 |
+| images/icons/kw/feather.svg | 3.5 | 1 |
+| images/icons/kw/key.svg | 5.5 | 1 |
+| images/icons/kw/magnify_glass.svg | 1.9 | 1 |
+| images/icons/kw/profile_card.svg | 7.4 | 1 |
+| images/icons/kw/world.svg | 6.2 | 1 |
 | images/icons/magnifying_glass.svg | 0.9 | 7 |
 | images/icons/parent_child_heart.svg | 3 | 8 |
 | images/icons/picture_book_blue.svg | 1.8 | 3 |
 | images/icons/smile_eyes_down.svg | 0.9 | 6 |
 | images/icons/smile_eyes_down_blue.svg | 1.4 | 1 |
 | images/icons/smile_eyes_up.svg | 1 | 14 |
+| images/icons/temporarily_disabled.svg | 4.4 | 1 |
 | images/icons/tick.svg | 0.3 | 3 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/learning_through_play/act_the_story.svg | 84.2 | 1 |
@@ -1430,7 +1439,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 25 |
 | global |  | 3 |
 | global | legal_terms | 1 |
-| template |  | 67 |
+| template |  | 75 |
 | template | generated | 369 |
 | template | legal_terms | 4 |
 </details>

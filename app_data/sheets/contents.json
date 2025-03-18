@@ -2697,7 +2697,7 @@
     "app_menu": {
       "flow_type": "template",
       "flow_name": "app_menu",
-      "_xlsxPath": "app_menu.xlsx"
+      "_xlsxPath": "TZ app_navigation.xlsx"
     },
     "app_update_complete": {
       "flow_type": "template",
@@ -4886,6 +4886,53 @@
       "flow_type": "template",
       "flow_name": "section",
       "_xlsxPath": "templates/modules/articles.xlsx"
+    },
+    "settings": {
+      "flow_type": "template",
+      "flow_name": "settings",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "24px 0"
+          }
+        }
+      },
+      "_xlsxPath": "Tz settings.xlsx"
+    },
+    "settings_about": {
+      "flow_type": "template",
+      "flow_name": "settings_about",
+      "_xlsxPath": "Tz settings.xlsx"
+    },
+    "settings_header": {
+      "flow_type": "template",
+      "flow_name": "settings_header",
+      "_xlsxPath": "Tz settings.xlsx"
+    },
+    "settings_language_select": {
+      "flow_type": "template",
+      "flow_name": "settings_language_select",
+      "_xlsxPath": "Tz settings.xlsx"
+    },
+    "settings_privacy_policy": {
+      "flow_type": "template",
+      "flow_name": "settings_privacy_policy",
+      "_xlsxPath": "Tz settings.xlsx"
+    },
+    "settings_profile": {
+      "flow_type": "template",
+      "flow_name": "settings_profile",
+      "_xlsxPath": "Tz settings.xlsx"
+    },
+    "settings_terms": {
+      "flow_type": "template",
+      "flow_name": "settings_terms",
+      "_xlsxPath": "Tz settings.xlsx"
+    },
+    "settings_user_id": {
+      "flow_type": "template",
+      "flow_name": "settings_user_id",
+      "_xlsxPath": "Tz settings.xlsx"
     },
     "text_pop_up": {
       "flow_type": "template",

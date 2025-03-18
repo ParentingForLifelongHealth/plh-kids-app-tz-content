@@ -19,7 +19,7 @@
       },
       {
         "type": "button",
-        "count": 50
+        "count": 51
       },
       {
         "type": "carousel",
@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 22
+        "count": 20
       },
       {
         "type": "debug_toggle",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 60
+        "count": 63
       },
       {
         "type": "google_sign_in_button",
@@ -55,7 +55,7 @@
       },
       {
         "type": "items",
-        "count": 23
+        "count": 22
       },
       {
         "type": "lottie_animation",
@@ -87,7 +87,7 @@
       },
       {
         "type": "round_button",
-        "count": 8
+        "count": 9
       },
       {
         "type": "select_text",
@@ -99,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1531
+        "count": 1561
       },
       {
         "type": "simple_checkbox",
@@ -115,11 +115,11 @@
       },
       {
         "type": "template",
-        "count": 440
+        "count": 453
       },
       {
         "type": "text",
-        "count": 96
+        "count": 98
       },
       {
         "type": "text_area",
@@ -135,7 +135,7 @@
       },
       {
         "type": "title",
-        "count": 38
+        "count": 43
       },
       {
         "type": "toggle_bar",
@@ -143,7 +143,7 @@
       },
       {
         "type": "update_action_list",
-        "count": 2
+        "count": 3
       },
       {
         "type": "video",
@@ -167,11 +167,11 @@
       },
       {
         "type": "emit: completed",
-        "count": 363
+        "count": 370
       },
       {
         "type": "emit: force_reload",
-        "count": 3
+        "count": 4
       },
       {
         "type": "emit: force_reprocess",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 358
+        "count": 372
       },
       {
         "type": "feedback",
@@ -199,7 +199,7 @@
       },
       {
         "type": "go_to",
-        "count": 23
+        "count": 19
       },
       {
         "type": "nav",
@@ -211,7 +211,7 @@
       },
       {
         "type": "pop_up",
-        "count": 10
+        "count": 16
       },
       {
         "type": "reset_app",
@@ -247,8 +247,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "77444 KB",
-        "MB": "77.4 MB"
+        "KB": "77491 KB",
+        "MB": "77.5 MB"
       },
       {
         "assets": "unused",
@@ -1465,7 +1465,7 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 2,
+        "count": 1,
         "missing": true
       },
       {
@@ -5764,8 +5764,13 @@
       },
       {
         "path": "images/icons/book_blue.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/cogwheel_blue.svg",
+        "count": 2,
+        "size_kb": 5.1
       },
       {
         "path": "images/icons/expand_circle_right.png",
@@ -5804,7 +5809,7 @@
       },
       {
         "path": "images/icons/hands_hold_heart_blue.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 6.5
       },
       {
@@ -5819,13 +5824,18 @@
       },
       {
         "path": "images/icons/house_blue.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 3
       },
       {
         "path": "images/icons/in_progress.svg",
         "count": 4,
         "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/jigsaw_blue.svg",
+        "count": 2,
+        "size_kb": 5.9
       },
       {
         "path": "images/icons/join_icons/caring_yourchild.svg",
@@ -5841,6 +5851,36 @@
         "path": "images/icons/join_icons/welcome.svg",
         "count": 2,
         "size_kb": 2.9
+      },
+      {
+        "path": "images/icons/kw/document.svg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "images/icons/kw/feather.svg",
+        "count": 1,
+        "size_kb": 3.5
+      },
+      {
+        "path": "images/icons/kw/key.svg",
+        "count": 1,
+        "size_kb": 5.5
+      },
+      {
+        "path": "images/icons/kw/magnify_glass.svg",
+        "count": 1,
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/icons/kw/profile_card.svg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "images/icons/kw/world.svg",
+        "count": 1,
+        "size_kb": 6.2
       },
       {
         "path": "images/icons/magnifying_glass.svg",
@@ -5871,6 +5911,11 @@
         "path": "images/icons/smile_eyes_up.svg",
         "count": 14,
         "size_kb": 1
+      },
+      {
+        "path": "images/icons/temporarily_disabled.svg",
+        "count": 1,
+        "size_kb": 4.4
       },
       {
         "path": "images/icons/tick.svg",
@@ -6814,7 +6859,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 67
+        "total": 75
       },
       {
         "type": "template",

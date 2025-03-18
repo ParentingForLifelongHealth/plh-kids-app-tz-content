@@ -33,6 +33,42 @@
           "eng": "Learning Through Play"
         }
       }
+    },
+    {
+      "id": "songs",
+      "name": "Songs",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Songs"
+        }
+      }
+    },
+    {
+      "id": "resources",
+      "name": "Additional Information",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Additional Information"
+        }
+      }
+    },
+    {
+      "id": "support",
+      "name": "Support Center",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Support Center"
+        }
+      }
     }
   ],
   "_xlsxPath": "TZ resource centre.xlsx"
