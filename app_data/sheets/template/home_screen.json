@@ -389,25 +389,26 @@
               "_nested_name": "dg_1.dg_2.dg_top"
             },
             {
-              "type": "display_group",
-              "name": "dg_blue",
+              "type": "data_items",
+              "name": "loop_outer",
+              "value": "module_tasks",
               "parameter_list": {
-                "variant": "inline_padding"
+                "filter": "@item.number == @local.module_number",
+                "limit": "1"
               },
-              "style_list": [
-                "background-color: var(--ion-color-primary-100)",
-                "padding-block: 6px",
-                "margin-top: -6px"
-              ],
+              "exclude_from_translation": true,
               "rows": [
                 {
-                  "type": "data_items",
-                  "name": "loop_outer",
-                  "value": "module_tasks",
+                  "type": "display_group",
+                  "name": "dg_blue",
                   "parameter_list": {
-                    "filter": "@item.number == @local.module_number"
+                    "variant": "inline_padding"
                   },
-                  "exclude_from_translation": true,
+                  "style_list": [
+                    "background-color: var(--ion-color-primary-100)",
+                    "padding-block: 6px",
+                    "margin-top: -6px"
+                  ],
                   "rows": [
                     {
                       "type": "template",
@@ -423,7 +424,7 @@
                           },
                           "exclude_from_translation": true,
                           "type": "set_variable",
-                          "_nested_name": "dg_1.dg_2.dg_blue.loop_outer.home_screen_header.module_id",
+                          "_nested_name": "dg_1.dg_2.loop_outer.dg_blue.home_screen_header.module_id",
                           "_dynamicFields": {
                             "value": [
                               {
@@ -441,39 +442,39 @@
                           }
                         }
                       ],
-                      "_nested_name": "dg_1.dg_2.dg_blue.loop_outer.home_screen_header"
+                      "_nested_name": "dg_1.dg_2.loop_outer.dg_blue.home_screen_header"
                     }
                   ],
-                  "_nested_name": "dg_1.dg_2.dg_blue.loop_outer",
-                  "_dynamicFields": {
-                    "parameter_list": {
-                      "filter": [
-                        {
-                          "fullExpression": "@item.number == @local.module_number",
-                          "matchedExpression": "@item.number",
-                          "type": "item",
-                          "fieldName": "number"
-                        },
-                        {
-                          "fullExpression": "@item.number == @local.module_number",
-                          "matchedExpression": "@local.module_number",
-                          "type": "local",
-                          "fieldName": "module_number"
-                        }
-                      ]
-                    }
-                  },
-                  "_dynamicDependencies": {
-                    "@item.number": [
-                      "parameter_list.filter"
-                    ],
-                    "@local.module_number": [
-                      "parameter_list.filter"
-                    ]
-                  }
+                  "_nested_name": "dg_1.dg_2.loop_outer.dg_blue"
                 }
               ],
-              "_nested_name": "dg_1.dg_2.dg_blue"
+              "_nested_name": "dg_1.dg_2.loop_outer",
+              "_dynamicFields": {
+                "parameter_list": {
+                  "filter": [
+                    {
+                      "fullExpression": "@item.number == @local.module_number",
+                      "matchedExpression": "@item.number",
+                      "type": "item",
+                      "fieldName": "number"
+                    },
+                    {
+                      "fullExpression": "@item.number == @local.module_number",
+                      "matchedExpression": "@local.module_number",
+                      "type": "local",
+                      "fieldName": "module_number"
+                    }
+                  ]
+                }
+              },
+              "_dynamicDependencies": {
+                "@item.number": [
+                  "parameter_list.filter"
+                ],
+                "@local.module_number": [
+                  "parameter_list.filter"
+                ]
+              }
             }
           ],
           "_nested_name": "dg_1.dg_2"

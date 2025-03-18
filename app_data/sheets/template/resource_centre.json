@@ -12,11 +12,9 @@
   "rows": [
     {
       "type": "title",
-      "value": "Resource Centre",
+      "value": "Resources",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "name": "title_2",
       "_nested_name": "title_2"
