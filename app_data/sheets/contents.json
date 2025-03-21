@@ -11,13 +11,13 @@
       "flow_type": "data_list",
       "flow_name": "additional_content",
       "data_list_name": "additional_content",
-      "_xlsxPath": "modules/TZ additional_content.xlsx"
+      "_xlsxPath": "Resource centre/TZ additional_content.xlsx"
     },
     "additional_content_tags": {
       "flow_type": "data_list",
       "flow_name": "additional_content_tags",
       "data_list_name": "additional_content_tags",
-      "_xlsxPath": "modules/TZ additional_content.xlsx"
+      "_xlsxPath": "Resource centre/TZ additional_content.xlsx"
     },
     "language": {
       "flow_type": "data_list",
@@ -48,7 +48,7 @@
       "flow_type": "data_list",
       "flow_name": "characters",
       "data_list_name": "characters",
-      "_xlsxPath": "TZ characters.xlsx"
+      "_xlsxPath": "modules/TZ characters.xlsx"
     },
     "check_in": {
       "flow_type": "data_list",
@@ -242,7 +242,7 @@
       "flow_type": "data_list",
       "flow_name": "play",
       "data_list_name": "play",
-      "_xlsxPath": "modules/TZ activities.xlsx"
+      "_xlsxPath": "Resource centre/TZ activities.xlsx"
     },
     "play_articles": {
       "flow_type": "data_list",
@@ -260,7 +260,7 @@
       "flow_type": "data_list",
       "flow_name": "play_tags",
       "data_list_name": "play_tags",
-      "_xlsxPath": "modules/TZ activities.xlsx"
+      "_xlsxPath": "Resource centre/TZ activities.xlsx"
     },
     "prepare": {
       "flow_type": "data_list",
@@ -272,25 +272,37 @@
       "flow_type": "data_list",
       "flow_name": "relax",
       "data_list_name": "relax",
-      "_xlsxPath": "modules/TZ relax.xlsx"
+      "_xlsxPath": "Resource centre/TZ relax.xlsx"
     },
     "relax_tags": {
       "flow_type": "data_list",
       "flow_name": "relax_tags",
       "data_list_name": "relax_tags",
-      "_xlsxPath": "modules/TZ relax.xlsx"
+      "_xlsxPath": "Resource centre/TZ relax.xlsx"
     },
     "resource_categories": {
       "flow_type": "data_list",
       "flow_name": "resource_categories",
       "data_list_name": "resource_categories",
-      "_xlsxPath": "TZ resource centre.xlsx"
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
     },
     "resource_categories_2": {
       "flow_type": "data_list",
       "flow_name": "resource_categories_2",
       "data_list_name": "resource_categories_2",
-      "_xlsxPath": "TZ resource centre.xlsx"
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
+    },
+    "songs": {
+      "flow_type": "data_list",
+      "flow_name": "songs",
+      "data_list_name": "songs",
+      "_xlsxPath": "Resource centre/TZ songs.xlsx"
+    },
+    "support_information": {
+      "flow_type": "data_list",
+      "flow_name": "support_information",
+      "data_list_name": "support_information",
+      "_xlsxPath": "Resource centre/TZ support centre.xlsx"
     },
     "user_gender": {
       "flow_type": "data_list",
@@ -1648,6 +1660,39 @@
         }
       ]
     },
+    "gen_module_landing_v2": {
+      "flow_type": "generator",
+      "flow_name": "gen_module_landing_v2",
+      "parameter_list": {
+        "input_data_list": "modules_released",
+        "output_flow_name": "module_landing_v2_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_landing_v2_join",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_landing_v2_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_landing_v2_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_landing_v2_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_module_overview": {
       "flow_type": "generator",
       "flow_name": "gen_module_overview",
@@ -1743,7 +1788,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "modules/TZ activities template generators.xlsx",
+      "_xlsxPath": "Resource centre/TZ activities template generators.xlsx",
       "_output_flows": [
         {
           "flow_name": "play_happy_things",
@@ -2239,6 +2284,34 @@
         }
       ]
     },
+    "gen_support": {
+      "flow_type": "generator",
+      "flow_name": "gen_support",
+      "parameter_list": {
+        "input_data_list": "support_information",
+        "output_flow_name": "support_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "Resource centre/TZ support centre.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "support_children",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "support_caregivers",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "support_kinondoni_org",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "join_article_gen": {
       "flow_type": "generator",
       "flow_name": "join_article_gen",
@@ -2676,7 +2749,7 @@
     "activity_carousel": {
       "flow_type": "template",
       "flow_name": "activity_carousel",
-      "_xlsxPath": "TZ resource centre.xlsx"
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
     },
     "app_about": {
       "flow_type": "template",
@@ -4322,6 +4395,26 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "module_landing_v2_connect": {
+      "flow_name": "module_landing_v2_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_landing_v2_create": {
+      "flow_name": "module_landing_v2_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_landing_v2_join": {
+      "flow_name": "module_landing_v2_join",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "module_landing_v2_play": {
+      "flow_name": "module_landing_v2_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "module_overview_build": {
       "flow_name": "module_overview_build",
       "flow_subtype": "generated",
@@ -4647,6 +4740,21 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "support_caregivers": {
+      "flow_name": "support_caregivers",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "support_children": {
+      "flow_name": "support_children",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "support_kinondoni_org": {
+      "flow_name": "support_kinondoni_org",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "header": {
       "flow_type": "template",
       "flow_name": "header",
@@ -4746,7 +4854,7 @@
     "module": {
       "flow_type": "template",
       "flow_name": "module",
-      "_xlsxPath": "templates/modules/module_navigation.xlsx"
+      "_xlsxPath": "modules/TZ module_navigation.xlsx"
     },
     "module_card": {
       "flow_type": "template",
@@ -4756,6 +4864,11 @@
     "module_landing": {
       "flow_type": "template",
       "flow_name": "module_landing",
+      "_xlsxPath": "modules/TZ module_navigation.xlsx"
+    },
+    "module_landing_v2": {
+      "flow_type": "template",
+      "flow_name": "module_landing_v2",
       "_xlsxPath": "modules/TZ module_navigation.xlsx"
     },
     "module_list": {
@@ -4813,7 +4926,7 @@
     "play_activity": {
       "flow_type": "template",
       "flow_name": "play_activity",
-      "_xlsxPath": "modules/TZ activities template generators.xlsx"
+      "_xlsxPath": "Resource centre/TZ activities template generators.xlsx"
     },
     "pop_up_text": {
       "flow_type": "template",
@@ -4848,7 +4961,7 @@
     "relax_activity": {
       "flow_type": "template",
       "flow_name": "relax_activity",
-      "_xlsxPath": "TZ resource centre.xlsx"
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
     },
     "relax_animation": {
       "flow_type": "template",
@@ -4858,7 +4971,7 @@
     "relax_button": {
       "flow_type": "template",
       "flow_name": "relax_button",
-      "_xlsxPath": "TZ resource centre.xlsx"
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
     },
     "relax_card": {
       "flow_type": "template",
@@ -4875,12 +4988,12 @@
           }
         }
       },
-      "_xlsxPath": "TZ resource centre.xlsx"
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
     },
     "resource_centre_2": {
       "flow_type": "template",
       "flow_name": "resource_centre_2",
-      "_xlsxPath": "TZ resource centre.xlsx"
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
     },
     "section": {
       "flow_type": "template",
@@ -4933,6 +5046,18 @@
       "flow_type": "template",
       "flow_name": "settings_user_id",
       "_xlsxPath": "Tz settings.xlsx"
+    },
+    "support": {
+      "flow_type": "template",
+      "flow_name": "support",
+      "data_list_name": "support",
+      "_xlsxPath": "Resource centre/TZ support centre.xlsx"
+    },
+    "support_activity": {
+      "flow_type": "template",
+      "flow_name": "support_activity",
+      "data_list_name": "support_activity",
+      "_xlsxPath": "Resource centre/TZ support centre.xlsx"
     },
     "text_pop_up": {
       "flow_type": "template",

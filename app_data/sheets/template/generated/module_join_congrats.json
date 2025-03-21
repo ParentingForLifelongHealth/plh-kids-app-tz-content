@@ -15,13 +15,20 @@
     {
       "type": "text",
       "name": "text",
-      "value": "Well done for finishing the JOIN module!",
+      "value": "Well done for finishing the JOIN module! \nHere is a song to celebrate you!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "text"
+    },
+    {
+      "type": "audio",
+      "name": "audio",
+      "value": "audio/songs/maua_mazuri.mp3",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "audio"
     }
   ]
 }

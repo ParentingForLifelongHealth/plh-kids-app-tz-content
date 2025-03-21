@@ -295,6 +295,16 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
+            "countdown_days",
+            "0"
+          ],
+          "_raw": "click | set_field: countdown_days: 0",
+          "_cleaned": "click | set_field: countdown_days: 0"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
             "user_data_completed",
             true
           ],
@@ -320,6 +330,7 @@
           "_cleaned": "click | emit: completed"
         }
       ],
+      "condition": "@local.user_type_select == \"facilitator\"",
       "parameter_list": {
         "style": "navigation",
         "disabled": "!@local.completed_enabled"
@@ -393,6 +404,14 @@
             ]
           }
         },
+        "condition": [
+          {
+            "fullExpression": "@local.user_type_select == \"facilitator\"",
+            "matchedExpression": "@local.user_type_select",
+            "type": "local",
+            "fieldName": "user_type_select"
+          }
+        ],
         "parameter_list": {
           "disabled": [
             {
@@ -416,7 +435,188 @@
         "@local.user_type_select": [
           "action_list.1.args.1",
           "action_list.1._raw",
-          "action_list.1._cleaned"
+          "action_list.1._cleaned",
+          "condition"
+        ],
+        "!@local.completed_enabled": [
+          "parameter_list.disabled"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "@global.continue",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_gender",
+            "@local.user_gender_select"
+          ],
+          "_raw": "click | set_field: user_gender: @local.user_gender_select",
+          "_cleaned": "click | set_field: user_gender: @local.user_gender_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_type",
+            "@local.user_type_select"
+          ],
+          "_raw": "click | set_field: user_type: @local.user_type_select",
+          "_cleaned": "click | set_field: user_type: @local.user_type_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "countdown_days",
+            "7"
+          ],
+          "_raw": "click | set_field: countdown_days: 7",
+          "_cleaned": "click | set_field: countdown_days: 7"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_data_completed",
+            true
+          ],
+          "_raw": "click | set_field: user_data_completed: true",
+          "_cleaned": "click | set_field: user_data_completed: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "click | emit: server_sync",
+          "_cleaned": "click | emit: server_sync"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "condition": "@local.user_type_select != \"facilitator\"",
+      "parameter_list": {
+        "style": "navigation",
+        "disabled": "!@local.completed_enabled"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.continue",
+            "matchedExpression": "@global.continue",
+            "type": "global",
+            "fieldName": "continue"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_gender_select",
+                  "matchedExpression": "@local.user_gender_select",
+                  "type": "local",
+                  "fieldName": "user_gender_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ]
+          },
+          "1": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_type_select",
+                  "matchedExpression": "@local.user_type_select",
+                  "type": "local",
+                  "fieldName": "user_type_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ]
+          }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.user_type_select != \"facilitator\"",
+            "matchedExpression": "@local.user_type_select",
+            "type": "local",
+            "fieldName": "user_type_select"
+          }
+        ],
+        "parameter_list": {
+          "disabled": [
+            {
+              "fullExpression": "!@local.completed_enabled",
+              "matchedExpression": "!@local.completed_enabled",
+              "type": "local",
+              "fieldName": "completed_enabled"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@global.continue": [
+          "value"
+        ],
+        "@local.user_gender_select": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.user_type_select": [
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned",
+          "condition"
         ],
         "!@local.completed_enabled": [
           "parameter_list.disabled"

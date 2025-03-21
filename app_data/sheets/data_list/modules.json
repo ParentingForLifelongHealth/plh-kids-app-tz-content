@@ -25,6 +25,7 @@
         "little_shoots",
         "things_that_matter"
       ],
+      "audio_asset": "audio/songs/maua_mazuri.mp3",
       "image_asset": "images/modules/join/join_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "JOIN",
@@ -35,9 +36,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -47,11 +46,11 @@
           "eng": "Welcome to the ParentApp for Kids community!"
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the JOIN module!"
+          "eng": "Well done for finishing the JOIN module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Welcome to the ParentApp for Kids community!",
-      "congratulation_text": "Well done for finishing the JOIN module!"
+      "congratulation_text": "Well done for finishing the JOIN module! \nHere is a song to celebrate you!"
     },
     {
       "id": "connect",
@@ -74,6 +73,7 @@
         "to_the_top",
         "moms_red_coat"
       ],
+      "audio_asset": "audio/songs/bilinge_bayoyo.mp3",
       "image_asset": "images/modules/connect/connect_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "CONNECT",
@@ -84,9 +84,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -96,11 +94,11 @@
           "eng": "Making time to connect with your child helps build a strong and positive relationship."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the CONNECT module!"
+          "eng": "Well done for finishing the CONNECT module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Making time to connect with your child helps build a strong and positive relationship.",
-      "congratulation_text": "Well done for finishing the CONNECT module!"
+      "congratulation_text": "Well done for finishing the CONNECT module! \nHere is a song to celebrate you!"
     },
     {
       "id": "create",
@@ -123,6 +121,7 @@
         "babys_first_photo",
         "shongololo_s_shoes"
       ],
+      "audio_asset": "audio/songs/napenda_kuhesabu_namba.mp3",
       "image_asset": "images/modules/create/create_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "CREATE",
@@ -133,9 +132,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -145,11 +142,11 @@
           "eng": "Create a positive and supportive environment for your child to learn in."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the CREATE module!"
+          "eng": "Well done for finishing the CREATE module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Create a positive and supportive environment for your child to learn in.",
-      "congratulation_text": "Well done for finishing the CREATE module!"
+      "congratulation_text": "Well done for finishing the CREATE module! \nHere is a song to celebrate you!"
     },
     {
       "id": "play",
@@ -172,6 +169,7 @@
         "lesedis_sandbox",
         "lefas_bath"
       ],
+      "audio_asset": "audio/songs/mabata_madogo.mp3",
       "image_asset": "images/modules/play/play_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "PLAY",
@@ -182,9 +180,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -194,11 +190,11 @@
           "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the PLAY module!"
+          "eng": "Well done for finishing the PLAY module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
-      "congratulation_text": "Well done for finishing the PLAY module!"
+      "congratulation_text": "Well done for finishing the PLAY module! \nHere is a song to celebrate you!"
     },
     {
       "id": "talk",
@@ -220,6 +216,7 @@
         "jasu_loves_football",
         "no_go_sleep"
       ],
+      "audio_asset": "audio/songs/yai_bovu.mp3",
       "status": "draft",
       "image_asset": "images/modules/talk/talk_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
@@ -231,9 +228,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -243,11 +238,11 @@
           "eng": "Words are powerful. What you say to your child and how you say it makes a difference."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the TALK module!"
+          "eng": "Well done for finishing the TALK module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Words are powerful. What you say to your child and how you say it makes a difference.",
-      "congratulation_text": "Well done for finishing the TALK module!"
+      "congratulation_text": "Well done for finishing the TALK module! \nHere is a song to celebrate you!"
     },
     {
       "id": "build",
@@ -269,6 +264,7 @@
         "angry_akku",
         "a_very_important_tree"
       ],
+      "audio_asset": "audio/songs/ukuti_ukuti.mp3",
       "status": "draft",
       "image_asset": "images/modules/build/build_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
@@ -280,9 +276,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -292,11 +286,11 @@
           "eng": "Help your child build skills to deal with challenges."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the BUILD module!"
+          "eng": "Well done for finishing the BUILD module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Help your child build skills to deal with challenges.",
-      "congratulation_text": "Well done for finishing the BUILD module!"
+      "congratulation_text": "Well done for finishing the BUILD module! \nHere is a song to celebrate you!"
     },
     {
       "id": "explore",
@@ -318,6 +312,7 @@
         "zibu_and_zizo",
         "yello_earth_brown_earth"
       ],
+      "audio_asset": "audio/songs/ngozi_ya_kenge_2.mp3",
       "status": "draft",
       "image_asset": "images/modules/explore/explore_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
@@ -329,9 +324,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -341,11 +334,11 @@
           "eng": "Support your child to explore and learn from the world around them."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the EXPLORE module!"
+          "eng": "Well done for finishing the EXPLORE module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Support your child to explore and learn from the world around them.",
-      "congratulation_text": "Well done for finishing the EXPLORE module!"
+      "congratulation_text": "Well done for finishing the EXPLORE module! \nHere is a song to celebrate you!"
     },
     {
       "id": "care",
@@ -362,6 +355,7 @@
         "decision",
         "my_inside_weather"
       ],
+      "audio_asset": "audio/songs/watoto_wangu_ehh.mp3",
       "status": "draft",
       "image_asset": "images/modules/care/care_title_image.svg",
       "play_id_list": [
@@ -376,9 +370,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -388,11 +380,11 @@
           "eng": "Caring for yourself and caring for others go hand-in-hand."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the CARE module!"
+          "eng": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Caring for yourself and caring for others go hand-in-hand.",
-      "congratulation_text": "Well done for finishing the CARE module!"
+      "congratulation_text": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
     }
   ],
   "_xlsxPath": "modules/TZ modules.xlsx"

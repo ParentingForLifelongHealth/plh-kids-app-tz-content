@@ -51,7 +51,7 @@
         },
         {
           "text": "@local.library",
-          "image": "images/icons/book_blue.svg",
+          "image": "images/icons/pic_books.svg",
           "target_template": "picture_books"
         },
         {
@@ -136,7 +136,7 @@
           "target_template": "home_screen"
         },
         {
-          "image": "images/icons/book_blue.svg",
+          "image": "images/icons/pic_books.svg",
           "target_template": "picture_books"
         },
         {
