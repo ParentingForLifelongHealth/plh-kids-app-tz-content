@@ -1660,39 +1660,6 @@
         }
       ]
     },
-    "gen_module_landing_v2": {
-      "flow_type": "generator",
-      "flow_name": "gen_module_landing_v2",
-      "parameter_list": {
-        "input_data_list": "modules_released",
-        "output_flow_name": "module_landing_v2_@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "modules/TZ module_navigation.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "module_landing_v2_join",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_v2_connect",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_v2_create",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_v2_play",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
     "gen_module_overview": {
       "flow_type": "generator",
       "flow_name": "gen_module_overview",
@@ -4395,26 +4362,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_v2_connect": {
-      "flow_name": "module_landing_v2_connect",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_v2_create": {
-      "flow_name": "module_landing_v2_create",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_v2_join": {
-      "flow_name": "module_landing_v2_join",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_v2_play": {
-      "flow_name": "module_landing_v2_play",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_overview_build": {
       "flow_name": "module_overview_build",
       "flow_subtype": "generated",
@@ -4864,11 +4811,6 @@
     "module_landing": {
       "flow_type": "template",
       "flow_name": "module_landing",
-      "_xlsxPath": "modules/TZ module_navigation.xlsx"
-    },
-    "module_landing_v2": {
-      "flow_type": "template",
-      "flow_name": "module_landing_v2",
       "_xlsxPath": "modules/TZ module_navigation.xlsx"
     },
     "module_list": {

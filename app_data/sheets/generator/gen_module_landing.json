@@ -51,6 +51,11 @@
               "value": "@gen.id"
             },
             {
+              "name": "use_pop_up",
+              "value": true,
+              "condition": "!@item.completed"
+            },
+            {
               "name": "module_target_template",
               "value": "module_@gen.id@local.postcompose",
               "condition": "!@item.completed"

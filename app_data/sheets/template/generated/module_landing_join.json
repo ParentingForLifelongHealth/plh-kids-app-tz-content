@@ -55,6 +55,28 @@
               "_nested_name": "check_module_completion.module_landing.module_id"
             },
             {
+              "name": "use_pop_up",
+              "value": true,
+              "condition": "!@item.completed",
+              "type": "set_variable",
+              "_nested_name": "check_module_completion.module_landing.use_pop_up",
+              "_dynamicFields": {
+                "condition": [
+                  {
+                    "fullExpression": "!@item.completed",
+                    "matchedExpression": "!@item.completed",
+                    "type": "item",
+                    "fieldName": "completed"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "!@item.completed": [
+                  "condition"
+                ]
+              }
+            },
+            {
               "name": "module_target_template",
               "value": "module_join@local.postcompose",
               "_translations": {
