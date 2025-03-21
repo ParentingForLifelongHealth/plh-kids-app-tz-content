@@ -457,10 +457,10 @@
           "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "@local.module_target_template"
+            "@local.target_template"
           ],
-          "_raw": "click | pop_up: @local.module_target_template | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: @local.module_target_template | fullscreen: true, showCloseButton: false",
+          "_raw": "click | pop_up: @local.target_template | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: @local.target_template | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -489,27 +489,27 @@
             "args": {
               "0": [
                 {
-                  "fullExpression": "@local.module_target_template",
-                  "matchedExpression": "@local.module_target_template",
+                  "fullExpression": "@local.target_template",
+                  "matchedExpression": "@local.target_template",
                   "type": "local",
-                  "fieldName": "module_target_template"
+                  "fieldName": "target_template"
                 }
               ]
             },
             "_raw": [
               {
-                "fullExpression": "click | pop_up: @local.module_target_template | fullscreen: true, showCloseButton: false",
-                "matchedExpression": "@local.module_target_template",
+                "fullExpression": "click | pop_up: @local.target_template | fullscreen: true, showCloseButton: false",
+                "matchedExpression": "@local.target_template",
                 "type": "local",
-                "fieldName": "module_target_template"
+                "fieldName": "target_template"
               }
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | pop_up: @local.module_target_template | fullscreen: true, showCloseButton: false",
-                "matchedExpression": "@local.module_target_template",
+                "fullExpression": "click | pop_up: @local.target_template | fullscreen: true, showCloseButton: false",
+                "matchedExpression": "@local.target_template",
                 "type": "local",
-                "fieldName": "module_target_template"
+                "fieldName": "target_template"
               }
             ]
           }
@@ -554,7 +554,7 @@
           "name",
           "_nested_name"
         ],
-        "@local.module_target_template": [
+        "@local.target_template": [
           "action_list.0.args.0",
           "action_list.0._raw",
           "action_list.0._cleaned"
