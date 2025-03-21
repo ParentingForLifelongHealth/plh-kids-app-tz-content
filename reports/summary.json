@@ -10,8 +10,12 @@
         "count": 5
       },
       {
-        "type": "audio",
+        "type": "advanced_dashed_box",
         "count": 5
+      },
+      {
+        "type": "audio",
+        "count": 9
       },
       {
         "type": "begin_display_group",
@@ -19,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 51
+        "count": 52
       },
       {
         "type": "carousel",
@@ -31,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 20
+        "count": 24
       },
       {
         "type": "debug_toggle",
@@ -39,11 +43,11 @@
       },
       {
         "type": "display_grid",
-        "count": 4
+        "count": 5
       },
       {
         "type": "display_group",
-        "count": 63
+        "count": 74
       },
       {
         "type": "google_sign_in_button",
@@ -51,11 +55,11 @@
       },
       {
         "type": "image",
-        "count": 26
+        "count": 34
       },
       {
         "type": "items",
-        "count": 22
+        "count": 24
       },
       {
         "type": "lottie_animation",
@@ -87,7 +91,7 @@
       },
       {
         "type": "round_button",
-        "count": 9
+        "count": 10
       },
       {
         "type": "select_text",
@@ -99,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1561
+        "count": 1607
       },
       {
         "type": "simple_checkbox",
@@ -107,19 +111,19 @@
       },
       {
         "type": "task_card",
-        "count": 9
+        "count": 14
       },
       {
         "type": "task_progress_bar",
-        "count": 2
+        "count": 4
       },
       {
         "type": "template",
-        "count": 453
+        "count": 462
       },
       {
         "type": "text",
-        "count": 98
+        "count": 117
       },
       {
         "type": "text_area",
@@ -131,11 +135,11 @@
       },
       {
         "type": "text_bubble",
-        "count": 4
+        "count": 9
       },
       {
         "type": "title",
-        "count": 43
+        "count": 51
       },
       {
         "type": "toggle_bar",
@@ -143,7 +147,7 @@
       },
       {
         "type": "update_action_list",
-        "count": 3
+        "count": 4
       },
       {
         "type": "video",
@@ -167,11 +171,11 @@
       },
       {
         "type": "emit: completed",
-        "count": 370
+        "count": 379
       },
       {
         "type": "emit: force_reload",
-        "count": 4
+        "count": 5
       },
       {
         "type": "emit: force_reprocess",
@@ -183,7 +187,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 3
+        "count": 4
       },
       {
         "type": "emit: set_language",
@@ -191,7 +195,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 372
+        "count": 381
       },
       {
         "type": "feedback",
@@ -199,7 +203,7 @@
       },
       {
         "type": "go_to",
-        "count": 19
+        "count": 23
       },
       {
         "type": "nav",
@@ -211,7 +215,7 @@
       },
       {
         "type": "pop_up",
-        "count": 16
+        "count": 17
       },
       {
         "type": "reset_app",
@@ -223,7 +227,7 @@
       },
       {
         "type": "set_field",
-        "count": 26
+        "count": 34
       },
       {
         "type": "set_item",
@@ -231,7 +235,7 @@
       },
       {
         "type": "set_local",
-        "count": 18
+        "count": 16
       },
       {
         "type": "task",
@@ -247,13 +251,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "77491 KB",
-        "MB": "77.5 MB"
+        "KB": "81098 KB",
+        "MB": "81.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "1148 KB",
-        "MB": "1.1 MB"
+        "KB": "2239 KB",
+        "MB": "2.2 MB"
       }
     ]
   },
@@ -286,6 +290,10 @@
       {
         "path": "contents.json",
         "size_kb": 5.9
+      },
+      {
+        "path": "images/backgrounds/map.jpg",
+        "size_kb": 85.1
       },
       {
         "path": "images/icons/book_outline_blue.svg",
@@ -444,12 +452,32 @@
         "size_kb": 1.8
       },
       {
+        "path": "images/orli/title_images_5.svg",
+        "size_kb": 155.3
+      },
+      {
+        "path": "images/orli/title_images_6.svg",
+        "size_kb": 38.7
+      },
+      {
+        "path": "images/orli/title_images_7.svg",
+        "size_kb": 239.7
+      },
+      {
+        "path": "images/orli/title_images_8.svg",
+        "size_kb": 174.4
+      },
+      {
         "path": "images/relax/relax_man.svg",
         "size_kb": 27
       },
       {
         "path": "images/relax/relax_woman.svg",
         "size_kb": 14.8
+      },
+      {
+        "path": "images/tz_map.svg",
+        "size_kb": 398.5
       },
       {
         "path": "lottie/bulging_circles.txt",
@@ -1756,6 +1784,56 @@
         "path": "audio/relax/relax_9.mp3",
         "count": 1,
         "size_kb": 576.6
+      },
+      {
+        "path": "audio/songs/bilinge_bayoyo.mp3",
+        "count": 5,
+        "size_kb": 393.4
+      },
+      {
+        "path": "audio/songs/kipepeo.mp3",
+        "count": 1,
+        "size_kb": 333.7
+      },
+      {
+        "path": "audio/songs/mabata_madogo.mp3",
+        "count": 5,
+        "size_kb": 409.8
+      },
+      {
+        "path": "audio/songs/mapera_mapera.mp3",
+        "count": 1,
+        "size_kb": 314.6
+      },
+      {
+        "path": "audio/songs/maua_mazuri.mp3",
+        "count": 4,
+        "size_kb": 355.8
+      },
+      {
+        "path": "audio/songs/napenda_kuhesabu_namba.mp3",
+        "count": 5,
+        "size_kb": 497.2
+      },
+      {
+        "path": "audio/songs/ngozi_ya_kenge_2.mp3",
+        "count": 2,
+        "size_kb": 349
+      },
+      {
+        "path": "audio/songs/ukuti_ukuti.mp3",
+        "count": 2,
+        "size_kb": 370.7
+      },
+      {
+        "path": "audio/songs/watoto_wangu_ehh.mp3",
+        "count": 2,
+        "size_kb": 272.3
+      },
+      {
+        "path": "audio/songs/yai_bovu.mp3",
+        "count": 2,
+        "size_kb": 306.6
       },
       {
         "path": "images/books/a_trip_to_the_tap/cover.png",
@@ -5744,7 +5822,7 @@
       },
       {
         "path": "images/facilitator_face_man.svg",
-        "count": 2,
+        "count": 7,
         "size_kb": 7.4
       },
       {
@@ -5764,8 +5842,13 @@
       },
       {
         "path": "images/icons/book_blue.svg",
-        "count": 3,
+        "count": 1,
         "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/cellphone.svg",
+        "count": 8,
+        "size_kb": 1.9
       },
       {
         "path": "images/icons/cogwheel_blue.svg",
@@ -5829,7 +5912,7 @@
       },
       {
         "path": "images/icons/in_progress.svg",
-        "count": 4,
+        "count": 7,
         "size_kb": 1.1
       },
       {
@@ -5893,8 +5976,13 @@
         "size_kb": 3
       },
       {
+        "path": "images/icons/pic_books.svg",
+        "count": 2,
+        "size_kb": 1.3
+      },
+      {
         "path": "images/icons/picture_book_blue.svg",
-        "count": 3,
+        "count": 6,
         "size_kb": 1.8
       },
       {
@@ -5919,7 +6007,7 @@
       },
       {
         "path": "images/icons/tick.svg",
-        "count": 3,
+        "count": 6,
         "size_kb": 0.3
       },
       {
@@ -6034,7 +6122,7 @@
       },
       {
         "path": "images/learning_through_play/music_dancing_circle.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 75.9
       },
       {
@@ -6580,7 +6668,7 @@
       {
         "path": "images/modules/play/play_title_image.svg",
         "count": 5,
-        "size_kb": 77.7
+        "size_kb": 77.9
       },
       {
         "path": "images/modules/play/power_of_play_1.svg",
@@ -6719,7 +6807,7 @@
       },
       {
         "path": "images/relax/relax_22.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 174.4
       },
       {
@@ -6809,7 +6897,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 31
+        "total": 33
       },
       {
         "type": "data_list",
@@ -6844,7 +6932,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 25
+        "total": 27
       },
       {
         "type": "global",
@@ -6859,12 +6947,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 75
+        "total": 78
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 369
+        "total": 376
       },
       {
         "type": "template",

@@ -12,53 +12,21 @@
   "rows": [
     {
       "name": "false_text",
-      "value": "@global.map",
+      "value": "Map",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "false_text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.map",
-            "matchedExpression": "@global.map",
-            "type": "global",
-            "fieldName": "map"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.map": [
-          "value"
-        ]
-      }
+      "_nested_name": "false_text"
     },
     {
       "name": "true_text",
-      "value": "@global.list",
+      "value": "List",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "true_text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.list",
-            "matchedExpression": "@global.list",
-            "type": "global",
-            "fieldName": "list"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.list": [
-          "value"
-        ]
-      }
+      "_nested_name": "true_text"
     },
     {
       "type": "display_group",
@@ -393,7 +361,7 @@
               "name": "loop_outer",
               "value": "module_tasks",
               "parameter_list": {
-                "filter": "@item.number == @local.module_number",
+                "filter": "@item.number == @local.module_number && !@item.completed",
                 "limit": "1"
               },
               "exclude_from_translation": true,
@@ -453,16 +421,22 @@
                 "parameter_list": {
                   "filter": [
                     {
-                      "fullExpression": "@item.number == @local.module_number",
+                      "fullExpression": "@item.number == @local.module_number && !@item.completed",
                       "matchedExpression": "@item.number",
                       "type": "item",
                       "fieldName": "number"
                     },
                     {
-                      "fullExpression": "@item.number == @local.module_number",
+                      "fullExpression": "@item.number == @local.module_number && !@item.completed",
                       "matchedExpression": "@local.module_number",
                       "type": "local",
                       "fieldName": "module_number"
+                    },
+                    {
+                      "fullExpression": "@item.number == @local.module_number && !@item.completed",
+                      "matchedExpression": "!@item.completed",
+                      "type": "item",
+                      "fieldName": "completed"
                     }
                   ]
                 }
@@ -472,6 +446,9 @@
                   "parameter_list.filter"
                 ],
                 "@local.module_number": [
+                  "parameter_list.filter"
+                ],
+                "!@item.completed": [
                   "parameter_list.filter"
                 ]
               }

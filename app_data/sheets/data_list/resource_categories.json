@@ -36,6 +36,7 @@
     },
     {
       "id": "songs",
+      "image_asset": "images/learning_through_play/music_dancing_circle.svg",
       "name": "Songs",
       "_translations": {
         "name": {}
@@ -47,29 +48,23 @@
       }
     },
     {
-      "id": "resources",
-      "name": "Additional Information",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Additional Information"
-        }
-      }
-    },
-    {
       "id": "support",
-      "name": "Support Center",
+      "image_asset": "images/relax/relax_22.svg",
+      "name": "Support Information",
       "_translations": {
-        "name": {}
+        "name": {},
+        "text": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Support Center"
+          "eng": "Support Information"
+        },
+        "text": {
+          "eng": "When you feel differently, unsecured in a family, spouse, your child in danger or abused, you can contact the following Service providers via the following numbers."
         }
-      }
+      },
+      "text": "When you feel differently, unsecured in a family, spouse, your child in danger or abused, you can contact the following Service providers via the following numbers."
     }
   ],
-  "_xlsxPath": "TZ resource centre.xlsx"
+  "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
 }

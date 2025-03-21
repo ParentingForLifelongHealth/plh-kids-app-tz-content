@@ -24,6 +24,7 @@
         "little_shoots",
         "things_that_matter"
       ],
+      "audio_asset": "audio/songs/maua_mazuri.mp3",
       "image_asset": "images/modules/join/join_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "JOIN",
@@ -34,9 +35,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -46,11 +45,11 @@
           "eng": "Welcome to the ParentApp for Kids community!"
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the JOIN module!"
+          "eng": "Well done for finishing the JOIN module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Welcome to the ParentApp for Kids community!",
-      "congratulation_text": "Well done for finishing the JOIN module!",
+      "congratulation_text": "Well done for finishing the JOIN module! \nHere is a song to celebrate you!",
       "completed": false,
       "task_child": "join_article_tasks"
     },
@@ -75,6 +74,7 @@
         "to_the_top",
         "moms_red_coat"
       ],
+      "audio_asset": "audio/songs/bilinge_bayoyo.mp3",
       "image_asset": "images/modules/connect/connect_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "CONNECT",
@@ -85,9 +85,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -97,11 +95,11 @@
           "eng": "Making time to connect with your child helps build a strong and positive relationship."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the CONNECT module!"
+          "eng": "Well done for finishing the CONNECT module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Making time to connect with your child helps build a strong and positive relationship.",
-      "congratulation_text": "Well done for finishing the CONNECT module!",
+      "congratulation_text": "Well done for finishing the CONNECT module! \nHere is a song to celebrate you!",
       "completed": false,
       "task_child": "connect_article_tasks"
     },
@@ -126,6 +124,7 @@
         "babys_first_photo",
         "shongololo_s_shoes"
       ],
+      "audio_asset": "audio/songs/napenda_kuhesabu_namba.mp3",
       "image_asset": "images/modules/create/create_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "CREATE",
@@ -136,9 +135,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -148,11 +145,11 @@
           "eng": "Create a positive and supportive environment for your child to learn in."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the CREATE module!"
+          "eng": "Well done for finishing the CREATE module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Create a positive and supportive environment for your child to learn in.",
-      "congratulation_text": "Well done for finishing the CREATE module!",
+      "congratulation_text": "Well done for finishing the CREATE module! \nHere is a song to celebrate you!",
       "completed": false,
       "task_child": "create_article_tasks"
     },
@@ -177,6 +174,7 @@
         "lesedis_sandbox",
         "lefas_bath"
       ],
+      "audio_asset": "audio/songs/mabata_madogo.mp3",
       "image_asset": "images/modules/play/play_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "PLAY",
@@ -187,9 +185,7 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {
-          "tz_sw": true
-        }
+        "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -199,11 +195,11 @@
           "eng": "Play is the best way for children to learn. Let’s look at ways to support your child through play."
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the PLAY module!"
+          "eng": "Well done for finishing the PLAY module! \nHere is a song to celebrate you!"
         }
       },
       "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
-      "congratulation_text": "Well done for finishing the PLAY module!",
+      "congratulation_text": "Well done for finishing the PLAY module! \nHere is a song to celebrate you!",
       "completed": false,
       "task_child": "play_article_tasks"
     }

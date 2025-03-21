@@ -15,13 +15,20 @@
     {
       "type": "text",
       "name": "text",
-      "value": "Well done for finishing the CREATE module!",
+      "value": "Well done for finishing the CREATE module! \nHere is a song to celebrate you!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "text"
+    },
+    {
+      "type": "audio",
+      "name": "audio",
+      "value": "audio/songs/napenda_kuhesabu_namba.mp3",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "audio"
     }
   ]
 }

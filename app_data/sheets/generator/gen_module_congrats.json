@@ -18,6 +18,11 @@
       "type": "text",
       "name": "text",
       "value": "@gen.congratulation_text"
+    },
+    {
+      "type": "audio",
+      "name": "audio",
+      "value": "@gen.audio_asset"
     }
   ],
   "_xlsxPath": "modules/TZ module_navigation.xlsx",

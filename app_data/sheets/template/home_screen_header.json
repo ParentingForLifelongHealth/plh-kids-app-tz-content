@@ -64,51 +64,43 @@
       }
     },
     {
-      "name": "module_target_template",
-      "value": "module_overview_@local.module_id",
+      "name": "postcompose",
+      "value": "_start_at_uncompleted_with_congrats",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "module_target_template",
+      "_nested_name": "postcompose"
+    },
+    {
+      "name": "click_template",
+      "value": "module_@local.module_id@local.postcompose",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "click_template",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "module_overview_@local.module_id",
+            "fullExpression": "module_@local.module_id@local.postcompose",
             "matchedExpression": "@local.module_id",
             "type": "local",
             "fieldName": "module_id"
+          },
+          {
+            "fullExpression": "module_@local.module_id@local.postcompose",
+            "matchedExpression": "@local.postcompose",
+            "type": "local",
+            "fieldName": "postcompose"
           }
         ]
       },
       "_dynamicDependencies": {
         "@local.module_id": [
           "value"
-        ]
-      }
-    },
-    {
-      "name": "click_template",
-      "value": "module_landing_@local.module_id",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "click_template",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "module_landing_@local.module_id",
-            "matchedExpression": "@local.module_id",
-            "type": "local",
-            "fieldName": "module_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.module_id": [
+        ],
+        "@local.postcompose": [
           "value"
         ]
       }
@@ -222,7 +214,7 @@
     },
     {
       "type": "display_group",
-      "name": "dg_module_not_completed",
+      "name": "dg",
       "parameter_list": {
         "style": "column"
       },
@@ -247,12 +239,16 @@
               "action_list": [
                 {
                   "trigger": "click",
-                  "action_id": "go_to",
+                  "action_id": "pop_up",
                   "args": [
                     "@local.click_template"
                   ],
-                  "_raw": "click | go_to: @local.click_template",
-                  "_cleaned": "click | go_to: @local.click_template"
+                  "_raw": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+                  "_cleaned": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+                  "params": {
+                    "fullscreen": true,
+                    "showCloseButton": false
+                  }
                 }
               ],
               "parameter_list": {
@@ -261,7 +257,7 @@
               },
               "hidden": "@item.completed",
               "exclude_from_translation": true,
-              "_nested_name": "dg_module_not_completed.loop_inner.button_start",
+              "_nested_name": "dg.loop_inner.button_start",
               "_dynamicFields": {
                 "value": [
                   {
@@ -285,7 +281,7 @@
                     },
                     "_raw": [
                       {
-                        "fullExpression": "click | go_to: @local.click_template",
+                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
                         "matchedExpression": "@local.click_template",
                         "type": "local",
                         "fieldName": "click_template"
@@ -293,7 +289,7 @@
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | go_to: @local.click_template",
+                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
                         "matchedExpression": "@local.click_template",
                         "type": "local",
                         "fieldName": "click_template"
@@ -334,12 +330,16 @@
               "action_list": [
                 {
                   "trigger": "click",
-                  "action_id": "go_to",
+                  "action_id": "pop_up",
                   "args": [
                     "@local.click_template"
                   ],
-                  "_raw": "click | go_to: @local.click_template",
-                  "_cleaned": "click | go_to: @local.click_template"
+                  "_raw": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+                  "_cleaned": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
+                  "params": {
+                    "fullscreen": true,
+                    "showCloseButton": false
+                  }
                 }
               ],
               "parameter_list": {
@@ -348,7 +348,7 @@
               },
               "hidden": "!@item.completed",
               "exclude_from_translation": true,
-              "_nested_name": "dg_module_not_completed.loop_inner.button_continue",
+              "_nested_name": "dg.loop_inner.button_continue",
               "_dynamicFields": {
                 "value": [
                   {
@@ -372,7 +372,7 @@
                     },
                     "_raw": [
                       {
-                        "fullExpression": "click | go_to: @local.click_template",
+                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
                         "matchedExpression": "@local.click_template",
                         "type": "local",
                         "fieldName": "click_template"
@@ -380,7 +380,7 @@
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | go_to: @local.click_template",
+                        "fullExpression": "click | pop_up: @local.click_template | fullscreen: true, showCloseButton: false",
                         "matchedExpression": "@local.click_template",
                         "type": "local",
                         "fieldName": "click_template"
@@ -412,7 +412,7 @@
               }
             }
           ],
-          "_nested_name": "dg_module_not_completed.loop_inner",
+          "_nested_name": "dg.loop_inner",
           "_dynamicFields": {
             "value": [
               {
@@ -430,7 +430,7 @@
           }
         }
       ],
-      "_nested_name": "dg_module_not_completed"
+      "_nested_name": "dg"
     }
   ],
   "_xlsxPath": "TZ app_navigation.xlsx"
