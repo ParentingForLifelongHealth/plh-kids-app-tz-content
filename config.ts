@@ -46,6 +46,8 @@ config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.
 
 config.web.favicon_asset = "images/logos/favicon.svg";
 
+config.campaigns.enabled = false;
+
 config.app_config.APP_LANGUAGES.default = "tz_sw";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Kids Tanzania";
 config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Kids Tanzania";
