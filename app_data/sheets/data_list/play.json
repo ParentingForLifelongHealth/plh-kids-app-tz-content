@@ -8,7 +8,7 @@
       "id": "happy_things",
       "image_cover_asset": "images/learning_through_play/happy_things_circle.svg",
       "image_asset": "images/learning_through_play/happy_things.svg",
-      "play_tag_list": [
+      "tag_list": [
         "chat"
       ],
       "favourite_field": "ltp_activity_happy_things_favourite",
@@ -57,7 +57,7 @@
       "id": "gardening",
       "image_cover_asset": "images/learning_through_play/gardening_circle.svg",
       "image_asset": "images/learning_through_play/gardening.svg",
-      "play_tag_list": [
+      "tag_list": [
         "everyday"
       ],
       "favourite_field": "ltp_activity_gardening_favourite",
@@ -98,7 +98,7 @@
       "id": "something_special",
       "image_cover_asset": "images/learning_through_play/something_special_circle.svg",
       "image_asset": "images/learning_through_play/something_special.svg",
-      "play_tag_list": [
+      "tag_list": [
         "everyday",
         "pretend"
       ],
@@ -140,7 +140,7 @@
       "id": "what_makes_us_special",
       "image_cover_asset": "images/learning_through_play/makes_us_special_circle.svg",
       "image_asset": "images/learning_through_play/makes_us_special.svg",
-      "play_tag_list": [
+      "tag_list": [
         "chat"
       ],
       "favourite_field": "ltp_activity_what_makes_us_special_favourite",
@@ -184,7 +184,7 @@
       "step_1_image_asset": "images/learning_through_play/pattern_play_1.svg",
       "step_2_image_asset": "images/learning_through_play/pattern_play_2.svg",
       "step_3_image_asset": "images/learning_through_play/pattern_play_3.svg",
-      "play_tag_list": [
+      "tag_list": [
         "home"
       ],
       "favourite_field": "ltp_activity_pattern_play_favourite",
@@ -246,7 +246,7 @@
       "id": "cooking_together",
       "image_cover_asset": "images/learning_through_play/cooking_together_circle.svg",
       "image_asset": "images/learning_through_play/cooking_together.svg",
-      "play_tag_list": [
+      "tag_list": [
         "everyday"
       ],
       "favourite_field": "ltp_activity_cooking_together_favourite",
@@ -287,7 +287,7 @@
       "id": "household_helpers",
       "image_cover_asset": "images/learning_through_play/household_helpers_circle.svg",
       "image_asset": "images/learning_through_play/household_helpers.svg",
-      "play_tag_list": [
+      "tag_list": [
         "everyday"
       ],
       "favourite_field": "ltp_activity_household_helpers_favourite",
@@ -328,7 +328,7 @@
       "id": "music_and_dancing",
       "image_cover_asset": "images/learning_through_play/music_dancing_circle.svg",
       "image_asset": "images/learning_through_play/music_dancing.svg",
-      "play_tag_list": [
+      "tag_list": [
         "everyday",
         "move"
       ],
@@ -370,7 +370,7 @@
       "id": "walking_together",
       "image_cover_asset": "images/learning_through_play/walking_together_circle.svg",
       "image_asset": "images/learning_through_play/walking_together.svg",
-      "play_tag_list": [
+      "tag_list": [
         "everyday",
         "move"
       ],
@@ -412,7 +412,7 @@
       "id": "story",
       "image_cover_asset": "images/learning_through_play/story_circle.svg",
       "image_asset": "images/learning_through_play/story.svg",
-      "play_tag_list": [
+      "tag_list": [
         "chat"
       ],
       "favourite_field": "ltp_activity_story_favourite",
@@ -453,7 +453,7 @@
       "id": "simon_says",
       "image_cover_asset": "images/learning_through_play/simon_says_circle.svg",
       "image_asset": "images/learning_through_play/simon_says.svg",
-      "play_tag_list": [
+      "tag_list": [
         "move",
         "home"
       ],
@@ -495,7 +495,7 @@
       "id": "when_I_grow_up",
       "image_cover_asset": "images/learning_through_play/when_grow_up_circle.svg",
       "image_asset": "images/learning_through_play/when_grow_up.svg",
-      "play_tag_list": [
+      "tag_list": [
         "chat"
       ],
       "favourite_field": "ltp_activity_when_I_grow_up_favourite",
@@ -536,7 +536,7 @@
       "id": "favourite_play",
       "image_cover_asset": "images/learning_through_play/favorite_play_circle.svg",
       "image_asset": "images/learning_through_play/favorite_play.svg",
-      "play_tag_list": [
+      "tag_list": [
         "home"
       ],
       "favourite_field": "ltp_activity_favourite_play_favourite",
@@ -577,7 +577,7 @@
       "id": "act_the_story",
       "image_cover_asset": "images/learning_through_play/act_the_story_circle.svg",
       "image_asset": "images/learning_through_play/act_the_story.svg",
-      "play_tag_list": [
+      "tag_list": [
         "pretend",
         "move"
       ],
@@ -623,7 +623,7 @@
       "step_2_image_asset": "images/learning_through_play/shadow_movie_2.svg",
       "step_3_image_asset": "images/learning_through_play/shadow_movie_3.svg",
       "step_4_image_asset": "images/learning_through_play/shadow_movie_4.svg",
-      "play_tag_list": [
+      "tag_list": [
         "home",
         "pretend"
       ],
@@ -686,7 +686,7 @@
       "id": "build_a_road",
       "image_cover_asset": "images/learning_through_play/build_a_road_circle.svg",
       "image_asset": "images/learning_through_play/build_a_road.svg",
-      "play_tag_list": [
+      "tag_list": [
         "pretend",
         "home"
       ],
@@ -728,7 +728,7 @@
       "id": "animal_strengths",
       "image_cover_asset": "images/learning_through_play/animal_strengths_circle.svg",
       "image_asset": "images/learning_through_play/animal_strengths.svg",
-      "play_tag_list": [
+      "tag_list": [
         "pretend",
         "move"
       ],
@@ -770,7 +770,7 @@
       "id": "treasure_hunt",
       "image_cover_asset": "images/learning_through_play/treasure_hunt_circle.svg",
       "image_asset": "images/learning_through_play/treasure_hunt.svg",
-      "play_tag_list": [
+      "tag_list": [
         "home"
       ],
       "favourite_field": "ltp_activity_treasure_hunt_favourite",
@@ -823,7 +823,7 @@
       "step_3_image_asset": "images/learning_through_play/senses_see.svg",
       "step_4_image_asset": "images/learning_through_play/senses_touch.svg",
       "step_5_image_asset": "images/learning_through_play/senses_taste.svg",
-      "play_tag_list": [
+      "tag_list": [
         "home"
       ],
       "favourite_field": "ltp_activity_search_with_senses_favourite",
@@ -892,7 +892,7 @@
       "id": "count_and_compare",
       "image_cover_asset": "images/learning_through_play/count_and_compare_circle.svg",
       "image_asset": "images/learning_through_play/count_and_compare.svg",
-      "play_tag_list": [
+      "tag_list": [
         "home"
       ],
       "favourite_field": "ltp_activity_count_and_compare_favourite",
@@ -940,7 +940,7 @@
       "id": "mystery_box",
       "image_cover_asset": "images/learning_through_play/mystery_box_circle.svg",
       "image_asset": "images/learning_through_play/mystery_box.svg",
-      "play_tag_list": [
+      "tag_list": [
         "home"
       ],
       "favourite_field": "ltp_activity_mystery_box_favourite",

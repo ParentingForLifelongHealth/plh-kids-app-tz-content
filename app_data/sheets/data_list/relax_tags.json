@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "breathe",
+      "name": "breathe",
       "attached_single_doc": "https://docs.google.com/document/d/1MDFWDVQQTJup3SqAXtRZytcKHCcI59tnecKlaPZZwpE",
       "title": "Breathe",
       "_translations": {
@@ -35,6 +36,7 @@
     },
     {
       "id": "reflect",
+      "name": "reflect",
       "title": "Reflect",
       "_translations": {
         "title": {
@@ -63,6 +65,7 @@
     },
     {
       "id": "notice",
+      "name": "notice",
       "title": "Notice",
       "_translations": {
         "title": {
@@ -91,6 +94,7 @@
     },
     {
       "id": "move",
+      "name": "move",
       "title": "Move",
       "_translations": {
         "title": {

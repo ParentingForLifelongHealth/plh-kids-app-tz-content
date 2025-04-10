@@ -141,6 +141,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "title",
       "_dynamicFields": {
@@ -232,7 +233,7 @@
             {
               "type": "button",
               "name": "button_start",
-              "value": "**@local.start**",
+              "value": "**@local.start @local.module_row.title**",
               "_translations": {
                 "value": {}
               },
@@ -261,10 +262,16 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "**@local.start**",
+                    "fullExpression": "**@local.start @local.module_row.title**",
                     "matchedExpression": "@local.start",
                     "type": "local",
                     "fieldName": "start"
+                  },
+                  {
+                    "fullExpression": "**@local.start @local.module_row.title**",
+                    "matchedExpression": "@local.module_row.title",
+                    "type": "local",
+                    "fieldName": "module_row"
                   }
                 ],
                 "action_list": {
@@ -310,6 +317,9 @@
                 "@local.start": [
                   "value"
                 ],
+                "@local.module_row.title": [
+                  "value"
+                ],
                 "@local.click_template": [
                   "action_list.0.args.0",
                   "action_list.0._raw",
@@ -323,7 +333,7 @@
             {
               "type": "button",
               "name": "button_continue",
-              "value": "**@local.continue**",
+              "value": "**@local.continue @local.module_row.title**",
               "_translations": {
                 "value": {}
               },
@@ -352,10 +362,16 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "**@local.continue**",
+                    "fullExpression": "**@local.continue @local.module_row.title**",
                     "matchedExpression": "@local.continue",
                     "type": "local",
                     "fieldName": "continue"
+                  },
+                  {
+                    "fullExpression": "**@local.continue @local.module_row.title**",
+                    "matchedExpression": "@local.module_row.title",
+                    "type": "local",
+                    "fieldName": "module_row"
                   }
                 ],
                 "action_list": {
@@ -399,6 +415,9 @@
               },
               "_dynamicDependencies": {
                 "@local.continue": [
+                  "value"
+                ],
+                "@local.module_row.title": [
                   "value"
                 ],
                 "@local.click_template": [

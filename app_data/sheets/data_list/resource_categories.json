@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "relax",
-      "image_asset": "images/relax/relax_1.svg",
+      "image_asset": "images/relax/relax_resources.svg",
       "name": "Relax",
       "_translations": {
         "name": {
@@ -21,7 +21,7 @@
     },
     {
       "id": "play",
-      "image_asset": "images/learning_through_play/happy_things_circle.svg",
+      "image_asset": "images/learning_through_play/play_resources.svg",
       "name": "Learning Through Play",
       "_translations": {
         "name": {
@@ -36,7 +36,7 @@
     },
     {
       "id": "songs",
-      "image_asset": "images/learning_through_play/music_dancing_circle.svg",
+      "image_asset": "images/songs_resources.svg",
       "name": "Songs",
       "_translations": {
         "name": {}
@@ -49,7 +49,7 @@
     },
     {
       "id": "support",
-      "image_asset": "images/relax/relax_22.svg",
+      "image_asset": "images/support/support_information.svg",
       "name": "Support Information",
       "_translations": {
         "name": {},

@@ -54,6 +54,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "module_care",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "module_create",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -79,7 +84,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_care",
+      "flow_name": "module_reflect",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

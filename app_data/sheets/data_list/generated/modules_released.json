@@ -102,8 +102,8 @@
     {
       "id": "create",
       "status": "released",
-      "number": "3",
-      "facilitator_id": "facilitator_man",
+      "number": "4",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_8",
       "relax_id": "relax_17",
       "relax_id_list": [
@@ -150,8 +150,8 @@
     {
       "id": "play",
       "status": "released",
-      "number": "4",
-      "facilitator_id": "facilitator_woman",
+      "number": "5",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_13",
       "relax_id": "relax_21",
       "relax_id_list": [
@@ -194,6 +194,54 @@
       },
       "description": "Play is the best way for children to learn. Let’s look at ways to support your child through play.",
       "congratulation_text": "Well done for finishing the PLAY module! \nHere is a song to celebrate you!"
+    },
+    {
+      "id": "talk",
+      "status": "released",
+      "number": "6",
+      "facilitator_id": "facilitator_woman",
+      "check_in_id": "check_in_5",
+      "relax_id": "relax_2",
+      "relax_id_list": [
+        "relax_6",
+        "relax_19",
+        "relax_2"
+      ],
+      "play_id_list": [
+        "story",
+        "simon_says",
+        "when_i_grow_up"
+      ],
+      "books_id_list": [
+        "jasu_loves_football",
+        "no_go_sleep"
+      ],
+      "audio_asset": "audio/songs/yai_bovu.mp3",
+      "image_asset": "images/modules/talk/talk_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "TALK",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "TALK"
+        },
+        "description": {
+          "eng": "Words are powerful. What you say to your child and how you say it makes a difference."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the TALK module! \nHere is a song to celebrate you!"
+        }
+      },
+      "description": "Words are powerful. What you say to your child and how you say it makes a difference.",
+      "congratulation_text": "Well done for finishing the TALK module! \nHere is a song to celebrate you!"
     }
   ]
 }

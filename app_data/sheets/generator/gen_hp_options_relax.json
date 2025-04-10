@@ -42,6 +42,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "hp_care_relax",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "hp_create_relax",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -67,7 +72,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "hp_care_relax",
+      "flow_name": "hp_reflect_relax",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

@@ -96,6 +96,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "article_care_check_in_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_create_check_in_8",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -121,7 +126,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_care_check_in_12",
+      "flow_name": "article_reflect_@gen.check_in_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     }
