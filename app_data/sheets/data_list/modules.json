@@ -101,10 +101,56 @@
       "congratulation_text": "Well done for finishing the CONNECT module! \nHere is a song to celebrate you!"
     },
     {
-      "id": "create",
-      "status": "released",
+      "id": "care",
       "number": "3",
       "facilitator_id": "facilitator_man",
+      "check_in_id": "check_in_12",
+      "relax_id": "relax_18",
+      "relax_id_list": [
+        "relax_15",
+        "relax_23",
+        "relax_1"
+      ],
+      "books_id_list": [
+        "decision",
+        "my_inside_weather"
+      ],
+      "audio_asset": "audio/songs/watoto_wangu_ehh.mp3",
+      "status": "draft",
+      "image_asset": "images/modules/care/care_title_image.svg",
+      "play_id_list": [
+        "[]"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "CARE",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "CARE"
+        },
+        "description": {
+          "eng": "Caring for yourself and caring for others go hand-in-hand."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
+        }
+      },
+      "description": "Caring for yourself and caring for others go hand-in-hand.",
+      "congratulation_text": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
+    },
+    {
+      "id": "create",
+      "status": "released",
+      "number": "4",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_8",
       "relax_id": "relax_17",
       "relax_id_list": [
@@ -151,8 +197,8 @@
     {
       "id": "play",
       "status": "released",
-      "number": "4",
-      "facilitator_id": "facilitator_woman",
+      "number": "5",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_13",
       "relax_id": "relax_21",
       "relax_id_list": [
@@ -198,8 +244,9 @@
     },
     {
       "id": "talk",
-      "number": "5",
-      "facilitator_id": "facilitator_man",
+      "status": "released",
+      "number": "6",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_5",
       "relax_id": "relax_2",
       "relax_id_list": [
@@ -217,7 +264,6 @@
         "no_go_sleep"
       ],
       "audio_asset": "audio/songs/yai_bovu.mp3",
-      "status": "draft",
       "image_asset": "images/modules/talk/talk_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "TALK",
@@ -246,8 +292,8 @@
     },
     {
       "id": "build",
-      "number": "6",
-      "facilitator_id": "facilitator_woman",
+      "number": "7",
+      "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_11",
       "relax_id": "relax_7",
       "relax_id_list": [
@@ -294,8 +340,8 @@
     },
     {
       "id": "explore",
-      "number": "7",
-      "facilitator_id": "facilitator_man",
+      "number": "8",
+      "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_5",
       "relax_id": "relax_11",
       "relax_id_list": [
@@ -341,50 +387,35 @@
       "congratulation_text": "Well done for finishing the EXPLORE module! \nHere is a song to celebrate you!"
     },
     {
-      "id": "care",
-      "number": "8",
-      "facilitator_id": "facilitator_woman",
-      "check_in_id": "check_in_12",
-      "relax_id": "relax_18",
-      "relax_id_list": [
-        "relax_15",
-        "relax_23",
-        "relax_1"
-      ],
-      "books_id_list": [
-        "decision",
-        "my_inside_weather"
-      ],
-      "audio_asset": "audio/songs/watoto_wangu_ehh.mp3",
+      "id": "reflect",
+      "number": "9",
+      "facilitator_id": "facilitator_man",
       "status": "draft",
-      "image_asset": "images/modules/care/care_title_image.svg",
+      "image_asset": "images/modules/reflect/reflect_title_image.svg",
+      "relax_id_list": [
+        "[]"
+      ],
       "play_id_list": [
         "[]"
       ],
+      "books_id_list": [
+        "[]"
+      ],
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
-      "title": "CARE",
+      "title": "REFLECT",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
+        "title": {},
         "congratulation_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "CARE"
-        },
-        "description": {
-          "eng": "Caring for yourself and caring for others go hand-in-hand."
+          "eng": "REFLECT"
         },
         "congratulation_text": {
-          "eng": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
+          "eng": "Well done for finishing the REFLECT module! \nHere is a song to celebrate you!"
         }
       },
-      "description": "Caring for yourself and caring for others go hand-in-hand.",
-      "congratulation_text": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
+      "congratulation_text": "Well done for finishing the REFLECT module! \nHere is a song to celebrate you!"
     }
   ],
   "_xlsxPath": "modules/TZ modules.xlsx"

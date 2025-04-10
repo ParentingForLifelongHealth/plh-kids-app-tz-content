@@ -71,6 +71,11 @@
       "flow_name": "prep_play_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_talk_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
     }
   ]
 }

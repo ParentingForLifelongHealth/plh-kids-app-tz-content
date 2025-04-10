@@ -1,0 +1,34 @@
+{
+  "flow_name": "module_talk_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "images/modules/talk/talk_title_image.svg",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "image"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Well done for finishing the TALK module! \nHere is a song to celebrate you!",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    },
+    {
+      "type": "audio",
+      "name": "audio",
+      "value": "audio/songs/yai_bovu.mp3",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "audio"
+    }
+  ]
+}

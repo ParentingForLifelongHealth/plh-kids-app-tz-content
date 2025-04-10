@@ -6,6 +6,9 @@
     "app_config": {
       "LAYOUT": {
         "page_padding": "24px 0"
+      },
+      "APP_HEADER_DEFAULTS": {
+        "hidden": true
       }
     }
   },
@@ -38,7 +41,7 @@
     },
     {
       "name": "profile_icon",
-      "value": "images/icons/kw/profile_card.svg",
+      "value": "images/icons/profile.svg",
       "_translations": {
         "value": {}
       },
@@ -48,7 +51,7 @@
     },
     {
       "name": "language_icon",
-      "value": "images/icons/kw/world.svg",
+      "value": "images/icons/language.svg",
       "_translations": {
         "value": {}
       },
@@ -58,7 +61,7 @@
     },
     {
       "name": "user_id_icon",
-      "value": "images/icons/kw/key.svg",
+      "value": "images/icons/user_id.svg",
       "_translations": {
         "value": {}
       },
@@ -68,7 +71,7 @@
     },
     {
       "name": "about_icon",
-      "value": "images/icons/kw/magnify_glass.svg",
+      "value": "images/icons/about_parentapp.svg",
       "_translations": {
         "value": {}
       },
@@ -78,7 +81,7 @@
     },
     {
       "name": "terms_icon",
-      "value": "images/icons/kw/feather.svg",
+      "value": "images/icons/terms_conditions.svg",
       "_translations": {
         "value": {}
       },
@@ -88,7 +91,7 @@
     },
     {
       "name": "privacy_icon",
-      "value": "images/icons/kw/document.svg",
+      "value": "images/icons/privacy_policy.svg",
       "_translations": {
         "value": {}
       },

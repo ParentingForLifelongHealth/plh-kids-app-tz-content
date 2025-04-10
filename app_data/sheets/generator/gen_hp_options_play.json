@@ -42,6 +42,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "hp_care_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "hp_create_play",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -67,7 +72,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "hp_care_play",
+      "flow_name": "hp_reflect_play",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

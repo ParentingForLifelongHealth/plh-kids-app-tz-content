@@ -40,6 +40,11 @@
       "flow_name": "prep_play_categories",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_talk_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
     }
   ]
 }

@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "children",
+      "image_asset": "images/support/support_children.svg",
       "image_1_asset": "images/icons/cellphone.svg",
       "phone_no_1": "Call number 116.",
       "image_2_asset": "images/icons/cellphone.svg",
@@ -36,17 +37,18 @@
           "eng": "This is a tollfree number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide."
         },
         "facilitator_text_2": {
-          "eng": "<span><b>You can also see Social Welfare Officer</b></span><span> in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:<br/><br/> * Ten Cell leaders<br/> * Street Local Government leader/Chairperson<br/> * Police Gender Desk for GBV </span>"
+          "eng": "**You can also see Social Welfare Officer** in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:\n- Ten Cell leaders\n- Street Local Government leader/Chairperson\n- Police Gender Desk for GBV"
         }
       },
       "sub_title_1": "Children’s issues Support",
       "text_1": "This is a toll-free number. It is concerned with providing support to child abuse incidents/ cases together with other children’s needs.",
       "sub_title_2": "Mental Health Psychosocial Support for Children",
       "text_2": "This is a tollfree number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide.",
-      "facilitator_text_2": "<span><b>You can also see Social Welfare Officer</b></span><span> in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:<br/><br/> * Ten Cell leaders<br/> * Street Local Government leader/Chairperson<br/> * Police Gender Desk for GBV </span>"
+      "facilitator_text_2": "**You can also see Social Welfare Officer** in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:\n- Ten Cell leaders\n- Street Local Government leader/Chairperson\n- Police Gender Desk for GBV"
     },
     {
       "id": "caregivers",
+      "image_asset": "images/support/support_caregivers.svg",
       "image_1_asset": "images/icons/cellphone.svg",
       "phone_no_1": "Call number 119",
       "title": "Support for Caregivers",
@@ -67,15 +69,16 @@
           "eng": "This is a toll free number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide."
         },
         "facilitator_text_1": {
-          "eng": "<span><b>You can also see Social Welfare Officer</b></span><span> in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:<br/><br/>* Ten Cell leaders<br/>* Street Local Government leader/Chairperson<br/>* Police Gender Desk for GBV </span>"
+          "eng": "**You can also see Social Welfare Officer** in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:\n- Ten Cell leaders\n- Street Local Government leader/Chairperson\n- Police Gender Desk for GBV"
         }
       },
       "sub_title_1": "Mental Health Psychosocial Support for caregivers/parents",
       "text_1": "This is a toll free number for supporting care givers/parents and children with various challenges together with feeling bad/not being in a good mood for three days, feeling frustrated, if you or child is abused, being threatened, or have feeling of committing suicide.",
-      "facilitator_text_1": "<span><b>You can also see Social Welfare Officer</b></span><span> in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:<br/><br/>* Ten Cell leaders<br/>* Street Local Government leader/Chairperson<br/>* Police Gender Desk for GBV </span>"
+      "facilitator_text_1": "**You can also see Social Welfare Officer** in Municipality or Ward office that is within the area of your residence or Community Development Officer in your District/Ward in absence of Social Welfare officer. In addition, you can see local Government leader of your place of stay and these are:\n- Ten Cell leaders\n- Street Local Government leader/Chairperson\n- Police Gender Desk for GBV"
     },
     {
       "id": "kinondoni_org",
+      "image_asset": "images/support/list_org_kinondoni.svg",
       "image_1_asset": "images/icons/cellphone.svg",
       "phone_no_1": "Call 0222773038",
       "image_2_asset": "images/icons/cellphone.svg",

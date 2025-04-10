@@ -79,6 +79,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "article_care_relax_18",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_create_relax_17",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -104,7 +109,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_care_relax_18",
+      "flow_name": "article_reflect_@gen.relax_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

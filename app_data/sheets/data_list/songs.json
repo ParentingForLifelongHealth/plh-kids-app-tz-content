@@ -7,6 +7,10 @@
     {
       "id": "maua_mazuri",
       "media_asset": "audio/songs/maua_mazuri.mp4",
+      "tag_list": [
+        "plant"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Maua Mazuri",
       "_translations": {
         "title": {}
@@ -20,6 +24,10 @@
     {
       "id": "bilinge_bayoyo",
       "media_asset": "audio/songs/bilinge_bayoyo.mp4",
+      "tag_list": [
+        "fun"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Bilinge Bayoyo",
       "_translations": {
         "title": {}
@@ -33,6 +41,10 @@
     {
       "id": "napenda_namba",
       "media_asset": "audio/songs/napenda_kuhesabu_namba.mp4",
+      "tag_list": [
+        "counting"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Napenda Kuhesabu Namba",
       "_translations": {
         "title": {}
@@ -46,6 +58,10 @@
     {
       "id": "mabata_madogo",
       "media_asset": "audio/songs/mabata_madogo.mp4",
+      "tag_list": [
+        "animal"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Mabata Madogo",
       "_translations": {
         "title": {}
@@ -59,6 +75,10 @@
     {
       "id": "ukuti_ukuti",
       "media_asset": "audio/songs/ukuti_ukuti.mp3",
+      "tag_list": [
+        "child_care"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Ukuti Ukuti",
       "_translations": {
         "title": {}
@@ -72,6 +92,10 @@
     {
       "id": "yai_bovu",
       "media_asset": "audio/songs/yai_bovu.mp3",
+      "tag_list": [
+        "fun"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Yai Bovu",
       "_translations": {
         "title": {}
@@ -83,8 +107,12 @@
       }
     },
     {
-      "id": "watoto_wangu eh",
+      "id": "watoto_wangu",
       "media_asset": "audio/songs/watoto_wangu_ehh.mp3",
+      "tag_list": [
+        "child_care"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Watoto Wangu eh",
       "_translations": {
         "title": {}
@@ -98,6 +126,10 @@
     {
       "id": "ngozi_kenge",
       "media_asset": "audio/songs/ngozi_ya_kenge_2.mp3",
+      "tag_list": [
+        "animal"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Ngozi ya Kenge",
       "_translations": {
         "title": {}
@@ -111,6 +143,10 @@
     {
       "id": "mapera_mapera",
       "media_asset": "audio/songs/mapera_mapera.mp3",
+      "tag_list": [
+        "fun"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Mapera Mapera",
       "_translations": {
         "title": {}
@@ -124,6 +160,10 @@
     {
       "id": "kipepeo",
       "media_asset": "audio/songs/kipepeo.mp3",
+      "tag_list": [
+        "animal"
+      ],
+      "image_cover_asset": "images/songs.svg",
       "title": "Kipepeo",
       "_translations": {
         "title": {}

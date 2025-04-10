@@ -46,6 +46,11 @@
       "flow_name": "module_play_congrats",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "module_talk_congrats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }
