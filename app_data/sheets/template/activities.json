@@ -340,6 +340,7 @@
               "_translations": {
                 "value": {}
               },
+              "condition": false,
               "_nested_name": "display_grid.loop_activities.debug_@item.id",
               "_dynamicFields": {
                 "name": [
@@ -392,6 +393,7 @@
               "_translations": {
                 "value": {}
               },
+              "condition": false,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.has_selected_tag",
               "_dynamicFields": {
@@ -460,6 +462,7 @@
                   "tz_sw": true
                 }
               },
+              "condition": false,
               "_nested_name": "display_grid.loop_activities.debug_2_@item.id",
               "_dynamicFields": {
                 "name": [
@@ -705,52 +708,6 @@
               }
             },
             {
-              "type": "text",
-              "name": "debug_title_translation_@item.id",
-              "value": "@item.title",
-              "_translations": {
-                "value": {}
-              },
-              "condition": false,
-              "exclude_from_translation": true,
-              "_nested_name": "display_grid.loop_activities.debug_title_translation_@item.id",
-              "_dynamicFields": {
-                "name": [
-                  {
-                    "fullExpression": "debug_title_translation_@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ],
-                "value": [
-                  {
-                    "fullExpression": "@item.title",
-                    "matchedExpression": "@item.title",
-                    "type": "item",
-                    "fieldName": "title"
-                  }
-                ],
-                "_nested_name": [
-                  {
-                    "fullExpression": "display_grid.loop_activities.debug_title_translation_@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "name",
-                  "_nested_name"
-                ],
-                "@item.title": [
-                  "value"
-                ]
-              }
-            },
-            {
               "type": "button",
               "name": "card_@item.id",
               "value": "@item.title",
@@ -779,6 +736,7 @@
                 "variant": "card-portrait",
                 "image_asset": "@item.image_cover_asset"
               },
+              "condition": "!@local.select_tag || @local.activity_tag_list.includes(@local.select_tag)",
               "exclude_from_translation": true,
               "rows": [
                 {
@@ -1018,6 +976,26 @@
                     }
                   ]
                 },
+                "condition": [
+                  {
+                    "fullExpression": "!@local.select_tag || @local.activity_tag_list.includes(@local.select_tag)",
+                    "matchedExpression": "!@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  },
+                  {
+                    "fullExpression": "!@local.select_tag || @local.activity_tag_list.includes(@local.select_tag)",
+                    "matchedExpression": "@local.activity_tag_list.includes",
+                    "type": "local",
+                    "fieldName": "activity_tag_list"
+                  },
+                  {
+                    "fullExpression": "!@local.select_tag || @local.activity_tag_list.includes(@local.select_tag)",
+                    "matchedExpression": "@local.select_tag",
+                    "type": "local",
+                    "fieldName": "select_tag"
+                  }
+                ],
                 "_nested_name": [
                   {
                     "fullExpression": "display_grid.loop_activities.card_@item.id",
@@ -1052,6 +1030,15 @@
                 ],
                 "@item.image_cover_asset": [
                   "parameter_list.image_asset"
+                ],
+                "!@local.select_tag": [
+                  "condition"
+                ],
+                "@local.activity_tag_list.includes": [
+                  "condition"
+                ],
+                "@local.select_tag": [
+                  "condition"
                 ]
               }
             }
