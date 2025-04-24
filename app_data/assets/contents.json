@@ -771,8 +771,8 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
+    "md5Checksum": "df9c81f319411188b557a9430db42686",
+    "size_kb": 6.1
   },
   "images/backgrounds/map.jpg": {
     "md5Checksum": "8936cdd0159371d00dee68d582de1875",
@@ -3966,6 +3966,94 @@
     "md5Checksum": "8ab4e973a6cc1dae73c8b34411a7312c",
     "size_kb": 30.1
   },
+  "images/character/family_1_boy.svg": {
+    "md5Checksum": "aceff4ad93bab29d6cdadfdb749568ea",
+    "size_kb": 15.2
+  },
+  "images/character/family_1_dad.svg": {
+    "md5Checksum": "e903d0e6c24ca3ec1f3dc94a14c1fc98",
+    "size_kb": 20.8
+  },
+  "images/character/family_1_grandma.svg": {
+    "md5Checksum": "98b73ee08713b1363946245a6e81ce90",
+    "size_kb": 9.3
+  },
+  "images/character/family_1_mom.svg": {
+    "md5Checksum": "29ed83f4f97075ea3f6b304535ba6a52",
+    "size_kb": 9.3
+  },
+  "images/character/family_1_young_girl.svg": {
+    "md5Checksum": "2d928f517095617386eff0da8a259616",
+    "size_kb": 22.6
+  },
+  "images/character/family_2_baby.svg": {
+    "md5Checksum": "fd50562a13def7fb61ce4281f2189247",
+    "size_kb": 5.1
+  },
+  "images/character/family_2_boy.svg": {
+    "md5Checksum": "dd33203194cdffc9e2e5267647d6fe6c",
+    "size_kb": 7.7
+  },
+  "images/character/family_2_dad.svg": {
+    "md5Checksum": "19a0d8834af26d129cbc5776f0cf4e57",
+    "size_kb": 12.1
+  },
+  "images/character/family_2_mom.svg": {
+    "md5Checksum": "4962a5993e745beffb49c72b30668c99",
+    "size_kb": 24.4
+  },
+  "images/character/family_2_teen_girl.svg": {
+    "md5Checksum": "3448b253e0bcb6d36a95c2976e6a6693",
+    "size_kb": 33.1
+  },
+  "images/character/family_3_boy_wheelchair.svg": {
+    "md5Checksum": "6dfb37dc622c71e2fe67d60d51ae2324",
+    "size_kb": 6
+  },
+  "images/character/family_3_girl.svg": {
+    "md5Checksum": "e844c0a173b59bf9c82ccd62c947fd08",
+    "size_kb": 28.8
+  },
+  "images/character/family_3_grandma.svg": {
+    "md5Checksum": "b032a79f1a638dc0feac79b2bc9f4deb",
+    "size_kb": 22.7
+  },
+  "images/character/family_3_grandpa.svg": {
+    "md5Checksum": "f3fc40e6479f201609639bab0e42cdc3",
+    "size_kb": 18.5
+  },
+  "images/character/family_3_mom.svg": {
+    "md5Checksum": "2634bb963e4e5e0945bff09da7976690",
+    "size_kb": 24.8
+  },
+  "images/character/family_3_older_boy.svg": {
+    "md5Checksum": "0f4f55f76b555dc13413ed84d47a3740",
+    "size_kb": 12.9
+  },
+  "images/character/female_facilitator.svg": {
+    "md5Checksum": "9a01bbdf8d03c2dc9ec47a3d914a88fb",
+    "size_kb": 9.4
+  },
+  "images/character/female_facilitator_blue_circle.svg": {
+    "md5Checksum": "e84d79e595b5f1b0e4acc6ea3e6eb569",
+    "size_kb": 25
+  },
+  "images/character/male_facilitator.svg": {
+    "md5Checksum": "27bcddcebe14f753db04809e2087604e",
+    "size_kb": 7.4
+  },
+  "images/character/male_facilitator_blue_circle.svg": {
+    "md5Checksum": "9ee7ec35453ddee52cf81517c025bc3f",
+    "size_kb": 12.7
+  },
+  "images/character/nandi.png": {
+    "md5Checksum": "83855d4e837b44744d65e9aff97bf7a1",
+    "size_kb": 163
+  },
+  "images/character/nandi_mom.png": {
+    "md5Checksum": "73bb3e7d2d24e16369a1d10030344755",
+    "size_kb": 169.7
+  },
   "images/facilitator_face_man.svg": {
     "md5Checksum": "9c0e7ec5963308f57e06906182482884",
     "size_kb": 7.4
@@ -4890,17 +4978,57 @@
     "md5Checksum": "4e713c219b4d80ae7c55c879ae37987e",
     "size_kb": 136.9
   },
+  "images/modules/talk/talk_1.svg": {
+    "md5Checksum": "09c78c7d1d12b09c3e8c5dd79dfa74fc",
+    "size_kb": 491.8
+  },
+  "images/modules/talk/talk_10.svg": {
+    "md5Checksum": "2c7ae9bc35c1a9d46086ab90a57fd8c6",
+    "size_kb": 92.2
+  },
+  "images/modules/talk/talk_11.svg": {
+    "md5Checksum": "ce3342ffec361909307c9cbde5c5e429",
+    "size_kb": 76.8
+  },
+  "images/modules/talk/talk_12.svg": {
+    "md5Checksum": "fe851763234c64234603436b1a899d6b",
+    "size_kb": 51.6
+  },
+  "images/modules/talk/talk_2.svg": {
+    "md5Checksum": "e55365713913e5013a42764299b1c19f",
+    "size_kb": 724
+  },
+  "images/modules/talk/talk_3.svg": {
+    "md5Checksum": "f5257b92107d99e7f61c730bb3f67e28",
+    "size_kb": 164.5
+  },
+  "images/modules/talk/talk_4.svg": {
+    "md5Checksum": "e292c7fb9b449911beaa4c6ac374c65c",
+    "size_kb": 404.7
+  },
+  "images/modules/talk/talk_5.svg": {
+    "md5Checksum": "3cb0288456c94370059638b046f18439",
+    "size_kb": 364.3
+  },
+  "images/modules/talk/talk_6.svg": {
+    "md5Checksum": "e371ded95ecc30816dd20f603aeaa7ab",
+    "size_kb": 358
+  },
+  "images/modules/talk/talk_7.svg": {
+    "md5Checksum": "2999b3c31cbb5714fd81e664249e20f9",
+    "size_kb": 701.9
+  },
+  "images/modules/talk/talk_8.svg": {
+    "md5Checksum": "ee59f1dce118f46805868c7b1830cab4",
+    "size_kb": 405.3
+  },
+  "images/modules/talk/talk_9.svg": {
+    "md5Checksum": "ddd4ebec436e49e68848a909b2aa0d04",
+    "size_kb": 398.3
+  },
   "images/orli/additional Information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
     "size_kb": 29.2
-  },
-  "images/orli/female facilitator blue circle.svg": {
-    "md5Checksum": "e84d79e595b5f1b0e4acc6ea3e6eb569",
-    "size_kb": 25
-  },
-  "images/orli/male facilitator blue circle.svg": {
-    "md5Checksum": "9ee7ec35453ddee52cf81517c025bc3f",
-    "size_kb": 12.7
   },
   "images/orli/title images_5.svg": {
     "md5Checksum": "85b799f25ae17ab905bb284f7c182322",

@@ -4,70 +4,11 @@
   "status": "released",
   "rows": [
     {
-      "name": "book_id",
-      "value": "who_took_my_shoe",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "book_id"
-    },
-    {
-      "name": "book_concat",
-      "value": "books.@local.book_id",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "book_concat",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "books.@local.book_id",
-            "matchedExpression": "@local.book_id",
-            "type": "local",
-            "fieldName": "book_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.book_id": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "book_data",
-      "value": "@data.@local.book_concat",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "book_data",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@data.@local.book_concat",
-            "matchedExpression": "@local.book_concat",
-            "type": "local",
-            "fieldName": "book_concat"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.book_concat": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "title",
       "name": "favourite",
-      "value": "My Favourite Books",
+      "value": "My Favourites",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "favourite"
     },
@@ -91,6 +32,97 @@
       "_nested_name": "favourite_checked_image_asset"
     },
     {
+      "name": "data_list",
+      "value": "books",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "data_list"
+    },
+    {
+      "name": "fav_count",
+      "type": "set_variable",
+      "_nested_name": "fav_count"
+    },
+    {
+      "type": "data_items",
+      "name": "compute_fav_count",
+      "value": "@local.data_list",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "fav_count",
+            "@items.length"
+          ],
+          "_raw": "data_changed | set_local : fav_count : @items.length",
+          "_cleaned": "data_changed | set_local : fav_count : @items.length"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.favourite"
+      },
+      "_nested_name": "compute_fav_count",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data_list",
+            "matchedExpression": "@local.data_list",
+            "type": "local",
+            "fieldName": "data_list"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.favourite",
+              "matchedExpression": "@item.favourite",
+              "type": "item",
+              "fieldName": "favourite"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.data_list": [
+          "value"
+        ],
+        "@item.favourite": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "disclaimer_text",
+      "value": "Add your favourite Books to your list so you can easily find and enjoy them anytime!",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.fav_count === 0",
+      "_nested_name": "disclaimer_text",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.fav_count === 0",
+            "matchedExpression": "@local.fav_count",
+            "type": "local",
+            "fieldName": "fav_count"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.fav_count": [
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "display_grid",
       "name": "display_grid",
       "value": "all",
@@ -101,10 +133,85 @@
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "items",
+          "type": "data_items",
           "name": "loop_activities",
-          "value": "@data.books",
+          "value": "@local.data_list",
           "rows": [
+            {
+              "name": "data_list_in_loop",
+              "value": "books",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.data_list_in_loop"
+            },
+            {
+              "name": "go_to_template_prefix",
+              "value": "book_cover_",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.go_to_template_prefix"
+            },
+            {
+              "name": "activity_id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.activity_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "go_to_template",
+              "value": "@local.go_to_template_prefix@local.activity_id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.go_to_template",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.go_to_template_prefix@local.activity_id",
+                    "matchedExpression": "@local.go_to_template_prefix",
+                    "type": "local",
+                    "fieldName": "go_to_template_prefix"
+                  },
+                  {
+                    "fullExpression": "@local.go_to_template_prefix@local.activity_id",
+                    "matchedExpression": "@local.activity_id",
+                    "type": "local",
+                    "fieldName": "activity_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.go_to_template_prefix": [
+                  "value"
+                ],
+                "@local.activity_id": [
+                  "value"
+                ]
+              }
+            },
             {
               "name": "join",
               "value": "_",
@@ -149,7 +256,7 @@
             },
             {
               "name": "click_history_field_name",
-              "value": "books@local.join@item.id@local.click_history",
+              "value": "activity@local.join@item.id@local.click_history",
               "_translations": {
                 "value": {}
               },
@@ -158,19 +265,19 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "books@local.join@item.id@local.click_history",
+                    "fullExpression": "activity@local.join@item.id@local.click_history",
                     "matchedExpression": "@local.join",
                     "type": "local",
                     "fieldName": "join"
                   },
                   {
-                    "fullExpression": "books@local.join@item.id@local.click_history",
+                    "fullExpression": "activity@local.join@item.id@local.click_history",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
                   },
                   {
-                    "fullExpression": "books@local.join@item.id@local.click_history",
+                    "fullExpression": "activity@local.join@item.id@local.click_history",
                     "matchedExpression": "@local.click_history",
                     "type": "local",
                     "fieldName": "click_history"
@@ -335,23 +442,23 @@
                   "trigger": "click",
                   "action_id": "go_to",
                   "args": [
-                    "book_cover_@local.book_data.id"
+                    "@local.go_to_template"
                   ],
-                  "_raw": "click | go_to: book_cover_@local.book_data.id",
-                  "_cleaned": "click | go_to: book_cover_@local.book_data.id"
+                  "_raw": "click | go_to: @local.go_to_template",
+                  "_cleaned": "click | go_to: @local.go_to_template"
                 }
               ],
               "parameter_list": {
                 "variant": "card-portrait",
                 "image_asset": "@item.image_cover_asset"
               },
-              "condition": "@fields.@local.book_data.favourite_field",
+              "condition": "@item.favourite",
               "exclude_from_translation": true,
               "rows": [
                 {
                   "type": "toggle_bar",
                   "name": "toggle_@item.id",
-                  "value": "@fields.@local.book_data.favourite_field",
+                  "value": "@item.favourite",
                   "_translations": {
                     "value": {}
                   },
@@ -385,10 +492,10 @@
                     ],
                     "value": [
                       {
-                        "fullExpression": "@fields.@local.book_data.favourite_field",
-                        "matchedExpression": "@local.book_data.favourite_field",
-                        "type": "local",
-                        "fieldName": "book_data"
+                        "fullExpression": "@item.favourite",
+                        "matchedExpression": "@item.favourite",
+                        "type": "item",
+                        "fieldName": "favourite"
                       }
                     ],
                     "action_list": {
@@ -459,7 +566,7 @@
                       "name",
                       "_nested_name"
                     ],
-                    "@local.book_data.favourite_field": [
+                    "@item.favourite": [
                       "value"
                     ],
                     "!@item.favourite": [
@@ -550,27 +657,27 @@
                     "args": {
                       "0": [
                         {
-                          "fullExpression": "book_cover_@local.book_data.id",
-                          "matchedExpression": "@local.book_data.id",
+                          "fullExpression": "@local.go_to_template",
+                          "matchedExpression": "@local.go_to_template",
                           "type": "local",
-                          "fieldName": "book_data"
+                          "fieldName": "go_to_template"
                         }
                       ]
                     },
                     "_raw": [
                       {
-                        "fullExpression": "click | go_to: book_cover_@local.book_data.id",
-                        "matchedExpression": "@local.book_data.id",
+                        "fullExpression": "click | go_to: @local.go_to_template",
+                        "matchedExpression": "@local.go_to_template",
                         "type": "local",
-                        "fieldName": "book_data"
+                        "fieldName": "go_to_template"
                       }
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | go_to: book_cover_@local.book_data.id",
-                        "matchedExpression": "@local.book_data.id",
+                        "fullExpression": "click | go_to: @local.go_to_template",
+                        "matchedExpression": "@local.go_to_template",
                         "type": "local",
-                        "fieldName": "book_data"
+                        "fieldName": "go_to_template"
                       }
                     ]
                   }
@@ -587,10 +694,10 @@
                 },
                 "condition": [
                   {
-                    "fullExpression": "@fields.@local.book_data.favourite_field",
-                    "matchedExpression": "@local.book_data.favourite_field",
-                    "type": "local",
-                    "fieldName": "book_data"
+                    "fullExpression": "@item.favourite",
+                    "matchedExpression": "@item.favourite",
+                    "type": "item",
+                    "fieldName": "favourite"
                   }
                 ],
                 "_nested_name": [
@@ -620,7 +727,7 @@
                   "action_list.0._raw",
                   "action_list.0._cleaned"
                 ],
-                "@local.book_data.id": [
+                "@local.go_to_template": [
                   "action_list.1.args.0",
                   "action_list.1._raw",
                   "action_list.1._cleaned"
@@ -628,7 +735,7 @@
                 "@item.image_cover_asset": [
                   "parameter_list.image_asset"
                 ],
-                "@local.book_data.favourite_field": [
+                "@item.favourite": [
                   "condition"
                 ]
               }
@@ -638,15 +745,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@data.books",
-                "matchedExpression": "@data.books",
-                "type": "data",
-                "fieldName": "books"
+                "fullExpression": "@local.data_list",
+                "matchedExpression": "@local.data_list",
+                "type": "local",
+                "fieldName": "data_list"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@data.books": [
+            "@local.data_list": [
               "value"
             ]
           }

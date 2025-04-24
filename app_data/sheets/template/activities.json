@@ -16,6 +16,15 @@
       "_nested_name": "activity"
     },
     {
+      "name": "fav_page",
+      "value": "fav_relax",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "fav_page"
+    },
+    {
       "type": "title",
       "name": "title",
       "value": "@local.activity",
@@ -79,10 +88,10 @@
           "trigger": "click",
           "action_id": "go_to",
           "args": [
-            "favourite_page"
+            "@local.fav_page"
           ],
-          "_raw": "click |  go_to: favourite_page",
-          "_cleaned": "click |  go_to: favourite_page"
+          "_raw": "click |  go_to: @local.fav_page",
+          "_cleaned": "click |  go_to: @local.fav_page"
         }
       ],
       "parameter_list": {
@@ -100,6 +109,36 @@
             "fieldName": "favourite"
           }
         ],
+        "action_list": {
+          "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "@local.fav_page",
+                  "matchedExpression": "@local.fav_page",
+                  "type": "local",
+                  "fieldName": "fav_page"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click |  go_to: @local.fav_page",
+                "matchedExpression": "@local.fav_page",
+                "type": "local",
+                "fieldName": "fav_page"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click |  go_to: @local.fav_page",
+                "matchedExpression": "@local.fav_page",
+                "type": "local",
+                "fieldName": "fav_page"
+              }
+            ]
+          }
+        },
         "parameter_list": {
           "title": [
             {
@@ -123,6 +162,11 @@
         "@local.favourite": [
           "value",
           "parameter_list.title"
+        ],
+        "@local.fav_page": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
         ],
         "@local.favourite_image_asset": [
           "parameter_list.image"

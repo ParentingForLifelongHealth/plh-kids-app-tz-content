@@ -9,6 +9,15 @@
       "value": "activities",
       "rows": [
         {
+          "name": "fav_page",
+          "value": "fav_songs",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activities.fav_page"
+        },
+        {
           "name": "activity",
           "value": "Songs",
           "_translations": {

@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 53
+        "count": 54
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 24
+        "count": 31
       },
       {
         "type": "debug_toggle",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_grid",
-        "count": 5
+        "count": 7
       },
       {
         "type": "display_group",
@@ -59,7 +59,7 @@
       },
       {
         "type": "items",
-        "count": 18
+        "count": 17
       },
       {
         "type": "lottie_animation",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1639
+        "count": 1710
       },
       {
         "type": "simple_checkbox",
@@ -119,11 +119,11 @@
       },
       {
         "type": "template",
-        "count": 478
+        "count": 497
       },
       {
         "type": "text",
-        "count": 115
+        "count": 120
       },
       {
         "type": "text_area",
@@ -139,11 +139,11 @@
       },
       {
         "type": "title",
-        "count": 48
+        "count": 50
       },
       {
         "type": "toggle_bar",
-        "count": 5
+        "count": 6
       },
       {
         "type": "update_action_list",
@@ -171,7 +171,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 392
+        "count": 411
       },
       {
         "type": "emit: force_reload",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 394
+        "count": 413
       },
       {
         "type": "feedback",
@@ -203,7 +203,7 @@
       },
       {
         "type": "go_to",
-        "count": 20
+        "count": 21
       },
       {
         "type": "nav",
@@ -227,15 +227,15 @@
       },
       {
         "type": "set_field",
-        "count": 31
+        "count": 30
       },
       {
         "type": "set_item",
-        "count": 15
+        "count": 17
       },
       {
         "type": "set_local",
-        "count": 16
+        "count": 20
       },
       {
         "type": "task",
@@ -251,13 +251,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "81969 KB",
-        "MB": "82 MB"
+        "KB": "82630 KB",
+        "MB": "82.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "2429 KB",
-        "MB": "2.4 MB"
+        "KB": "6625 KB",
+        "MB": "6.6 MB"
       }
     ]
   },
@@ -289,7 +289,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
       },
       {
         "path": "images/backgrounds/map.jpg",
@@ -484,16 +484,56 @@
         "size_kb": 1.8
       },
       {
+        "path": "images/modules/talk/talk_1.svg",
+        "size_kb": 491.8
+      },
+      {
+        "path": "images/modules/talk/talk_10.svg",
+        "size_kb": 92.2
+      },
+      {
+        "path": "images/modules/talk/talk_11.svg",
+        "size_kb": 76.8
+      },
+      {
+        "path": "images/modules/talk/talk_12.svg",
+        "size_kb": 51.6
+      },
+      {
+        "path": "images/modules/talk/talk_2.svg",
+        "size_kb": 724
+      },
+      {
+        "path": "images/modules/talk/talk_3.svg",
+        "size_kb": 164.5
+      },
+      {
+        "path": "images/modules/talk/talk_4.svg",
+        "size_kb": 404.7
+      },
+      {
+        "path": "images/modules/talk/talk_5.svg",
+        "size_kb": 364.3
+      },
+      {
+        "path": "images/modules/talk/talk_6.svg",
+        "size_kb": 358
+      },
+      {
+        "path": "images/modules/talk/talk_7.svg",
+        "size_kb": 701.9
+      },
+      {
+        "path": "images/modules/talk/talk_8.svg",
+        "size_kb": 405.3
+      },
+      {
+        "path": "images/modules/talk/talk_9.svg",
+        "size_kb": 398.3
+      },
+      {
         "path": "images/orli/additional Information.svg",
         "size_kb": 29.2
-      },
-      {
-        "path": "images/orli/female facilitator blue circle.svg",
-        "size_kb": 25
-      },
-      {
-        "path": "images/orli/male facilitator blue circle.svg",
-        "size_kb": 12.7
       },
       {
         "path": "images/orli/title images_5.svg",
@@ -5870,6 +5910,116 @@
         "size_kb": 30.1
       },
       {
+        "path": "images/character/family_1_boy.svg",
+        "count": 1,
+        "size_kb": 15.2
+      },
+      {
+        "path": "images/character/family_1_dad.svg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "images/character/family_1_grandma.svg",
+        "count": 1,
+        "size_kb": 9.3
+      },
+      {
+        "path": "images/character/family_1_mom.svg",
+        "count": 1,
+        "size_kb": 9.3
+      },
+      {
+        "path": "images/character/family_1_young_girl.svg",
+        "count": 1,
+        "size_kb": 22.6
+      },
+      {
+        "path": "images/character/family_2_baby.svg",
+        "count": 1,
+        "size_kb": 5.1
+      },
+      {
+        "path": "images/character/family_2_boy.svg",
+        "count": 1,
+        "size_kb": 7.7
+      },
+      {
+        "path": "images/character/family_2_dad.svg",
+        "count": 1,
+        "size_kb": 12.1
+      },
+      {
+        "path": "images/character/family_2_mom.svg",
+        "count": 1,
+        "size_kb": 24.4
+      },
+      {
+        "path": "images/character/family_2_teen_girl.svg",
+        "count": 1,
+        "size_kb": 33.1
+      },
+      {
+        "path": "images/character/family_3_boy_wheelchair.svg",
+        "count": 1,
+        "size_kb": 6
+      },
+      {
+        "path": "images/character/family_3_girl.svg",
+        "count": 1,
+        "size_kb": 28.8
+      },
+      {
+        "path": "images/character/family_3_grandma.svg",
+        "count": 1,
+        "size_kb": 22.7
+      },
+      {
+        "path": "images/character/family_3_grandpa.svg",
+        "count": 1,
+        "size_kb": 18.5
+      },
+      {
+        "path": "images/character/family_3_mom.svg",
+        "count": 1,
+        "size_kb": 24.8
+      },
+      {
+        "path": "images/character/family_3_older_boy.svg",
+        "count": 1,
+        "size_kb": 12.9
+      },
+      {
+        "path": "images/character/female_facilitator.svg",
+        "count": 1,
+        "size_kb": 9.4
+      },
+      {
+        "path": "images/character/female_facilitator_blue_circle.svg",
+        "count": 1,
+        "size_kb": 25
+      },
+      {
+        "path": "images/character/male_facilitator.svg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "images/character/male_facilitator_blue_circle.svg",
+        "count": 1,
+        "size_kb": 12.7
+      },
+      {
+        "path": "images/character/nandi.png",
+        "count": 1,
+        "size_kb": 163
+      },
+      {
+        "path": "images/character/nandi_mom.png",
+        "count": 1,
+        "size_kb": 169.7
+      },
+      {
         "path": "images/facilitator_face_man.svg",
         "count": 7,
         "size_kb": 7.4
@@ -5946,12 +6096,12 @@
       },
       {
         "path": "images/icons/fine_heart.svg",
-        "count": 4,
+        "count": 5,
         "size_kb": 1.2
       },
       {
         "path": "images/icons/full_heart.svg",
-        "count": 4,
+        "count": 5,
         "size_kb": 0.7
       },
       {
@@ -7021,7 +7171,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 27
+        "total": 28
       },
       {
         "type": "global",
@@ -7036,12 +7186,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 79
+        "total": 80
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 392
+        "total": 411
       },
       {
         "type": "template",
