@@ -283,92 +283,98 @@
         "text_1_facilitator": {
           "eng": "Here’s an example of how to use words in a positive and helpful way:"
         },
-        "image_text": {
-          "eng": "Father: I am going to put Baby down for his nap. (Mother and child name), please can you keep the house quiet so that Baby can fall asleep."
+        "character_1_text": {
+          "eng": "I am going to put @data.characters.f1_baby_boy.name down for his nap. @data.characters.f1_mother.name and @data.characters.f1_child_boy.name, please can you keep the house quiet so that @data.characters.f1_baby_boy.name can fall asleep."
         }
       },
       "category_id": "power_talk",
       "image_asset": "(orli)",
-      "image_text": "Father: I am going to put Baby down for his nap. (Mother and child name), please can you keep the house quiet so that Baby can fall asleep.",
-      "_translations": {
-        "image_text": {},
-        "text_1_facilitator": {}
-      },
       "text_1_facilitator": "Here’s an example of how to use words in a positive and helpful way:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "character_1_id": "f1_father",
+      "character_1_text": "I am going to put @data.characters.f1_baby_boy.name down for his nap. @data.characters.f1_mother.name and @data.characters.f1_child_boy.name, please can you keep the house quiet so that @data.characters.f1_baby_boy.name can fall asleep.",
       "completed": false
     },
     {
       "id": "the_power_of_talk_2",
       "_translatedFields": {
-        "image_text": {
-          "eng": "Boy: (plays with instrument = makes loud noises)"
+        "character_1_text": {
+          "eng": "(plays with instrument = makes loud noises)"
         }
       },
       "category_id": "power_talk",
       "image_asset": "(orli)",
-      "image_text": "Boy: (plays with instrument = makes loud noises)",
+      "character_1_id": "f1_child_boy",
+      "character_1_text": "(plays with instrument = makes loud noises)",
       "_translations": {
-        "image_text": {}
+        "character_1_text": {}
       },
       "completed": false
     },
     {
       "id": "the_power_of_talk_3",
       "_translatedFields": {
-        "text_2": {
-          "eng": "Mother: xx, remember that Father is putting down Baby for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”"
+        "character_1_text": {
+          "eng": "xx, remember that @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your @data.characters.f1_baby_boy.name won’t fall asleep. So please play a quiet game.”"
         }
       },
       "category_id": "power_talk",
       "image_asset": "(orli)",
-      "text_2": "Mother: xx, remember that Father is putting down Baby for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”",
+      "character_1_id": "f1_mother",
+      "character_1_text": "xx, remember that @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your @data.characters.f1_baby_boy.name won’t fall asleep. So please play a quiet game.”",
       "_translations": {
-        "text_2": {}
+        "character_1_text": {}
       },
       "completed": false
     },
     {
       "id": "the_power_of_talk_4",
       "_translatedFields": {
-        "image_text": {
-          "eng": "Mother: “If you play a quiet game now, your brother will fall asleep easier. Once he is asleep, Father and I can then play a game with you.”"
+        "character_1_text": {
+          "eng": "“If you play a quiet game now, your @data.characters.f1_baby_boy.name will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”"
         }
       },
       "category_id": "power_talk",
       "image_asset": "(orli)",
-      "image_text": "Mother: “If you play a quiet game now, your brother will fall asleep easier. Once he is asleep, Father and I can then play a game with you.”",
+      "character_1_id": "f1_mother",
+      "character_1_text": "“If you play a quiet game now, your @data.characters.f1_baby_boy.name will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”",
       "_translations": {
-        "image_text": {}
+        "character_1_text": {}
       },
       "completed": false
     },
     {
       "id": "the_power_of_talk_5",
       "_translatedFields": {
-        "image_text": {
-          "eng": "Mother: What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!"
+        "character_1_text": {
+          "eng": "What a good idea to play with the blocks instead. Well done for playing quietly so that your @data.characters.f1_baby_boy.name can fall asleep!"
         }
       },
       "category_id": "power_talk",
       "image_asset": "(orli)",
-      "image_text": "Mother: What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!",
+      "character_1_id": "f1_mother",
+      "character_1_text": "What a good idea to play with the blocks instead. Well done for playing quietly so that your @data.characters.f1_baby_boy.name can fall asleep!",
       "_translations": {
-        "image_text": {}
+        "character_1_text": {}
       },
       "completed": false
     },
     {
       "id": "the_power_of_talk_6",
       "_translatedFields": {
-        "image_text": {
-          "eng": "Father: “Thank you for being so quiet! Now we can play something fun together. What would you like to build?”"
+        "character_1_text": {
+          "eng": "“Thank you for being so quiet! Now we can play something fun together. What would you like to build?”"
         }
       },
       "category_id": "power_talk",
       "image_asset": "(orli)",
-      "image_text": "Father: “Thank you for being so quiet! Now we can play something fun together. What would you like to build?”",
+      "character_1_id": "f1_father",
+      "character_1_text": "“Thank you for being so quiet! Now we can play something fun together. What would you like to build?”",
       "_translations": {
-        "image_text": {}
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -529,130 +535,6 @@
         "text_1": {}
       },
       "image_asset": "https://drive.google.com/file/d/10Fd9YPYwUrp1gkRmOdyzG2nhFacSPbHC/view?usp=share_link",
-      "completed": false
-    },
-    {
-      "id": "id_20",
-      "completed": false
-    },
-    {
-      "id": "id_21",
-      "completed": false
-    },
-    {
-      "id": "id_22",
-      "completed": false
-    },
-    {
-      "id": "id_23",
-      "completed": false
-    },
-    {
-      "id": "id_24",
-      "completed": false
-    },
-    {
-      "id": "id_25",
-      "completed": false
-    },
-    {
-      "id": "id_26",
-      "completed": false
-    },
-    {
-      "id": "id_27",
-      "completed": false
-    },
-    {
-      "id": "id_28",
-      "completed": false
-    },
-    {
-      "id": "id_29",
-      "completed": false
-    },
-    {
-      "id": "id_30",
-      "completed": false
-    },
-    {
-      "id": "id_31",
-      "completed": false
-    },
-    {
-      "id": "id_32",
-      "completed": false
-    },
-    {
-      "id": "id_33",
-      "completed": false
-    },
-    {
-      "id": "id_34",
-      "completed": false
-    },
-    {
-      "id": "id_35",
-      "completed": false
-    },
-    {
-      "id": "id_36",
-      "completed": false
-    },
-    {
-      "id": "id_37",
-      "completed": false
-    },
-    {
-      "id": "id_38",
-      "completed": false
-    },
-    {
-      "id": "id_39",
-      "completed": false
-    },
-    {
-      "id": "id_40",
-      "completed": false
-    },
-    {
-      "id": "id_41",
-      "completed": false
-    },
-    {
-      "id": "id_42",
-      "completed": false
-    },
-    {
-      "id": "id_43",
-      "completed": false
-    },
-    {
-      "id": "id_44",
-      "completed": false
-    },
-    {
-      "id": "id_45",
-      "completed": false
-    },
-    {
-      "id": "id_46",
-      "completed": false
-    },
-    {
-      "id": "id_47",
-      "completed": false
-    },
-    {
-      "id": "id_48",
-      "completed": false
-    },
-    {
-      "id": "id_49",
-      "completed": false
-    },
-    {
-      "id": "id_50",
       "completed": false
     }
   ],

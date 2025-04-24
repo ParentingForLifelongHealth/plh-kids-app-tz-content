@@ -48,7 +48,12 @@
       "flow_type": "data_list",
       "flow_name": "characters",
       "data_list_name": "characters",
-      "_xlsxPath": "modules/TZ characters.xlsx"
+      "_xlsxPath": "modules/TZ characters.xlsx",
+      "_metadata": {
+        "family_no": {
+          "type": "number"
+        }
+      }
     },
     "check_in": {
       "flow_type": "data_list",
@@ -2859,6 +2864,114 @@
           "flow_type": "template"
         }
       ]
+    },
+    "talk_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "talk_article_gen",
+      "parameter_list": {
+        "input_data_list": "talk_articles",
+        "output_flow_name": "article_talk_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ articles template generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_talk_why_talk_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_why_talk_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_why_talk_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_how_to_talk_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_how_to_talk_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_how_to_talk_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_the_power_of_talk_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_the_power_of_talk_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_the_power_of_talk_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_the_power_of_talk_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_the_power_of_talk_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_the_power_of_talk_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_the_power_of_talk_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_using_books_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_using_books_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_using_books_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_using_books_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_using_books_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_talk_practice_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
     }
   },
   "global": {
@@ -2929,11 +3042,6 @@
       "flow_name": "article_with_facilitator",
       "_xlsxPath": "modules/TZ articles template generators.xlsx"
     },
-    "book_button": {
-      "flow_type": "template",
-      "flow_name": "book_button",
-      "_xlsxPath": "books/library_page.xlsx"
-    },
     "book_cover": {
       "flow_type": "template",
       "flow_name": "book_cover",
@@ -2997,10 +3105,20 @@
       "flow_name": "fav_books",
       "_xlsxPath": "books/library_page.xlsx"
     },
-    "favourite_page": {
+    "fav_play": {
       "flow_type": "template",
-      "flow_name": "favourite_page",
+      "flow_name": "fav_play",
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
+    },
+    "fav_relax": {
+      "flow_type": "template",
+      "flow_name": "fav_relax",
       "Comments": "to be generalised",
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
+    },
+    "fav_songs": {
+      "flow_type": "template",
+      "flow_name": "fav_songs",
       "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
     },
     "feedback": {
@@ -3698,8 +3816,103 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_talk_how_to_talk_1": {
+      "flow_name": "article_talk_how_to_talk_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_how_to_talk_2": {
+      "flow_name": "article_talk_how_to_talk_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_how_to_talk_3": {
+      "flow_name": "article_talk_how_to_talk_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_practice_1": {
+      "flow_name": "article_talk_practice_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_talk_relax_2": {
       "flow_name": "article_talk_relax_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_the_power_of_talk_1": {
+      "flow_name": "article_talk_the_power_of_talk_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_the_power_of_talk_2": {
+      "flow_name": "article_talk_the_power_of_talk_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_the_power_of_talk_3": {
+      "flow_name": "article_talk_the_power_of_talk_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_the_power_of_talk_4": {
+      "flow_name": "article_talk_the_power_of_talk_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_the_power_of_talk_5": {
+      "flow_name": "article_talk_the_power_of_talk_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_the_power_of_talk_6": {
+      "flow_name": "article_talk_the_power_of_talk_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_the_power_of_talk_7": {
+      "flow_name": "article_talk_the_power_of_talk_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_using_books_1": {
+      "flow_name": "article_talk_using_books_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_using_books_2": {
+      "flow_name": "article_talk_using_books_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_using_books_3": {
+      "flow_name": "article_talk_using_books_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_using_books_4": {
+      "flow_name": "article_talk_using_books_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_using_books_5": {
+      "flow_name": "article_talk_using_books_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_why_talk_1": {
+      "flow_name": "article_talk_why_talk_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_why_talk_2": {
+      "flow_name": "article_talk_why_talk_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_talk_why_talk_3": {
+      "flow_name": "article_talk_why_talk_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

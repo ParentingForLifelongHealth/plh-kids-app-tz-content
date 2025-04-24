@@ -9,15 +9,15 @@
 | apple_sign_in_button | 1 |
 | audio | 11 |
 | begin_display_group | 1 |
-| button | 53 |
+| button | 54 |
 | combo_box | 7 |
-| data_items | 24 |
+| data_items | 31 |
 | debug_toggle | 1 |
-| display_grid | 5 |
+| display_grid | 7 |
 | display_group | 70 |
 | google_sign_in_button | 1 |
 | image | 33 |
-| items | 18 |
+| items | 17 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
 | nested_properties | 41 |
@@ -28,17 +28,17 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1639 |
+| set_variable | 1710 |
 | simple_checkbox | 1 |
 | task_card | 13 |
 | task_progress_bar | 3 |
-| template | 478 |
-| text | 115 |
+| template | 497 |
+| text | 120 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 9 |
-| title | 48 |
-| toggle_bar | 5 |
+| title | 50 |
+| toggle_bar | 6 |
 | update_action_list | 3 |
 | video | 3 |
 | youtube | 3 |
@@ -51,23 +51,23 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 392 |
+| emit: completed | 411 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 394 |
+| emit: uncompleted | 413 |
 | feedback | 13 |
-| go_to | 20 |
+| go_to | 21 |
 | nav | 1 |
 | nav_stack | 1 |
 | pop_up | 21 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 31 |
-| set_item | 15 |
-| set_local | 16 |
+| set_field | 30 |
+| set_item | 17 |
+| set_local | 20 |
 | task | 3 |
 | user | 2 |
 </details>
@@ -77,8 +77,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 81969 KB | 82 MB |
-| unused | 2429 KB | 2.4 MB |
+| total | 82630 KB | 82.6 MB |
+| unused | 6625 KB | 6.6 MB |
 </details>
 
 <details open>
@@ -94,7 +94,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
 | audio/modules/create/power_create_4.mp3 | 241.2 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/backgrounds/map.jpg | 85.1 |
 | images/icons/book_blue.svg | 0.8 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -143,9 +143,19 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/favicon.svg | 3.6 |
 | images/logos/plh_white.png | 12.8 |
 | images/modules/play/happy_emoji.svg | 1.8 |
+| images/modules/talk/talk_1.svg | 491.8 |
+| images/modules/talk/talk_10.svg | 92.2 |
+| images/modules/talk/talk_11.svg | 76.8 |
+| images/modules/talk/talk_12.svg | 51.6 |
+| images/modules/talk/talk_2.svg | 724 |
+| images/modules/talk/talk_3.svg | 164.5 |
+| images/modules/talk/talk_4.svg | 404.7 |
+| images/modules/talk/talk_5.svg | 364.3 |
+| images/modules/talk/talk_6.svg | 358 |
+| images/modules/talk/talk_7.svg | 701.9 |
+| images/modules/talk/talk_8.svg | 405.3 |
+| images/modules/talk/talk_9.svg | 398.3 |
 | images/orli/additional Information.svg | 29.2 |
-| images/orli/female facilitator blue circle.svg | 25 |
-| images/orli/male facilitator blue circle.svg | 12.7 |
 | images/orli/title images_5.svg | 154.6 |
 | images/orli/title images_6.svg | 41 |
 | images/orli/title images_7.svg | 341.3 |
@@ -1239,6 +1249,28 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/books/zibu_and_zizo/page7.jpg | 26.2 | 2 |
 | images/books/zibu_and_zizo/page8.jpg | 26.3 | 2 |
 | images/books/zibu_and_zizo/page9.jpg | 30.1 | 2 |
+| images/character/family_1_boy.svg | 15.2 | 1 |
+| images/character/family_1_dad.svg | 20.8 | 1 |
+| images/character/family_1_grandma.svg | 9.3 | 1 |
+| images/character/family_1_mom.svg | 9.3 | 1 |
+| images/character/family_1_young_girl.svg | 22.6 | 1 |
+| images/character/family_2_baby.svg | 5.1 | 1 |
+| images/character/family_2_boy.svg | 7.7 | 1 |
+| images/character/family_2_dad.svg | 12.1 | 1 |
+| images/character/family_2_mom.svg | 24.4 | 1 |
+| images/character/family_2_teen_girl.svg | 33.1 | 1 |
+| images/character/family_3_boy_wheelchair.svg | 6 | 1 |
+| images/character/family_3_girl.svg | 28.8 | 1 |
+| images/character/family_3_grandma.svg | 22.7 | 1 |
+| images/character/family_3_grandpa.svg | 18.5 | 1 |
+| images/character/family_3_mom.svg | 24.8 | 1 |
+| images/character/family_3_older_boy.svg | 12.9 | 1 |
+| images/character/female_facilitator.svg | 9.4 | 1 |
+| images/character/female_facilitator_blue_circle.svg | 25 | 1 |
+| images/character/male_facilitator.svg | 7.4 | 1 |
+| images/character/male_facilitator_blue_circle.svg | 12.7 | 1 |
+| images/character/nandi.png | 163 | 1 |
+| images/character/nandi_mom.png | 169.7 | 1 |
 | images/facilitator_face_man.svg | 7.4 | 7 |
 | images/facilitator_face_woman.svg | 17.5 | 3 |
 | images/flags/gb.svg | 0.5 | 2 |
@@ -1254,8 +1286,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/ok_face_new.svg | 0.5 | 21 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 21 |
 | images/icons/faces/valued.svg | 3.4 | 2 |
-| images/icons/fine_heart.svg | 1.2 | 4 |
-| images/icons/full_heart.svg | 0.7 | 4 |
+| images/icons/fine_heart.svg | 1.2 | 5 |
+| images/icons/full_heart.svg | 0.7 | 5 |
 | images/icons/house_blue.svg | 3 | 2 |
 | images/icons/in_progress.svg | 1.1 | 5 |
 | images/icons/jigsaw_blue.svg | 5.9 | 2 |
@@ -1475,10 +1507,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 3 |
 | data_pipe | generated | 9 |
-| generator |  | 27 |
+| generator |  | 28 |
 | global |  | 3 |
 | global | legal_terms | 1 |
-| template |  | 79 |
-| template | generated | 392 |
+| template |  | 80 |
+| template | generated | 411 |
 | template | legal_terms | 4 |
 </details>

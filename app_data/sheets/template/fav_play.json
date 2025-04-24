@@ -1,8 +1,7 @@
 {
   "flow_type": "template",
-  "flow_name": "favourite_page",
+  "flow_name": "fav_play",
   "status": "released",
-  "Comments": "to be generalised",
   "rows": [
     {
       "type": "title",
@@ -34,12 +33,94 @@
     },
     {
       "name": "data_list",
-      "value": "relax",
+      "value": "play",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
       "_nested_name": "data_list"
+    },
+    {
+      "name": "fav_count",
+      "type": "set_variable",
+      "_nested_name": "fav_count"
+    },
+    {
+      "type": "data_items",
+      "name": "compute_fav_count",
+      "value": "@local.data_list",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "fav_count",
+            "@items.length"
+          ],
+          "_raw": "data_changed | set_local : fav_count : @items.length",
+          "_cleaned": "data_changed | set_local : fav_count : @items.length"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.favourite"
+      },
+      "_nested_name": "compute_fav_count",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.data_list",
+            "matchedExpression": "@local.data_list",
+            "type": "local",
+            "fieldName": "data_list"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.favourite",
+              "matchedExpression": "@item.favourite",
+              "type": "item",
+              "fieldName": "favourite"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.data_list": [
+          "value"
+        ],
+        "@item.favourite": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "disclaimer_text",
+      "value": "Add your favourite Play activities to your list so you can easily find and enjoy them anytime!",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.fav_count === 0",
+      "_nested_name": "disclaimer_text",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.fav_count === 0",
+            "matchedExpression": "@local.fav_count",
+            "type": "local",
+            "fieldName": "fav_count"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.fav_count": [
+          "condition"
+        ]
+      }
     },
     {
       "type": "display_grid",
@@ -57,17 +138,35 @@
           "value": "@local.data_list",
           "rows": [
             {
-              "name": "go_to_template",
-              "value": "article_@item.id",
+              "name": "data_list_in_loop",
+              "value": "play",
               "_translations": {
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "display_grid.loop_activities.go_to_template",
+              "_nested_name": "display_grid.loop_activities.data_list_in_loop"
+            },
+            {
+              "name": "go_to_template_prefix",
+              "value": "play_",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.go_to_template_prefix"
+            },
+            {
+              "name": "activity_id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.activity_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "article_@item.id",
+                    "fullExpression": "@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -76,6 +175,39 @@
               },
               "_dynamicDependencies": {
                 "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "go_to_template",
+              "value": "@local.go_to_template_prefix@local.activity_id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "display_grid.loop_activities.go_to_template",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.go_to_template_prefix@local.activity_id",
+                    "matchedExpression": "@local.go_to_template_prefix",
+                    "type": "local",
+                    "fieldName": "go_to_template_prefix"
+                  },
+                  {
+                    "fullExpression": "@local.go_to_template_prefix@local.activity_id",
+                    "matchedExpression": "@local.activity_id",
+                    "type": "local",
+                    "fieldName": "activity_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.go_to_template_prefix": [
+                  "value"
+                ],
+                "@local.activity_id": [
                   "value"
                 ]
               }
