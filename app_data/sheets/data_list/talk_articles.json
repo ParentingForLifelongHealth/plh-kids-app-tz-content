@@ -7,7 +7,7 @@
     {
       "id": "why_talk_1",
       "category_id": "why_talk",
-      "image_asset": "https://drive.google.com/file/d/1hxX6dY47-UdinoIk3zMBvm-cSkn733Ne/view?usp=share_link",
+      "image_asset": "images/modules/connect/connect_1.svg",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1EMdlf-qT4qmlGM8cfiE5k24hyyjD4VWXayPdSxw_DrY",
       "text_1": "Children learn a lot from what we say, and how we say it. This week, we will look at the power of our words, and how we **TALK** to our children.",
@@ -35,7 +35,7 @@
     {
       "id": "why_talk_2",
       "category_id": "why_talk",
-      "image_asset": "https://drive.google.com/file/d/1AChd_1BtfhXx6FoAhyhrnDJlGFjbdZ6X/view?usp=share_link",
+      "image_asset": "images/modules/connect/connect_2.svg",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -56,7 +56,7 @@
     {
       "id": "why_talk_3",
       "category_id": "why_talk",
-      "image_asset": "https://drive.google.com/file/d/1PTDmIJzNkaxn9LuCly4i_VdOh9qDmIRT/view?usp=share_link",
+      "image_asset": "images/modules/connect/connect_3.gif",
       "media_type": "audio",
       "title": "The ParentApp Garden",
       "_translations": {
@@ -90,7 +90,7 @@
     {
       "id": "how_to_talk_1",
       "category_id": "how_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_1.svg",
       "media_type": "audio",
       "text_1_facilitator": "Here’s how to talk to your child:",
       "_translations": {
@@ -122,7 +122,7 @@
     {
       "id": "how_to_talk_2",
       "category_id": "how_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_2.svg",
       "media_type": "audio",
       "text_1": "**Explain WHY** \nThis helps your child understand cause and effect. It also helps them to follow instructions.",
       "_translations": {
@@ -149,7 +149,7 @@
     {
       "id": "how_to_talk_3",
       "category_id": "how_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_3.svg",
       "media_type": "audio",
       "text_1": "**TALK with kindness** \nUse your words to build your child up, not to break them down.",
       "_translations": {
@@ -176,7 +176,7 @@
     {
       "id": "the_power_of_talk_1",
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_4.svg",
       "character_1_id": "f1_father",
       "text_1_facilitator": "Here’s an example of how to use words in a positive and helpful way:",
       "_translations": {
@@ -196,67 +196,66 @@
     {
       "id": "the_power_of_talk_2",
       "category_id": "power_talk",
-      "image_asset": "(orli)",
-      "character_1_id": "f1_child_boy",
-      "character_1_text": "(plays with instrument = makes loud noises)",
+      "image_asset": "images/modules/talk/talk_5.svg",
+      "image_text": "(@data.characters.f1_baby_boy.name plays with instrument and makes loud noises)",
       "_translations": {
-        "character_1_text": {}
+        "image_text": {}
       },
       "_translatedFields": {
-        "character_1_text": {
-          "eng": "(plays with instrument = makes loud noises)"
+        "image_text": {
+          "eng": "(@data.characters.f1_baby_boy.name plays with instrument and makes loud noises)"
         }
       }
     },
     {
       "id": "the_power_of_talk_3",
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_6.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "xx, remember that @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your @data.characters.f1_baby_boy.name won’t fall asleep. So please play a quiet game.”",
+      "character_1_text": "xx, remember that your @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "xx, remember that @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your @data.characters.f1_baby_boy.name won’t fall asleep. So please play a quiet game.”"
+          "eng": "xx, remember that your @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”"
         }
       }
     },
     {
       "id": "the_power_of_talk_4",
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_7.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "“If you play a quiet game now, your @data.characters.f1_baby_boy.name will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”",
+      "character_1_text": "“If you play a quiet game now, your bother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "“If you play a quiet game now, your @data.characters.f1_baby_boy.name will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”"
+          "eng": "“If you play a quiet game now, your bother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”"
         }
       }
     },
     {
       "id": "the_power_of_talk_5",
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_8.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "What a good idea to play with the blocks instead. Well done for playing quietly so that your @data.characters.f1_baby_boy.name can fall asleep!",
+      "character_1_text": "What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "What a good idea to play with the blocks instead. Well done for playing quietly so that your @data.characters.f1_baby_boy.name can fall asleep!"
+          "eng": "What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!"
         }
       }
     },
     {
       "id": "the_power_of_talk_6",
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_9.svg",
       "character_1_id": "f1_father",
       "character_1_text": "“Thank you for being so quiet! Now we can play something fun together. What would you like to build?”",
       "_translations": {
@@ -337,7 +336,7 @@
     {
       "id": "using_books_3",
       "category_id": "books_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_10.svg",
       "media_type": "video",
       "media_asset": "https://drive.google.com/file/d/1pWNccBun0H3azChW1ITzOZPZ_xenGGfV/view?usp=share_link",
       "text_1": "**Ask questions**\n \nThis helps your child to talk about the pictures, and think about what is happening.",
@@ -365,7 +364,7 @@
     {
       "id": "using_books_4",
       "category_id": "books_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_11.svg",
       "section_1_image_asset": "https://drive.google.com/file/d/1gvZo3Dr_dSTGv_tEQG9WKIz8iR5yJzqN/view?usp=share_link",
       "text_1": "**Show your child you are listening.**\nThis will encourage your child to talk more.",
       "_translations": {
@@ -395,7 +394,7 @@
     {
       "id": "using_books_5",
       "category_id": "books_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_12.svg",
       "text_1": "Three easy ways to use book activities to talk:\n1. Name and describe what you see in the pictures\n2. Ask questions about the story\n3. Show your child you are listening\nRemember to talk with kindness. Avoid being critical or negative.",
       "_translations": {
         "text_1": {}
@@ -409,7 +408,7 @@
     {
       "id": "practice_1",
       "category_id": "practice",
-      "image_asset": "https://drive.google.com/file/d/10Fd9YPYwUrp1gkRmOdyzG2nhFacSPbHC/view?usp=share_link",
+      "image_asset": "images/modules/play/ready_to_practice.svg",
       "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Remember the power of your words. Talk with kindness.\n📖 Use book activities to talk, ask questions and interact with your child.\n😌 Talking about what causes us stress can be helpful. Reach out to someone you trust if you are feeling stressed.",
       "_translations": {
         "text_1": {}

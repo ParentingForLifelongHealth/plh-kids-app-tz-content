@@ -251,13 +251,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "82630 KB",
-        "MB": "82.6 MB"
+        "KB": "87018 KB",
+        "MB": "87 MB"
       },
       {
         "assets": "unused",
-        "KB": "6625 KB",
-        "MB": "6.6 MB"
+        "KB": "2236 KB",
+        "MB": "2.2 MB"
       }
     ]
   },
@@ -484,60 +484,8 @@
         "size_kb": 1.8
       },
       {
-        "path": "images/modules/talk/talk_1.svg",
-        "size_kb": 491.8
-      },
-      {
-        "path": "images/modules/talk/talk_10.svg",
-        "size_kb": 92.2
-      },
-      {
-        "path": "images/modules/talk/talk_11.svg",
-        "size_kb": 76.8
-      },
-      {
-        "path": "images/modules/talk/talk_12.svg",
-        "size_kb": 51.6
-      },
-      {
-        "path": "images/modules/talk/talk_2.svg",
-        "size_kb": 724
-      },
-      {
-        "path": "images/modules/talk/talk_3.svg",
-        "size_kb": 164.5
-      },
-      {
-        "path": "images/modules/talk/talk_4.svg",
-        "size_kb": 404.7
-      },
-      {
-        "path": "images/modules/talk/talk_5.svg",
-        "size_kb": 364.3
-      },
-      {
-        "path": "images/modules/talk/talk_6.svg",
-        "size_kb": 358
-      },
-      {
-        "path": "images/modules/talk/talk_7.svg",
-        "size_kb": 701.9
-      },
-      {
-        "path": "images/modules/talk/talk_8.svg",
-        "size_kb": 405.3
-      },
-      {
-        "path": "images/modules/talk/talk_9.svg",
-        "size_kb": 398.3
-      },
-      {
         "path": "images/orli/additional Information.svg",
         "size_kb": 29.2
-      },
-      {
-        "path": "images/orli/title images_5.svg",
-        "size_kb": 154.6
       },
       {
         "path": "images/orli/title images_6.svg",
@@ -1598,11 +1546,6 @@
       {
         "path": "images/modules/reflect/reflect_title_image.svg",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/modules/talk/talk_title_image.svg",
-        "count": 5,
         "missing": true
       }
     ]
@@ -6491,7 +6434,7 @@
       },
       {
         "path": "images/modules/connect/connect_1.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 29
       },
       {
@@ -6521,12 +6464,12 @@
       },
       {
         "path": "images/modules/connect/connect_2.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 192.2
       },
       {
         "path": "images/modules/connect/connect_3.gif",
-        "count": 2,
+        "count": 4,
         "size_kb": 77.9
       },
       {
@@ -6886,7 +6829,7 @@
       },
       {
         "path": "images/modules/play/ready_to_practice.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 34.3
       },
       {
@@ -6938,6 +6881,71 @@
         "path": "images/modules/play/why_play_2.svg",
         "count": 2,
         "size_kb": 136.9
+      },
+      {
+        "path": "images/modules/talk/talk_1.svg",
+        "count": 2,
+        "size_kb": 491.8
+      },
+      {
+        "path": "images/modules/talk/talk_10.svg",
+        "count": 2,
+        "size_kb": 92.2
+      },
+      {
+        "path": "images/modules/talk/talk_11.svg",
+        "count": 2,
+        "size_kb": 76.8
+      },
+      {
+        "path": "images/modules/talk/talk_12.svg",
+        "count": 2,
+        "size_kb": 51.6
+      },
+      {
+        "path": "images/modules/talk/talk_2.svg",
+        "count": 2,
+        "size_kb": 724
+      },
+      {
+        "path": "images/modules/talk/talk_3.svg",
+        "count": 2,
+        "size_kb": 164.5
+      },
+      {
+        "path": "images/modules/talk/talk_4.svg",
+        "count": 2,
+        "size_kb": 404.7
+      },
+      {
+        "path": "images/modules/talk/talk_5.svg",
+        "count": 2,
+        "size_kb": 364.3
+      },
+      {
+        "path": "images/modules/talk/talk_6.svg",
+        "count": 2,
+        "size_kb": 358
+      },
+      {
+        "path": "images/modules/talk/talk_7.svg",
+        "count": 2,
+        "size_kb": 701.9
+      },
+      {
+        "path": "images/modules/talk/talk_8.svg",
+        "count": 2,
+        "size_kb": 405.3
+      },
+      {
+        "path": "images/modules/talk/talk_9.svg",
+        "count": 2,
+        "size_kb": 398.3
+      },
+      {
+        "path": "images/modules/talk/talk_title_image.svg",
+        "count": 5,
+        "size_kb": 154.6
       },
       {
         "path": "images/relax/relax_1.svg",

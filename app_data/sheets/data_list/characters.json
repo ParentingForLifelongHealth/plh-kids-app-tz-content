@@ -218,25 +218,61 @@
       "id": "f3_grandma",
       "family_no": 3,
       "role": "caregiver",
-      "image_asset": "images/character/family_3_grandma.svg"
+      "image_asset": "images/character/family_3_grandma.svg",
+      "name": "Grandma",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Grandma"
+        }
+      }
     },
     {
       "id": "f3_grandpa",
       "family_no": 3,
       "role": "caregiver",
-      "image_asset": "images/character/family_3_grandpa.svg"
+      "image_asset": "images/character/family_3_grandpa.svg",
+      "name": "Grandpa",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Grandpa"
+        }
+      }
     },
     {
       "id": "f3_mother",
       "family_no": 3,
       "role": "caregiver",
-      "image_asset": "images/character/family_3_mom.svg"
+      "image_asset": "images/character/family_3_mom.svg",
+      "name": "Mother",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Mother"
+        }
+      }
     },
     {
       "id": "f3_older_boy",
       "family_no": 3,
       "role": "child",
-      "image_asset": "images/character/family_3_older_boy.svg"
+      "image_asset": "images/character/family_3_older_boy.svg",
+      "name": "Boy",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Boy"
+        }
+      }
     },
     {
       "id": "nandi_mom",

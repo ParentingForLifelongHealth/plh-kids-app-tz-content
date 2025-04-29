@@ -77,8 +77,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 82630 KB | 82.6 MB |
-| unused | 6625 KB | 6.6 MB |
+| total | 87018 KB | 87 MB |
+| unused | 2236 KB | 2.2 MB |
 </details>
 
 <details open>
@@ -143,20 +143,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/favicon.svg | 3.6 |
 | images/logos/plh_white.png | 12.8 |
 | images/modules/play/happy_emoji.svg | 1.8 |
-| images/modules/talk/talk_1.svg | 491.8 |
-| images/modules/talk/talk_10.svg | 92.2 |
-| images/modules/talk/talk_11.svg | 76.8 |
-| images/modules/talk/talk_12.svg | 51.6 |
-| images/modules/talk/talk_2.svg | 724 |
-| images/modules/talk/talk_3.svg | 164.5 |
-| images/modules/talk/talk_4.svg | 404.7 |
-| images/modules/talk/talk_5.svg | 364.3 |
-| images/modules/talk/talk_6.svg | 358 |
-| images/modules/talk/talk_7.svg | 701.9 |
-| images/modules/talk/talk_8.svg | 405.3 |
-| images/modules/talk/talk_9.svg | 398.3 |
 | images/orli/additional Information.svg | 29.2 |
-| images/orli/title images_5.svg | 154.6 |
 | images/orli/title images_6.svg | 41 |
 | images/orli/title images_7.svg | 341.3 |
 | images/orli/title images_8.svg | 174.4 |
@@ -379,7 +366,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/modules/care/care_title_image.svg | 1 |
 | images/modules/explore/explore_title_image.svg | 1 |
 | images/modules/reflect/reflect_title_image.svg | 1 |
-| images/modules/talk/talk_title_image.svg | 5 |
 </details>
 
 <details >
@@ -1365,14 +1351,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/lego_foundation.png | 54.4 | 1 |
-| images/modules/connect/connect_1.svg | 29 | 2 |
+| images/modules/connect/connect_1.svg | 29 | 4 |
 | images/modules/connect/connect_10.svg | 289.6 | 2 |
 | images/modules/connect/connect_11.svg | 8452.7 | 2 |
 | images/modules/connect/connect_12.svg | 187.7 | 2 |
 | images/modules/connect/connect_13.svg | 142.6 | 2 |
 | images/modules/connect/connect_14.svg | 34.3 | 2 |
-| images/modules/connect/connect_2.svg | 192.2 | 2 |
-| images/modules/connect/connect_3.gif | 77.9 | 2 |
+| images/modules/connect/connect_2.svg | 192.2 | 4 |
+| images/modules/connect/connect_3.gif | 77.9 | 4 |
 | images/modules/connect/connect_4.svg | 494.2 | 2 |
 | images/modules/connect/connect_5.svg | 129 | 2 |
 | images/modules/connect/connect_6.svg | 91.9 | 2 |
@@ -1444,7 +1430,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/play_title_image.svg | 78.1 | 5 |
 | images/modules/play/power_of_play_1.svg | 81.2 | 2 |
 | images/modules/play/question_time.svg | 70.7 | 2 |
-| images/modules/play/ready_to_practice.svg | 34.3 | 2 |
+| images/modules/play/ready_to_practice.svg | 34.3 | 4 |
 | images/modules/play/sad_emoji.svg | 1.5 | 4 |
 | images/modules/play/scared_emoji.svg | 1.8 | 2 |
 | images/modules/play/tired_emoji.svg | 1.3 | 4 |
@@ -1455,6 +1441,19 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/using_books_5.svg | 107.6 | 2 |
 | images/modules/play/why_play_1.svg | 29 | 2 |
 | images/modules/play/why_play_2.svg | 136.9 | 2 |
+| images/modules/talk/talk_1.svg | 491.8 | 2 |
+| images/modules/talk/talk_10.svg | 92.2 | 2 |
+| images/modules/talk/talk_11.svg | 76.8 | 2 |
+| images/modules/talk/talk_12.svg | 51.6 | 2 |
+| images/modules/talk/talk_2.svg | 724 | 2 |
+| images/modules/talk/talk_3.svg | 164.5 | 2 |
+| images/modules/talk/talk_4.svg | 404.7 | 2 |
+| images/modules/talk/talk_5.svg | 364.3 | 2 |
+| images/modules/talk/talk_6.svg | 358 | 2 |
+| images/modules/talk/talk_7.svg | 701.9 | 2 |
+| images/modules/talk/talk_8.svg | 405.3 | 2 |
+| images/modules/talk/talk_9.svg | 398.3 | 2 |
+| images/modules/talk/talk_title_image.svg | 154.6 | 5 |
 | images/relax/relax_1.svg | 25.9 | 1 |
 | images/relax/relax_10.svg | 10.3 | 2 |
 | images/relax/relax_11.svg | 10.9 | 1 |
