@@ -126,7 +126,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "https://drive.google.com/file/d/1hxX6dY47-UdinoIk3zMBvm-cSkn733Ne/view?usp=share_link",
+      "image_asset": "images/modules/connect/connect_1.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "Imagine someone tells you to go outside your house and walk to the end of your street. But they don’t tell you why, or what might happen when you get there.  \nHow does that make you feel? Confused? Scared? Hesitant?\nTalking to your child about what is happening or why they should be doing something helps them to feel safe and to follow instructions.",
       "completed": false
@@ -149,7 +149,7 @@
         }
       },
       "category_id": "why_talk",
-      "image_asset": "https://drive.google.com/file/d/1AChd_1BtfhXx6FoAhyhrnDJlGFjbdZ6X/view?usp=share_link",
+      "image_asset": "images/modules/connect/connect_2.svg",
       "image_text": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **talking with your child** forms part of the garden image.",
       "completed": false
     },
@@ -183,7 +183,7 @@
       },
       "category_id": "why_talk",
       "text_1": "The amount of water that plants receive determines how they grow. \nIn the same way - how much you talk to your child and what you say to them is important for their development.",
-      "image_asset": "https://drive.google.com/file/d/1PTDmIJzNkaxn9LuCly4i_VdOh9qDmIRT/view?usp=share_link",
+      "image_asset": "images/modules/connect/connect_3.gif",
       "media_title": "Listen to learn more:",
       "media_transcript": "Plants that don’t get enough water won’t grow. In the same way, children struggle when they don’t get enough information from their caregivers.\nJust as harsh streams of water can damage small plants, a parent’s harsh words can interfere with a child’s growth. \nThat is why your words and how you use them play a powerful role in shaping your child.",
       "completed": false
@@ -206,7 +206,7 @@
         }
       },
       "category_id": "how_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_1.svg",
       "media_title": "Listen to learn more:",
       "_translations": {
         "media_title": {
@@ -244,7 +244,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_2.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "Explaining “why” helps your child to see the bigger picture, and to understand the benefits of what they need to do.\nInstead of saying: “Go brush your teeth now!”, you could say: “It’s time to brush your teeth. We brush our teeth because this keeps our teeth strong and healthy. We need strong and healthy teeth to eat and enjoy our food.”\nBy explaining to your child why they should brush their teeth, you help them to do what is expected of them.",
       "completed": false
@@ -272,7 +272,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_3.svg",
       "media_title": "Listen to learn more:",
       "media_transcript": "When something upsetting happens, use kind words to help your child learn.\nIf your child fell over, instead of saying “Look what happened! You hurt your knee because you were being careless and did not look where you were going!” \nYou could say in a kind voice: “Oh no – you fell down and hurt your knee – that must have given you a fright. It’s okay – we all fall down or get hurt sometimes. Next time, let’s try to be a bit more careful when we run outside.”",
       "completed": false
@@ -288,7 +288,7 @@
         }
       },
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_4.svg",
       "text_1_facilitator": "Here’s an example of how to use words in a positive and helpful way:",
       "_translations": {
         "text_1_facilitator": {},
@@ -301,16 +301,15 @@
     {
       "id": "the_power_of_talk_2",
       "_translatedFields": {
-        "character_1_text": {
-          "eng": "(plays with instrument = makes loud noises)"
+        "image_text": {
+          "eng": "(@data.characters.f1_baby_boy.name plays with instrument and makes loud noises)"
         }
       },
       "category_id": "power_talk",
-      "image_asset": "(orli)",
-      "character_1_id": "f1_child_boy",
-      "character_1_text": "(plays with instrument = makes loud noises)",
+      "image_asset": "images/modules/talk/talk_5.svg",
+      "image_text": "(@data.characters.f1_baby_boy.name plays with instrument and makes loud noises)",
       "_translations": {
-        "character_1_text": {}
+        "image_text": {}
       },
       "completed": false
     },
@@ -318,13 +317,13 @@
       "id": "the_power_of_talk_3",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "xx, remember that @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your @data.characters.f1_baby_boy.name won’t fall asleep. So please play a quiet game.”"
+          "eng": "xx, remember that your @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”"
         }
       },
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_6.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "xx, remember that @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your @data.characters.f1_baby_boy.name won’t fall asleep. So please play a quiet game.”",
+      "character_1_text": "xx, remember that your @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”",
       "_translations": {
         "character_1_text": {}
       },
@@ -334,13 +333,13 @@
       "id": "the_power_of_talk_4",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "“If you play a quiet game now, your @data.characters.f1_baby_boy.name will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”"
+          "eng": "“If you play a quiet game now, your bother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”"
         }
       },
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_7.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "“If you play a quiet game now, your @data.characters.f1_baby_boy.name will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”",
+      "character_1_text": "“If you play a quiet game now, your bother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”",
       "_translations": {
         "character_1_text": {}
       },
@@ -350,13 +349,13 @@
       "id": "the_power_of_talk_5",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "What a good idea to play with the blocks instead. Well done for playing quietly so that your @data.characters.f1_baby_boy.name can fall asleep!"
+          "eng": "What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!"
         }
       },
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_8.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "What a good idea to play with the blocks instead. Well done for playing quietly so that your @data.characters.f1_baby_boy.name can fall asleep!",
+      "character_1_text": "What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!",
       "_translations": {
         "character_1_text": {}
       },
@@ -370,7 +369,7 @@
         }
       },
       "category_id": "power_talk",
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_9.svg",
       "character_1_id": "f1_father",
       "character_1_text": "“Thank you for being so quiet! Now we can play something fun together. What would you like to build?”",
       "_translations": {
@@ -471,7 +470,7 @@
         },
         "media_transcript": {}
       },
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_10.svg",
       "media_title": "Watch this video to learn more:",
       "media_transcript": "Asking your child questions will help them talk about what they see in the pictures, and think about what is happening.\nUsing Who/What/Where/Why/How questions are great ways to encourage your child to answer using words other than “yes” and “no. \nQuestions like: \n“Where is rabbit standing?\nWhat are they eating? \nWhy are they lying down?”\nHelp your child understand events by asking them what is happening and why it is happening.\nHelp them understand the characters in the story better, by asking them why they think the character is doing that, or what the character might be thinking or feeling.",
       "completed": false
@@ -500,7 +499,7 @@
         "section_1_button_text": {},
         "section_1_extra_text": {}
       },
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_11.svg",
       "section_1_image_asset": "https://drive.google.com/file/d/1gvZo3Dr_dSTGv_tEQG9WKIz8iR5yJzqN/view?usp=share_link",
       "section_1_text": "How can I show my child that I am listening?",
       "section_1_button_text": "See examples:",
@@ -519,7 +518,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(orli)",
+      "image_asset": "images/modules/talk/talk_12.svg",
       "completed": false
     },
     {
@@ -534,7 +533,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "https://drive.google.com/file/d/10Fd9YPYwUrp1gkRmOdyzG2nhFacSPbHC/view?usp=share_link",
+      "image_asset": "images/modules/play/ready_to_practice.svg",
       "completed": false
     }
   ],
