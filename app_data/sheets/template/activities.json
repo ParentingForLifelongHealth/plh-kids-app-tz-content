@@ -2,7 +2,6 @@
   "flow_type": "template",
   "flow_name": "activities",
   "status": "released",
-  "Comments": "to be generalised",
   "rows": [
     {
       "name": "activity",
@@ -1108,5 +1107,6 @@
       "_nested_name": "display_grid"
     }
   ],
-  "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
+  "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
 }

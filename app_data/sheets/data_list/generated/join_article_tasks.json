@@ -312,7 +312,7 @@
         "text_1_facilitator": {
           "eng": "Great question. Caring for others starts with caring for yourself."
         },
-        "section_1_title": {
+        "section_1_text": {
           "eng": "Remember that you cannot pour from an empty cup."
         },
         "section_1_button_text": {
@@ -327,7 +327,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "section_1_title": {
+        "section_1_text": {
           "tz_sw": true
         },
         "section_1_button_text": {
@@ -338,7 +338,7 @@
         }
       },
       "section_1_image_asset": "images/modules/join/join_5.svg",
-      "section_1_title": "Remember that you cannot pour from an empty cup.",
+      "section_1_text": "Remember that you cannot pour from an empty cup.",
       "section_1_button_text": "Learn more:",
       "section_1_extra_text": "If your own cup is empty, you won’t have anything to pour into your child’s cup. Take care of yourself, so you can take care of your child.",
       "completed": false

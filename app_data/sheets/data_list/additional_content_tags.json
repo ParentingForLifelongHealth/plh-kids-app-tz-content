@@ -5,21 +5,51 @@
   "status": "released",
   "rows": [
     {
-      "id": "tag_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1cq22E3vZouGQzGSbQLFloQzPu5Pb8eI-csMti2rseto"
+      "id": "budgeting",
+      "attached_single_doc": "https://docs.google.com/document/d/1cq22E3vZouGQzGSbQLFloQzPu5Pb8eI-csMti2rseto",
+      "name": "budgeting",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "budgeting"
+        },
+        "title": {
+          "eng": "Budgeting"
+        },
+        "text": {
+          "eng": "Budgeting"
+        }
+      },
+      "title": "Budgeting",
+      "text": "Budgeting"
     },
     {
-      "id": "tag_2"
-    },
-    {
-      "id": "tag_3"
-    },
-    {
-      "id": "tag_4"
-    },
-    {
-      "id": "tag_5"
+      "id": "income_generating",
+      "name": "income generating activities",
+      "_translations": {
+        "name": {},
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "income generating activities"
+        },
+        "title": {
+          "eng": "Income Generating Activities"
+        },
+        "text": {
+          "eng": "Income Generating Activities"
+        }
+      },
+      "title": "Income Generating Activities",
+      "text": "Income Generating Activities"
     }
   ],
-  "_xlsxPath": "Resource centre/TZ additional_content.xlsx"
+  "_xlsxPath": "Resource centre/TZ additional_content.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
 }

@@ -22,7 +22,8 @@
       ],
       "books_id_list": [
         "little_shoots",
-        "things_that_matter"
+        "things_that_matter",
+        "when_grow_up"
       ],
       "audio_asset": "audio/songs/maua_mazuri.mp3",
       "image_asset": "images/modules/join/join_title_image.svg",
@@ -72,7 +73,8 @@
       ],
       "books_id_list": [
         "to_the_top",
-        "moms_red_coat"
+        "moms_red_coat",
+        "bee_and_elephant"
       ],
       "audio_asset": "audio/songs/bilinge_bayoyo.mp3",
       "image_asset": "images/modules/connect/connect_title_image.svg",
@@ -104,6 +106,54 @@
       "task_child": "connect_article_tasks"
     },
     {
+      "id": "care",
+      "status": "released",
+      "number": "3",
+      "facilitator_id": "facilitator_man",
+      "check_in_id": "check_in_12",
+      "relax_id": "relax_18",
+      "relax_id_list": [
+        "relax_15",
+        "relax_23",
+        "relax_1"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "books_id_list": [
+        "decision",
+        "my_inside_weather"
+      ],
+      "audio_asset": "audio/songs/watoto_wangu_ehh.mp3",
+      "image_asset": "images/modules/care/care_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "CARE",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "CARE"
+        },
+        "description": {
+          "eng": "Caring for yourself and caring for others go hand-in-hand."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the CARE module! \nHere is a song to celebrate you!"
+        }
+      },
+      "description": "Caring for yourself and caring for others go hand-in-hand.",
+      "congratulation_text": "Well done for finishing the CARE module! \nHere is a song to celebrate you!",
+      "completed": false,
+      "task_child": "care_article_tasks"
+    },
+    {
       "id": "create",
       "status": "released",
       "number": "4",
@@ -122,7 +172,8 @@
       ],
       "books_id_list": [
         "babys_first_photo",
-        "shongololo_s_shoes"
+        "shongololo_s_shoes",
+        "yes_you_can"
       ],
       "audio_asset": "audio/songs/napenda_kuhesabu_namba.mp3",
       "image_asset": "images/modules/create/create_title_image.svg",
@@ -172,7 +223,8 @@
       ],
       "books_id_list": [
         "lesedis_sandbox",
-        "lefas_bath"
+        "lefas_bath",
+        "mama_whats_for_lunch"
       ],
       "audio_asset": "audio/songs/mabata_madogo.mp3",
       "image_asset": "images/modules/play/play_title_image.svg",
@@ -222,7 +274,8 @@
       ],
       "books_id_list": [
         "jasu_loves_football",
-        "no_go_sleep"
+        "no_go_sleep",
+        "scared_tumi"
       ],
       "audio_asset": "audio/songs/yai_bovu.mp3",
       "image_asset": "images/modules/talk/talk_title_image.svg",
@@ -252,6 +305,140 @@
       "congratulation_text": "Well done for finishing the TALK module! \nHere is a song to celebrate you!",
       "completed": false,
       "task_child": "talk_article_tasks"
+    },
+    {
+      "id": "build",
+      "status": "released",
+      "number": "7",
+      "facilitator_id": "facilitator_man",
+      "check_in_id": "check_in_11",
+      "relax_id": "relax_7",
+      "relax_id_list": [
+        "relax_24",
+        "relax_12",
+        "relax_7"
+      ],
+      "play_id_list": [
+        "build_a_road",
+        "animal_strengths",
+        "treasure_hunt"
+      ],
+      "books_id_list": [
+        "fifi_and_teddy",
+        "lost_toy",
+        "angry_akku"
+      ],
+      "audio_asset": "audio/songs/ukuti_ukuti.mp3",
+      "image_asset": "images/modules/build/build_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "BUILD",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "BUILD"
+        },
+        "description": {
+          "eng": "Help your child build skills to deal with challenges."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the BUILD module! \nHere is a song to celebrate you!"
+        }
+      },
+      "description": "Help your child build skills to deal with challenges.",
+      "congratulation_text": "Well done for finishing the BUILD module! \nHere is a song to celebrate you!",
+      "completed": false,
+      "task_child": "build_article_tasks"
+    },
+    {
+      "id": "explore",
+      "status": "released",
+      "number": "8",
+      "facilitator_id": "facilitator_woman",
+      "check_in_id": "check_in_5",
+      "relax_id": "relax_11",
+      "relax_id_list": [
+        "relax_22",
+        "relax_5",
+        "relax_11"
+      ],
+      "play_id_list": [
+        "search_with_senses",
+        "count_and_compare",
+        "mystery_box"
+      ],
+      "books_id_list": [
+        "zibu_and_zizo",
+        "big_blue_bus"
+      ],
+      "audio_asset": "audio/songs/ngozi_ya_kenge_2.mp3",
+      "image_asset": "images/modules/explore/explore_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "EXPLORE",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "EXPLORE"
+        },
+        "description": {
+          "eng": "Support your child to explore and learn from the world around them."
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the EXPLORE module! \nHere is a song to celebrate you!"
+        }
+      },
+      "description": "Support your child to explore and learn from the world around them.",
+      "congratulation_text": "Well done for finishing the EXPLORE module! \nHere is a song to celebrate you!",
+      "completed": false,
+      "task_child": "explore_article_tasks"
+    },
+    {
+      "id": "reflect",
+      "status": "released",
+      "number": "9",
+      "facilitator_id": "facilitator_man",
+      "relax_id_list": [
+        "[]"
+      ],
+      "play_id_list": [
+        "[]"
+      ],
+      "books_id_list": [
+        "[]"
+      ],
+      "image_asset": "images/modules/reflect/reflect_title_image.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
+      "title": "REFLECT",
+      "_translations": {
+        "title": {},
+        "congratulation_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "REFLECT"
+        },
+        "congratulation_text": {
+          "eng": "Well done for finishing the REFLECT module! \nHere is a song to celebrate you!"
+        }
+      },
+      "congratulation_text": "Well done for finishing the REFLECT module! \nHere is a song to celebrate you!",
+      "completed": false,
+      "task_child": "reflect_article_tasks"
     }
   ],
   "_metadata": {

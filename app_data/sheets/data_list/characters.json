@@ -189,13 +189,13 @@
       "family_no": 3,
       "role": "child",
       "image_asset": "images/character/family_3_boy_wheelchair.svg",
-      "name": "Boy",
+      "name": "Asia",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Boy"
+          "eng": "Asia"
         }
       }
     },
@@ -204,13 +204,13 @@
       "family_no": 3,
       "role": "child",
       "image_asset": "images/character/family_3_girl.svg",
-      "name": "Girl",
+      "name": "Amina",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Girl"
+          "eng": "Amina"
         }
       }
     },
@@ -219,13 +219,13 @@
       "family_no": 3,
       "role": "caregiver",
       "image_asset": "images/character/family_3_grandma.svg",
-      "name": "Grandma",
+      "name": "Bibi Musa",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Grandma"
+          "eng": "Bibi Musa"
         }
       }
     },
@@ -304,6 +304,7 @@
     }
   ],
   "_xlsxPath": "modules/TZ characters.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
   "_metadata": {
     "family_no": {
       "type": "number"

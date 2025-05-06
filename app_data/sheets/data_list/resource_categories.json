@@ -64,7 +64,26 @@
         }
       },
       "text": "When you feel differently, unsecured in a family, spouse, your child in danger or abused, you can contact the following Service providers via the following numbers."
+    },
+    {
+      "id": "resources",
+      "image_asset": "images/additional_info/additional_information.svg",
+      "name": "Additional Resources",
+      "_translations": {
+        "name": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Additional Resources"
+        },
+        "text": {
+          "eng": "Many families experience financial stress, especially when children frequently ask for things. It can be challenging to meet the needs of our families and to use our limited resources to generate additional income. In this session, we will explore strategies for managing funds and engaging in various activities that can help us increase household income."
+        }
+      },
+      "text": "Many families experience financial stress, especially when children frequently ask for things. It can be challenging to meet the needs of our families and to use our limited resources to generate additional income. In this session, we will explore strategies for managing funds and engaging in various activities that can help us increase household income."
     }
   ],
-  "_xlsxPath": "Resource centre/TZ resource centre.xlsx"
+  "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
 }
