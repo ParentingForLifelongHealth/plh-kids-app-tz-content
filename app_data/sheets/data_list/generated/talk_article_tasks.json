@@ -104,11 +104,12 @@
     },
     {
       "id": "why_talk_1",
+      "media_asset": "audio/modules/talk/why_1.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1EMdlf-qT4qmlGM8cfiE5k24hyyjD4VWXayPdSxw_DrY",
       "_translatedFields": {
         "text_1": {
-          "eng": "Children learn a lot from what we say, and how we say it. This week, we will look at the power of our words, and how we **TALK** to our children."
+          "eng": "Children learn a lot from what we say, and how we say it. \n\nThis week, we will look at the power of our words, and how we **TALK** to our children."
         },
         "media_title": {
           "eng": "Listen to learn more:"
@@ -118,7 +119,7 @@
         }
       },
       "category_id": "why_talk",
-      "text_1": "Children learn a lot from what we say, and how we say it. This week, we will look at the power of our words, and how we **TALK** to our children.",
+      "text_1": "Children learn a lot from what we say, and how we say it. \n\nThis week, we will look at the power of our words, and how we **TALK** to our children.",
       "_translations": {
         "text_1": {},
         "media_title": {
@@ -138,23 +139,29 @@
         "title": {
           "tz_sw": true
         },
-        "image_text": {}
+        "text_1": {},
+        "text_1_facilitator": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "The ParentApp Garden"
         },
-        "image_text": {
-          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **talking with your child** forms part of the garden image."
+        "text_1": {
+          "eng": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive."
+        },
+        "text_1_facilitator": {
+          "eng": "Let’s see how **talking with your child** forms part of the garden image."
         }
       },
       "category_id": "why_talk",
+      "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
       "image_asset": "images/modules/connect/connect_2.svg",
-      "image_text": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive. \n\nLet’s see how **talking with your child** forms part of the garden image.",
+      "text_1_facilitator": "Let’s see how **talking with your child** forms part of the garden image.",
       "completed": false
     },
     {
       "id": "why_talk_3",
+      "media_asset": "audio/modules/talk/why_3.mp3",
       "media_type": "audio",
       "title": "The ParentApp Garden",
       "_translations": {
@@ -190,13 +197,14 @@
     },
     {
       "id": "how_to_talk_1",
+      "media_asset": "audio/modules/talk/how_1.mp3",
       "media_type": "audio",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here’s how to talk to your child:"
         },
         "text_2": {
-          "eng": "**Name and describe things to your child**\n This helps your child understand what is happening."
+          "eng": "**Name and describe things to your child**\n\nThis helps your child understand what is happening."
         },
         "media_title": {
           "eng": "Listen to learn more:"
@@ -218,15 +226,16 @@
       },
       "media_transcript": "Young children are still learning about the world and how it works. You can use every-day events and activities to talk to your child about different people, places, events and experiences. \nLet’s use this picture as an example. You could point to the taxis and say: “Look, the taxis wait here to pick people up. They wait next to the marketplace because people might need a lift home after they have done their shopping.”\nOr you could point to the market stands and say: “The market stands have umbrellas to keep the food out of the sun. This helps to keep the food cool and fresh.”\nOr you could point to the woman and child and say: “They are looking out for cars before they cross the road.”",
       "text_1_facilitator": "Here’s how to talk to your child:",
-      "text_2": "**Name and describe things to your child**\n This helps your child understand what is happening.",
+      "text_2": "**Name and describe things to your child**\n\nThis helps your child understand what is happening.",
       "completed": false
     },
     {
       "id": "how_to_talk_2",
+      "media_asset": "audio/modules/talk/how_2.mp3",
       "media_type": "audio",
       "_translatedFields": {
         "text_1": {
-          "eng": "**Explain WHY** \nThis helps your child understand cause and effect. It also helps them to follow instructions."
+          "eng": "**Explain WHY** \n\nThis helps your child understand cause and effect. It also helps them to follow instructions."
         },
         "media_title": {
           "eng": "Listen to learn more:"
@@ -236,7 +245,7 @@
         }
       },
       "category_id": "how_talk",
-      "text_1": "**Explain WHY** \nThis helps your child understand cause and effect. It also helps them to follow instructions.",
+      "text_1": "**Explain WHY** \n\nThis helps your child understand cause and effect. It also helps them to follow instructions.",
       "_translations": {
         "text_1": {},
         "media_title": {
@@ -251,10 +260,11 @@
     },
     {
       "id": "how_to_talk_3",
+      "media_asset": "audio/modules/talk/how_3.mp3",
       "media_type": "audio",
       "_translatedFields": {
         "text_1": {
-          "eng": "**TALK with kindness** \nUse your words to build your child up, not to break them down."
+          "eng": "**TALK with kindness** \n\nUse your words to build your child up, not to break them down."
         },
         "media_title": {
           "eng": "Listen to learn more:"
@@ -264,7 +274,7 @@
         }
       },
       "category_id": "how_talk",
-      "text_1": "**TALK with kindness** \nUse your words to build your child up, not to break them down.",
+      "text_1": "**TALK with kindness** \n\nUse your words to build your child up, not to break them down.",
       "_translations": {
         "text_1": {},
         "media_title": {
@@ -302,12 +312,12 @@
       "id": "the_power_of_talk_2",
       "_translatedFields": {
         "image_text": {
-          "eng": "(@data.characters.f1_baby_boy.name plays with instrument and makes loud noises)"
+          "eng": "(@data.characters.f1_child_boy.name plays with instrument and makes loud noises)"
         }
       },
       "category_id": "power_talk",
       "image_asset": "images/modules/talk/talk_5.svg",
-      "image_text": "(@data.characters.f1_baby_boy.name plays with instrument and makes loud noises)",
+      "image_text": "(@data.characters.f1_child_boy.name plays with instrument and makes loud noises)",
       "_translations": {
         "image_text": {}
       },
@@ -317,13 +327,13 @@
       "id": "the_power_of_talk_3",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "xx, remember that your @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”"
+          "eng": "@data.characters.f1_child_boy.name, remember that your father is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”"
         }
       },
       "category_id": "power_talk",
       "image_asset": "images/modules/talk/talk_6.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "xx, remember that your @data.characters.f1_father.name is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”",
+      "character_1_text": "@data.characters.f1_child_boy.name, remember that your father is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”",
       "_translations": {
         "character_1_text": {}
       },
@@ -333,13 +343,13 @@
       "id": "the_power_of_talk_4",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "“If you play a quiet game now, your bother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”"
+          "eng": "“If you play a quiet game now, your brother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can play a game with you.”"
         }
       },
       "category_id": "power_talk",
       "image_asset": "images/modules/talk/talk_7.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "“If you play a quiet game now, your bother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can then play a game with you.”",
+      "character_1_text": "“If you play a quiet game now, your brother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can play a game with you.”",
       "_translations": {
         "character_1_text": {}
       },
@@ -349,13 +359,13 @@
       "id": "the_power_of_talk_5",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!"
+          "eng": "What a good idea to play with the blocks instead, @data.characters.f1_child_boy.name. Well done for playing quietly so that your brother can fall asleep!"
         }
       },
       "category_id": "power_talk",
       "image_asset": "images/modules/talk/talk_8.svg",
       "character_1_id": "f1_mother",
-      "character_1_text": "What a good idea to play with the blocks instead. Well done for playing quietly so that your brother can fall asleep!",
+      "character_1_text": "What a good idea to play with the blocks instead, @data.characters.f1_child_boy.name. Well done for playing quietly so that your brother can fall asleep!",
       "_translations": {
         "character_1_text": {}
       },
@@ -381,21 +391,59 @@
       "id": "the_power_of_talk_7",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s reflect:"
+          "eng": "Let’s reflect on what happened:"
         },
         "quiz_1_question": {
-          "eng": "How did xx"
+          "eng": "How did @data.characters.f1_mother.name help her son to follow the instructions?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "She explained to him about what was happening"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s right. She explained to @data.characters.f1_child_boy.name what his father was doing, and what the plan was – to put the baby to sleep and then play a game together."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "She explained why they were asking him to be quiet"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes. She helped @data.characters.f1_child_boy.name to understand why it would help if he was quiet – that his brother would struggle to fall asleep if there were loud noises."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "She said he would get punished if he was loud"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Not really. She did not say he would get punished. Instead, she explained why she wanted him to play a quieter game."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "She used praise"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Yes! Once @data.characters.f1_child_boy.name was playing quietly, she used praise to encourage him to continue."
         }
       },
       "category_id": "power_talk",
-      "quiz_1_question": "How did xx",
+      "quiz_1_feedback_1": "That’s right. She explained to @data.characters.f1_child_boy.name what his father was doing, and what the plan was – to put the baby to sleep and then play a game together.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
       },
-      "text_1_facilitator": "Let’s reflect:",
+      "quiz_1_feedback_2": "Yes. She helped @data.characters.f1_child_boy.name to understand why it would help if he was quiet – that his brother would struggle to fall asleep if there were loud noises.",
+      "quiz_1_feedback_3": "Not really. She did not say he would get punished. Instead, she explained why she wanted him to play a quieter game.",
+      "quiz_1_question": "How did @data.characters.f1_mother.name help her son to follow the instructions?",
+      "quiz_1_option_1_text": "She explained to him about what was happening",
+      "quiz_1_option_2_text": "She explained why they were asking him to be quiet",
+      "quiz_1_option_3_text": "She said he would get punished if he was loud",
+      "text_1_facilitator": "Let’s reflect on what happened:",
+      "quiz_1_option_4_text": "She used praise",
+      "quiz_1_feedback_4": "Yes! Once @data.characters.f1_child_boy.name was playing quietly, she used praise to encourage him to continue.",
       "completed": false
     },
     {
@@ -420,6 +468,7 @@
     },
     {
       "id": "using_books_2",
+      "media_asset": "audio/modules/talk/books_2.mp3",
       "media_type": "audio",
       "_translatedFields": {
         "text_1": {
@@ -510,15 +559,20 @@
       "id": "using_books_5",
       "_translatedFields": {
         "text_1": {
-          "eng": "Three easy ways to use book activities to talk:\n1. Name and describe what you see in the pictures\n2. Ask questions about the story\n3. Show your child you are listening\nRemember to talk with kindness. Avoid being critical or negative."
+          "eng": "Three easy ways to use book activities to talk:\n1. Name and describe what you see in the pictures.\n2. Ask questions about the story.\n3. Show your child you are listening."
+        },
+        "text_1_facilitator": {
+          "eng": "Remember to talk with kindness. Avoid being critical or negative."
         }
       },
       "category_id": "books_talk",
-      "text_1": "Three easy ways to use book activities to talk:\n1. Name and describe what you see in the pictures\n2. Ask questions about the story\n3. Show your child you are listening\nRemember to talk with kindness. Avoid being critical or negative.",
+      "text_1": "Three easy ways to use book activities to talk:\n1. Name and describe what you see in the pictures.\n2. Ask questions about the story.\n3. Show your child you are listening.",
       "_translations": {
-        "text_1": {}
+        "text_1": {},
+        "text_1_facilitator": {}
       },
       "image_asset": "images/modules/talk/talk_12.svg",
+      "text_1_facilitator": "Remember to talk with kindness. Avoid being critical or negative.",
       "completed": false
     },
     {

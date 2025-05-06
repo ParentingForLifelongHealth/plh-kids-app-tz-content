@@ -681,9 +681,9 @@
         }
       },
       "category_id": "power_play",
-      "quiz_1_option_1_image_asset": "images/modules/play/frustrated_emoji.svg",
-      "quiz_1_option_2_image_asset": "images/modules/play/angry_emoji.svg",
-      "quiz_1_option_3_image_asset": "images/modules/play/tired_emoji.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/frustrated_emoji.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/angry_emoji.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/tired_emoji.svg",
       "text_1": "Let’s think about what happened in this story:",
       "quiz_1_feedback_1": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",
       "quiz_1_feedback_2": "Yes, the mother may have been feeling all of these things. It can be really difficult when our children do not want to go to sleep.",

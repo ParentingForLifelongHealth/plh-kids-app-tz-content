@@ -3,11 +3,11 @@
     "data": [
       {
         "type": "accordion",
-        "count": 4
+        "count": 5
       },
       {
         "type": "accordion_section",
-        "count": 5
+        "count": 7
       },
       {
         "type": "advanced_dashed_box",
@@ -19,23 +19,19 @@
       },
       {
         "type": "audio",
-        "count": 11
-      },
-      {
-        "type": "begin_display_group",
-        "count": 1
+        "count": 15
       },
       {
         "type": "button",
-        "count": 54
+        "count": 64
       },
       {
         "type": "combo_box",
-        "count": 7
+        "count": 6
       },
       {
         "type": "data_items",
-        "count": 31
+        "count": 41
       },
       {
         "type": "debug_toggle",
@@ -43,11 +39,11 @@
       },
       {
         "type": "display_grid",
-        "count": 7
+        "count": 8
       },
       {
         "type": "display_group",
-        "count": 70
+        "count": 72
       },
       {
         "type": "google_sign_in_button",
@@ -55,7 +51,7 @@
       },
       {
         "type": "image",
-        "count": 33
+        "count": 43
       },
       {
         "type": "items",
@@ -74,6 +70,10 @@
         "count": 41
       },
       {
+        "type": "odk_form",
+        "count": 1
+      },
+      {
         "type": "plh_module_list_item",
         "count": 1
       },
@@ -87,7 +87,7 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 7
+        "count": 5
       },
       {
         "type": "round_button",
@@ -103,11 +103,15 @@
       },
       {
         "type": "set_variable",
-        "count": 1710
+        "count": 1897
       },
       {
         "type": "simple_checkbox",
         "count": 1
+      },
+      {
+        "type": "subtitle",
+        "count": 2
       },
       {
         "type": "task_card",
@@ -119,11 +123,11 @@
       },
       {
         "type": "template",
-        "count": 497
+        "count": 607
       },
       {
         "type": "text",
-        "count": 120
+        "count": 136
       },
       {
         "type": "text_area",
@@ -131,7 +135,7 @@
       },
       {
         "type": "text_box",
-        "count": 4
+        "count": 5
       },
       {
         "type": "text_bubble",
@@ -139,11 +143,11 @@
       },
       {
         "type": "title",
-        "count": 50
+        "count": 53
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 7
       },
       {
         "type": "update_action_list",
@@ -171,7 +175,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 411
+        "count": 525
       },
       {
         "type": "emit: force_reload",
@@ -179,7 +183,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 10
+        "count": 11
       },
       {
         "type": "emit: force_restart",
@@ -195,7 +199,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 413
+        "count": 527
       },
       {
         "type": "feedback",
@@ -203,7 +207,7 @@
       },
       {
         "type": "go_to",
-        "count": 21
+        "count": 31
       },
       {
         "type": "nav",
@@ -215,7 +219,7 @@
       },
       {
         "type": "pop_up",
-        "count": 21
+        "count": 25
       },
       {
         "type": "reset_app",
@@ -227,15 +231,15 @@
       },
       {
         "type": "set_field",
-        "count": 30
+        "count": 32
       },
       {
         "type": "set_item",
-        "count": 17
+        "count": 18
       },
       {
         "type": "set_local",
-        "count": 20
+        "count": 21
       },
       {
         "type": "task",
@@ -251,13 +255,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "87018 KB",
-        "MB": "87 MB"
+        "KB": "97090 KB",
+        "MB": "97.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "2236 KB",
-        "MB": "2.2 MB"
+        "KB": "2475 KB",
+        "MB": "2.5 MB"
       }
     ]
   },
@@ -280,6 +284,10 @@
         "size_kb": 156.5
       },
       {
+        "path": "audio/modules/build/how_build_2.mp3",
+        "size_kb": 377.2
+      },
+      {
         "path": "audio/modules/connect/connect_07.mp3",
         "size_kb": 241.2
       },
@@ -294,6 +302,14 @@
       {
         "path": "images/backgrounds/map.jpg",
         "size_kb": 85.1
+      },
+      {
+        "path": "images/books/yes_you_can/page16.jpg",
+        "size_kb": 55.9
+      },
+      {
+        "path": "images/books/yes_you_can/page17.jpg",
+        "size_kb": 7.9
       },
       {
         "path": "images/icons/book_blue.svg",
@@ -336,6 +352,10 @@
         "size_kb": 1.1
       },
       {
+        "path": "images/icons/faces/awake_emoji.svg",
+        "size_kb": 1.7
+      },
+      {
         "path": "images/icons/faces/confused.svg",
         "size_kb": 1.8
       },
@@ -348,11 +368,7 @@
         "size_kb": 1.3
       },
       {
-        "path": "images/icons/faces/neutral.svg",
-        "size_kb": 0.5
-      },
-      {
-        "path": "images/icons/faces/sad.svg",
+        "path": "images/icons/faces/sad_emoji.svg",
         "size_kb": 1.5
       },
       {
@@ -366,6 +382,10 @@
       {
         "path": "images/icons/faces/scared.svg",
         "size_kb": 2.1
+      },
+      {
+        "path": "images/icons/faces/scared_emoji.svg",
+        "size_kb": 1.8
       },
       {
         "path": "images/icons/faces/tired.svg",
@@ -480,24 +500,12 @@
         "size_kb": 12.8
       },
       {
-        "path": "images/modules/play/happy_emoji.svg",
-        "size_kb": 1.8
-      },
-      {
-        "path": "images/orli/additional Information.svg",
-        "size_kb": 29.2
-      },
-      {
         "path": "images/orli/title images_6.svg",
         "size_kb": 41
       },
       {
         "path": "images/orli/title images_7.svg",
         "size_kb": 341.3
-      },
-      {
-        "path": "images/orli/title images_8.svg",
-        "size_kb": 174.4
       },
       {
         "path": "images/relax/relax_man.svg",
@@ -523,6 +531,11 @@
   },
   "assets_missing": {
     "data": [
+      {
+        "path": "audio/modules/build/why_build_2.mp3",
+        "count": 2,
+        "missing": true
+      },
       {
         "path": "images/books/i_like_to_read/image_1.jpg",
         "count": 1,
@@ -1530,21 +1543,46 @@
       },
       {
         "path": "images/modules/build/build_title_image.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/modules/care/care_title_image.svg",
-        "count": 1,
+        "count": 7,
         "missing": true
       },
       {
         "path": "images/modules/explore/explore_title_image.svg",
-        "count": 1,
+        "count": 5,
+        "missing": true
+      },
+      {
+        "path": "images/modules/play/angry_emoji.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/modules/play/awake_emoji.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/modules/play/sad_emoji.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/modules/play/scared_emoji.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/modules/play/tired_emoji.svg",
+        "count": 2,
         "missing": true
       },
       {
         "path": "images/modules/reflect/reflect_title_image.svg",
+        "count": 5,
+        "missing": true
+      },
+      {
+        "path": "odk_form.json",
         "count": 1,
         "missing": true
       }
@@ -1552,6 +1590,41 @@
   },
   "asset_summary": {
     "data": [
+      {
+        "path": "audio/modules/build/how_build_3.mp3",
+        "count": 2,
+        "size_kb": 451.9
+      },
+      {
+        "path": "audio/modules/build/why_build_1.mp3",
+        "count": 2,
+        "size_kb": 302.6
+      },
+      {
+        "path": "audio/modules/build/why_build_3.mp3",
+        "count": 2,
+        "size_kb": 311.5
+      },
+      {
+        "path": "audio/modules/care/care_2.mp3",
+        "count": 2,
+        "size_kb": 307.7
+      },
+      {
+        "path": "audio/modules/care/care_3.mp3",
+        "count": 2,
+        "size_kb": 408.6
+      },
+      {
+        "path": "audio/modules/care/care_4.mp3",
+        "count": 2,
+        "size_kb": 313.4
+      },
+      {
+        "path": "audio/modules/care/why_care_3.mp3",
+        "count": 2,
+        "size_kb": 351.2
+      },
       {
         "path": "audio/modules/connect/connect_01.mp3",
         "count": 2,
@@ -1638,6 +1711,46 @@
         "size_kb": 272.9
       },
       {
+        "path": "audio/modules/explore/books_2.mp3",
+        "count": 2,
+        "size_kb": 396.8
+      },
+      {
+        "path": "audio/modules/explore/books_3.mp3",
+        "count": 2,
+        "size_kb": 322.8
+      },
+      {
+        "path": "audio/modules/explore/books_4.mp3",
+        "count": 2,
+        "size_kb": 379
+      },
+      {
+        "path": "audio/modules/explore/how_2.mp3",
+        "count": 2,
+        "size_kb": 320.6
+      },
+      {
+        "path": "audio/modules/explore/how_3.mp3",
+        "count": 2,
+        "size_kb": 393.4
+      },
+      {
+        "path": "audio/modules/explore/power_2.mp3",
+        "count": 2,
+        "size_kb": 235.2
+      },
+      {
+        "path": "audio/modules/explore/power_3.mp3",
+        "count": 2,
+        "size_kb": 326.7
+      },
+      {
+        "path": "audio/modules/explore/why_1.mp3",
+        "count": 2,
+        "size_kb": 346.8
+      },
+      {
         "path": "audio/modules/join/care_1.m4a",
         "count": 2,
         "size_kb": 432.9
@@ -1698,6 +1811,46 @@
         "size_kb": 260.9
       },
       {
+        "path": "audio/modules/reflect/congs_1.mp3",
+        "count": 2,
+        "size_kb": 252.9
+      },
+      {
+        "path": "audio/modules/reflect/congs_2.mp3",
+        "count": 2,
+        "size_kb": 328.2
+      },
+      {
+        "path": "audio/modules/talk/books_2.mp3",
+        "count": 2,
+        "size_kb": 415.3
+      },
+      {
+        "path": "audio/modules/talk/how_1.mp3",
+        "count": 2,
+        "size_kb": 384.8
+      },
+      {
+        "path": "audio/modules/talk/how_2.mp3",
+        "count": 2,
+        "size_kb": 311.5
+      },
+      {
+        "path": "audio/modules/talk/how_3.mp3",
+        "count": 2,
+        "size_kb": 308.4
+      },
+      {
+        "path": "audio/modules/talk/why_1.mp3",
+        "count": 2,
+        "size_kb": 283.2
+      },
+      {
+        "path": "audio/modules/talk/why_3.mp3",
+        "count": 2,
+        "size_kb": 272.9
+      },
+      {
         "path": "audio/relax/relax_1.mp3",
         "count": 1,
         "size_kb": 265.1
@@ -1709,7 +1862,7 @@
       },
       {
         "path": "audio/relax/relax_11.mp3",
-        "count": 1,
+        "count": 2,
         "size_kb": 445.6
       },
       {
@@ -1744,7 +1897,7 @@
       },
       {
         "path": "audio/relax/relax_18.mp3",
-        "count": 1,
+        "count": 2,
         "size_kb": 312.9
       },
       {
@@ -1804,7 +1957,7 @@
       },
       {
         "path": "audio/relax/relax_7.mp3",
-        "count": 1,
+        "count": 2,
         "size_kb": 285.3
       },
       {
@@ -1849,23 +2002,48 @@
       },
       {
         "path": "audio/songs/ngozi_ya_kenge_2.mp3",
-        "count": 2,
+        "count": 6,
         "size_kb": 349
       },
       {
         "path": "audio/songs/ukuti_ukuti.mp3",
-        "count": 2,
+        "count": 6,
         "size_kb": 370.7
       },
       {
         "path": "audio/songs/watoto_wangu_ehh.mp3",
-        "count": 2,
+        "count": 6,
         "size_kb": 272.3
       },
       {
         "path": "audio/songs/yai_bovu.mp3",
         "count": 6,
         "size_kb": 306.6
+      },
+      {
+        "path": "images/additional_info/additional_information.svg",
+        "count": 1,
+        "size_kb": 29.2
+      },
+      {
+        "path": "images/additional_info/build.svg",
+        "count": 1,
+        "size_kb": 717.1
+      },
+      {
+        "path": "images/additional_info/choose.svg",
+        "count": 1,
+        "size_kb": 61.8
+      },
+      {
+        "path": "images/additional_info/plan.svg",
+        "count": 1,
+        "size_kb": 721.6
+      },
+      {
+        "path": "images/additional_info/think.svg",
+        "count": 1,
+        "size_kb": 702.9
       },
       {
         "path": "images/books/a_trip_to_the_tap/cover.png",
@@ -5738,16 +5916,6 @@
         "size_kb": 38.1
       },
       {
-        "path": "images/books/yes_you_can/page16.jpg",
-        "count": 2,
-        "size_kb": 55.9
-      },
-      {
-        "path": "images/books/yes_you_can/page17.jpg",
-        "count": 2,
-        "size_kb": 7.9
-      },
-      {
         "path": "images/books/yes_you_can/page4.jpg",
         "count": 2,
         "size_kb": 46.9
@@ -6008,13 +6176,28 @@
         "size_kb": 0.9
       },
       {
-        "path": "images/icons/faces/happy.svg",
+        "path": "images/icons/faces/angry_emoji.svg",
+        "count": 4,
+        "size_kb": 2.8
+      },
+      {
+        "path": "images/icons/faces/frustrated_emoji.svg",
         "count": 2,
+        "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/faces/happy.svg",
+        "count": 4,
         "size_kb": 1.4
       },
       {
+        "path": "images/icons/faces/happy_emoji.svg",
+        "count": 4,
+        "size_kb": 1.8
+      },
+      {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 21,
+        "count": 24,
         "size_kb": 1.4
       },
       {
@@ -6023,14 +6206,29 @@
         "size_kb": 3.8
       },
       {
-        "path": "images/icons/faces/ok_face_new.svg",
-        "count": 21,
+        "path": "images/icons/faces/neutral.svg",
+        "count": 4,
         "size_kb": 0.5
       },
       {
-        "path": "images/icons/faces/sad_face_new.svg",
-        "count": 21,
+        "path": "images/icons/faces/ok_face_new.svg",
+        "count": 24,
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/faces/sad.svg",
+        "count": 4,
         "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/faces/sad_face_new.svg",
+        "count": 24,
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/faces/tired_emoji.svg",
+        "count": 2,
+        "size_kb": 1.3
       },
       {
         "path": "images/icons/faces/valued.svg",
@@ -6039,12 +6237,12 @@
       },
       {
         "path": "images/icons/fine_heart.svg",
-        "count": 5,
+        "count": 6,
         "size_kb": 1.2
       },
       {
         "path": "images/icons/full_heart.svg",
-        "count": 5,
+        "count": 6,
         "size_kb": 0.7
       },
       {
@@ -6064,12 +6262,12 @@
       },
       {
         "path": "images/icons/join_icons/caring_yourchild.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 4.4
       },
       {
         "path": "images/icons/join_icons/caring_yourself.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1.3
       },
       {
@@ -6084,12 +6282,12 @@
       },
       {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 9,
+        "count": 17,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/parent_child_heart.svg",
-        "count": 10,
+        "count": 18,
         "size_kb": 3
       },
       {
@@ -6124,12 +6322,12 @@
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
-        "count": 7,
+        "count": 11,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 16,
+        "count": 20,
         "size_kb": 1
       },
       {
@@ -6179,7 +6377,7 @@
       },
       {
         "path": "images/learning_through_play/build_a_road.svg",
-        "count": 1,
+        "count": 3,
         "size_kb": 127.3
       },
       {
@@ -6433,13 +6631,18 @@
         "size_kb": 54.4
       },
       {
+        "path": "images/modules/care/care_title_image.svg",
+        "count": 5,
+        "size_kb": 174.4
+      },
+      {
         "path": "images/modules/connect/connect_1.svg",
-        "count": 4,
+        "count": 6,
         "size_kb": 29
       },
       {
         "path": "images/modules/connect/connect_10.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 289.6
       },
       {
@@ -6474,7 +6677,7 @@
       },
       {
         "path": "images/modules/connect/connect_4.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 494.2
       },
       {
@@ -6509,12 +6712,12 @@
       },
       {
         "path": "images/modules/connect/thumbs_down_brown.svg",
-        "count": 4,
+        "count": 6,
         "size_kb": 2.2
       },
       {
         "path": "images/modules/connect/thumbs_up_brown.svg",
-        "count": 4,
+        "count": 6,
         "size_kb": 2.2
       },
       {
@@ -6559,7 +6762,7 @@
       },
       {
         "path": "images/modules/create/create_17.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 40.1
       },
       {
@@ -6639,7 +6842,7 @@
       },
       {
         "path": "images/modules/join/join_10.gif",
-        "count": 2,
+        "count": 4,
         "size_kb": 940.7
       },
       {
@@ -6659,7 +6862,7 @@
       },
       {
         "path": "images/modules/join/join_14.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 365.5
       },
       {
@@ -6758,21 +6961,6 @@
         "size_kb": 20.7
       },
       {
-        "path": "images/modules/play/angry_emoji.svg",
-        "count": 4,
-        "size_kb": 2.8
-      },
-      {
-        "path": "images/modules/play/awake_emoji.svg",
-        "count": 2,
-        "size_kb": 1.7
-      },
-      {
-        "path": "images/modules/play/frustrated_emoji.svg",
-        "count": 2,
-        "size_kb": 1.7
-      },
-      {
         "path": "images/modules/play/how_to_play_1.svg",
         "count": 2,
         "size_kb": 95.5
@@ -6784,22 +6972,22 @@
       },
       {
         "path": "images/modules/play/how_to_play_3.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 102.7
       },
       {
         "path": "images/modules/play/icon_book.svg",
-        "count": 10,
+        "count": 18,
         "size_kb": 1.1
       },
       {
         "path": "images/modules/play/icon_light_bulb.svg",
-        "count": 8,
+        "count": 14,
         "size_kb": 3.5
       },
       {
         "path": "images/modules/play/icon_star.svg",
-        "count": 8,
+        "count": 14,
         "size_kb": 1.3
       },
       {
@@ -6833,21 +7021,6 @@
         "size_kb": 34.3
       },
       {
-        "path": "images/modules/play/sad_emoji.svg",
-        "count": 4,
-        "size_kb": 1.5
-      },
-      {
-        "path": "images/modules/play/scared_emoji.svg",
-        "count": 2,
-        "size_kb": 1.8
-      },
-      {
-        "path": "images/modules/play/tired_emoji.svg",
-        "count": 4,
-        "size_kb": 1.3
-      },
-      {
         "path": "images/modules/play/using_books_1.svg",
         "count": 2,
         "size_kb": 34.6
@@ -6859,7 +7032,7 @@
       },
       {
         "path": "images/modules/play/using_books_3.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 161.6
       },
       {
@@ -6895,11 +7068,11 @@
       {
         "path": "images/modules/talk/talk_11.svg",
         "count": 2,
-        "size_kb": 76.8
+        "size_kb": 81
       },
       {
         "path": "images/modules/talk/talk_12.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 51.6
       },
       {
@@ -6944,7 +7117,7 @@
       },
       {
         "path": "images/modules/talk/talk_title_image.svg",
-        "count": 5,
+        "count": 7,
         "size_kb": 154.6
       },
       {
@@ -6959,7 +7132,7 @@
       },
       {
         "path": "images/relax/relax_11.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 10.9
       },
       {
@@ -6994,7 +7167,7 @@
       },
       {
         "path": "images/relax/relax_18.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 16.2
       },
       {
@@ -7059,7 +7232,7 @@
       },
       {
         "path": "images/relax/relax_7.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 80.6
       },
       {
@@ -7114,7 +7287,7 @@
       },
       {
         "path": "lottie/breathing_heart.json",
-        "count": 5,
+        "count": 6,
         "size_kb": 46.7
       },
       {
@@ -7129,7 +7302,7 @@
       },
       {
         "path": "lottie/soothing_waves.json",
-        "count": 5,
+        "count": 7,
         "size_kb": 7.6
       },
       {
@@ -7144,7 +7317,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 35
+        "total": 43
       },
       {
         "type": "data_list",
@@ -7154,7 +7327,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 14
+        "total": 22
       },
       {
         "type": "data_list",
@@ -7174,12 +7347,12 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 9
+        "total": 17
       },
       {
         "type": "generator",
         "subtype": null,
-        "total": 28
+        "total": 38
       },
       {
         "type": "global",
@@ -7194,12 +7367,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 80
+        "total": 83
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 411
+        "total": 528
       },
       {
         "type": "template",
