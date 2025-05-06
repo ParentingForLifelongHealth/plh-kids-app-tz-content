@@ -56,9 +56,15 @@
     }
   ],
   "_xlsxPath": "modules/TZ modules data pipes.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
   "_output_flows": [
     {
       "flow_name": "prep_connect_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_care_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
@@ -74,6 +80,21 @@
     },
     {
       "flow_name": "prep_talk_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_build_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_explore_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_reflect_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     }

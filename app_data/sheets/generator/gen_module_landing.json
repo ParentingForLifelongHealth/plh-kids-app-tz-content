@@ -66,6 +66,7 @@
     }
   ],
   "_xlsxPath": "modules/TZ module_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
   "_output_flows": [
     {
       "flow_name": "module_landing_join",
@@ -74,6 +75,11 @@
     },
     {
       "flow_name": "module_landing_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_landing_care",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -89,6 +95,21 @@
     },
     {
       "flow_name": "module_landing_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_landing_build",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_landing_explore",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_landing_reflect",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

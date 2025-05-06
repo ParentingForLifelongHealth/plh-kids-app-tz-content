@@ -23,7 +23,8 @@
       ],
       "books_id_list": [
         "little_shoots",
-        "things_that_matter"
+        "things_that_matter",
+        "when_grow_up"
       ],
       "audio_asset": "audio/songs/maua_mazuri.mp3",
       "image_asset": "images/modules/join/join_title_image.svg",
@@ -71,7 +72,8 @@
       ],
       "books_id_list": [
         "to_the_top",
-        "moms_red_coat"
+        "moms_red_coat",
+        "bee_and_elephant"
       ],
       "audio_asset": "audio/songs/bilinge_bayoyo.mp3",
       "image_asset": "images/modules/connect/connect_title_image.svg",
@@ -102,6 +104,7 @@
     },
     {
       "id": "care",
+      "status": "released",
       "number": "3",
       "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_12",
@@ -116,7 +119,6 @@
         "my_inside_weather"
       ],
       "audio_asset": "audio/songs/watoto_wangu_ehh.mp3",
-      "status": "draft",
       "image_asset": "images/modules/care/care_title_image.svg",
       "play_id_list": [
         "[]"
@@ -165,7 +167,8 @@
       ],
       "books_id_list": [
         "babys_first_photo",
-        "shongololo_s_shoes"
+        "shongololo_s_shoes",
+        "yes_you_can"
       ],
       "audio_asset": "audio/songs/napenda_kuhesabu_namba.mp3",
       "image_asset": "images/modules/create/create_title_image.svg",
@@ -213,7 +216,8 @@
       ],
       "books_id_list": [
         "lesedis_sandbox",
-        "lefas_bath"
+        "lefas_bath",
+        "mama_whats_for_lunch"
       ],
       "audio_asset": "audio/songs/mabata_madogo.mp3",
       "image_asset": "images/modules/play/play_title_image.svg",
@@ -261,7 +265,8 @@
       ],
       "books_id_list": [
         "jasu_loves_football",
-        "no_go_sleep"
+        "no_go_sleep",
+        "scared_tumi"
       ],
       "audio_asset": "audio/songs/yai_bovu.mp3",
       "image_asset": "images/modules/talk/talk_title_image.svg",
@@ -292,6 +297,7 @@
     },
     {
       "id": "build",
+      "status": "released",
       "number": "7",
       "facilitator_id": "facilitator_man",
       "check_in_id": "check_in_11",
@@ -307,11 +313,11 @@
         "treasure_hunt"
       ],
       "books_id_list": [
-        "angry_akku",
-        "a_very_important_tree"
+        "fifi_and_teddy",
+        "lost_toy",
+        "angry_akku"
       ],
       "audio_asset": "audio/songs/ukuti_ukuti.mp3",
-      "status": "draft",
       "image_asset": "images/modules/build/build_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "BUILD",
@@ -340,6 +346,7 @@
     },
     {
       "id": "explore",
+      "status": "released",
       "number": "8",
       "facilitator_id": "facilitator_woman",
       "check_in_id": "check_in_5",
@@ -356,10 +363,9 @@
       ],
       "books_id_list": [
         "zibu_and_zizo",
-        "yello_earth_brown_earth"
+        "big_blue_bus"
       ],
       "audio_asset": "audio/songs/ngozi_ya_kenge_2.mp3",
-      "status": "draft",
       "image_asset": "images/modules/explore/explore_title_image.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "EXPLORE",
@@ -388,9 +394,9 @@
     },
     {
       "id": "reflect",
+      "status": "released",
       "number": "9",
       "facilitator_id": "facilitator_man",
-      "status": "draft",
       "image_asset": "images/modules/reflect/reflect_title_image.svg",
       "relax_id_list": [
         "[]"
@@ -418,5 +424,6 @@
       "congratulation_text": "Well done for finishing the REFLECT module! \nHere is a song to celebrate you!"
     }
   ],
-  "_xlsxPath": "modules/TZ modules.xlsx"
+  "_xlsxPath": "modules/TZ modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
 }
