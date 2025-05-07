@@ -28,7 +28,7 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1897 |
+| set_variable | 1907 |
 | simple_checkbox | 1 |
 | subtitle | 2 |
 | task_card | 13 |
@@ -36,8 +36,9 @@
 | template | 607 |
 | text | 136 |
 | text_area | 2 |
-| text_box | 5 |
+| text_box | 4 |
 | text_bubble | 9 |
+| text_input | 1 |
 | title | 53 |
 | toggle_bar | 7 |
 | update_action_list | 3 |
@@ -78,7 +79,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 97090 KB | 97.1 MB |
+| total | 97091 KB | 97.1 MB |
 | unused | 2475 KB | 2.5 MB |
 </details>
 
@@ -96,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | audio/modules/build/how_build_2.mp3 | 377.2 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
 | audio/modules/create/power_create_4.mp3 | 241.2 |
-| contents.json | 6.1 |
+| contents.json | 5.9 |
 | images/backgrounds/map.jpg | 85.1 |
 | images/books/yes_you_can/page16.jpg | 55.9 |
 | images/books/yes_you_can/page17.jpg | 7.9 |
@@ -373,7 +374,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/modules/play/scared_emoji.svg | 2 |
 | images/modules/play/tired_emoji.svg | 2 |
 | images/modules/reflect/reflect_title_image.svg | 5 |
-| odk_form.json | 1 |
 </details>
 
 <details >
@@ -469,6 +469,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/songs/ukuti_ukuti.mp3 | 370.7 | 6 |
 | audio/songs/watoto_wangu_ehh.mp3 | 272.3 | 6 |
 | audio/songs/yai_bovu.mp3 | 306.6 | 6 |
+| general_eng_survey.json | 1.7 | 1 |
 | images/additional_info/additional_information.svg | 29.2 | 1 |
 | images/additional_info/build.svg | 717.1 | 1 |
 | images/additional_info/choose.svg | 61.8 | 1 |

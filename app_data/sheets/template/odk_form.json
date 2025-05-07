@@ -30,9 +30,9 @@
           "_nested_name": "form_parameters.form_asset_name"
         },
         {
-          "type": "text_box",
+          "type": "text_input",
           "name": "form_asset_input",
-          "value": "odk_form.json",
+          "value": "general_eng_survey.json",
           "_translations": {
             "value": {}
           },
@@ -50,7 +50,6 @@
               "_cleaned": "changed | emit:force_reprocess"
             }
           ],
-          "condition": false,
           "_nested_name": "form_parameters.form_asset_input"
         },
         {

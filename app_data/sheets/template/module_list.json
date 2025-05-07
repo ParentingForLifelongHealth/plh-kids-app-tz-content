@@ -124,6 +124,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "exclude_from_translation": true,
                   "type": "set_variable",
                   "_nested_name": "dg_all_modules.loop_modules.module_@item.id.is_highlighted",
                   "_dynamicFields": {
@@ -177,6 +178,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "exclude_from_translation": true,
                   "type": "set_variable",
                   "_nested_name": "dg_all_modules.loop_modules.module_@item.id.is_completed",
                   "_dynamicFields": {
@@ -212,6 +214,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "exclude_from_translation": true,
                   "type": "set_variable",
                   "_nested_name": "dg_all_modules.loop_modules.module_@item.id.variant",
                   "_dynamicFields": {

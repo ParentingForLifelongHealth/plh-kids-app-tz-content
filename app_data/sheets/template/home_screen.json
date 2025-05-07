@@ -6,6 +6,9 @@
     "app_config": {
       "APP_HEADER_DEFAULTS": {
         "hidden": true
+      },
+      "LAYOUT": {
+        "page_padding": "0 0"
       }
     }
   },
@@ -462,7 +465,7 @@
     {
       "type": "template",
       "name": "module_path",
-      "value": "module_list",
+      "value": "module_path",
       "condition": "!@fields.display_modules_as_list",
       "exclude_from_translation": true,
       "rows": [
@@ -490,15 +493,6 @@
               "value"
             ]
           }
-        },
-        {
-          "name": "variant",
-          "value": "circle",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "module_path.variant"
         }
       ],
       "_nested_name": "module_path",
@@ -524,6 +518,9 @@
       "value": "module_list",
       "condition": "@fields.display_modules_as_list",
       "exclude_from_translation": true,
+      "style_list": [
+        "padding: 0 24px"
+      ],
       "rows": [
         {
           "name": "current_module_number",
@@ -548,15 +545,6 @@
               "value"
             ]
           }
-        },
-        {
-          "name": "variant",
-          "value": "default",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "module_list.variant"
         }
       ],
       "_nested_name": "module_list",
