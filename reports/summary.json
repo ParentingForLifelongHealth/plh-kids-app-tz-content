@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 41
+        "count": 42
       },
       {
         "type": "debug_toggle",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 72
+        "count": 71
       },
       {
         "type": "google_sign_in_button",
@@ -55,7 +55,7 @@
       },
       {
         "type": "items",
-        "count": 17
+        "count": 16
       },
       {
         "type": "lottie_animation",
@@ -78,7 +78,7 @@
         "count": 1
       },
       {
-        "type": "progress_path",
+        "type": "plh_progress_path",
         "count": 1
       },
       {
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1897
+        "count": 1910
       },
       {
         "type": "simple_checkbox",
@@ -135,11 +135,15 @@
       },
       {
         "type": "text_box",
-        "count": 5
+        "count": 4
       },
       {
         "type": "text_bubble",
         "count": 9
+      },
+      {
+        "type": "text_input",
+        "count": 1
       },
       {
         "type": "title",
@@ -255,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "97090 KB",
-        "MB": "97.1 MB"
+        "KB": "97176 KB",
+        "MB": "97.2 MB"
       },
       {
         "assets": "unused",
-        "KB": "2475 KB",
-        "MB": "2.5 MB"
+        "KB": "2390 KB",
+        "MB": "2.4 MB"
       }
     ]
   },
@@ -297,11 +301,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 6.1
-      },
-      {
-        "path": "images/backgrounds/map.jpg",
-        "size_kb": 85.1
+        "size_kb": 5.9
       },
       {
         "path": "images/books/yes_you_can/page16.jpg",
@@ -1580,11 +1580,6 @@
         "path": "images/modules/reflect/reflect_title_image.svg",
         "count": 5,
         "missing": true
-      },
-      {
-        "path": "odk_form.json",
-        "count": 1,
-        "missing": true
       }
     ]
   },
@@ -2021,6 +2016,11 @@
         "size_kb": 306.6
       },
       {
+        "path": "general_eng_survey.json",
+        "count": 1,
+        "size_kb": 1.7
+      },
+      {
         "path": "images/additional_info/additional_information.svg",
         "count": 1,
         "size_kb": 29.2
@@ -2044,6 +2044,11 @@
         "path": "images/additional_info/think.svg",
         "count": 1,
         "size_kb": 702.9
+      },
+      {
+        "path": "images/backgrounds/map.jpg",
+        "count": 1,
+        "size_kb": 85.1
       },
       {
         "path": "images/books/a_trip_to_the_tap/cover.png",

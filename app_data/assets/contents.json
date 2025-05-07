@@ -1083,8 +1083,12 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "df9c81f319411188b557a9430db42686",
-    "size_kb": 6.1
+    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
+    "size_kb": 5.9
+  },
+  "general_eng_survey.json": {
+    "md5Checksum": "e4deea61327778b33a5b3c2fdf70a025",
+    "size_kb": 1.7
   },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
