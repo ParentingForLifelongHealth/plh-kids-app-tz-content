@@ -261,9 +261,9 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/loved.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/valued.svg",
-      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
-      "quiz_2_option_2_image_asset": "images/modules/play/angry_emoji.svg",
-      "quiz_2_option_3_image_asset": "images/modules/play/tired_emoji.svg",
+      "quiz_2_option_1_image_asset": "images/icons/faces/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/icons/faces//angry_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/icons/faces/tired_emoji.svg",
       "title": "**Question time:**",
       "_translations": {
         "title": {
@@ -457,7 +457,7 @@
       "category_id": "power_create",
       "image_asset": "images/modules/create/create_14.svg",
       "media_type": "audio",
-      "media_asset": "audio/modules/create/power_create_4.mp2",
+      "media_asset": "audio/modules/create/power_create_4.mp3",
       "image_text": "Neema, Robert - it’s time to put the ball away and come inside now.",
       "_translations": {
         "image_text": {

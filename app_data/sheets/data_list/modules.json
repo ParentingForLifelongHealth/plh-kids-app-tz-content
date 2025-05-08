@@ -399,6 +399,7 @@
       "status": "released",
       "number": "9",
       "facilitator_id": "facilitator_man",
+      "audio_asset": "audio/songs/kulea_pamoja.mp3",
       "image_asset": "images/modules/reflect/reflect_title_image.svg",
       "relax_id_list": [
         "[]"

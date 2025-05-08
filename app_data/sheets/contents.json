@@ -3340,6 +3340,11 @@
           "flow_name": "songs_kipepeo",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "songs_kulea",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -6817,6 +6822,11 @@
     },
     "songs_kipepeo": {
       "flow_name": "songs_kipepeo",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "songs_kulea": {
+      "flow_name": "songs_kulea",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
