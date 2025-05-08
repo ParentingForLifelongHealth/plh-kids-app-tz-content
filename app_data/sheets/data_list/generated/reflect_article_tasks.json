@@ -6,7 +6,7 @@
     {
       "id": "Congratulations_1",
       "category_id": "why_reflect",
-      "image_asset": "(sent to orli)",
+      "image_asset": "images/modules/reflect/reflect_1.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/reflect/congs_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1QgPVzzOo7xyvKZ6wXpSfBksp3NKgOwd_vfKn9GKf-3Y",
@@ -243,7 +243,7 @@
         "section_3_text": {}
       },
       "section_1_image_asset": "(add image)",
-      "section_2_image_asset": "(add image)",
+      "section_2_image_asset": "images/modules/create/create_9.svg",
       "section_3_image_asset": "images/modules/play/how_to_play_3.svg",
       "section_1_title": "CONNECT",
       "section_1_text": "Make time to **connect** with your child one-on-one. Focus on them and show interest in what they are doing or saying.",
@@ -447,6 +447,7 @@
     {
       "id": "keep_going_1",
       "category_id": "practice",
+      "image_asset": "images/modules/reflect/reflect_2.svg",
       "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",
       "_translations": {
         "text_1": {},
@@ -487,7 +488,7 @@
       "text_1_facilitator": "To build on what you are already doing, here are three tips to keep going:",
       "section_1_image_asset": "(need to add)",
       "section_2_image_asset": "images/modules/connect/connect_4.svg",
-      "section_3_image_asset": "(need to add)",
+      "section_3_image_asset": "images/modules/reflect/reflect_3.svg",
       "section_1_title": "Keep in touch",
       "section_1_text": "Keep in touch with other parents. Meet regularly, call or text to give each other parenting support.",
       "section_2_title": "Use the power of routine",

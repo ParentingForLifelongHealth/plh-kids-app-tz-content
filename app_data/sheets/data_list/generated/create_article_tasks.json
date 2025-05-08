@@ -477,9 +477,9 @@
       "quiz_1_option_3_text": "Valued",
       "image_asset": "images/modules/create/create_11.svg",
       "text_2": "Think about the last time someone thanked you, or said you did something great.",
-      "quiz_2_option_1_image_asset": "images/modules/play/sad_emoji.svg",
-      "quiz_2_option_2_image_asset": "images/modules/play/angry_emoji.svg",
-      "quiz_2_option_3_image_asset": "images/modules/play/tired_emoji.svg",
+      "quiz_2_option_1_image_asset": "images/icons/faces/sad_emoji.svg",
+      "quiz_2_option_2_image_asset": "images/icons/faces//angry_emoji.svg",
+      "quiz_2_option_3_image_asset": "images/icons/faces/tired_emoji.svg",
       "quiz_2_question": "How does it make you feel when nobody says \"thank you\"?",
       "quiz_2_option_1_text": "Sad",
       "quiz_2_feedback_1": "Your child can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right.",
@@ -564,7 +564,7 @@
     },
     {
       "id": "the_power_of_create_4",
-      "media_asset": "audio/modules/create/power_create_4.mp2",
+      "media_asset": "audio/modules/create/power_create_4.mp3",
       "media_type": "audio",
       "_translatedFields": {
         "image_text": {

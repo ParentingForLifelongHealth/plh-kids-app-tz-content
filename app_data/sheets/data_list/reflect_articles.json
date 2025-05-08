@@ -7,7 +7,7 @@
     {
       "id": "Congratulations_1",
       "category_id": "why_reflect",
-      "image_asset": "(sent to orli)",
+      "image_asset": "images/modules/reflect/reflect_1.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/reflect/congs_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1QgPVzzOo7xyvKZ6wXpSfBksp3NKgOwd_vfKn9GKf-3Y",
@@ -201,7 +201,7 @@
       "id": "caring_child_1",
       "category_id": "caring_child",
       "section_1_image_asset": "(add image)",
-      "section_2_image_asset": "(add image)",
+      "section_2_image_asset": "images/modules/create/create_9.svg",
       "section_3_image_asset": "images/modules/play/how_to_play_3.svg",
       "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
       "_translations": {
@@ -438,9 +438,10 @@
     {
       "id": "keep_going_1",
       "category_id": "practice",
+      "image_asset": "images/modules/reflect/reflect_2.svg",
       "section_1_image_asset": "(need to add)",
       "section_2_image_asset": "images/modules/connect/connect_4.svg",
-      "section_3_image_asset": "(need to add)",
+      "section_3_image_asset": "images/modules/reflect/reflect_3.svg",
       "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",
       "_translations": {
         "text_1": {},

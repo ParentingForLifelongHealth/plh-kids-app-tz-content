@@ -173,6 +173,23 @@
           "eng": "Kipepeo"
         }
       }
+    },
+    {
+      "id": "kulea",
+      "media_asset": "audio/songs/kulea_pamoja.mp3",
+      "tag_list": [
+        "child_care"
+      ],
+      "image_cover_asset": "images/songs.svg",
+      "title": "Kulea Kwa Pamoja",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Kulea Kwa Pamoja"
+        }
+      }
     }
   ],
   "_xlsxPath": "Resource centre/TZ songs.xlsx",
