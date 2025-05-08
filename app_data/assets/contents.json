@@ -1050,6 +1050,10 @@
     "md5Checksum": "8fad7e518bd2a15576d629055b1cd5f4",
     "size_kb": 333.7
   },
+  "audio/songs/kulea_pamoja.mp3": {
+    "md5Checksum": "d4b23398d1028aad6da4057e14cf1758",
+    "size_kb": 406.2
+  },
   "audio/songs/mabata_madogo.mp3": {
     "md5Checksum": "07ee6d69510a11ab13452c182241c6cb",
     "size_kb": 409.8
@@ -1086,6 +1090,10 @@
     "md5Checksum": "df9c81f319411188b557a9430db42686",
     "size_kb": 6.1
   },
+  "general_eng_survey.json": {
+    "md5Checksum": "e4deea61327778b33a5b3c2fdf70a025",
+    "size_kb": 1.7
+  },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
     "size_kb": 29.2
@@ -1097,6 +1105,22 @@
   "images/additional_info/choose.svg": {
     "md5Checksum": "87be48edaaf39faab85f5e500076c1ad",
     "size_kb": 61.8
+  },
+  "images/additional_info/financial_literacy_1.svg": {
+    "md5Checksum": "702d2f5a9369f36e38c2151e9dfbba01",
+    "size_kb": 173.6
+  },
+  "images/additional_info/financial_literacy_2.svg": {
+    "md5Checksum": "7e8d74e545b1d724afa43551280cf9c3",
+    "size_kb": 330.7
+  },
+  "images/additional_info/financial_literacy_3.svg": {
+    "md5Checksum": "d581f70c42d62dbd3605da68b1197bed",
+    "size_kb": 34504.5
+  },
+  "images/additional_info/financial_literacy_4.svg": {
+    "md5Checksum": "552ad2675266e1ccf6bb09c2ab8724a5",
+    "size_kb": 76.1
   },
   "images/additional_info/plan.svg": {
     "md5Checksum": "3c4db1843f2afa027a8d706513f00150",
@@ -4974,6 +4998,42 @@
     "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
     "size_kb": 12.8
   },
+  "images/modules/build/books_build_3.svg": {
+    "md5Checksum": "1a804daa6801af3a2fad2a7e17cc8698",
+    "size_kb": 176
+  },
+  "images/modules/build/build_title_image.svg": {
+    "md5Checksum": "7bb3f17e34ea9ae979d4da879c437b65",
+    "size_kb": 41
+  },
+  "images/modules/build/how_build_2.svg": {
+    "md5Checksum": "afb1a5f424b6420deb5e4ff2239124a7",
+    "size_kb": 49.6
+  },
+  "images/modules/build/how_build_3.svg": {
+    "md5Checksum": "c6cfae4be28ac5a28164dcb932e73a35",
+    "size_kb": 42
+  },
+  "images/modules/build/power_build_1.svg": {
+    "md5Checksum": "be13bd15cf03657879e0ecc6225d5742",
+    "size_kb": 65.1
+  },
+  "images/modules/build/power_build_2.svg": {
+    "md5Checksum": "883b133bd3f1098accb5195800b2c9c2",
+    "size_kb": 63.9
+  },
+  "images/modules/build/power_build_3.svg": {
+    "md5Checksum": "ce4b09be53a81d141c8ddc7767d3ac0a",
+    "size_kb": 48.4
+  },
+  "images/modules/build/power_build_4.svg": {
+    "md5Checksum": "efb69975b4968d7bbc64e918633576d6",
+    "size_kb": 52.4
+  },
+  "images/modules/build/power_build_5.svg": {
+    "md5Checksum": "15726b9836467c3d06e4446d8318df73",
+    "size_kb": 43.9
+  },
   "images/modules/care/care_title_image.svg": {
     "md5Checksum": "3520bc768398181442057b0a2d07a87f",
     "size_kb": 174.4
@@ -5133,6 +5193,34 @@
   "images/modules/create/create_title_image.svg": {
     "md5Checksum": "c43b005df5c57a0ffb0deffbae2c9d56",
     "size_kb": 85.5
+  },
+  "images/modules/explore/books_5.svg": {
+    "md5Checksum": "9e0608efef395b44586022be89d5c191",
+    "size_kb": 124.7
+  },
+  "images/modules/explore/explore_title_image.svg": {
+    "md5Checksum": "92a5089671fe0af5770e327245779a08",
+    "size_kb": 341.3
+  },
+  "images/modules/explore/how_explore_2.svg": {
+    "md5Checksum": "10798c0799b1d958118832bd4072f4aa",
+    "size_kb": 93.3
+  },
+  "images/modules/explore/power_explore_2.svg": {
+    "md5Checksum": "d8a6bb84f7847cee25470cc38695f88e",
+    "size_kb": 136.7
+  },
+  "images/modules/explore/power_explore_3.svg": {
+    "md5Checksum": "1233726ab2501d46300268fc84a5e668",
+    "size_kb": 215.3
+  },
+  "images/modules/explore/power_explore_4.svg": {
+    "md5Checksum": "a4e2f4d8f15e2e44952d258b2b8f7934",
+    "size_kb": 138.2
+  },
+  "images/modules/explore/power_explore_5.svg": {
+    "md5Checksum": "db40d0efaa06a7b6ce66363d3cdc3198",
+    "size_kb": 225.7
   },
   "images/modules/join/all_modules.svg": {
     "md5Checksum": "e317abd5d1a1b0f27a9f7dc00885a6a2",
@@ -5314,6 +5402,18 @@
     "md5Checksum": "4e713c219b4d80ae7c55c879ae37987e",
     "size_kb": 136.9
   },
+  "images/modules/reflect/reflect_1.svg": {
+    "md5Checksum": "9df7f0f4bfb0b1250e74d67a83016e5f",
+    "size_kb": 296
+  },
+  "images/modules/reflect/reflect_2.svg": {
+    "md5Checksum": "a989248971647795f02e97c11600710b",
+    "size_kb": 53.6
+  },
+  "images/modules/reflect/reflect_3.svg": {
+    "md5Checksum": "b86d82d6c4aaa001507a1ee84fcba31b",
+    "size_kb": 10.4
+  },
   "images/modules/talk/talk_1.svg": {
     "md5Checksum": "09c78c7d1d12b09c3e8c5dd79dfa74fc",
     "size_kb": 491.8
@@ -5365,14 +5465,6 @@
   "images/modules/talk/talk_title_image.svg": {
     "md5Checksum": "85b799f25ae17ab905bb284f7c182322",
     "size_kb": 154.6
-  },
-  "images/orli/title images_6.svg": {
-    "md5Checksum": "7bb3f17e34ea9ae979d4da879c437b65",
-    "size_kb": 41
-  },
-  "images/orli/title images_7.svg": {
-    "md5Checksum": "92a5089671fe0af5770e327245779a08",
-    "size_kb": 341.3
   },
   "images/relax/relax_1.svg": {
     "md5Checksum": "3e4f51d3df0247b17825eb6a78eb66d9",

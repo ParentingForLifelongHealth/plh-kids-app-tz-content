@@ -3340,6 +3340,11 @@
           "flow_name": "songs_kipepeo",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "songs_kulea",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -6820,6 +6825,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "songs_kulea": {
+      "flow_name": "songs_kulea",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "songs_mabata_madogo": {
       "flow_name": "songs_mabata_madogo",
       "flow_subtype": "generated",
@@ -6900,6 +6910,9 @@
         "app_config": {
           "APP_HEADER_DEFAULTS": {
             "hidden": true
+          },
+          "LAYOUT": {
+            "page_padding": "0 0"
           }
         }
       },
@@ -7027,8 +7040,8 @@
     "module_path": {
       "flow_type": "template",
       "flow_name": "module_path",
-      "_xlsxPath": "templates/modules/module_navigation.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
     },
     "module_start_at_cat": {
       "flow_type": "template",

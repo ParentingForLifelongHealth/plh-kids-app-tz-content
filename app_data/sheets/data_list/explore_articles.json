@@ -7,9 +7,9 @@
     {
       "id": "why_explore_1",
       "category_id": "why_explore",
-      "image_asset": "(facilitator image)",
+      "image_asset": "images/modules/connect/connect_1.svg",
       "media_type": "audio",
-      "youtube_tz_sw": "audio/modules/explore/why_1.mp3",
+      "media_asset": "audio/modules/explore/why_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1EgysZ_jHAdqfkDMN9gOk9XWuOOAMT-WUxPSjiTB5d8g/edit?tab=t.0",
       "text_1": "Children are born with a natural interest in the people and objects around them. \nThis week, we will look at how parents can encourage children to **EXPLORE** and learn from the world around them.",
       "_translations": {
@@ -83,7 +83,7 @@
     {
       "id": "how_to_explore_1",
       "category_id": "how_explore",
-      "image_asset": "(facilitator with lightbulb)",
+      "image_asset": "images/modules/connect/connect_7.svg",
       "text_1": "Here’s how to help children explore and learn from the world around them:",
       "_translations": {
         "text_1": {}
@@ -97,7 +97,7 @@
     {
       "id": "how_to_explore_2",
       "category_id": "how_explore",
-      "image_asset": "(image)",
+      "image_asset": "images/modules/explore/how_explore_2.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/how_2.mp3",
       "text_1": "**Be curious together**\n Turn learning into a shared adventure. Try new things together and experiment with different ideas.",
@@ -201,7 +201,7 @@
     {
       "id": "the_power_of_explore_2",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_2.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/power_2.mp3",
       "title": "How to solve problems: Step 1",
@@ -234,7 +234,7 @@
     {
       "id": "the_power_of_explore_3",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_3.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/power_3.mp3",
       "title": "How to solve problems: Step 2",
@@ -267,7 +267,7 @@
     {
       "id": "the_power_of_explore_4",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_4.svg",
       "character_1_id": "f3_boy_wheelchair",
       "character_2_id": "f3_girl",
       "title": "How to solve problems: Step 3",
@@ -298,7 +298,7 @@
     {
       "id": "the_power_of_explore_5",
       "category_id": "power_explore",
-      "image_asset": "(add image)",
+      "image_asset": "images/modules/explore/power_explore_5.svg",
       "character_1_id": "f3_grandpa",
       "character_2_id": "f3_boy_wheelchair",
       "title": "How to solve problems: Step 4",
@@ -430,7 +430,7 @@
     {
       "id": "using_books_5",
       "category_id": "books_explore",
-      "image_asset": "Insert image",
+      "image_asset": "images/modules/explore/books_5.svg",
       "text_1": "Three easy ways to use book activities to explore:\n1. Ask questions about the story and what might happen.\n2. Make connections between the book and your child’s life.\n3. Use the pictures to practice counting and make comparisons.",
       "_translations": {
         "text_1": {}
@@ -444,7 +444,7 @@
     {
       "id": "practice_1",
       "category_id": "practice",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/connect/connect_14.svg",
       "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 When a problem arises, involve your child in finding a solution and trying it out. \n📖 Make connections between the book and your child’s life.\n😌 Think about something you are curious about or want to learn more about. Make some time to explore your interests!",
       "_translations": {
         "text_1": {}
