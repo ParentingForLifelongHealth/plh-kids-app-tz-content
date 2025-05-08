@@ -1,0 +1,141 @@
+#Upload Translations to crowdin
+#Get content repo
+#Get Translations repo
+#Get Translation content repo
+# run script to post translations
+
+
+
+
+#Download Translations from crowdin
+#Get content repo
+#Get Translations repo
+#Get Translation content repo
+# run script to get translations
+# move and rename translation files
+
+#File expecting : es_dictionary.json
+#move to : translated.mx_es.json
+
+# build and commit changes.
+
+
+##################################################################################
+#         About
+##################################################################################
+# Get translations from crowdin
+#
+#         Version : 1.0
+#
+##################################################################################
+#         Configuration 
+##################################################################################
+env:
+  DEPLOYMENT_NAME: ${{vars.DEPLOYMENT_NAME}}
+  APP_CODE_BRANCH: ${{vars.APP_CODE_BRANCH}}
+  PARENT_DEPLOYMENT_REPO: ${{vars.PARENT_DEPLOYMENT_REPO}}
+  PARENT_DEPLOYMENT_NAME: ${{vars.PARENT_DEPLOYMENT_NAME}}
+  PARENT_DEPLOYMENT_BRANCH: ${{vars.PARENT_DEPLOYMENT_BRANCH}}
+  DEPLOYMENT_PRIVATE_KEY: ${{secrets.DEPLOYMENT_PRIVATE_KEY}}
+  FIREBASE_CONFIG: ${{secrets.FIREBASE_CONFIG}}  
+  GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }} 
+  GDRIVE_TOKEN:  ${{ secrets.GDRIVE_TOKEN }}
+  
+  
+name: Update central Translations and create a PR
+##################################################################################
+#         Main Code
+##################################################################################
+on:
+    workflow_dispatch:
+      inputs:
+        pr-title:
+          description: Title for PR
+          type: string
+          default: Translation sync from actions
+        pr-body:
+          description: Description for PR
+          type: string
+          default: Automated Translation PR creation from actions
+   
+jobs:
+   build:
+      runs-on: ubuntu-latest
+      steps:
+
+      - name: Check translation repo   #TODO this repo should be a variable
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+          repository: "IDEMSInternational/plh-digital-content.git"
+          path: "plh-digital-content"
+          ref: "main"
+
+      - name: Check idems_translation
+        uses: actions/checkout@v3
+        with:
+          repository: "IDEMSInternational/idems_translation.git"
+          path: "idems_translation"
+          ref: "master"
+
+      - name: set up python enviroment
+        uses: actions/setup-python@v5.0.0        
+        with:
+          python-version: '3.12'
+
+      - name: update idems_translation packages
+        working-directory: idems_translation
+        run: 
+          npm ci || true
+
+      - name: List contents of current directory
+        run: ls -l
+  
+      - name: Check out app code
+        uses: actions/checkout@v3
+        with:
+          repository: "IDEMSInternational/parenting-app-ui.git"
+          ref: ${{env.APP_CODE_BRANCH}}
+          path: "parenting-app-ui"
+      
+
+      - name: Checkout parent repo if needed
+        if: env.PARENT_DEPLOYMENT_REPO != ''
+        uses: actions/checkout@v3
+        with:
+          path: "parenting-app-ui/.idems_app/deployments/${{env.PARENT_DEPLOYMENT_NAME}}"
+          repository: ${{env.PARENT_DEPLOYMENT_REPO}}
+          ref: ${{env.PARENT_DEPLOYMENT_BRANCH}}
+
+      - name: Checkout deployment
+        uses: actions/checkout@v3
+        with:          
+          path: "parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
+
+        
+      - name: Run script to create translation files
+        working-directory: idems_translation
+        run: python app/scripts/prepare_for_translation.py ../parenting-app-ui/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/translator_settings.json
+
+      
+      
+      - name: Commit changes
+        working-directory: plh-digital-content
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"        
+          git add .  # This adds all changes to the staging area
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated commit message" # Only commit if there are changes
+        #  git checkout -b automated-changes
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5.0.2
+        with:
+          token: ${{ secrets.PAT }}
+          # Relative path under $GITHUB_WORKSPACE to the repository. Defaults to $GITHUB_WORKSPACE.
+          path: plh-digital-content            
+          # The title of the pull request.
+          title: ${{ inputs.pr-title }}
+          # The body of the pull request.
+          body: ${{ inputs.pr-body }}
+          labels: test - preview
