@@ -1087,12 +1087,8 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
-  },
-  "general_eng_survey.json": {
-    "md5Checksum": "e4deea61327778b33a5b3c2fdf70a025",
-    "size_kb": 1.7
+    "md5Checksum": "df9c81f319411188b557a9430db42686",
+    "size_kb": 6.1
   },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
@@ -5637,5 +5633,18 @@
   "lottie/square_flow.json": {
     "md5Checksum": "99af0f0b04114998ba20a2c2c7b7e7d6",
     "size_kb": 5.9
+  },
+  "odk/general_survey.json": {
+    "md5Checksum": "b610d640fa730528a2509381f995bab1",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "odk/tz_sw/general_survey.json",
+          "md5Checksum": "11e5cf7f28ab5c586dd782478d3efb01",
+          "size_kb": 10.6
+        }
+      }
+    },
+    "size_kb": 10.4
   }
 }
