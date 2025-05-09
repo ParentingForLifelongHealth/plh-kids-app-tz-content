@@ -40,12 +40,21 @@
       "action_list": [
         {
           "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        },
+        {
+          "trigger": "click",
           "action_id": "go_to",
           "args": [
             "odk_form"
           ],
-          "_raw": "click |  go_to: odk_form",
-          "_cleaned": "click |  go_to: odk_form"
+          "_raw": "click | go_to: odk_form",
+          "_cleaned": "click | go_to: odk_form"
         }
       ],
       "_nested_name": "odk_button"

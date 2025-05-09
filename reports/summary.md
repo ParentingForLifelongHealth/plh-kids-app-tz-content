@@ -13,7 +13,7 @@
 | data_items | 42 |
 | debug_toggle | 1 |
 | display_grid | 8 |
-| display_group | 71 |
+| display_group | 70 |
 | google_sign_in_button | 1 |
 | image | 43 |
 | items | 16 |
@@ -28,17 +28,16 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1911 |
+| set_variable | 1912 |
 | simple_checkbox | 1 |
-| subtitle | 2 |
+| subtitle | 1 |
 | task_card | 13 |
 | task_progress_bar | 3 |
 | template | 608 |
-| text | 136 |
+| text | 134 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 9 |
-| text_input | 1 |
 | title | 53 |
 | toggle_bar | 7 |
 | update_action_list | 3 |
@@ -53,9 +52,9 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 526 |
+| emit: completed | 535 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 11 |
+| emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
@@ -79,7 +78,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 135508 KB | 135.5 MB |
+| total | 135517 KB | 135.5 MB |
 | unused | 1384 KB | 1.4 MB |
 </details>
 
@@ -95,7 +94,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/books/yes_you_can/page16.jpg | 55.9 |
 | images/books/yes_you_can/page17.jpg | 7.9 |
 | images/icons/book_blue.svg | 0.8 |
@@ -356,7 +355,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_7.jpg | 1 |
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
-| images/icons/faces//angry_emoji.svg | 2 |
 | images/icons/locked.png | 1 |
 | images/modules/reflect/reflect_title_image.svg | 5 |
 </details>
@@ -457,7 +455,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/songs/ukuti_ukuti.mp3 | 370.7 | 6 |
 | audio/songs/watoto_wangu_ehh.mp3 | 272.3 | 6 |
 | audio/songs/yai_bovu.mp3 | 306.6 | 6 |
-| general_eng_survey.json | 1.7 | 1 |
 | images/additional_info/additional_information.svg | 29.2 | 1 |
 | images/additional_info/build.svg | 717.1 | 1 |
 | images/additional_info/choose.svg | 61.8 | 1 |
@@ -1294,7 +1291,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/cellphone.svg | 1.9 | 8 |
 | images/icons/cogwheel_blue.svg | 5.1 | 2 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
-| images/icons/faces/angry_emoji.svg | 2.8 | 4 |
+| images/icons/faces/angry_emoji.svg | 2.8 | 6 |
 | images/icons/faces/awake_emoji.svg | 1.7 | 2 |
 | images/icons/faces/frustrated_emoji.svg | 1.7 | 2 |
 | images/icons/faces/happy.svg | 1.4 | 4 |
@@ -1543,6 +1540,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/looping_rings.json | 10.4 | 4 |
 | lottie/soothing_waves.json | 7.6 | 7 |
 | lottie/square_flow.json | 5.9 | 6 |
+| odk/general_survey.json | 10.4 | 1 |
 </details>
 
 <details >

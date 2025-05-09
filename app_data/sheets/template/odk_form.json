@@ -13,69 +13,13 @@
       "_nested_name": "title"
     },
     {
-      "type": "display_group",
-      "name": "form_parameters",
-      "rows": [
-        {
-          "type": "text",
-          "name": "form_asset_name",
-          "value": "form_asset",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "width: 120px"
-          ],
-          "condition": false,
-          "_nested_name": "form_parameters.form_asset_name"
-        },
-        {
-          "type": "text_input",
-          "name": "form_asset_input",
-          "value": "general_eng_survey.json",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "width: 200px"
-          ],
-          "action_list": [
-            {
-              "trigger": "changed",
-              "action_id": "emit",
-              "args": [
-                "force_reprocess"
-              ],
-              "_raw": "changed | emit:force_reprocess",
-              "_cleaned": "changed | emit:force_reprocess"
-            }
-          ],
-          "_nested_name": "form_parameters.form_asset_input"
-        },
-        {
-          "type": "text",
-          "name": "form_asset_description",
-          "value": "Path to form asset data. This must be pre-processed using the xlsform converter workspace.",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "width: 300px"
-          ],
-          "condition": false,
-          "_nested_name": "form_parameters.form_asset_description"
-        }
-      ],
-      "_nested_name": "form_parameters"
-    },
-    {
-      "type": "subtitle",
-      "value": "**Module Feedback**",
+      "name": "form_asset_input",
+      "value": "odk/general_survey.json",
       "_translations": {
         "value": {}
       },
-      "name": "subtitle_5",
-      "_nested_name": "subtitle_5"
+      "type": "set_variable",
+      "_nested_name": "form_asset_input"
     },
     {
       "type": "odk_form",
