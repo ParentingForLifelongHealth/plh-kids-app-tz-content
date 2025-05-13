@@ -118,7 +118,9 @@
         "relax_1"
       ],
       "play_id_list": [
-        "[]"
+        "hide_and_seek",
+        "traditional_game",
+        "dream_travel"
       ],
       "books_id_list": [
         "decision",
@@ -414,14 +416,22 @@
       "status": "released",
       "number": "9",
       "facilitator_id": "facilitator_man",
+      "check_in_id": "check_in_1",
+      "relax_id": "relax_9",
       "relax_id_list": [
-        "[]"
+        "relax_3",
+        "relax_8",
+        "relax_9"
       ],
       "play_id_list": [
-        "[]"
+        "cooking_traditional_food",
+        "reflect_positive",
+        "making_music"
       ],
       "books_id_list": [
-        "[]"
+        "things_that_matter",
+        "yes_you_can",
+        "lesedis_sandbox"
       ],
       "audio_asset": "audio/songs/kulea_pamoja.mp3",
       "image_asset": "images/modules/reflect/reflect_title_image.svg",

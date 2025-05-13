@@ -155,7 +155,7 @@
       },
       "category_id": "why_build",
       "text_1": "In ParentApp for Kids, we use the image of a garden to think about what children need in their lives to grow and thrive.",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/build_garden.svg",
       "text_1_facilitator": "Let’s see how **building coping skills** forms part of the garden image.",
       "completed": false
     },
@@ -190,7 +190,7 @@
       },
       "category_id": "why_build",
       "text_1": "Young plants need protection and support to grow into strong plants that can survive droughts or storms. In the same way, parents can help their children build the skills they need to cope with challenges.",
-      "image_asset": "(insert GIF)",
+      "image_asset": "images/modules/build/build.gif",
       "media_title": "Listen to learn more:",
       "media_transcript": "Gardeners can’t control the weather, but there are things they can do to protect their plants and help them recover after a storm. In the same way, you can help your child to build the skills they need to cope with challenging circumstances. When parents use positive coping skills in their own lives, children learn to do the same. And when children feel safe and supported by their parents, they are able to face challenges and overcome setbacks with more confidence.",
       "completed": false
@@ -478,7 +478,7 @@
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "(image)",
+      "image_asset": "images/modules/build/reading_build.svg",
       "completed": false
     },
     {
@@ -502,7 +502,7 @@
         "text_1_facilitator": {},
         "text_2": {}
       },
-      "image_asset": "(cover of “A Very Important Tree”)",
+      "image_asset": "images/books/a_very_important_tree/cover.png",
       "text_1_facilitator": "This helps children better understand their own experiences, and the behaviours of others too.",
       "youtube_gb_en": "(need to add link)",
       "youtube_tz_sw": "(need to add link)",

@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_reflect_@gen.relax_id",
+  "flow_name": "article_reflect_relax_9",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -86,27 +86,12 @@
       "rows": [
         {
           "name": "id",
-          "value": "@gen.relax_id",
+          "value": "relax_9",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "relax.id",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@gen.relax_id",
-                "matchedExpression": "@gen.relax_id",
-                "type": "gen",
-                "fieldName": "relax_id"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@gen.relax_id": [
-              "value"
-            ]
-          }
+          "_nested_name": "relax.id"
         },
         {
           "type": "nested_properties",

@@ -148,6 +148,36 @@
       "flow_name": "play_mystery_box",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "play_cooking_traditional_food",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_hide_and_seek",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_reflect_positive",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_making_music",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_traditional_game",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "play_dream_travel",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }

@@ -36,7 +36,7 @@
     {
       "id": "why_talk_2",
       "category_id": "why_talk",
-      "image_asset": "images/modules/connect/connect_2.svg",
+      "image_asset": "images/modules/talk/why_talk_2.svg",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -62,7 +62,7 @@
     {
       "id": "why_talk_3",
       "category_id": "why_talk",
-      "image_asset": "images/modules/connect/connect_3.gif",
+      "image_asset": "images/modules/talk/talk.gif",
       "media_type": "audio",
       "media_asset": "audio/modules/talk/why_3.mp3",
       "title": "The ParentApp Garden",
@@ -338,7 +338,7 @@
     {
       "id": "using_books_1",
       "category_id": "books_talk",
-      "image_asset": "https://drive.google.com/file/d/1Rf0_bMs8wMs6P7Kce68rRikFiMTGWvze/view?usp=share_link",
+      "image_asset": "image",
       "text_1": "Book activities offer many opportunities for you and your child to talk and interact.",
       "_translations": {
         "text_1": {},
@@ -357,7 +357,7 @@
     {
       "id": "using_books_2",
       "category_id": "books_talk",
-      "image_asset": "Book page from To the Top! (page 5)",
+      "image_asset": "images/books/to_the_top/page5.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/talk/books_2.mp3",
       "text_1": "**Name and describe what you see in the pictures**\nThis helps your child learn new words and understand what is happening in the story.",
@@ -414,7 +414,6 @@
       "id": "using_books_4",
       "category_id": "books_talk",
       "image_asset": "images/modules/talk/talk_11.svg",
-      "section_1_image_asset": "https://drive.google.com/file/d/1gvZo3Dr_dSTGv_tEQG9WKIz8iR5yJzqN/view?usp=share_link",
       "text_1": "**Show your child you are listening.**\nThis will encourage your child to talk more.",
       "_translations": {
         "text_1": {},
@@ -433,12 +432,12 @@
           "eng": "See examples:"
         },
         "section_1_extra_text": {
-          "eng": "Look at your child / make eye contact\nNod your head\nMake encouraging sounds \nRespond to what they say"
+          "eng": "* Look at your child / make eye contact\n* Nod your head\n* Make encouraging sounds \n* Respond to what they say"
         }
       },
       "section_1_text": "How can I show my child that I am listening?",
       "section_1_button_text": "See examples:",
-      "section_1_extra_text": "Look at your child / make eye contact\nNod your head\nMake encouraging sounds \nRespond to what they say"
+      "section_1_extra_text": "* Look at your child / make eye contact\n* Nod your head\n* Make encouraging sounds \n* Respond to what they say"
     },
     {
       "id": "using_books_5",
