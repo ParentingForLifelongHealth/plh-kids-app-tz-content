@@ -2051,9 +2051,24 @@
         "text_1_left": {
           "tz_sw": true
         },
+        "guidance_cover": {
+          "tz_sw": true
+        },
+        "guidance_1_a": {},
+        "guidance_2_a": {},
+        "guidance_3_a": {},
+        "guidance_4_a": {},
         "text_5": {
           "tz_sw": true
         },
+        "guidance_5_a": {},
+        "guidance_6_a": {},
+        "guidance_7_a": {},
+        "guidance_8_a": {},
+        "guidance_9_a": {},
+        "guidance_10_a": {},
+        "guidance_11_a": {},
+        "guidance_12_a": {},
         "text_7_left": {
           "tz_sw": true
         },
@@ -2071,6 +2086,9 @@
         }
       },
       "_translatedFields": {
+        "guidance_cover": {
+          "eng": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?"
+        },
         "title": {
           "eng": "Lebo and Gogo's Tea Party"
         },
@@ -2083,35 +2101,71 @@
         "text_1_left": {
           "eng": "Lebo is at Gogo’s farm. She is bored with chasing the animals. \"Now you chase me, Gogo!\" Lebo shouts as she races past. \"Slow down, Lebo,\" Gogo says, hurrying to catch up."
         },
+        "guidance_1_a": {
+          "eng": "Describe the picture by pointing at the different images and say, “Look at this! Who do we see here? It’s a little girl and her grandma. Do you think they might be at a farm? What do you think they are doing?”"
+        },
         "text_2_left": {
           "eng": "Gogo trips over a rock while chasing Lebo. \"Ouch!\" she screams. Gogo has hurt her ankle."
+        },
+        "guidance_2_a": {
+          "eng": "Say, “Oh no! It looks like grandma might trip. She’s about to fall. I hope she will be okay.”"
         },
         "text_3_right": {
           "eng": "She comes back from the doctor with a special boot and crutches. \"Gogo, come back to the city with us so that we can take care of you,\" says Lebo’s mom. \"I won’t leave my farm. I will manage on my own,\" Gogo replies, stubbornly."
         },
+        "guidance_3_a": {
+          "eng": "Help the child to learn new words by pointing at the picture and naming the things you see. Say, “This is a special boot” and “These are crutches.” Then explain: “The doctor gave these to grandma because her leg is hurt.”\n\nAsk, “How do you think grandma feels? What makes you say that?”"
+        },
         "text_4_left": {
           "eng": "\"Gogo, you must come. We will have so much fun!\" Lebo says, excitedly."
+        },
+        "guidance_4_a": {
+          "eng": "Say, “Look, the girl is giving her grandma a hug, how kind! Would you like to give me a hug too?” (When the child hugs you, respond warmly with) “Mmm, that feels so nice. Thank you for the lovely hug!”"
         },
         "text_5": {
           "eng": "During the drive, Lebo bounces on her seat. She thinks of all the wild adventures she and Gogo will have in the city."
         },
+        "guidance_5_a": {
+          "eng": "Say, “Now, let’s look and talk together!” Point to the picture and ask your child, “How many houses can you see? How many cars are there? How many animals can you find? What color is the car? What color are the roofs of the houses? Can you tell me the color that both animals have?"
+        },
         "text_6_left": {
           "eng": "When they arrive at the house, Gogo rests on the sofa."
+        },
+        "guidance_6_a": {
+          "eng": "Help your child learn new words by pointing to things in the picture and saying their names. Ask your child to repeat after you. For example, you can say: ‘This is a lamp. These are crochet hooks. This is wool. This is a remote control.”"
         },
         "text_7_left": {
           "eng": "Lebo dashes into the lounge. \"Gogo, Gogo, I know what we can do today! We can go to the mall. There are lots of shops with nice toys and ice cream!\" \"I’m afraid I can’t. The mall is too big, and I will get so tired.\""
         },
+        "guidance_7_a": {
+          "eng": "Say, “look at the thought bubble above the girl’s head, could she be thinking of going to the shopping mall” \n\nAsk, “Have you ever been to the shopping mall?” If yes, “how was it? What did you do? Who did you go with?”"
+        },
         "text_8_left": {
           "eng": "\"Gogo, Gogo, I know what we can do today! We can go to the park!\" \"I’m afraid that won’t work. The dogs in the park will run around and could make me fall again.\""
+        },
+        "guidance_8_a": {
+          "eng": "Point at the thought bubble above the girl's head and say, “Now, let's look into the girl’s thought bubble again, what do you think she is thinking?"
         },
         "text_9_left": {
           "eng": "A second later, Lebo’s eyes are wide with excitement. \"Gogo, Gogo, I know what else we can do today. Let’s go to the beach.\" \"I’m sorry, Lebo. I’m afraid my crutches will sink into the soft sand.\""
         },
+        "guidance_9_a": {
+          "eng": "Point at the thought bubble again and say, “Wow, the girl is now thinking of something else, i wonder what could be going on in her mind.”"
+        },
         "text_10_left": {
           "eng": "Lebo is quiet while Gogo knits. Suddenly she has an idea!"
         },
+        "guidance_10_a": {
+          "eng": "Point to the girl and say: \"Look at her, she looks like she’s really thinking about something.\"Then ask the child: \"Can you show me what you look like when you're thinking really hard?\""
+        },
         "text_11_left": {
           "eng": "\"Gogo, Gogo, I know what we can do today! Let’s have a tea party. Gogo, you can sit here. I will bring everything to you because you are hurt.\""
+        },
+        "guidance_11_a": {
+          "eng": "Say, “Look! Maybe the girl is thinking about having a tea party. She brought many cups and a kettle, even though it's just her and grandma. Can you see her face? She looks very, very happy!”\nThen say, “This is how I look when I’m happy. Now, can you show me your happy face?”"
+        },
+        "guidance_12_a": {
+          "eng": "Say, \"Finally, everyone is having a tea party! Even Teddy is joining in with tea and biscuits. How fun is that?\"\nThen ask: \"How do you think everyone feels?\" \"What do you think about the story? Did you like it? Why or why not?\""
         }
       },
       "description": "Lebo is excited to have a day of adventure with Gogo. When Gogo hurts herself, she can’t do anything that Lebo wants to do. What can Gogo and Lebo do to have fun together?",
@@ -2121,7 +2175,20 @@
       "text_4_left": "\"Gogo, you must come. We will have so much fun!\" Lebo says, excitedly.",
       "text_6_left": "When they arrive at the house, Gogo rests on the sofa.",
       "text_1_left": "Lebo is at Gogo’s farm. She is bored with chasing the animals. \"Now you chase me, Gogo!\" Lebo shouts as she races past. \"Slow down, Lebo,\" Gogo says, hurrying to catch up.",
+      "guidance_cover": "Discuss the book’s cover.  Ask: What do you see? What do you think this story is about?",
+      "guidance_1_a": "Describe the picture by pointing at the different images and say, “Look at this! Who do we see here? It’s a little girl and her grandma. Do you think they might be at a farm? What do you think they are doing?”",
+      "guidance_2_a": "Say, “Oh no! It looks like grandma might trip. She’s about to fall. I hope she will be okay.”",
+      "guidance_3_a": "Help the child to learn new words by pointing at the picture and naming the things you see. Say, “This is a special boot” and “These are crutches.” Then explain: “The doctor gave these to grandma because her leg is hurt.”\n\nAsk, “How do you think grandma feels? What makes you say that?”",
+      "guidance_4_a": "Say, “Look, the girl is giving her grandma a hug, how kind! Would you like to give me a hug too?” (When the child hugs you, respond warmly with) “Mmm, that feels so nice. Thank you for the lovely hug!”",
       "text_5": "During the drive, Lebo bounces on her seat. She thinks of all the wild adventures she and Gogo will have in the city.",
+      "guidance_5_a": "Say, “Now, let’s look and talk together!” Point to the picture and ask your child, “How many houses can you see? How many cars are there? How many animals can you find? What color is the car? What color are the roofs of the houses? Can you tell me the color that both animals have?",
+      "guidance_6_a": "Help your child learn new words by pointing to things in the picture and saying their names. Ask your child to repeat after you. For example, you can say: ‘This is a lamp. These are crochet hooks. This is wool. This is a remote control.”",
+      "guidance_7_a": "Say, “look at the thought bubble above the girl’s head, could she be thinking of going to the shopping mall” \n\nAsk, “Have you ever been to the shopping mall?” If yes, “how was it? What did you do? Who did you go with?”",
+      "guidance_8_a": "Point at the thought bubble above the girl's head and say, “Now, let's look into the girl’s thought bubble again, what do you think she is thinking?",
+      "guidance_9_a": "Point at the thought bubble again and say, “Wow, the girl is now thinking of something else, i wonder what could be going on in her mind.”",
+      "guidance_10_a": "Point to the girl and say: \"Look at her, she looks like she’s really thinking about something.\"Then ask the child: \"Can you show me what you look like when you're thinking really hard?\"",
+      "guidance_11_a": "Say, “Look! Maybe the girl is thinking about having a tea party. She brought many cups and a kettle, even though it's just her and grandma. Can you see her face? She looks very, very happy!”\nThen say, “This is how I look when I’m happy. Now, can you show me your happy face?”",
+      "guidance_12_a": "Say, \"Finally, everyone is having a tea party! Even Teddy is joining in with tea and biscuits. How fun is that?\"\nThen ask: \"How do you think everyone feels?\" \"What do you think about the story? Did you like it? Why or why not?\"",
       "text_7_left": "Lebo dashes into the lounge. \"Gogo, Gogo, I know what we can do today! We can go to the mall. There are lots of shops with nice toys and ice cream!\" \"I’m afraid I can’t. The mall is too big, and I will get so tired.\"",
       "text_11_left": "\"Gogo, Gogo, I know what we can do today! Let’s have a tea party. Gogo, you can sit here. I will bring everything to you because you are hurt.\"",
       "text_8_left": "\"Gogo, Gogo, I know what we can do today! We can go to the park!\" \"I’m afraid that won’t work. The dogs in the park will run around and could make me fall again.\"",

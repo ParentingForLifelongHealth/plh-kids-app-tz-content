@@ -7,12 +7,30 @@
     {
       "id": "facilitator_woman",
       "role": "facilitator",
-      "image_asset": "images/facilitator_face_woman.svg"
+      "image_asset": "images/facilitator_face_woman.svg",
+      "name": "Leokadia",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Leokadia"
+        }
+      }
     },
     {
       "id": "facilitator_man",
       "role": "facilitator",
-      "image_asset": "images/facilitator_face_man.svg"
+      "image_asset": "images/facilitator_face_man.svg",
+      "name": "James",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "James"
+        }
+      }
     },
     {
       "id": "facilitator_woman_blue",
@@ -39,13 +57,13 @@
       "family_no": 1,
       "role": "caregiver",
       "image_asset": "images/character/family_1_mom.svg",
-      "name": "Mother",
+      "name": "Mama Shayo",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Mother"
+          "eng": "Mama Shayo"
         }
       }
     },
@@ -54,13 +72,13 @@
       "family_no": 1,
       "role": "caregiver",
       "image_asset": "images/character/family_1_dad.svg",
-      "name": "Father",
+      "name": "Bwana Shayo",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Father"
+          "eng": "Bwana Shayo"
         }
       }
     },
@@ -69,13 +87,13 @@
       "family_no": 1,
       "role": "child",
       "image_asset": "images/character/family_1_young_girl.svg",
-      "name": "Girl",
+      "name": "Aneth",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Girl"
+          "eng": "Aneth"
         }
       }
     },
@@ -84,13 +102,13 @@
       "family_no": 1,
       "role": "child",
       "image_asset": "images/character/family_1_boy.svg",
-      "name": "Boy",
+      "name": "Peter",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Boy"
+          "eng": "Peter"
         }
       }
     },
@@ -99,28 +117,28 @@
       "family_no": 1,
       "role": "caregiver",
       "image_asset": "images/character/family_1_grandma.svg",
-      "name": "Grandma",
+      "name": "Bibi Jane",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Grandma"
+          "eng": "Bibi Jane"
         }
       }
     },
     {
       "id": "f1_baby_boy",
-      "family_no": 2,
+      "family_no": 1,
       "role": "child",
       "image_asset": "images/character/family_2_baby.svg",
-      "name": "Baby",
+      "name": "Joseph",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Baby"
+          "eng": "Joseph"
         }
       }
     },
@@ -129,13 +147,13 @@
       "family_no": 2,
       "role": "child",
       "image_asset": "images/character/family_2_boy.svg",
-      "name": "Boy",
+      "name": "Dennis",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Boy"
+          "eng": "Dennis"
         }
       }
     },
@@ -144,13 +162,13 @@
       "family_no": 2,
       "role": "caregiver",
       "image_asset": "images/character/family_2_dad.svg",
-      "name": "Father",
+      "name": "Bwana Masanja",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Father"
+          "eng": "Bwana Masanja"
         }
       }
     },
@@ -159,13 +177,13 @@
       "family_no": 2,
       "role": "caregiver",
       "image_asset": "images/character/family_2_mom.svg",
-      "name": "Mother",
+      "name": "Mama Masanja",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Mother"
+          "eng": "Mama Masanja"
         }
       }
     },
@@ -174,13 +192,13 @@
       "family_no": 2,
       "role": "child",
       "image_asset": "images/character/family_2_teen_girl.svg",
-      "name": "Girl",
+      "name": "Anna",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Girl"
+          "eng": "Anna"
         }
       }
     },
@@ -189,13 +207,13 @@
       "family_no": 3,
       "role": "child",
       "image_asset": "images/character/family_3_boy_wheelchair.svg",
-      "name": "Asia",
+      "name": "Juma",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Asia"
+          "eng": "Juma"
         }
       }
     },
@@ -234,13 +252,13 @@
       "family_no": 3,
       "role": "caregiver",
       "image_asset": "images/character/family_3_grandpa.svg",
-      "name": "Grandpa",
+      "name": "Babu Musa",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Grandpa"
+          "eng": "Babu Musa"
         }
       }
     },
@@ -249,13 +267,13 @@
       "family_no": 3,
       "role": "caregiver",
       "image_asset": "images/character/family_3_mom.svg",
-      "name": "Mother",
+      "name": "Mama Issa",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Mother"
+          "eng": "Mama Issa"
         }
       }
     },
@@ -264,13 +282,13 @@
       "family_no": 3,
       "role": "child",
       "image_asset": "images/character/family_3_older_boy.svg",
-      "name": "Boy",
+      "name": "Hamisi",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Boy"
+          "eng": "Hamisi"
         }
       }
     },

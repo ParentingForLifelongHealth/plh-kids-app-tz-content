@@ -4778,6 +4778,14 @@
     "md5Checksum": "ce12863bf4427a80ff4925b429701d29",
     "size_kb": 131.5
   },
+  "images/learning_through_play/bao.svg": {
+    "md5Checksum": "065fb26d1b379fda7afc3192a78350df",
+    "size_kb": 5661.9
+  },
+  "images/learning_through_play/bao_icon.svg": {
+    "md5Checksum": "fbf3cd69c3f09d9e3f8c214c1eaa2397",
+    "size_kb": 8.6
+  },
   "images/learning_through_play/build_a_road.svg": {
     "md5Checksum": "01395e45ca51c9a577133dd4f18b5879",
     "size_kb": 127.3
@@ -4785,6 +4793,14 @@
   "images/learning_through_play/build_a_road_circle.svg": {
     "md5Checksum": "11ba16ce09e95cbdb2e2b26468770d75",
     "size_kb": 75.1
+  },
+  "images/learning_through_play/cook_traditional.svg": {
+    "md5Checksum": "f403b4569501b082ca9cb930b319e008",
+    "size_kb": 40.7
+  },
+  "images/learning_through_play/cook_traditional_icon.svg": {
+    "md5Checksum": "bc574a8f3f3f008182212786ab32d8b5",
+    "size_kb": 56.1
   },
   "images/learning_through_play/cooking_together.svg": {
     "md5Checksum": "87f3d8f5d91d3650c5603d7084837750",
@@ -4801,6 +4817,14 @@
   "images/learning_through_play/count_and_compare_circle.svg": {
     "md5Checksum": "cd4fc4af7d371a760abfe757c064e38f",
     "size_kb": 103.2
+  },
+  "images/learning_through_play/dream.svg": {
+    "md5Checksum": "9baefc918f7ed076f77b4ed6bb73fcf8",
+    "size_kb": 42.5
+  },
+  "images/learning_through_play/dream_icon.svg": {
+    "md5Checksum": "1782cb7f15f2018b3184c56e3879623d",
+    "size_kb": 27.7
   },
   "images/learning_through_play/favorite_play.svg": {
     "md5Checksum": "a75312842433301c235018cb55fb4745",
@@ -4877,6 +4901,14 @@
   "images/learning_through_play/play_resources.svg": {
     "md5Checksum": "48a24cb6a5e64a260a8cc1507c98fd5e",
     "size_kb": 210.1
+  },
+  "images/learning_through_play/reflect_positive.svg": {
+    "md5Checksum": "4554dfb6ecb01b51f9bde46c895dd850",
+    "size_kb": 76.9
+  },
+  "images/learning_through_play/reflect_positive_icon.svg": {
+    "md5Checksum": "3a69a60733e12baf2e221a05e1b9b57b",
+    "size_kb": 45
   },
   "images/learning_through_play/senses_circle.svg": {
     "md5Checksum": "78de10cec8ee8a8354a1a6e5a4b4414c",
@@ -4998,6 +5030,22 @@
     "md5Checksum": "1a804daa6801af3a2fad2a7e17cc8698",
     "size_kb": 176
   },
+  "images/modules/build/build.gif": {
+    "md5Checksum": "b0e79906feaeaa40d8a57f4cdb7159e4",
+    "size_kb": 7782
+  },
+  "images/modules/build/build_1.svg": {
+    "md5Checksum": "b5d6a150420b710c9e2eb0f59a8391a6",
+    "size_kb": 18.3
+  },
+  "images/modules/build/build_garden.svg": {
+    "md5Checksum": "c865ad50676840ea5e0d313f4d277a25",
+    "size_kb": 152.1
+  },
+  "images/modules/build/build_practice.svg": {
+    "md5Checksum": "c71472d20de5c98af39aca452b3da1ce",
+    "size_kb": 23.6
+  },
   "images/modules/build/build_title_image.svg": {
     "md5Checksum": "7bb3f17e34ea9ae979d4da879c437b65",
     "size_kb": 41
@@ -5009,6 +5057,10 @@
   "images/modules/build/how_build_3.svg": {
     "md5Checksum": "c6cfae4be28ac5a28164dcb932e73a35",
     "size_kb": 42
+  },
+  "images/modules/build/how_to_build.svg": {
+    "md5Checksum": "de92c13886f26928281f23af16ad48be",
+    "size_kb": 32.5
   },
   "images/modules/build/power_build_1.svg": {
     "md5Checksum": "be13bd15cf03657879e0ecc6225d5742",
@@ -5030,9 +5082,73 @@
     "md5Checksum": "15726b9836467c3d06e4446d8318df73",
     "size_kb": 43.9
   },
+  "images/modules/build/reading_build.svg": {
+    "md5Checksum": "222dbb428a636609345907ac36cb7ab3",
+    "size_kb": 70.5
+  },
+  "images/modules/care/build_practice.svg": {
+    "md5Checksum": "3dcbbbce471b669f3c091292af150c58",
+    "size_kb": 34.3
+  },
+  "images/modules/care/care.gif": {
+    "md5Checksum": "aa4a36b6a98c6b4f448f2b6401c7319b",
+    "size_kb": 2521
+  },
   "images/modules/care/care_title_image.svg": {
     "md5Checksum": "3520bc768398181442057b0a2d07a87f",
     "size_kb": 174.4
+  },
+  "images/modules/care/how_care_connect.svg": {
+    "md5Checksum": "ecb98ccbb3b35ffb2d0cf1418b98fc05",
+    "size_kb": 170.5
+  },
+  "images/modules/care/how_to_care.svg": {
+    "md5Checksum": "03e8be725372059d3ba2d150001b0226",
+    "size_kb": 43.9
+  },
+  "images/modules/care/kind_yourself.svg": {
+    "md5Checksum": "749d72ba3561527ec2d1edf2f28f9d76",
+    "size_kb": 466.2
+  },
+  "images/modules/care/power_care_1.svg": {
+    "md5Checksum": "ba36c806a1f81e249ee1b16dde84b2eb",
+    "size_kb": 380
+  },
+  "images/modules/care/power_care_2.svg": {
+    "md5Checksum": "58343a9889d85dd2ee6e82876ecf04c7",
+    "size_kb": 152.3
+  },
+  "images/modules/care/power_care_3.svg": {
+    "md5Checksum": "79dcd95a6655c9d1efa3939200d3eed4",
+    "size_kb": 183.6
+  },
+  "images/modules/care/power_care_4.svg": {
+    "md5Checksum": "81712bfda5d2323b5e7acd4a72675876",
+    "size_kb": 271.8
+  },
+  "images/modules/care/take_a_pause.svg": {
+    "md5Checksum": "27b706268784a64ca3ec9c0c506a8759",
+    "size_kb": 74.3
+  },
+  "images/modules/care/using_books_1.svg": {
+    "md5Checksum": "8d12837c6844e8c03610baac05f64ca5",
+    "size_kb": 102.2
+  },
+  "images/modules/care/using_books_2.svg": {
+    "md5Checksum": "a60f697f9f32bec833bb1736c90d28cf",
+    "size_kb": 174.3
+  },
+  "images/modules/care/using_books_3.svg": {
+    "md5Checksum": "700f1509cab3ae82fbf1d19f325367d4",
+    "size_kb": 186.1
+  },
+  "images/modules/care/why_care_1.svg": {
+    "md5Checksum": "a83bcc59e985372ed59d617fc72dfbdf",
+    "size_kb": 29
+  },
+  "images/modules/care/why_care_2.svg": {
+    "md5Checksum": "05d2a306b6148caea70ae80c2d6627fc",
+    "size_kb": 305.3
   },
   "images/modules/connect/connect_1.svg": {
     "md5Checksum": "a83bcc59e985372ed59d617fc72dfbdf",
@@ -5111,8 +5227,8 @@
     "size_kb": 32.5
   },
   "images/modules/create/create_11.svg": {
-    "md5Checksum": "f05baecd7bb72ed00a6fcf6d0a993bd3",
-    "size_kb": 71.3
+    "md5Checksum": "af346600c6e1046669874e494737f57a",
+    "size_kb": 73.4
   },
   "images/modules/create/create_12.svg": {
     "md5Checksum": "bf7ee88cbece591c918056a7ae398610",
@@ -5194,6 +5310,10 @@
     "md5Checksum": "9e0608efef395b44586022be89d5c191",
     "size_kb": 124.7
   },
+  "images/modules/explore/explore.gif": {
+    "md5Checksum": "fa316d9a8ac5ea041c206c2163240ef3",
+    "size_kb": 10211.4
+  },
   "images/modules/explore/explore_title_image.svg": {
     "md5Checksum": "92a5089671fe0af5770e327245779a08",
     "size_kb": 341.3
@@ -5201,6 +5321,10 @@
   "images/modules/explore/how_explore_2.svg": {
     "md5Checksum": "10798c0799b1d958118832bd4072f4aa",
     "size_kb": 93.3
+  },
+  "images/modules/explore/how_explore_3.svg": {
+    "md5Checksum": "01395e45ca51c9a577133dd4f18b5879",
+    "size_kb": 127.3
   },
   "images/modules/explore/power_explore_2.svg": {
     "md5Checksum": "d8a6bb84f7847cee25470cc38695f88e",
@@ -5217,6 +5341,10 @@
   "images/modules/explore/power_explore_5.svg": {
     "md5Checksum": "db40d0efaa06a7b6ce66363d3cdc3198",
     "size_kb": 225.7
+  },
+  "images/modules/explore/reading_explore.svg": {
+    "md5Checksum": "173e7055e868bcff53c133fb39b0cc86",
+    "size_kb": 28.3
   },
   "images/modules/join/all_modules.svg": {
     "md5Checksum": "e317abd5d1a1b0f27a9f7dc00885a6a2",
@@ -5398,6 +5526,14 @@
     "md5Checksum": "4e713c219b4d80ae7c55c879ae37987e",
     "size_kb": 136.9
   },
+  "images/modules/reflect/be_kind_to_yourself.svg": {
+    "md5Checksum": "749d72ba3561527ec2d1edf2f28f9d76",
+    "size_kb": 466.2
+  },
+  "images/modules/reflect/reflect.gif": {
+    "md5Checksum": "aa4a36b6a98c6b4f448f2b6401c7319b",
+    "size_kb": 2521
+  },
   "images/modules/reflect/reflect_1.svg": {
     "md5Checksum": "9df7f0f4bfb0b1250e74d67a83016e5f",
     "size_kb": 296
@@ -5409,6 +5545,14 @@
   "images/modules/reflect/reflect_3.svg": {
     "md5Checksum": "b86d82d6c4aaa001507a1ee84fcba31b",
     "size_kb": 10.4
+  },
+  "images/modules/reflect/take_a_pause.svg": {
+    "md5Checksum": "27b706268784a64ca3ec9c0c506a8759",
+    "size_kb": 74.3
+  },
+  "images/modules/talk/talk.gif": {
+    "md5Checksum": "1deed2c7fc7c3bdabbf40da12509b00b",
+    "size_kb": 4022.8
   },
   "images/modules/talk/talk_1.svg": {
     "md5Checksum": "09c78c7d1d12b09c3e8c5dd79dfa74fc",
@@ -5461,6 +5605,14 @@
   "images/modules/talk/talk_title_image.svg": {
     "md5Checksum": "85b799f25ae17ab905bb284f7c182322",
     "size_kb": 154.6
+  },
+  "images/modules/talk/why_talk.svg": {
+    "md5Checksum": "a83bcc59e985372ed59d617fc72dfbdf",
+    "size_kb": 29
+  },
+  "images/modules/talk/why_talk_2.svg": {
+    "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
+    "size_kb": 286.7
   },
   "images/relax/relax_1.svg": {
     "md5Checksum": "3e4f51d3df0247b17825eb6a78eb66d9",

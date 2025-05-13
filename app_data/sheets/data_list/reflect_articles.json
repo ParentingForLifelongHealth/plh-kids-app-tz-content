@@ -104,9 +104,9 @@
     {
       "id": "caring_you_1",
       "category_id": "caring_you",
-      "section_1_image_asset": "(insert image)",
-      "section_2_image_asset": "(insert image)",
-      "section_3_image_asset": "(insert image)",
+      "section_1_image_asset": "images/module/care/take_a_pause.svg",
+      "section_2_image_asset": "images/module/care/kind_yourself.svg",
+      "section_3_image_asset": "images/module/care/how_care_connect.svg",
       "text_1_facilitator": "During this journey, we shared ideas for how to care for yourself. Here’s a reminder:",
       "_translations": {
         "text_1_facilitator": {},
@@ -150,7 +150,7 @@
     {
       "id": "caring_you_2",
       "category_id": "caring_you",
-      "image_asset": "Add GIF",
+      "image_asset": "images/modules/care/care.gif",
       "quiz_1_option_1_image_asset": "images/modules/connect/thumbs_up_brown.svg",
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1_facilitator": "Remember that caring for others starts with caring for yourself.",
@@ -393,8 +393,8 @@
       "id": "learn_books_3",
       "category_id": "learn_books",
       "section_1_image_asset": "images/modules/talk/talk_12.svg",
-      "section_2_image_asset": "(need to add - from BUILD)",
-      "section_3_image_asset": "(need to add - from EXPLORE: building_books_1)",
+      "section_2_image_asset": "images/modules/build/reading_build.svg",
+      "section_3_image_asset": "images/modules/explore/reading_explore.svg",
       "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
       "_translations": {
         "text_1_facilitator": {},
@@ -439,7 +439,7 @@
       "id": "keep_going_1",
       "category_id": "practice",
       "image_asset": "images/modules/reflect/reflect_2.svg",
-      "section_1_image_asset": "(need to add)",
+      "section_1_image_asset": "images/modules/care/how_care_connect.svg",
       "section_2_image_asset": "images/modules/connect/connect_4.svg",
       "section_3_image_asset": "images/modules/reflect/reflect_3.svg",
       "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",

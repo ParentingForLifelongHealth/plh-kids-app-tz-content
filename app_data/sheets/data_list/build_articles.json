@@ -36,7 +36,7 @@
     {
       "id": "why_build_2",
       "category_id": "why_build",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/build/build_garden.svg",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -62,7 +62,7 @@
     {
       "id": "why_build_3",
       "category_id": "why_build",
-      "image_asset": "(insert GIF)",
+      "image_asset": "images/modules/build/build.gif",
       "media_type": "audio",
       "media_asset": "audio/modules/build/why_build_3.mp3",
       "title": "The ParentApp Garden",
@@ -359,7 +359,7 @@
     {
       "id": "using_books_1",
       "category_id": "books_build",
-      "image_asset": "(image)",
+      "image_asset": "images/modules/build/reading_build.svg",
       "text_1": "Book activities offer many opportunities to help children learn key life skills. \n\nHere are some ideas for using books and stories to help children build their social and emotional skills.",
       "_translations": {
         "text_1": {}
@@ -373,7 +373,7 @@
     {
       "id": "using_books_2",
       "category_id": "books_build",
-      "image_asset": "(cover of “A Very Important Tree”)",
+      "image_asset": "images/books/a_very_important_tree/cover.png",
       "media_type": "video",
       "youtube_gb_en": "(need to add link)",
       "youtube_tz_sw": "(need to add link)",

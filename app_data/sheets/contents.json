@@ -133,6 +133,20 @@
       "_xlsxPath": "modules/TZ modules.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
     },
+    "essential_tools": {
+      "flow_type": "data_list",
+      "flow_name": "essential_tools",
+      "data_list_name": "essential_tools",
+      "_xlsxPath": "Resource centre/TZ essential_tools.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+    },
+    "essential_tools_tags": {
+      "flow_type": "data_list",
+      "flow_name": "essential_tools_tags",
+      "data_list_name": "essential_tools_tags",
+      "_xlsxPath": "Resource centre/TZ essential_tools.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+    },
     "explore_articles": {
       "flow_type": "data_list",
       "flow_name": "explore_articles",
@@ -2755,6 +2769,36 @@
           "flow_name": "play_mystery_box",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "play_cooking_traditional_food",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_hide_and_seek",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_reflect_positive",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_making_music",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_traditional_game",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "play_dream_travel",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -3618,7 +3662,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_reflect_@gen.check_in_id",
+          "flow_name": "article_reflect_check_in_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3677,7 +3721,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_reflect_@gen.relax_id",
+          "flow_name": "article_reflect_relax_9",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -5035,16 +5079,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_reflect_@gen.check_in_id": {
-      "flow_name": "article_reflect_@gen.check_in_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_reflect_@gen.relax_id": {
-      "flow_name": "article_reflect_@gen.relax_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_reflect_Congratulations_1": {
       "flow_name": "article_reflect_Congratulations_1",
       "flow_subtype": "generated",
@@ -5080,6 +5114,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_reflect_check_in_1": {
+      "flow_name": "article_reflect_check_in_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_reflect_keep_going_1": {
       "flow_name": "article_reflect_keep_going_1",
       "flow_subtype": "generated",
@@ -5097,6 +5136,11 @@
     },
     "article_reflect_learn_books_3": {
       "flow_name": "article_reflect_learn_books_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_reflect_relax_9": {
+      "flow_name": "article_reflect_relax_9",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6575,8 +6619,18 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "play_cooking_traditional_food": {
+      "flow_name": "play_cooking_traditional_food",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "play_count_and_compare": {
       "flow_name": "play_count_and_compare",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "play_dream_travel": {
+      "flow_name": "play_dream_travel",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6595,8 +6649,18 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "play_hide_and_seek": {
+      "flow_name": "play_hide_and_seek",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "play_household_helpers": {
       "flow_name": "play_household_helpers",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "play_making_music": {
+      "flow_name": "play_making_music",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6612,6 +6676,11 @@
     },
     "play_pattern_play": {
       "flow_name": "play_pattern_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "play_reflect_positive": {
+      "flow_name": "play_reflect_positive",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6637,6 +6706,11 @@
     },
     "play_story": {
       "flow_name": "play_story",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "play_traditional_game": {
+      "flow_name": "play_traditional_game",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

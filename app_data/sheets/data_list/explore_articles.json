@@ -62,7 +62,7 @@
     {
       "id": "why_explore_3",
       "category_id": "why_explore",
-      "image_asset": "(insert GIF)",
+      "image_asset": "images/modules/explore/explore.gif",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {
@@ -125,7 +125,7 @@
     {
       "id": "how_to_explore_3",
       "category_id": "how_explore",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/explore/how_explore_3.svg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/how_3.mp3",
       "text_1": "**Solve problems together**\nInstead of solving your child’s problems for them, support them to come up with solutions that they can try themselves.",
@@ -329,7 +329,7 @@
     {
       "id": "using_books_1",
       "category_id": "books_explore",
-      "image_asset": "(insert)",
+      "image_asset": "images/modules/explore/reading_explore.svg",
       "text_1": "Books and stories encourage children to explore different ideas and learn about the world.",
       "_translations": {
         "text_1": {},
@@ -348,7 +348,7 @@
     {
       "id": "using_books__2",
       "category_id": "books_explore",
-      "image_asset": "INSERT PAGE 7 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_7.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/books_2.mp3",
       "text_1": "**Ask questions about the story**\nThis helps children think about what is happening, why this might be happening, and what might happen next.",
@@ -374,7 +374,7 @@
     {
       "id": "using_books_3",
       "category_id": "books_explore",
-      "image_asset": "INSERT PAGE 3 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_3.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/books_3.mp3",
       "text_1": "Make connections between what you see in the book and your child’s life.",
@@ -402,7 +402,7 @@
     {
       "id": "using_books_4",
       "category_id": "books_explore",
-      "image_asset": "INSERT PAGE 15 FROM BIG BLUE BUS",
+      "image_asset": "images/books/big_blue_bus/image_15.jpg",
       "media_type": "audio",
       "media_asset": "audio/modules/explore/books_4.mp3",
       "text_1": "**Count and compare**  \n Use the pictures to count or make comparisons between different objects or characters.",
