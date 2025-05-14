@@ -1,0 +1,118 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_essential",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "essential_tools",
+    "output_flow_name": "essential_tools_{@gen.id}",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "essential_activity",
+      "value": "essential_activity",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "essential_id",
+          "value": "@gen.id"
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "Resource centre/TZ activities template generators.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+  "_output_flows": [
+    {
+      "flow_name": "essential_tools_id_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_6",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_10",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_11",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_13",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "essential_tools_id_14",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

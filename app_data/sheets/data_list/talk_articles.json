@@ -338,7 +338,7 @@
     {
       "id": "using_books_1",
       "category_id": "books_talk",
-      "image_asset": "image",
+      "image_asset": "images/modules/talk/books_talk.svg",
       "text_1": "Book activities offer many opportunities for you and your child to talk and interact.",
       "_translations": {
         "text_1": {},

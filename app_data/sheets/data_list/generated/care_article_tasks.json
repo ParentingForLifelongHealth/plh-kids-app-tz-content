@@ -414,7 +414,7 @@
       "category_id": "power_care",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_emoji.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/neutral.svg",
-      "quiz_1_option_3_image_asset": "emoji",
+      "quiz_1_option_3_image_asset": "images/icons/faces/stressed_emoji.svg",
       "quiz_1_feedback_1": "Have another look at @data.characters.f3_grandma.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "_translations": {
         "quiz_1_feedback_1": {},

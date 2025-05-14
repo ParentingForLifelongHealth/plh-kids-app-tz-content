@@ -254,7 +254,7 @@
       "category_id": "power_care",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_emoji.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/neutral.svg",
-      "quiz_1_option_3_image_asset": "emoji",
+      "quiz_1_option_3_image_asset": "images/icons/faces/stressed_emoji.svg",
       "text_1_facilitator": "Let’s reflect.",
       "_translations": {
         "text_1_facilitator": {},
