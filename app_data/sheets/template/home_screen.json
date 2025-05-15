@@ -376,9 +376,8 @@
                     "variant": "inline_padding"
                   },
                   "style_list": [
-                    "background-color: var(--ion-color-primary-100)",
-                    "padding-block: 6px",
-                    "margin-top: -6px"
+                    "padding-block: 12px",
+                    "margin-top: -12px"
                   ],
                   "rows": [
                     {

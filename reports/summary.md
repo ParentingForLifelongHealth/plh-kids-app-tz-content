@@ -3,19 +3,19 @@
 
 | type | count |
 | --- | --- |
-| accordion | 5 |
-| accordion_section | 7 |
+| accordion | 6 |
+| accordion_section | 9 |
 | advanced_dashed_box | 5 |
 | apple_sign_in_button | 1 |
 | audio | 15 |
-| button | 64 |
+| button | 65 |
 | combo_box | 6 |
-| data_items | 42 |
+| data_items | 44 |
 | debug_toggle | 1 |
-| display_grid | 8 |
-| display_group | 70 |
+| display_grid | 9 |
+| display_group | 71 |
 | google_sign_in_button | 1 |
-| image | 43 |
+| image | 49 |
 | items | 16 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
@@ -28,18 +28,18 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1918 |
+| set_variable | 1969 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 13 |
 | task_progress_bar | 3 |
-| template | 614 |
-| text | 134 |
+| template | 630 |
+| text | 143 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 9 |
-| title | 53 |
-| toggle_bar | 7 |
+| title | 55 |
+| toggle_bar | 8 |
 | update_action_list | 3 |
 | video | 3 |
 | youtube | 3 |
@@ -52,23 +52,23 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 541 |
+| emit: completed | 556 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 534 |
+| emit: uncompleted | 549 |
 | feedback | 13 |
-| go_to | 31 |
+| go_to | 32 |
 | nav | 1 |
 | nav_stack | 1 |
 | pop_up | 25 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 32 |
-| set_item | 18 |
-| set_local | 21 |
+| set_field | 33 |
+| set_item | 19 |
+| set_local | 22 |
 | task | 3 |
 | user | 2 |
 </details>
@@ -78,8 +78,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 169254 KB | 169.3 MB |
-| unused | 4549 KB | 4.5 MB |
+| total | 169431 KB | 169.4 MB |
+| unused | 1543 KB | 1.5 MB |
 </details>
 
 <details open>
@@ -144,10 +144,9 @@ Assets that appear in app-data but do not have references within sheets
 | images/modules/build/build_1.svg | 18.3 |
 | images/modules/build/build_practice.svg | 23.6 |
 | images/modules/build/how_to_build.svg | 32.5 |
-| images/modules/reflect/be_kind_to_yourself.svg | 466.2 |
-| images/modules/reflect/reflect.gif | 2521 |
-| images/modules/reflect/take_a_pause.svg | 74.3 |
+| images/modules/reflect/reflect_2.svg | 53.6 |
 | images/modules/talk/why_talk.svg | 29 |
+| images/orli/Stressed_emoji.svg | 2.1 |
 | images/relax/relax_man.svg | 27 |
 | images/relax/relax_woman.svg | 14.8 |
 | images/tz_map.svg | 398.5 |
@@ -363,10 +362,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
 | images/icons/locked.png | 1 |
-| images/module/care/how_care_connect.svg | 2 |
-| images/module/care/kind_yourself.svg | 2 |
-| images/module/care/take_a_pause.svg | 2 |
-| images/modules/reflect/reflect_title_image.svg | 5 |
 </details>
 
 <details >
@@ -1314,10 +1309,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/sad_emoji.svg | 1.5 | 4 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 25 |
 | images/icons/faces/scared_emoji.svg | 1.8 | 2 |
+| images/icons/faces/stressed_emoji.svg | 2.1 | 2 |
 | images/icons/faces/tired_emoji.svg | 1.3 | 4 |
 | images/icons/faces/valued.svg | 3.4 | 2 |
-| images/icons/fine_heart.svg | 1.2 | 6 |
-| images/icons/full_heart.svg | 0.7 | 6 |
+| images/icons/fine_heart.svg | 1.2 | 7 |
+| images/icons/full_heart.svg | 0.7 | 7 |
 | images/icons/house_blue.svg | 3 | 2 |
 | images/icons/in_progress.svg | 1.1 | 5 |
 | images/icons/jigsaw_blue.svg | 5.9 | 2 |
@@ -1418,14 +1414,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/care/build_practice.svg | 34.3 | 2 |
 | images/modules/care/care.gif | 2521 | 4 |
 | images/modules/care/care_title_image.svg | 174.4 | 5 |
-| images/modules/care/how_care_connect.svg | 170.5 | 4 |
+| images/modules/care/how_care_connect.svg | 170.5 | 6 |
 | images/modules/care/how_to_care.svg | 43.9 | 2 |
-| images/modules/care/kind_yourself.svg | 466.2 | 2 |
+| images/modules/care/kind_yourself.svg | 466.2 | 4 |
 | images/modules/care/power_care_1.svg | 380 | 2 |
 | images/modules/care/power_care_2.svg | 152.3 | 2 |
 | images/modules/care/power_care_3.svg | 183.6 | 2 |
 | images/modules/care/power_care_4.svg | 271.8 | 2 |
-| images/modules/care/take_a_pause.svg | 74.3 | 2 |
+| images/modules/care/take_a_pause.svg | 74.3 | 4 |
 | images/modules/care/using_books_1.svg | 102.2 | 2 |
 | images/modules/care/using_books_2.svg | 174.3 | 2 |
 | images/modules/care/using_books_3.svg | 186.1 | 2 |
@@ -1525,9 +1521,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/using_books_5.svg | 107.6 | 2 |
 | images/modules/play/why_play_1.svg | 29 | 2 |
 | images/modules/play/why_play_2.svg | 136.9 | 2 |
+| images/modules/reflect/idea_box.svg | 27.7 | 2 |
 | images/modules/reflect/reflect_1.svg | 296 | 2 |
-| images/modules/reflect/reflect_2.svg | 53.6 | 2 |
-| images/modules/reflect/reflect_3.svg | 10.4 | 2 |
+| images/modules/reflect/reflect_book_sharing.svg | 129.5 | 2 |
+| images/modules/reflect/reflect_title_image.svg | 53.2 | 5 |
+| images/modules/talk/books_talk.svg | 28.2 | 2 |
 | images/modules/talk/talk.gif | 4022.8 | 2 |
 | images/modules/talk/talk_1.svg | 491.8 | 2 |
 | images/modules/talk/talk_10.svg | 92.2 | 2 |
@@ -1596,10 +1594,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 3 |
 | data_pipe | generated | 17 |
-| generator |  | 38 |
+| generator |  | 39 |
 | global |  | 3 |
 | global | legal_terms | 1 |
-| template |  | 83 |
-| template | generated | 535 |
+| template |  | 86 |
+| template | generated | 549 |
 | template | legal_terms | 4 |
 </details>

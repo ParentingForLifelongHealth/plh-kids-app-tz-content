@@ -4558,6 +4558,10 @@
     "md5Checksum": "3953316a69f0c6eee3f2433b1e3b9e86",
     "size_kb": 1.8
   },
+  "images/icons/faces/stressed_emoji.svg": {
+    "md5Checksum": "12d96aef21f1cf91c32575a29744d644",
+    "size_kb": 2.1
+  },
   "images/icons/faces/tired.svg": {
     "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
     "size_kb": 2.4
@@ -5526,13 +5530,9 @@
     "md5Checksum": "4e713c219b4d80ae7c55c879ae37987e",
     "size_kb": 136.9
   },
-  "images/modules/reflect/be_kind_to_yourself.svg": {
-    "md5Checksum": "749d72ba3561527ec2d1edf2f28f9d76",
-    "size_kb": 466.2
-  },
-  "images/modules/reflect/reflect.gif": {
-    "md5Checksum": "aa4a36b6a98c6b4f448f2b6401c7319b",
-    "size_kb": 2521
+  "images/modules/reflect/idea_box.svg": {
+    "md5Checksum": "ea9857254393ca36b7fbba8dbbeb86c6",
+    "size_kb": 27.7
   },
   "images/modules/reflect/reflect_1.svg": {
     "md5Checksum": "9df7f0f4bfb0b1250e74d67a83016e5f",
@@ -5542,13 +5542,17 @@
     "md5Checksum": "a989248971647795f02e97c11600710b",
     "size_kb": 53.6
   },
-  "images/modules/reflect/reflect_3.svg": {
-    "md5Checksum": "b86d82d6c4aaa001507a1ee84fcba31b",
-    "size_kb": 10.4
+  "images/modules/reflect/reflect_book_sharing.svg": {
+    "md5Checksum": "31aa8b2c5b9e012dd5b338a9c5ab2a78",
+    "size_kb": 129.5
   },
-  "images/modules/reflect/take_a_pause.svg": {
-    "md5Checksum": "27b706268784a64ca3ec9c0c506a8759",
-    "size_kb": 74.3
+  "images/modules/reflect/reflect_title_image.svg": {
+    "md5Checksum": "aa190ec4ffed66822c69c1d63ac1c2c4",
+    "size_kb": 53.2
+  },
+  "images/modules/talk/books_talk.svg": {
+    "md5Checksum": "3ccc488fa7a68ca6de4453a61c123263",
+    "size_kb": 28.2
   },
   "images/modules/talk/talk.gif": {
     "md5Checksum": "1deed2c7fc7c3bdabbf40da12509b00b",
@@ -5613,6 +5617,10 @@
   "images/modules/talk/why_talk_2.svg": {
     "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
     "size_kb": 286.7
+  },
+  "images/orli/Stressed_emoji.svg": {
+    "md5Checksum": "12d96aef21f1cf91c32575a29744d644",
+    "size_kb": 2.1
   },
   "images/relax/relax_1.svg": {
     "md5Checksum": "3e4f51d3df0247b17825eb6a78eb66d9",
