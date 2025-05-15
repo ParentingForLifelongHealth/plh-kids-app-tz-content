@@ -255,12 +255,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "169431 KB",
+        "KB": "169432 KB",
         "MB": "169.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "1543 KB",
+        "KB": "1548 KB",
         "MB": "1.5 MB"
       }
     ]
@@ -289,7 +289,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 6.1
+        "size_kb": 5.9
       },
       {
         "path": "images/books/yes_you_can/page16.jpg",
@@ -458,6 +458,10 @@
       {
         "path": "images/icons/star_outline_white.svg",
         "size_kb": 1
+      },
+      {
+        "path": "images/icons/temporarily_disabled_grey.svg",
+        "size_kb": 4.4
       },
       {
         "path": "images/icons/thought_bubble.svg",
@@ -6335,7 +6339,7 @@
       {
         "path": "images/icons/temporarily_disabled.svg",
         "count": 1,
-        "size_kb": 4.4
+        "size_kb": 5.6
       },
       {
         "path": "images/icons/terms_conditions.svg",

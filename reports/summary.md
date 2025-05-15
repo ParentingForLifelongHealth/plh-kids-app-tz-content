@@ -78,8 +78,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 169431 KB | 169.4 MB |
-| unused | 1543 KB | 1.5 MB |
+| total | 169432 KB | 169.4 MB |
+| unused | 1548 KB | 1.5 MB |
 </details>
 
 <details open>
@@ -94,7 +94,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
-| contents.json | 6.1 |
+| contents.json | 5.9 |
 | images/books/yes_you_can/page16.jpg | 55.9 |
 | images/books/yes_you_can/page17.jpg | 7.9 |
 | images/icons/book_blue.svg | 0.8 |
@@ -137,6 +137,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/smile_eyes_down_blue.svg | 1.4 |
 | images/icons/star_outline_blue.svg | 1 |
 | images/icons/star_outline_white.svg | 1 |
+| images/icons/temporarily_disabled_grey.svg | 4.4 |
 | images/icons/thought_bubble.svg | 2.1 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/favicon.svg | 3.6 |
@@ -1331,7 +1332,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/relax_icon.svg | 17.8 | 1 |
 | images/icons/smile_eyes_down.svg | 0.9 | 11 |
 | images/icons/smile_eyes_up.svg | 1 | 20 |
-| images/icons/temporarily_disabled.svg | 4.4 | 1 |
+| images/icons/temporarily_disabled.svg | 5.6 | 1 |
 | images/icons/terms_conditions.svg | 1.5 | 1 |
 | images/icons/tick.svg | 0.3 | 4 |
 | images/icons/tick_white.svg | 0.3 | 1 |

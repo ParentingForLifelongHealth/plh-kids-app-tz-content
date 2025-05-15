@@ -1087,8 +1087,8 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "df9c81f319411188b557a9430db42686",
-    "size_kb": 6.1
+    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
+    "size_kb": 5.9
   },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
@@ -4743,6 +4743,10 @@
     "size_kb": 1
   },
   "images/icons/temporarily_disabled.svg": {
+    "md5Checksum": "94a866c898d20e1c6f19b2d27f046aa7",
+    "size_kb": 5.6
+  },
+  "images/icons/temporarily_disabled_grey.svg": {
     "md5Checksum": "aed99a7b3cb6dbe8846f2a61e1f179e4",
     "size_kb": 4.4
   },
