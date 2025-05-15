@@ -65,7 +65,6 @@
           "target_template": "settings"
         }
       ],
-      "condition": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "button_list",
@@ -148,6 +147,7 @@
           "target_template": "settings"
         }
       ],
+      "condition": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "button_list"
@@ -155,7 +155,8 @@
     {
       "type": "navigation_bar",
       "parameter_list": {
-        "button_list": "@local.button_list"
+        "button_list": "@local.button_list",
+        "variant": "text_primary"
       },
       "name": "navigation_bar_8",
       "_nested_name": "navigation_bar_8",

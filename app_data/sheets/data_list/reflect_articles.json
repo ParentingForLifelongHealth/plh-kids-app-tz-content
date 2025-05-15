@@ -34,7 +34,6 @@
     {
       "id": "Congratulations_2",
       "category_id": "why_reflect",
-      "image_asset": "(CAN WE ADD A LOTTIE FILE HERE TO GO WITH THE REFLECTION ACTIVITY BELOW?)",
       "media_type": "audio",
       "media_asset": "audio/modules/reflect/congs_2.mp3",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_emoji.svg",
@@ -104,9 +103,9 @@
     {
       "id": "caring_you_1",
       "category_id": "caring_you",
-      "section_1_image_asset": "images/module/care/take_a_pause.svg",
-      "section_2_image_asset": "images/module/care/kind_yourself.svg",
-      "section_3_image_asset": "images/module/care/how_care_connect.svg",
+      "section_1_image_asset": "images/modules/care/take_a_pause.svg",
+      "section_2_image_asset": "images/modules/care/kind_yourself.svg",
+      "section_3_image_asset": "images/modules/care/how_care_connect.svg",
       "text_1_facilitator": "During this journey, we shared ideas for how to care for yourself. Here’s a reminder:",
       "_translations": {
         "text_1_facilitator": {},
@@ -200,7 +199,7 @@
     {
       "id": "caring_child_1",
       "category_id": "caring_child",
-      "section_1_image_asset": "(add image)",
+      "section_1_image_asset": "images/modules/reflect/reflect_book_sharing.svg",
       "section_2_image_asset": "images/modules/create/create_9.svg",
       "section_3_image_asset": "images/modules/play/how_to_play_3.svg",
       "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
@@ -438,10 +437,9 @@
     {
       "id": "keep_going_1",
       "category_id": "practice",
-      "image_asset": "images/modules/reflect/reflect_2.svg",
       "section_1_image_asset": "images/modules/care/how_care_connect.svg",
       "section_2_image_asset": "images/modules/connect/connect_4.svg",
-      "section_3_image_asset": "images/modules/reflect/reflect_3.svg",
+      "section_3_image_asset": "images/modules/reflect/idea_box.svg",
       "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",
       "_translations": {
         "text_1": {},

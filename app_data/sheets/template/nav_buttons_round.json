@@ -26,7 +26,7 @@
           ],
           "parameter_list": {
             "icon_src": "chevron-back",
-            "style": "information"
+            "style": "navigation"
           },
           "_nested_name": "buttons.button_uncompleted_chevron"
         },
@@ -46,7 +46,7 @@
           ],
           "parameter_list": {
             "icon_src": "chevron-forward",
-            "style": "information"
+            "style": "navigation"
           },
           "_nested_name": "buttons.button_completed_chevron"
         }
