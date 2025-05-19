@@ -78,8 +78,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 169432 KB | 169.4 MB |
-| unused | 1548 KB | 1.5 MB |
+| total | 170578 KB | 170.6 MB |
+| unused | 1676 KB | 1.7 MB |
 </details>
 
 <details open>
@@ -94,7 +94,10 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
+| images/additional_info/nutrition_6.svg | 25.4 |
+| images/additional_info/nutrition_7.svg | 74.6 |
+| images/additional_info/nutrition_8.svg | 27.8 |
 | images/books/yes_you_can/page16.jpg | 55.9 |
 | images/books/yes_you_can/page17.jpg | 7.9 |
 | images/icons/book_blue.svg | 0.8 |
@@ -464,10 +467,18 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/additional_info/additional_information.svg | 29.2 | 1 |
 | images/additional_info/build.svg | 717.1 | 1 |
 | images/additional_info/choose.svg | 61.8 | 1 |
-| images/additional_info/financial_literacy_1.svg | 173.6 | 2 |
+| images/additional_info/financial_literacy_1.svg | 173.6 | 1 |
 | images/additional_info/financial_literacy_2.svg | 330.7 | 1 |
 | images/additional_info/financial_literacy_3.svg | 34504.5 | 1 |
 | images/additional_info/financial_literacy_4.svg | 76.1 | 2 |
+| images/additional_info/financial_literacy_circle.svg | 140 | 1 |
+| images/additional_info/nutrition.svg | 120.7 | 1 |
+| images/additional_info/nutrition_1.svg | 50.9 | 1 |
+| images/additional_info/nutrition_2.svg | 110.4 | 1 |
+| images/additional_info/nutrition_3.svg | 87.4 | 1 |
+| images/additional_info/nutrition_4.svg | 90.2 | 1 |
+| images/additional_info/nutrition_5.svg | 64.1 | 1 |
+| images/additional_info/nutrition_circle.svg | 120.2 | 1 |
 | images/additional_info/plan.svg | 721.6 | 1 |
 | images/additional_info/think.svg | 702.9 | 3 |
 | images/backgrounds/map.jpg | 85.1 | 1 |
@@ -1359,10 +1370,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/learning_through_play/gardening_circle.svg | 93.3 | 1 |
 | images/learning_through_play/happy_things.svg | 172.3 | 1 |
 | images/learning_through_play/happy_things_circle.svg | 209.2 | 1 |
+| images/learning_through_play/hide_and_seek.svg | 90.4 | 1 |
+| images/learning_through_play/hide_and_seek_circle.svg | 88.4 | 1 |
 | images/learning_through_play/household_helpers.svg | 334.6 | 1 |
 | images/learning_through_play/household_helpers_circle.svg | 299.8 | 1 |
 | images/learning_through_play/makes_us_special.svg | 149.5 | 1 |
 | images/learning_through_play/makes_us_special_circle.svg | 143.5 | 1 |
+| images/learning_through_play/making_music.svg | 118.7 | 1 |
+| images/learning_through_play/making_music_circle.svg | 63.8 | 1 |
 | images/learning_through_play/music_dancing.svg | 117.2 | 1 |
 | images/learning_through_play/music_dancing_circle.svg | 75.9 | 1 |
 | images/learning_through_play/mystery_box.svg | 54.2 | 1 |

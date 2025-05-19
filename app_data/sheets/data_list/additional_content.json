@@ -63,7 +63,7 @@
     },
     {
       "id": "income_generating",
-      "image_cover_asset": "images/additional_info/financial_literacy_1.svg",
+      "image_cover_asset": "images/additional_info/financial_literacy_circle.svg",
       "image_asset": "images/additional_info/financial_literacy_4.svg",
       "step_1_image_asset": "images/additional_info/financial_literacy_1.svg",
       "step_2_image_asset": "images/additional_info/financial_literacy_2.svg",
@@ -114,11 +114,13 @@
     },
     {
       "id": "nutrition",
-      "step_1_image_asset": "(insert image)",
-      "step_2_image_asset": "(insert image)",
-      "step_3_image_asset": "(insert image)",
-      "step_4_image_asset": "(insert image)",
-      "step_5_image_asset": "(insert image)",
+      "image_cover_asset": "images/additional_info/nutrition_circle.svg",
+      "image_asset": "images/additional_info/nutrition.svg",
+      "step_1_image_asset": "images/additional_info/nutrition_1.svg",
+      "step_2_image_asset": "images/additional_info/nutrition_2.svg",
+      "step_3_image_asset": "images/additional_info/nutrition_3.svg",
+      "step_4_image_asset": "images/additional_info/nutrition_4.svg",
+      "step_5_image_asset": "images/additional_info/nutrition_5.svg",
       "tag_list": [
         "nutrition"
       ],

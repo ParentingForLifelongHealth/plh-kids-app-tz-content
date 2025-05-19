@@ -255,13 +255,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "169432 KB",
-        "MB": "169.4 MB"
+        "KB": "170578 KB",
+        "MB": "170.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "1548 KB",
-        "MB": "1.5 MB"
+        "KB": "1676 KB",
+        "MB": "1.7 MB"
       }
     ]
   },
@@ -289,7 +289,19 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
+      },
+      {
+        "path": "images/additional_info/nutrition_6.svg",
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/additional_info/nutrition_7.svg",
+        "size_kb": 74.6
+      },
+      {
+        "path": "images/additional_info/nutrition_8.svg",
+        "size_kb": 27.8
       },
       {
         "path": "images/books/yes_you_can/page16.jpg",
@@ -1998,7 +2010,7 @@
       },
       {
         "path": "images/additional_info/financial_literacy_1.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 173.6
       },
       {
@@ -2015,6 +2027,46 @@
         "path": "images/additional_info/financial_literacy_4.svg",
         "count": 2,
         "size_kb": 76.1
+      },
+      {
+        "path": "images/additional_info/financial_literacy_circle.svg",
+        "count": 1,
+        "size_kb": 140
+      },
+      {
+        "path": "images/additional_info/nutrition.svg",
+        "count": 1,
+        "size_kb": 120.7
+      },
+      {
+        "path": "images/additional_info/nutrition_1.svg",
+        "count": 1,
+        "size_kb": 50.9
+      },
+      {
+        "path": "images/additional_info/nutrition_2.svg",
+        "count": 1,
+        "size_kb": 110.4
+      },
+      {
+        "path": "images/additional_info/nutrition_3.svg",
+        "count": 1,
+        "size_kb": 87.4
+      },
+      {
+        "path": "images/additional_info/nutrition_4.svg",
+        "count": 1,
+        "size_kb": 90.2
+      },
+      {
+        "path": "images/additional_info/nutrition_5.svg",
+        "count": 1,
+        "size_kb": 64.1
+      },
+      {
+        "path": "images/additional_info/nutrition_circle.svg",
+        "count": 1,
+        "size_kb": 120.2
       },
       {
         "path": "images/additional_info/plan.svg",
@@ -6472,6 +6524,16 @@
         "size_kb": 209.2
       },
       {
+        "path": "images/learning_through_play/hide_and_seek.svg",
+        "count": 1,
+        "size_kb": 90.4
+      },
+      {
+        "path": "images/learning_through_play/hide_and_seek_circle.svg",
+        "count": 1,
+        "size_kb": 88.4
+      },
+      {
         "path": "images/learning_through_play/household_helpers.svg",
         "count": 1,
         "size_kb": 334.6
@@ -6490,6 +6552,16 @@
         "path": "images/learning_through_play/makes_us_special_circle.svg",
         "count": 1,
         "size_kb": 143.5
+      },
+      {
+        "path": "images/learning_through_play/making_music.svg",
+        "count": 1,
+        "size_kb": 118.7
+      },
+      {
+        "path": "images/learning_through_play/making_music_circle.svg",
+        "count": 1,
+        "size_kb": 63.8
       },
       {
         "path": "images/learning_through_play/music_dancing.svg",
