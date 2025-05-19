@@ -18,14 +18,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/181d0x10HEFkSaaGt6XaD1saDo0hk8Sx6fZ2clYsUFt0",
       "title": "Budgeting",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {},
-        "step_4_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -74,13 +90,27 @@
       ],
       "title": "Income Generating Activities",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {},
-        "step_4_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -126,15 +156,33 @@
       ],
       "title": "Nutrition",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {},
-        "step_4_text": {},
-        "step_5_text": {},
-        "tips_text": {},
-        "extension_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        },
+        "step_5_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        },
+        "extension_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -186,14 +234,30 @@
       ],
       "title": "Healthy eating habits",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {},
-        "step_4_text": {},
-        "step_5_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        },
+        "step_4_text": {
+          "tz_sw": true
+        },
+        "step_5_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -121,9 +121,15 @@
       "category_id": "why_reflect",
       "text_1": "Well done! You have completed the ParentApp modules, building important skills to take care of yourself and your family.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/reflect/reflect_1.svg",
       "media_title": "Listen to your congratulations message:",
@@ -172,10 +178,18 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
       "quiz_1_feedback_1": "Wonderful! Keep celebrating these successes and remember that every step forward – big or small - is something to be proud of.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -185,9 +199,15 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "media_title": {},
-        "media_transcript": {},
-        "text_1_facilitator": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "We understand – making changes can take time. You can always revisit the modules in the app – sometimes looking back can spark new ideas.",
       "quiz_1_feedback_3": "Thank you for being honest. Change can be challenging and facing obstacles is normal. The fact that you are reflecting on this shows your dedication as a parent.",
@@ -228,13 +248,27 @@
       "category_id": "caring_you",
       "text_1_facilitator": "During this journey, we shared ideas for how to care for yourself. Here’s a reminder:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "section_1_image_asset": "images/modules/care/take_a_pause.svg",
       "section_2_image_asset": "images/modules/care/kind_yourself.svg",
@@ -277,17 +311,27 @@
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "quiz_1_feedback_1": "Well done! It takes real strength to recognize that caring for yourself isn’t selfish-it’s what lets you show up as the parent you want to be.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
-        "image_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That’s okay – we know how hard it can be. Self-care isn’t about perfection; it’s about small moments that add up over time. So keep going.",
       "quiz_1_question": "Have you managed to take care of yourself?",
@@ -326,19 +370,27 @@
       "category_id": "caring_child",
       "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "section_1_image_asset": "images/modules/reflect/reflect_book_sharing.svg",
       "section_2_image_asset": "images/modules/create/create_9.svg",
@@ -379,19 +431,27 @@
       "category_id": "caring_child",
       "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "section_1_image_asset": "images/modules/talk/talk_title_image.svg",
       "section_2_image_asset": "images/modules/build/build_title_image.svg",
@@ -412,8 +472,12 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -443,7 +507,9 @@
       "category_id": "learn_books",
       "text_1": "During this journey, we shared many ideas for using books and stories to help children learn.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/join/join_14.svg",
       "completed": false
@@ -476,13 +542,27 @@
       "category_id": "learn_books",
       "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "section_1_image_asset": "images/modules/connect/connect_10.svg",
       "section_2_image_asset": "images/modules/create/create_17.svg",
@@ -523,13 +603,27 @@
       "category_id": "learn_books",
       "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "section_1_image_asset": "images/modules/talk/talk_12.svg",
       "section_2_image_asset": "images/modules/build/reading_build.svg",
@@ -573,14 +667,30 @@
       "category_id": "practice",
       "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "text_1_facilitator": "To build on what you are already doing, here are three tips to keep going:",
       "section_1_image_asset": "images/modules/care/how_care_connect.svg",

@@ -37,7 +37,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -86,7 +88,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -135,7 +139,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -184,7 +190,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -233,7 +241,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -282,7 +292,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -331,7 +343,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -380,7 +394,9 @@
         "description": {
           "tz_sw": true
         },
-        "congratulation_text": {}
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -423,9 +439,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1ULxQeRPqWjJyQp8dD_JBW3dUL-CCA47a5Fck-DtZH1E",
       "title": "REFLECT",
       "_translations": {
-        "title": {},
-        "description": {},
-        "congratulation_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "congratulation_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -121,11 +121,15 @@
       "category_id": "why_explore",
       "text_1": "Children are born with a natural interest in the people and objects around them. \nThis week, we will look at how parents can encourage children to **EXPLORE** and learn from the world around them.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/connect/connect_1.svg",
       "media_title": "Listen to learn more:",
@@ -139,8 +143,12 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -166,7 +174,9 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -191,7 +201,9 @@
       "category_id": "how_explore",
       "text_1": "Here’s how to help children explore and learn from the world around them:",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/connect/connect_7.svg",
       "completed": false
@@ -214,11 +226,15 @@
       "category_id": "how_explore",
       "text_1": "**Be curious together**\n Turn learning into a shared adventure. Try new things together and experiment with different ideas.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/explore/how_explore_2.svg",
       "media_title": "Listen to learn more:",
@@ -243,11 +259,15 @@
       "category_id": "how_explore",
       "text_1": "**Solve problems together**\nInstead of solving your child’s problems for them, support them to come up with solutions that they can try themselves.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/explore/how_explore_3.svg",
       "media_title": "Listen to learn more:",
@@ -285,14 +305,30 @@
       "category_id": "power_explore",
       "quiz_1_feedback_1": "When it comes to screens, it can be really challenging for children to follow rules and instructions. Involving your child in finding solutions can help make a difference.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "section_1_text": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Children are still learning how to manage their emotions and interact with others. Finding solutions that can help your child get along with friends is important.",
       "quiz_1_feedback_3": "To follow rules, children need self-control and motivation, which takes lots of practice. Work with your child to find solutions that can help them get there.",
@@ -309,12 +345,18 @@
       "media_type": "audio",
       "title": "How to solve problems: Step 1",
       "_translations": {
-        "title": {},
-        "text_1": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -343,12 +385,18 @@
       "media_type": "audio",
       "title": "How to solve problems: Step 2",
       "_translations": {
-        "title": {},
-        "text_1": {},
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -375,10 +423,18 @@
       "id": "the_power_of_explore_4",
       "title": "How to solve problems: Step 3",
       "_translations": {
-        "title": {},
-        "text_1": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -407,10 +463,18 @@
       "id": "the_power_of_explore_5",
       "title": "How to solve problems: Step 4",
       "_translations": {
-        "title": {},
-        "text_1": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -448,8 +512,12 @@
       "category_id": "books_explore",
       "text_1": "Books and stories encourage children to explore different ideas and learn about the world.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/explore/reading_explore.svg",
       "text_1_facilitator": "Here’s how to use books to explore:",
@@ -473,9 +541,15 @@
       "category_id": "books_explore",
       "text_1": "**Ask questions about the story**\nThis helps children think about what is happening, why this might be happening, and what might happen next.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/books/big_blue_bus/image_7.jpg",
       "media_title": "Listen to an example:",
@@ -500,11 +574,15 @@
       "category_id": "books_explore",
       "text_1": "Make connections between what you see in the book and your child’s life.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/books/big_blue_bus/image_3.jpg",
       "media_title": "Listen for an example:",
@@ -529,11 +607,15 @@
       "category_id": "books_explore",
       "text_1": "**Count and compare**  \n Use the pictures to count or make comparisons between different objects or characters.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/books/big_blue_bus/image_15.jpg",
       "media_title": "Listen for an example:",
@@ -550,7 +632,9 @@
       "category_id": "books_explore",
       "text_1": "Three easy ways to use book activities to explore:\n1. Ask questions about the story and what might happen.\n2. Make connections between the book and your child’s life.\n3. Use the pictures to practice counting and make comparisons.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/explore/books_5.svg",
       "completed": false
@@ -565,7 +649,9 @@
       "category_id": "practice",
       "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 When a problem arises, involve your child in finding a solution and trying it out. \n📖 Make connections between the book and your child’s life.\n😌 Think about something you are curious about or want to learn more about. Make some time to explore your interests!",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/connect/connect_14.svg",
       "completed": false

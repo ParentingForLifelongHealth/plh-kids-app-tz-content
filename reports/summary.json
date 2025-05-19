@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1969
+        "count": 1993
       },
       {
         "type": "simple_checkbox",
@@ -231,7 +231,7 @@
       },
       {
         "type": "set_field",
-        "count": 33
+        "count": 37
       },
       {
         "type": "set_item",
@@ -7721,6 +7721,11 @@
         "type": "template",
         "subtype": "legal_terms",
         "total": 4
+      },
+      {
+        "type": "tour",
+        "subtype": null,
+        "total": 1
       }
     ]
   }

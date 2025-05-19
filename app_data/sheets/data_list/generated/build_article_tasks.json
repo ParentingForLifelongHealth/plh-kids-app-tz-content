@@ -121,11 +121,15 @@
       "category_id": "why_build",
       "text_1": "Dealing with challenges is a part of life. \n\nParents can help children **BUILD** the skills they need to cope when life gets tough.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/create/create_1.svg",
       "media_title": "Listen to learn more:",
@@ -139,8 +143,12 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -168,11 +176,15 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -205,7 +217,9 @@
       "category_id": "how_build",
       "text_1": "Here are some ideas for helping children build the skills they need to cope with challenges.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/create/create_10.svg",
       "completed": false
@@ -228,11 +242,15 @@
       "category_id": "how_build",
       "text_1": "**Talk about feelings**\n Noticing and talking about feelings help children learn to express and manage their emotions – even the difficult ones.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/build/how_build_2.svg",
       "media_title": "Listen to learn more:",
@@ -257,9 +275,15 @@
       "category_id": "how_build",
       "text_1": "**Show them how**\n Children learn a lot by watching their parents. So, instead of telling your child how to cope with a challenging situation, show them with your own behaviours.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/build/how_build_3.svg",
       "media_title": "Listen for examples:",
@@ -283,9 +307,15 @@
       "image_asset": "images/modules/build/power_build_1.svg",
       "text_1_facilitator": "Let’s see how @data.characters.f2_father.name supports @data.characters.f2_boy.name to overcome a challenging situation:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_1_id": "f2_father",
       "character_2_id": "f2_boy",
@@ -305,7 +335,9 @@
       "character_1_id": "f2_father",
       "character_1_text": "Whoops! There goes our ball!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -325,8 +357,12 @@
       "character_2_id": "f2_father",
       "character_1_text": "Stupid ball! Now we can’t play anymore!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "I can see your hands are in fists and that you are feeling angry about the ball @data.characters.f2_boy.name. I understand - you wanted to do more kicks, and now we don’t have a ball. It’s okay to feel upset.",
       "completed": false
@@ -343,7 +379,9 @@
       "character_1_id": "f2_father",
       "character_1_text": "Let’s take a deep breath and go inside to drink some cold water. When the neighbours come home, we can go collect our ball from their garden.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -359,7 +397,9 @@
       "character_1_id": "f2_father",
       "character_1_text": "It can be hard when things don’t go our way. We all feel angry sometimes. Well done for taking a deep breath and coming inside. We will have another chance to play tomorrow.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -424,10 +464,18 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/angry_emoji.svg",
       "quiz_1_feedback_1": "Have another look at his facial expression and body language. He is frowning and his hands are in fists. He is feeling angry.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -437,16 +485,36 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Have another look at his facial expression and body language. He is frowning and his hands are in fists. He is feeling angry.",
       "quiz_1_feedback_3": "Yes, he is feeling angry because he lost the ball and they had to stop playing.",
@@ -476,7 +544,9 @@
       "category_id": "books_build",
       "text_1": "Book activities offer many opportunities to help children learn key life skills. \n\nHere are some ideas for using books and stories to help children build their social and emotional skills.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/build/reading_build.svg",
       "completed": false
@@ -498,9 +568,15 @@
       "category_id": "books_build",
       "text_1": "Use stories to discuss different feelings, experiences and actions.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/books/a_very_important_tree/cover.png",
       "text_1_facilitator": "This helps children better understand their own experiences, and the behaviours of others too.",
@@ -519,7 +595,9 @@
       "category_id": "books_build",
       "text_1": "Three easy ways to use book activities to build your child’s skills:\n1. Talk about what the characters are feeling\n2. Ask questions about what the characters are doing and why\n3. Reflect together on the story and what you have learned",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/build/books_build_3.svg",
       "completed": false
@@ -534,7 +612,9 @@
       "category_id": "practice",
       "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Use challenging moments as an opportunity to model healthy coping skills.\n📖 Use story books to learn about different feelings and actions.\n😌 Setbacks and challenges are a normal part of life. Remember to be kind to yourself.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/create/create_21.svg",
       "completed": false

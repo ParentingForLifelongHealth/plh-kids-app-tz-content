@@ -13,12 +13,24 @@
       "phone_no_2": "Call number 119",
       "title": "Support for Children",
       "_translations": {
-        "title": {},
-        "sub_title_1": {},
-        "text_1": {},
-        "sub_title_2": {},
-        "text_2": {},
-        "facilitator_text_2": {}
+        "title": {
+          "tz_sw": true
+        },
+        "sub_title_1": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "sub_title_2": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "facilitator_text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -53,10 +65,18 @@
       "phone_no_1": "Call number 119",
       "title": "Support for Caregivers",
       "_translations": {
-        "title": {},
-        "sub_title_1": {},
-        "text_1": {},
-        "facilitator_text_1": {}
+        "title": {
+          "tz_sw": true
+        },
+        "sub_title_1": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "facilitator_text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -91,18 +111,42 @@
       "phone_no_5": "Call 0762211827\nCall 0744654725\nCall 0717697768",
       "title": "List of Organizations in Kinondoni District",
       "_translations": {
-        "title": {},
-        "sub_title_1": {},
-        "description_1": {},
-        "sub_title_2": {},
-        "description_2": {},
-        "sub_title_3": {},
-        "description_3": {},
-        "sub_title_4": {},
-        "description_4": {},
-        "text_4": {},
-        "sub_title_5": {},
-        "description_5": {}
+        "title": {
+          "tz_sw": true
+        },
+        "sub_title_1": {
+          "tz_sw": true
+        },
+        "description_1": {
+          "tz_sw": true
+        },
+        "sub_title_2": {
+          "tz_sw": true
+        },
+        "description_2": {
+          "tz_sw": true
+        },
+        "sub_title_3": {
+          "tz_sw": true
+        },
+        "description_3": {
+          "tz_sw": true
+        },
+        "sub_title_4": {
+          "tz_sw": true
+        },
+        "description_4": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "sub_title_5": {
+          "tz_sw": true
+        },
+        "description_5": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

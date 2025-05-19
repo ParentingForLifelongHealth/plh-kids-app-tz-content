@@ -39,7 +39,9 @@
       "image_asset": "images/additional_info/additional_information.svg",
       "name": "Additional Resources",
       "_translations": {
-        "name": {}
+        "name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -51,7 +53,9 @@
       "id": "essential",
       "name": "Essential Tools",
       "_translations": {
-        "name": {}
+        "name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -64,7 +68,9 @@
       "image_asset": "images/songs_resources.svg",
       "name": "Songs",
       "_translations": {
-        "name": {}
+        "name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -77,8 +83,12 @@
       "image_asset": "images/support/support_information.svg",
       "name": "Support Information",
       "_translations": {
-        "name": {},
-        "text": {}
+        "name": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "name": {

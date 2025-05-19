@@ -43,7 +43,9 @@
           "name": "category_id",
           "value": "relax",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "module_start_at_cat.category_id"

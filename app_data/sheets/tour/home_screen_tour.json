@@ -1,0 +1,48 @@
+{
+  "flow_type": "tour",
+  "flow_name": "home_screen_tour",
+  "status": "released",
+  "rows": [
+    {
+      "type": "step",
+      "title": "Welcome to @global.app_name",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "message_text": {}
+      },
+      "message_text": "<p>You deserve to feel good, and have happier family relationships.</p>\n\n<p>@global.app_name is here to support you.</p>\n\n<p>Here is how to use the app:</p>",
+      "route": "template/home_screen_modular"
+    },
+    {
+      "type": "step",
+      "message_text": "This big button takes you to the session we encourage you to explore.",
+      "_translations": {
+        "message_text": {}
+      },
+      "template_component_name": "dg_highlighted_session",
+      "route": "template/home_screen_modular"
+    },
+    {
+      "type": "step",
+      "message_text": "Here you can select any of the other sessions in @global.app_name by swiping to the next sessions.",
+      "_translations": {
+        "message_text": {}
+      },
+      "template_component_name": "dg_all_session",
+      "route": "template/home_screen_modular"
+    },
+    {
+      "type": "step",
+      "message_text": "You can explore any session whenever you want. To build your knowledge and skills in Parenting, access all of the content in one session before moving to the next one.",
+      "_translations": {
+        "message_text": {}
+      },
+      "template_component_name": "dg_all_session",
+      "route": "template/home_screen_modular"
+    }
+  ],
+  "_xlsxPath": "tour/home_screen_tour.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+}

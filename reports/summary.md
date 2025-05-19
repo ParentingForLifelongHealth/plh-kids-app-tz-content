@@ -28,7 +28,7 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1969 |
+| set_variable | 1993 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 13 |
@@ -66,7 +66,7 @@
 | pop_up | 25 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 33 |
+| set_field | 37 |
 | set_item | 19 |
 | set_local | 22 |
 | task | 3 |
@@ -1616,4 +1616,5 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | template |  | 86 |
 | template | generated | 549 |
 | template | legal_terms | 4 |
+| tour |  | 1 |
 </details>

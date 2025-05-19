@@ -9,8 +9,12 @@
       "name": "animal",
       "title": "Animal songs",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -27,8 +31,12 @@
       "name": "child_care",
       "title": "Child care and protection songs",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -45,8 +53,12 @@
       "name": "fun",
       "title": "Fun Songs",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -63,8 +75,12 @@
       "name": "counting",
       "title": "Counting Song",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -81,8 +97,12 @@
       "name": "plant",
       "title": "Plant Song",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

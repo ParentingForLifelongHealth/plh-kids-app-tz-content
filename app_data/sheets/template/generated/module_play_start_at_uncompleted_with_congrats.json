@@ -7,7 +7,9 @@
       "name": "module_id",
       "value": "play",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -192,7 +194,9 @@
               "name": "module_id",
               "value": "play",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "exclude_from_translation": true,
               "type": "set_variable",

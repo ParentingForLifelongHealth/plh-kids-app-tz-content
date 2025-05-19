@@ -109,7 +109,9 @@
       "name": "title_prefix",
       "value": "This week",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "title_prefix"
@@ -118,7 +120,9 @@
       "name": "start",
       "value": "Start",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "start"
