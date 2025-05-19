@@ -7514,5 +7514,12 @@
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
     }
   },
-  "tour": {}
+  "tour": {
+    "home_screen_tour": {
+      "flow_type": "tour",
+      "flow_name": "home_screen_tour",
+      "_xlsxPath": "tour/home_screen_tour.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+    }
+  }
 }

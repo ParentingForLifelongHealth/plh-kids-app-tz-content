@@ -21,6 +21,7 @@
     },
     {
       "type": "plh_progress_path",
+      "name": "dg_path",
       "parameter_list": {
         "background_image_asset": "@local.background_image_asset",
         "starting_position": "top"
@@ -31,6 +32,7 @@
       "rows": [
         {
           "type": "data_items",
+          "name": "dg_path_loop",
           "value": "@data.module_tasks",
           "rows": [
             {
@@ -47,7 +49,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "plh_progress_path_4.data_items_1.module_@item.id.module_id",
+                  "_nested_name": "dg_path.dg_path_loop.module_@item.id.module_id",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -59,7 +61,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "plh_progress_path_4.data_items_1.module_@item.id.module_id",
+                        "fullExpression": "dg_path.dg_path_loop.module_@item.id.module_id",
                         "matchedExpression": "@item.id.module_id",
                         "type": "item",
                         "fieldName": "id"
@@ -83,7 +85,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "plh_progress_path_4.data_items_1.module_@item.id.is_locked",
+                  "_nested_name": "dg_path.dg_path_loop.module_@item.id.is_locked",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -101,7 +103,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "plh_progress_path_4.data_items_1.module_@item.id.is_locked",
+                        "fullExpression": "dg_path.dg_path_loop.module_@item.id.is_locked",
                         "matchedExpression": "@item.id.is_locked",
                         "type": "item",
                         "fieldName": "id"
@@ -128,7 +130,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "plh_progress_path_4.data_items_1.module_@item.id.is_highlighted",
+                  "_nested_name": "dg_path.dg_path_loop.module_@item.id.is_highlighted",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -152,7 +154,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "plh_progress_path_4.data_items_1.module_@item.id.is_highlighted",
+                        "fullExpression": "dg_path.dg_path_loop.module_@item.id.is_highlighted",
                         "matchedExpression": "@item.id.is_highlighted",
                         "type": "item",
                         "fieldName": "id"
@@ -182,7 +184,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "plh_progress_path_4.data_items_1.module_@item.id.is_completed",
+                  "_nested_name": "dg_path.dg_path_loop.module_@item.id.is_completed",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -194,7 +196,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "plh_progress_path_4.data_items_1.module_@item.id.is_completed",
+                        "fullExpression": "dg_path.dg_path_loop.module_@item.id.is_completed",
                         "matchedExpression": "@item.id.is_completed",
                         "type": "item",
                         "fieldName": "id"
@@ -218,11 +220,11 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "plh_progress_path_4.data_items_1.module_@item.id.variant",
+                  "_nested_name": "dg_path.dg_path_loop.module_@item.id.variant",
                   "_dynamicFields": {
                     "_nested_name": [
                       {
-                        "fullExpression": "plh_progress_path_4.data_items_1.module_@item.id.variant",
+                        "fullExpression": "dg_path.dg_path_loop.module_@item.id.variant",
                         "matchedExpression": "@item.id.variant",
                         "type": "item",
                         "fieldName": "id"
@@ -236,7 +238,7 @@
                   }
                 }
               ],
-              "_nested_name": "plh_progress_path_4.data_items_1.module_@item.id",
+              "_nested_name": "dg_path.dg_path_loop.module_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -248,7 +250,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "plh_progress_path_4.data_items_1.module_@item.id",
+                    "fullExpression": "dg_path.dg_path_loop.module_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -263,8 +265,7 @@
               }
             }
           ],
-          "name": "data_items_1",
-          "_nested_name": "plh_progress_path_4.data_items_1",
+          "_nested_name": "dg_path.dg_path_loop",
           "_dynamicFields": {
             "value": [
               {
@@ -282,8 +283,7 @@
           }
         }
       ],
-      "name": "plh_progress_path_4",
-      "_nested_name": "plh_progress_path_4",
+      "_nested_name": "dg_path",
       "_dynamicFields": {
         "parameter_list": {
           "background_image_asset": [
