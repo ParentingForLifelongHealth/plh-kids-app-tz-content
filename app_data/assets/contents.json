@@ -1087,8 +1087,8 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
+    "md5Checksum": "df9c81f319411188b557a9430db42686",
+    "size_kb": 6.1
   },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
@@ -1117,6 +1117,50 @@
   "images/additional_info/financial_literacy_4.svg": {
     "md5Checksum": "552ad2675266e1ccf6bb09c2ab8724a5",
     "size_kb": 76.1
+  },
+  "images/additional_info/financial_literacy_circle.svg": {
+    "md5Checksum": "92dc76c2b0b31157e8e7af4278bfb65f",
+    "size_kb": 140
+  },
+  "images/additional_info/nutrition.svg": {
+    "md5Checksum": "df7c53781db419ef2d17166b2fa87c7f",
+    "size_kb": 120.7
+  },
+  "images/additional_info/nutrition_1.svg": {
+    "md5Checksum": "69813c129f9f8f763dace796ead790c4",
+    "size_kb": 50.9
+  },
+  "images/additional_info/nutrition_2.svg": {
+    "md5Checksum": "e1dfe4ddd4193ca2403abb77678e9401",
+    "size_kb": 110.4
+  },
+  "images/additional_info/nutrition_3.svg": {
+    "md5Checksum": "51799e8f173666f7b9ddba0ad34ca2f3",
+    "size_kb": 87.4
+  },
+  "images/additional_info/nutrition_4.svg": {
+    "md5Checksum": "6c4ed0467f6c42c12d18c31476578f1b",
+    "size_kb": 90.2
+  },
+  "images/additional_info/nutrition_5.svg": {
+    "md5Checksum": "5334b5bc4af859acccda5c380ea70454",
+    "size_kb": 64.1
+  },
+  "images/additional_info/nutrition_6.svg": {
+    "md5Checksum": "b9ea8123b0d34bca89cabd419239afb9",
+    "size_kb": 25.4
+  },
+  "images/additional_info/nutrition_7.svg": {
+    "md5Checksum": "44a8b8623a5f1576b71be5a28f00221b",
+    "size_kb": 74.6
+  },
+  "images/additional_info/nutrition_8.svg": {
+    "md5Checksum": "1e64c3ea2af77edc6971408fcf20b932",
+    "size_kb": 27.8
+  },
+  "images/additional_info/nutrition_circle.svg": {
+    "md5Checksum": "d09f8e774a491ea4065ac9e9ea5871d2",
+    "size_kb": 120.2
   },
   "images/additional_info/plan.svg": {
     "md5Checksum": "3c4db1843f2afa027a8d706513f00150",
@@ -4858,6 +4902,14 @@
     "md5Checksum": "707c424cdd3a45d51f2b37af8b0c9dbb",
     "size_kb": 209.2
   },
+  "images/learning_through_play/hide_and_seek.svg": {
+    "md5Checksum": "7fcfd2ec0a5875dcaa0d67c226dbd6d4",
+    "size_kb": 90.4
+  },
+  "images/learning_through_play/hide_and_seek_circle.svg": {
+    "md5Checksum": "4a3f01b57f273915c74f63b410cf667f",
+    "size_kb": 88.4
+  },
   "images/learning_through_play/household_helpers.svg": {
     "md5Checksum": "31c8154f44373a194fce1d312d67c679",
     "size_kb": 334.6
@@ -4873,6 +4925,14 @@
   "images/learning_through_play/makes_us_special_circle.svg": {
     "md5Checksum": "cf3a209bd647b147a2449986bce0eb6c",
     "size_kb": 143.5
+  },
+  "images/learning_through_play/making_music.svg": {
+    "md5Checksum": "c73181bced101248835578f0ee356552",
+    "size_kb": 118.7
+  },
+  "images/learning_through_play/making_music_circle.svg": {
+    "md5Checksum": "75b22078675f9ec603120abcb4f96c7c",
+    "size_kb": 63.8
   },
   "images/learning_through_play/music_dancing.svg": {
     "md5Checksum": "41401d38dfb97fca39cf88a89ce4bcfb",

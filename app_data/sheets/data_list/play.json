@@ -1016,6 +1016,8 @@
     },
     {
       "id": "hide_and_seek",
+      "image_cover_asset": "images/learning_through_play/hide_and_seek.svg",
+      "image_asset": "images/learning_through_play/hide_and_seek_circle.svg",
       "favourite_field": "ltp_activity_hide_and_seek_favourite",
       "title": "Hide and Seek",
       "_translations": {
@@ -1035,12 +1037,12 @@
           "eng": "1. Take turns being the hider and the seeker. \n2. Count to 10 to give the other person an opportunity to find a hiding place. \n3. Once you have counted to 10, go look for the person who is hiding."
         },
         "tips_text": {
-          "eng": "*This can be a quick activity to build connection with your child if you are struggling to get them to cooperate, or if you are feeling frustrated. Closing your eyes and counting to ten (or sitting in your hiding spot) can be a helpful way to find a quick moment of calm."
+          "eng": "* This can be a quick activity to build connection with your child if you are struggling to get them to cooperate, or if you are feeling frustrated. Closing your eyes and counting to ten (or sitting in your hiding spot) can be a helpful way to find a quick moment of calm."
         }
       },
       "intro_text": "Children love hide and seek, and this can be fun for adults too.",
       "step_1_text": "1. Take turns being the hider and the seeker. \n2. Count to 10 to give the other person an opportunity to find a hiding place. \n3. Once you have counted to 10, go look for the person who is hiding.",
-      "tips_text": "*This can be a quick activity to build connection with your child if you are struggling to get them to cooperate, or if you are feeling frustrated. Closing your eyes and counting to ten (or sitting in your hiding spot) can be a helpful way to find a quick moment of calm."
+      "tips_text": "* This can be a quick activity to build connection with your child if you are struggling to get them to cooperate, or if you are feeling frustrated. Closing your eyes and counting to ten (or sitting in your hiding spot) can be a helpful way to find a quick moment of calm."
     },
     {
       "id": "reflect_positive",
@@ -1064,6 +1066,8 @@
     },
     {
       "id": "making_music",
+      "image_cover_asset": "images/learning_through_play/making_music_circle.svg",
+      "image_asset": "images/learning_through_play/making_music.svg",
       "favourite_field": "ltp_activity_making_music_favourite",
       "title": "Make Music",
       "_translations": {
