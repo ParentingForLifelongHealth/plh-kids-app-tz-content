@@ -342,6 +342,72 @@
               "parameter_list.icon_secondary_asset"
             ]
           }
+        },
+        {
+          "type": "button",
+          "name": "button_how",
+          "value": "How to use @global.app_name",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "variant": "card",
+            "icon": "@local.about_icon",
+            "icon_secondary_asset": "@local.next_icon_asset",
+            "style": "no-background",
+            "text_align": "left"
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "start_tour",
+              "args": [
+                "home_screen_tour"
+              ],
+              "_raw": "click | start_tour: home_screen_tour",
+              "_cleaned": "click | start_tour: home_screen_tour"
+            }
+          ],
+          "_nested_name": "dg_account.button_how",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "How to use @global.app_name",
+                "matchedExpression": "@global.app_name",
+                "type": "global",
+                "fieldName": "app_name"
+              }
+            ],
+            "parameter_list": {
+              "icon": [
+                {
+                  "fullExpression": "@local.about_icon",
+                  "matchedExpression": "@local.about_icon",
+                  "type": "local",
+                  "fieldName": "about_icon"
+                }
+              ],
+              "icon_secondary_asset": [
+                {
+                  "fullExpression": "@local.next_icon_asset",
+                  "matchedExpression": "@local.next_icon_asset",
+                  "type": "local",
+                  "fieldName": "next_icon_asset"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@global.app_name": [
+              "value"
+            ],
+            "@local.about_icon": [
+              "parameter_list.icon"
+            ],
+            "@local.next_icon_asset": [
+              "parameter_list.icon_secondary_asset"
+            ]
+          }
         }
       ],
       "_nested_name": "dg_account"
