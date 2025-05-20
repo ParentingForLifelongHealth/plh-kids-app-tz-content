@@ -23,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 65
+        "count": 66
       },
       {
         "type": "combo_box",
@@ -242,6 +242,10 @@
         "count": 22
       },
       {
+        "type": "start_tour",
+        "count": 1
+      },
+      {
         "type": "task",
         "count": 3
       },
@@ -260,7 +264,7 @@
       },
       {
         "assets": "unused",
-        "KB": "1675 KB",
+        "KB": "1676 KB",
         "MB": "1.7 MB"
       }
     ]
@@ -289,7 +293,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
       },
       {
         "path": "images/additional_info/nutrition_6.svg",

@@ -8,7 +8,7 @@
 | advanced_dashed_box | 5 |
 | apple_sign_in_button | 1 |
 | audio | 15 |
-| button | 65 |
+| button | 66 |
 | combo_box | 6 |
 | data_items | 44 |
 | debug_toggle | 1 |
@@ -69,6 +69,7 @@
 | set_field | 37 |
 | set_item | 19 |
 | set_local | 22 |
+| start_tour | 1 |
 | task | 3 |
 | user | 2 |
 </details>
@@ -79,7 +80,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 170578 KB | 170.6 MB |
-| unused | 1675 KB | 1.7 MB |
+| unused | 1676 KB | 1.7 MB |
 </details>
 
 <details open>
@@ -94,7 +95,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/additional_info/nutrition_6.svg | 25.4 |
 | images/additional_info/nutrition_7.svg | 74.6 |
 | images/additional_info/nutrition_8.svg | 27.8 |
