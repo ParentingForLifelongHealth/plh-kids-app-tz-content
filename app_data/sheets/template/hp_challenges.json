@@ -184,7 +184,9 @@
       "name": "hp_done_field_value",
       "value": "no",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "!(@local.hp_done_from_data)",
       "type": "set_variable",

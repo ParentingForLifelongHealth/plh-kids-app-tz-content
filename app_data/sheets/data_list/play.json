@@ -1104,7 +1104,9 @@
         "title": {},
         "intro_text": {},
         "resources_text": {},
-        "step_1_text": {},
+        "step_1_text": {
+          "tz_sw": true
+        },
         "tips_text": {}
       },
       "_translatedFields": {
@@ -1136,7 +1138,9 @@
       "favourite_field": "ltp_activity_dream_travel_favourite",
       "title": "Dream Travel",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {},
         "step_1_text": {},
         "tips_text": {}

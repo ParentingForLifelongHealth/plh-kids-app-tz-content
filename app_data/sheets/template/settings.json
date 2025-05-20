@@ -104,7 +104,9 @@
       "name": "settings",
       "value": "Settings",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "variant": "page_banner"
@@ -119,7 +121,9 @@
       "name": "account",
       "value": "Account",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "variant": "section_banner"
@@ -140,7 +144,9 @@
           "name": "button_profile",
           "value": "Profile",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "parameter_list": {
             "variant": "card",
@@ -411,7 +417,9 @@
       "name": "general",
       "value": "General",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "variant": "section_banner"
@@ -648,7 +656,9 @@
       "name": "feedback",
       "value": "Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "variant": "section_banner"

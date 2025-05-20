@@ -8,7 +8,9 @@
       "name": "favourite",
       "value": "My Favourites",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "favourite"
     },
@@ -102,7 +104,9 @@
       "name": "disclaimer_text",
       "value": "Add your favourite resources to your list so you can easily find and enjoy them anytime!",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.fav_count === 0",
       "_nested_name": "disclaimer_text",
@@ -300,9 +304,7 @@
               "name": "click_history_value",
               "value": "@fields.@local.click_history_field_name ;  @local.now",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "condition": "!!(@fields.@local.click_history_field_name)",
               "type": "set_variable",

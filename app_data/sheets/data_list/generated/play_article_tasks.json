@@ -407,8 +407,12 @@
       "character_2_id": "nandi",
       "character_1_text": "Goodnight, @data.characters.nandi.name.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "I don’t want to go to sleep!",
       "completed": false
@@ -429,8 +433,12 @@
       "character_2_id": "nandi",
       "character_1_text": "That’s enough now. Goodnight, @data.characters.nandi.name.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "I ... don’t ... want ... to ... go ... to ... sleep.",
       "completed": false
@@ -454,9 +462,15 @@
       "character_2_id": "nandi_mom",
       "character_1_text": "I want more supper. Another book! Just one more song?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Goodnight, @data.characters.nandi.name.",
       "character_3_id": "nandi",
@@ -482,9 +496,15 @@
       "character_2_id": "nandi_mom",
       "character_1_text": "MAMA! ...I need a glass of water. Please? Please.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "It’s time to go to sleep now. Goodnight, @data.characters.nandi.name.",
       "character_3_id": "nandi",
@@ -507,8 +527,12 @@
       "character_2_id": "nandi",
       "character_1_text": "What about an adventure? Do you want an adventure?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "...yes...",
       "completed": false
@@ -529,8 +553,12 @@
       "character_2_id": "nandi",
       "character_1_text": "Do you want to creep through the jungle on the trail of the fearsome hippocrocoturtleduck?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Yes! Yes! Yes!",
       "completed": false
@@ -547,7 +575,9 @@
       "character_1_id": "nandi",
       "character_1_text": "I want to fly across the sky! Leap from star to star! Fill my pockets with stardust!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -563,7 +593,9 @@
       "character_1_id": "nandi",
       "character_1_text": "I want a @data.characters.nandi.name-sized glass submarine to see the creatures at the bottom of the ocean! And a pet giant squid to do water ballet there with me!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -579,7 +611,9 @@
       "character_1_id": "nandi",
       "character_1_text": "I want to build myself a pair of butterfly wings and zoom to the roof of the sky where I’ll see all the world and everything in it!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -595,7 +629,9 @@
       "character_1_id": "nandi_mom",
       "character_1_text": "Look here, @data.characters.nandi.name. Here is your very own adventure boat. It’s waiting to take you wherever you want to go. See, put your head here...that’s right...and I’ll just tuck you in...there we go...now, off you go! Adventure awaits ...",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -611,7 +647,9 @@
       "character_1_id": "nandi_mom",
       "character_1_text": "Goodnight, @data.characters.nandi.name.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -702,28 +740,48 @@
         "title": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_2_question": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {},
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_2_option_3_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_3": {}
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

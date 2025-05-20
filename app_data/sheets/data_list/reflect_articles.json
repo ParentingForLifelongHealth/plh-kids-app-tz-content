@@ -13,9 +13,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1QgPVzzOo7xyvKZ6wXpSfBksp3NKgOwd_vfKn9GKf-3Y",
       "text_1": "Well done! You have completed the ParentApp modules, building important skills to take care of yourself and your family.",
       "_translations": {
-        "text_1": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -41,22 +47,36 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
       "text_1_facilitator": "You and your family have learnt so much. Let’s think back and see what has changed:",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -108,13 +128,27 @@
       "section_3_image_asset": "images/modules/care/how_care_connect.svg",
       "text_1_facilitator": "During this journey, we shared ideas for how to care for yourself. Here’s a reminder:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -154,17 +188,27 @@
       "quiz_1_option_2_image_asset": "images/modules/connect/thumbs_down_brown.svg",
       "text_1_facilitator": "Remember that caring for others starts with caring for yourself.",
       "_translations": {
-        "text_1_facilitator": {},
-        "image_text": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "image_text": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {}
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -204,19 +248,27 @@
       "section_3_image_asset": "images/modules/play/how_to_play_3.svg",
       "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -256,19 +308,27 @@
       "section_3_image_asset": "images/learning_through_play/build_a_road.svg",
       "text_1_facilitator": "Let’s take a look at some of the powerful parenting skills we discussed:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -311,8 +371,12 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
-        "text_2": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -334,7 +398,9 @@
       "image_asset": "images/modules/join/join_14.svg",
       "text_1": "During this journey, we shared many ideas for using books and stories to help children learn.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -350,13 +416,27 @@
       "section_3_image_asset": "images/modules/play/using_books_3.svg",
       "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -396,13 +476,27 @@
       "section_3_image_asset": "images/modules/explore/reading_explore.svg",
       "text_1_facilitator": "Let’s revisit some of the main ideas for learning through books:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -442,14 +536,30 @@
       "section_3_image_asset": "images/modules/reflect/idea_box.svg",
       "text_1": "Completing the ParentApp modules is only the starting point. Real success comes from continuing to use what you’ve learned in daily life.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

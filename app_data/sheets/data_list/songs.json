@@ -13,7 +13,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Maua Mazuri",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -30,7 +32,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Bilinge Bayoyo",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -47,7 +51,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Napenda Kuhesabu Namba",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -64,7 +70,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Mabata Madogo",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -81,7 +89,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Ukuti Ukuti",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -98,7 +108,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Yai Bovu",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -115,7 +127,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Watoto Wangu eh",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -132,7 +146,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Ngozi ya Kenge",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -149,7 +165,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Mapera Mapera",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -166,7 +184,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Kipepeo",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -183,7 +203,9 @@
       "image_cover_asset": "images/songs.svg",
       "title": "Kulea Kwa Pamoja",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

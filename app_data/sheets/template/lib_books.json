@@ -42,7 +42,9 @@
           "name": "data_list",
           "value": "books",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "activities.data_list"
@@ -51,7 +53,9 @@
           "name": "data_list_in_loop",
           "value": "books",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "activities.data_list_in_loop"

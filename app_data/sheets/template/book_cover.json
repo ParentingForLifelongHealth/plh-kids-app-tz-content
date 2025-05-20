@@ -17,7 +17,9 @@
       "name": "book",
       "value": "books",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -283,7 +285,9 @@
       "name": "designer",
       "value": "Designer",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "designer"
@@ -669,9 +673,7 @@
       "name": "click_history_value",
       "value": "@fields.@local.click_history_field_name ;  @local.now",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "condition": "!!(@fields.@local.click_history_field_name)",
       "type": "set_variable",

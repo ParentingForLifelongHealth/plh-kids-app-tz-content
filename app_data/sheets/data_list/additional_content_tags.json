@@ -10,8 +10,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1cq22E3vZouGQzGSbQLFloQzPu5Pb8eI-csMti2rseto",
       "title": "Budgeting and Income Generating Activities",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -28,8 +32,12 @@
       "name": "nutrition",
       "title": "Nutrition",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

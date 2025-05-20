@@ -13,11 +13,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1EMdlf-qT4qmlGM8cfiE5k24hyyjD4VWXayPdSxw_DrY",
       "text_1": "Children learn a lot from what we say, and how we say it. \n\nThis week, we will look at the power of our words, and how we **TALK** to our children.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -42,8 +46,12 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,11 +78,15 @@
         "title": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -102,12 +114,18 @@
       "media_asset": "audio/modules/talk/how_1.mp3",
       "text_1_facilitator": "Here’s how to talk to your child:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -135,11 +153,15 @@
       "media_asset": "audio/modules/talk/how_2.mp3",
       "text_1": "**Explain WHY** \n\nThis helps your child understand cause and effect. It also helps them to follow instructions.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -163,11 +185,15 @@
       "media_asset": "audio/modules/talk/how_3.mp3",
       "text_1": "**TALK with kindness** \n\nUse your words to build your child up, not to break them down.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -190,8 +216,12 @@
       "character_1_id": "f1_father",
       "text_1_facilitator": "Here’s an example of how to use words in a positive and helpful way:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -209,7 +239,9 @@
       "image_asset": "images/modules/talk/talk_5.svg",
       "image_text": "(@data.characters.f1_child_boy.name plays with instrument and makes loud noises)",
       "_translations": {
-        "image_text": {}
+        "image_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "image_text": {
@@ -224,7 +256,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "@data.characters.f1_child_boy.name, remember that your father is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -239,7 +273,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "“If you play a quiet game now, your brother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can play a game with you.”",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -254,7 +290,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "What a good idea to play with the blocks instead, @data.characters.f1_child_boy.name. Well done for playing quietly so that your brother can fall asleep!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -269,7 +307,9 @@
       "character_1_id": "f1_father",
       "character_1_text": "“Thank you for being so quiet! Now we can play something fun together. What would you like to build?”",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -282,16 +322,36 @@
       "category_id": "power_talk",
       "text_1_facilitator": "Let’s reflect on what happened:",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -341,8 +401,12 @@
       "image_asset": "images/modules/talk/books_talk.svg",
       "text_1": "Book activities offer many opportunities for you and your child to talk and interact.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -362,11 +426,15 @@
       "media_asset": "audio/modules/talk/books_2.mp3",
       "text_1": "**Name and describe what you see in the pictures**\nThis helps your child learn new words and understand what is happening in the story.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -390,11 +458,15 @@
       "media_asset": "https://drive.google.com/file/d/1pWNccBun0H3azChW1ITzOZPZ_xenGGfV/view?usp=share_link",
       "text_1": "**Ask questions**\n \nThis helps your child to talk about the pictures, and think about what is happening.",
       "_translations": {
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -416,9 +488,15 @@
       "image_asset": "images/modules/talk/talk_11.svg",
       "text_1": "**Show your child you are listening.**\nThis will encourage your child to talk more.",
       "_translations": {
-        "text_1": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_1_button_text": {
+          "tz_sw": true
+        },
         "section_1_extra_text": {}
       },
       "_translatedFields": {
@@ -445,8 +523,12 @@
       "image_asset": "images/modules/talk/talk_12.svg",
       "text_1": "Three easy ways to use book activities to talk:\n1. Name and describe what you see in the pictures.\n2. Ask questions about the story.\n3. Show your child you are listening.",
       "_translations": {
-        "text_1": {},
-        "text_1_facilitator": {}
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -464,7 +546,9 @@
       "image_asset": "images/modules/play/ready_to_practice.svg",
       "text_1": "Small actions, big results! Parents who practice at home get better results.\n\nFor your home practice:\n🤝 Remember the power of your words. Talk with kindness.\n📖 Use book activities to talk, ask questions and interact with your child.\n😌 Talking about what causes us stress can be helpful. Reach out to someone you trust if you are feeling stressed.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

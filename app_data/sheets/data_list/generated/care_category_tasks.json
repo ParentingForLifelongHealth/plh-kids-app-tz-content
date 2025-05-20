@@ -38,7 +38,9 @@
       "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Why CARE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -51,7 +53,9 @@
       "icon_asset": "images/modules/play/icon_light_bulb.svg",
       "title": "How to CARE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -64,7 +68,9 @@
       "icon_asset": "images/modules/play/icon_star.svg",
       "title": "The power of CARE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -77,7 +83,9 @@
       "icon_asset": "images/modules/play/icon_book.svg",
       "title": "Using books to CARE",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

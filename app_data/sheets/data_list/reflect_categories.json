@@ -9,7 +9,9 @@
       "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Why REFLECT",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -22,7 +24,9 @@
       "icon_asset": "images/icons/join_icons/caring_yourself.svg",
       "title": "How to REFLECT",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,7 +39,9 @@
       "icon_asset": "images/icons/join_icons/caring_yourchild.svg",
       "title": "The power of REFLECT",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -48,7 +54,9 @@
       "icon_asset": "images/modules/play/icon_book.svg",
       "title": "Using books to REFLECT",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
