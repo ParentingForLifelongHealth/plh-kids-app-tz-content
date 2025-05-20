@@ -1037,9 +1037,7 @@
       "name": "click_history_value",
       "value": "@fields.@local.click_history_field_name ;  @local.now",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "condition": "!!(@fields.@local.click_history_field_name)",
       "type": "set_variable",
