@@ -23,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 65
+        "count": 66
       },
       {
         "type": "combo_box",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1969
+        "count": 1993
       },
       {
         "type": "simple_checkbox",
@@ -231,7 +231,7 @@
       },
       {
         "type": "set_field",
-        "count": 33
+        "count": 37
       },
       {
         "type": "set_item",
@@ -240,6 +240,10 @@
       {
         "type": "set_local",
         "count": 22
+      },
+      {
+        "type": "start_tour",
+        "count": 1
       },
       {
         "type": "task",
@@ -260,7 +264,7 @@
       },
       {
         "assets": "unused",
-        "KB": "1675 KB",
+        "KB": "1676 KB",
         "MB": "1.7 MB"
       }
     ]
@@ -289,7 +293,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
       },
       {
         "path": "images/additional_info/nutrition_6.svg",
@@ -7721,6 +7725,11 @@
         "type": "template",
         "subtype": "legal_terms",
         "total": 4
+      },
+      {
+        "type": "tour",
+        "subtype": null,
+        "total": 1
       }
     ]
   }

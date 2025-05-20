@@ -154,12 +154,12 @@
     },
     {
       "type": "navigation_bar",
+      "name": "nav_buttons",
       "parameter_list": {
         "button_list": "@local.button_list",
         "variant": "text_primary"
       },
-      "name": "navigation_bar_8",
-      "_nested_name": "navigation_bar_8",
+      "_nested_name": "nav_buttons",
       "_dynamicFields": {
         "parameter_list": {
           "button_list": [
