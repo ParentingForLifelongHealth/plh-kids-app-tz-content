@@ -30,6 +30,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "favourite_checked_image_asset"
     },
@@ -39,11 +40,13 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "data_list"
     },
     {
       "name": "fav_count",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "fav_count"
     },
@@ -69,6 +72,7 @@
       "parameter_list": {
         "filter": "@item.favourite"
       },
+      "exclude_from_translation": true,
       "_nested_name": "compute_fav_count",
       "_dynamicFields": {
         "value": [
@@ -140,6 +144,7 @@
           "type": "data_items",
           "name": "loop_activities",
           "value": "@local.data_list",
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "data_list_in_loop",
@@ -147,6 +152,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.data_list_in_loop"
             },
@@ -156,6 +162,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.go_to_template_prefix"
             },
@@ -165,6 +172,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.activity_id",
               "_dynamicFields": {
@@ -189,6 +197,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.go_to_template",
               "_dynamicFields": {
@@ -222,6 +231,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.join"
             },
@@ -231,6 +241,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.now",
               "_dynamicFields": {
@@ -255,6 +266,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.click_history"
             },
@@ -264,6 +276,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.click_history_field_name",
               "_dynamicFields": {
@@ -307,6 +320,7 @@
                 "value": {}
               },
               "condition": "!!(@fields.@local.click_history_field_name)",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.click_history_value",
               "_dynamicFields": {
@@ -350,6 +364,7 @@
                 "value": {}
               },
               "condition": "!(@fields.@local.click_history_field_name)",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "display_grid.loop_activities.click_history_value",
               "_dynamicFields": {

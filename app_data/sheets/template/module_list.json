@@ -6,6 +6,7 @@
     {
       "name": "current_module_number",
       "value": 3,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "current_module_number"
     },
@@ -13,10 +14,9 @@
       "name": "variant",
       "value": "default",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "variant"
     },
@@ -26,6 +26,7 @@
       "parameter_list": {
         "style": "column"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "data_items",

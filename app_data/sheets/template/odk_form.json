@@ -4,13 +4,21 @@
   "status": "released",
   "rows": [
     {
+      "name": "module_id",
+      "value": "join",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
       "type": "title",
       "name": "title",
-      "value": "General Feedback Form",
+      "value": "Feedback Form",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
@@ -31,11 +39,11 @@
           "trigger": "changed",
           "action_id": "set_field",
           "args": [
-            "odk_output",
+            "odk_survey_@local.module_id",
             "this.value"
           ],
-          "_raw": "changed | set_field: odk_output: @local.form_1",
-          "_cleaned": "changed | set_field: odk_output: @local.form_1"
+          "_raw": "changed | set_field: odk_survey_@local.module_id: @local.form_1",
+          "_cleaned": "changed | set_field: odk_survey_@local.module_id: @local.form_1"
         }
       ],
       "parameter_list": {
@@ -45,9 +53,25 @@
       "_dynamicFields": {
         "action_list": {
           "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "odk_survey_@local.module_id",
+                  "matchedExpression": "@local.module_id",
+                  "type": "local",
+                  "fieldName": "module_id"
+                }
+              ]
+            },
             "_raw": [
               {
-                "fullExpression": "changed | set_field: odk_output: @local.form_1",
+                "fullExpression": "changed | set_field: odk_survey_@local.module_id: @local.form_1",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              },
+              {
+                "fullExpression": "changed | set_field: odk_survey_@local.module_id: @local.form_1",
                 "matchedExpression": "@local.form_1",
                 "type": "local",
                 "fieldName": "form_1"
@@ -55,7 +79,13 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "changed | set_field: odk_output: @local.form_1",
+                "fullExpression": "changed | set_field: odk_survey_@local.module_id: @local.form_1",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              },
+              {
+                "fullExpression": "changed | set_field: odk_survey_@local.module_id: @local.form_1",
                 "matchedExpression": "@local.form_1",
                 "type": "local",
                 "fieldName": "form_1"
@@ -75,6 +105,11 @@
         }
       },
       "_dynamicDependencies": {
+        "@local.module_id": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
         "@local.form_1": [
           "action_list.0._raw",
           "action_list.0._cleaned"
@@ -93,6 +128,7 @@
           "tz_sw": true
         }
       },
+      "condition": false,
       "_nested_name": "subtitle"
     },
     {
@@ -102,6 +138,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "_nested_name": "form_1_values",
       "_dynamicFields": {
         "value": [
@@ -118,6 +155,28 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Submit",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "_nested_name": "button_completed"
     }
   ],
   "_xlsxPath": "modules/TZ module_navigation.xlsx",

@@ -23,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 66
+        "count": 67
       },
       {
         "type": "combo_box",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1993
+        "count": 2008
       },
       {
         "type": "simple_checkbox",
@@ -123,7 +123,7 @@
       },
       {
         "type": "template",
-        "count": 630
+        "count": 639
       },
       {
         "type": "text",
@@ -175,7 +175,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 556
+        "count": 566
       },
       {
         "type": "emit: force_reload",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 549
+        "count": 558
       },
       {
         "type": "feedback",
@@ -231,7 +231,7 @@
       },
       {
         "type": "set_field",
-        "count": 37
+        "count": 38
       },
       {
         "type": "set_item",
@@ -264,8 +264,8 @@
       },
       {
         "assets": "unused",
-        "KB": "1676 KB",
-        "MB": "1.7 MB"
+        "KB": "6165 KB",
+        "MB": "6.2 MB"
       }
     ]
   },
@@ -518,6 +518,78 @@
       {
         "path": "images/orli/Stressed_emoji.svg",
         "size_kb": 2.1
+      },
+      {
+        "path": "images/orli/budget_1.svg",
+        "size_kb": 734.8
+      },
+      {
+        "path": "images/orli/budget_2.svg",
+        "size_kb": 98.5
+      },
+      {
+        "path": "images/orli/budget_3.svg",
+        "size_kb": 732.6
+      },
+      {
+        "path": "images/orli/budget_4.svg",
+        "size_kb": 735.8
+      },
+      {
+        "path": "images/orli/budget_circle.svg",
+        "size_kb": 97
+      },
+      {
+        "path": "images/orli/budget_cover_image.svg",
+        "size_kb": 98.5
+      },
+      {
+        "path": "images/orli/cooking_traditional_food_circle.svg",
+        "size_kb": 39.4
+      },
+      {
+        "path": "images/orli/dream_travel.svg",
+        "size_kb": 136.9
+      },
+      {
+        "path": "images/orli/dream_travel_circle.svg",
+        "size_kb": 28.7
+      },
+      {
+        "path": "images/orli/hide_and_seek_circle.svg",
+        "size_kb": 88.4
+      },
+      {
+        "path": "images/orli/reflect_on_positive.svg",
+        "size_kb": 117.2
+      },
+      {
+        "path": "images/orli/reflect_on_positive_circle.svg",
+        "size_kb": 113.4
+      },
+      {
+        "path": "images/orli/step_1_image_asset_healthy_eating_1.svg",
+        "size_kb": 314.6
+      },
+      {
+        "path": "images/orli/step_1_image_asset_healthy_eating_2.svg",
+        "size_kb": 389.2
+      },
+      {
+        "path": "images/orli/step_1_image_asset_healthy_eating_3.svg",
+        "size_kb": 118.2
+      },
+      {
+        "path": "images/orli/step_1_image_asset_healthy_eating_4.svg",
+        "size_kb": 67.5
+      },
+      {
+        "path": "images/orli/step_1_image_asset_healthy_eating_5.svg",
+        "size_kb": 374.3
+      },
+      {
+        "path": "images/orli/step_1_image_asset_healthy_eating_module_circle.svg",
+        "size_kb": 204.5
       },
       {
         "path": "images/relax/relax_man.svg",
@@ -7699,7 +7771,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 39
+        "total": 40
       },
       {
         "type": "global",
@@ -7719,7 +7791,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 549
+        "total": 558
       },
       {
         "type": "template",

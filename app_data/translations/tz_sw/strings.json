@@ -2191,7 +2191,6 @@
   "Start Reading": "Anza kusoma",
   "Local active page: @local.active_page": "Ukurasa unaotumika wa ndani:@local.active_page",
   "Last page: @local.last_page": "Ukurasa wa mwisho:@local.last_page",
-  "play": "Cheza",
   "Add your favourite Play activities to your list so you can easily find and enjoy them anytime!": "Ongeza vitu unavyovipenda kwenye orodha yako ya shughuli za kucheza ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!",
   "Add your favourite Songs to your list so you can easily find and enjoy them anytime!": "Ongeza Nyimbo zako uzipendazo kwenye orodha yako ili uweze kuzipata na kuzifurahia kwa urahisi wakati wowote!",
   "Module": "Mada",
@@ -2215,15 +2214,11 @@
   "Enter developer mode": "Unaingia kwenye ukurasa wa mtengenezaji",
   "portrait": "picha",
   "Add your favourite Relax activities to your list so you can easily find and enjoy them anytime!": "Ongeza vitu unavyovipenda kwenye orodha yako ya shughuli za kupata utulivu ili iwe rahisi kuzipata na kuzifurahia kwa urahisi wakati wowote!",
-  "default": "chaguo-msingi",
   "Library": "Maktaba",
-  "books": "vitabu",
   "Resource Centre": "Kituo cha Rasilimali",
   "Add your favourite resources to your list so you can easily find and enjoy them anytime!": "Ongeza vitu unavyovipenda kwenye orodha yako ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!!",
-  "songs": "nyimbo",
   "Steps": "Hatua",
   "Tips": "Vidokezo",
   "My Favourites": "Ninavyopendelea",
-  "All": "Wote",
-  "relax": "chukua pumziko"
+  "All": "Wote"
 }

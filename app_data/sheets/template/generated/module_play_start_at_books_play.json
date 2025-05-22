@@ -32,9 +32,7 @@
           "name": "module_id",
           "value": "play",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "module_start_at_cat.module_id"
