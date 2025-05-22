@@ -259,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "170578 KB",
-        "MB": "170.6 MB"
+        "KB": "102139 KB",
+        "MB": "102.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "6165 KB",
-        "MB": "6.2 MB"
+        "KB": "1752 KB",
+        "MB": "1.8 MB"
       }
     ]
   },
@@ -516,80 +516,16 @@
         "size_kb": 29
       },
       {
-        "path": "images/orli/Stressed_emoji.svg",
-        "size_kb": 2.1
+        "path": "images/orli/play.svg",
+        "size_kb": 16.7
       },
       {
-        "path": "images/orli/budget_1.svg",
-        "size_kb": 734.8
+        "path": "images/orli/read.svg",
+        "size_kb": 41.2
       },
       {
-        "path": "images/orli/budget_2.svg",
-        "size_kb": 98.5
-      },
-      {
-        "path": "images/orli/budget_3.svg",
-        "size_kb": 732.6
-      },
-      {
-        "path": "images/orli/budget_4.svg",
-        "size_kb": 735.8
-      },
-      {
-        "path": "images/orli/budget_circle.svg",
-        "size_kb": 97
-      },
-      {
-        "path": "images/orli/budget_cover_image.svg",
-        "size_kb": 98.5
-      },
-      {
-        "path": "images/orli/cooking_traditional_food_circle.svg",
-        "size_kb": 39.4
-      },
-      {
-        "path": "images/orli/dream_travel.svg",
-        "size_kb": 136.9
-      },
-      {
-        "path": "images/orli/dream_travel_circle.svg",
-        "size_kb": 28.7
-      },
-      {
-        "path": "images/orli/hide_and_seek_circle.svg",
-        "size_kb": 88.4
-      },
-      {
-        "path": "images/orli/reflect_on_positive.svg",
-        "size_kb": 117.2
-      },
-      {
-        "path": "images/orli/reflect_on_positive_circle.svg",
-        "size_kb": 113.4
-      },
-      {
-        "path": "images/orli/step_1_image_asset_healthy_eating_1.svg",
-        "size_kb": 314.6
-      },
-      {
-        "path": "images/orli/step_1_image_asset_healthy_eating_2.svg",
-        "size_kb": 389.2
-      },
-      {
-        "path": "images/orli/step_1_image_asset_healthy_eating_3.svg",
-        "size_kb": 118.2
-      },
-      {
-        "path": "images/orli/step_1_image_asset_healthy_eating_4.svg",
-        "size_kb": 67.5
-      },
-      {
-        "path": "images/orli/step_1_image_asset_healthy_eating_5.svg",
-        "size_kb": 374.3
-      },
-      {
-        "path": "images/orli/step_1_image_asset_healthy_eating_module_circle.svg",
-        "size_kb": 204.5
+        "path": "images/orli/relax.svg",
+        "size_kb": 20.9
       },
       {
         "path": "images/relax/relax_man.svg",
@@ -616,7 +552,7 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/books/i_like_to_read/image_1.jpg",
+        "path": "images/books/i_like_to_read/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -661,7 +597,7 @@
         "missing": true
       },
       {
-        "path": "images/books/it_wasnt_me/image_1.jpg",
+        "path": "images/books/it_wasnt_me/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -731,7 +667,7 @@
         "missing": true
       },
       {
-        "path": "images/books/little_monkey_s_lost_bananas/image_1.jpg",
+        "path": "images/books/little_monkey_s_lost_bananas/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -801,7 +737,7 @@
         "missing": true
       },
       {
-        "path": "images/books/ma_hurry_up/image_1.jpg",
+        "path": "images/books/ma_hurry_up/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -861,7 +797,7 @@
         "missing": true
       },
       {
-        "path": "images/books/mother_hen/image_1.jpg",
+        "path": "images/books/mother_hen/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -946,7 +882,7 @@
         "missing": true
       },
       {
-        "path": "images/books/my_first_day_at_school/image_1.jpg",
+        "path": "images/books/my_first_day_at_school/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1036,7 +972,7 @@
         "missing": true
       },
       {
-        "path": "images/books/nichchumani_helps_out/image_1.jpg",
+        "path": "images/books/nichchumani_helps_out/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1086,7 +1022,7 @@
         "missing": true
       },
       {
-        "path": "images/books/no_smiles_today/image_1.jpg",
+        "path": "images/books/no_smiles_today/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1121,7 +1057,7 @@
         "missing": true
       },
       {
-        "path": "images/books/pishi_and_me/image_1.jpg",
+        "path": "images/books/pishi_and_me/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1191,7 +1127,7 @@
         "missing": true
       },
       {
-        "path": "images/books/ranis_first_day_at_school/image_1.jpg",
+        "path": "images/books/ranis_first_day_at_school/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1226,7 +1162,7 @@
         "missing": true
       },
       {
-        "path": "images/books/reba_wants_ice_cream/image_1.jpg",
+        "path": "images/books/reba_wants_ice_cream/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1311,7 +1247,7 @@
         "missing": true
       },
       {
-        "path": "images/books/red_bean_plant/image_1.jpg",
+        "path": "images/books/red_bean_plant/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1416,7 +1352,7 @@
         "missing": true
       },
       {
-        "path": "images/books/under_my_bed/image_1.jpg",
+        "path": "images/books/under_my_bed/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -1476,7 +1412,7 @@
         "missing": true
       },
       {
-        "path": "images/books/very_green_day/image_1.jpg",
+        "path": "images/books/very_green_day/image_1.png",
         "count": 1,
         "missing": true
       },
@@ -2075,14 +2011,34 @@
         "size_kb": 29.2
       },
       {
-        "path": "images/additional_info/build.svg",
+        "path": "images/additional_info/budget.svg",
         "count": 1,
-        "size_kb": 717.1
+        "size_kb": 98.5
       },
       {
-        "path": "images/additional_info/choose.svg",
+        "path": "images/additional_info/budget_1.svg",
         "count": 1,
-        "size_kb": 61.8
+        "size_kb": 734.8
+      },
+      {
+        "path": "images/additional_info/budget_2.svg",
+        "count": 1,
+        "size_kb": 98.5
+      },
+      {
+        "path": "images/additional_info/budget_3.svg",
+        "count": 1,
+        "size_kb": 732.6
+      },
+      {
+        "path": "images/additional_info/budget_4.svg",
+        "count": 1,
+        "size_kb": 735.8
+      },
+      {
+        "path": "images/additional_info/budget_circle.svg",
+        "count": 1,
+        "size_kb": 97
       },
       {
         "path": "images/additional_info/financial_literacy_1.svg",
@@ -2095,9 +2051,9 @@
         "size_kb": 330.7
       },
       {
-        "path": "images/additional_info/financial_literacy_3.svg",
+        "path": "images/additional_info/financial_literacy_3.png",
         "count": 1,
-        "size_kb": 34504.5
+        "size_kb": 295
       },
       {
         "path": "images/additional_info/financial_literacy_4.svg",
@@ -2108,6 +2064,36 @@
         "path": "images/additional_info/financial_literacy_circle.svg",
         "count": 1,
         "size_kb": 140
+      },
+      {
+        "path": "images/additional_info/healthy_eating_1.svg",
+        "count": 2,
+        "size_kb": 314.6
+      },
+      {
+        "path": "images/additional_info/healthy_eating_2.svg",
+        "count": 1,
+        "size_kb": 389.2
+      },
+      {
+        "path": "images/additional_info/healthy_eating_3.svg",
+        "count": 1,
+        "size_kb": 118.2
+      },
+      {
+        "path": "images/additional_info/healthy_eating_4.svg",
+        "count": 1,
+        "size_kb": 67.5
+      },
+      {
+        "path": "images/additional_info/healthy_eating_5.svg",
+        "count": 1,
+        "size_kb": 374.3
+      },
+      {
+        "path": "images/additional_info/healthy_eating_circle.svg",
+        "count": 1,
+        "size_kb": 204.5
       },
       {
         "path": "images/additional_info/nutrition.svg",
@@ -2143,16 +2129,6 @@
         "path": "images/additional_info/nutrition_circle.svg",
         "count": 1,
         "size_kb": 120.2
-      },
-      {
-        "path": "images/additional_info/plan.svg",
-        "count": 1,
-        "size_kb": 721.6
-      },
-      {
-        "path": "images/additional_info/think.svg",
-        "count": 3,
-        "size_kb": 702.9
       },
       {
         "path": "images/backgrounds/map.jpg",
@@ -2880,209 +2856,209 @@
         "size_kb": 23.2
       },
       {
-        "path": "images/books/book_covers/cover_amma_be_back.jpg",
+        "path": "images/books/book_covers/cover_amma_be_back.png",
         "count": 2,
-        "size_kb": 37.9
+        "size_kb": 279.5
       },
       {
-        "path": "images/books/book_covers/cover_bee_and_elephant.jpg",
+        "path": "images/books/book_covers/cover_bee_and_elephant.png",
         "count": 2,
-        "size_kb": 39.8
+        "size_kb": 352
       },
       {
-        "path": "images/books/book_covers/cover_best_thing_ever.jpg",
+        "path": "images/books/book_covers/cover_best_thing_ever.png",
         "count": 2,
-        "size_kb": 23.5
+        "size_kb": 196.9
       },
       {
-        "path": "images/books/book_covers/cover_dont_want_sleep.jpg",
+        "path": "images/books/book_covers/cover_dont_want_sleep.png",
         "count": 2,
-        "size_kb": 21.6
+        "size_kb": 173.2
       },
       {
-        "path": "images/books/book_covers/cover_emotions.jpg",
+        "path": "images/books/book_covers/cover_emotions.png",
         "count": 2,
-        "size_kb": 54.4
+        "size_kb": 359.6
       },
       {
-        "path": "images/books/book_covers/cover_fifi_teddy.jpg",
+        "path": "images/books/book_covers/cover_fifi_teddy.png",
         "count": 2,
-        "size_kb": 27.1
+        "size_kb": 258.9
       },
       {
-        "path": "images/books/book_covers/cover_grandpa_farouk.jpg",
+        "path": "images/books/book_covers/cover_grandpa_farouk.png",
         "count": 2,
-        "size_kb": 30.4
+        "size_kb": 304.9
       },
       {
-        "path": "images/books/book_covers/cover_how_sleep.jpg",
+        "path": "images/books/book_covers/cover_how_sleep.png",
         "count": 2,
-        "size_kb": 32
+        "size_kb": 242.3
       },
       {
-        "path": "images/books/book_covers/cover_how_want_eggs.jpg",
+        "path": "images/books/book_covers/cover_how_want_eggs.png",
         "count": 2,
-        "size_kb": 25.1
+        "size_kb": 243.3
       },
       {
-        "path": "images/books/book_covers/cover_inside_weather.jpg",
+        "path": "images/books/book_covers/cover_inside_weather.png",
         "count": 2,
-        "size_kb": 36.7
+        "size_kb": 252.6
       },
       {
-        "path": "images/books/book_covers/cover_jasu_football.jpg",
+        "path": "images/books/book_covers/cover_jasu_football.png",
         "count": 2,
-        "size_kb": 49.6
+        "size_kb": 418.2
       },
       {
-        "path": "images/books/book_covers/cover_katiitis_song.jpg",
+        "path": "images/books/book_covers/cover_katiitis_song.png",
         "count": 2,
-        "size_kb": 67
+        "size_kb": 499.2
       },
       {
-        "path": "images/books/book_covers/cover_lebo_gogo.jpg",
+        "path": "images/books/book_covers/cover_lebo_gogo.png",
         "count": 2,
-        "size_kb": 23.9
+        "size_kb": 209.2
       },
       {
-        "path": "images/books/book_covers/cover_lefas_bath.jpg",
+        "path": "images/books/book_covers/cover_lefas_bath.png",
         "count": 2,
-        "size_kb": 45
+        "size_kb": 316.8
       },
       {
-        "path": "images/books/book_covers/cover_lesedis_sandbox.jpg",
+        "path": "images/books/book_covers/cover_lesedis_sandbox.png",
         "count": 2,
-        "size_kb": 46.5
+        "size_kb": 423.9
       },
       {
-        "path": "images/books/book_covers/cover_let_go_hunt.jpg",
+        "path": "images/books/book_covers/cover_let_go_hunt.png",
         "count": 2,
-        "size_kb": 27.2
+        "size_kb": 268
       },
       {
-        "path": "images/books/book_covers/cover_little_garden.jpg",
+        "path": "images/books/book_covers/cover_little_garden.png",
         "count": 2,
-        "size_kb": 24
+        "size_kb": 203.7
       },
       {
-        "path": "images/books/book_covers/cover_little_shoots.jpg",
+        "path": "images/books/book_covers/cover_little_shoots.png",
         "count": 2,
-        "size_kb": 46.7
+        "size_kb": 321.2
       },
       {
-        "path": "images/books/book_covers/cover_look_luando.jpg",
+        "path": "images/books/book_covers/cover_look_luando.png",
         "count": 2,
-        "size_kb": 28.6
+        "size_kb": 269.7
       },
       {
-        "path": "images/books/book_covers/cover_lost_toy.jpg",
+        "path": "images/books/book_covers/cover_lost_toy.png",
         "count": 2,
-        "size_kb": 24.8
+        "size_kb": 164.4
       },
       {
-        "path": "images/books/book_covers/cover_mama_wants_lunch.jpg",
+        "path": "images/books/book_covers/cover_mama_wants_lunch.png",
         "count": 2,
-        "size_kb": 45.9
+        "size_kb": 308.6
       },
       {
-        "path": "images/books/book_covers/cover_moms_red_coat.jpg",
+        "path": "images/books/book_covers/cover_moms_red_coat.png",
         "count": 2,
-        "size_kb": 32
+        "size_kb": 212.2
       },
       {
-        "path": "images/books/book_covers/cover_my_shoe.jpg",
+        "path": "images/books/book_covers/cover_my_shoe.png",
         "count": 2,
-        "size_kb": 19
+        "size_kb": 147.7
       },
       {
-        "path": "images/books/book_covers/cover_nita_upside_down.jpg",
+        "path": "images/books/book_covers/cover_nita_upside_down.png",
         "count": 2,
-        "size_kb": 50.3
+        "size_kb": 327.6
       },
       {
-        "path": "images/books/book_covers/cover_paint_plant_day.jpg",
+        "path": "images/books/book_covers/cover_paint_plant_day.png",
         "count": 2,
-        "size_kb": 42.2
+        "size_kb": 358.9
       },
       {
-        "path": "images/books/book_covers/cover_scared_tumi.jpg",
+        "path": "images/books/book_covers/cover_scared_tumi.png",
         "count": 2,
-        "size_kb": 26.2
+        "size_kb": 191
       },
       {
-        "path": "images/books/book_covers/cover_shhhhh.jpg",
+        "path": "images/books/book_covers/cover_shhhhh.png",
         "count": 2,
-        "size_kb": 28.1
+        "size_kb": 190.8
       },
       {
-        "path": "images/books/book_covers/cover_shongololo_shoes.jpg",
+        "path": "images/books/book_covers/cover_shongololo_shoes.png",
         "count": 2,
-        "size_kb": 27.3
+        "size_kb": 235
       },
       {
-        "path": "images/books/book_covers/cover_tejus_shadow.jpg",
+        "path": "images/books/book_covers/cover_tejus_shadow.png",
         "count": 2,
-        "size_kb": 32.6
+        "size_kb": 356.5
       },
       {
-        "path": "images/books/book_covers/cover_the_colours.jpg",
+        "path": "images/books/book_covers/cover_the_colours.png",
         "count": 2,
-        "size_kb": 37.6
+        "size_kb": 317.9
       },
       {
-        "path": "images/books/book_covers/cover_the_one_middle.jpg",
+        "path": "images/books/book_covers/cover_the_one_middle.png",
         "count": 2,
-        "size_kb": 38
+        "size_kb": 320.8
       },
       {
-        "path": "images/books/book_covers/cover_things_really_matter.jpg",
+        "path": "images/books/book_covers/cover_things_really_matter.png",
         "count": 2,
-        "size_kb": 46.8
+        "size_kb": 349.5
       },
       {
-        "path": "images/books/book_covers/cover_tlotlegos_tea_party.jpg",
+        "path": "images/books/book_covers/cover_tlotlegos_tea_party.png",
         "count": 2,
-        "size_kb": 26.8
+        "size_kb": 210.1
       },
       {
-        "path": "images/books/book_covers/cover_to_the_top.jpg",
+        "path": "images/books/book_covers/cover_to_the_top.png",
         "count": 2,
-        "size_kb": 35.6
+        "size_kb": 333.1
       },
       {
-        "path": "images/books/book_covers/cover_what_next.jpg",
+        "path": "images/books/book_covers/cover_what_next.png",
         "count": 2,
-        "size_kb": 37.8
+        "size_kb": 340.1
       },
       {
-        "path": "images/books/book_covers/cover_whats_in_pot.jpg",
+        "path": "images/books/book_covers/cover_whats_in_pot.png",
         "count": 2,
-        "size_kb": 13.8
+        "size_kb": 88.9
       },
       {
-        "path": "images/books/book_covers/cover_whats_park.jpg",
+        "path": "images/books/book_covers/cover_whats_park.png",
         "count": 2,
-        "size_kb": 24.2
+        "size_kb": 229.3
       },
       {
-        "path": "images/books/book_covers/cover_when_grow_up.jpg",
+        "path": "images/books/book_covers/cover_when_grow_up.png",
         "count": 2,
-        "size_kb": 31.8
+        "size_kb": 232.9
       },
       {
-        "path": "images/books/book_covers/cover_where_is_lulu.jpg",
+        "path": "images/books/book_covers/cover_where_is_lulu.png",
         "count": 2,
-        "size_kb": 28.5
+        "size_kb": 217.2
       },
       {
-        "path": "images/books/book_covers/cover_yellow_brown_earth.jpg",
+        "path": "images/books/book_covers/cover_yellow_brown_earth.png",
         "count": 2,
-        "size_kb": 52.4
+        "size_kb": 479.2
       },
       {
-        "path": "images/books/book_covers/cover_yes_you_can.jpg",
+        "path": "images/books/book_covers/cover_yes_you_can.png",
         "count": 2,
-        "size_kb": 26.8
+        "size_kb": 309.3
       },
       {
         "path": "images/books/brave_bora/cover.png",
@@ -6510,9 +6486,9 @@
         "size_kb": 131.5
       },
       {
-        "path": "images/learning_through_play/bao.svg",
+        "path": "images/learning_through_play/bao.png",
         "count": 1,
-        "size_kb": 5661.9
+        "size_kb": 18
       },
       {
         "path": "images/learning_through_play/bao_icon.svg",
@@ -6535,9 +6511,9 @@
         "size_kb": 40.7
       },
       {
-        "path": "images/learning_through_play/cook_traditional_icon.svg",
+        "path": "images/learning_through_play/cook_traditional_circle.svg",
         "count": 1,
-        "size_kb": 56.1
+        "size_kb": 39.4
       },
       {
         "path": "images/learning_through_play/cooking_together.svg",
@@ -6560,14 +6536,14 @@
         "size_kb": 103.2
       },
       {
-        "path": "images/learning_through_play/dream.svg",
+        "path": "images/learning_through_play/dream_travel.svg",
         "count": 1,
-        "size_kb": 42.5
+        "size_kb": 136.9
       },
       {
-        "path": "images/learning_through_play/dream_icon.svg",
+        "path": "images/learning_through_play/dream_travel_circle.svg",
         "count": 1,
-        "size_kb": 27.7
+        "size_kb": 28.7
       },
       {
         "path": "images/learning_through_play/favorite_play.svg",
@@ -6685,14 +6661,14 @@
         "size_kb": 210.1
       },
       {
-        "path": "images/learning_through_play/reflect_positive.svg",
+        "path": "images/learning_through_play/reflect_on_positive.svg",
         "count": 1,
-        "size_kb": 76.9
+        "size_kb": 117.2
       },
       {
-        "path": "images/learning_through_play/reflect_positive_icon.svg",
+        "path": "images/learning_through_play/reflect_on_positive_circle.svg",
         "count": 1,
-        "size_kb": 45
+        "size_kb": 113.4
       },
       {
         "path": "images/learning_through_play/senses_circle.svg",
@@ -6832,7 +6808,7 @@
       {
         "path": "images/modules/build/build.gif",
         "count": 2,
-        "size_kb": 7782
+        "size_kb": 109.3
       },
       {
         "path": "images/modules/build/build_garden.svg",
@@ -6892,7 +6868,7 @@
       {
         "path": "images/modules/care/care.gif",
         "count": 4,
-        "size_kb": 2521
+        "size_kb": 95.2
       },
       {
         "path": "images/modules/care/care_title_image.svg",
@@ -6975,9 +6951,9 @@
         "size_kb": 289.6
       },
       {
-        "path": "images/modules/connect/connect_11.svg",
+        "path": "images/modules/connect/connect_11.png",
         "count": 2,
-        "size_kb": 8452.7
+        "size_kb": 29.7
       },
       {
         "path": "images/modules/connect/connect_12.svg",
@@ -7167,7 +7143,7 @@
       {
         "path": "images/modules/explore/explore.gif",
         "count": 2,
-        "size_kb": 10211.4
+        "size_kb": 428.7
       },
       {
         "path": "images/modules/explore/explore_title_image.svg",
@@ -7255,9 +7231,9 @@
         "size_kb": 120
       },
       {
-        "path": "images/modules/join/join_17.svg",
+        "path": "images/modules/join/join_17.png",
         "count": 2,
-        "size_kb": 8460.8
+        "size_kb": 21.1
       },
       {
         "path": "images/modules/join/join_18.svg",
@@ -7462,7 +7438,7 @@
       {
         "path": "images/modules/talk/talk.gif",
         "count": 2,
-        "size_kb": 4022.8
+        "size_kb": 133.7
       },
       {
         "path": "images/modules/talk/talk_1.svg",

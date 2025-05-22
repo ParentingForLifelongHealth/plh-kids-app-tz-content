@@ -986,7 +986,7 @@
     },
     {
       "id": "cooking_traditional_food",
-      "image_cover_asset": "images/learning_through_play/cook_traditional_icon.svg",
+      "image_cover_asset": "images/learning_through_play/cook_traditional_circle.svg",
       "image_asset": "images/learning_through_play/cook_traditional.svg",
       "favourite_field": "ltp_activity_cooking_traditional_food_favourite",
       "title": "Cooking Traditional Food",
@@ -1016,8 +1016,8 @@
     },
     {
       "id": "hide_and_seek",
-      "image_cover_asset": "images/learning_through_play/hide_and_seek.svg",
-      "image_asset": "images/learning_through_play/hide_and_seek_circle.svg",
+      "image_cover_asset": "images/learning_through_play/hide_and_seek_circle.svg",
+      "image_asset": "images/learning_through_play/hide_and_seek.svg",
       "favourite_field": "ltp_activity_hide_and_seek_favourite",
       "title": "Hide and Seek",
       "_translations": {
@@ -1046,8 +1046,8 @@
     },
     {
       "id": "reflect_positive",
-      "image_cover_asset": "images/learning_through_play/reflect_positive_icon.svg",
-      "image_asset": "images/learning_through_play/reflect_positive.svg",
+      "image_cover_asset": "images/learning_through_play/reflect_on_positive_circle.svg",
+      "image_asset": "images/learning_through_play/reflect_on_positive.svg",
       "favourite_field": "ltp_activity_reflect_positive_favourite",
       "title": "Reflect on the Positive",
       "_translations": {
@@ -1097,7 +1097,7 @@
     {
       "id": "traditional_game",
       "image_cover_asset": "images/learning_through_play/bao_icon.svg",
-      "image_asset": "images/learning_through_play/bao.svg",
+      "image_asset": "images/learning_through_play/bao.png",
       "favourite_field": "ltp_activity_traditional_game_favourite",
       "title": "Traditional Game",
       "_translations": {
@@ -1133,8 +1133,8 @@
     },
     {
       "id": "dream_travel",
-      "image_cover_asset": "images/learning_through_play/dream_icon.svg",
-      "image_asset": "images/learning_through_play/dream.svg",
+      "image_cover_asset": "images/learning_through_play/dream_travel_circle.svg",
+      "image_asset": "images/learning_through_play/dream_travel.svg",
       "favourite_field": "ltp_activity_dream_travel_favourite",
       "title": "Dream Travel",
       "_translations": {

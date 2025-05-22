@@ -1094,13 +1094,29 @@
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
     "size_kb": 29.2
   },
-  "images/additional_info/build.svg": {
-    "md5Checksum": "7e7ce2a505ab75e2e869095e805d7ff9",
-    "size_kb": 717.1
+  "images/additional_info/budget.svg": {
+    "md5Checksum": "0a2d8399d6260bb2ea0082de271964c1",
+    "size_kb": 98.5
   },
-  "images/additional_info/choose.svg": {
-    "md5Checksum": "87be48edaaf39faab85f5e500076c1ad",
-    "size_kb": 61.8
+  "images/additional_info/budget_1.svg": {
+    "md5Checksum": "b7c55ab41bae645cab1f0e09f3a848e6",
+    "size_kb": 734.8
+  },
+  "images/additional_info/budget_2.svg": {
+    "md5Checksum": "0a2d8399d6260bb2ea0082de271964c1",
+    "size_kb": 98.5
+  },
+  "images/additional_info/budget_3.svg": {
+    "md5Checksum": "85acbf93c39dc608a68441425c3646ca",
+    "size_kb": 732.6
+  },
+  "images/additional_info/budget_4.svg": {
+    "md5Checksum": "92427aaa5efcf5d7bffb6be634e82a41",
+    "size_kb": 735.8
+  },
+  "images/additional_info/budget_circle.svg": {
+    "md5Checksum": "539d837e61ca443c187ee0075625d67e",
+    "size_kb": 97
   },
   "images/additional_info/financial_literacy_1.svg": {
     "md5Checksum": "702d2f5a9369f36e38c2151e9dfbba01",
@@ -1110,9 +1126,9 @@
     "md5Checksum": "7e8d74e545b1d724afa43551280cf9c3",
     "size_kb": 330.7
   },
-  "images/additional_info/financial_literacy_3.svg": {
-    "md5Checksum": "d581f70c42d62dbd3605da68b1197bed",
-    "size_kb": 34504.5
+  "images/additional_info/financial_literacy_3.png": {
+    "md5Checksum": "cf39a2c0867f91d84c43abda4f52bac0",
+    "size_kb": 295
   },
   "images/additional_info/financial_literacy_4.svg": {
     "md5Checksum": "552ad2675266e1ccf6bb09c2ab8724a5",
@@ -1121,6 +1137,30 @@
   "images/additional_info/financial_literacy_circle.svg": {
     "md5Checksum": "92dc76c2b0b31157e8e7af4278bfb65f",
     "size_kb": 140
+  },
+  "images/additional_info/healthy_eating_1.svg": {
+    "md5Checksum": "2ce48a5ce051059159140b2674b1df04",
+    "size_kb": 314.6
+  },
+  "images/additional_info/healthy_eating_2.svg": {
+    "md5Checksum": "1e7578ded1920836ff5daa90a384cbc1",
+    "size_kb": 389.2
+  },
+  "images/additional_info/healthy_eating_3.svg": {
+    "md5Checksum": "80ce38544c050d5866dff338a245a22d",
+    "size_kb": 118.2
+  },
+  "images/additional_info/healthy_eating_4.svg": {
+    "md5Checksum": "ff7245c88c7520a87377cd89bc746613",
+    "size_kb": 67.5
+  },
+  "images/additional_info/healthy_eating_5.svg": {
+    "md5Checksum": "bbd6b7976469c5b8eb06212286fa1b47",
+    "size_kb": 374.3
+  },
+  "images/additional_info/healthy_eating_circle.svg": {
+    "md5Checksum": "4522f8a9115a8e40df66d3fefa45c1b0",
+    "size_kb": 204.5
   },
   "images/additional_info/nutrition.svg": {
     "md5Checksum": "df7c53781db419ef2d17166b2fa87c7f",
@@ -1161,14 +1201,6 @@
   "images/additional_info/nutrition_circle.svg": {
     "md5Checksum": "d09f8e774a491ea4065ac9e9ea5871d2",
     "size_kb": 120.2
-  },
-  "images/additional_info/plan.svg": {
-    "md5Checksum": "3c4db1843f2afa027a8d706513f00150",
-    "size_kb": 721.6
-  },
-  "images/additional_info/think.svg": {
-    "md5Checksum": "765c284f07bf0a9bb1ab7fdf4743ffd9",
-    "size_kb": 702.9
   },
   "images/backgrounds/map.jpg": {
     "md5Checksum": "8936cdd0159371d00dee68d582de1875",
@@ -1750,169 +1782,169 @@
     "md5Checksum": "769135fbd99993f8f64344ff77b03bcf",
     "size_kb": 23.2
   },
-  "images/books/book_covers/cover_amma_be_back.jpg": {
-    "md5Checksum": "332af8a1b51c85c1c2b9ac0bfc9d077d",
-    "size_kb": 37.9
+  "images/books/book_covers/cover_amma_be_back.png": {
+    "md5Checksum": "6f185d59bd15a5b522f120137e5d51fe",
+    "size_kb": 279.5
   },
-  "images/books/book_covers/cover_bee_and_elephant.jpg": {
-    "md5Checksum": "fde744842266605b7a22b16b86a02138",
-    "size_kb": 39.8
+  "images/books/book_covers/cover_bee_and_elephant.png": {
+    "md5Checksum": "b861170eb7ee3bc2547ae0bcb79f1164",
+    "size_kb": 352
   },
-  "images/books/book_covers/cover_best_thing_ever.jpg": {
-    "md5Checksum": "557ffad3068da54f3c17623af325f302",
-    "size_kb": 23.5
+  "images/books/book_covers/cover_best_thing_ever.png": {
+    "md5Checksum": "ab3d7a765226e5e330cd351246cf2b3a",
+    "size_kb": 196.9
   },
-  "images/books/book_covers/cover_dont_want_sleep.jpg": {
-    "md5Checksum": "c662345883b65cf64d6d4d9f763dbf0e",
-    "size_kb": 21.6
+  "images/books/book_covers/cover_dont_want_sleep.png": {
+    "md5Checksum": "7ae5238418fa7873b64fcd989fd90a75",
+    "size_kb": 173.2
   },
-  "images/books/book_covers/cover_emotions.jpg": {
-    "md5Checksum": "3f8866a15b26702de79337707ea11019",
-    "size_kb": 54.4
+  "images/books/book_covers/cover_emotions.png": {
+    "md5Checksum": "284005027ecd239b3e794236b468b24e",
+    "size_kb": 359.6
   },
-  "images/books/book_covers/cover_fifi_teddy.jpg": {
-    "md5Checksum": "eb56491bf7156c58508c8dcaa755ccb3",
-    "size_kb": 27.1
+  "images/books/book_covers/cover_fifi_teddy.png": {
+    "md5Checksum": "720585eb89dbda1a7a6a8c92986bcd3a",
+    "size_kb": 258.9
   },
-  "images/books/book_covers/cover_grandpa_farouk.jpg": {
-    "md5Checksum": "e3842770ea2b3163c579482a5490ac64",
-    "size_kb": 30.4
+  "images/books/book_covers/cover_grandpa_farouk.png": {
+    "md5Checksum": "27a4b726c07f5512bad1ee73020bb231",
+    "size_kb": 304.9
   },
-  "images/books/book_covers/cover_how_sleep.jpg": {
-    "md5Checksum": "17300c3e83a1e16d949ba4fbd9977351",
-    "size_kb": 32
+  "images/books/book_covers/cover_how_sleep.png": {
+    "md5Checksum": "08ad1b9b888d50ed4ed3a1e608f12720",
+    "size_kb": 242.3
   },
-  "images/books/book_covers/cover_how_want_eggs.jpg": {
-    "md5Checksum": "cd66d97a987c093ee8a6f5018fe44f58",
-    "size_kb": 25.1
+  "images/books/book_covers/cover_how_want_eggs.png": {
+    "md5Checksum": "17cfccc3b14b5b2047ebeedb540a8f5f",
+    "size_kb": 243.3
   },
-  "images/books/book_covers/cover_inside_weather.jpg": {
-    "md5Checksum": "6b1766c114ae10fc6ac277fca2884786",
-    "size_kb": 36.7
+  "images/books/book_covers/cover_inside_weather.png": {
+    "md5Checksum": "4207bb4ab9f78d40b9c6f2ba32c0addd",
+    "size_kb": 252.6
   },
-  "images/books/book_covers/cover_jasu_football.jpg": {
-    "md5Checksum": "9e09e216b5b8a39b94a3c26926cc5559",
-    "size_kb": 49.6
+  "images/books/book_covers/cover_jasu_football.png": {
+    "md5Checksum": "87ad4ad938bb110eb8b24945bde321bf",
+    "size_kb": 418.2
   },
-  "images/books/book_covers/cover_katiitis_song.jpg": {
-    "md5Checksum": "c36d01aa2c663f485d0da0448c2d1d90",
-    "size_kb": 67
+  "images/books/book_covers/cover_katiitis_song.png": {
+    "md5Checksum": "7088f7eb6a42cae9e131dabd265134bd",
+    "size_kb": 499.2
   },
-  "images/books/book_covers/cover_lebo_gogo.jpg": {
-    "md5Checksum": "efce1c1690e26041c397a7120785895c",
-    "size_kb": 23.9
+  "images/books/book_covers/cover_lebo_gogo.png": {
+    "md5Checksum": "5d83bc96801c283b503b8694221b890e",
+    "size_kb": 209.2
   },
-  "images/books/book_covers/cover_lefas_bath.jpg": {
-    "md5Checksum": "c54c627eead9c943821f709199cc8dca",
-    "size_kb": 45
+  "images/books/book_covers/cover_lefas_bath.png": {
+    "md5Checksum": "4b13487f470512f6794ab59b9461cd25",
+    "size_kb": 316.8
   },
-  "images/books/book_covers/cover_lesedis_sandbox.jpg": {
-    "md5Checksum": "79685ce5c0f60f103d4b21a0927667f6",
-    "size_kb": 46.5
+  "images/books/book_covers/cover_lesedis_sandbox.png": {
+    "md5Checksum": "c832fe4b857494dd49cec2b3706bb889",
+    "size_kb": 423.9
   },
-  "images/books/book_covers/cover_let_go_hunt.jpg": {
-    "md5Checksum": "527536b89777868d17361a162c2628d1",
-    "size_kb": 27.2
+  "images/books/book_covers/cover_let_go_hunt.png": {
+    "md5Checksum": "2aafd2a1286de9f1b367e3d6f0bffe82",
+    "size_kb": 268
   },
-  "images/books/book_covers/cover_little_garden.jpg": {
-    "md5Checksum": "4c1903ae50b04d1a596d0dc38bbc2375",
-    "size_kb": 24
+  "images/books/book_covers/cover_little_garden.png": {
+    "md5Checksum": "90ef86a90e0756b1b50ad58f3f5d18fe",
+    "size_kb": 203.7
   },
-  "images/books/book_covers/cover_little_shoots.jpg": {
-    "md5Checksum": "24fff0990bd69f33db8aeb3e5b6076d0",
-    "size_kb": 46.7
+  "images/books/book_covers/cover_little_shoots.png": {
+    "md5Checksum": "238abfc797e62629ab46912eda2882e9",
+    "size_kb": 321.2
   },
-  "images/books/book_covers/cover_look_luando.jpg": {
-    "md5Checksum": "c0b6052bce0f9abcdcbed12befb03298",
-    "size_kb": 28.6
+  "images/books/book_covers/cover_look_luando.png": {
+    "md5Checksum": "2eae52e2e19003a3ba1595f4dff774bc",
+    "size_kb": 269.7
   },
-  "images/books/book_covers/cover_lost_toy.jpg": {
-    "md5Checksum": "54a8dcd5d853c306b1f5a1ce58755210",
-    "size_kb": 24.8
+  "images/books/book_covers/cover_lost_toy.png": {
+    "md5Checksum": "64fcf5a85704e7a24cbfef07869fb1e9",
+    "size_kb": 164.4
   },
-  "images/books/book_covers/cover_mama_wants_lunch.jpg": {
-    "md5Checksum": "e9897929b172fe7e1f7d63fd9f21f922",
-    "size_kb": 45.9
+  "images/books/book_covers/cover_mama_wants_lunch.png": {
+    "md5Checksum": "d536a3c301a82e9f3d7d9739b09cec60",
+    "size_kb": 308.6
   },
-  "images/books/book_covers/cover_moms_red_coat.jpg": {
-    "md5Checksum": "7859778e7df11e8ef26b26c68911d19f",
-    "size_kb": 32
+  "images/books/book_covers/cover_moms_red_coat.png": {
+    "md5Checksum": "db222ac9c919ed2a42f296c628ca464e",
+    "size_kb": 212.2
   },
-  "images/books/book_covers/cover_my_shoe.jpg": {
-    "md5Checksum": "135079dc3cfb691c10b4d8be46e38919",
-    "size_kb": 19
+  "images/books/book_covers/cover_my_shoe.png": {
+    "md5Checksum": "59c316ab76d0531ec683c6c7f0cacee7",
+    "size_kb": 147.7
   },
-  "images/books/book_covers/cover_nita_upside_down.jpg": {
-    "md5Checksum": "4de6771a81c3b8f2c90f3f6b6b2334ee",
-    "size_kb": 50.3
+  "images/books/book_covers/cover_nita_upside_down.png": {
+    "md5Checksum": "bf1dc52711750b0f43b7611334ca86f6",
+    "size_kb": 327.6
   },
-  "images/books/book_covers/cover_paint_plant_day.jpg": {
-    "md5Checksum": "626efd96b7e358fc3789550de988385b",
-    "size_kb": 42.2
+  "images/books/book_covers/cover_paint_plant_day.png": {
+    "md5Checksum": "5b73d2361f6f3a7b0b466d94df1a7f59",
+    "size_kb": 358.9
   },
-  "images/books/book_covers/cover_scared_tumi.jpg": {
-    "md5Checksum": "ee3d65f75f22d3c9ec26ba98bfd07f78",
-    "size_kb": 26.2
+  "images/books/book_covers/cover_scared_tumi.png": {
+    "md5Checksum": "3ce0df2b1153a7ac54de4421b94fa741",
+    "size_kb": 191
   },
-  "images/books/book_covers/cover_shhhhh.jpg": {
-    "md5Checksum": "91c1f666ea06c34814740051f5827f96",
-    "size_kb": 28.1
+  "images/books/book_covers/cover_shhhhh.png": {
+    "md5Checksum": "35fac3d2eb11d9a7e60675afd6684023",
+    "size_kb": 190.8
   },
-  "images/books/book_covers/cover_shongololo_shoes.jpg": {
-    "md5Checksum": "83ed1856caad9f88657dd5571a24c279",
-    "size_kb": 27.3
+  "images/books/book_covers/cover_shongololo_shoes.png": {
+    "md5Checksum": "0c4a5a9327b7503a70e9cb07a6353251",
+    "size_kb": 235
   },
-  "images/books/book_covers/cover_tejus_shadow.jpg": {
-    "md5Checksum": "3feaaa76e24a33311113697caf684695",
-    "size_kb": 32.6
+  "images/books/book_covers/cover_tejus_shadow.png": {
+    "md5Checksum": "5b04d1a27a73f9b46dfb21b4f1e79bd9",
+    "size_kb": 356.5
   },
-  "images/books/book_covers/cover_the_colours.jpg": {
-    "md5Checksum": "3098c45a823e18a167ac10a956e09284",
-    "size_kb": 37.6
+  "images/books/book_covers/cover_the_colours.png": {
+    "md5Checksum": "675def31a92dbb6243e610f4e2461cc0",
+    "size_kb": 317.9
   },
-  "images/books/book_covers/cover_the_one_middle.jpg": {
-    "md5Checksum": "c0af7c86b1f41c88787ac64dcb354447",
-    "size_kb": 38
+  "images/books/book_covers/cover_the_one_middle.png": {
+    "md5Checksum": "703c6a68d68b7f09299642afe4aab8c6",
+    "size_kb": 320.8
   },
-  "images/books/book_covers/cover_things_really_matter.jpg": {
-    "md5Checksum": "5706313c3434a401dd5a855bcc977bae",
-    "size_kb": 46.8
+  "images/books/book_covers/cover_things_really_matter.png": {
+    "md5Checksum": "a1139ab12407d3fa7ccc9c5f2247dca0",
+    "size_kb": 349.5
   },
-  "images/books/book_covers/cover_tlotlegos_tea_party.jpg": {
-    "md5Checksum": "964db2175f45d43f5841c05f0a43869b",
-    "size_kb": 26.8
+  "images/books/book_covers/cover_tlotlegos_tea_party.png": {
+    "md5Checksum": "075ce5dc9366cfbc841b34f0befff850",
+    "size_kb": 210.1
   },
-  "images/books/book_covers/cover_to_the_top.jpg": {
-    "md5Checksum": "eb72370eeba32638cf0007eca2306034",
-    "size_kb": 35.6
+  "images/books/book_covers/cover_to_the_top.png": {
+    "md5Checksum": "fb42a401f84d73b2511b2574ac784ba6",
+    "size_kb": 333.1
   },
-  "images/books/book_covers/cover_what_next.jpg": {
-    "md5Checksum": "d360d61442d641bca2d7bc857a68fbdb",
-    "size_kb": 37.8
+  "images/books/book_covers/cover_what_next.png": {
+    "md5Checksum": "69dc28c396981811115de68776ff5ffe",
+    "size_kb": 340.1
   },
-  "images/books/book_covers/cover_whats_in_pot.jpg": {
-    "md5Checksum": "3c2a6f795b5e08f896e591fc1df3a729",
-    "size_kb": 13.8
+  "images/books/book_covers/cover_whats_in_pot.png": {
+    "md5Checksum": "ec20d034a2e21351779a3e496219c7e0",
+    "size_kb": 88.9
   },
-  "images/books/book_covers/cover_whats_park.jpg": {
-    "md5Checksum": "b9802ccfe6ccca0b22bee1f4eab5f65a",
-    "size_kb": 24.2
+  "images/books/book_covers/cover_whats_park.png": {
+    "md5Checksum": "6b77c5539a57b8534b03833ca8283208",
+    "size_kb": 229.3
   },
-  "images/books/book_covers/cover_when_grow_up.jpg": {
-    "md5Checksum": "d44168802c0a37ea6b8d2275964b411c",
-    "size_kb": 31.8
+  "images/books/book_covers/cover_when_grow_up.png": {
+    "md5Checksum": "78e6928f914110e4527a9c0e8b90520f",
+    "size_kb": 232.9
   },
-  "images/books/book_covers/cover_where_is_lulu.jpg": {
-    "md5Checksum": "13adfb8fb2211eadbb01b04ad197120f",
-    "size_kb": 28.5
+  "images/books/book_covers/cover_where_is_lulu.png": {
+    "md5Checksum": "d3110fc4fd3f455dc5fc1c8301e7e495",
+    "size_kb": 217.2
   },
-  "images/books/book_covers/cover_yellow_brown_earth.jpg": {
-    "md5Checksum": "f4a85264a87bf8eac49a1c524a92bc4e",
-    "size_kb": 52.4
+  "images/books/book_covers/cover_yellow_brown_earth.png": {
+    "md5Checksum": "8dfb81a238197417e6a3a95680900203",
+    "size_kb": 479.2
   },
-  "images/books/book_covers/cover_yes_you_can.jpg": {
-    "md5Checksum": "5a633a63e9c67c6bcc3a78fba11f9b6a",
-    "size_kb": 26.8
+  "images/books/book_covers/cover_yes_you_can.png": {
+    "md5Checksum": "150ea666d8320c37636a926891c3e365",
+    "size_kb": 309.3
   },
   "images/books/brave_bora/cover.png": {
     "md5Checksum": "d98ca04eb1e5915a347d148e2aed8300",
@@ -4830,9 +4862,9 @@
     "md5Checksum": "ce12863bf4427a80ff4925b429701d29",
     "size_kb": 131.5
   },
-  "images/learning_through_play/bao.svg": {
-    "md5Checksum": "065fb26d1b379fda7afc3192a78350df",
-    "size_kb": 5661.9
+  "images/learning_through_play/bao.png": {
+    "md5Checksum": "28a9e07a5cf6cbea56c904f54ef9dd18",
+    "size_kb": 18
   },
   "images/learning_through_play/bao_icon.svg": {
     "md5Checksum": "fbf3cd69c3f09d9e3f8c214c1eaa2397",
@@ -4850,9 +4882,9 @@
     "md5Checksum": "f403b4569501b082ca9cb930b319e008",
     "size_kb": 40.7
   },
-  "images/learning_through_play/cook_traditional_icon.svg": {
-    "md5Checksum": "bc574a8f3f3f008182212786ab32d8b5",
-    "size_kb": 56.1
+  "images/learning_through_play/cook_traditional_circle.svg": {
+    "md5Checksum": "f572707355eeb0b3df7fa83b3a94ace3",
+    "size_kb": 39.4
   },
   "images/learning_through_play/cooking_together.svg": {
     "md5Checksum": "87f3d8f5d91d3650c5603d7084837750",
@@ -4870,13 +4902,13 @@
     "md5Checksum": "cd4fc4af7d371a760abfe757c064e38f",
     "size_kb": 103.2
   },
-  "images/learning_through_play/dream.svg": {
-    "md5Checksum": "9baefc918f7ed076f77b4ed6bb73fcf8",
-    "size_kb": 42.5
+  "images/learning_through_play/dream_travel.svg": {
+    "md5Checksum": "3eebe80fa26eee61a6f3760a15906716",
+    "size_kb": 136.9
   },
-  "images/learning_through_play/dream_icon.svg": {
-    "md5Checksum": "1782cb7f15f2018b3184c56e3879623d",
-    "size_kb": 27.7
+  "images/learning_through_play/dream_travel_circle.svg": {
+    "md5Checksum": "227f916dad935ad0a7bf76d1da23ebae",
+    "size_kb": 28.7
   },
   "images/learning_through_play/favorite_play.svg": {
     "md5Checksum": "a75312842433301c235018cb55fb4745",
@@ -4970,13 +5002,13 @@
     "md5Checksum": "48a24cb6a5e64a260a8cc1507c98fd5e",
     "size_kb": 210.1
   },
-  "images/learning_through_play/reflect_positive.svg": {
-    "md5Checksum": "4554dfb6ecb01b51f9bde46c895dd850",
-    "size_kb": 76.9
+  "images/learning_through_play/reflect_on_positive.svg": {
+    "md5Checksum": "b387f39fc33464d2dc5b957968e6d9a0",
+    "size_kb": 117.2
   },
-  "images/learning_through_play/reflect_positive_icon.svg": {
-    "md5Checksum": "3a69a60733e12baf2e221a05e1b9b57b",
-    "size_kb": 45
+  "images/learning_through_play/reflect_on_positive_circle.svg": {
+    "md5Checksum": "83a7179263644182e56bd2fca70d184a",
+    "size_kb": 113.4
   },
   "images/learning_through_play/senses_circle.svg": {
     "md5Checksum": "78de10cec8ee8a8354a1a6e5a4b4414c",
@@ -5099,8 +5131,8 @@
     "size_kb": 176
   },
   "images/modules/build/build.gif": {
-    "md5Checksum": "b0e79906feaeaa40d8a57f4cdb7159e4",
-    "size_kb": 7782
+    "md5Checksum": "eee168744ef7104edc002874d873d075",
+    "size_kb": 109.3
   },
   "images/modules/build/build_1.svg": {
     "md5Checksum": "b5d6a150420b710c9e2eb0f59a8391a6",
@@ -5159,8 +5191,8 @@
     "size_kb": 34.3
   },
   "images/modules/care/care.gif": {
-    "md5Checksum": "aa4a36b6a98c6b4f448f2b6401c7319b",
-    "size_kb": 2521
+    "md5Checksum": "d4ca61589fef528db4aab9af4aa6df93",
+    "size_kb": 95.2
   },
   "images/modules/care/care_title_image.svg": {
     "md5Checksum": "3520bc768398181442057b0a2d07a87f",
@@ -5226,9 +5258,9 @@
     "md5Checksum": "acfdf1ed60045965e30b6058b9d9a936",
     "size_kb": 289.6
   },
-  "images/modules/connect/connect_11.svg": {
-    "md5Checksum": "99f084a29f82da64ef5918458a41da6f",
-    "size_kb": 8452.7
+  "images/modules/connect/connect_11.png": {
+    "md5Checksum": "6ac6d723b7099879d401c4d11058d213",
+    "size_kb": 29.7
   },
   "images/modules/connect/connect_12.svg": {
     "md5Checksum": "798542f5018e89e2a365ae00dc73d111",
@@ -5379,8 +5411,8 @@
     "size_kb": 124.7
   },
   "images/modules/explore/explore.gif": {
-    "md5Checksum": "fa316d9a8ac5ea041c206c2163240ef3",
-    "size_kb": 10211.4
+    "md5Checksum": "417744146d9975f8cfd09a85056dc962",
+    "size_kb": 428.7
   },
   "images/modules/explore/explore_title_image.svg": {
     "md5Checksum": "92a5089671fe0af5770e327245779a08",
@@ -5450,9 +5482,9 @@
     "md5Checksum": "ed388817dde73c1e70a178a75f4b87db",
     "size_kb": 120
   },
-  "images/modules/join/join_17.svg": {
-    "md5Checksum": "b2d9e8c2ec9f29674e78496a872ecffb",
-    "size_kb": 8460.8
+  "images/modules/join/join_17.png": {
+    "md5Checksum": "693cb56ed704fc885a392a940a6dab76",
+    "size_kb": 21.1
   },
   "images/modules/join/join_18.svg": {
     "md5Checksum": "5490fa9d54a10fff18738d81e13f55b6",
@@ -5619,8 +5651,8 @@
     "size_kb": 28.2
   },
   "images/modules/talk/talk.gif": {
-    "md5Checksum": "1deed2c7fc7c3bdabbf40da12509b00b",
-    "size_kb": 4022.8
+    "md5Checksum": "03ff66e15a29a12900cb516170e65d2a",
+    "size_kb": 133.7
   },
   "images/modules/talk/talk_1.svg": {
     "md5Checksum": "09c78c7d1d12b09c3e8c5dd79dfa74fc",
@@ -5682,81 +5714,17 @@
     "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
     "size_kb": 286.7
   },
-  "images/orli/Stressed_emoji.svg": {
-    "md5Checksum": "12d96aef21f1cf91c32575a29744d644",
-    "size_kb": 2.1
+  "images/orli/play.svg": {
+    "md5Checksum": "b7e9d7c05324dd3388dbf195037861cc",
+    "size_kb": 16.7
   },
-  "images/orli/budget_1.svg": {
-    "md5Checksum": "b7c55ab41bae645cab1f0e09f3a848e6",
-    "size_kb": 734.8
+  "images/orli/read.svg": {
+    "md5Checksum": "c7f7af8282411a75cacf6ffe378838ca",
+    "size_kb": 41.2
   },
-  "images/orli/budget_2.svg": {
-    "md5Checksum": "0a2d8399d6260bb2ea0082de271964c1",
-    "size_kb": 98.5
-  },
-  "images/orli/budget_3.svg": {
-    "md5Checksum": "85acbf93c39dc608a68441425c3646ca",
-    "size_kb": 732.6
-  },
-  "images/orli/budget_4.svg": {
-    "md5Checksum": "92427aaa5efcf5d7bffb6be634e82a41",
-    "size_kb": 735.8
-  },
-  "images/orli/budget_circle.svg": {
-    "md5Checksum": "539d837e61ca443c187ee0075625d67e",
-    "size_kb": 97
-  },
-  "images/orli/budget_cover_image.svg": {
-    "md5Checksum": "0a2d8399d6260bb2ea0082de271964c1",
-    "size_kb": 98.5
-  },
-  "images/orli/cooking_traditional_food_circle.svg": {
-    "md5Checksum": "f572707355eeb0b3df7fa83b3a94ace3",
-    "size_kb": 39.4
-  },
-  "images/orli/dream_travel.svg": {
-    "md5Checksum": "3eebe80fa26eee61a6f3760a15906716",
-    "size_kb": 136.9
-  },
-  "images/orli/dream_travel_circle.svg": {
-    "md5Checksum": "227f916dad935ad0a7bf76d1da23ebae",
-    "size_kb": 28.7
-  },
-  "images/orli/hide_and_seek_circle.svg": {
-    "md5Checksum": "b61dd6595ff070d21cf552864c653590",
-    "size_kb": 88.4
-  },
-  "images/orli/reflect_on_positive.svg": {
-    "md5Checksum": "b387f39fc33464d2dc5b957968e6d9a0",
-    "size_kb": 117.2
-  },
-  "images/orli/reflect_on_positive_circle.svg": {
-    "md5Checksum": "83a7179263644182e56bd2fca70d184a",
-    "size_kb": 113.4
-  },
-  "images/orli/step_1_image_asset_healthy_eating_1.svg": {
-    "md5Checksum": "2ce48a5ce051059159140b2674b1df04",
-    "size_kb": 314.6
-  },
-  "images/orli/step_1_image_asset_healthy_eating_2.svg": {
-    "md5Checksum": "1e7578ded1920836ff5daa90a384cbc1",
-    "size_kb": 389.2
-  },
-  "images/orli/step_1_image_asset_healthy_eating_3.svg": {
-    "md5Checksum": "80ce38544c050d5866dff338a245a22d",
-    "size_kb": 118.2
-  },
-  "images/orli/step_1_image_asset_healthy_eating_4.svg": {
-    "md5Checksum": "ff7245c88c7520a87377cd89bc746613",
-    "size_kb": 67.5
-  },
-  "images/orli/step_1_image_asset_healthy_eating_5.svg": {
-    "md5Checksum": "bbd6b7976469c5b8eb06212286fa1b47",
-    "size_kb": 374.3
-  },
-  "images/orli/step_1_image_asset_healthy_eating_module_circle.svg": {
-    "md5Checksum": "4522f8a9115a8e40df66d3fefa45c1b0",
-    "size_kb": 204.5
+  "images/orli/relax.svg": {
+    "md5Checksum": "e36d20983048369cfa9c71d3542c0e48",
+    "size_kb": 20.9
   },
   "images/relax/relax_1.svg": {
     "md5Checksum": "3e4f51d3df0247b17825eb6a78eb66d9",

@@ -6,12 +6,14 @@
     {
       "name": "is_standalone_task",
       "value": false,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "is_standalone_task"
     },
     {
       "type": "display_group",
       "name": "if_standalone",
+      "exclude_from_translation": true,
       "parameter_list": {
         "style": "column"
       },
@@ -20,6 +22,7 @@
         {
           "name": "display_uncompleted",
           "value": false,
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "if_standalone.display_uncompleted"
         },
@@ -36,6 +39,7 @@
         },
         {
           "name": "completed_icon",
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "if_standalone.completed_icon"
         }
@@ -60,16 +64,19 @@
     {
       "type": "display_group",
       "name": "if_in_sequence",
+      "exclude_from_translation": true,
       "condition": "!@local.is_standalone_task",
       "rows": [
         {
           "name": "display_uncompleted",
           "value": true,
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "if_in_sequence.display_uncompleted"
         },
         {
           "name": "completed_text",
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "if_in_sequence.completed_text"
         },
@@ -77,10 +84,9 @@
           "name": "completed_icon",
           "value": "arrow-forward",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "if_in_sequence.completed_icon"
         }
@@ -105,6 +111,7 @@
     {
       "type": "display_group",
       "name": "buttons",
+      "exclude_from_translation": true,
       "parameter_list": {
         "style": "navigation"
       },
@@ -123,6 +130,7 @@
               "_cleaned": "click | emit:uncompleted"
             }
           ],
+          "exclude_from_translation": true,
           "parameter_list": {
             "icon_src": "arrow-back",
             "variant": "module",
@@ -160,6 +168,7 @@
               "_cleaned": "click | emit:completed"
             }
           ],
+          "exclude_from_translation": true,
           "parameter_list": {
             "icon_src": "@local.completed_icon",
             "variant": "module",
@@ -214,6 +223,7 @@
               "_cleaned": "click | emit:completed"
             }
           ],
+          "exclude_from_translation": true,
           "parameter_list": {
             "style": "navigation",
             "icon_secondary_asset": "@local.completed_icon"

@@ -6,6 +6,7 @@
     {
       "type": "display_group",
       "name": "buttons",
+      "exclude_from_translation": true,
       "parameter_list": {
         "style": "navigation"
       },
@@ -24,6 +25,7 @@
               "_cleaned": "click | emit:uncompleted"
             }
           ],
+          "exclude_from_translation": true,
           "parameter_list": {
             "icon_src": "chevron-back",
             "style": "navigation"
@@ -44,6 +46,7 @@
               "_cleaned": "click | emit:completed"
             }
           ],
+          "exclude_from_translation": true,
           "parameter_list": {
             "icon_src": "chevron-forward",
             "style": "navigation"
