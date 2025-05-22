@@ -194,6 +194,7 @@
     {
       "name": "is_completed",
       "value": false,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "is_completed"
     },
@@ -203,6 +204,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "variant"
     },

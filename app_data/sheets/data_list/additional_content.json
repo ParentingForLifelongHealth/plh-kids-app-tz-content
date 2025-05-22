@@ -6,12 +6,12 @@
   "rows": [
     {
       "id": "budgeting",
-      "image_cover_asset": "images/additional_info/think.svg",
-      "image_asset": "images/additional_info/think.svg",
-      "step_1_image_asset": "images/additional_info/think.svg",
-      "step_2_image_asset": "images/additional_info/choose.svg",
-      "step_3_image_asset": "images/additional_info/build.svg",
-      "step_4_image_asset": "images/additional_info/plan.svg",
+      "image_cover_asset": "images/additional_info/budget_circle.svg",
+      "image_asset": "images/additional_info/budget.svg",
+      "step_1_image_asset": "images/additional_info/budget_1.svg",
+      "step_2_image_asset": "images/additional_info/budget_2.svg",
+      "step_3_image_asset": "images/additional_info/budget_3.svg",
+      "step_4_image_asset": "images/additional_info/budget_4.svg",
       "tag_list": [
         "finance"
       ],
@@ -83,7 +83,7 @@
       "image_asset": "images/additional_info/financial_literacy_4.svg",
       "step_1_image_asset": "images/additional_info/financial_literacy_1.svg",
       "step_2_image_asset": "images/additional_info/financial_literacy_2.svg",
-      "step_3_image_asset": "images/additional_info/financial_literacy_3.svg",
+      "step_3_image_asset": "images/additional_info/financial_literacy_3.png",
       "step_4_image_asset": "images/additional_info/financial_literacy_4.svg",
       "tag_list": [
         "finance"
@@ -224,11 +224,13 @@
     },
     {
       "id": "eating_habits",
-      "step_1_image_asset": "(insert image)",
-      "step_2_image_asset": "(insert image)",
-      "step_3_image_asset": "(insert image)",
-      "step_4_image_asset": "(insert image)",
-      "step_5_image_asset": "(insert image)",
+      "image_cover_asset": "images/additional_info/healthy_eating_circle.svg",
+      "image_asset": "images/additional_info/healthy_eating_1.svg",
+      "step_1_image_asset": "images/additional_info/healthy_eating_1.svg",
+      "step_2_image_asset": "images/additional_info/healthy_eating_2.svg",
+      "step_3_image_asset": "images/additional_info/healthy_eating_3.svg",
+      "step_4_image_asset": "images/additional_info/healthy_eating_4.svg",
+      "step_5_image_asset": "images/additional_info/healthy_eating_5.svg",
       "tag_list": [
         "nutrition"
       ],
