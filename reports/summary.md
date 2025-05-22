@@ -8,7 +8,7 @@
 | advanced_dashed_box | 5 |
 | apple_sign_in_button | 1 |
 | audio | 15 |
-| button | 66 |
+| button | 67 |
 | combo_box | 6 |
 | data_items | 44 |
 | debug_toggle | 1 |
@@ -28,12 +28,12 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1993 |
+| set_variable | 2008 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 13 |
 | task_progress_bar | 3 |
-| template | 630 |
+| template | 639 |
 | text | 143 |
 | text_area | 2 |
 | text_box | 4 |
@@ -52,13 +52,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 556 |
+| emit: completed | 566 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 549 |
+| emit: uncompleted | 558 |
 | feedback | 13 |
 | go_to | 32 |
 | nav | 1 |
@@ -66,7 +66,7 @@
 | pop_up | 25 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 37 |
+| set_field | 38 |
 | set_item | 19 |
 | set_local | 22 |
 | start_tour | 1 |
@@ -80,7 +80,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 170578 KB | 170.6 MB |
-| unused | 1676 KB | 1.7 MB |
+| unused | 6165 KB | 6.2 MB |
 </details>
 
 <details open>
@@ -152,6 +152,24 @@ Assets that appear in app-data but do not have references within sheets
 | images/modules/reflect/reflect_2.svg | 53.6 |
 | images/modules/talk/why_talk.svg | 29 |
 | images/orli/Stressed_emoji.svg | 2.1 |
+| images/orli/budget_1.svg | 734.8 |
+| images/orli/budget_2.svg | 98.5 |
+| images/orli/budget_3.svg | 732.6 |
+| images/orli/budget_4.svg | 735.8 |
+| images/orli/budget_circle.svg | 97 |
+| images/orli/budget_cover_image.svg | 98.5 |
+| images/orli/cooking_traditional_food_circle.svg | 39.4 |
+| images/orli/dream_travel.svg | 136.9 |
+| images/orli/dream_travel_circle.svg | 28.7 |
+| images/orli/hide_and_seek_circle.svg | 88.4 |
+| images/orli/reflect_on_positive.svg | 117.2 |
+| images/orli/reflect_on_positive_circle.svg | 113.4 |
+| images/orli/step_1_image_asset_healthy_eating_1.svg | 314.6 |
+| images/orli/step_1_image_asset_healthy_eating_2.svg | 389.2 |
+| images/orli/step_1_image_asset_healthy_eating_3.svg | 118.2 |
+| images/orli/step_1_image_asset_healthy_eating_4.svg | 67.5 |
+| images/orli/step_1_image_asset_healthy_eating_5.svg | 374.3 |
+| images/orli/step_1_image_asset_healthy_eating_module_circle.svg | 204.5 |
 | images/relax/relax_man.svg | 27 |
 | images/relax/relax_woman.svg | 14.8 |
 | images/tz_map.svg | 398.5 |
@@ -1611,11 +1629,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 3 |
 | data_pipe | generated | 17 |
-| generator |  | 39 |
+| generator |  | 40 |
 | global |  | 3 |
 | global | legal_terms | 1 |
 | template |  | 86 |
-| template | generated | 549 |
+| template | generated | 558 |
 | template | legal_terms | 4 |
 | tour |  | 1 |
 </details>

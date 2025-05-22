@@ -55,10 +55,10 @@
           "trigger": "click",
           "action_id": "go_to",
           "args": [
-            "odk_form"
+            "odk_form_build"
           ],
-          "_raw": "click | go_to: odk_form",
-          "_cleaned": "click | go_to: odk_form"
+          "_raw": "click | go_to: odk_form_build",
+          "_cleaned": "click | go_to: odk_form_build"
         }
       ],
       "_nested_name": "odk_button"

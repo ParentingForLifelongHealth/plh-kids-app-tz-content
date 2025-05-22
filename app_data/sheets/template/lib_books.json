@@ -7,6 +7,7 @@
       "type": "template",
       "name": "activities",
       "value": "activities",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "fav_page",
@@ -14,6 +15,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.fav_page"
         },
@@ -42,10 +44,9 @@
           "name": "data_list",
           "value": "books",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.data_list"
         },
@@ -53,10 +54,9 @@
           "name": "data_list_in_loop",
           "value": "books",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "activities.data_list_in_loop"
         },

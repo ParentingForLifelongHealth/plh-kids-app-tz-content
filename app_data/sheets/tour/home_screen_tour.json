@@ -12,7 +12,7 @@
         },
         "message_text": {}
       },
-      "message_text": "<p>You deserve to feel good, and have happy family relationships.<p>\n\n<p>@global.app_name is here to support you.<p>\n\n<p>Here is how to use the app:<p>",
+      "message_text": "<p>You deserve to feel good, and have happy family relationships.</p>\n\n<p>@global.app_name is here to support you.</p>\n\n<p>Here is how to use the app:</p>",
       "route": "template/home_screen"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "type": "step",
-      "message_text": "<p>The Start/Continue button takes you to the module we encourage you to explore/finish. The module name changes depending on the module you are looking at that week.<p>\n\n<p>This button disappears after all the modules have been unlocked. The modules are unlocked weekly.<p>",
+      "message_text": "<p>The Start/Continue button takes you to the module we encourage you to explore/finish. The module name changes depending on the module you are looking at that week.</p>\n\n<p>This button disappears after all the modules have been unlocked. The modules are unlocked weekly.</p>",
       "_translations": {
         "message_text": {}
       },
@@ -61,7 +61,7 @@
     },
     {
       "type": "step",
-      "message_text": "You can access various module home activities such as the Relax, Books and Play activities. You are advice to do these activities after going through the module as you await for the next module to unlock.",
+      "message_text": "You can access various module home activities such as the Relax, Books and Play activities. You are advised to do these activities after going through the module as you await for the next module to unlock.",
       "_translations": {
         "message_text": {}
       },
@@ -70,7 +70,7 @@
     },
     {
       "type": "step",
-      "message_text": "<p>At the bottom we have several sections that you can explore whenever you want by clicking on the icons.<p>\n\n<p>The library has additional books.<p>\n\n<p>The Resource centre has additional activities such as songs, relax activities, support information, play activities e.t.c.<p>\n\n<p>The settings page contains your personal information and other app settings.<p>",
+      "message_text": "<p>At the bottom we have several sections that you can explore whenever you want by clicking on the icons.</p>\n\n<p>The library has additional books.</p>\n\n<p>The Resource centre has additional activities such as songs, relax activities, support information, play activities e.t.c.</p>\n\n<p>The settings page contains your personal information and other app settings.</p>",
       "_translations": {
         "message_text": {}
       },
@@ -78,7 +78,7 @@
     },
     {
       "type": "step",
-      "message_text": "To build your knowledge and skills in Parenting, complete all of the content in one module before moving to the next one.",
+      "message_text": "To build your knowledge and skills in parenting, complete all of the content in one module before moving to the next one.",
       "_translations": {
         "message_text": {}
       },

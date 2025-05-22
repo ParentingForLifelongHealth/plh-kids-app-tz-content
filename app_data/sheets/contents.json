@@ -2737,6 +2737,65 @@
         }
       ]
     },
+    "gen_odk_form": {
+      "flow_type": "generator",
+      "flow_name": "gen_odk_form",
+      "parameter_list": {
+        "input_data_list": "modules_released",
+        "output_flow_name": "odk_form_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "modules/TZ module_navigation.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
+      "_output_flows": [
+        {
+          "flow_name": "odk_form_join",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_connect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_care",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_create",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_play",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_talk",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_build",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_explore",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "odk_form_reflect",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
     "gen_play": {
       "flow_type": "generator",
       "flow_name": "gen_play",
@@ -6768,6 +6827,51 @@
     },
     "module_talk_start_at_why_talk": {
       "flow_name": "module_talk_start_at_why_talk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_build": {
+      "flow_name": "odk_form_build",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_care": {
+      "flow_name": "odk_form_care",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_connect": {
+      "flow_name": "odk_form_connect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_create": {
+      "flow_name": "odk_form_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_explore": {
+      "flow_name": "odk_form_explore",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_join": {
+      "flow_name": "odk_form_join",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_play": {
+      "flow_name": "odk_form_play",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_reflect": {
+      "flow_name": "odk_form_reflect",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "odk_form_talk": {
+      "flow_name": "odk_form_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

@@ -13194,12 +13194,6 @@
     "note": ""
   },
   {
-    "SourceText": "play",
-    "text": "Cheza",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Add your favourite Play activities to your list so you can easily find and enjoy them anytime!",
     "text": "Ongeza vitu unavyovipenda kwenye orodha yako ya shughuli za kucheza ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!",
     "type": "template",
@@ -13338,20 +13332,8 @@
     "note": ""
   },
   {
-    "SourceText": "default",
-    "text": "chaguo-msingi",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Library",
     "text": "Maktaba",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "books",
-    "text": "vitabu",
     "type": "template",
     "note": ""
   },
@@ -13370,12 +13352,6 @@
   {
     "SourceText": "Songs",
     "text": "Nyimbo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "songs",
-    "text": "nyimbo",
     "type": "template",
     "note": ""
   },
@@ -13406,12 +13382,6 @@
   {
     "SourceText": "All",
     "text": "Wote",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "relax",
-    "text": "chukua pumziko",
     "type": "template",
     "note": ""
   }
