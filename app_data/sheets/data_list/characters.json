@@ -6,13 +6,11 @@
   "rows": [
     {
       "id": "facilitator_woman",
-      "name": "Leokadia",
       "role": "facilitator",
       "image_asset": "images/facilitator_face_woman.svg"
     },
     {
       "id": "facilitator_man",
-      "name": "James",
       "role": "facilitator",
       "image_asset": "images/facilitator_face_man.svg"
     },

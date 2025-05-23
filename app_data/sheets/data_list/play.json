@@ -180,7 +180,7 @@
     {
       "id": "pattern_play",
       "image_cover_asset": "images/learning_through_play/pattern_play_circle.svg",
-      "image_asset": "images/learning_through_play/pattern_play_1.svg",
+      "image_asset": "images/learning_through_play/treasure_hunt.svg",
       "step_1_image_asset": "images/learning_through_play/pattern_play_1.svg",
       "step_2_image_asset": "images/learning_through_play/pattern_play_2.svg",
       "step_3_image_asset": "images/learning_through_play/pattern_play_3.svg",
@@ -769,7 +769,7 @@
     {
       "id": "treasure_hunt",
       "image_cover_asset": "images/learning_through_play/treasure_hunt_circle.svg",
-      "image_asset": "images/learning_through_play/treasure_hunt.svg",
+      "image_asset": "images/learning_through_play/pattern_play_1.svg",
       "tag_list": [
         "home"
       ],

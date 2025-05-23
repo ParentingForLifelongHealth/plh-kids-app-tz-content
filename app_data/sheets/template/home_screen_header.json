@@ -257,7 +257,7 @@
                 }
               ],
               "parameter_list": {
-                "style": "navigation",
+                "style": "information",
                 "text_align": "center"
               },
               "hidden": "@item.completed",
@@ -357,7 +357,7 @@
                 }
               ],
               "parameter_list": {
-                "style": "navigation",
+                "style": "information",
                 "text_align": "center"
               },
               "hidden": "!@item.completed",

@@ -23,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 67
+        "count": 66
       },
       {
         "type": "combo_box",
@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 44
+        "count": 42
       },
       {
         "type": "debug_toggle",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_grid",
-        "count": 9
+        "count": 8
       },
       {
         "type": "display_group",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2008
+        "count": 1984
       },
       {
         "type": "simple_checkbox",
@@ -123,11 +123,11 @@
       },
       {
         "type": "template",
-        "count": 639
+        "count": 634
       },
       {
         "type": "text",
-        "count": 143
+        "count": 141
       },
       {
         "type": "text_area",
@@ -143,11 +143,11 @@
       },
       {
         "type": "title",
-        "count": 55
+        "count": 54
       },
       {
         "type": "toggle_bar",
-        "count": 8
+        "count": 7
       },
       {
         "type": "update_action_list",
@@ -175,7 +175,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 566
+        "count": 562
       },
       {
         "type": "emit: force_reload",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 558
+        "count": 554
       },
       {
         "type": "feedback",
@@ -207,7 +207,7 @@
       },
       {
         "type": "go_to",
-        "count": 32
+        "count": 31
       },
       {
         "type": "nav",
@@ -231,15 +231,15 @@
       },
       {
         "type": "set_field",
-        "count": 38
+        "count": 37
       },
       {
         "type": "set_item",
-        "count": 19
+        "count": 18
       },
       {
         "type": "set_local",
-        "count": 22
+        "count": 21
       },
       {
         "type": "start_tour",
@@ -259,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "102139 KB",
-        "MB": "102.1 MB"
+        "KB": "102611 KB",
+        "MB": "102.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "1752 KB",
-        "MB": "1.8 MB"
+        "KB": "1724 KB",
+        "MB": "1.7 MB"
       }
     ]
   },
@@ -314,6 +314,10 @@
       {
         "path": "images/books/yes_you_can/page17.jpg",
         "size_kb": 7.9
+      },
+      {
+        "path": "images/icons/activities_icon.svg",
+        "size_kb": 7.5
       },
       {
         "path": "images/icons/book_blue.svg",
@@ -436,16 +440,20 @@
         "size_kb": 1.8
       },
       {
-        "path": "images/icons/play.svg",
-        "size_kb": 0.5
-      },
-      {
         "path": "images/icons/play_white.svg",
         "size_kb": 0.5
       },
       {
         "path": "images/icons/question_mark_blue.svg",
         "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/read_icon.svg",
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/icons/relax_icon.svg",
+        "size_kb": 17.8
       },
       {
         "path": "images/icons/resource_library_blue.svg",
@@ -514,18 +522,6 @@
       {
         "path": "images/modules/talk/why_talk.svg",
         "size_kb": 29
-      },
-      {
-        "path": "images/orli/play.svg",
-        "size_kb": 16.7
-      },
-      {
-        "path": "images/orli/read.svg",
-        "size_kb": 41.2
-      },
-      {
-        "path": "images/orli/relax.svg",
-        "size_kb": 20.9
       },
       {
         "path": "images/relax/relax_man.svg",
@@ -6246,11 +6242,6 @@
         "size_kb": 1.9
       },
       {
-        "path": "images/icons/activities_icon.svg",
-        "count": 1,
-        "size_kb": 7.5
-      },
-      {
         "path": "images/icons/cellphone.svg",
         "count": 8,
         "size_kb": 1.9
@@ -6347,12 +6338,12 @@
       },
       {
         "path": "images/icons/fine_heart.svg",
-        "count": 7,
+        "count": 6,
         "size_kb": 1.2
       },
       {
         "path": "images/icons/full_heart.svg",
-        "count": 7,
+        "count": 6,
         "size_kb": 0.7
       },
       {
@@ -6396,6 +6387,11 @@
         "size_kb": 0.9
       },
       {
+        "path": "images/icons/module_map.svg",
+        "count": 2,
+        "size_kb": 381.2
+      },
+      {
         "path": "images/icons/parent_child_heart.svg",
         "count": 18,
         "size_kb": 3
@@ -6407,8 +6403,13 @@
       },
       {
         "path": "images/icons/picture_book_blue.svg",
-        "count": 4,
+        "count": 2,
         "size_kb": 1.8
+      },
+      {
+        "path": "images/icons/play.svg",
+        "count": 1,
+        "size_kb": 16.7
       },
       {
         "path": "images/icons/privacy_policy.svg",
@@ -6421,14 +6422,14 @@
         "size_kb": 1.1
       },
       {
-        "path": "images/icons/read_icon.svg",
+        "path": "images/icons/read.svg",
         "count": 1,
-        "size_kb": 25.4
+        "size_kb": 41.2
       },
       {
-        "path": "images/icons/relax_icon.svg",
+        "path": "images/icons/relax.svg",
         "count": 1,
-        "size_kb": 17.8
+        "size_kb": 20.9
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
@@ -6493,7 +6494,7 @@
       {
         "path": "images/learning_through_play/bao_icon.svg",
         "count": 1,
-        "size_kb": 8.6
+        "size_kb": 9.8
       },
       {
         "path": "images/learning_through_play/build_a_road.svg",
@@ -6508,7 +6509,7 @@
       {
         "path": "images/learning_through_play/cook_traditional.svg",
         "count": 1,
-        "size_kb": 40.7
+        "size_kb": 140.7
       },
       {
         "path": "images/learning_through_play/cook_traditional_circle.svg",
@@ -6663,12 +6664,12 @@
       {
         "path": "images/learning_through_play/reflect_on_positive.svg",
         "count": 1,
-        "size_kb": 117.2
+        "size_kb": 95.5
       },
       {
         "path": "images/learning_through_play/reflect_on_positive_circle.svg",
         "count": 1,
-        "size_kb": 113.4
+        "size_kb": 96.1
       },
       {
         "path": "images/learning_through_play/senses_circle.svg",
@@ -7762,12 +7763,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 86
+        "total": 84
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 558
+        "total": 554
       },
       {
         "type": "template",

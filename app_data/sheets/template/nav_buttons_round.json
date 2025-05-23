@@ -8,7 +8,7 @@
       "name": "buttons",
       "exclude_from_translation": true,
       "parameter_list": {
-        "style": "navigation"
+        "style": "information"
       },
       "rows": [
         {
@@ -28,7 +28,7 @@
           "exclude_from_translation": true,
           "parameter_list": {
             "icon_src": "chevron-back",
-            "style": "navigation"
+            "style": "information"
           },
           "_nested_name": "buttons.button_uncompleted_chevron"
         },
@@ -49,7 +49,7 @@
           "exclude_from_translation": true,
           "parameter_list": {
             "icon_src": "chevron-forward",
-            "style": "navigation"
+            "style": "information"
           },
           "_nested_name": "buttons.button_completed_chevron"
         }
