@@ -3255,26 +3255,6 @@
           "flow_name": "prepare_reflect_3",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "prepare_id_22",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "prepare_id_23",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "prepare_id_24",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "prepare_id_25",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -4355,12 +4335,6 @@
       "_xlsxPath": "app_menu.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
     },
-    "essential_activities": {
-      "flow_type": "template",
-      "flow_name": "essential_activities",
-      "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
-    },
     "essential_activity": {
       "flow_type": "template",
       "flow_name": "essential_activity",
@@ -4383,12 +4357,6 @@
       "flow_type": "template",
       "flow_name": "fav_books",
       "_xlsxPath": "books/library_page.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
-    },
-    "fav_essentials": {
-      "flow_type": "template",
-      "flow_name": "fav_essentials",
-      "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
     },
     "fav_play": {
@@ -7082,26 +7050,6 @@
     },
     "prepare_explore_3": {
       "flow_name": "prepare_explore_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "prepare_id_22": {
-      "flow_name": "prepare_id_22",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "prepare_id_23": {
-      "flow_name": "prepare_id_23",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "prepare_id_24": {
-      "flow_name": "prepare_id_24",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "prepare_id_25": {
-      "flow_name": "prepare_id_25",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

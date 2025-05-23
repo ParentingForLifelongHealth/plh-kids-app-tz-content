@@ -332,7 +332,7 @@
                 {
                   "type": "image",
                   "name": "mod_img",
-                  "value": "images/icons/picture_book_blue.svg",
+                  "value": "images/icons/module_map.svg",
                   "_translations": {
                     "value": {}
                   },
@@ -532,7 +532,7 @@
                 {
                   "type": "image",
                   "name": "mod_img",
-                  "value": "images/icons/picture_book_blue.svg",
+                  "value": "images/icons/module_map.svg",
                   "_translations": {
                     "value": {}
                   },

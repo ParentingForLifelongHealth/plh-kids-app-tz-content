@@ -4722,6 +4722,10 @@
     "md5Checksum": "4aa37ded543f172aa02486aaf484c4f9",
     "size_kb": 0.9
   },
+  "images/icons/module_map.svg": {
+    "md5Checksum": "fe29be3b9986c3f7fa9abedbc04472d0",
+    "size_kb": 381.2
+  },
   "images/icons/parent_child.svg": {
     "md5Checksum": "99747503b2023a185d20be8e5c7d8076",
     "size_kb": 2
@@ -4755,8 +4759,8 @@
     "size_kb": 1.8
   },
   "images/icons/play.svg": {
-    "md5Checksum": "5393d2113acd3a4b7d5f03795067a678",
-    "size_kb": 0.5
+    "md5Checksum": "b7e9d7c05324dd3388dbf195037861cc",
+    "size_kb": 16.7
   },
   "images/icons/play_white.svg": {
     "md5Checksum": "6508bf39f8cb3c3ab0f30b96994a6cbc",
@@ -4774,9 +4778,17 @@
     "md5Checksum": "49e1d1e478068a24949d87d09c9ba07b",
     "size_kb": 0.8
   },
+  "images/icons/read.svg": {
+    "md5Checksum": "c7f7af8282411a75cacf6ffe378838ca",
+    "size_kb": 41.2
+  },
   "images/icons/read_icon.svg": {
     "md5Checksum": "c7f46d770eb4cab4116596401ab7ecf5",
     "size_kb": 25.4
+  },
+  "images/icons/relax.svg": {
+    "md5Checksum": "e36d20983048369cfa9c71d3542c0e48",
+    "size_kb": 20.9
   },
   "images/icons/relax_icon.svg": {
     "md5Checksum": "138feec0cf6414a0495408666ae4e27e",
@@ -4867,8 +4879,8 @@
     "size_kb": 18
   },
   "images/learning_through_play/bao_icon.svg": {
-    "md5Checksum": "fbf3cd69c3f09d9e3f8c214c1eaa2397",
-    "size_kb": 8.6
+    "md5Checksum": "ab19831b66a4c2f62de115fce2bf4ff7",
+    "size_kb": 9.8
   },
   "images/learning_through_play/build_a_road.svg": {
     "md5Checksum": "01395e45ca51c9a577133dd4f18b5879",
@@ -4879,8 +4891,8 @@
     "size_kb": 75.1
   },
   "images/learning_through_play/cook_traditional.svg": {
-    "md5Checksum": "f403b4569501b082ca9cb930b319e008",
-    "size_kb": 40.7
+    "md5Checksum": "1b8ee5d230c11101a9f665a3e0958dfc",
+    "size_kb": 140.7
   },
   "images/learning_through_play/cook_traditional_circle.svg": {
     "md5Checksum": "f572707355eeb0b3df7fa83b3a94ace3",
@@ -5003,12 +5015,12 @@
     "size_kb": 210.1
   },
   "images/learning_through_play/reflect_on_positive.svg": {
-    "md5Checksum": "b387f39fc33464d2dc5b957968e6d9a0",
-    "size_kb": 117.2
+    "md5Checksum": "1e1b0c4731eed73818de7b221f80cf0a",
+    "size_kb": 95.5
   },
   "images/learning_through_play/reflect_on_positive_circle.svg": {
-    "md5Checksum": "83a7179263644182e56bd2fca70d184a",
-    "size_kb": 113.4
+    "md5Checksum": "5dbe311640a3a8691581015b56cfde3c",
+    "size_kb": 96.1
   },
   "images/learning_through_play/senses_circle.svg": {
     "md5Checksum": "78de10cec8ee8a8354a1a6e5a4b4414c",
@@ -5713,18 +5725,6 @@
   "images/modules/talk/why_talk_2.svg": {
     "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
     "size_kb": 286.7
-  },
-  "images/orli/play.svg": {
-    "md5Checksum": "b7e9d7c05324dd3388dbf195037861cc",
-    "size_kb": 16.7
-  },
-  "images/orli/read.svg": {
-    "md5Checksum": "c7f7af8282411a75cacf6ffe378838ca",
-    "size_kb": 41.2
-  },
-  "images/orli/relax.svg": {
-    "md5Checksum": "e36d20983048369cfa9c71d3542c0e48",
-    "size_kb": 20.9
   },
   "images/relax/relax_1.svg": {
     "md5Checksum": "3e4f51d3df0247b17825eb6a78eb66d9",

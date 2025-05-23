@@ -134,7 +134,7 @@
           "parameter_list": {
             "icon_src": "arrow-back",
             "variant": "module",
-            "style": "navigation"
+            "style": "information"
           },
           "condition": "!!@local.display_uncompleted",
           "_nested_name": "buttons.button_previous",
@@ -172,7 +172,7 @@
           "parameter_list": {
             "icon_src": "@local.completed_icon",
             "variant": "module",
-            "style": "navigation"
+            "style": "information"
           },
           "condition": "!@local.is_standalone_task",
           "_nested_name": "buttons.button_next",
@@ -225,7 +225,7 @@
           ],
           "exclude_from_translation": true,
           "parameter_list": {
-            "style": "navigation",
+            "style": "information",
             "icon_secondary_asset": "@local.completed_icon"
           },
           "style_list": [

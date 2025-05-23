@@ -50,20 +50,6 @@
       }
     },
     {
-      "id": "essential",
-      "name": "Essential Tools",
-      "_translations": {
-        "name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Essential Tools"
-        }
-      }
-    },
-    {
       "id": "songs",
       "image_asset": "images/songs_resources.svg",
       "name": "Songs",
