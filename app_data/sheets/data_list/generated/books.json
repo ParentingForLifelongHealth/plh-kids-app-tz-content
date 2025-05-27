@@ -2144,21 +2144,45 @@
         "guidance_cover": {
           "tz_sw": true
         },
-        "guidance_1_a": {},
-        "guidance_2_a": {},
-        "guidance_3_a": {},
-        "guidance_4_a": {},
+        "guidance_1_a": {
+          "tz_sw": true
+        },
+        "guidance_2_a": {
+          "tz_sw": true
+        },
+        "guidance_3_a": {
+          "tz_sw": true
+        },
+        "guidance_4_a": {
+          "tz_sw": true
+        },
         "text_5": {
           "tz_sw": true
         },
-        "guidance_5_a": {},
-        "guidance_6_a": {},
-        "guidance_7_a": {},
-        "guidance_8_a": {},
-        "guidance_9_a": {},
-        "guidance_10_a": {},
-        "guidance_11_a": {},
-        "guidance_12_a": {},
+        "guidance_5_a": {
+          "tz_sw": true
+        },
+        "guidance_6_a": {
+          "tz_sw": true
+        },
+        "guidance_7_a": {
+          "tz_sw": true
+        },
+        "guidance_8_a": {
+          "tz_sw": true
+        },
+        "guidance_9_a": {
+          "tz_sw": true
+        },
+        "guidance_10_a": {
+          "tz_sw": true
+        },
+        "guidance_11_a": {
+          "tz_sw": true
+        },
+        "guidance_12_a": {
+          "tz_sw": true
+        },
         "text_7_left": {
           "tz_sw": true
         },

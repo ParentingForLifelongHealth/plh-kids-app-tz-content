@@ -18,7 +18,9 @@
       "name": "title",
       "value": "Feedback Form",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "title"
     },

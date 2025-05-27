@@ -12,10 +12,10 @@
 | combo_box | 6 |
 | data_items | 44 |
 | debug_toggle | 1 |
-| display_grid | 8 |
-| display_group | 71 |
+| display_grid | 9 |
+| display_group | 80 |
 | google_sign_in_button | 1 |
-| image | 49 |
+| image | 50 |
 | items | 16 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
@@ -28,20 +28,20 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1984 |
+| set_variable | 2013 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 13 |
 | task_progress_bar | 3 |
-| template | 634 |
-| text | 141 |
+| template | 644 |
+| text | 146 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 9 |
 | title | 55 |
 | toggle_bar | 8 |
 | update_action_list | 3 |
-| video | 3 |
+| video | 2 |
 | youtube | 3 |
 </details>
 
@@ -60,15 +60,15 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 554 |
 | feedback | 13 |
-| go_to | 31 |
+| go_to | 23 |
 | nav | 1 |
 | nav_stack | 1 |
 | pop_up | 25 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 37 |
-| set_item | 18 |
-| set_local | 21 |
+| set_field | 38 |
+| set_item | 19 |
+| set_local | 31 |
 | start_tour | 1 |
 | task | 3 |
 | user | 2 |

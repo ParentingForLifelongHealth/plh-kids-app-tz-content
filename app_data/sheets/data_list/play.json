@@ -991,10 +991,18 @@
       "favourite_field": "ltp_activity_cooking_traditional_food_favourite",
       "title": "Cooking Traditional Food",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "step_1_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1021,10 +1029,18 @@
       "favourite_field": "ltp_activity_hide_and_seek_favourite",
       "title": "Hide and Seek",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "step_1_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1051,8 +1067,12 @@
       "favourite_field": "ltp_activity_reflect_positive_favourite",
       "title": "Reflect on the Positive",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1071,10 +1091,18 @@
       "favourite_field": "ltp_activity_making_music_favourite",
       "title": "Make Music",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "step_1_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1101,13 +1129,21 @@
       "favourite_field": "ltp_activity_traditional_game_favourite",
       "title": "Traditional Game",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "resources_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "resources_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
-        "tips_text": {}
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1141,9 +1177,15 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "step_1_text": {},
-        "tips_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

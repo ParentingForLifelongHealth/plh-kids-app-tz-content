@@ -497,7 +497,9 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {}
+        "section_1_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

@@ -90,9 +90,7 @@
       "id": "essential",
       "name": "Essential Tools",
       "_translations": {
-        "name": {
-          "tz_sw": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {

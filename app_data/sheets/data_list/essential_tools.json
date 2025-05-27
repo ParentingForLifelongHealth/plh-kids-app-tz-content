@@ -72,7 +72,9 @@
           "tz_sw": true
         },
         "step_2_text": {},
-        "tips_text": {},
+        "tips_text": {
+          "tz_sw": true
+        },
         "extension_text": {
           "tz_sw": true
         }
@@ -91,7 +93,7 @@
           "eng": "**Use praise to encourage positive behaviour**\n\nIf we praise our children when they do something well, we will see them do more and more positive things!"
         },
         "tips_text": {
-          "eng": "Ideas for praise:\n1. Being kind to someone \n2. Sharing their toys\n3. Packing away their things \n4. Saying 'please' or 'thank you' \n5. Helping out around the house\n6 Listening"
+          "eng": "Ideas for praise:"
         },
         "extension_text": {
           "eng": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
@@ -100,7 +102,7 @@
       "intro_text": "Here’s how you can create a positive environment for your child:",
       "step_1_text": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something.",
       "step_2_text": "**Use praise to encourage positive behaviour**\n\nIf we praise our children when they do something well, we will see them do more and more positive things!",
-      "tips_text": "Ideas for praise:\n1. Being kind to someone \n2. Sharing their toys\n3. Packing away their things \n4. Saying 'please' or 'thank you' \n5. Helping out around the house\n6 Listening",
+      "tips_text": "Ideas for praise:",
       "extension_text": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
     },
     {

@@ -624,7 +624,9 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {}
+        "section_1_extra_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "images/modules/talk/talk_11.svg",
       "section_1_text": "How can I show my child that I am listening?",
