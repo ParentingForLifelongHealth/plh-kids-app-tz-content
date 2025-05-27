@@ -455,6 +455,7 @@
       "category_id": "books_talk",
       "image_asset": "images/modules/talk/talk_10.svg",
       "media_type": "video",
+      "media_asset": "https://drive.google.com/file/d/1pWNccBun0H3azChW1ITzOZPZ_xenGGfV/view?usp=share_link",
       "text_1": "**Ask questions**\n \nThis helps your child to talk about the pictures, and think about what is happening.",
       "_translations": {
         "text_1": {
@@ -496,7 +497,9 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {}
+        "section_1_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1": {

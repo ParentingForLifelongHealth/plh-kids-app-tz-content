@@ -1,5 +1,5 @@
 {
-  "flow_name": "essential_tools_id_11",
+  "flow_name": "essential_tools_create",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "essential_id",
-          "value": "id_11",
+          "value": "create",
           "_translations": {
             "value": {}
           },
