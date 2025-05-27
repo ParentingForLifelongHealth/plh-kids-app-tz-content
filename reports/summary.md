@@ -12,7 +12,7 @@
 | combo_box | 6 |
 | data_items | 44 |
 | debug_toggle | 1 |
-| display_grid | 9 |
+| display_grid | 8 |
 | display_group | 71 |
 | google_sign_in_button | 1 |
 | image | 49 |
@@ -28,13 +28,13 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2004 |
+| set_variable | 1984 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 13 |
 | task_progress_bar | 3 |
-| template | 635 |
-| text | 145 |
+| template | 634 |
+| text | 141 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 9 |
@@ -52,7 +52,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 562 |
+| emit: completed | 553 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
@@ -60,15 +60,15 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 554 |
 | feedback | 13 |
-| go_to | 32 |
+| go_to | 31 |
 | nav | 1 |
 | nav_stack | 1 |
 | pop_up | 25 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 38 |
-| set_item | 19 |
-| set_local | 22 |
+| set_field | 37 |
+| set_item | 18 |
+| set_local | 21 |
 | start_tour | 1 |
 | task | 3 |
 | user | 2 |
