@@ -40,7 +40,7 @@
     {
       "id": "why_explore_2",
       "category_id": "why_explore",
-      "image_asset": "(insert image)",
+      "image_asset": "images/modules/explore/explore_title_image.svg",
       "title": "The ParentApp Garden",
       "_translations": {
         "title": {

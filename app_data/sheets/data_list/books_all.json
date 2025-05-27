@@ -15,8 +15,6 @@
       "level_id": "level_2",
       "author": "Elana Bregin",
       "illustrator": "Nicki Blackbeard",
-      "editor": "ab",
-      "designer": "gt",
       "image_1_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page4.jpg",
       "image_2_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page5.jpg",
       "image_3_asset": "images/books/my_shoe/who-took-my-shoe_20221127_page6.jpg",
@@ -3824,9 +3822,7 @@
         "guidance_1_a": {
           "tz_sw": true
         },
-        "guidance_2_a": {
-          "tz_sw": true
-        },
+        "guidance_2_a": {},
         "guidance_3_a": {
           "tz_sw": true
         },
@@ -3878,7 +3874,7 @@
           "eng": "Describe the pictures, or ask your child to tell you what they see. Where are they? Where are they going? Respond with interest and enthusiasm."
         },
         "guidance_2_a": {
-          "eng": "Describe and explain the pictures. “Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain."
+          "eng": "Describe and explain the pictures. Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain."
         },
         "guidance_3_a": {
           "eng": "Ask your child to point and name the animals. How many bees are flying? Where are the ants walking? Can we count them? Where is the frog hiding?"
@@ -3918,7 +3914,7 @@
       "description": "Climb the mountain with us! Look out for many tiny creatures… and BIG views. If we help each other, we can get to the top!",
       "licence": "This work is licensed under a [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).",
       "guidance_1_a": "Describe the pictures, or ask your child to tell you what they see. Where are they? Where are they going? Respond with interest and enthusiasm.",
-      "guidance_2_a": "Describe and explain the pictures. “Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain.",
+      "guidance_2_a": "Describe and explain the pictures. Look, here is a bird with a sharp beak and a long tail. The flowers are big and colourful. The father is holding a long stick that helps him to climb the mountain.",
       "guidance_3_a": "Ask your child to point and name the animals. How many bees are flying? Where are the ants walking? Can we count them? Where is the frog hiding?",
       "guidance_4_a": "Ask your child: What is the father pointing at? What animal does the rock look like?\nWhat is the girl doing?",
       "guidance_5_a": "Ask your child: What are they doing? Why are they stopping? What can you see around them?",
