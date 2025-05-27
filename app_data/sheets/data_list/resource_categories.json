@@ -85,6 +85,20 @@
         }
       },
       "text": "When you feel differently, unsecured in a family, spouse, your child in danger or abused, you can contact the following Service providers via the following numbers."
+    },
+    {
+      "id": "essential",
+      "name": "Essential Tools",
+      "_translations": {
+        "name": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Essential Tools"
+        }
+      }
     }
   ],
   "_xlsxPath": "Resource centre/TZ resource centre.xlsx",

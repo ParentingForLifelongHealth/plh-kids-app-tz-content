@@ -68,7 +68,7 @@
       "id": "connect_1",
       "module_id": "connect",
       "book_id": "to_the_top",
-      "media_type": "youtube",
+      "media_type": "audio",
       "youtube_gb_en": "https://www.youtube.com/watch?v=Nm6fSxi6cO0",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=Wg8bZCzIJ28",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -492,7 +492,7 @@
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "More ideas for book activities",
+      "title": "Prepare",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -500,7 +500,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "More ideas for book activities"
+          "eng": "Prepare"
         }
       }
     },
@@ -532,7 +532,7 @@
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Using books in playful ways",
+      "title": "Prepare",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -540,7 +540,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Using books in playful ways"
+          "eng": "Prepare"
         }
       }
     }

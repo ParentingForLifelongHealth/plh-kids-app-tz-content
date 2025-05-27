@@ -100,22 +100,22 @@
     },
     {
       "type": "display_group",
-      "name": "video_dg",
-      "condition": "@local.prepare_row.media_type == \"video\"",
+      "name": "image_dg",
+      "condition": "@local.prepare_row.media_type == \"image\"",
       "parameter_list": {
         "style": "column"
       },
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "video",
+          "type": "image",
           "name": "media_asset",
           "value": "@local.prepare_row.media_asset",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
-          "_nested_name": "video_dg.media_asset",
+          "_nested_name": "image_dg.media_asset",
           "_dynamicFields": {
             "value": [
               {
@@ -133,11 +133,11 @@
           }
         }
       ],
-      "_nested_name": "video_dg",
+      "_nested_name": "image_dg",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.prepare_row.media_type == \"video\"",
+            "fullExpression": "@local.prepare_row.media_type == \"image\"",
             "matchedExpression": "@local.prepare_row.media_type",
             "type": "local",
             "fieldName": "prepare_row"
