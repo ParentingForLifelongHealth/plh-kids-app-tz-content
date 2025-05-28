@@ -259,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "102655 KB",
-        "MB": "102.7 MB"
+        "KB": "102886 KB",
+        "MB": "102.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "1720 KB",
-        "MB": "1.7 MB"
+        "KB": "2039 KB",
+        "MB": "2 MB"
       }
     ]
   },
@@ -514,6 +514,10 @@
       {
         "path": "images/modules/build/how_to_build.svg",
         "size_kb": 32.5
+      },
+      {
+        "path": "images/modules/explore/explore_garden.svg",
+        "size_kb": 318.6
       },
       {
         "path": "images/modules/reflect/reflect_2.svg",
@@ -6222,7 +6226,37 @@
         "size_kb": 169.7
       },
       {
-        "path": "images/essential_tool.svg",
+        "path": "images/essential_tools/books_circle_build.svg",
+        "count": 1,
+        "size_kb": 70.5
+      },
+      {
+        "path": "images/essential_tools/books_circle_connect.svg",
+        "count": 1,
+        "size_kb": 31.5
+      },
+      {
+        "path": "images/essential_tools/books_circle_create.svg",
+        "count": 1,
+        "size_kb": 39.5
+      },
+      {
+        "path": "images/essential_tools/books_circle_explore.svg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "images/essential_tools/books_circle_play.svg",
+        "count": 1,
+        "size_kb": 34
+      },
+      {
+        "path": "images/essential_tools/books_circle_talk.svg",
+        "count": 1,
+        "size_kb": 27.9
+      },
+      {
+        "path": "images/essential_tools/essential_tool.svg",
         "count": 1,
         "size_kb": 43.4
       },
@@ -6868,7 +6902,7 @@
       },
       {
         "path": "images/modules/build/reading_build.svg",
-        "count": 6,
+        "count": 5,
         "size_kb": 70.5
       },
       {
@@ -7018,7 +7052,7 @@
       },
       {
         "path": "images/modules/connect/connect_9.svg",
-        "count": 4,
+        "count": 3,
         "size_kb": 32.3
       },
       {
@@ -7078,7 +7112,7 @@
       },
       {
         "path": "images/modules/create/create_17.svg",
-        "count": 6,
+        "count": 5,
         "size_kb": 40.1
       },
       {
@@ -7193,7 +7227,7 @@
       },
       {
         "path": "images/modules/explore/reading_explore.svg",
-        "count": 6,
+        "count": 5,
         "size_kb": 28.3
       },
       {
@@ -7388,7 +7422,7 @@
       },
       {
         "path": "images/modules/play/using_books_1.svg",
-        "count": 4,
+        "count": 3,
         "size_kb": 34.6
       },
       {
@@ -7443,7 +7477,7 @@
       },
       {
         "path": "images/modules/talk/books_talk.svg",
-        "count": 4,
+        "count": 3,
         "size_kb": 28.2
       },
       {

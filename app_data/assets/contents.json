@@ -4482,7 +4482,31 @@
     "md5Checksum": "73bb3e7d2d24e16369a1d10030344755",
     "size_kb": 169.7
   },
-  "images/essential_tool.svg": {
+  "images/essential_tools/books_circle_build.svg": {
+    "md5Checksum": "1d493d963a685631dc32744238dc2451",
+    "size_kb": 70.5
+  },
+  "images/essential_tools/books_circle_connect.svg": {
+    "md5Checksum": "1670dcd292d76fe5d620b720f43ffc64",
+    "size_kb": 31.5
+  },
+  "images/essential_tools/books_circle_create.svg": {
+    "md5Checksum": "6f09e9bbdd01e489b351709c9d49db88",
+    "size_kb": 39.5
+  },
+  "images/essential_tools/books_circle_explore.svg": {
+    "md5Checksum": "d5176ff68c33bc3359d71238d934ce87",
+    "size_kb": 27.4
+  },
+  "images/essential_tools/books_circle_play.svg": {
+    "md5Checksum": "5bace8f859979d9557be4acbc7ac7c32",
+    "size_kb": 34
+  },
+  "images/essential_tools/books_circle_talk.svg": {
+    "md5Checksum": "41ea0b406381652c8f099bb4fb962ecc",
+    "size_kb": 27.9
+  },
+  "images/essential_tools/essential_tool.svg": {
     "md5Checksum": "b396553bae24d11389b37d81b3ff13c0",
     "size_kb": 43.4
   },
@@ -5429,6 +5453,10 @@
   "images/modules/explore/explore.gif": {
     "md5Checksum": "417744146d9975f8cfd09a85056dc962",
     "size_kb": 428.7
+  },
+  "images/modules/explore/explore_garden.svg": {
+    "md5Checksum": "fb3c449e15a2056a09056ae92033db04",
+    "size_kb": 318.6
   },
   "images/modules/explore/explore_title_image.svg": {
     "md5Checksum": "92a5089671fe0af5770e327245779a08",
