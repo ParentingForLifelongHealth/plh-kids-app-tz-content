@@ -65,6 +65,19 @@
       }
     },
     {
+      "id": "essential",
+      "image_asset": "images/modules/connect/connect_7.svg",
+      "name": "Essential Tools",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Essential Tools"
+        }
+      }
+    },
+    {
       "id": "support",
       "image_asset": "images/support/support_information.svg",
       "name": "Support Information",
@@ -85,18 +98,6 @@
         }
       },
       "text": "When you feel differently, unsecured in a family, spouse, your child in danger or abused, you can contact the following Service providers via the following numbers."
-    },
-    {
-      "id": "essential",
-      "name": "Essential Tools",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Essential Tools"
-        }
-      }
     }
   ],
   "_xlsxPath": "Resource centre/TZ resource centre.xlsx",

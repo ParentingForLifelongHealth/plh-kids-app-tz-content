@@ -1087,8 +1087,8 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
+    "md5Checksum": "df9c81f319411188b557a9430db42686",
+    "size_kb": 6.1
   },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
@@ -4554,6 +4554,10 @@
     "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
     "size_kb": 0.9
   },
+  "images/icons/expand_circle_right.svg": {
+    "md5Checksum": "f953abc80ae8a34bdc8ecda69eb49031",
+    "size_kb": 1.6
+  },
   "images/icons/faces/angry.svg": {
     "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",
     "size_kb": 1.1
@@ -5895,7 +5899,7 @@
     "size_kb": 5.9
   },
   "odk/general_survey.json": {
-    "md5Checksum": "b610d640fa730528a2509381f995bab1",
+    "md5Checksum": "3929af20878b80b14a7ad30f34acf95a",
     "overrides": {
       "theme_default": {
         "tz_sw": {

@@ -259,8 +259,12 @@
           }
         },
         {
-          "type": "task_card",
-          "name": "task_card_@item.id",
+          "type": "plh_module_list_item",
+          "name": "support_list_item",
+          "value": "@item.title",
+          "_translations": {
+            "value": {}
+          },
           "action_list": [
             {
               "trigger": "click",
@@ -293,21 +297,18 @@
             }
           ],
           "parameter_list": {
-            "title": "@item.title",
-            "image": "@item.image_asset",
-            "variant": "button",
-            "in_progress_icon": "images/icons/in_progress.svg",
-            "completed_icon": "images/icons/tick.svg",
-            "show_progress_text": "FALSE"
+            "module_image_asset": "@item.image_asset",
+            "nav_image_asset": "images/icons/expand_circle_right.svg",
+            "variant": "default"
           },
-          "_nested_name": "find_support_id.task_card_@item.id",
+          "_nested_name": "find_support_id.support_list_item",
           "_dynamicFields": {
-            "name": [
+            "value": [
               {
-                "fullExpression": "task_card_@item.id",
-                "matchedExpression": "@item.id",
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
                 "type": "item",
-                "fieldName": "id"
+                "fieldName": "title"
               }
             ],
             "action_list": {
@@ -417,15 +418,7 @@
               }
             },
             "parameter_list": {
-              "title": [
-                {
-                  "fullExpression": "@item.title",
-                  "matchedExpression": "@item.title",
-                  "type": "item",
-                  "fieldName": "title"
-                }
-              ],
-              "image": [
+              "module_image_asset": [
                 {
                   "fullExpression": "@item.image_asset",
                   "matchedExpression": "@item.image_asset",
@@ -433,26 +426,11 @@
                   "fieldName": "image_asset"
                 }
               ]
-            },
-            "_nested_name": [
-              {
-                "fullExpression": "find_support_id.task_card_@item.id",
-                "matchedExpression": "@item.id",
-                "type": "item",
-                "fieldName": "id"
-              }
-            ]
+            }
           },
           "_dynamicDependencies": {
-            "@item.id": [
-              "name",
-              "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned",
-              "action_list.2.args.0",
-              "action_list.2._raw",
-              "action_list.2._cleaned",
-              "_nested_name"
+            "@item.title": [
+              "value"
             ],
             "@local.click_history_field_name": [
               "action_list.0.args.0",
@@ -464,11 +442,16 @@
               "action_list.0._raw",
               "action_list.0._cleaned"
             ],
-            "@item.title": [
-              "parameter_list.title"
+            "@item.id": [
+              "action_list.1.args.1",
+              "action_list.1._raw",
+              "action_list.1._cleaned",
+              "action_list.2.args.0",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
             ],
             "@item.image_asset": [
-              "parameter_list.image"
+              "parameter_list.module_image_asset"
             ]
           }
         }
