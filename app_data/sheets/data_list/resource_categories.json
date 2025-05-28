@@ -69,7 +69,9 @@
       "image_asset": "images/modules/connect/connect_7.svg",
       "name": "Essential Tools",
       "_translations": {
-        "name": {}
+        "name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "name": {

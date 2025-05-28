@@ -108,7 +108,9 @@
       "name": "disclaimer_text",
       "value": "Add your favourite Essential Tools to your list so you can easily find and enjoy them anytime!",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.fav_count === 0",
       "_nested_name": "disclaimer_text",

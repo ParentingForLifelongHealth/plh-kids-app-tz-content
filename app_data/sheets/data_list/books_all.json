@@ -3846,7 +3846,9 @@
         "guidance_1_a": {
           "tz_sw": true
         },
-        "guidance_2_a": {},
+        "guidance_2_a": {
+          "tz_sw": true
+        },
         "guidance_3_a": {
           "tz_sw": true
         },

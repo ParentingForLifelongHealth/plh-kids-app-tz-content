@@ -32,8 +32,12 @@
       "name": "create",
       "title": "Create",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -72,8 +76,12 @@
       "name": "talk",
       "title": "Talk",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -90,8 +98,12 @@
       "name": "build",
       "title": "Build",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -108,8 +120,12 @@
       "name": "care",
       "title": "Care",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -126,8 +142,12 @@
       "name": "explore",
       "title": "Explore",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

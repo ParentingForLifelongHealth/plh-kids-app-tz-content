@@ -20,7 +20,9 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
@@ -64,15 +66,21 @@
       ],
       "title": "Create",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
         "step_1_text": {
           "tz_sw": true
         },
-        "step_2_text": {},
-        "tips_text": {}
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -111,7 +119,9 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
@@ -156,8 +166,12 @@
       ],
       "title": "Talk",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
@@ -203,8 +217,12 @@
       ],
       "title": "Explore solutions",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
@@ -255,7 +273,9 @@
       ],
       "title": "Build skills",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -296,7 +316,9 @@
       ],
       "title": "Care for yourself",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -344,12 +366,18 @@
       ],
       "title": "Use books to connect",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
-        "step_1_text": {},
-        "step_2_text": {},
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
         "step_3_text": {
           "tz_sw": true
         }
@@ -388,15 +416,21 @@
       ],
       "title": "Use books to create",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
         "step_1_text": {
           "tz_sw": true
         },
-        "step_2_text": {},
-        "step_3_text": {}
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -432,7 +466,9 @@
       ],
       "title": "Use books to play",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -480,8 +516,12 @@
       ],
       "title": "Use books to care",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
@@ -526,12 +566,18 @@
       ],
       "title": "Use books to talk",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
-        "step_2_text": {},
+        "step_2_text": {
+          "tz_sw": true
+        },
         "step_3_text": {
           "tz_sw": true
         }
@@ -567,11 +613,21 @@
       ],
       "title": "Use books to build",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "step_1_text": {},
-        "step_2_text": {},
-        "step_3_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -604,8 +660,12 @@
       ],
       "title": "Use books to explore",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
         "step_1_text": {
           "tz_sw": true
         },
