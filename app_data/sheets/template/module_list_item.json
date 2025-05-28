@@ -109,7 +109,7 @@
     },
     {
       "name": "nav_image_asset",
-      "value": "images/icons/expand_circle_right.png",
+      "value": "images/icons/expand_circle_right.svg",
       "_translations": {
         "value": {}
       },

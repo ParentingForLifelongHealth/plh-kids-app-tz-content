@@ -202,8 +202,12 @@
           }
         },
         {
-          "type": "task_card",
-          "name": "task_card_1",
+          "type": "plh_module_list_item",
+          "name": "resource_list_item",
+          "value": "@item.name",
+          "_translations": {
+            "value": {}
+          },
           "action_list": [
             {
               "trigger": "click",
@@ -226,12 +230,20 @@
             }
           ],
           "parameter_list": {
-            "title": "@item.name",
-            "image": "@item.image_asset",
-            "variant": "button"
+            "module_image_asset": "@item.image_asset",
+            "nav_image_asset": "images/icons/expand_circle_right.svg",
+            "variant": "default"
           },
-          "_nested_name": "items_loop.task_card_1",
+          "_nested_name": "items_loop.resource_list_item",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.name",
+                "matchedExpression": "@item.name",
+                "type": "item",
+                "fieldName": "name"
+              }
+            ],
             "action_list": {
               "0": {
                 "args": {
@@ -329,15 +341,7 @@
               }
             },
             "parameter_list": {
-              "title": [
-                {
-                  "fullExpression": "@item.name",
-                  "matchedExpression": "@item.name",
-                  "type": "item",
-                  "fieldName": "name"
-                }
-              ],
-              "image": [
+              "module_image_asset": [
                 {
                   "fullExpression": "@item.image_asset",
                   "matchedExpression": "@item.image_asset",
@@ -348,6 +352,9 @@
             }
           },
           "_dynamicDependencies": {
+            "@item.name": [
+              "value"
+            ],
             "@local.click_history_field_name": [
               "action_list.0.args.0",
               "action_list.0._raw",
@@ -368,11 +375,8 @@
               "action_list.1._raw",
               "action_list.1._cleaned"
             ],
-            "@item.name": [
-              "parameter_list.title"
-            ],
             "@item.image_asset": [
-              "parameter_list.image"
+              "parameter_list.module_image_asset"
             ]
           }
         }

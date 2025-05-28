@@ -21,19 +21,19 @@
 | navigation_bar | 1 |
 | nested_properties | 41 |
 | odk_form | 1 |
-| plh_module_list_item | 1 |
+| plh_module_list_item | 3 |
 | plh_progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 5 |
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2013 |
+| set_variable | 2012 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
-| task_card | 13 |
+| task_card | 11 |
 | task_progress_bar | 3 |
-| template | 644 |
+| template | 643 |
 | text | 146 |
 | text_area | 2 |
 | text_box | 4 |
@@ -52,13 +52,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 553 |
+| emit: completed | 561 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 554 |
+| emit: uncompleted | 553 |
 | feedback | 13 |
 | go_to | 23 |
 | nav | 1 |
@@ -80,7 +80,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 102611 KB | 102.6 MB |
-| unused | 1719 KB | 1.7 MB |
+| unused | 1720 KB | 1.7 MB |
 </details>
 
 <details open>
@@ -95,7 +95,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/additional_info/nutrition_6.svg | 25.4 |
 | images/additional_info/nutrition_7.svg | 74.6 |
 | images/additional_info/nutrition_8.svg | 27.8 |
@@ -111,6 +111,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/cancel.svg | 1.7 |
 | images/icons/chevron_back_white.svg | 1.3 |
 | images/icons/chevron_forward_white.svg | 1.3 |
+| images/icons/expand_circle_right.png | 0.9 |
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
 | images/icons/faces/happier.svg | 0.6 |
@@ -1316,7 +1317,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/about_parentapp.svg | 1.9 | 1 |
 | images/icons/cellphone.svg | 1.9 | 8 |
 | images/icons/cogwheel_blue.svg | 5.1 | 2 |
-| images/icons/expand_circle_right.png | 0.9 | 1 |
+| images/icons/expand_circle_right.svg | 1.6 | 3 |
 | images/icons/faces/angry_emoji.svg | 2.8 | 6 |
 | images/icons/faces/awake_emoji.svg | 1.7 | 2 |
 | images/icons/faces/frustrated_emoji.svg | 1.7 | 2 |
@@ -1336,7 +1337,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/fine_heart.svg | 1.2 | 7 |
 | images/icons/full_heart.svg | 0.7 | 7 |
 | images/icons/house_blue.svg | 3 | 2 |
-| images/icons/in_progress.svg | 1.1 | 5 |
+| images/icons/in_progress.svg | 1.1 | 4 |
 | images/icons/jigsaw_blue.svg | 5.9 | 2 |
 | images/icons/join_icons/caring_yourchild.svg | 4.4 | 4 |
 | images/icons/join_icons/caring_yourself.svg | 1.3 | 4 |
@@ -1356,7 +1357,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_up.svg | 1 | 20 |
 | images/icons/temporarily_disabled.svg | 5.6 | 1 |
 | images/icons/terms_conditions.svg | 1.5 | 1 |
-| images/icons/tick.svg | 0.3 | 4 |
+| images/icons/tick.svg | 0.3 | 3 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/icons/user_id.svg | 2 | 1 |
 | images/learning_through_play/act_the_story.svg | 84.2 | 1 |
@@ -1456,7 +1457,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/care/why_care_2.svg | 305.3 | 2 |
 | images/modules/connect/connect_1.svg | 29 | 6 |
 | images/modules/connect/connect_10.svg | 289.6 | 4 |
-| images/modules/connect/connect_11.png | 29.7 | 2 |
+| images/modules/connect/connect_11.png | 29.7 | 29 |
 | images/modules/connect/connect_12.svg | 187.7 | 3 |
 | images/modules/connect/connect_13.svg | 142.6 | 3 |
 | images/modules/connect/connect_14.svg | 34.3 | 4 |
@@ -1465,7 +1466,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/connect/connect_4.svg | 494.2 | 5 |
 | images/modules/connect/connect_5.svg | 129 | 3 |
 | images/modules/connect/connect_6.svg | 91.9 | 3 |
-| images/modules/connect/connect_7.svg | 43.9 | 4 |
+| images/modules/connect/connect_7.svg | 43.9 | 5 |
 | images/modules/connect/connect_8.svg | 44.3 | 2 |
 | images/modules/connect/connect_9.svg | 32.3 | 4 |
 | images/modules/connect/connect_title_image.svg | 76.8 | 7 |
@@ -1625,7 +1626,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 3 |
 | global | legal_terms | 1 |
 | template |  | 86 |
-| template | generated | 554 |
+| template | generated | 553 |
 | template | legal_terms | 4 |
 | tour |  | 1 |
 </details>
