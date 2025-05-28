@@ -79,8 +79,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 102655 KB | 102.7 MB |
-| unused | 1720 KB | 1.7 MB |
+| total | 102886 KB | 102.9 MB |
+| unused | 2039 KB | 2 MB |
 </details>
 
 <details open>
@@ -151,6 +151,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/modules/build/build_1.svg | 18.3 |
 | images/modules/build/build_practice.svg | 23.6 |
 | images/modules/build/how_to_build.svg | 32.5 |
+| images/modules/explore/explore_garden.svg | 318.6 |
 | images/modules/reflect/reflect_2.svg | 53.6 |
 | images/modules/talk/why_talk.svg | 29 |
 | images/relax/relax_man.svg | 27 |
@@ -1310,7 +1311,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character/male_facilitator_blue_circle.svg | 12.7 | 1 |
 | images/character/nandi.png | 163 | 1 |
 | images/character/nandi_mom.png | 169.7 | 1 |
-| images/essential_tool.svg | 43.4 | 1 |
+| images/essential_tools/books_circle_build.svg | 70.5 | 1 |
+| images/essential_tools/books_circle_connect.svg | 31.5 | 1 |
+| images/essential_tools/books_circle_create.svg | 39.5 | 1 |
+| images/essential_tools/books_circle_explore.svg | 27.4 | 1 |
+| images/essential_tools/books_circle_play.svg | 34 | 1 |
+| images/essential_tools/books_circle_talk.svg | 27.9 | 1 |
+| images/essential_tools/essential_tool.svg | 43.4 | 1 |
 | images/facilitator_face_man.svg | 7.4 | 7 |
 | images/facilitator_face_woman.svg | 17.5 | 3 |
 | images/flags/gb.svg | 0.5 | 2 |
@@ -1439,7 +1446,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/build/power_build_3.svg | 48.4 | 2 |
 | images/modules/build/power_build_4.svg | 52.4 | 4 |
 | images/modules/build/power_build_5.svg | 43.9 | 2 |
-| images/modules/build/reading_build.svg | 70.5 | 6 |
+| images/modules/build/reading_build.svg | 70.5 | 5 |
 | images/modules/care/build_practice.svg | 34.3 | 2 |
 | images/modules/care/care.gif | 95.2 | 4 |
 | images/modules/care/care_title_image.svg | 174.4 | 5 |
@@ -1469,7 +1476,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/connect/connect_6.svg | 91.9 | 3 |
 | images/modules/connect/connect_7.svg | 43.9 | 4 |
 | images/modules/connect/connect_8.svg | 44.3 | 2 |
-| images/modules/connect/connect_9.svg | 32.3 | 4 |
+| images/modules/connect/connect_9.svg | 32.3 | 3 |
 | images/modules/connect/connect_title_image.svg | 76.8 | 7 |
 | images/modules/connect/thumbs_down_brown.svg | 2.2 | 6 |
 | images/modules/connect/thumbs_up_brown.svg | 2.2 | 6 |
@@ -1481,7 +1488,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/create/create_14.svg | 169.1 | 2 |
 | images/modules/create/create_15.svg | 142.5 | 4 |
 | images/modules/create/create_16.svg | 161.6 | 2 |
-| images/modules/create/create_17.svg | 40.1 | 6 |
+| images/modules/create/create_17.svg | 40.1 | 5 |
 | images/modules/create/create_18.svg | 107.3 | 3 |
 | images/modules/create/create_19.svg | 197 | 3 |
 | images/modules/create/create_2.svg | 196 | 2 |
@@ -1504,7 +1511,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/explore/power_explore_3.svg | 215.3 | 5 |
 | images/modules/explore/power_explore_4.svg | 138.2 | 3 |
 | images/modules/explore/power_explore_5.svg | 225.7 | 3 |
-| images/modules/explore/reading_explore.svg | 28.3 | 6 |
+| images/modules/explore/reading_explore.svg | 28.3 | 5 |
 | images/modules/join/all_modules.svg | 769.8 | 2 |
 | images/modules/join/join_1.svg | 43.2 | 2 |
 | images/modules/join/join_10.gif | 940.7 | 4 |
@@ -1543,7 +1550,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/power_of_play_1.svg | 81.2 | 2 |
 | images/modules/play/question_time.svg | 70.7 | 2 |
 | images/modules/play/ready_to_practice.svg | 34.3 | 4 |
-| images/modules/play/using_books_1.svg | 34.6 | 4 |
+| images/modules/play/using_books_1.svg | 34.6 | 3 |
 | images/modules/play/using_books_2.svg | 106.2 | 2 |
 | images/modules/play/using_books_3.svg | 161.6 | 5 |
 | images/modules/play/using_books_4.svg | 111.5 | 3 |
@@ -1554,7 +1561,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/reflect/reflect_1.svg | 296 | 2 |
 | images/modules/reflect/reflect_book_sharing.svg | 129.5 | 2 |
 | images/modules/reflect/reflect_title_image.svg | 53.2 | 5 |
-| images/modules/talk/books_talk.svg | 28.2 | 4 |
+| images/modules/talk/books_talk.svg | 28.2 | 3 |
 | images/modules/talk/talk.gif | 133.7 | 2 |
 | images/modules/talk/talk_1.svg | 491.8 | 3 |
 | images/modules/talk/talk_10.svg | 92.2 | 3 |

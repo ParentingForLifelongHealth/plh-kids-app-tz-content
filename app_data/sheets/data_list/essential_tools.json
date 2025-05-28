@@ -356,7 +356,7 @@
     },
     {
       "id": "use_books_connect",
-      "image_cover_asset": "images/modules/connect/connect_9.svg",
+      "image_cover_asset": "images/essential_tools/books_circle_connect.svg",
       "image_asset": "images/modules/connect/connect_9.svg",
       "step_1_image_asset": "images/modules/connect/connect_13.svg",
       "step_2_image_asset": "images/modules/connect/connect_11.svg",
@@ -406,7 +406,7 @@
     },
     {
       "id": "use_books_create",
-      "image_cover_asset": "images/modules/create/create_17.svg",
+      "image_cover_asset": "images/essential_tools/books_circle_create.svg",
       "image_asset": "images/modules/create/create_17.svg",
       "step_1_image_asset": "images/modules/create/create_18.svg",
       "step_2_image_asset": "images/modules/create/create_19.svg",
@@ -456,7 +456,7 @@
     },
     {
       "id": "use_books_play",
-      "image_cover_asset": "images/modules/play/using_books_1.svg",
+      "image_cover_asset": "images/essential_tools/books_circle_play.svg",
       "image_asset": "images/modules/play/using_books_1.svg",
       "step_1_image_asset": "images/modules/play/using_books_5.svg",
       "step_2_image_asset": "images/modules/play/using_books_3.svg",
@@ -556,7 +556,7 @@
     },
     {
       "id": "use_books_talk",
-      "image_cover_asset": "images/modules/talk/books_talk.svg",
+      "image_cover_asset": "images/essential_tools/books_circle_talk.svg",
       "image_asset": "images/modules/talk/books_talk.svg",
       "step_1_image_asset": "images/modules/talk/talk_12.svg",
       "step_2_image_asset": "images/modules/talk/talk_10.svg",
@@ -606,7 +606,7 @@
     },
     {
       "id": "use_books_build",
-      "image_cover_asset": "images/modules/build/reading_build.svg",
+      "image_cover_asset": "images/essential_tools/books_circle_build.svg",
       "image_asset": "images/modules/build/reading_build.svg",
       "tag_list": [
         "build"
@@ -653,7 +653,7 @@
     },
     {
       "id": "use_books_explore",
-      "image_cover_asset": "images/modules/explore/reading_explore.svg",
+      "image_cover_asset": "images/essential_tools/books_circle_explore.svg",
       "image_asset": "images/modules/explore/reading_explore.svg",
       "tag_list": [
         "explore"
