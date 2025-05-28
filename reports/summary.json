@@ -259,8 +259,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "102611 KB",
-        "MB": "102.6 MB"
+        "KB": "102655 KB",
+        "MB": "102.7 MB"
       },
       {
         "assets": "unused",
@@ -293,7 +293,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
       },
       {
         "path": "images/additional_info/nutrition_6.svg",
@@ -6222,6 +6222,11 @@
         "size_kb": 169.7
       },
       {
+        "path": "images/essential_tool.svg",
+        "count": 1,
+        "size_kb": 43.4
+      },
+      {
         "path": "images/facilitator_face_man.svg",
         "count": 7,
         "size_kb": 7.4
@@ -7003,7 +7008,7 @@
       },
       {
         "path": "images/modules/connect/connect_7.svg",
-        "count": 5,
+        "count": 4,
         "size_kb": 43.9
       },
       {

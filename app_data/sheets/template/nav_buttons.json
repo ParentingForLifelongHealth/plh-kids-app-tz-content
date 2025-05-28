@@ -221,7 +221,6 @@
               "_cleaned": "click | emit:completed"
             }
           ],
-          "exclude_from_translation": true,
           "parameter_list": {
             "style": "information",
             "icon_secondary_asset": "@local.completed_icon"

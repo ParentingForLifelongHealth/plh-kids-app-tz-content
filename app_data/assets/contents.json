@@ -1087,8 +1087,8 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
+    "md5Checksum": "df9c81f319411188b557a9430db42686",
+    "size_kb": 6.1
   },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
@@ -4481,6 +4481,10 @@
   "images/character/nandi_mom.png": {
     "md5Checksum": "73bb3e7d2d24e16369a1d10030344755",
     "size_kb": 169.7
+  },
+  "images/essential_tool.svg": {
+    "md5Checksum": "b396553bae24d11389b37d81b3ff13c0",
+    "size_kb": 43.4
   },
   "images/facilitator_face_man.svg": {
     "md5Checksum": "9c0e7ec5963308f57e06906182482884",
