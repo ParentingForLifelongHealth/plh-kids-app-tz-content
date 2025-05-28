@@ -2096,72 +2096,67 @@
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
       "_output_flows": [
         {
-          "flow_name": "essential_tools_id_1",
+          "flow_name": "essential_tools_connect",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_2",
+          "flow_name": "essential_tools_create",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_3",
+          "flow_name": "essential_tools_play",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_4",
+          "flow_name": "essential_tools_talk",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_5",
+          "flow_name": "essential_tools_explore_solutions",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_6",
+          "flow_name": "essential_tools_build_skills",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_7",
+          "flow_name": "essential_tools_care_for_yourself",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_8",
+          "flow_name": "essential_tools_use_books_connect",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_9",
+          "flow_name": "essential_tools_use_books_create",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_10",
+          "flow_name": "essential_tools_use_books_play",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_11",
+          "flow_name": "essential_tools_use_books_care",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_12",
+          "flow_name": "essential_tools_use_books_talk",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "essential_tools_id_13",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "essential_tools_id_14",
+          "flow_name": "essential_tools_use_books_build",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -4335,6 +4330,12 @@
       "_xlsxPath": "app_menu.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
     },
+    "essential_activities": {
+      "flow_type": "template",
+      "flow_name": "essential_activities",
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+    },
     "essential_activity": {
       "flow_type": "template",
       "flow_name": "essential_activity",
@@ -4357,6 +4358,12 @@
       "flow_type": "template",
       "flow_name": "fav_books",
       "_xlsxPath": "books/library_page.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+    },
+    "fav_essentials": {
+      "flow_type": "template",
+      "flow_name": "fav_essentials",
+      "_xlsxPath": "Resource centre/TZ resource centre.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
     },
     "fav_play": {
@@ -6053,73 +6060,68 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_1": {
-      "flow_name": "essential_tools_id_1",
+    "essential_tools_build_skills": {
+      "flow_name": "essential_tools_build_skills",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_10": {
-      "flow_name": "essential_tools_id_10",
+    "essential_tools_care_for_yourself": {
+      "flow_name": "essential_tools_care_for_yourself",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_11": {
-      "flow_name": "essential_tools_id_11",
+    "essential_tools_connect": {
+      "flow_name": "essential_tools_connect",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_12": {
-      "flow_name": "essential_tools_id_12",
+    "essential_tools_create": {
+      "flow_name": "essential_tools_create",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_13": {
-      "flow_name": "essential_tools_id_13",
+    "essential_tools_explore_solutions": {
+      "flow_name": "essential_tools_explore_solutions",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_14": {
-      "flow_name": "essential_tools_id_14",
+    "essential_tools_play": {
+      "flow_name": "essential_tools_play",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_2": {
-      "flow_name": "essential_tools_id_2",
+    "essential_tools_talk": {
+      "flow_name": "essential_tools_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_3": {
-      "flow_name": "essential_tools_id_3",
+    "essential_tools_use_books_build": {
+      "flow_name": "essential_tools_use_books_build",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_4": {
-      "flow_name": "essential_tools_id_4",
+    "essential_tools_use_books_care": {
+      "flow_name": "essential_tools_use_books_care",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_5": {
-      "flow_name": "essential_tools_id_5",
+    "essential_tools_use_books_connect": {
+      "flow_name": "essential_tools_use_books_connect",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_6": {
-      "flow_name": "essential_tools_id_6",
+    "essential_tools_use_books_create": {
+      "flow_name": "essential_tools_use_books_create",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_7": {
-      "flow_name": "essential_tools_id_7",
+    "essential_tools_use_books_play": {
+      "flow_name": "essential_tools_use_books_play",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "essential_tools_id_8": {
-      "flow_name": "essential_tools_id_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "essential_tools_id_9": {
-      "flow_name": "essential_tools_id_9",
+    "essential_tools_use_books_talk": {
+      "flow_name": "essential_tools_use_books_talk",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

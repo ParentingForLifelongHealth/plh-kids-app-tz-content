@@ -5,38 +5,139 @@
   "status": "released",
   "rows": [
     {
-      "id": "id_1",
-      "attached_single_doc": "https://docs.google.com/document/d/182RXUSBFRD9zE2ZxsoAGBhetcCUnMPuXvPIyqe3vT2c"
+      "id": "connect",
+      "name": "connect",
+      "attached_single_doc": "https://docs.google.com/document/d/182RXUSBFRD9zE2ZxsoAGBhetcCUnMPuXvPIyqe3vT2c",
+      "title": "Connect",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Connect"
+        },
+        "text": {
+          "eng": "Connect"
+        }
+      },
+      "text": "Connect"
     },
     {
-      "id": "id_2"
+      "id": "create",
+      "name": "create",
+      "title": "Create",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Create"
+        },
+        "text": {
+          "eng": "Create"
+        }
+      },
+      "text": "Create"
     },
     {
-      "id": "id_3"
+      "id": "play",
+      "name": "play",
+      "title": "Play",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Play"
+        },
+        "text": {
+          "eng": "Play"
+        }
+      },
+      "text": "Play"
     },
     {
-      "id": "id_4"
+      "id": "talk",
+      "name": "talk",
+      "title": "Talk",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Talk"
+        },
+        "text": {
+          "eng": "Talk"
+        }
+      },
+      "text": "Talk"
     },
     {
-      "id": "id_5"
+      "id": "build",
+      "name": "build",
+      "title": "Build",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Build"
+        },
+        "text": {
+          "eng": "Build"
+        }
+      },
+      "text": "Build"
     },
     {
-      "id": "id_6"
+      "id": "care",
+      "name": "care",
+      "title": "Care",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Care"
+        },
+        "text": {
+          "eng": "Care"
+        }
+      },
+      "text": "Care"
     },
     {
-      "id": "id_7"
-    },
-    {
-      "id": "id_8"
-    },
-    {
-      "id": "id_9"
-    },
-    {
-      "id": "id_10"
-    },
-    {
-      "id": "id_11"
+      "id": "explore",
+      "name": "explore",
+      "title": "Explore",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Explore"
+        },
+        "text": {
+          "eng": "Explore"
+        }
+      },
+      "text": "Explore"
     }
   ],
   "_xlsxPath": "Resource centre/TZ essential_tools.xlsx",
