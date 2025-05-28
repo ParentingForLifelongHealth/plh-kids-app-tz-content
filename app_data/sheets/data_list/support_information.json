@@ -17,14 +17,18 @@
         "sub_title_1": {
           "tz_sw": true
         },
-        "phone_no_1": {},
+        "phone_no_1": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
         "sub_title_2": {
           "tz_sw": true
         },
-        "phone_no_2": {},
+        "phone_no_2": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -78,7 +82,9 @@
         "sub_title_1": {
           "tz_sw": true
         },
-        "phone_no_1": {},
+        "phone_no_1": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
@@ -127,28 +133,36 @@
         "description_1": {
           "tz_sw": true
         },
-        "phone_no_1": {},
+        "phone_no_1": {
+          "tz_sw": true
+        },
         "sub_title_2": {
           "tz_sw": true
         },
         "description_2": {
           "tz_sw": true
         },
-        "phone_no_2": {},
+        "phone_no_2": {
+          "tz_sw": true
+        },
         "sub_title_3": {
           "tz_sw": true
         },
         "description_3": {
           "tz_sw": true
         },
-        "phone_no_3": {},
+        "phone_no_3": {
+          "tz_sw": true
+        },
         "sub_title_4": {
           "tz_sw": true
         },
         "description_4": {
           "tz_sw": true
         },
-        "phone_no_4": {},
+        "phone_no_4": {
+          "tz_sw": true
+        },
         "text_4": {
           "tz_sw": true
         },
@@ -158,7 +172,9 @@
         "description_5": {
           "tz_sw": true
         },
-        "phone_no_5": {}
+        "phone_no_5": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
