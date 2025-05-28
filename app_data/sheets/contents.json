@@ -2159,6 +2159,11 @@
           "flow_name": "essential_tools_use_books_build",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "essential_tools_use_books_explore",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -6112,6 +6117,11 @@
     },
     "essential_tools_use_books_create": {
       "flow_name": "essential_tools_use_books_create",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "essential_tools_use_books_explore": {
+      "flow_name": "essential_tools_use_books_explore",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
