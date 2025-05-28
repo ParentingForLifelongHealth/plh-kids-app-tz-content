@@ -79,7 +79,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 102611 KB | 102.6 MB |
+| total | 102655 KB | 102.7 MB |
 | unused | 1720 KB | 1.7 MB |
 </details>
 
@@ -95,7 +95,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
 | audio/modules/connect/connect_07.mp3 | 241.2 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/additional_info/nutrition_6.svg | 25.4 |
 | images/additional_info/nutrition_7.svg | 74.6 |
 | images/additional_info/nutrition_8.svg | 27.8 |
@@ -1310,6 +1310,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character/male_facilitator_blue_circle.svg | 12.7 | 1 |
 | images/character/nandi.png | 163 | 1 |
 | images/character/nandi_mom.png | 169.7 | 1 |
+| images/essential_tool.svg | 43.4 | 1 |
 | images/facilitator_face_man.svg | 7.4 | 7 |
 | images/facilitator_face_woman.svg | 17.5 | 3 |
 | images/flags/gb.svg | 0.5 | 2 |
@@ -1466,7 +1467,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/connect/connect_4.svg | 494.2 | 5 |
 | images/modules/connect/connect_5.svg | 129 | 3 |
 | images/modules/connect/connect_6.svg | 91.9 | 3 |
-| images/modules/connect/connect_7.svg | 43.9 | 5 |
+| images/modules/connect/connect_7.svg | 43.9 | 4 |
 | images/modules/connect/connect_8.svg | 44.3 | 2 |
 | images/modules/connect/connect_9.svg | 32.3 | 4 |
 | images/modules/connect/connect_title_image.svg | 76.8 | 7 |
