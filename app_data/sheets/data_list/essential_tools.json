@@ -72,12 +72,7 @@
           "tz_sw": true
         },
         "step_2_text": {},
-        "tips_text": {
-          "tz_sw": true
-        },
-        "extension_text": {
-          "tz_sw": true
-        }
+        "tips_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -93,17 +88,13 @@
           "eng": "**Use praise to encourage positive behaviour**\n\nIf we praise our children when they do something well, we will see them do more and more positive things!"
         },
         "tips_text": {
-          "eng": "Ideas for praise:"
-        },
-        "extension_text": {
-          "eng": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
+          "eng": "Ideas for praise:\n1. Being kind to someone \n2. Sharing their toys\n3. Packing away their things \n4. Saying 'please' or 'thank you' \n5. Helping out around the house\n6. Listening"
         }
       },
       "intro_text": "Here’s how you can create a positive environment for your child:",
       "step_1_text": "**Give positive instructions**\n\nPositive instructions are more effective than negative instructions. Telling children what we DO want them to do works better than telling them to STOP doing something.",
       "step_2_text": "**Use praise to encourage positive behaviour**\n\nIf we praise our children when they do something well, we will see them do more and more positive things!",
-      "tips_text": "Ideas for praise:",
-      "extension_text": "Being kind to someone \nSharing their toys\nPacking away their things \nSaying 'please' or 'thank you' \nHelping out around the house\nListening"
+      "tips_text": "Ideas for praise:\n1. Being kind to someone \n2. Sharing their toys\n3. Packing away their things \n4. Saying 'please' or 'thank you' \n5. Helping out around the house\n6. Listening"
     },
     {
       "id": "play",
@@ -603,6 +594,49 @@
       "step_1_text": "Talk about what the characters are feeling.",
       "step_2_text": "Ask questions about what the characters are doing and why.",
       "step_3_text": "Reflect together on the story and what you have learned."
+    },
+    {
+      "id": "use_books_explore",
+      "image_cover_asset": "images/modules/explore/reading_explore.svg",
+      "image_asset": "images/modules/explore/reading_explore.svg",
+      "tag_list": [
+        "explore"
+      ],
+      "title": "Use books to explore",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "step_1_text": {
+          "tz_sw": true
+        },
+        "step_2_text": {
+          "tz_sw": true
+        },
+        "step_3_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Use books to explore"
+        },
+        "intro_text": {
+          "eng": "Books and stories encourage children to explore different ideas and learn about the world. Here’s how to use books to explore:"
+        },
+        "step_1_text": {
+          "eng": "**Ask questions about the story**\nThis helps children think about what is happening, why this might be happening, and what might happen next."
+        },
+        "step_2_text": {
+          "eng": "Make connections between what you see in the book and your child’s life."
+        },
+        "step_3_text": {
+          "eng": "**Count and compare**  \n Use the pictures to count or make comparisons between different objects or characters."
+        }
+      },
+      "intro_text": "Books and stories encourage children to explore different ideas and learn about the world. Here’s how to use books to explore:",
+      "step_1_text": "**Ask questions about the story**\nThis helps children think about what is happening, why this might be happening, and what might happen next.",
+      "step_2_text": "Make connections between what you see in the book and your child’s life.",
+      "step_3_text": "**Count and compare**  \n Use the pictures to count or make comparisons between different objects or characters."
     }
   ],
   "_xlsxPath": "Resource centre/TZ essential_tools.xlsx",

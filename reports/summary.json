@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2012
+        "count": 2013
       },
       {
         "type": "simple_checkbox",
@@ -123,7 +123,7 @@
       },
       {
         "type": "template",
-        "count": 643
+        "count": 644
       },
       {
         "type": "text",
@@ -175,7 +175,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 561
+        "count": 562
       },
       {
         "type": "emit: force_reload",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 553
+        "count": 554
       },
       {
         "type": "feedback",
@@ -7188,7 +7188,7 @@
       },
       {
         "path": "images/modules/explore/reading_explore.svg",
-        "count": 4,
+        "count": 6,
         "size_kb": 28.3
       },
       {
@@ -7773,7 +7773,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 553
+        "total": 554
       },
       {
         "type": "template",

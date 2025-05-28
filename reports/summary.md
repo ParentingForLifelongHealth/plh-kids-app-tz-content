@@ -28,12 +28,12 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2012 |
+| set_variable | 2013 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 11 |
 | task_progress_bar | 3 |
-| template | 643 |
+| template | 644 |
 | text | 146 |
 | text_area | 2 |
 | text_box | 4 |
@@ -52,13 +52,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 561 |
+| emit: completed | 562 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 553 |
+| emit: uncompleted | 554 |
 | feedback | 13 |
 | go_to | 23 |
 | nav | 1 |
@@ -1503,7 +1503,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/explore/power_explore_3.svg | 215.3 | 5 |
 | images/modules/explore/power_explore_4.svg | 138.2 | 3 |
 | images/modules/explore/power_explore_5.svg | 225.7 | 3 |
-| images/modules/explore/reading_explore.svg | 28.3 | 4 |
+| images/modules/explore/reading_explore.svg | 28.3 | 6 |
 | images/modules/join/all_modules.svg | 769.8 | 2 |
 | images/modules/join/join_1.svg | 43.2 | 2 |
 | images/modules/join/join_10.gif | 940.7 | 4 |
@@ -1626,7 +1626,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 3 |
 | global | legal_terms | 1 |
 | template |  | 86 |
-| template | generated | 553 |
+| template | generated | 554 |
 | template | legal_terms | 4 |
 | tour |  | 1 |
 </details>
