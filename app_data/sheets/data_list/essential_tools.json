@@ -57,7 +57,7 @@
     },
     {
       "id": "create",
-      "image_cover_asset": "images/modules/create/create_15.svg",
+      "image_cover_asset": "images/essential_tools/create_title.svg",
       "image_asset": "images/modules/create/create_15.svg",
       "step_1_image_asset": "images/modules/create/create_4.svg",
       "step_2_image_asset": "images/modules/create/create_9.svg",
@@ -106,7 +106,7 @@
     },
     {
       "id": "play",
-      "image_cover_asset": "images/modules/play/using_books_5.svg",
+      "image_cover_asset": "images/essential_tools/play_title.svg",
       "image_asset": "images/modules/play/using_books_5.svg",
       "step_1_image_asset": "images/modules/play/how_to_play_1.svg",
       "step_2_image_asset": "images/modules/play/how_to_play_2.svg",
@@ -156,7 +156,7 @@
     },
     {
       "id": "talk",
-      "image_cover_asset": "images/modules/talk/talk_7.svg",
+      "image_cover_asset": "images/essential_tools/talk_title.svg",
       "image_asset": "images/modules/talk/talk_7.svg",
       "step_1_image_asset": "images/modules/talk/talk_1.svg",
       "step_2_image_asset": "images/modules/talk/talk_2.svg",
@@ -206,7 +206,7 @@
     },
     {
       "id": "explore_solutions",
-      "image_cover_asset": "images/modules/explore/power_explore_3.svg",
+      "image_cover_asset": "images/essential_tools/explore_title.svg",
       "image_asset": "images/modules/explore/power_explore_3.svg",
       "step_1_image_asset": "images/modules/explore/power_explore_2.svg",
       "step_2_image_asset": "images/modules/explore/power_explore_3.svg",
@@ -264,7 +264,7 @@
     },
     {
       "id": "build_skills",
-      "image_cover_asset": "images/modules/build/power_build_4.svg",
+      "image_cover_asset": "images/essential_tools/build_skills.svg",
       "image_asset": "images/modules/build/power_build_4.svg",
       "step_1_image_asset": "images/modules/build/how_build_2.svg",
       "step_2_image_asset": "images/modules/build/how_build_3.svg",
@@ -306,7 +306,7 @@
     },
     {
       "id": "care_for_yourself",
-      "image_cover_asset": "images/modules/join/join_3.svg",
+      "image_cover_asset": "images/essential_tools/care_yourself.svg",
       "image_asset": "images/modules/join/join_3.svg",
       "step_1_image_asset": "images/modules/care/take_a_pause.svg",
       "step_2_image_asset": "images/modules/care/kind_yourself.svg",
@@ -506,7 +506,7 @@
     },
     {
       "id": "use_books_care",
-      "image_cover_asset": "images/modules/care/using_books_2.svg",
+      "image_cover_asset": "images/essential_tools/books_care.svg",
       "image_asset": "images/modules/care/using_books_2.svg",
       "step_1_image_asset": "images/modules/care/using_books_1.svg",
       "step_2_image_asset": "images/modules/care/using_books_2.svg",
