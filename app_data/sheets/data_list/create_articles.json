@@ -393,7 +393,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -461,7 +463,9 @@
       "media_asset": "audio/modules/create/power_create_4.mp3",
       "character_1_text": "@data.characters.f3_girl.name, @data.characters.f3_boy_wheelchair.name - it’s time to put the ball away and come inside now.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },

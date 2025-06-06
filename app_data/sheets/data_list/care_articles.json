@@ -210,7 +210,9 @@
       "character_2_id": "f3_grandma",
       "text_1_facilitator": "Let’s see how @data.characters.f3_grandma.name manages to take care of herself when life gets a bit too much:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
