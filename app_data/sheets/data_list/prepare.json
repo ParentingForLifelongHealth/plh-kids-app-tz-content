@@ -11,7 +11,7 @@
       "media_type": "youtube",
       "youtube_gb_en": "https://www.youtube.com/watch?v=pDMy4uQrGRQ",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
       "title": "Ideas for book activities",
       "_translations": {
@@ -39,7 +39,7 @@
       "media_type": "youtube",
       "youtube_gb_en": "https://www.youtube.com/watch?v=33l261vBt1s",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=33l261vBt1s",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
       "title": "More ideas for book activities",
       "_translations": {
@@ -64,8 +64,7 @@
       "id": "join_3",
       "module_id": "join",
       "book_id": "when_grow_up",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -92,51 +91,53 @@
       "id": "connect_1",
       "module_id": "connect",
       "book_id": "to_the_top",
+      "image_asset": "images/modules/connect/connect_12.svg",
       "media_type": "audio",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=Nm6fSxi6cO0",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=Wg8bZCzIJ28",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "media_asset": "audio/prepare/connect_1.mp3",
+      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Being responsive during book activities",
+      "title": "Invite your child to join you in a book activity",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "text": {
           "tz_sw": true
-        }
+        },
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Being responsive during book activities"
+          "eng": "Invite your child to join you in a book activity"
         },
         "text": {
-          "eng": "Point at the images and talk about what you see with your child."
+          "eng": "Don’t force your child if they are not interested. Rather try again another time."
+        },
+        "media_transcript": {
+          "eng": "Sharing a book with your child is a great way to connect and spend quality time together. Start by inviting your child to join you in a book activity. If they don’t want to, rather try again another time. Keep asking them without putting pressure on them. You can also tell them about a particular book or story that you would like to share with them, to spark their interest.\nAs you go through the book, give your child your full attention. Notice and respond to what your child is interested in.Describe the animals, surroundings and characters and ask your child questions about what they see."
         }
       },
-      "text": "Point at the images and talk about what you see with your child."
+      "text": "Don’t force your child if they are not interested. Rather try again another time.",
+      "media_transcript": "Sharing a book with your child is a great way to connect and spend quality time together. Start by inviting your child to join you in a book activity. If they don’t want to, rather try again another time. Keep asking them without putting pressure on them. You can also tell them about a particular book or story that you would like to share with them, to spark their interest.\nAs you go through the book, give your child your full attention. Notice and respond to what your child is interested in.Describe the animals, surroundings and characters and ask your child questions about what they see."
     },
     {
       "id": "connect_2",
       "module_id": "connect",
       "book_id": "moms_red_coat",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=whWQJGYhQ4M",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=D6UV5Zu8jwE",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "youtube_gb_en": "https://youtu.be/Nm6fSxi6cO0?si=fI6JUd4jnh2LCnPs",
+      "youtube_tz_sw": "https://youtu.be/Wg8bZCzIJ28?si=iF93MW42zIGuD84e",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Using books to build your child's vocabulary",
+      "title": "Be responsive during book activities.",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Using books to build your child's vocabulary"
+          "eng": "Be responsive during book activities."
         },
         "text": {
           "eng": "Point at the images and talk about what you see with your child."
@@ -148,23 +149,21 @@
       "id": "connect_3",
       "module_id": "connect",
       "book_id": "bee_and_elephant",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://youtu.be/whWQJGYhQ4M?si=un19Ka9nwexfnDVQ",
+      "youtube_tz_sw": "https://youtu.be/D6UV5Zu8jwE?si=Hz-ibtdDP0273Fb3",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Name and describe what you see in the pictures.",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Name and describe what you see in the pictures."
         },
         "text": {
           "eng": "Point at the images and talk about what you see with your child."
@@ -177,28 +176,24 @@
       "module_id": "create",
       "book_id": "babys_first_photo",
       "media_type": "youtube",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=9MZY9uDurE4",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=E2LNLEtnP7o",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "youtube_gb_en": "https://youtu.be/cRhs1HNOKoE?si=Tbm5Oi6ve1LBD1c2",
+      "image_asset": "images/modules/connect/connect_11.png",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Creating positive experiences",
+      "title": "Create positive experiences",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "text": {
-          "tz_sw": true
-        }
+        "title": {},
+        "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Creating positive experiences"
+          "eng": "Create positive experiences"
         },
         "text": {
-          "eng": "Point at the images and talk about what you see with your child."
+          "eng": "Watch this video to see how you can share this book to create a positive experience for you and your child."
         }
       },
-      "text": "Point at the images and talk about what you see with your child."
+      "text": "Watch this video to see how you can share this book to create a positive experience for you and your child."
     },
     {
       "id": "create_2",
@@ -207,7 +202,7 @@
       "media_type": "youtube",
       "youtube_gb_en": "https://www.youtube.com/watch?v=yDuKs6G9LNI",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=AoA9yiZJR28",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
       "title": "Bringing the book’s story to life",
       "_translations": {
@@ -232,8 +227,7 @@
       "id": "create_3",
       "module_id": "create",
       "book_id": "yes_you_can",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -262,62 +256,54 @@
       "book_id": "lesedis_sandbox",
       "media_type": "youtube",
       "youtube_gb_en": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=GJx020kakvc",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
       "title": "Using books in playful ways",
       "_translations": {
         "title": {
           "tz_sw": true
         },
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Using books in playful ways"
         },
         "text": {
-          "eng": "Point at the images and talk about what you see with your child."
+          "eng": "Watch this video to see how you can share this book with your child in a fun and playful way."
         }
       },
-      "text": "Point at the images and talk about what you see with your child."
+      "text": "Watch this video to see how you can share this book with your child in a fun and playful way."
     },
     {
       "id": "play_2",
       "module_id": "play",
       "book_id": "lefas_bath",
-      "media_type": "youtube",
+      "image_asset": "images/modules/play/using_books_5.svg",
       "youtube_gb_en": "https://www.youtube.com/watch?v=LAWO0cwEOCQ",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=ASKuT2zZ7j8",
-      "media_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Using books to talk about feelings",
+      "title": "Mimic sounds and actions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "text": {
-          "tz_sw": true
-        }
+        "title": {},
+        "text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Using books to talk about feelings"
+          "eng": "Mimic sounds and actions"
         },
         "text": {
-          "eng": "Point at the images and talk about what you see with your child."
+          "eng": "Lefa’s Bath has lots of animals and fun events that you can act out with your child. You can also describe what Lefa is doing and how she is feeling."
         }
       },
-      "text": "Point at the images and talk about what you see with your child."
+      "text": "Lefa’s Bath has lots of animals and fun events that you can act out with your child. You can also describe what Lefa is doing and how she is feeling."
     },
     {
       "id": "play_3",
       "module_id": "play",
       "book_id": "mama_whats_for_lunch",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -344,8 +330,7 @@
       "id": "talk_1",
       "module_id": "talk",
       "book_id": "jasu_loves_football",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -371,9 +356,8 @@
     {
       "id": "talk_2",
       "module_id": "talk",
-      "book_id": "no_go_sleep",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "book_id": "beautiful_day",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -400,8 +384,7 @@
       "id": "talk_3",
       "module_id": "talk",
       "book_id": "scared_tumi",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -428,8 +411,7 @@
       "id": "build_1",
       "module_id": "build",
       "book_id": "fifi_and_teddy",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -456,8 +438,7 @@
       "id": "build_2",
       "module_id": "build",
       "book_id": "lost_toy",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -484,8 +465,7 @@
       "id": "build_3",
       "module_id": "build",
       "book_id": "angry_akku",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -512,8 +492,7 @@
       "id": "explore_1",
       "module_id": "explore",
       "book_id": "zibu_and_zizo",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -540,8 +519,7 @@
       "id": "explore_2",
       "module_id": "explore",
       "book_id": "big_blue_bus",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -568,8 +546,7 @@
       "id": "explore_3",
       "module_id": "explore",
       "book_id": "yello_earth_brown_earth",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -596,8 +573,7 @@
       "id": "care_1",
       "module_id": "care",
       "book_id": "decision",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -624,8 +600,7 @@
       "id": "care_2",
       "module_id": "care",
       "book_id": "my_inside_weather",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -652,8 +627,7 @@
       "id": "care_3",
       "module_id": "care",
       "book_id": "lebo_and_gogos_tea_party",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -680,12 +654,12 @@
       "id": "reflect_1",
       "module_id": "reflect",
       "book_id": "things_that_matter",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=33l261vBt1s",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=33l261vBt1s",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "More ideas for book activities",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -696,7 +670,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "More ideas for book activities"
         },
         "text": {
           "eng": "Point at the images and talk about what you see with your child."
@@ -708,8 +682,7 @@
       "id": "reflect_2",
       "module_id": "reflect",
       "book_id": "yes_you_can",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
+      "image_asset": "images/modules/connect/connect_11.png",
       "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
       "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
@@ -736,12 +709,12 @@
       "id": "reflect_3",
       "module_id": "reflect",
       "book_id": "lesedis_sandbox",
-      "media_type": "image",
-      "media_asset": "images/modules/connect/connect_11.png",
-      "youtube_gb_en": "https://youtu.be/CSjowdxFw6Q",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=0sVGNht5q3Q",
+      "image_asset": "images/modules/connect/connect_11.png",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
-      "title": "Prepare",
+      "title": "Using books in playful ways",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -752,7 +725,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prepare"
+          "eng": "Using books in playful ways"
         },
         "text": {
           "eng": "Point at the images and talk about what you see with your child."

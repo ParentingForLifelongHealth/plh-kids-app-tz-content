@@ -98,53 +98,35 @@
       }
     },
     {
-      "type": "display_group",
+      "type": "image",
       "name": "image_dg",
-      "condition": "@local.prepare_row.media_type == \"image\"",
-      "parameter_list": {
-        "style": "column"
+      "value": "@local.prepare_row.image_asset",
+      "_translations": {
+        "value": {}
       },
-      "exclude_from_translation": true,
-      "rows": [
-        {
-          "type": "image",
-          "name": "media_asset",
-          "value": "@local.prepare_row.media_asset",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "image_dg.media_asset",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.prepare_row.media_asset",
-                "matchedExpression": "@local.prepare_row.media_asset",
-                "type": "local",
-                "fieldName": "prepare_row"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.prepare_row.media_asset": [
-              "value"
-            ]
-          }
-        }
-      ],
+      "condition": "!!(@local.prepare_row.image_asset)",
       "_nested_name": "image_dg",
       "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.prepare_row.image_asset",
+            "matchedExpression": "@local.prepare_row.image_asset",
+            "type": "local",
+            "fieldName": "prepare_row"
+          }
+        ],
         "condition": [
           {
-            "fullExpression": "@local.prepare_row.media_type == \"image\"",
-            "matchedExpression": "@local.prepare_row.media_type",
+            "fullExpression": "!!(@local.prepare_row.image_asset)",
+            "matchedExpression": "@local.prepare_row.image_asset",
             "type": "local",
             "fieldName": "prepare_row"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.prepare_row.media_type": [
+        "@local.prepare_row.image_asset": [
+          "value",
           "condition"
         ]
       }
@@ -252,10 +234,62 @@
       }
     },
     {
+      "type": "display_group",
+      "name": "video_dg",
+      "condition": "@local.prepare_row.media_type == \"video\"",
+      "parameter_list": {
+        "style": "column"
+      },
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "video",
+          "name": "media_asset",
+          "value": "@local.prepare_row.media_asset",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "video_dg.media_asset",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.prepare_row.media_asset",
+                "matchedExpression": "@local.prepare_row.media_asset",
+                "type": "local",
+                "fieldName": "prepare_row"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.prepare_row.media_asset": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "video_dg",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.prepare_row.media_type == \"video\"",
+            "matchedExpression": "@local.prepare_row.media_type",
+            "type": "local",
+            "fieldName": "prepare_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.prepare_row.media_type": [
+          "condition"
+        ]
+      }
+    },
+    {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_11",
-      "_nested_name": "set_variable_11"
+      "name": "set_variable_12",
+      "_nested_name": "set_variable_12"
     },
     {
       "type": "display_group",
@@ -406,8 +440,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_14",
-      "_nested_name": "set_variable_14"
+      "name": "set_variable_15",
+      "_nested_name": "set_variable_15"
     },
     {
       "type": "template",

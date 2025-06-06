@@ -221,11 +221,12 @@
       ],
       "play_id_list": [
         "story",
-        "simon_says"
+        "simon_says",
+        "when_I_grow_up"
       ],
       "books_id_list": [
         "jasu_loves_football",
-        "no_go_sleep",
+        "beautiful_day",
         "scared_tumi"
       ],
       "audio_asset": "audio/songs/yai_bovu.mp3",

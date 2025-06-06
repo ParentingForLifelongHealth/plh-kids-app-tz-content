@@ -311,7 +311,7 @@
       "id": "the_power_of_care_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s see how f3_grandma manages to take care of herself when life gets a bit too much:"
+          "eng": "Let’s see how @data.characters.f3_grandma.name manages to take care of herself when life gets a bit too much:"
         },
         "character_1_text": {
           "eng": "@data.characters.f3_grandma.name come play with me and my dolls!"
@@ -322,11 +322,9 @@
       },
       "category_id": "power_care",
       "image_asset": "images/modules/care/power_care_1.svg",
-      "text_1_facilitator": "Let’s see how f3_grandma manages to take care of herself when life gets a bit too much:",
+      "text_1_facilitator": "Let’s see how @data.characters.f3_grandma.name manages to take care of herself when life gets a bit too much:",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         },

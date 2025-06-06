@@ -730,6 +730,19 @@
     },
     "size_kb": 272.9
   },
+  "audio/prepare/connect_1.mp3": {
+    "md5Checksum": "a48401599078cc0b07cb5f7efb019bd1",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/prepare/tz_sw/connect_1.mp3",
+          "md5Checksum": "4a773bf7284f71c66ce3133e7e3f9936",
+          "size_kb": 366.5
+        }
+      }
+    },
+    "size_kb": 387.4
+  },
   "audio/relax/relax_1.mp3": {
     "md5Checksum": "0f92ea6022f35eec1d3f6c891ffdadb1",
     "overrides": {
@@ -5758,6 +5771,58 @@
     "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
     "size_kb": 286.7
   },
+  "images/orli/build_essential_tools.svg": {
+    "md5Checksum": "a6caa1c9c4e273a6358d66082e9c5ba2",
+    "size_kb": 51.6
+  },
+  "images/orli/care_for_yourself_essential_tools.svg": {
+    "md5Checksum": "3a78d12722ca9ce784074ca09f3eee39",
+    "size_kb": 303.5
+  },
+  "images/orli/create_essential_tools.svg": {
+    "md5Checksum": "22aa0ad99a567cc10edd96e28c6a7ce2",
+    "size_kb": 140.5
+  },
+  "images/orli/essential tools_1.svg": {
+    "md5Checksum": "b0a43d7f28ef70d9538704ac1e3f8d1f",
+    "size_kb": 2055
+  },
+  "images/orli/essential tools_2.svg": {
+    "md5Checksum": "111217e1ed8f373e7277ebf9440cb43f",
+    "size_kb": 1791.5
+  },
+  "images/orli/essential tools_3.svg": {
+    "md5Checksum": "92fe755db4a028aaa42c5658d2288eca",
+    "size_kb": 508.1
+  },
+  "images/orli/essential tools_4.svg": {
+    "md5Checksum": "ea38675406d319d67a8b7196ac6d8c09",
+    "size_kb": 3626.4
+  },
+  "images/orli/essential tools_5.svg": {
+    "md5Checksum": "966e687a44fc78f3cd2b091986a6339b",
+    "size_kb": 719.4
+  },
+  "images/orli/essential tools_6.svg": {
+    "md5Checksum": "78b066afc3d69a8aef1d73bd39fb42e1",
+    "size_kb": 130.8
+  },
+  "images/orli/explore_essential_tools.svg": {
+    "md5Checksum": "1a46f1c7fed0f3981541d382ab42650c",
+    "size_kb": 216.6
+  },
+  "images/orli/play_essential tools.svg": {
+    "md5Checksum": "cdc1005ff319b18f3e943d85713206ad",
+    "size_kb": 105.9
+  },
+  "images/orli/talk_essential_tools.svg": {
+    "md5Checksum": "bf2587806c96eca1b32e7e6d29e2c770",
+    "size_kb": 568.6
+  },
+  "images/orli/use books to care_essential tools.svg": {
+    "md5Checksum": "6cdc49d9b95b4561f6815c6db6e44f23",
+    "size_kb": 169.7
+  },
   "images/relax/relax_1.svg": {
     "md5Checksum": "3e4f51d3df0247b17825eb6a78eb66d9",
     "size_kb": 25.9
@@ -5931,12 +5996,12 @@
     "size_kb": 5.9
   },
   "odk/general_survey.json": {
-    "md5Checksum": "3929af20878b80b14a7ad30f34acf95a",
+    "md5Checksum": "2744a33bc03948cf7a17dc69dab5707c",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "odk/tz_sw/general_survey.json",
-          "md5Checksum": "11e5cf7f28ab5c586dd782478d3efb01",
+          "md5Checksum": "6b3162e2fcc4bf5abd9eff2714b78d5c",
           "size_kb": 10.6
         }
       }
