@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 80
+        "count": 81
       },
       {
         "type": "google_sign_in_button",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2013
+        "count": 2017
       },
       {
         "type": "simple_checkbox",
@@ -123,7 +123,7 @@
       },
       {
         "type": "template",
-        "count": 644
+        "count": 646
       },
       {
         "type": "text",
@@ -135,7 +135,7 @@
       },
       {
         "type": "text_box",
-        "count": 4
+        "count": 5
       },
       {
         "type": "text_bubble",
@@ -155,7 +155,7 @@
       },
       {
         "type": "video",
-        "count": 2
+        "count": 3
       },
       {
         "type": "youtube",
@@ -235,7 +235,7 @@
       },
       {
         "type": "set_item",
-        "count": 19
+        "count": 20
       },
       {
         "type": "set_local",
@@ -259,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "102886 KB",
-        "MB": "102.9 MB"
+        "KB": "103273 KB",
+        "MB": "103.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "2039 KB",
-        "MB": "2 MB"
+        "KB": "12426 KB",
+        "MB": "12.4 MB"
       }
     ]
   },
@@ -526,6 +526,58 @@
       {
         "path": "images/modules/talk/why_talk.svg",
         "size_kb": 29
+      },
+      {
+        "path": "images/orli/build_essential_tools.svg",
+        "size_kb": 51.6
+      },
+      {
+        "path": "images/orli/care_for_yourself_essential_tools.svg",
+        "size_kb": 303.5
+      },
+      {
+        "path": "images/orli/create_essential_tools.svg",
+        "size_kb": 140.5
+      },
+      {
+        "path": "images/orli/essential tools_1.svg",
+        "size_kb": 2055
+      },
+      {
+        "path": "images/orli/essential tools_2.svg",
+        "size_kb": 1791.5
+      },
+      {
+        "path": "images/orli/essential tools_3.svg",
+        "size_kb": 508.1
+      },
+      {
+        "path": "images/orli/essential tools_4.svg",
+        "size_kb": 3626.4
+      },
+      {
+        "path": "images/orli/essential tools_5.svg",
+        "size_kb": 719.4
+      },
+      {
+        "path": "images/orli/essential tools_6.svg",
+        "size_kb": 130.8
+      },
+      {
+        "path": "images/orli/explore_essential_tools.svg",
+        "size_kb": 216.6
+      },
+      {
+        "path": "images/orli/play_essential tools.svg",
+        "size_kb": 105.9
+      },
+      {
+        "path": "images/orli/talk_essential_tools.svg",
+        "size_kb": 568.6
+      },
+      {
+        "path": "images/orli/use books to care_essential tools.svg",
+        "size_kb": 169.7
       },
       {
         "path": "images/relax/relax_man.svg",
@@ -1834,6 +1886,11 @@
         "path": "audio/modules/talk/why_3.mp3",
         "count": 2,
         "size_kb": 272.9
+      },
+      {
+        "path": "audio/prepare/connect_1.mp3",
+        "count": 1,
+        "size_kb": 387.4
       },
       {
         "path": "audio/relax/relax_1.mp3",
@@ -6997,12 +7054,12 @@
       },
       {
         "path": "images/modules/connect/connect_11.png",
-        "count": 29,
+        "count": 27,
         "size_kb": 29.7
       },
       {
         "path": "images/modules/connect/connect_12.svg",
-        "count": 3,
+        "count": 4,
         "size_kb": 187.7
       },
       {
@@ -7442,7 +7499,7 @@
       },
       {
         "path": "images/modules/play/using_books_5.svg",
-        "count": 5,
+        "count": 6,
         "size_kb": 107.6
       },
       {

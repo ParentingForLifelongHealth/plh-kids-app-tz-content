@@ -13,7 +13,7 @@
 | data_items | 44 |
 | debug_toggle | 1 |
 | display_grid | 9 |
-| display_group | 80 |
+| display_group | 81 |
 | google_sign_in_button | 1 |
 | image | 50 |
 | items | 16 |
@@ -28,20 +28,20 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2013 |
+| set_variable | 2017 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 11 |
 | task_progress_bar | 3 |
-| template | 644 |
+| template | 646 |
 | text | 146 |
 | text_area | 2 |
-| text_box | 4 |
+| text_box | 5 |
 | text_bubble | 9 |
 | title | 55 |
 | toggle_bar | 8 |
 | update_action_list | 3 |
-| video | 2 |
+| video | 3 |
 | youtube | 3 |
 </details>
 
@@ -67,7 +67,7 @@
 | reset_app | 1 |
 | set_data | 1 |
 | set_field | 38 |
-| set_item | 19 |
+| set_item | 20 |
 | set_local | 31 |
 | start_tour | 1 |
 | task | 3 |
@@ -79,8 +79,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 102886 KB | 102.9 MB |
-| unused | 2039 KB | 2 MB |
+| total | 103273 KB | 103.3 MB |
+| unused | 12426 KB | 12.4 MB |
 </details>
 
 <details open>
@@ -154,6 +154,19 @@ Assets that appear in app-data but do not have references within sheets
 | images/modules/explore/explore_garden.svg | 318.6 |
 | images/modules/reflect/reflect_2.svg | 53.6 |
 | images/modules/talk/why_talk.svg | 29 |
+| images/orli/build_essential_tools.svg | 51.6 |
+| images/orli/care_for_yourself_essential_tools.svg | 303.5 |
+| images/orli/create_essential_tools.svg | 140.5 |
+| images/orli/essential tools_1.svg | 2055 |
+| images/orli/essential tools_2.svg | 1791.5 |
+| images/orli/essential tools_3.svg | 508.1 |
+| images/orli/essential tools_4.svg | 3626.4 |
+| images/orli/essential tools_5.svg | 719.4 |
+| images/orli/essential tools_6.svg | 130.8 |
+| images/orli/explore_essential_tools.svg | 216.6 |
+| images/orli/play_essential tools.svg | 105.9 |
+| images/orli/talk_essential_tools.svg | 568.6 |
+| images/orli/use books to care_essential tools.svg | 169.7 |
 | images/relax/relax_man.svg | 27 |
 | images/relax/relax_woman.svg | 14.8 |
 | images/tz_map.svg | 398.5 |
@@ -433,6 +446,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/talk/how_3.mp3 | 308.4 | 2 |
 | audio/modules/talk/why_1.mp3 | 283.2 | 2 |
 | audio/modules/talk/why_3.mp3 | 272.9 | 2 |
+| audio/prepare/connect_1.mp3 | 387.4 | 1 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
 | audio/relax/relax_10.mp3 | 404.9 | 2 |
 | audio/relax/relax_11.mp3 | 445.6 | 2 |
@@ -1465,8 +1479,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/care/why_care_2.svg | 305.3 | 2 |
 | images/modules/connect/connect_1.svg | 29 | 6 |
 | images/modules/connect/connect_10.svg | 289.6 | 4 |
-| images/modules/connect/connect_11.png | 29.7 | 29 |
-| images/modules/connect/connect_12.svg | 187.7 | 3 |
+| images/modules/connect/connect_11.png | 29.7 | 27 |
+| images/modules/connect/connect_12.svg | 187.7 | 4 |
 | images/modules/connect/connect_13.svg | 142.6 | 3 |
 | images/modules/connect/connect_14.svg | 34.3 | 4 |
 | images/modules/connect/connect_2.svg | 192.2 | 2 |
@@ -1554,7 +1568,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/using_books_2.svg | 106.2 | 2 |
 | images/modules/play/using_books_3.svg | 161.6 | 5 |
 | images/modules/play/using_books_4.svg | 111.5 | 3 |
-| images/modules/play/using_books_5.svg | 107.6 | 5 |
+| images/modules/play/using_books_5.svg | 107.6 | 6 |
 | images/modules/play/why_play_1.svg | 29 | 2 |
 | images/modules/play/why_play_2.svg | 136.9 | 2 |
 | images/modules/reflect/idea_box.svg | 27.7 | 2 |
