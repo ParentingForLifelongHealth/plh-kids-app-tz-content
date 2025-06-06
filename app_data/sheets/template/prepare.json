@@ -105,6 +105,7 @@
         "value": {}
       },
       "condition": "!!(@local.prepare_row.image_asset)",
+      "exclude_from_translation": true,
       "_nested_name": "image_dg",
       "_dynamicFields": {
         "value": [
@@ -184,7 +185,6 @@
           "parameter_list": {
             "transcript_text": "@local.prepare_row.media_transcript"
           },
-          "exclude_from_translation": true,
           "_nested_name": "audio_dg.media_asset",
           "_dynamicFields": {
             "value": [

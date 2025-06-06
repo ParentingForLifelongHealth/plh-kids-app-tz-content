@@ -741,7 +741,6 @@
                     "value": {}
                   },
                   "condition": "!!@local.level_description",
-                  "exclude_from_translation": true,
                   "_nested_name": "accordion_28.acc_1.dg_2.print_level_description",
                   "_dynamicFields": {
                     "value": [
@@ -778,7 +777,6 @@
                     "value": {}
                   },
                   "condition": "!!@local.book_data.licence",
-                  "exclude_from_translation": true,
                   "_nested_name": "accordion_28.acc_1.dg_2.licence",
                   "_dynamicFields": {
                     "value": [
