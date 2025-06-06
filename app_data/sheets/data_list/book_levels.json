@@ -24,8 +24,12 @@
       "name": "level_1",
       "text": "Level 1",
       "_translations": {
-        "text": {},
-        "description": {}
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -42,8 +46,12 @@
       "name": "level_2",
       "text": "Level 2",
       "_translations": {
-        "text": {},
-        "description": {}
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -60,8 +68,12 @@
       "name": "level_3",
       "text": "Level 3",
       "_translations": {
-        "text": {},
-        "description": {}
+        "text": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -78,7 +90,9 @@
       "name": "level_4",
       "text": "Level 4",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {

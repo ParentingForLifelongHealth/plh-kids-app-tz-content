@@ -520,7 +520,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "What does the caregiver do before she informs her children that they will have to stop playing in five minutes’ time? She first brings attention to their positive behaviour of playing nicely together. This is a clever way to make it easier for the children to accept the next instruction.",
       "text_1_facilitator": "Let’s look at a story to see how you can use praise and positive attention to encourage your child to follow instructions:",
@@ -587,7 +589,9 @@
         "media_transcript": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "The caregiver uses her children’s names so that she makes sure they will pay attention to what she is saying. She tells them exactly what she wants them to do. This makes it easier for her children to follow her instructions.",
       "character_1_id": "f3_mother",
