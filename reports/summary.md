@@ -79,8 +79,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 108289 KB | 108.3 MB |
-| unused | 3065 KB | 3.1 MB |
+| total | 105524 KB | 105.5 MB |
+| unused | 1850 KB | 1.9 MB |
 </details>
 
 <details open>
@@ -94,7 +94,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 114 |
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
-| audio/modules/connect/connect_07.mp3 | 241.2 |
 | contents.json | 6.1 |
 | images/additional_info/nutrition_6.svg | 25.4 |
 | images/additional_info/nutrition_7.svg | 74.6 |
@@ -155,9 +154,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/modules/explore/explore_garden.svg | 318.6 |
 | images/modules/reflect/reflect_2.svg | 53.6 |
 | images/modules/talk/why_talk.svg | 29 |
-| images/orli/join.svg | 771.7 |
-| images/orli/what_makes_us_special.svg | 104.3 |
-| images/orli/what_makes_us_special_circle.svg | 97.4 |
 | images/relax/relax_man.svg | 27 |
 | images/relax/relax_woman.svg | 14.8 |
 | images/tz_map.svg | 398.5 |
@@ -373,7 +369,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/books/very_green_day/image_8.jpg | 1 |
 | images/books/very_green_day/image_9.jpg | 1 |
 | images/icons/locked.png | 1 |
-| images/modules/connect/connect_11.svg | 1 |
 </details>
 
 <details >
@@ -484,10 +479,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/songs/yai_bovu.mp3 | 306.6 | 6 |
 | images/additional_info/additional_information.svg | 29.2 | 1 |
 | images/additional_info/budget.svg | 98.5 | 1 |
-| images/additional_info/budget_1.svg | 734.8 | 1 |
+| images/additional_info/budget_1.jpg | 58.4 | 1 |
 | images/additional_info/budget_2.svg | 98.5 | 1 |
-| images/additional_info/budget_3.svg | 732.6 | 1 |
-| images/additional_info/budget_4.svg | 735.8 | 1 |
+| images/additional_info/budget_3.jpg | 60.7 | 1 |
+| images/additional_info/budget_4.jpg | 63.4 | 1 |
 | images/additional_info/budget_circle.svg | 97 | 1 |
 | images/additional_info/financial_literacy_1.svg | 173.6 | 1 |
 | images/additional_info/financial_literacy_2.svg | 330.7 | 1 |
@@ -1342,7 +1337,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/essential_tools/essential_tools_4.jpg | 71.5 | 1 |
 | images/essential_tools/explore_title.svg | 216.6 | 1 |
 | images/essential_tools/play_title.svg | 105.9 | 1 |
-| images/essential_tools/talk_title.svg | 568.6 | 1 |
+| images/essential_tools/talk_title.jpg | 69.4 | 1 |
 | images/facilitator_face_man.svg | 7.4 | 7 |
 | images/facilitator_face_woman.svg | 17.5 | 3 |
 | images/flags/gb.svg | 0.5 | 2 |
@@ -1419,8 +1414,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/learning_through_play/hide_and_seek_circle.svg | 88.4 | 1 |
 | images/learning_through_play/household_helpers.svg | 334.6 | 1 |
 | images/learning_through_play/household_helpers_circle.svg | 299.8 | 1 |
-| images/learning_through_play/makes_us_special.svg | 149.5 | 1 |
-| images/learning_through_play/makes_us_special_circle.svg | 143.5 | 1 |
 | images/learning_through_play/making_music.svg | 118.7 | 1 |
 | images/learning_through_play/making_music_circle.svg | 63.8 | 1 |
 | images/learning_through_play/music_dancing.svg | 117.2 | 1 |
@@ -1455,6 +1448,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/learning_through_play/treasure_hunt_circle.svg | 99.7 | 1 |
 | images/learning_through_play/walking_together.svg | 239.5 | 1 |
 | images/learning_through_play/walking_together_circle.svg | 287 | 1 |
+| images/learning_through_play/what_makes_us_special.svg | 104.3 | 1 |
+| images/learning_through_play/what_makes_us_special_circle.svg | 97.4 | 1 |
 | images/learning_through_play/when_grow_up.svg | 152.6 | 3 |
 | images/learning_through_play/when_grow_up_circle.svg | 97.9 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
@@ -1490,7 +1485,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/care/why_care_2.svg | 305.3 | 2 |
 | images/modules/connect/connect_1.svg | 29 | 6 |
 | images/modules/connect/connect_10.svg | 289.6 | 4 |
-| images/modules/connect/connect_11.jpg | 78.7 | 5 |
+| images/modules/connect/connect_11.jpg | 78.7 | 6 |
 | images/modules/connect/connect_12.svg | 187.7 | 4 |
 | images/modules/connect/connect_13.svg | 142.6 | 3 |
 | images/modules/connect/connect_14.svg | 34.3 | 4 |
@@ -1537,9 +1532,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/explore/power_explore_4.svg | 138.2 | 3 |
 | images/modules/explore/power_explore_5.svg | 225.7 | 3 |
 | images/modules/explore/reading_explore.svg | 28.3 | 5 |
-| images/modules/join/all_modules.svg | 769.8 | 2 |
+| images/modules/join/all_join.svg | 771.7 | 2 |
 | images/modules/join/join_1.svg | 43.2 | 2 |
-| images/modules/join/join_10.gif | 940.7 | 4 |
+| images/modules/join/join_10.gif | 785.2 | 4 |
 | images/modules/join/join_11.svg | 29.7 | 2 |
 | images/modules/join/join_12.svg | 486.4 | 2 |
 | images/modules/join/join_13.svg | 70.7 | 2 |

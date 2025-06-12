@@ -8,10 +8,10 @@
       "id": "budgeting",
       "image_cover_asset": "images/additional_info/budget_circle.svg",
       "image_asset": "images/additional_info/budget.svg",
-      "step_1_image_asset": "images/additional_info/budget_1.svg",
+      "step_1_image_asset": "images/additional_info/budget_1.jpg",
       "step_2_image_asset": "images/additional_info/budget_2.svg",
-      "step_3_image_asset": "images/additional_info/budget_3.svg",
-      "step_4_image_asset": "images/additional_info/budget_4.svg",
+      "step_3_image_asset": "images/additional_info/budget_3.jpg",
+      "step_4_image_asset": "images/additional_info/budget_4.jpg",
       "tag_list": [
         "finance"
       ],

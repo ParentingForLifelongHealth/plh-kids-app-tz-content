@@ -156,7 +156,7 @@
     },
     {
       "id": "talk",
-      "image_cover_asset": "images/essential_tools/talk_title.svg",
+      "image_cover_asset": "images/essential_tools/talk_title.jpg",
       "image_asset": "images/modules/talk/talk_7.svg",
       "step_1_image_asset": "images/modules/talk/talk_1.svg",
       "step_2_image_asset": "images/modules/talk/talk_2.svg",
@@ -359,7 +359,7 @@
       "image_cover_asset": "images/essential_tools/books_circle_connect.svg",
       "image_asset": "images/modules/connect/connect_9.svg",
       "step_1_image_asset": "images/modules/connect/connect_13.svg",
-      "step_2_image_asset": "images/modules/connect/connect_11.svg",
+      "step_2_image_asset": "images/modules/connect/connect_11.jpg",
       "step_3_image_asset": "images/modules/connect/connect_12.svg",
       "tag_list": [
         "connect"

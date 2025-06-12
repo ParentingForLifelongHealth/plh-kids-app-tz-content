@@ -259,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "108289 KB",
-        "MB": "108.3 MB"
+        "KB": "105524 KB",
+        "MB": "105.5 MB"
       },
       {
         "assets": "unused",
-        "KB": "3065 KB",
-        "MB": "3.1 MB"
+        "KB": "1850 KB",
+        "MB": "1.9 MB"
       }
     ]
   },
@@ -286,10 +286,6 @@
       {
         "path": "android/splash.png",
         "size_kb": 156.5
-      },
-      {
-        "path": "audio/modules/connect/connect_07.mp3",
-        "size_kb": 241.2
       },
       {
         "path": "contents.json",
@@ -530,18 +526,6 @@
       {
         "path": "images/modules/talk/why_talk.svg",
         "size_kb": 29
-      },
-      {
-        "path": "images/orli/join.svg",
-        "size_kb": 771.7
-      },
-      {
-        "path": "images/orli/what_makes_us_special.svg",
-        "size_kb": 104.3
-      },
-      {
-        "path": "images/orli/what_makes_us_special_circle.svg",
-        "size_kb": 97.4
       },
       {
         "path": "images/relax/relax_man.svg",
@@ -1571,11 +1555,6 @@
         "path": "images/icons/locked.png",
         "count": 1,
         "missing": true
-      },
-      {
-        "path": "images/modules/connect/connect_11.svg",
-        "count": 1,
-        "missing": true
       }
     ]
   },
@@ -2087,9 +2066,9 @@
         "size_kb": 98.5
       },
       {
-        "path": "images/additional_info/budget_1.svg",
+        "path": "images/additional_info/budget_1.jpg",
         "count": 1,
-        "size_kb": 734.8
+        "size_kb": 58.4
       },
       {
         "path": "images/additional_info/budget_2.svg",
@@ -2097,14 +2076,14 @@
         "size_kb": 98.5
       },
       {
-        "path": "images/additional_info/budget_3.svg",
+        "path": "images/additional_info/budget_3.jpg",
         "count": 1,
-        "size_kb": 732.6
+        "size_kb": 60.7
       },
       {
-        "path": "images/additional_info/budget_4.svg",
+        "path": "images/additional_info/budget_4.jpg",
         "count": 1,
-        "size_kb": 735.8
+        "size_kb": 63.4
       },
       {
         "path": "images/additional_info/budget_circle.svg",
@@ -6377,9 +6356,9 @@
         "size_kb": 105.9
       },
       {
-        "path": "images/essential_tools/talk_title.svg",
+        "path": "images/essential_tools/talk_title.jpg",
         "count": 1,
-        "size_kb": 568.6
+        "size_kb": 69.4
       },
       {
         "path": "images/facilitator_face_man.svg",
@@ -6762,16 +6741,6 @@
         "size_kb": 299.8
       },
       {
-        "path": "images/learning_through_play/makes_us_special.svg",
-        "count": 1,
-        "size_kb": 149.5
-      },
-      {
-        "path": "images/learning_through_play/makes_us_special_circle.svg",
-        "count": 1,
-        "size_kb": 143.5
-      },
-      {
         "path": "images/learning_through_play/making_music.svg",
         "count": 1,
         "size_kb": 118.7
@@ -6940,6 +6909,16 @@
         "path": "images/learning_through_play/walking_together_circle.svg",
         "count": 1,
         "size_kb": 287
+      },
+      {
+        "path": "images/learning_through_play/what_makes_us_special.svg",
+        "count": 1,
+        "size_kb": 104.3
+      },
+      {
+        "path": "images/learning_through_play/what_makes_us_special_circle.svg",
+        "count": 1,
+        "size_kb": 97.4
       },
       {
         "path": "images/learning_through_play/when_grow_up.svg",
@@ -7118,7 +7097,7 @@
       },
       {
         "path": "images/modules/connect/connect_11.jpg",
-        "count": 5,
+        "count": 6,
         "size_kb": 78.7
       },
       {
@@ -7352,9 +7331,9 @@
         "size_kb": 28.3
       },
       {
-        "path": "images/modules/join/all_modules.svg",
+        "path": "images/modules/join/all_join.svg",
         "count": 2,
-        "size_kb": 769.8
+        "size_kb": 771.7
       },
       {
         "path": "images/modules/join/join_1.svg",
@@ -7364,7 +7343,7 @@
       {
         "path": "images/modules/join/join_10.gif",
         "count": 4,
-        "size_kb": 940.7
+        "size_kb": 785.2
       },
       {
         "path": "images/modules/join/join_11.svg",

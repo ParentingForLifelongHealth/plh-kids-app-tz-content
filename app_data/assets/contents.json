@@ -197,19 +197,6 @@
     },
     "size_kb": 280.8
   },
-  "audio/modules/connect/connect_07.mp3": {
-    "md5Checksum": "b0b4a6a461807ca7bde6b02cd8333760",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/modules/connect/tz_sw/connect_07.mp3",
-          "md5Checksum": "727717efe156b63cf69b9e6edde50057",
-          "size_kb": 234.5
-        }
-      }
-    },
-    "size_kb": 241.2
-  },
   "audio/modules/connect/connect_08.mp3": {
     "md5Checksum": "e395bac92276556699ba3cd8d0bc011f",
     "overrides": {
@@ -1228,21 +1215,21 @@
     "md5Checksum": "0a2d8399d6260bb2ea0082de271964c1",
     "size_kb": 98.5
   },
-  "images/additional_info/budget_1.svg": {
-    "md5Checksum": "b7c55ab41bae645cab1f0e09f3a848e6",
-    "size_kb": 734.8
+  "images/additional_info/budget_1.jpg": {
+    "md5Checksum": "ae154d1ececa5a4f65cfcddd48965888",
+    "size_kb": 58.4
   },
   "images/additional_info/budget_2.svg": {
     "md5Checksum": "0a2d8399d6260bb2ea0082de271964c1",
     "size_kb": 98.5
   },
-  "images/additional_info/budget_3.svg": {
-    "md5Checksum": "85acbf93c39dc608a68441425c3646ca",
-    "size_kb": 732.6
+  "images/additional_info/budget_3.jpg": {
+    "md5Checksum": "cfdb9a0ebbd8c7d1acb1aa70be0d2792",
+    "size_kb": 60.7
   },
-  "images/additional_info/budget_4.svg": {
-    "md5Checksum": "92427aaa5efcf5d7bffb6be634e82a41",
-    "size_kb": 735.8
+  "images/additional_info/budget_4.jpg": {
+    "md5Checksum": "9dee9ff58840279a6bf87cc14fc8b93e",
+    "size_kb": 63.4
   },
   "images/additional_info/budget_circle.svg": {
     "md5Checksum": "539d837e61ca443c187ee0075625d67e",
@@ -4684,9 +4671,9 @@
     "md5Checksum": "cdc1005ff319b18f3e943d85713206ad",
     "size_kb": 105.9
   },
-  "images/essential_tools/talk_title.svg": {
-    "md5Checksum": "bf2587806c96eca1b32e7e6d29e2c770",
-    "size_kb": 568.6
+  "images/essential_tools/talk_title.jpg": {
+    "md5Checksum": "ddaca0a004a024c110a3b4a65be19762",
+    "size_kb": 69.4
   },
   "images/facilitator_face_man.svg": {
     "md5Checksum": "9c0e7ec5963308f57e06906182482884",
@@ -5168,14 +5155,6 @@
     "md5Checksum": "757cceacc2eb5b2aa2b29567ab3692bb",
     "size_kb": 299.8
   },
-  "images/learning_through_play/makes_us_special.svg": {
-    "md5Checksum": "003da17c503fce9341230075b49cbb60",
-    "size_kb": 149.5
-  },
-  "images/learning_through_play/makes_us_special_circle.svg": {
-    "md5Checksum": "cf3a209bd647b147a2449986bce0eb6c",
-    "size_kb": 143.5
-  },
   "images/learning_through_play/making_music.svg": {
     "md5Checksum": "c73181bced101248835578f0ee356552",
     "size_kb": 118.7
@@ -5311,6 +5290,14 @@
   "images/learning_through_play/walking_together_circle.svg": {
     "md5Checksum": "bcab71120b0a6e0ae12fd9b05b10d7be",
     "size_kb": 287
+  },
+  "images/learning_through_play/what_makes_us_special.svg": {
+    "md5Checksum": "2add8b54841c2c5c9d15c0fc648e6609",
+    "size_kb": 104.3
+  },
+  "images/learning_through_play/what_makes_us_special_circle.svg": {
+    "md5Checksum": "2c78c5123beb36da1c4dd436af935b2d",
+    "size_kb": 97.4
   },
   "images/learning_through_play/when_grow_up.svg": {
     "md5Checksum": "b81cba16da2be64b9e0820ccf1f320f9",
@@ -5668,17 +5655,17 @@
     "md5Checksum": "173e7055e868bcff53c133fb39b0cc86",
     "size_kb": 28.3
   },
-  "images/modules/join/all_modules.svg": {
-    "md5Checksum": "e317abd5d1a1b0f27a9f7dc00885a6a2",
-    "size_kb": 769.8
+  "images/modules/join/all_join.svg": {
+    "md5Checksum": "34becaa70a15d2abda3a6b6226343b42",
+    "size_kb": 771.7
   },
   "images/modules/join/join_1.svg": {
     "md5Checksum": "58330980b3331ea1ed6f3054cba39529",
     "size_kb": 43.2
   },
   "images/modules/join/join_10.gif": {
-    "md5Checksum": "3088065cbd2015959be7eb97c3a2f723",
-    "size_kb": 940.7
+    "md5Checksum": "27ed22a9a254c48e9467636cff2cd096",
+    "size_kb": 785.2
   },
   "images/modules/join/join_11.svg": {
     "md5Checksum": "e4225d65a8146ab0207aa0fc58477212",
@@ -5935,18 +5922,6 @@
   "images/modules/talk/why_talk_2.svg": {
     "md5Checksum": "5168dd312ce5705cf0a44eef6a4a2650",
     "size_kb": 286.7
-  },
-  "images/orli/join.svg": {
-    "md5Checksum": "34becaa70a15d2abda3a6b6226343b42",
-    "size_kb": 771.7
-  },
-  "images/orli/what_makes_us_special.svg": {
-    "md5Checksum": "2add8b54841c2c5c9d15c0fc648e6609",
-    "size_kb": 104.3
-  },
-  "images/orli/what_makes_us_special_circle.svg": {
-    "md5Checksum": "2c78c5123beb36da1c4dd436af935b2d",
-    "size_kb": 97.4
   },
   "images/relax/relax_1.svg": {
     "md5Checksum": "3e4f51d3df0247b17825eb6a78eb66d9",
