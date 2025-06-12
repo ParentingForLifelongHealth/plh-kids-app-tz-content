@@ -137,7 +137,6 @@
         "variant": "inline_padding",
         "style": "column"
       },
-      "exclude_from_translation": true,
       "rows": [
         {
           "type": "button",
