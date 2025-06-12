@@ -79,8 +79,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 104829 KB | 104.8 MB |
-| unused | 2039 KB | 2 MB |
+| total | 108289 KB | 108.3 MB |
+| unused | 3065 KB | 3.1 MB |
 </details>
 
 <details open>
@@ -101,6 +101,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/additional_info/nutrition_8.svg | 27.8 |
 | images/books/yes_you_can/page16.jpg | 55.9 |
 | images/books/yes_you_can/page17.jpg | 7.9 |
+| images/essential_tools/essential_tools_5.jpg | 52.7 |
 | images/icons/activities_icon.svg | 7.5 |
 | images/icons/book_blue.svg | 0.8 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -154,6 +155,9 @@ Assets that appear in app-data but do not have references within sheets
 | images/modules/explore/explore_garden.svg | 318.6 |
 | images/modules/reflect/reflect_2.svg | 53.6 |
 | images/modules/talk/why_talk.svg | 29 |
+| images/orli/join.svg | 771.7 |
+| images/orli/what_makes_us_special.svg | 104.3 |
+| images/orli/what_makes_us_special_circle.svg | 97.4 |
 | images/relax/relax_man.svg | 27 |
 | images/relax/relax_woman.svg | 14.8 |
 | images/tz_map.svg | 398.5 |
@@ -434,6 +438,15 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/talk/why_1.mp3 | 283.2 | 2 |
 | audio/modules/talk/why_3.mp3 | 272.9 | 2 |
 | audio/prepare/connect_1.mp3 | 387.4 | 1 |
+| audio/prepare/fifty_n_tedy.mp3 | 293.9 | 1 |
+| audio/prepare/inside_wether.mp3 | 415.1 | 1 |
+| audio/prepare/lost_toy.mp3 | 400.1 | 1 |
+| audio/prepare/mama_whats_lunch.mp3 | 302.4 | 1 |
+| audio/prepare/scared_tumi.mp3 | 313.6 | 1 |
+| audio/prepare/shongololos_shoes.mp3 | 297.9 | 1 |
+| audio/prepare/when_grow_up.mp3 | 404.3 | 1 |
+| audio/prepare/yes_ you_can.mp3 | 306.5 | 2 |
+| audio/prepare/zibu_n_zizo.mp3 | 349 | 1 |
 | audio/relax/relax_1.mp3 | 265.1 | 1 |
 | audio/relax/relax_10.mp3 | 404.9 | 2 |
 | audio/relax/relax_11.mp3 | 445.6 | 2 |
@@ -458,13 +471,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_7.mp3 | 285.3 | 2 |
 | audio/relax/relax_8.mp3 | 302 | 1 |
 | audio/relax/relax_9.mp3 | 576.6 | 2 |
-| audio/songs/bilinge_bayoyo.mp3 | 393.4 | 5 |
+| audio/songs/bilinge_bayoyo.mp3 | 393.4 | 6 |
 | audio/songs/kipepeo.mp3 | 333.7 | 1 |
 | audio/songs/kulea_pamoja.mp3 | 406.2 | 6 |
-| audio/songs/mabata_madogo.mp3 | 409.8 | 5 |
+| audio/songs/mabata_madogo.mp3 | 409.8 | 6 |
 | audio/songs/mapera_mapera.mp3 | 314.6 | 1 |
-| audio/songs/maua_mazuri.mp3 | 355.8 | 4 |
-| audio/songs/napenda_kuhesabu_namba.mp3 | 497.2 | 5 |
+| audio/songs/maua_mazuri.mp3 | 355.8 | 5 |
+| audio/songs/napenda_kuhesabu_namba.mp3 | 497.2 | 6 |
 | audio/songs/ngozi_ya_kenge_2.mp3 | 349 | 6 |
 | audio/songs/ukuti_ukuti.mp3 | 370.7 | 6 |
 | audio/songs/watoto_wangu_ehh.mp3 | 272.3 | 6 |
@@ -1323,6 +1336,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/essential_tools/care_yourself.svg | 303.5 | 1 |
 | images/essential_tools/create_title.svg | 140.5 | 1 |
 | images/essential_tools/essential_tool.svg | 43.4 | 1 |
+| images/essential_tools/essential_tools_1.jpg | 68.7 | 1 |
+| images/essential_tools/essential_tools_2.jpg | 69.2 | 1 |
+| images/essential_tools/essential_tools_3.jpg | 78.4 | 1 |
+| images/essential_tools/essential_tools_4.jpg | 71.5 | 1 |
 | images/essential_tools/explore_title.svg | 216.6 | 1 |
 | images/essential_tools/play_title.svg | 105.9 | 1 |
 | images/essential_tools/talk_title.svg | 568.6 | 1 |
@@ -1438,7 +1455,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/learning_through_play/treasure_hunt_circle.svg | 99.7 | 1 |
 | images/learning_through_play/walking_together.svg | 239.5 | 1 |
 | images/learning_through_play/walking_together_circle.svg | 287 | 1 |
-| images/learning_through_play/when_grow_up.svg | 152.6 | 1 |
+| images/learning_through_play/when_grow_up.svg | 152.6 | 3 |
 | images/learning_through_play/when_grow_up_circle.svg | 97.9 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
@@ -1447,13 +1464,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/build/build.gif | 109.3 | 2 |
 | images/modules/build/build_garden.svg | 152.1 | 2 |
 | images/modules/build/build_title_image.svg | 41 | 7 |
-| images/modules/build/how_build_2.svg | 49.6 | 3 |
+| images/modules/build/how_build_2.svg | 49.6 | 4 |
 | images/modules/build/how_build_3.svg | 42 | 3 |
 | images/modules/build/power_build_1.svg | 65.1 | 2 |
 | images/modules/build/power_build_2.svg | 63.9 | 2 |
 | images/modules/build/power_build_3.svg | 48.4 | 2 |
 | images/modules/build/power_build_4.svg | 52.4 | 3 |
-| images/modules/build/power_build_5.svg | 43.9 | 2 |
+| images/modules/build/power_build_5.svg | 43.9 | 3 |
 | images/modules/build/reading_build.svg | 70.5 | 5 |
 | images/modules/care/build_practice.svg | 34.3 | 2 |
 | images/modules/care/care.gif | 95.2 | 4 |
@@ -1473,7 +1490,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/care/why_care_2.svg | 305.3 | 2 |
 | images/modules/connect/connect_1.svg | 29 | 6 |
 | images/modules/connect/connect_10.svg | 289.6 | 4 |
-| images/modules/connect/connect_11.png | 29.7 | 18 |
+| images/modules/connect/connect_11.jpg | 78.7 | 5 |
 | images/modules/connect/connect_12.svg | 187.7 | 4 |
 | images/modules/connect/connect_13.svg | 142.6 | 3 |
 | images/modules/connect/connect_14.svg | 34.3 | 4 |
@@ -1529,7 +1546,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/join/join_14.svg | 365.5 | 4 |
 | images/modules/join/join_15.svg | 52.5 | 2 |
 | images/modules/join/join_16.svg | 120 | 2 |
-| images/modules/join/join_17.png | 21.1 | 2 |
+| images/modules/join/join_17.jpg | 61 | 2 |
 | images/modules/join/join_18.svg | 77.7 | 2 |
 | images/modules/join/join_19.svg | 213.1 | 2 |
 | images/modules/join/join_2.svg | 193.5 | 2 |
@@ -1561,7 +1578,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/play/using_books_1.svg | 34.6 | 3 |
 | images/modules/play/using_books_2.svg | 106.2 | 2 |
 | images/modules/play/using_books_3.svg | 161.6 | 5 |
-| images/modules/play/using_books_4.svg | 111.5 | 3 |
+| images/modules/play/using_books_4.svg | 111.5 | 4 |
 | images/modules/play/using_books_5.svg | 107.6 | 5 |
 | images/modules/play/why_play_1.svg | 29 | 2 |
 | images/modules/play/why_play_2.svg | 136.9 | 2 |
@@ -1631,7 +1648,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 45 |
+| data_list |  | 46 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 22 |
 | data_list | legal_terms | 2 |

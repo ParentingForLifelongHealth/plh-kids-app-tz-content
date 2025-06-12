@@ -259,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "104829 KB",
-        "MB": "104.8 MB"
+        "KB": "108289 KB",
+        "MB": "108.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "2039 KB",
-        "MB": "2 MB"
+        "KB": "3065 KB",
+        "MB": "3.1 MB"
       }
     ]
   },
@@ -314,6 +314,10 @@
       {
         "path": "images/books/yes_you_can/page17.jpg",
         "size_kb": 7.9
+      },
+      {
+        "path": "images/essential_tools/essential_tools_5.jpg",
+        "size_kb": 52.7
       },
       {
         "path": "images/icons/activities_icon.svg",
@@ -526,6 +530,18 @@
       {
         "path": "images/modules/talk/why_talk.svg",
         "size_kb": 29
+      },
+      {
+        "path": "images/orli/join.svg",
+        "size_kb": 771.7
+      },
+      {
+        "path": "images/orli/what_makes_us_special.svg",
+        "size_kb": 104.3
+      },
+      {
+        "path": "images/orli/what_makes_us_special_circle.svg",
+        "size_kb": 97.4
       },
       {
         "path": "images/relax/relax_man.svg",
@@ -1841,6 +1857,51 @@
         "size_kb": 387.4
       },
       {
+        "path": "audio/prepare/fifty_n_tedy.mp3",
+        "count": 1,
+        "size_kb": 293.9
+      },
+      {
+        "path": "audio/prepare/inside_wether.mp3",
+        "count": 1,
+        "size_kb": 415.1
+      },
+      {
+        "path": "audio/prepare/lost_toy.mp3",
+        "count": 1,
+        "size_kb": 400.1
+      },
+      {
+        "path": "audio/prepare/mama_whats_lunch.mp3",
+        "count": 1,
+        "size_kb": 302.4
+      },
+      {
+        "path": "audio/prepare/scared_tumi.mp3",
+        "count": 1,
+        "size_kb": 313.6
+      },
+      {
+        "path": "audio/prepare/shongololos_shoes.mp3",
+        "count": 1,
+        "size_kb": 297.9
+      },
+      {
+        "path": "audio/prepare/when_grow_up.mp3",
+        "count": 1,
+        "size_kb": 404.3
+      },
+      {
+        "path": "audio/prepare/yes_ you_can.mp3",
+        "count": 2,
+        "size_kb": 306.5
+      },
+      {
+        "path": "audio/prepare/zibu_n_zizo.mp3",
+        "count": 1,
+        "size_kb": 349
+      },
+      {
         "path": "audio/relax/relax_1.mp3",
         "count": 1,
         "size_kb": 265.1
@@ -1962,7 +2023,7 @@
       },
       {
         "path": "audio/songs/bilinge_bayoyo.mp3",
-        "count": 5,
+        "count": 6,
         "size_kb": 393.4
       },
       {
@@ -1977,7 +2038,7 @@
       },
       {
         "path": "audio/songs/mabata_madogo.mp3",
-        "count": 5,
+        "count": 6,
         "size_kb": 409.8
       },
       {
@@ -1987,12 +2048,12 @@
       },
       {
         "path": "audio/songs/maua_mazuri.mp3",
-        "count": 4,
+        "count": 5,
         "size_kb": 355.8
       },
       {
         "path": "audio/songs/napenda_kuhesabu_namba.mp3",
-        "count": 5,
+        "count": 6,
         "size_kb": 497.2
       },
       {
@@ -6286,6 +6347,26 @@
         "size_kb": 43.4
       },
       {
+        "path": "images/essential_tools/essential_tools_1.jpg",
+        "count": 1,
+        "size_kb": 68.7
+      },
+      {
+        "path": "images/essential_tools/essential_tools_2.jpg",
+        "count": 1,
+        "size_kb": 69.2
+      },
+      {
+        "path": "images/essential_tools/essential_tools_3.jpg",
+        "count": 1,
+        "size_kb": 78.4
+      },
+      {
+        "path": "images/essential_tools/essential_tools_4.jpg",
+        "count": 1,
+        "size_kb": 71.5
+      },
+      {
         "path": "images/essential_tools/explore_title.svg",
         "count": 1,
         "size_kb": 216.6
@@ -6862,7 +6943,7 @@
       },
       {
         "path": "images/learning_through_play/when_grow_up.svg",
-        "count": 1,
+        "count": 3,
         "size_kb": 152.6
       },
       {
@@ -6907,7 +6988,7 @@
       },
       {
         "path": "images/modules/build/how_build_2.svg",
-        "count": 3,
+        "count": 4,
         "size_kb": 49.6
       },
       {
@@ -6937,7 +7018,7 @@
       },
       {
         "path": "images/modules/build/power_build_5.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 43.9
       },
       {
@@ -7036,9 +7117,9 @@
         "size_kb": 289.6
       },
       {
-        "path": "images/modules/connect/connect_11.png",
-        "count": 18,
-        "size_kb": 29.7
+        "path": "images/modules/connect/connect_11.jpg",
+        "count": 5,
+        "size_kb": 78.7
       },
       {
         "path": "images/modules/connect/connect_12.svg",
@@ -7316,9 +7397,9 @@
         "size_kb": 120
       },
       {
-        "path": "images/modules/join/join_17.png",
+        "path": "images/modules/join/join_17.jpg",
         "count": 2,
-        "size_kb": 21.1
+        "size_kb": 61
       },
       {
         "path": "images/modules/join/join_18.svg",
@@ -7477,7 +7558,7 @@
       },
       {
         "path": "images/modules/play/using_books_4.svg",
-        "count": 3,
+        "count": 4,
         "size_kb": 111.5
       },
       {
@@ -7797,7 +7878,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 45
+        "total": 46
       },
       {
         "type": "data_list",
