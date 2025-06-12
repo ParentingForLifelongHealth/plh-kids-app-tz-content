@@ -217,7 +217,7 @@
     {
       "id": "welcome_2",
       "category_id": "welcome",
-      "image_asset": "images/modules/join/all_modules.svg",
+      "image_asset": "images/modules/join/all_join.svg",
       "text_1": "ParentApp for Kids includes 7 core modules. Each module focuses on a specific parenting strategy to support you in your important role as a parent.",
       "_translations": {
         "text_1": {
