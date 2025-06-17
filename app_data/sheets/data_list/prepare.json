@@ -317,7 +317,7 @@
       "book_id": "beautiful_day",
       "media_type": "youtube",
       "youtube_gb_en": "https://www.youtube.com/watch?v=7CSMJ9i46JA",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=IYJ2ooNS21U",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
       "title": "Describe the pictures, ask questions, make it fun!",
       "_translations": {
@@ -469,9 +469,9 @@
       "id": "explore_3",
       "module_id": "explore",
       "book_id": "yello_earth_brown_earth",
-      "image_asset": "images/modules/connect/connect_11.jpg",
-      "youtube_gb_en": "https://www.youtube.com/watch?v=CSjowdxFw6Q&feature=youtu.be",
-      "youtube_tz_sw": "https://www.youtube.com/watch?v=_FjxUBrqKh8",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=qxi5jYve8LA",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=DjTJAxgEUpI",
       "attached_single_doc": "https://docs.google.com/document/d/1G6LEJDpavTuvrJwElzLVfIViK6FOIBTT-hgFXOWlVA8/edit?tab=t.0",
       "title": "Use the pictures to count, categorize and compare",
       "_translations": {

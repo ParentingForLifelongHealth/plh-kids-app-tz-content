@@ -251,9 +251,7 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "title": {
@@ -266,12 +264,12 @@
           "eng": "Listen for an example:"
         },
         "media_transcript": {
-          "eng": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do?”"
+          "eng": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do about this?”"
         }
       },
       "text_1": "**Talk about the problem**\nTalk to your child about the problem in need of a solution.",
       "media_title": "Listen for an example:",
-      "media_transcript": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do?”"
+      "media_transcript": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do about this?”"
     },
     {
       "id": "the_power_of_explore_3",

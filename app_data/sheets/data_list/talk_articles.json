@@ -454,8 +454,9 @@
       "id": "using_books_3",
       "category_id": "books_talk",
       "image_asset": "images/modules/talk/talk_10.svg",
-      "media_type": "video",
-      "media_asset": "https://drive.google.com/file/d/1pWNccBun0H3azChW1ITzOZPZ_xenGGfV/view?usp=share_link",
+      "media_type": "youtube",
+      "youtube_gb_en": "https://www.youtube.com/watch?v=7CSMJ9i46JA",
+      "youtube_tz_sw": "https://www.youtube.com/watch?v=IYJ2ooNS21U",
       "text_1": "**Ask questions**\n \nThis helps your child to talk about the pictures, and think about what is happening.",
       "_translations": {
         "text_1": {

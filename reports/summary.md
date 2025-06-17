@@ -1489,7 +1489,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/care/why_care_2.svg | 305.3 | 2 |
 | images/modules/connect/connect_1.svg | 29 | 6 |
 | images/modules/connect/connect_10.svg | 289.6 | 4 |
-| images/modules/connect/connect_11.jpg | 78.7 | 5 |
+| images/modules/connect/connect_11.jpg | 78.7 | 4 |
 | images/modules/connect/connect_12.svg | 187.7 | 4 |
 | images/modules/connect/connect_13.svg | 142.6 | 3 |
 | images/modules/connect/connect_14.svg | 34.3 | 4 |
