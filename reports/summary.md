@@ -79,7 +79,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 105524 KB | 105.5 MB |
+| total | 105726 KB | 105.7 MB |
 | unused | 1850 KB | 1.9 MB |
 </details>
 
@@ -1453,8 +1453,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/learning_through_play/when_grow_up.svg | 152.6 | 3 |
 | images/learning_through_play/when_grow_up_circle.svg | 97.9 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
+| images/logos/ILCHR_logo.png | 79.5 | 1 |
+| images/logos/NIMR_logo.png | 66.4 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
+| images/logos/REPSSI_logo.png | 9.7 | 1 |
 | images/logos/lego_foundation.png | 54.4 | 1 |
+| images/logos/su_logo.png | 46.2 | 1 |
 | images/modules/build/books_build_3.svg | 176 | 2 |
 | images/modules/build/build.gif | 109.3 | 2 |
 | images/modules/build/build_garden.svg | 152.1 | 2 |
@@ -1485,7 +1489,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/modules/care/why_care_2.svg | 305.3 | 2 |
 | images/modules/connect/connect_1.svg | 29 | 6 |
 | images/modules/connect/connect_10.svg | 289.6 | 4 |
-| images/modules/connect/connect_11.jpg | 78.7 | 6 |
+| images/modules/connect/connect_11.jpg | 78.7 | 5 |
 | images/modules/connect/connect_12.svg | 187.7 | 4 |
 | images/modules/connect/connect_13.svg | 142.6 | 3 |
 | images/modules/connect/connect_14.svg | 34.3 | 4 |

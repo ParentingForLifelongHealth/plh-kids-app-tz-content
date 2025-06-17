@@ -5311,9 +5311,21 @@
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
     "size_kb": 84.6
   },
+  "images/logos/ILCHR_logo.png": {
+    "md5Checksum": "06fb72b124c1e9165a5bca74ef0c2c8f",
+    "size_kb": 79.5
+  },
+  "images/logos/NIMR_logo.png": {
+    "md5Checksum": "349b251ab2f8e98ef5dcea1e9de20c20",
+    "size_kb": 66.4
+  },
   "images/logos/PLH.png": {
     "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
     "size_kb": 26.6
+  },
+  "images/logos/REPSSI_logo.png": {
+    "md5Checksum": "1f9035a702cb1d32cbef01784896b140",
+    "size_kb": 9.7
   },
   "images/logos/favicon.png": {
     "md5Checksum": "2265c040569691441d445a1696bd5035",
@@ -5330,6 +5342,10 @@
   "images/logos/plh_white.png": {
     "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
     "size_kb": 12.8
+  },
+  "images/logos/su_logo.png": {
+    "md5Checksum": "7d8c60c320d69f457433b4fc83ffc1bb",
+    "size_kb": 46.2
   },
   "images/modules/build/books_build_3.svg": {
     "md5Checksum": "1a804daa6801af3a2fad2a7e17cc8698",
