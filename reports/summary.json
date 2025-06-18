@@ -259,8 +259,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "105726 KB",
-        "MB": "105.7 MB"
+        "KB": "105819 KB",
+        "MB": "105.8 MB"
       },
       {
         "assets": "unused",
@@ -289,7 +289,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 6.1
+        "size_kb": 5.9
       },
       {
         "path": "images/additional_info/nutrition_6.svg",
@@ -1608,7 +1608,7 @@
       {
         "path": "audio/modules/connect/connect_02.mp3",
         "count": 2,
-        "size_kb": 208.1
+        "size_kb": 301.1
       },
       {
         "path": "audio/modules/connect/connect_03.mp3",

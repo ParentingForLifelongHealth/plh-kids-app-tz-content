@@ -347,7 +347,9 @@
           "name": "button_how",
           "value": "How to use @global.app_name",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "parameter_list": {
             "variant": "card",

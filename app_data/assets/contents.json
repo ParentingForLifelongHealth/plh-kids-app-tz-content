@@ -133,17 +133,17 @@
     "size_kb": 314.5
   },
   "audio/modules/connect/connect_02.mp3": {
-    "md5Checksum": "e3658a53edc8590a865918537739d419",
+    "md5Checksum": "2e56579a59fdadcb199c3a14435723ce",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/modules/connect/tz_sw/connect_02.mp3",
-          "md5Checksum": "f0e72de8995a217562ceeffd0ac8b7fa",
-          "size_kb": 217.4
+          "md5Checksum": "3b25adb04a76dd3e0d11c0ad98b07fc9",
+          "size_kb": 334.6
         }
       }
     },
-    "size_kb": 208.1
+    "size_kb": 301.1
   },
   "audio/modules/connect/connect_03.mp3": {
     "md5Checksum": "af0e17fa29f53d641d826e7dea877118",
@@ -1204,8 +1204,8 @@
     "size_kb": 306.6
   },
   "contents.json": {
-    "md5Checksum": "df9c81f319411188b557a9430db42686",
-    "size_kb": 6.1
+    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
+    "size_kb": 5.9
   },
   "images/additional_info/additional_information.svg": {
     "md5Checksum": "bdf204fbbe209376a63390656d50734f",
