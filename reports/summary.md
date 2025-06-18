@@ -79,7 +79,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 105726 KB | 105.7 MB |
+| total | 105819 KB | 105.8 MB |
 | unused | 1850 KB | 1.9 MB |
 </details>
 
@@ -94,7 +94,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 114 |
 | android/icon.png | 120.1 |
 | android/splash.png | 156.5 |
-| contents.json | 6.1 |
+| contents.json | 5.9 |
 | images/additional_info/nutrition_6.svg | 25.4 |
 | images/additional_info/nutrition_7.svg | 74.6 |
 | images/additional_info/nutrition_8.svg | 27.8 |
@@ -387,7 +387,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/modules/care/care_4.mp3 | 313.4 | 2 |
 | audio/modules/care/why_care_3.mp3 | 351.2 | 2 |
 | audio/modules/connect/connect_01.mp3 | 314.5 | 2 |
-| audio/modules/connect/connect_02.mp3 | 208.1 | 2 |
+| audio/modules/connect/connect_02.mp3 | 301.1 | 2 |
 | audio/modules/connect/connect_03.mp3 | 249 | 2 |
 | audio/modules/connect/connect_04.mp3 | 507.1 | 2 |
 | audio/modules/connect/connect_05.mp3 | 293.8 | 2 |
