@@ -1794,6 +1794,12 @@
     "note": ""
   },
   {
+    "SourceText": "ParentApp for Kids Tanzania is a collaboration between the Institute for Life Course Health Research (ILCHR) at Stellenbosch University in South Africa, the Regional\nPsychosocial Support Network (REPSSI) Tanzania and the National Institute for Medical Research (NIMR) Tanzania. The app was developed in partnership with IDEMS International as part of the Global Parenting Initiative, funded by the LEGO Foundation. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "Programu ya wazazi ya malezi kwa watoto ni ushirikiano kati ya Taasisi ya Life Course Health Research (ILCHR) ya Chuo kikuu cha Stellenbosch cha Afrika kusini, the Regional\nPsychosocial Support Initiatives (REPSSI) ya Tanzania na Taasisi ya Taifa ya utafiti wa magonjwa ya binadamu (NIMR) ya Tanzania. Programu hii imetengenezwa kwa ushirikiano na shirika la kimataifa la IDEMS kama sehemu ya juhudi za mpango wa Kimataifa wa Malezi, unaofadhiliwa na LEGO Foundation. Maudhui yaliyomo hapa yanapatikana chini ya chanzo huria cha leseni ya Creative Commons International 4.0. Imetengenezwa kwa ushirikiano na washirika wakuu:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Animal songs",
     "text": "Nyimbo zinazohusu wanyama",
     "type": "data_list",
@@ -12732,6 +12738,12 @@
     "note": ""
   },
   {
+    "SourceText": "“@data.characters.f3_boy_wheelchair.name and @data.characters.f3_girl.name, I heard you arguing because you both want to read the same book. I can understand why you are both eager to read it – it is a new story and it looks very interesting. Since we only have one copy, what should we do about this?”",
+    "text": "“@data.characters.f3_boy_wheelchair.name na @data.characters.f3_girl.name, nilisikia mkibishana kwa sababu nyote mnataka kusoma kitabu kimoja. Ninaelewa kwa nini nyote wawili mna hamu ya kukisoma - ni hadithi mpya na inaonekana ya kuvutia sana. Kwa kuwa tuna nakala moja tu tufanye nini?\"",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n“@data.characters.f3_boy_wheelchair.name\n@data.characters.f3_girl.name,"
+  },
+  {
     "SourceText": "How to solve problems: Step 2",
     "text": "Jinsi ya kutatua matataizo: Hatua ya 2",
     "type": "data_list",
@@ -12866,6 +12878,12 @@
   {
     "SourceText": "Taking Care of Yourself",
     "text": "Kujijali wewe mwenyewe",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your breathing_heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
+    "text": "Kaa vizuri halafu ufumbe macho yako.\n\nTambua kinachokutokea muda huu. Unafikiria nini? Je, mawazo yako ni chanya au hasi? Je, unahisije? Je, unahisi kufurahi au kutofurahi? Je, mwili wako unahisije? Je, unahisi wasiwasi au umetulia?\n\nHusiana na moyo wako kwa wema na upole. Unaweza kuhitaji kuweka mkono mmoja kwenye moyo wako au kifuani. Sema kimoyomoyo maneno yafuatayo:\n\nNinaomba niwe na amani.\nNinaomba niwe salama.\nNinaomba niwe na afya.\nNinaomba niwe na furaha.\nNa upendo uwe kwenye familia yangu.\nNinaomba nihisi kupendwa.\n\nChukua muda kutafakari uzoefu wako. Angalia ikiwa unahisi tofauti yoyote.",
     "type": "data_list",
     "note": ""
   },
@@ -13118,6 +13136,12 @@
   {
     "SourceText": "Feel the Ground",
     "text": "Kuhisi ardhi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing an ordinary activity like washing up. It can really help!",
+    "text": "Fumba macho yako.\n\nChunguza uhusiano wako na ardhi iliyo chini yako.\nJe, ni sehemu gani za mwili wako zinagusa ardhi? Je, ni sehemu gani za mwili wako hazigusi ardhi?\nChunguza mahali palipo na joto na mahali palipo na baridi.\nGusa ardhi iliyo chini yako inayokubeba. Acha mwili wako uzame na kubebwa na ardhi.\n\nFanya hivi wakati mwingine unapojisikia mpweke au unafanya shughuli ya kawaida kama kunawa. Inaweza kusaidia kweli!",
     "type": "data_list",
     "note": ""
   },

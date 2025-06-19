@@ -369,8 +369,8 @@
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
-      "_xlsxPath": "templates/kids app_launch.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+      "_xlsxPath": "kids_tz_app_launch.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
       "_metadata": {
         "priority": {
           "type": "number"
@@ -7571,6 +7571,12 @@
       "_xlsxPath": "books/TZ prepare templates.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
     },
+    "tour_video": {
+      "flow_type": "template",
+      "flow_name": "tour_video",
+      "_xlsxPath": "kids_tz_app_launch.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
+    },
     "user_data": {
       "flow_type": "template",
       "flow_name": "user_data",
@@ -7584,12 +7590,5 @@
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
     }
   },
-  "tour": {
-    "home_screen_tour": {
-      "flow_type": "tour",
-      "flow_name": "home_screen_tour",
-      "_xlsxPath": "tour/home_screen_tour.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19"
-    }
-  }
+  "tour": {}
 }
