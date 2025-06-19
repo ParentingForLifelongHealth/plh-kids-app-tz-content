@@ -117,8 +117,30 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_splash_screens_completed",
+      "id": "app_start_tour_video",
       "priority": 6,
+      "condition_list": [
+        "!@fields.splash_screens_completed  && @fields.user_mode"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "tour_video"
+          ],
+          "_raw": "pop_up: tour_video | fullscreen: true",
+          "_cleaned": "click | pop_up: tour_video | fullscreen: true",
+          "params": {
+            "fullscreen": true
+          }
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_splash_screens_completed",
+      "priority": 7,
       "condition_list": [
         "!@fields.splash_screens_completed  && @fields.user_mode"
       ],
@@ -138,7 +160,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
-      "priority": 7,
+      "priority": 8,
       "action_list": [
         {
           "trigger": "click",
@@ -152,8 +174,8 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/kids app_launch.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+  "_xlsxPath": "kids_tz_app_launch.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1xY6e3-VuMiTsVYBV4tPG_CYHoFx1Yq19",
   "_metadata": {
     "priority": {
       "type": "number"

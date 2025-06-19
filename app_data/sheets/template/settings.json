@@ -361,12 +361,15 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "start_tour",
+              "action_id": "pop_up",
               "args": [
-                "home_screen_tour"
+                "tour_video"
               ],
-              "_raw": "click | start_tour: home_screen_tour",
-              "_cleaned": "click | start_tour: home_screen_tour"
+              "_raw": "click | pop_up: tour_video | fullscreen: true",
+              "_cleaned": "click | pop_up: tour_video | fullscreen: true",
+              "params": {
+                "fullscreen": true
+              }
             }
           ],
           "_nested_name": "dg_account.button_how",
@@ -465,7 +468,6 @@
               }
             }
           ],
-          "exclude_from_translation": true,
           "_nested_name": "dg_general.button_about",
           "_dynamicFields": {
             "value": [

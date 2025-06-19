@@ -28,21 +28,21 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2017 |
+| set_variable | 2019 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 11 |
 | task_progress_bar | 3 |
 | template | 646 |
-| text | 148 |
+| text | 149 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 9 |
-| title | 55 |
+| title | 56 |
 | toggle_bar | 8 |
 | update_action_list | 3 |
 | video | 3 |
-| youtube | 3 |
+| youtube | 4 |
 </details>
 
 <details >
@@ -63,13 +63,12 @@
 | go_to | 23 |
 | nav | 1 |
 | nav_stack | 1 |
-| pop_up | 25 |
+| pop_up | 26 |
 | reset_app | 1 |
 | set_data | 1 |
 | set_field | 38 |
 | set_item | 20 |
 | set_local | 31 |
-| start_tour | 1 |
 | task | 3 |
 | user | 2 |
 </details>
@@ -1657,8 +1656,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 40 |
 | global |  | 3 |
 | global | legal_terms | 1 |
-| template |  | 86 |
+| template |  | 87 |
 | template | generated | 554 |
 | template | legal_terms | 4 |
-| tour |  | 1 |
 </details>
