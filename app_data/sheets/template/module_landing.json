@@ -697,6 +697,119 @@
       }
     },
     {
+      "type": "data_items",
+      "name": "show_feedback_if_module_completed",
+      "value": "module_tasks",
+      "parameter_list": {
+        "filter": "@item.id == @local.module_id"
+      },
+      "rows": [
+        {
+          "type": "button",
+          "name": "odk_button",
+          "value": "Feedback",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "odk_form_@local.module_id"
+              ],
+              "_raw": "click | pop_up: odk_form_@local.module_id | fullscreen: true",
+              "_cleaned": "click | pop_up: odk_form_@local.module_id | fullscreen: true",
+              "params": {
+                "fullscreen": true
+              }
+            }
+          ],
+          "condition": "@item.completed",
+          "_nested_name": "show_feedback_if_module_completed.odk_button",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "odk_form_@local.module_id",
+                      "matchedExpression": "@local.module_id",
+                      "type": "local",
+                      "fieldName": "module_id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | pop_up: odk_form_@local.module_id | fullscreen: true",
+                    "matchedExpression": "@local.module_id",
+                    "type": "local",
+                    "fieldName": "module_id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | pop_up: odk_form_@local.module_id | fullscreen: true",
+                    "matchedExpression": "@local.module_id",
+                    "type": "local",
+                    "fieldName": "module_id"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@item.completed",
+                "matchedExpression": "@item.completed",
+                "type": "item",
+                "fieldName": "completed"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.module_id": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@item.completed": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "show_feedback_if_module_completed",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @local.module_id",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @local.module_id",
+              "matchedExpression": "@local.module_id",
+              "type": "local",
+              "fieldName": "module_id"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@local.module_id": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
       "name": "title_hp",
       "value": "Home Activities",
       "_translations": {

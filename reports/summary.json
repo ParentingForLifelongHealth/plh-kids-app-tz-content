@@ -23,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 67
+        "count": 68
       },
       {
         "type": "combo_box",
@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 44
+        "count": 45
       },
       {
         "type": "debug_toggle",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2019
+        "count": 2021
       },
       {
         "type": "simple_checkbox",
@@ -219,7 +219,7 @@
       },
       {
         "type": "pop_up",
-        "count": 26
+        "count": 27
       },
       {
         "type": "reset_app",
@@ -231,7 +231,7 @@
       },
       {
         "type": "set_field",
-        "count": 38
+        "count": 39
       },
       {
         "type": "set_item",
