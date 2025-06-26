@@ -14,6 +14,39 @@
       "_nested_name": "module_id"
     },
     {
+      "name": "join",
+      "value": "_",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "join"
+    },
+    {
+      "name": "now",
+      "value": "@calc(now())",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "now",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(now())",
+            "matchedExpression": "@calc(now())",
+            "type": "calc",
+            "fieldName": "now()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(now())": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "title",
       "name": "title",
       "value": "Feedback Form",
@@ -170,6 +203,16 @@
       "action_list": [
         {
           "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "odk_survey_@local.module_id@local.join@local.now",
+            "@local.form_1"
+          ],
+          "_raw": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+          "_cleaned": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1"
+        },
+        {
+          "trigger": "click",
           "action_id": "emit",
           "args": [
             "completed"
@@ -178,7 +221,117 @@
           "_cleaned": "click | emit: completed"
         }
       ],
-      "_nested_name": "button_completed"
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "odk_survey_@local.module_id@local.join@local.now",
+                  "matchedExpression": "@local.module_id",
+                  "type": "local",
+                  "fieldName": "module_id"
+                },
+                {
+                  "fullExpression": "odk_survey_@local.module_id@local.join@local.now",
+                  "matchedExpression": "@local.join",
+                  "type": "local",
+                  "fieldName": "join"
+                },
+                {
+                  "fullExpression": "odk_survey_@local.module_id@local.join@local.now",
+                  "matchedExpression": "@local.now",
+                  "type": "local",
+                  "fieldName": "now"
+                }
+              ],
+              "1": [
+                {
+                  "fullExpression": "@local.form_1",
+                  "matchedExpression": "@local.form_1",
+                  "type": "local",
+                  "fieldName": "form_1"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.now",
+                "type": "local",
+                "fieldName": "now"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.form_1",
+                "type": "local",
+                "fieldName": "form_1"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.module_id",
+                "type": "local",
+                "fieldName": "module_id"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.join",
+                "type": "local",
+                "fieldName": "join"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.now",
+                "type": "local",
+                "fieldName": "now"
+              },
+              {
+                "fullExpression": "click | set_field: odk_survey_@local.module_id@local.join@local.now: @local.form_1",
+                "matchedExpression": "@local.form_1",
+                "type": "local",
+                "fieldName": "form_1"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.module_id": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.join": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.now": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.form_1": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
     }
   ],
   "_xlsxPath": "modules/TZ module_navigation.xlsx",
