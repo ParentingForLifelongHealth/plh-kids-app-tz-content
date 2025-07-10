@@ -13,7 +13,7 @@
 | data_items | 45 |
 | debug_toggle | 1 |
 | display_grid | 9 |
-| display_group | 81 |
+| display_group | 80 |
 | google_sign_in_button | 1 |
 | image | 50 |
 | items | 16 |
@@ -28,12 +28,12 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2021 |
+| set_variable | 2045 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 11 |
 | task_progress_bar | 3 |
-| template | 646 |
+| template | 649 |
 | text | 149 |
 | text_area | 2 |
 | text_box | 5 |
@@ -52,7 +52,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 562 |
+| emit: completed | 565 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 10 |
 | emit: force_restart | 4 |
@@ -66,8 +66,8 @@
 | pop_up | 27 |
 | reset_app | 1 |
 | set_data | 1 |
-| set_field | 39 |
-| set_item | 20 |
+| set_field | 40 |
+| set_item | 26 |
 | set_local | 31 |
 | task | 3 |
 | user | 2 |

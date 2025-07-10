@@ -224,6 +224,15 @@
           ],
           "_raw": "click | go_to: @local.target_template",
           "_cleaned": "click | go_to: @local.target_template"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
         }
       ],
       "parameter_list": {
