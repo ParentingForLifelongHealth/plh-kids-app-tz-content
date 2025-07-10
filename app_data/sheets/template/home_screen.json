@@ -269,6 +269,162 @@
                   }
                 },
                 {
+                  "name": "join",
+                  "value": "_",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.dg_top.join"
+                },
+                {
+                  "name": "now",
+                  "value": "@calc(timestamp())",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.dg_top.now",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@calc(timestamp())",
+                        "matchedExpression": "@calc(timestamp())",
+                        "type": "calc",
+                        "fieldName": "timestamp()"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@calc(timestamp())": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "click_history",
+                  "value": "toggle_history",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.dg_top.click_history"
+                },
+                {
+                  "name": "click_history_field_name",
+                  "value": "display_modules_as_list@local.join@local.click_history",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.dg_top.click_history_field_name",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "display_modules_as_list@local.join@local.click_history",
+                        "matchedExpression": "@local.join",
+                        "type": "local",
+                        "fieldName": "join"
+                      },
+                      {
+                        "fullExpression": "display_modules_as_list@local.join@local.click_history",
+                        "matchedExpression": "@local.click_history",
+                        "type": "local",
+                        "fieldName": "click_history"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.join": [
+                      "value"
+                    ],
+                    "@local.click_history": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "click_history_value",
+                  "value": "@fields.@local.click_history_field_name ;  @local.now",
+                  "_translations": {
+                    "value": {
+                      "tz_sw": true
+                    }
+                  },
+                  "condition": "!!(@fields.@local.click_history_field_name)",
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.dg_top.click_history_value",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                        "matchedExpression": "@local.now",
+                        "type": "local",
+                        "fieldName": "now"
+                      }
+                    ],
+                    "condition": [
+                      {
+                        "fullExpression": "!!(@fields.@local.click_history_field_name)",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.click_history_field_name": [
+                      "value",
+                      "condition"
+                    ],
+                    "@local.now": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "click_history_value",
+                  "value": "@local.now",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "condition": "!(@fields.@local.click_history_field_name)",
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.dg_top.click_history_value",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.now",
+                        "matchedExpression": "@local.now",
+                        "type": "local",
+                        "fieldName": "now"
+                      }
+                    ],
+                    "condition": [
+                      {
+                        "fullExpression": "!(@fields.@local.click_history_field_name)",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.now": [
+                      "value"
+                    ],
+                    "@local.click_history_field_name": [
+                      "condition"
+                    ]
+                  }
+                },
+                {
                   "type": "toggle_bar",
                   "name": "display_modules_as_list",
                   "value": "@fields.display_modules_as_list",
@@ -276,6 +432,16 @@
                     "value": {}
                   },
                   "action_list": [
+                    {
+                      "trigger": "changed",
+                      "action_id": "set_field",
+                      "args": [
+                        "@local.click_history_field_name",
+                        "@local.click_history_value"
+                      ],
+                      "_raw": "changed | set_field: @local.click_history_field_name: @local.click_history_value",
+                      "_cleaned": "changed | set_field: @local.click_history_field_name: @local.click_history_value"
+                    },
                     {
                       "trigger": "changed",
                       "action_id": "set_field",
@@ -307,6 +473,54 @@
                     ],
                     "action_list": {
                       "0": {
+                        "args": {
+                          "0": [
+                            {
+                              "fullExpression": "@local.click_history_field_name",
+                              "matchedExpression": "@local.click_history_field_name",
+                              "type": "local",
+                              "fieldName": "click_history_field_name"
+                            }
+                          ],
+                          "1": [
+                            {
+                              "fullExpression": "@local.click_history_value",
+                              "matchedExpression": "@local.click_history_value",
+                              "type": "local",
+                              "fieldName": "click_history_value"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "changed | set_field: @local.click_history_field_name: @local.click_history_value",
+                            "matchedExpression": "@local.click_history_field_name",
+                            "type": "local",
+                            "fieldName": "click_history_field_name"
+                          },
+                          {
+                            "fullExpression": "changed | set_field: @local.click_history_field_name: @local.click_history_value",
+                            "matchedExpression": "@local.click_history_value",
+                            "type": "local",
+                            "fieldName": "click_history_value"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "changed | set_field: @local.click_history_field_name: @local.click_history_value",
+                            "matchedExpression": "@local.click_history_field_name",
+                            "type": "local",
+                            "fieldName": "click_history_field_name"
+                          },
+                          {
+                            "fullExpression": "changed | set_field: @local.click_history_field_name: @local.click_history_value",
+                            "matchedExpression": "@local.click_history_value",
+                            "type": "local",
+                            "fieldName": "click_history_value"
+                          }
+                        ]
+                      },
+                      "1": {
                         "_raw": [
                           {
                             "fullExpression": "changed | set_field: display_modules_as_list: @local.display_modules_as_list",
@@ -348,9 +562,19 @@
                     "@fields.display_modules_as_list": [
                       "value"
                     ],
-                    "@local.display_modules_as_list": [
+                    "@local.click_history_field_name": [
+                      "action_list.0.args.0",
                       "action_list.0._raw",
                       "action_list.0._cleaned"
+                    ],
+                    "@local.click_history_value": [
+                      "action_list.0.args.1",
+                      "action_list.0._raw",
+                      "action_list.0._cleaned"
+                    ],
+                    "@local.display_modules_as_list": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned"
                     ],
                     "@local.false_text": [
                       "parameter_list.false_text"
@@ -374,6 +598,63 @@
               "exclude_from_translation": true,
               "rows": [
                 {
+                  "name": "has_been_clicked_previously",
+                  "value": "!!@item.homescreen_quickstart_click_history",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.loop_outer.has_been_clicked_previously",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "!!@item.homescreen_quickstart_click_history",
+                        "matchedExpression": "!@item.homescreen_quickstart_click_history",
+                        "type": "item",
+                        "fieldName": "homescreen_quickstart_click_history"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "!@item.homescreen_quickstart_click_history": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "updated_value",
+                  "value": "@item.homescreen_quickstart_click_history;  @local.now",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.dg_2.loop_outer.updated_value",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.homescreen_quickstart_click_history;  @local.now",
+                        "matchedExpression": "@item.homescreen_quickstart_click_history",
+                        "type": "item",
+                        "fieldName": "homescreen_quickstart_click_history"
+                      },
+                      {
+                        "fullExpression": "@item.homescreen_quickstart_click_history;  @local.now",
+                        "matchedExpression": "@local.now",
+                        "type": "local",
+                        "fieldName": "now"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.homescreen_quickstart_click_history": [
+                      "value"
+                    ],
+                    "@local.now": [
+                      "value"
+                    ]
+                  }
+                },
+                {
                   "type": "display_group",
                   "name": "dg_blue",
                   "parameter_list": {
@@ -388,6 +669,19 @@
                       "type": "template",
                       "name": "home_screen_header",
                       "value": "home_screen_header",
+                      "action_list": [
+                        {
+                          "trigger": "completed",
+                          "action_id": "set_item",
+                          "args": [],
+                          "_raw": "completed | set_item | homescreen_quickstart_click_history: @local.now",
+                          "_cleaned": "completed | set_item | homescreen_quickstart_click_history: @local.now",
+                          "params": {
+                            "homescreen_quickstart_click_history": "@local.now"
+                          }
+                        }
+                      ],
+                      "condition": "!@local.has_been_clicked_previously",
                       "exclude_from_translation": true,
                       "rows": [
                         {
@@ -416,7 +710,154 @@
                           }
                         }
                       ],
-                      "_nested_name": "dg_1.dg_2.loop_outer.dg_blue.home_screen_header"
+                      "_nested_name": "dg_1.dg_2.loop_outer.dg_blue.home_screen_header",
+                      "_dynamicFields": {
+                        "action_list": {
+                          "0": {
+                            "_raw": [
+                              {
+                                "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.now",
+                                "matchedExpression": "@local.now",
+                                "type": "local",
+                                "fieldName": "now"
+                              }
+                            ],
+                            "_cleaned": [
+                              {
+                                "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.now",
+                                "matchedExpression": "@local.now",
+                                "type": "local",
+                                "fieldName": "now"
+                              }
+                            ],
+                            "params": {
+                              "homescreen_quickstart_click_history": [
+                                {
+                                  "fullExpression": "@local.now",
+                                  "matchedExpression": "@local.now",
+                                  "type": "local",
+                                  "fieldName": "now"
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "condition": [
+                          {
+                            "fullExpression": "!@local.has_been_clicked_previously",
+                            "matchedExpression": "!@local.has_been_clicked_previously",
+                            "type": "local",
+                            "fieldName": "has_been_clicked_previously"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@local.now": [
+                          "action_list.0._raw",
+                          "action_list.0._cleaned",
+                          "action_list.0.params.homescreen_quickstart_click_history"
+                        ],
+                        "!@local.has_been_clicked_previously": [
+                          "condition"
+                        ]
+                      }
+                    },
+                    {
+                      "type": "template",
+                      "name": "home_screen_header",
+                      "value": "home_screen_header",
+                      "action_list": [
+                        {
+                          "trigger": "completed",
+                          "action_id": "set_item",
+                          "args": [],
+                          "_raw": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
+                          "_cleaned": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
+                          "params": {
+                            "homescreen_quickstart_click_history": "@local.updated_value"
+                          }
+                        }
+                      ],
+                      "condition": "@local.has_been_clicked_previously",
+                      "exclude_from_translation": true,
+                      "rows": [
+                        {
+                          "name": "module_id",
+                          "value": "@item.id",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "exclude_from_translation": true,
+                          "type": "set_variable",
+                          "_nested_name": "dg_1.dg_2.loop_outer.dg_blue.home_screen_header.module_id",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "@item.id",
+                                "matchedExpression": "@item.id",
+                                "type": "item",
+                                "fieldName": "id"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@item.id": [
+                              "value"
+                            ]
+                          }
+                        }
+                      ],
+                      "_nested_name": "dg_1.dg_2.loop_outer.dg_blue.home_screen_header",
+                      "_dynamicFields": {
+                        "action_list": {
+                          "0": {
+                            "_raw": [
+                              {
+                                "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
+                                "matchedExpression": "@local.updated_value",
+                                "type": "local",
+                                "fieldName": "updated_value"
+                              }
+                            ],
+                            "_cleaned": [
+                              {
+                                "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
+                                "matchedExpression": "@local.updated_value",
+                                "type": "local",
+                                "fieldName": "updated_value"
+                              }
+                            ],
+                            "params": {
+                              "homescreen_quickstart_click_history": [
+                                {
+                                  "fullExpression": "@local.updated_value",
+                                  "matchedExpression": "@local.updated_value",
+                                  "type": "local",
+                                  "fieldName": "updated_value"
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "condition": [
+                          {
+                            "fullExpression": "@local.has_been_clicked_previously",
+                            "matchedExpression": "@local.has_been_clicked_previously",
+                            "type": "local",
+                            "fieldName": "has_been_clicked_previously"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@local.updated_value": [
+                          "action_list.0._raw",
+                          "action_list.0._cleaned",
+                          "action_list.0.params.homescreen_quickstart_click_history"
+                        ],
+                        "@local.has_been_clicked_previously": [
+                          "condition"
+                        ]
+                      }
                     }
                   ],
                   "_nested_name": "dg_1.dg_2.loop_outer.dg_blue"
