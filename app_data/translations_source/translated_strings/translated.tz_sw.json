@@ -11389,7 +11389,7 @@
   },
   {
     "SourceText": "Taking a pause helps us to feel calmer in stressful moments.",
-    "text": "Kuchukua pumziko inatusaidia kujiskia kutulia tunapokuwa na msongo wa mawazo.",
+    "text": "Kupata muda wa kupumzika inatusaidia kujiskia kutulia tunapokuwa na msongo wa mawazo.",
     "type": "data_list",
     "note": ""
   },
@@ -12949,7 +12949,7 @@
   },
   {
     "SourceText": "**Take a pause**\n\nTaking a pause helps us to feel calmer in stressful moments.",
-    "text": "**Chukua pumziko**\nKupumzika husaidia kujiskia utulivu wakati unapokuwa na msongo wa mawazo.",
+    "text": "**Pata muda wa kupumzika**\nKupumzika husaidia kujiskia utulivu wakati unapokuwa na msongo wa mawazo.",
     "type": "data_list",
     "note": ""
   },
@@ -13105,7 +13105,7 @@
   },
   {
     "SourceText": "You can use book activities to take a pause when you feel stressed.",
-    "text": "Unaweza kutumia shughuli za kitabu kuchukua pumziko unapojiskia kuwa na msongo wa mawazo.",
+    "text": "Unaweza kutumia shughuli za kitabu kwa ajili ya kupumzika unapojiskia kuwa na msongo wa mawazo.",
     "type": "data_list",
     "note": ""
   },
@@ -13495,7 +13495,7 @@
   },
   {
     "SourceText": "Relax",
-    "text": "Chukua pumziko",
+    "text": "Pata muda wa kupumzika",
     "type": "data_list",
     "note": ""
   },
@@ -13764,12 +13764,6 @@
     "note": ""
   },
   {
-    "SourceText": "Feedback",
-    "text": "Mrejesho",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Add your favourite Play activities to your list so you can easily find and enjoy them anytime!",
     "text": "Ongeza vitu unavyovipenda kwenye orodha yako ya shughuli za kucheza ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!",
     "type": "template",
@@ -13891,7 +13885,7 @@
   },
   {
     "SourceText": "Relax",
-    "text": "Chukua pumziko",
+    "text": "Pata muda wa kupumzika",
     "type": "template",
     "note": ""
   },
@@ -13950,14 +13944,32 @@
     "note": ""
   },
   {
+    "SourceText": "Welcome to @global.app_name",
+    "text": "Karibu kwenye @global.app_name",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "<p>You deserve to feel good, and have happy family relationships.</p>\n\n<p>@global.app_name is here to support you.</p>\n\n<p>Here is how to use the app:</p>",
+    "text": "Unastahili kujiskia vizuri na kuwa na mahusiano ya familia yenye furaha.\n<p>@global.app_name ipo kwa ajili ya kukusaidia</p>\n\n<p> Hii ni jinsi ya kutumia programu:</p>",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
     "SourceText": "Continue",
     "text": "Endelea",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Module",
-    "text": "Mada",
+    "SourceText": "@local.module_row.title Module",
+    "text": "Mada ya @local.module_row.title",
+    "type": "template",
+    "note": "The string @local.module_row.title should not be translated."
+  },
+  {
+    "SourceText": "Feedback",
+    "text": "Mrejesho",
     "type": "template",
     "note": ""
   },
@@ -14025,66 +14037,6 @@
     "SourceText": "Resource Centre",
     "text": "Kituo cha Rasilimali",
     "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome to @global.app_name",
-    "text": "Karibu kwenye @global.app_name",
-    "type": "tour",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "<p>You deserve to feel good, and have happy family relationships.</p>\n\n<p>@global.app_name is here to support you.</p>\n\n<p>Here is how to use the app:</p>",
-    "text": "Unastahili kujiskia vizuri na kuwa na mahusiano ya familia yenye furaha.\n<p>@global.app_name ipo kwa ajili ya kukusaidia</p>\n\n<p> Hii ni jinsi ya kutumia programu:</p>",
-    "type": "tour",
-    "note": "The string <p>@global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Use the toggle bar on the top right corner to switch between the Map View and List View on the homepage. You can choose the view you prefer and switch back at any time.",
-    "text": "Tumia kitufe cha kugeuza kilichopo upande wa kulia kwenye kona, kubadili kati ya muonekano wa ramani na muonekano wa orodha kwenye ukurasa wa juu. Unaweza kuchagua muonekano unaoupenda na kubadilisha muda wowote.",
-    "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "<p>The Start/Continue button takes you to the module we encourage you to explore/finish. The module name changes depending on the module you are looking at that week.</p>\n\n<p>This button disappears after all the modules have been unlocked. The modules are unlocked weekly.</p>",
-    "text": "Kitufe cha Anza/Endelea kinakupeleka kwenye mada tunayokuhimiza kuchunguza/kumaliza. Jina la mada hubadilika kulingana na mada unayoiangalia wiki hiyo.\n\nKitufe hiki hutoweka baada ya mada zote kufunguliwa. Mada zinafunguliwa kwa wiki.",
-    "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "Depending on the selected homepage, you can also access the module by clicking on the circular buttons if you are using the map mode.",
-    "text": "Kutegemeana na ukurasa wa juu uliochaguliwa, Pia unaweza kuzifikia mada kwa kubonyeza vitufe vya mviringo, kama unatumia ramani.",
-    "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "Or the rectangular buttons for the list view.",
-    "text": "Au vitufe vya mstatiri kwa ajili ya kuona orodha.",
-    "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "This is the module landing page.\n\nHere you get an overview on what to expect.",
-    "text": "Huu ni ukurusa wa mwanzo.\n\nHapa unapata muhtasari wa unachokitarajia.",
-    "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "You can access various module home activities such as the Relax, Books and Play activities. You are advised to do these activities after going through the module as you await for the next module to unlock.",
-    "text": "Unaweza kuzifikia shughuli mbalimbali za mada za kufanya nyumbani kama vile Kupumzika, vitabu na shughuli za kucheza. Unashauriwa kufanya shughuli hizi baada ya kupitia mada unaposubiri mada inayofuata kufunguka.",
-    "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "<p>At the bottom we have several sections that you can explore whenever you want by clicking on the icons.</p>\n\n<p>The library has additional books.</p>\n\n<p>The Resource centre has additional activities such as songs, relax activities, support information, play activities e.t.c.</p>\n\n<p>The settings page contains your personal information and other app settings.</p>",
-    "text": "<p> Chini tuna sehemu kadhaa ambazo unaweza kuchunguza wakati wowote unapotaka kwa kubofya kwenye kitufe.</p>\n\n<p> Maktaba ina vitabu vya ziada.</p>\n\n<p>Kituo cha rasilimali kina shughuli za ziada kama vile nyimbo, shughuli za kupumzika, taarifa za kupata msaada, shughuli za kucheza n.k </p>\n\n<p>Mipangilio ya ukurasa imejumuisha maelezo yako binafsi na mipangilio mingine ya program.</p>",
-    "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "To build your knowledge and skills in parenting, complete all of the content in one module before moving to the next one.",
-    "text": "Kujenga maarifa na juzi zako za malezi, Pitia vipengele vyote kwa ukamilifu kwenye mada moja, kabla ya kwenda kwenye mada inayofuata.",
-    "type": "tour",
     "note": ""
   }
 ]

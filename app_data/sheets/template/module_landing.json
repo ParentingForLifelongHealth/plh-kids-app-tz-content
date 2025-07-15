@@ -228,7 +228,9 @@
       "name": "module_card_title",
       "value": "@local.module_row.title Module",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "module_card_title",
