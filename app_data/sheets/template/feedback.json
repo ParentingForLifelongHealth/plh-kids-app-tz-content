@@ -817,7 +817,9 @@
       },
       "parameter_list": {
         "speaker_image_asset": "@local.character_image_asset",
-        "speaker_name": "@local.character_name"
+        "speaker_name": "@local.character_name",
+        "speaker_position": "@local.speaker_position",
+        "variant": "@local.variant"
       },
       "condition": "!@local.@local.concat_nested_id",
       "exclude_from_translation": true,
@@ -847,6 +849,22 @@
               "type": "local",
               "fieldName": "character_name"
             }
+          ],
+          "speaker_position": [
+            {
+              "fullExpression": "@local.speaker_position",
+              "matchedExpression": "@local.speaker_position",
+              "type": "local",
+              "fieldName": "speaker_position"
+            }
+          ],
+          "variant": [
+            {
+              "fullExpression": "@local.variant",
+              "matchedExpression": "@local.variant",
+              "type": "local",
+              "fieldName": "variant"
+            }
           ]
         },
         "condition": [
@@ -867,6 +885,12 @@
         ],
         "@local.character_name": [
           "parameter_list.speaker_name"
+        ],
+        "@local.speaker_position": [
+          "parameter_list.speaker_position"
+        ],
+        "@local.variant": [
+          "parameter_list.variant"
         ],
         "@local.concat_nested_id": [
           "condition"
