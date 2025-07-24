@@ -11,6 +11,28 @@
       "_nested_name": "is_standalone_task"
     },
     {
+      "name": "display_uncompleted",
+      "value": false,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "display_uncompleted"
+    },
+    {
+      "name": "completed_text",
+      "value": "Done",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "completed_text"
+    },
+    {
+      "name": "completed_icon",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "completed_icon"
+    },
+    {
       "type": "display_group",
       "name": "if_standalone",
       "exclude_from_translation": true,
@@ -18,30 +40,7 @@
         "style": "column"
       },
       "condition": "@local.is_standalone_task",
-      "rows": [
-        {
-          "name": "display_uncompleted",
-          "value": false,
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "if_standalone.display_uncompleted"
-        },
-        {
-          "name": "completed_text",
-          "value": "Done",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "if_standalone.completed_text"
-        },
-        {
-          "name": "completed_icon",
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "if_standalone.completed_icon"
-        }
-      ],
+      "rows": [],
       "_nested_name": "if_standalone",
       "_dynamicFields": {
         "condition": [
@@ -60,35 +59,34 @@
       }
     },
     {
+      "name": "display_uncompleted",
+      "value": true,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "display_uncompleted"
+    },
+    {
+      "name": "completed_text",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "completed_text"
+    },
+    {
+      "name": "completed_icon",
+      "value": "arrow-forward",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "completed_icon"
+    },
+    {
       "type": "display_group",
       "name": "if_in_sequence",
       "exclude_from_translation": true,
       "condition": "!@local.is_standalone_task",
-      "rows": [
-        {
-          "name": "display_uncompleted",
-          "value": true,
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "if_in_sequence.display_uncompleted"
-        },
-        {
-          "name": "completed_text",
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "if_in_sequence.completed_text"
-        },
-        {
-          "name": "completed_icon",
-          "value": "arrow-forward",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "if_in_sequence.completed_icon"
-        }
-      ],
+      "rows": [],
       "_nested_name": "if_in_sequence",
       "_dynamicFields": {
         "condition": [

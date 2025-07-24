@@ -23,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 68
+        "count": 71
       },
       {
         "type": "combo_box",
@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 45
+        "count": 44
       },
       {
         "type": "debug_toggle",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 80
+        "count": 83
       },
       {
         "type": "google_sign_in_button",
@@ -51,7 +51,7 @@
       },
       {
         "type": "image",
-        "count": 50
+        "count": 51
       },
       {
         "type": "items",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2045
+        "count": 2044
       },
       {
         "type": "simple_checkbox",
@@ -123,11 +123,11 @@
       },
       {
         "type": "template",
-        "count": 649
+        "count": 648
       },
       {
         "type": "text",
-        "count": 149
+        "count": 154
       },
       {
         "type": "text_area",
@@ -171,7 +171,7 @@
       },
       {
         "type": "auth",
-        "count": 1
+        "count": 4
       },
       {
         "type": "emit: completed",
@@ -183,15 +183,15 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 10
+        "count": 11
       },
       {
         "type": "emit: force_restart",
-        "count": 4
+        "count": 3
       },
       {
         "type": "emit: server_sync",
-        "count": 4
+        "count": 6
       },
       {
         "type": "emit: set_language",
@@ -219,11 +219,15 @@
       },
       {
         "type": "pop_up",
-        "count": 27
+        "count": 28
       },
       {
         "type": "reset_app",
-        "count": 1
+        "count": 3
+      },
+      {
+        "type": "reset_data",
+        "count": 2
       },
       {
         "type": "set_data",
@@ -231,7 +235,7 @@
       },
       {
         "type": "set_field",
-        "count": 40
+        "count": 36
       },
       {
         "type": "set_item",
@@ -239,7 +243,7 @@
       },
       {
         "type": "set_local",
-        "count": 31
+        "count": 33
       },
       {
         "type": "task",
@@ -7913,7 +7917,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 3
+        "total": 4
       },
       {
         "type": "global",
@@ -7923,7 +7927,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 87
+        "total": 88
       },
       {
         "type": "template",

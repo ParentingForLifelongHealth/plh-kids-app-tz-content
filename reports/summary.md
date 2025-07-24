@@ -8,14 +8,14 @@
 | advanced_dashed_box | 5 |
 | apple_sign_in_button | 1 |
 | audio | 15 |
-| button | 68 |
+| button | 71 |
 | combo_box | 6 |
-| data_items | 45 |
+| data_items | 44 |
 | debug_toggle | 1 |
 | display_grid | 9 |
-| display_group | 80 |
+| display_group | 83 |
 | google_sign_in_button | 1 |
-| image | 50 |
+| image | 51 |
 | items | 16 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
@@ -28,13 +28,13 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2045 |
+| set_variable | 2044 |
 | simple_checkbox | 1 |
 | subtitle | 1 |
 | task_card | 11 |
 | task_progress_bar | 3 |
-| template | 649 |
-| text | 149 |
+| template | 648 |
+| text | 154 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 9 |
@@ -51,24 +51,25 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| auth | 1 |
+| auth | 4 |
 | emit: completed | 565 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 10 |
-| emit: force_restart | 4 |
-| emit: server_sync | 4 |
+| emit: force_reprocess | 11 |
+| emit: force_restart | 3 |
+| emit: server_sync | 6 |
 | emit: set_language | 1 |
 | emit: uncompleted | 554 |
 | feedback | 13 |
 | go_to | 23 |
 | nav | 1 |
 | nav_stack | 1 |
-| pop_up | 27 |
-| reset_app | 1 |
+| pop_up | 28 |
+| reset_app | 3 |
+| reset_data | 2 |
 | set_data | 1 |
-| set_field | 40 |
+| set_field | 36 |
 | set_item | 26 |
-| set_local | 31 |
+| set_local | 33 |
 | task | 3 |
 | user | 2 |
 </details>
@@ -1654,9 +1655,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 3 |
 | data_pipe | generated | 17 |
 | generator |  | 40 |
-| global |  | 3 |
+| global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 87 |
+| template |  | 88 |
 | template | generated | 554 |
 | template | legal_terms | 4 |
 </details>

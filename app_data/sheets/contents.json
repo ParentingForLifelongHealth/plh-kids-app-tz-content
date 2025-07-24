@@ -4206,6 +4206,12 @@
       "_xlsxPath": "app_menu.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
     },
+    "auth_globals": {
+      "flow_type": "global",
+      "flow_name": "auth_globals",
+      "_xlsxPath": "app_auth.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
+    },
     "deployment_global_tz": {
       "flow_type": "global",
       "flow_name": "deployment_global_tz",
@@ -4229,6 +4235,12 @@
     }
   },
   "template": {
+    "account": {
+      "flow_type": "template",
+      "flow_name": "account",
+      "_xlsxPath": "app_auth.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
+    },
     "activities": {
       "flow_type": "template",
       "flow_name": "activities",
@@ -4334,6 +4346,12 @@
       "flow_name": "comic_bubble",
       "_xlsxPath": "templates/modules/articles.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+    },
+    "delete_account_warning": {
+      "flow_type": "template",
+      "flow_name": "delete_account_warning",
+      "_xlsxPath": "app_auth.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
     },
     "enter_dev_mode": {
       "flow_type": "template",
@@ -7304,12 +7322,6 @@
       "flow_name": "library",
       "_xlsxPath": "templates/app_navigation.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
-    },
-    "login": {
-      "flow_type": "template",
-      "flow_name": "login",
-      "_xlsxPath": "app_menu.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
     },
     "media_transcript": {
       "flow_type": "template",
