@@ -103,66 +103,6 @@
           "tz_sw": true
         }
       }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "login",
-      "value": "Login",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "login_apple",
-      "value": "Sign in with Apple",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "login_google",
-      "value": "Sign in with Google",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "create_account_question",
-      "value": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "logout",
-      "value": "Logout",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "logged_in",
-      "value": "You are logged in.",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
     }
   ],
   "_xlsxPath": "app_menu.xlsx",
